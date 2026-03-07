@@ -1,0 +1,405 @@
+{
+  "grade": 4,
+  "setNumber": 2,
+  "words": [
+    "expedition",
+    "navigate",
+    "venture",
+    "terrain",
+    "investigate",
+    "excavate",
+    "inhabit",
+    "emerge",
+    "encounter",
+    "boundless",
+    "pioneer",
+    "destination"
+  ],
+  "sources": [
+    "Common Core Grade 4",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 4",
+    "CKLA Grade 4",
+    "Tier 2 Academic"
+  ],
+  "genre": "adventure exploration",
+  "story": {
+    "genre": "adventure exploration",
+    "characters": [
+      "Zara",
+      "Kai",
+      "Rohan"
+    ],
+    "parts": [
+      {
+        "title": "The Map in the Attic",
+        "text": "Zara found an old map rolled up in her grandmother's attic. It showed a path to a hidden cave deep in the Amber Mountains. She told her friends Kai and Rohan about an **expedition** to find it. Kai's **boundless** energy made him eager to go. Rohan agreed to **navigate** using the map's clues and compass markings."
+      },
+      {
+        "title": "Into the Wild",
+        "text": "The three friends set off at sunrise. The rocky **terrain** made walking difficult, but they kept moving. Zara was the first to **venture** down a steep hill covered in loose stones. Along the way, they stopped to **investigate** strange symbols carved into a large boulder. Rohan guessed that ancient travelers had once tried to **excavate** a shelter nearby."
+      },
+      {
+        "title": "The Hidden Cave",
+        "text": "After hours of hiking, they reached their **destination** — a moss-covered cave. As they stepped inside, they began to **encounter** glowing crystals along the walls. Kai noticed small bats that **inhabit** the ceiling, hanging upside down in rows. Deeper inside, sunlight broke through a crack, and a golden butterfly seemed to **emerge** from the light. Zara smiled and said she felt like a true **pioneer**, discovering something no one had seen in years."
+      },
+      {
+        "title": "The Journey Home",
+        "text": "The friends sat at the mouth of the cave and watched the sunset paint the sky orange and pink. They drew pictures of the crystals and the butterfly in Rohan's notebook. On the hike home, they promised to return next summer and explore even further. Some of the best adventures, they agreed, are the ones you share with good friends."
+      }
+    ],
+    "wordCount": 247
+  },
+  "definitions": [
+    {
+      "word": "expedition",
+      "partOfSpeech": "noun",
+      "meaning1": "A journey or trip taken for a special purpose, like exploring or studying something. Example: The scientists went on an expedition to study the birds of the rainforest.",
+      "meaning2": "",
+      "studentChallenge": "The class planned an ___ to the nature reserve to learn about local wildlife.",
+      "sentence": ""
+    },
+    {
+      "word": "navigate",
+      "partOfSpeech": "verb",
+      "meaning1": "To find your way or plan a route from one place to another. Example: The captain used the stars to navigate the ship across the ocean.",
+      "meaning2": "",
+      "studentChallenge": "We used a compass to ___ through the dense forest trail.",
+      "sentence": ""
+    },
+    {
+      "word": "venture",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To go somewhere that may be risky or unknown. Example: The explorers decided to venture deep into the jungle.",
+      "meaning2": "A risky or exciting project or journey. Example: Starting the lemonade stand was a fun business venture for the kids.",
+      "studentChallenge": "Only the bravest hikers dared to ___ across the swinging rope bridge.",
+      "sentence": ""
+    },
+    {
+      "word": "terrain",
+      "partOfSpeech": "noun",
+      "meaning1": "The natural features of an area of land, such as hills, rocks, or flat ground. Example: The mountain terrain was steep and covered with loose rocks.",
+      "meaning2": "",
+      "studentChallenge": "The bumpy ___ made it hard to ride a bicycle on the dirt path.",
+      "sentence": ""
+    },
+    {
+      "word": "investigate",
+      "partOfSpeech": "verb",
+      "meaning1": "To look into something carefully to find out the truth or learn more. Example: The detective went to investigate the strange noises coming from the old barn.",
+      "meaning2": "",
+      "studentChallenge": "The students decided to ___ why the plants in the garden were turning brown.",
+      "sentence": ""
+    },
+    {
+      "word": "excavate",
+      "partOfSpeech": "verb",
+      "meaning1": "To dig carefully in the ground to find something buried. Example: The team worked for weeks to excavate dinosaur bones from the rocky hillside.",
+      "meaning2": "",
+      "studentChallenge": "The archaeologists used small brushes to ___ the ancient pottery from the sand.",
+      "sentence": ""
+    },
+    {
+      "word": "inhabit",
+      "partOfSpeech": "verb",
+      "meaning1": "To live in a particular place. Example: Many colorful fish inhabit the coral reef near the island.",
+      "meaning2": "",
+      "studentChallenge": "Hundreds of different species ___ the Amazon rainforest.",
+      "sentence": ""
+    },
+    {
+      "word": "emerge",
+      "partOfSpeech": "verb",
+      "meaning1": "To come out from a hidden or enclosed place. Example: The butterfly began to emerge from its cocoon after two long weeks.",
+      "meaning2": "To become known or visible. Example: New facts about the mystery began to emerge during the investigation.",
+      "studentChallenge": "We watched the baby turtle ___ from the sand and crawl toward the ocean.",
+      "sentence": ""
+    },
+    {
+      "word": "encounter",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To unexpectedly meet or come across something. Example: On the trail, we were lucky to encounter a family of deer drinking from the stream.",
+      "meaning2": "An unexpected meeting. Example: Her encounter with the famous author at the bookstore was a wonderful surprise.",
+      "studentChallenge": "During the hike, we did not expect to ___ a waterfall hidden behind the trees.",
+      "sentence": ""
+    },
+    {
+      "word": "boundless",
+      "partOfSpeech": "adjective",
+      "meaning1": "Without limits; seeming to have no end. Example: The child's boundless curiosity led her to ask a hundred questions every day.",
+      "meaning2": "",
+      "studentChallenge": "Her ___ imagination helped her write the most creative stories in the class.",
+      "sentence": ""
+    },
+    {
+      "word": "pioneer",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A person who is among the first to explore or settle a new area. Example: The pioneer built a log cabin in the wilderness and started a new life.",
+      "meaning2": "To be one of the first to develop or use something new. Example: She helped pioneer a new way to recycle plastic into building materials.",
+      "studentChallenge": "The brave ___ traveled west in a covered wagon looking for new land to farm.",
+      "sentence": ""
+    },
+    {
+      "word": "destination",
+      "partOfSpeech": "noun",
+      "meaning1": "The place where someone is going or where something is being sent. Example: After a long car ride, we finally arrived at our destination — the beach!",
+      "meaning2": "",
+      "studentChallenge": "Our ___ was the top of the mountain, and we could see it from far away.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The scientists organized an _______ to study the wildlife in the deep jungle.",
+      "sentence2": "Lewis and Clark led a famous _______ across the western part of North America.",
+      "options": ["terrain", "expedition", "destination", "venture"],
+      "correctIndex": 1,
+      "correctAnswer": "expedition"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The rocky _______ made it almost impossible to drive the truck up the mountain.",
+      "sentence2": "The flat, sandy _______ of the desert stretched as far as the eye could see.",
+      "options": ["terrain", "destination", "pioneer", "encounter"],
+      "correctIndex": 0,
+      "correctAnswer": "terrain"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The pilot had to _______ through thick fog to land the plane safely.",
+      "sentence2": "She used a map and compass to _______ through the winding forest trails.",
+      "options": ["excavate", "emerge", "navigate", "inhabit"],
+      "correctIndex": 2,
+      "correctAnswer": "navigate"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The archaeologists began to _______ the ancient ruins buried beneath the sand.",
+      "sentence2": "Workers had to _______ a deep hole before they could build the new swimming pool.",
+      "options": ["investigate", "venture", "encounter", "excavate"],
+      "correctIndex": 3,
+      "correctAnswer": "excavate"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The child had _______ energy and never seemed to get tired of running around the playground.",
+      "sentence2": "Looking out from the mountaintop, the view of the _______ sky took their breath away.",
+      "options": ["boundless", "pioneer", "expedition", "terrain"],
+      "correctIndex": 0,
+      "correctAnswer": "boundless"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Only the bravest explorers would _______ into the dark cave without a flashlight.",
+      "sentence2": "Starting a pet-sitting business was an exciting _______ for the group of friends.",
+      "options": ["navigate", "inhabit", "venture", "emerge"],
+      "correctIndex": 2,
+      "correctAnswer": "venture"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The detective went to _______ the strange footprints found near the old barn.",
+      "sentence2": "The students wanted to _______ why the school garden wasn't growing as well this year.",
+      "options": ["encounter", "investigate", "excavate", "pioneer"],
+      "correctIndex": 1,
+      "correctAnswer": "investigate"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "After three hours on the road, they finally reached their _______ — a cozy cabin by the lake.",
+      "sentence2": "The treasure map showed that the final _______ was marked with a big red X.",
+      "options": ["destination", "terrain", "expedition", "boundless"],
+      "correctIndex": 0,
+      "correctAnswer": "destination"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Many kinds of birds _______ the tall trees along the riverbank.",
+      "sentence2": "Thousands of penguins _______ the icy shores of Antarctica.",
+      "options": ["emerge", "navigate", "venture", "inhabit"],
+      "correctIndex": 3,
+      "correctAnswer": "inhabit"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The sun began to _______ from behind the dark clouds after the rainstorm passed.",
+      "sentence2": "A tiny frog seemed to _______ from under the wet leaves near the pond.",
+      "options": ["encounter", "excavate", "investigate", "emerge"],
+      "correctIndex": 3,
+      "correctAnswer": "emerge"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "On the nature walk, the students were thrilled to _______ a family of foxes near the trail.",
+      "sentence2": "She did not expect to _______ her favorite author at the local bookshop.",
+      "options": ["encounter", "pioneer", "navigate", "expedition"],
+      "correctIndex": 0,
+      "correctAnswer": "encounter"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "She was a _______ in the field of space travel, helping to design the first rockets.",
+      "sentence2": "The brave _______ traveled across the plains in a covered wagon to build a new home.",
+      "options": ["destination", "terrain", "pioneer", "boundless"],
+      "correctIndex": 2,
+      "correctAnswer": "pioneer"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "expedition",
+      "navigate",
+      "venture",
+      "terrain",
+      "investigate",
+      "excavate",
+      "inhabit",
+      "emerge",
+      "encounter",
+      "boundless",
+      "pioneer",
+      "destination"
+    ],
+    "passage": "Last summer, three friends set out on an _(1)_ to explore the old Silver Canyon. They had heard stories about ancient people who used to _(2)_ the caves there long ago. With a hand-drawn map, they tried to _(3)_ the winding trails that led through the hills.\n\nThe _(4)_ was rough and uneven, covered with sharp rocks and thick bushes. Still, they decided to _(5)_ further into the canyon. Along the way, they stopped to _(6)_ a set of unusual markings scratched into a cliff wall. Rohan believed that someone had once tried to _(7)_ tools and pottery from the hard ground below.\n\nDeep in the canyon, they had a surprising _(8)_ with a golden eagle soaring above them. Moments later, a small lizard seemed to _(9)_ from a crack in the warm rock. Zara felt like a true _(10)_, walking where few people had been before. Kai's _(11)_ excitement kept the group's energy high the entire trip. By late afternoon, they reached their _(12)_ — a sparkling waterfall hidden at the very end of the canyon.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "expedition",
+        "options": ["venture", "expedition", "terrain", "pioneer"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "inhabit",
+        "options": ["excavate", "inhabit", "navigate", "emerge"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "navigate",
+        "options": ["investigate", "encounter", "navigate", "destination"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "terrain",
+        "options": ["terrain", "boundless", "expedition", "venture"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "venture",
+        "options": ["pioneer", "excavate", "venture", "inhabit"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "investigate",
+        "options": ["navigate", "investigate", "emerge", "encounter"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "excavate",
+        "options": ["destination", "terrain", "excavate", "boundless"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "encounter",
+        "options": ["encounter", "expedition", "pioneer", "inhabit"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "emerge",
+        "options": ["venture", "investigate", "emerge", "navigate"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "pioneer",
+        "options": ["pioneer", "terrain", "destination", "excavate"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "boundless",
+        "options": ["expedition", "boundless", "encounter", "inhabit"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "destination",
+        "options": ["emerge", "destination", "venture", "navigate"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "venture",
+        "scale": ["Walk", "Explore", "Venture"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "boundless",
+        "scale": ["Limited", "Large", "Boundless"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "investigate",
+        "scale": ["Glance", "Look", "Investigate"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "emerge",
+        "scale": ["Peek", "Appear", "Emerge"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "expedition",
+        "words": ["Journey", "Trek", "Voyage", "Standstill"],
+        "imposterIndex": 3,
+        "imposterWord": "Standstill"
+      },
+      {
+        "vocabWord": "navigate",
+        "words": ["Wander", "Steer", "Guide", "Direct"],
+        "imposterIndex": 0,
+        "imposterWord": "Wander"
+      },
+      {
+        "vocabWord": "terrain",
+        "words": ["Landscape", "Ground", "Surface", "Sky"],
+        "imposterIndex": 3,
+        "imposterWord": "Sky"
+      },
+      {
+        "vocabWord": "excavate",
+        "words": ["Dig", "Unearth", "Uncover", "Bury"],
+        "imposterIndex": 3,
+        "imposterWord": "Bury"
+      },
+      {
+        "vocabWord": "inhabit",
+        "words": ["Reside", "Dwell", "Occupy", "Abandon"],
+        "imposterIndex": 3,
+        "imposterWord": "Abandon"
+      },
+      {
+        "vocabWord": "encounter",
+        "words": ["Avoid", "Meet", "Discover", "Find"],
+        "imposterIndex": 0,
+        "imposterWord": "Avoid"
+      },
+      {
+        "vocabWord": "pioneer",
+        "words": ["Explorer", "Trailblazer", "Settler", "Follower"],
+        "imposterIndex": 3,
+        "imposterWord": "Follower"
+      },
+      {
+        "vocabWord": "destination",
+        "words": ["Endpoint", "Goal", "Target", "Origin"],
+        "imposterIndex": 3,
+        "imposterWord": "Origin"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

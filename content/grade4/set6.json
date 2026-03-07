@@ -1,0 +1,401 @@
+{
+  "grade": 4,
+  "setNumber": 6,
+  "words": [
+    "hypothesis",
+    "calculate",
+    "accumulate",
+    "classify",
+    "specimen",
+    "analyze",
+    "conclude",
+    "demonstrate",
+    "laboratory",
+    "accurate",
+    "data",
+    "significant"
+  ],
+  "sources": [
+    "Common Core Grade 4",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 4",
+    "CKLA Grade 4",
+    "Tier 2 Academic"
+  ],
+  "genre": "science fair adventure",
+  "story": {
+    "genre": "science fair adventure",
+    "characters": ["Leo", "Amara", "Jin"],
+    "parts": [
+      {
+        "title": "The Big Idea",
+        "text": "Leo had a bold **hypothesis** for the school science fair: plants watered with music playing nearby would grow taller than plants kept in complete silence. Amara offered to help him **calculate** exactly how much water each plant would need every single day. Jin said he would **accumulate** all the supplies they needed, gathering pots, soil, and seeds from around the neighborhood."
+      },
+      {
+        "title": "Setting Up",
+        "text": "The three friends set up their experiment in the school **laboratory** after classes ended. They had to **classify** each seedling by type and size so the test would be fair. Jin placed a tiny leaf **specimen** under the microscope to check for any early signs of growth. Amara reminded them to keep all their measurements **accurate** so that no one could question the results."
+      },
+      {
+        "title": "Results Day",
+        "text": "After three weeks of careful observation, the team was ready to **analyze** their results. The **data** showed that the music group grew two inches taller on average. \"This is a **significant** difference,\" Amara said with real excitement. Leo used colorful charts to **demonstrate** the findings to the judges, and together they could **conclude** that music did truly seem to help plants grow."
+      },
+      {
+        "title": "Proud Scientists",
+        "text": "The judges awarded Leo, Amara, and Jin second place at the science fair. Even though they did not win first, the whole team felt proud of the hard work they had done together. They learned that good science takes patience, teamwork, and a willingness to follow the evidence wherever it leads."
+      }
+    ],
+    "wordCount": 238
+  },
+  "definitions": [
+    {
+      "word": "hypothesis",
+      "partOfSpeech": "noun",
+      "meaning1": "An educated guess or idea that you can test with an experiment. Example: Her hypothesis was that sugar water would make flowers last longer in a vase.",
+      "meaning2": "",
+      "studentChallenge": "Before starting the experiment, the scientist wrote down her ___.",
+      "sentence": ""
+    },
+    {
+      "word": "calculate",
+      "partOfSpeech": "verb",
+      "meaning1": "To figure out a number or amount by using math. Example: She used a ruler to calculate the length of the classroom.",
+      "meaning2": "",
+      "studentChallenge": "We need to ___ how many buses are required for the field trip.",
+      "sentence": ""
+    },
+    {
+      "word": "accumulate",
+      "partOfSpeech": "verb",
+      "meaning1": "To gather or collect something over time. Example: Dust will accumulate on the shelf if you do not clean it every week.",
+      "meaning2": "",
+      "studentChallenge": "Snow began to ___ on the ground throughout the long winter night.",
+      "sentence": ""
+    },
+    {
+      "word": "classify",
+      "partOfSpeech": "verb",
+      "meaning1": "To put things into groups based on what they have in common. Example: Scientists classify animals into groups such as mammals, reptiles, and birds.",
+      "meaning2": "",
+      "studentChallenge": "The librarian helped us ___ the books by subject and author.",
+      "sentence": ""
+    },
+    {
+      "word": "specimen",
+      "partOfSpeech": "noun",
+      "meaning1": "A sample or example of something, often used for study or testing. Example: The scientist carefully placed the rock specimen under the microscope.",
+      "meaning2": "",
+      "studentChallenge": "The museum displayed a rare butterfly ___ behind a glass case.",
+      "sentence": ""
+    },
+    {
+      "word": "analyze",
+      "partOfSpeech": "verb",
+      "meaning1": "To look at something carefully to understand it or find out what it means. Example: The detective had to analyze the clues before solving the mystery.",
+      "meaning2": "",
+      "studentChallenge": "The teacher asked us to ___ the poem and explain what the author meant.",
+      "sentence": ""
+    },
+    {
+      "word": "conclude",
+      "partOfSpeech": "verb",
+      "meaning1": "To decide something after thinking about all the facts. Example: After reading the evidence, the jury was ready to conclude that the man was innocent.",
+      "meaning2": "To bring something to an end. Example: The principal stood up to conclude the assembly with a short speech.",
+      "studentChallenge": "Based on our experiment, we can ___ that plants need sunlight to grow.",
+      "sentence": ""
+    },
+    {
+      "word": "demonstrate",
+      "partOfSpeech": "verb",
+      "meaning1": "To show how something works or how to do something. Example: The chef will demonstrate how to make pasta from scratch.",
+      "meaning2": "",
+      "studentChallenge": "The firefighter came to school to ___ how to use a fire extinguisher.",
+      "sentence": ""
+    },
+    {
+      "word": "laboratory",
+      "partOfSpeech": "noun",
+      "meaning1": "A room or building with special equipment used for scientific experiments. Example: The students wore safety goggles when they entered the science laboratory.",
+      "meaning2": "",
+      "studentChallenge": "The scientist spent hours in the ___ testing different mixtures.",
+      "sentence": ""
+    },
+    {
+      "word": "accurate",
+      "partOfSpeech": "adjective",
+      "meaning1": "Correct and free from mistakes. Example: Make sure your spelling is accurate before you turn in the test.",
+      "meaning2": "",
+      "studentChallenge": "The weather forecast was ___, and it rained exactly when they said it would.",
+      "sentence": ""
+    },
+    {
+      "word": "data",
+      "partOfSpeech": "noun",
+      "meaning1": "Facts, numbers, or information collected for study. Example: The students recorded their data in a chart after each day of the experiment.",
+      "meaning2": "",
+      "studentChallenge": "We collected ___ by measuring the temperature every hour.",
+      "sentence": ""
+    },
+    {
+      "word": "significant",
+      "partOfSpeech": "adjective",
+      "meaning1": "Important or large enough to be noticed or to matter. Example: There was a significant improvement in her test scores after she started studying every night.",
+      "meaning2": "",
+      "studentChallenge": "The discovery of the ancient fossil was a ___ moment for the team.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Her _______ was that plants watered with warm water would sprout faster than those given cold water.",
+      "sentence2": "Before doing the experiment, the student wrote her _______ on the board for the class to see.",
+      "options": ["data", "hypothesis", "specimen", "laboratory"],
+      "correctIndex": 1,
+      "correctAnswer": "hypothesis"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "She used multiplication to _______ how many tiles were needed to cover the floor.",
+      "sentence2": "It took him a few minutes to _______ the total cost of all the supplies on the list.",
+      "options": ["analyze", "demonstrate", "calculate", "conclude"],
+      "correctIndex": 2,
+      "correctAnswer": "calculate"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Leaves began to _______ in the gutter after several windy autumn days.",
+      "sentence2": "If you save a little each week, your coins will _______ into a nice amount by summer.",
+      "options": ["classify", "accumulate", "accurate", "significant"],
+      "correctIndex": 1,
+      "correctAnswer": "accumulate"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The teacher asked students to _______ the shapes into groups based on the number of sides.",
+      "sentence2": "Scientists _______ rocks as igneous, sedimentary, or metamorphic.",
+      "options": ["classify", "calculate", "conclude", "accumulate"],
+      "correctIndex": 0,
+      "correctAnswer": "classify"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The biologist collected a soil _______ from the forest floor to study under a microscope.",
+      "sentence2": "Each _______ in the museum was labeled with its name, age, and the place it was found.",
+      "options": ["data", "laboratory", "hypothesis", "specimen"],
+      "correctIndex": 3,
+      "correctAnswer": "specimen"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The detective needed time to _______ all the fingerprints found at the scene.",
+      "sentence2": "We had to _______ the graph carefully to understand what the numbers were telling us.",
+      "options": ["demonstrate", "analyze", "accumulate", "classify"],
+      "correctIndex": 1,
+      "correctAnswer": "analyze"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "After reviewing all the evidence, the scientist was ready to _______ that the experiment was a success.",
+      "sentence2": "The speaker paused to _______ her presentation with one final thought.",
+      "options": ["conclude", "calculate", "hypothesis", "accurate"],
+      "correctIndex": 0,
+      "correctAnswer": "conclude"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The magician was eager to _______ his newest trick in front of the whole school.",
+      "sentence2": "The coach used a whiteboard to _______ the new play so every player understood it.",
+      "options": ["significant", "specimen", "analyze", "demonstrate"],
+      "correctIndex": 3,
+      "correctAnswer": "demonstrate"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Students must wear goggles whenever they work in the science _______.",
+      "sentence2": "The new _______ at the university had the latest equipment for chemistry research.",
+      "options": ["laboratory", "data", "hypothesis", "specimen"],
+      "correctIndex": 0,
+      "correctAnswer": "laboratory"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Double-check your answers to make sure they are _______.",
+      "sentence2": "The _______ map helped the hikers find the trail without getting lost.",
+      "options": ["significant", "accurate", "conclude", "classify"],
+      "correctIndex": 1,
+      "correctAnswer": "accurate"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The team recorded their _______ in a chart after each round of testing.",
+      "sentence2": "Without enough _______, the scientist could not draw any firm conclusions.",
+      "options": ["data", "laboratory", "demonstrate", "accumulate"],
+      "correctIndex": 0,
+      "correctAnswer": "data"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The discovery of water on Mars was a _______ event in space exploration.",
+      "sentence2": "There was a _______ drop in temperature overnight, causing the roads to freeze.",
+      "options": ["accurate", "hypothesis", "significant", "calculate"],
+      "correctIndex": 2,
+      "correctAnswer": "significant"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "hypothesis",
+      "calculate",
+      "accumulate",
+      "classify",
+      "specimen",
+      "analyze",
+      "conclude",
+      "demonstrate",
+      "laboratory",
+      "accurate",
+      "data",
+      "significant"
+    ],
+    "passage": "Leo, Amara, and Jin were thrilled when their teacher announced a class trip to the city science center. The first stop was the _(1)_, where real scientists showed them how to use microscopes and test tubes. A researcher handed each student a tiny rock _(2)_ to examine up close.\n\n\"Before you begin, form a _(3)_ about what type of rock you think it is,\" the researcher said. The students also had to _(4)_ their rocks into groups based on color, texture, and weight. Amara used a small scale to _(5)_ the exact weight of each sample so her numbers would be _(6)_.\n\nAs the day went on, the group began to _(7)_ a large collection of notes and drawings. Jin offered to _(8)_ the results by comparing the measurements side by side. The researcher returned and asked Leo to _(9)_ his group's findings to the rest of the class. He pointed to their chart full of _(10)_ and explained each column clearly.\n\n\"Your work shows a _(11)_ difference between igneous and sedimentary rocks,\" the researcher said with a smile. She told them they could now _(12)_ that hands-on science is one of the best ways to learn.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "laboratory",
+        "options": ["laboratory", "specimen", "data", "hypothesis"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "specimen",
+        "options": ["specimen", "classify", "accumulate", "significant"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "hypothesis",
+        "options": ["hypothesis", "data", "laboratory", "conclude"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "classify",
+        "options": ["classify", "calculate", "demonstrate", "analyze"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "calculate",
+        "options": ["accumulate", "calculate", "conclude", "hypothesis"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "accurate",
+        "options": ["significant", "accurate", "specimen", "data"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "accumulate",
+        "options": ["accumulate", "demonstrate", "classify", "laboratory"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "analyze",
+        "options": ["conclude", "analyze", "calculate", "accurate"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "demonstrate",
+        "options": ["demonstrate", "accumulate", "hypothesis", "significant"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "data",
+        "options": ["data", "specimen", "laboratory", "classify"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "significant",
+        "options": ["accurate", "significant", "conclude", "calculate"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "conclude",
+        "options": ["conclude", "analyze", "demonstrate", "accumulate"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "hypothesis",
+        "scale": ["Guess", "Hypothesis", "Proof"],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "accurate",
+        "scale": ["Close", "Accurate", "Exact"],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "significant",
+        "scale": ["Minor", "Noticeable", "Significant"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "analyze",
+        "scale": ["Glance", "Study", "Analyze"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "accumulate",
+        "words": ["Gather", "Collect", "Scatter", "Pile"],
+        "imposterIndex": 2,
+        "imposterWord": "Scatter"
+      },
+      {
+        "vocabWord": "classify",
+        "words": ["Sort", "Group", "Jumble", "Organize"],
+        "imposterIndex": 2,
+        "imposterWord": "Jumble"
+      },
+      {
+        "vocabWord": "demonstrate",
+        "words": ["Show", "Display", "Present", "Conceal"],
+        "imposterIndex": 3,
+        "imposterWord": "Conceal"
+      },
+      {
+        "vocabWord": "conclude",
+        "words": ["Begin", "Finish", "Decide", "Determine"],
+        "imposterIndex": 0,
+        "imposterWord": "Begin"
+      },
+      {
+        "vocabWord": "calculate",
+        "words": ["Compute", "Figure", "Measure", "Ignore"],
+        "imposterIndex": 3,
+        "imposterWord": "Ignore"
+      },
+      {
+        "vocabWord": "specimen",
+        "words": ["Sample", "Example", "Whole", "Piece"],
+        "imposterIndex": 2,
+        "imposterWord": "Whole"
+      },
+      {
+        "vocabWord": "data",
+        "words": ["Facts", "Figures", "Records", "Opinions"],
+        "imposterIndex": 3,
+        "imposterWord": "Opinions"
+      },
+      {
+        "vocabWord": "laboratory",
+        "words": ["Workshop", "Playground", "Studio", "Facility"],
+        "imposterIndex": 1,
+        "imposterWord": "Playground"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

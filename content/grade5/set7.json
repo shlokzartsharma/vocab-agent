@@ -1,0 +1,405 @@
+{
+  "grade": 5,
+  "setNumber": 7,
+  "words": [
+    "citadel",
+    "monumental",
+    "obelisk",
+    "colonnade",
+    "antiquity",
+    "curator",
+    "meander",
+    "renowned",
+    "aqueduct",
+    "mosaic",
+    "facade",
+    "rampart"
+  ],
+  "sources": [
+    "Common Core Grade 5",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 5",
+    "CKLA Grade 5",
+    "Tier 2 Academic"
+  ],
+  "genre": "archaeological expedition",
+  "story": {
+    "genre": "archaeological expedition",
+    "characters": [
+      "Idris",
+      "Catalina",
+      "Wen"
+    ],
+    "parts": [
+      {
+        "title": "The Discovery",
+        "text": "Idris, Catalina, and Wen had waited months for their expedition to begin. Their team traveled deep into the desert to study a lost city from **antiquity**, a place unseen for over two thousand years. The first structure they noticed was a towering **obelisk** rising like a stone needle against the sky. Catalina spotted pillars forming a **colonnade** that once lined the main road."
+      },
+      {
+        "title": "Inside the Walls",
+        "text": "Wen pointed to the thick stone **rampart** that had protected the city from invaders. Beyond it stood a massive **citadel** where ancient rulers once lived. The team's **curator**, Dr. Bashir, explained that every artifact would be preserved in a museum. Idris noticed a beautiful **mosaic** on the floor, made from thousands of tiny colored tiles forming a lion."
+      },
+      {
+        "title": "Exploring Further",
+        "text": "The group began to **meander** through the narrow streets, following wherever the paths led. They admired the carved **facade** of a temple, its front wall covered in sculptures. Catalina sketched a **monumental** stone archway so enormous it dwarfed everyone beneath it. Wen photographed a long **aqueduct** that once carried water across the valley. Dr. Bashir said the site would make their team **renowned** worldwide."
+      },
+      {
+        "title": "A Lasting Impression",
+        "text": "As the sun set, the three friends sat on a low wall and gazed across the ancient city. Catalina said that standing here made history feel alive rather than just words in a textbook. Idris agreed, adding that the builders must have been incredibly skilled. Wen smiled and promised to return one day to continue the work."
+      }
+    ],
+    "wordCount": 242
+  },
+  "definitions": [
+    {
+      "word": "citadel",
+      "partOfSpeech": "noun",
+      "meaning1": "A fortress or stronghold, especially one on high ground protecting a city. Example: The ancient citadel overlooked the entire valley below.",
+      "meaning2": "",
+      "studentChallenge": "The soldiers retreated behind the walls of the ___ when the enemy attacked.",
+      "sentence": ""
+    },
+    {
+      "word": "monumental",
+      "partOfSpeech": "adjective",
+      "meaning1": "Extremely large, impressive, or important. Example: Building the Great Wall of China was a monumental achievement.",
+      "meaning2": "Relating to a monument. Example: The monumental statue honored the heroes of the past.",
+      "studentChallenge": "The new bridge was a ___ structure that took ten years to build.",
+      "sentence": ""
+    },
+    {
+      "word": "obelisk",
+      "partOfSpeech": "noun",
+      "meaning1": "A tall, four-sided stone pillar that narrows to a point at the top. Example: The obelisk in the center of the square was carved from a single piece of granite.",
+      "meaning2": "",
+      "studentChallenge": "The ancient ___ stood like a giant stone needle pointing toward the sky.",
+      "sentence": ""
+    },
+    {
+      "word": "colonnade",
+      "partOfSpeech": "noun",
+      "meaning1": "A row of columns supporting a roof or standing as a decoration. Example: The colonnade along the front of the museum gave it a grand, classical look.",
+      "meaning2": "",
+      "studentChallenge": "We walked beneath the tall ___ of marble pillars that lined the entrance.",
+      "sentence": ""
+    },
+    {
+      "word": "antiquity",
+      "partOfSpeech": "noun",
+      "meaning1": "The ancient past, especially the period of Greek and Roman civilization. Example: Many of the world's greatest inventions date back to antiquity.",
+      "meaning2": "An object from the ancient past. Example: The museum displayed rare antiquities from Egypt.",
+      "studentChallenge": "The ruins of the temple date back to ___, thousands of years ago.",
+      "sentence": ""
+    },
+    {
+      "word": "curator",
+      "partOfSpeech": "noun",
+      "meaning1": "A person in charge of a museum, gallery, or collection. Example: The curator carefully arranged the dinosaur bones for the new exhibit.",
+      "meaning2": "",
+      "studentChallenge": "The ___ of the art gallery selected paintings from around the world.",
+      "sentence": ""
+    },
+    {
+      "word": "meander",
+      "partOfSpeech": "verb",
+      "meaning1": "To follow a winding path without hurrying toward a specific destination. Example: We liked to meander through the park on lazy Sunday afternoons.",
+      "meaning2": "",
+      "studentChallenge": "The river would ___ slowly through the meadow, curving back and forth.",
+      "sentence": ""
+    },
+    {
+      "word": "renowned",
+      "partOfSpeech": "adjective",
+      "meaning1": "Famous and admired by many people. Example: The renowned scientist won the Nobel Prize for her discoveries.",
+      "meaning2": "",
+      "studentChallenge": "The chef was ___ for making the best pasta in the entire country.",
+      "sentence": ""
+    },
+    {
+      "word": "aqueduct",
+      "partOfSpeech": "noun",
+      "meaning1": "A bridge-like structure built to carry water over long distances. Example: The Romans built a stone aqueduct to bring fresh water into the city.",
+      "meaning2": "",
+      "studentChallenge": "The ancient ___ carried water from the mountains to the village below.",
+      "sentence": ""
+    },
+    {
+      "word": "mosaic",
+      "partOfSpeech": "noun",
+      "meaning1": "A picture or pattern made from small pieces of colored stone, glass, or tile. Example: The mosaic on the church ceiling showed a beautiful scene of the night sky.",
+      "meaning2": "",
+      "studentChallenge": "The artist created a stunning ___ using hundreds of tiny glass pieces.",
+      "sentence": ""
+    },
+    {
+      "word": "facade",
+      "partOfSpeech": "noun",
+      "meaning1": "The front of a building, especially one that is decorative. Example: The facade of the old theater was covered with carved flowers and angels.",
+      "meaning2": "A false appearance or way of behaving that hides the truth. Example: She put on a brave facade even though she was nervous inside.",
+      "studentChallenge": "The ___ of the library was made of white stone with tall columns on each side.",
+      "sentence": ""
+    },
+    {
+      "word": "rampart",
+      "partOfSpeech": "noun",
+      "meaning1": "A thick wall built around a castle or city for protection. Example: Soldiers stood guard along the rampart, watching for approaching enemies.",
+      "meaning2": "",
+      "studentChallenge": "The stone ___ around the fortress was ten feet thick and impossible to break through.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The ancient _______ overlooked the entire valley and kept the city safe from invaders.",
+      "sentence2": "The king retreated to the _______ on the hilltop when the enemy forces arrived.",
+      "options": ["rampart", "citadel", "obelisk", "colonnade"],
+      "correctIndex": 1,
+      "correctAnswer": "citadel"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Building the Panama Canal was a _______ engineering achievement that took decades to finish.",
+      "sentence2": "The _______ statue of the president towered over the town square at nearly forty feet tall.",
+      "options": ["renowned", "monumental", "antiquity", "facade"],
+      "correctIndex": 1,
+      "correctAnswer": "monumental"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The tall stone _______ in the park was carved from a single block of granite.",
+      "sentence2": "An Egyptian _______ covered in hieroglyphics now stands in the middle of a London plaza.",
+      "options": ["aqueduct", "mosaic", "obelisk", "rampart"],
+      "correctIndex": 2,
+      "correctAnswer": "obelisk"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "A long _______ of white marble pillars stretched across the front of the government building.",
+      "sentence2": "Visitors walked through the shaded _______ to escape the afternoon heat.",
+      "options": ["colonnade", "citadel", "facade", "aqueduct"],
+      "correctIndex": 0,
+      "correctAnswer": "colonnade"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Many great inventions and ideas can be traced all the way back to _______.",
+      "sentence2": "The vase was a priceless treasure from _______, believed to be over three thousand years old.",
+      "options": ["curator", "mosaic", "antiquity", "rampart"],
+      "correctIndex": 2,
+      "correctAnswer": "antiquity"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The museum _______ carefully chose which paintings would be displayed in the new exhibit.",
+      "sentence2": "As the _______ of the collection, she decided how every artifact should be preserved.",
+      "options": ["curator", "renowned", "facade", "citadel"],
+      "correctIndex": 0,
+      "correctAnswer": "curator"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "We decided to _______ through the old town, exploring each narrow street without a map.",
+      "sentence2": "The stream would _______ lazily through the meadow, bending and curving around the wildflowers.",
+      "options": ["meander", "monumental", "colonnade", "rampart"],
+      "correctIndex": 0,
+      "correctAnswer": "meander"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The _______ chef was invited to cook for presidents and kings around the world.",
+      "sentence2": "She became _______ for her groundbreaking research on ancient civilizations.",
+      "options": ["monumental", "renowned", "antiquity", "mosaic"],
+      "correctIndex": 1,
+      "correctAnswer": "renowned"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The Romans built an enormous _______ to carry water from the mountains into the heart of the city.",
+      "sentence2": "Parts of the ancient _______ still stand today, its stone arches stretching across the valley.",
+      "options": ["obelisk", "rampart", "aqueduct", "colonnade"],
+      "correctIndex": 2,
+      "correctAnswer": "aqueduct"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The _______ on the chapel floor was made from thousands of tiny pieces of colored glass.",
+      "sentence2": "Students created a _______ of their school mascot using small squares of painted paper.",
+      "options": ["facade", "mosaic", "citadel", "curator"],
+      "correctIndex": 1,
+      "correctAnswer": "mosaic"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The ornate _______ of the cathedral was decorated with dozens of carved stone figures.",
+      "sentence2": "Behind the cheerful _______ of the old building, the walls were crumbling and in need of repair.",
+      "options": ["facade", "obelisk", "meander", "antiquity"],
+      "correctIndex": 0,
+      "correctAnswer": "facade"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Guards patrolled the thick stone _______ that circled the entire castle.",
+      "sentence2": "The _______ was built so wide that two horses could ride side by side along its top.",
+      "options": ["colonnade", "citadel", "mosaic", "rampart"],
+      "correctIndex": 3,
+      "correctAnswer": "rampart"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "citadel",
+      "monumental",
+      "obelisk",
+      "colonnade",
+      "antiquity",
+      "curator",
+      "meander",
+      "renowned",
+      "aqueduct",
+      "mosaic",
+      "facade",
+      "rampart"
+    ],
+    "passage": "Dr. Reyes was a _(1)_ archaeologist known across the globe for her discoveries. She had spent her career studying the wonders of _(2)_, and now she stood before the greatest find of all — an entire lost city buried beneath the sand.\n\nThe first thing her team uncovered was a tall _(3)_ that pointed toward the sky like a giant stone finger. Next, they brushed away the dust to reveal a beautiful _(4)_ on a temple floor, its tiny colored tiles forming the image of a golden sun. A long _(5)_ of pillars still stood along what had once been the main avenue.\n\nAs the dig continued, they found a thick _(6)_ that had once protected the city from attack. Behind it rose a mighty _(7)_ perched on the highest hill, where the rulers had once lived. The carved _(8)_ of the palace was still covered in detailed sculptures of birds and vines.\n\nDr. Reyes liked to _(9)_ through the ruins slowly, imagining life as it had been centuries ago. Her team also discovered a stone _(10)_ that had carried water from a distant river into the city. The find was truly _(11)_ — nothing this large had ever been uncovered before. The museum _(12)_ who arrived the following week agreed that these treasures would fill an entire wing of the national museum.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "renowned",
+        "options": ["renowned", "monumental", "curator", "meander"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "antiquity",
+        "options": ["facade", "antiquity", "rampart", "obelisk"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "obelisk",
+        "options": ["colonnade", "citadel", "obelisk", "mosaic"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "mosaic",
+        "options": ["mosaic", "rampart", "aqueduct", "facade"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "colonnade",
+        "options": ["obelisk", "colonnade", "citadel", "antiquity"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "rampart",
+        "options": ["aqueduct", "facade", "rampart", "renowned"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "citadel",
+        "options": ["citadel", "colonnade", "monumental", "meander"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "facade",
+        "options": ["mosaic", "facade", "obelisk", "curator"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "meander",
+        "options": ["meander", "renowned", "rampart", "antiquity"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "aqueduct",
+        "options": ["colonnade", "citadel", "aqueduct", "mosaic"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "monumental",
+        "options": ["curator", "monumental", "obelisk", "facade"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "curator",
+        "options": ["antiquity", "rampart", "curator", "meander"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "monumental",
+        "scale": ["Small", "Large", "Monumental"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "renowned",
+        "scale": ["Unknown", "Known", "Renowned"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "meander",
+        "scale": ["Meander", "Walk", "Sprint"],
+        "vocabPosition": 0
+      },
+      {
+        "vocabWord": "antiquity",
+        "scale": ["Antiquity", "History", "Recent"],
+        "vocabPosition": 0
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "citadel",
+        "words": ["Fortress", "Stronghold", "Castle", "Cottage"],
+        "imposterIndex": 3,
+        "imposterWord": "Cottage"
+      },
+      {
+        "vocabWord": "monumental",
+        "words": ["Tiny", "Enormous", "Impressive", "Grand"],
+        "imposterIndex": 0,
+        "imposterWord": "Tiny"
+      },
+      {
+        "vocabWord": "renowned",
+        "words": ["Famous", "Celebrated", "Unknown", "Admired"],
+        "imposterIndex": 2,
+        "imposterWord": "Unknown"
+      },
+      {
+        "vocabWord": "meander",
+        "words": ["Wander", "Stroll", "Roam", "Rush"],
+        "imposterIndex": 3,
+        "imposterWord": "Rush"
+      },
+      {
+        "vocabWord": "facade",
+        "words": ["Front", "Surface", "Interior", "Exterior"],
+        "imposterIndex": 2,
+        "imposterWord": "Interior"
+      },
+      {
+        "vocabWord": "rampart",
+        "words": ["Wall", "Barrier", "Opening", "Fortification"],
+        "imposterIndex": 2,
+        "imposterWord": "Opening"
+      },
+      {
+        "vocabWord": "mosaic",
+        "words": ["Collage", "Blank", "Pattern", "Design"],
+        "imposterIndex": 1,
+        "imposterWord": "Blank"
+      },
+      {
+        "vocabWord": "antiquity",
+        "words": ["Ancient", "Old", "Historic", "Modern"],
+        "imposterIndex": 3,
+        "imposterWord": "Modern"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

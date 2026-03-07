@@ -1,0 +1,405 @@
+{
+  "grade": 4,
+  "setNumber": 8,
+  "words": [
+    "hazard",
+    "obstacle",
+    "endurance",
+    "treacherous",
+    "haven",
+    "sanctuary",
+    "forsaken",
+    "pursuit",
+    "descend",
+    "ascend",
+    "rugged",
+    "companion"
+  ],
+  "sources": [
+    "Common Core Grade 4",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 4",
+    "CKLA Grade 4",
+    "Tier 2 Academic"
+  ],
+  "genre": "mountain expedition",
+  "story": {
+    "genre": "mountain expedition",
+    "characters": [
+      "Lena",
+      "Tomas",
+      "Yuki"
+    ],
+    "parts": [
+      {
+        "title": "Base Camp",
+        "text": "Lena, Tomas, and Yuki stood at the base of Frost Peak, the tallest mountain in the region. The trail ahead looked **rugged** and wild, with sharp rocks and tangled roots everywhere. Their guide warned them about every **hazard** they might face, from falling boulders to sudden storms. Lena knew the climb would test their **endurance**, but she was ready."
+      },
+      {
+        "title": "The Climb Begins",
+        "text": "They began to **ascend** the steep trail at dawn. A huge fallen tree blocked the path, creating an **obstacle** they had to climb over carefully. The wind picked up, and the narrow ridge became **treacherous** with ice. Tomas stayed close to Yuki, his loyal **companion**, making sure she did not slip on the frozen ground."
+      },
+      {
+        "title": "Storm and Shelter",
+        "text": "Halfway up, dark clouds rolled in and the team had to **descend** a short distance to reach a rocky cave. The cave became their **haven** from the howling wind. Inside the warm shelter, which felt like a true **sanctuary**, they rested and shared food. Lena looked out at the empty, **forsaken** trail below, where no other hikers dared to walk. Tomas reminded everyone that their **pursuit** of the summit was not over yet."
+      },
+      {
+        "title": "The Summit",
+        "text": "When the storm passed, the three friends pushed onward and finally reached the top. They stood together, looking out at a sea of clouds and snow-covered peaks stretching in every direction. Yuki smiled and said it was the most beautiful thing she had ever seen. The hard climb had been worth every step."
+      }
+    ],
+    "wordCount": 240
+  },
+  "definitions": [
+    {
+      "word": "hazard",
+      "partOfSpeech": "noun",
+      "meaning1": "A danger or risk that could cause harm. Example: Icy sidewalks are a hazard for anyone walking to school in winter.",
+      "meaning2": "",
+      "studentChallenge": "The broken glass on the playground was a serious ___ that needed to be cleaned up right away.",
+      "sentence": ""
+    },
+    {
+      "word": "obstacle",
+      "partOfSpeech": "noun",
+      "meaning1": "Something that blocks your path or makes it hard to move forward. Example: A large rock in the middle of the road was an obstacle for the drivers.",
+      "meaning2": "Something that makes it difficult to succeed. Example: Not having enough money was the biggest obstacle to building the new library.",
+      "studentChallenge": "The fallen tree was a huge ___ that blocked the hiking trail.",
+      "sentence": ""
+    },
+    {
+      "word": "endurance",
+      "partOfSpeech": "noun",
+      "meaning1": "The ability to keep going for a long time even when it is hard. Example: Running a marathon requires great endurance and months of training.",
+      "meaning2": "",
+      "studentChallenge": "Swimming across the lake took incredible ___ and determination.",
+      "sentence": ""
+    },
+    {
+      "word": "treacherous",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very dangerous and likely to cause harm, especially in a hidden way. Example: The treacherous mountain road was covered in ice and had no guardrails.",
+      "meaning2": "Not able to be trusted; disloyal. Example: The treacherous spy sold secrets to the enemy.",
+      "studentChallenge": "The ___ waters near the reef hid sharp rocks just below the surface.",
+      "sentence": ""
+    },
+    {
+      "word": "haven",
+      "partOfSpeech": "noun",
+      "meaning1": "A safe place or shelter. Example: The cozy cabin in the woods was a haven from the cold winter storm.",
+      "meaning2": "",
+      "studentChallenge": "After the long hike, the warm lodge felt like a ___ from the freezing wind.",
+      "sentence": ""
+    },
+    {
+      "word": "sanctuary",
+      "partOfSpeech": "noun",
+      "meaning1": "A place of safety and protection. Example: The wildlife sanctuary is home to hundreds of rescued animals.",
+      "meaning2": "A holy or sacred place. Example: The old church sanctuary was quiet and filled with soft light.",
+      "studentChallenge": "The nature reserve became a ___ for birds that had lost their homes to the storm.",
+      "sentence": ""
+    },
+    {
+      "word": "forsaken",
+      "partOfSpeech": "adjective",
+      "meaning1": "Abandoned or left behind; empty and lonely. Example: The forsaken farmhouse had broken windows and weeds growing through the porch.",
+      "meaning2": "",
+      "studentChallenge": "The old, ___ lighthouse stood alone on the rocky cliff with no one around for miles.",
+      "sentence": ""
+    },
+    {
+      "word": "pursuit",
+      "partOfSpeech": "noun",
+      "meaning1": "The act of chasing or trying hard to achieve something. Example: The detective was in hot pursuit of the thief through the crowded market.",
+      "meaning2": "An activity that you spend time doing. Example: Reading is a wonderful pursuit that can take you to imaginary worlds.",
+      "studentChallenge": "The explorer devoted her life to the ___ of discovering ancient ruins.",
+      "sentence": ""
+    },
+    {
+      "word": "descend",
+      "partOfSpeech": "verb",
+      "meaning1": "To move downward from a higher place to a lower one. Example: The hikers began to descend the mountain before the sun went down.",
+      "meaning2": "",
+      "studentChallenge": "The elevator will ___ to the ground floor in just a few seconds.",
+      "sentence": ""
+    },
+    {
+      "word": "ascend",
+      "partOfSpeech": "verb",
+      "meaning1": "To move upward or climb to a higher place. Example: The hot air balloon began to ascend slowly into the bright blue sky.",
+      "meaning2": "",
+      "studentChallenge": "The climbers planned to ___ the peak before noon to avoid the afternoon storms.",
+      "sentence": ""
+    },
+    {
+      "word": "rugged",
+      "partOfSpeech": "adjective",
+      "meaning1": "Rough, rocky, and uneven. Example: The rugged coastline was beautiful but dangerous for boats.",
+      "meaning2": "Strong and tough. Example: The rugged explorer survived weeks alone in the wilderness.",
+      "studentChallenge": "The ___ mountain path was full of loose rocks and steep drops.",
+      "sentence": ""
+    },
+    {
+      "word": "companion",
+      "partOfSpeech": "noun",
+      "meaning1": "A person or animal who travels with you or spends time with you. Example: Her dog has been a faithful companion on every camping trip.",
+      "meaning2": "",
+      "studentChallenge": "A good ___ is someone who stays by your side through thick and thin.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The icy bridge was a _______ that the construction crew needed to fix before winter.",
+      "sentence2": "Wet leaves on the stairs can be a serious _______ if you are not careful.",
+      "options": ["obstacle", "hazard", "pursuit", "haven"],
+      "correctIndex": 1,
+      "correctAnswer": "hazard"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "A giant boulder in the river created an _______ that the kayakers had to paddle around.",
+      "sentence2": "Her fear of public speaking was the biggest _______ she had to overcome to win the debate.",
+      "options": ["endurance", "companion", "obstacle", "sanctuary"],
+      "correctIndex": 2,
+      "correctAnswer": "obstacle"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The long bike race tested the riders' _______ as they pedaled for over six hours.",
+      "sentence2": "Training every day helped the swimmer build the _______ she needed for the championship.",
+      "options": ["endurance", "hazard", "pursuit", "descend"],
+      "correctIndex": 0,
+      "correctAnswer": "endurance"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The _______ jungle trail was full of hidden snakes and quicksand.",
+      "sentence2": "The _______ villain smiled kindly but was secretly planning to betray the heroes.",
+      "options": ["rugged", "forsaken", "treacherous", "companion"],
+      "correctIndex": 2,
+      "correctAnswer": "treacherous"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The small island became a _______ for sailors caught in the terrible storm.",
+      "sentence2": "After a long, noisy day at school, her quiet bedroom felt like a peaceful _______.",
+      "options": ["sanctuary", "haven", "obstacle", "pursuit"],
+      "correctIndex": 1,
+      "correctAnswer": "haven"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The wildlife _______ protects hundreds of endangered birds and turtles.",
+      "sentence2": "The ancient temple served as a _______ where travelers could rest in safety.",
+      "options": ["hazard", "companion", "endurance", "sanctuary"],
+      "correctIndex": 3,
+      "correctAnswer": "sanctuary"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The _______ village had been empty for years, with no one living there at all.",
+      "sentence2": "After the flood, the once-busy marketplace looked _______ and lonely.",
+      "options": ["forsaken", "treacherous", "rugged", "haven"],
+      "correctIndex": 0,
+      "correctAnswer": "forsaken"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The police car raced through the streets in _______ of the getaway van.",
+      "sentence2": "Her lifelong _______ of knowledge led her to read hundreds of books.",
+      "options": ["descend", "obstacle", "endurance", "pursuit"],
+      "correctIndex": 3,
+      "correctAnswer": "pursuit"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The airplane began to _______ through the clouds as it prepared to land.",
+      "sentence2": "Be careful when you _______ the steep staircase because the steps are slippery.",
+      "options": ["ascend", "descend", "hazard", "companion"],
+      "correctIndex": 1,
+      "correctAnswer": "descend"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The hot air balloon began to _______ slowly into the bright morning sky.",
+      "sentence2": "The mountaineers hoped to _______ to the summit before the afternoon storm arrived.",
+      "options": ["forsaken", "rugged", "ascend", "sanctuary"],
+      "correctIndex": 2,
+      "correctAnswer": "ascend"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The _______ terrain made it nearly impossible to ride a bicycle along the trail.",
+      "sentence2": "The old fisherman had _______ hands, rough and strong from years of pulling nets.",
+      "options": ["treacherous", "rugged", "forsaken", "haven"],
+      "correctIndex": 1,
+      "correctAnswer": "rugged"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Her loyal dog was the perfect _______ for the long road trip across the country.",
+      "sentence2": "Every explorer needs a trusted _______ who will stick by their side no matter what.",
+      "options": ["pursuit", "obstacle", "hazard", "companion"],
+      "correctIndex": 3,
+      "correctAnswer": "companion"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "hazard",
+      "obstacle",
+      "endurance",
+      "treacherous",
+      "haven",
+      "sanctuary",
+      "forsaken",
+      "pursuit",
+      "descend",
+      "ascend",
+      "rugged",
+      "companion"
+    ],
+    "passage": "Two brave hikers set out on a journey through the wild northern mountains. The trail was _(1)_ and uneven, covered in sharp rocks and twisted roots. Every step tested their _(2)_, but they refused to give up.\n\nAs they began to _(3)_ the steepest slope, the wind grew fierce. A loose pile of rocks became a serious _(4)_ that nearly sent them tumbling. They climbed over a fallen log, the biggest _(5)_ on the trail so far. Higher up, the narrow path became _(6)_, with ice hiding beneath a thin layer of snow.\n\nHalfway up, they spotted a small cave that looked like a _(7)_ from the freezing wind. Inside, it was warm and dry — a true _(8)_ from the storm outside. The trail behind them looked _(9)_ and empty, with no other hikers in sight. Kai's dog, his most faithful _(10)_, curled up beside him for warmth.\n\nWhen the weather cleared, they knew their _(11)_ of the summit was almost complete. They took a deep breath and prepared to _(12)_ carefully on the other side, where the green valley waited below.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "rugged",
+        "options": ["treacherous", "rugged", "forsaken", "hazard"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "endurance",
+        "options": ["endurance", "pursuit", "companion", "obstacle"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "ascend",
+        "options": ["descend", "ascend", "haven", "sanctuary"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "hazard",
+        "options": ["obstacle", "companion", "hazard", "rugged"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "obstacle",
+        "options": ["endurance", "obstacle", "pursuit", "treacherous"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "treacherous",
+        "options": ["forsaken", "hazard", "treacherous", "haven"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "haven",
+        "options": ["sanctuary", "haven", "rugged", "ascend"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "sanctuary",
+        "options": ["companion", "descend", "sanctuary", "obstacle"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "forsaken",
+        "options": ["forsaken", "endurance", "pursuit", "hazard"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "companion",
+        "options": ["haven", "companion", "treacherous", "ascend"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "pursuit",
+        "options": ["pursuit", "descend", "rugged", "sanctuary"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "descend",
+        "options": ["obstacle", "forsaken", "endurance", "descend"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "hazard",
+        "scale": ["Risk", "Danger", "Hazard"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "ascend",
+        "scale": ["Step Up", "Climb", "Ascend"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "rugged",
+        "scale": ["Bumpy", "Rough", "Rugged"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "endurance",
+        "scale": ["Patience", "Stamina", "Endurance"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "treacherous",
+        "words": ["Dangerous", "Risky", "Safe", "Perilous"],
+        "imposterIndex": 2,
+        "imposterWord": "Safe"
+      },
+      {
+        "vocabWord": "haven",
+        "words": ["Shelter", "Refuge", "Trap", "Retreat"],
+        "imposterIndex": 2,
+        "imposterWord": "Trap"
+      },
+      {
+        "vocabWord": "forsaken",
+        "words": ["Abandoned", "Deserted", "Empty", "Crowded"],
+        "imposterIndex": 3,
+        "imposterWord": "Crowded"
+      },
+      {
+        "vocabWord": "companion",
+        "words": ["Stranger", "Partner", "Friend", "Buddy"],
+        "imposterIndex": 0,
+        "imposterWord": "Stranger"
+      },
+      {
+        "vocabWord": "descend",
+        "words": ["Drop", "Fall", "Rise", "Lower"],
+        "imposterIndex": 2,
+        "imposterWord": "Rise"
+      },
+      {
+        "vocabWord": "obstacle",
+        "words": ["Barrier", "Opening", "Hurdle", "Block"],
+        "imposterIndex": 1,
+        "imposterWord": "Opening"
+      },
+      {
+        "vocabWord": "pursuit",
+        "words": ["Chase", "Retreat", "Hunt", "Quest"],
+        "imposterIndex": 1,
+        "imposterWord": "Retreat"
+      },
+      {
+        "vocabWord": "sanctuary",
+        "words": ["Danger Zone", "Shelter", "Haven", "Refuge"],
+        "imposterIndex": 0,
+        "imposterWord": "Danger Zone"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

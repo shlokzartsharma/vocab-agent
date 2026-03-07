@@ -1,0 +1,405 @@
+{
+  "grade": 5,
+  "setNumber": 3,
+  "words": [
+    "discord",
+    "mediator",
+    "retaliate",
+    "reconcile",
+    "turmoil",
+    "volatile",
+    "truce",
+    "arbitration",
+    "unyielding",
+    "allegation",
+    "dissent",
+    "armistice"
+  ],
+  "sources": [
+    "Common Core Grade 5",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 5",
+    "CKLA Grade 5",
+    "Tier 2 Academic"
+  ],
+  "genre": "wartime diplomacy",
+  "story": {
+    "genre": "wartime diplomacy",
+    "characters": [
+      "Seren",
+      "Nikolai",
+      "Adaeze"
+    ],
+    "parts": [
+      {
+        "title": "The Border Dispute",
+        "text": "For months, **discord** had poisoned the relationship between the two neighboring kingdoms. Crops withered along the border, and villagers on both sides lived in constant **turmoil**. General Nikolai's soldiers were growing restless, and rumors spread that they might **retaliate** against the other side for destroying a bridge."
+      },
+      {
+        "title": "The Call for Peace",
+        "text": "Queen Seren knew the situation was **volatile** and could explode into full war at any moment. She called upon Adaeze, a respected **mediator**, to step in and guide both sides toward a solution. Adaeze proposed formal **arbitration** — a structured meeting where each kingdom would present its case and agree to follow the final decision."
+      },
+      {
+        "title": "The Negotiation",
+        "text": "At the table, Nikolai made a serious **allegation** that the other kingdom had stolen grain from border farms. Some of his own advisors voiced **dissent**, disagreeing with the harsh tone he used. Adaeze reminded everyone that the goal was to **reconcile** their differences, not deepen them. She was firm and **unyielding** in her demand for fairness. By sundown, both sides signed a **truce** and agreed to stop all fighting. Days later, they formalized a lasting **armistice** that promised permanent peace."
+      },
+      {
+        "title": "A New Beginning",
+        "text": "Weeks passed, and the border villages began to heal. Farmers traded goods freely again, and children from both sides played together in the meadows. Seren, Nikolai, and Adaeze stood at the rebuilt bridge and watched the sun set over the peaceful valley. They had proven that even the deepest conflict could be resolved through patience, fairness, and the courage to listen."
+      }
+    ],
+    "wordCount": 237
+  },
+  "definitions": [
+    {
+      "word": "discord",
+      "partOfSpeech": "noun",
+      "meaning1": "Disagreement or conflict between people or groups. Example: The discord between the two teams made it impossible for them to work together.",
+      "meaning2": "A harsh, unpleasant combination of sounds. Example: The discord from the out-of-tune instruments hurt everyone's ears.",
+      "studentChallenge": "There was so much ___ in the group that no one could agree on a plan.",
+      "sentence": ""
+    },
+    {
+      "word": "mediator",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who helps two sides settle a disagreement. Example: The principal acted as a mediator when the two students could not stop arguing.",
+      "meaning2": "",
+      "studentChallenge": "We asked our teacher to be a ___ so both sides could share their feelings fairly.",
+      "sentence": ""
+    },
+    {
+      "word": "retaliate",
+      "partOfSpeech": "verb",
+      "meaning1": "To fight back or get revenge after being harmed. Example: Instead of trying to retaliate, she decided to walk away from the argument.",
+      "meaning2": "",
+      "studentChallenge": "The coach warned the players not to ___ if the other team played rough.",
+      "sentence": ""
+    },
+    {
+      "word": "reconcile",
+      "partOfSpeech": "verb",
+      "meaning1": "To restore a friendly relationship after a disagreement. Example: The two best friends were able to reconcile after talking about what went wrong.",
+      "meaning2": "",
+      "studentChallenge": "After weeks of not speaking, the siblings finally decided to ___ and forgive each other.",
+      "sentence": ""
+    },
+    {
+      "word": "turmoil",
+      "partOfSpeech": "noun",
+      "meaning1": "A state of great confusion, disorder, or trouble. Example: The sudden change in plans threw the whole class into turmoil.",
+      "meaning2": "",
+      "studentChallenge": "The city was in ___ after the unexpected storm flooded the streets.",
+      "sentence": ""
+    },
+    {
+      "word": "volatile",
+      "partOfSpeech": "adjective",
+      "meaning1": "Likely to change quickly and become dangerous or out of control. Example: The argument was getting volatile, so the teacher stepped in before it got worse.",
+      "meaning2": "",
+      "studentChallenge": "The mood in the room was ___, and everyone was afraid a fight would break out.",
+      "sentence": ""
+    },
+    {
+      "word": "truce",
+      "partOfSpeech": "noun",
+      "meaning1": "An agreement to stop fighting for a certain period of time. Example: The two rival groups called a truce so they could share the playground in peace.",
+      "meaning2": "",
+      "studentChallenge": "The brothers declared a ___ and agreed to stop arguing for the rest of the day.",
+      "sentence": ""
+    },
+    {
+      "word": "arbitration",
+      "partOfSpeech": "noun",
+      "meaning1": "The process of having a neutral person help settle a disagreement. Example: When the neighbors could not agree on the fence line, they used arbitration to find a fair answer.",
+      "meaning2": "",
+      "studentChallenge": "The student council used ___ to settle the debate about which charity to support.",
+      "sentence": ""
+    },
+    {
+      "word": "unyielding",
+      "partOfSpeech": "adjective",
+      "meaning1": "Refusing to give in or change one's mind; firm and stubborn. Example: The captain was unyielding in her decision to keep practicing until they got it right.",
+      "meaning2": "",
+      "studentChallenge": "Despite the pressure, the judge remained ___ and stuck to what was fair.",
+      "sentence": ""
+    },
+    {
+      "word": "allegation",
+      "partOfSpeech": "noun",
+      "meaning1": "A claim that someone has done something wrong, usually without proof yet. Example: The allegation that he cheated on the test turned out to be false.",
+      "meaning2": "",
+      "studentChallenge": "She denied the ___ that she had broken the classroom window.",
+      "sentence": ""
+    },
+    {
+      "word": "dissent",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "Disagreement with an official opinion or decision. Example: There was strong dissent among the students about changing the school mascot.",
+      "meaning2": "To openly disagree. Example: Several members chose to dissent when the vote was taken.",
+      "studentChallenge": "A few council members expressed ___ and refused to support the new rule.",
+      "sentence": ""
+    },
+    {
+      "word": "armistice",
+      "partOfSpeech": "noun",
+      "meaning1": "A formal agreement to end a war or conflict permanently. Example: After years of fighting, both nations finally signed an armistice.",
+      "meaning2": "",
+      "studentChallenge": "The two countries celebrated when the ___ was signed, knowing the war was finally over.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The _______ between the two rival groups made it impossible for them to share the gym.",
+      "sentence2": "Years of _______ had turned the once-friendly neighbors into bitter enemies.",
+      "options": ["turmoil", "discord", "truce", "allegation"],
+      "correctIndex": 1,
+      "correctAnswer": "discord"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The principal acted as a _______ to help the two students solve their disagreement.",
+      "sentence2": "A skilled _______ listens carefully to both sides before suggesting a solution.",
+      "options": ["mediator", "allegation", "armistice", "dissent"],
+      "correctIndex": 0,
+      "correctAnswer": "mediator"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The coach warned the players not to _______ if the other team said something rude.",
+      "sentence2": "Instead of choosing to _______ with anger, she calmly explained her point of view.",
+      "options": ["reconcile", "dissent", "retaliate", "discord"],
+      "correctIndex": 2,
+      "correctAnswer": "retaliate"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "After weeks of silence, the two friends were finally able to _______ and become close again.",
+      "sentence2": "It took patience and honesty for the siblings to _______ their differences.",
+      "options": ["retaliate", "reconcile", "dissent", "turmoil"],
+      "correctIndex": 1,
+      "correctAnswer": "reconcile"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The school was in _______ after the fire alarm went off during lunch.",
+      "sentence2": "Political _______ in the region made everyday life unpredictable and stressful.",
+      "options": ["turmoil", "truce", "arbitration", "armistice"],
+      "correctIndex": 0,
+      "correctAnswer": "turmoil"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The argument was getting _______, and everyone feared it would turn into a fight.",
+      "sentence2": "Weather in the mountains can be _______, changing from sunshine to a blizzard in minutes.",
+      "options": ["unyielding", "volatile", "dissent", "discord"],
+      "correctIndex": 1,
+      "correctAnswer": "volatile"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The brothers declared a _______ and agreed to stop arguing until after dinner.",
+      "sentence2": "Both armies honored the _______ and put down their weapons for the holiday.",
+      "options": ["armistice", "allegation", "truce", "arbitration"],
+      "correctIndex": 2,
+      "correctAnswer": "truce"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The student council used _______ to settle the debate about how to spend the budget.",
+      "sentence2": "Through careful _______, a fair compromise was reached that satisfied both groups.",
+      "options": ["discord", "mediator", "arbitration", "turmoil"],
+      "correctIndex": 2,
+      "correctAnswer": "arbitration"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Despite the pressure, the judge remained _______ in her commitment to fairness.",
+      "sentence2": "The old oak tree stood _______ against the fierce winds of the hurricane.",
+      "options": ["volatile", "unyielding", "reconcile", "truce"],
+      "correctIndex": 1,
+      "correctAnswer": "unyielding"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The _______ that he had copied someone else's homework turned out to be completely false.",
+      "sentence2": "She was upset by the serious _______ and wanted a chance to defend herself.",
+      "options": ["allegation", "dissent", "armistice", "mediator"],
+      "correctIndex": 0,
+      "correctAnswer": "allegation"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Several members voiced their _______ and refused to support the unfair new rule.",
+      "sentence2": "The right to express _______ is an important part of any fair society.",
+      "options": ["turmoil", "discord", "dissent", "retaliate"],
+      "correctIndex": 2,
+      "correctAnswer": "dissent"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "After years of fighting, both nations finally signed an _______ to end the war.",
+      "sentence2": "The _______ was celebrated with parades and speeches about hope for the future.",
+      "options": ["truce", "armistice", "allegation", "unyielding"],
+      "correctIndex": 1,
+      "correctAnswer": "armistice"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "discord",
+      "mediator",
+      "retaliate",
+      "reconcile",
+      "turmoil",
+      "volatile",
+      "truce",
+      "arbitration",
+      "unyielding",
+      "allegation",
+      "dissent",
+      "armistice"
+    ],
+    "passage": "The island nations of Korvelle and Drasten had been locked in _(1)_ for over a decade. What started as a small trade disagreement grew into full _(2)_, with both sides suffering greatly. The situation was _(3)_, and any small incident could spark another round of battles.\n\nKorvelle made a serious _(4)_ that Drasten had been stealing fish from shared waters. Some leaders in Korvelle wanted to _(5)_ with a naval blockade, but voices of _(6)_ within the council argued that more fighting would only cause more pain.\n\nFinally, a respected diplomat named Amara was chosen as a _(7)_ to bring both sides together. She proposed formal _(8)_, where each nation would present evidence and agree to follow a fair ruling. Amara was _(9)_ in her demand that both leaders attend in person.\n\nAfter three days of difficult talks, the nations signed a _(10)_ to halt all military action. Slowly, the leaders began to _(11)_ their differences and rebuild trust. One year later, they signed a permanent _(12)_ that brought lasting peace to the region.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "discord",
+        "options": ["discord", "truce", "armistice", "mediator"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "turmoil",
+        "options": ["allegation", "turmoil", "dissent", "arbitration"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "volatile",
+        "options": ["unyielding", "volatile", "discord", "truce"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "allegation",
+        "options": ["allegation", "dissent", "turmoil", "reconcile"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "retaliate",
+        "options": ["reconcile", "retaliate", "mediator", "armistice"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "dissent",
+        "options": ["truce", "volatile", "dissent", "unyielding"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "mediator",
+        "options": ["mediator", "allegation", "discord", "arbitration"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "arbitration",
+        "options": ["armistice", "arbitration", "turmoil", "retaliate"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "unyielding",
+        "options": ["volatile", "reconcile", "unyielding", "truce"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "truce",
+        "options": ["truce", "discord", "dissent", "allegation"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "reconcile",
+        "options": ["retaliate", "mediator", "reconcile", "unyielding"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "armistice",
+        "options": ["armistice", "volatile", "turmoil", "arbitration"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "discord",
+        "scale": ["Disagreement", "Conflict", "Discord"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "volatile",
+        "scale": ["Calm", "Uneasy", "Volatile"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "turmoil",
+        "scale": ["Unease", "Confusion", "Turmoil"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "dissent",
+        "scale": ["Doubt", "Disagreement", "Dissent"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "discord",
+        "words": ["Conflict", "Harmony", "Strife", "Clash"],
+        "imposterIndex": 1,
+        "imposterWord": "Harmony"
+      },
+      {
+        "vocabWord": "retaliate",
+        "words": ["Strike back", "Forgive", "Avenge", "Revenge"],
+        "imposterIndex": 1,
+        "imposterWord": "Forgive"
+      },
+      {
+        "vocabWord": "reconcile",
+        "words": ["Mend", "Separate", "Reunite", "Forgive"],
+        "imposterIndex": 1,
+        "imposterWord": "Separate"
+      },
+      {
+        "vocabWord": "truce",
+        "words": ["Ceasefire", "Peace", "War", "Agreement"],
+        "imposterIndex": 2,
+        "imposterWord": "War"
+      },
+      {
+        "vocabWord": "unyielding",
+        "words": ["Firm", "Flexible", "Stubborn", "Determined"],
+        "imposterIndex": 1,
+        "imposterWord": "Flexible"
+      },
+      {
+        "vocabWord": "allegation",
+        "words": ["Accusation", "Proof", "Charge", "Claim"],
+        "imposterIndex": 1,
+        "imposterWord": "Proof"
+      },
+      {
+        "vocabWord": "armistice",
+        "words": ["Battle", "Treaty", "Ceasefire", "Agreement"],
+        "imposterIndex": 0,
+        "imposterWord": "Battle"
+      },
+      {
+        "vocabWord": "mediator",
+        "words": ["Peacemaker", "Negotiator", "Agitator", "Diplomat"],
+        "imposterIndex": 2,
+        "imposterWord": "Agitator"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

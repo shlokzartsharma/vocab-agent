@@ -1,0 +1,405 @@
+{
+  "grade": 5,
+  "setNumber": 20,
+  "words": [
+    "posterity",
+    "endowment",
+    "testament",
+    "ancestral",
+    "venerate",
+    "heirloom",
+    "eulogy",
+    "perpetuate",
+    "epoch",
+    "lineage",
+    "enshrine",
+    "enduring"
+  ],
+  "sources": [
+    "Common Core Grade 5",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 5",
+    "CKLA Grade 5",
+    "Tier 2 Academic"
+  ],
+  "genre": "family heritage",
+  "story": {
+    "genre": "family heritage",
+    "characters": [
+      "Esme",
+      "Rahul",
+      "Solange"
+    ],
+    "parts": [
+      {
+        "title": "The Attic Discovery",
+        "text": "Esme was helping her grandmother Solange clean out the attic when she found a dusty wooden chest. Inside was an **heirloom** — a hand-stitched quilt made by Solange's great-grandmother over a hundred years ago. Solange explained that the quilt was a **testament** to their family's strength through hard times. She wanted to preserve it for **posterity**, so future generations could hold it in their hands."
+      },
+      {
+        "title": "Tracing the Family Tree",
+        "text": "Rahul, Esme's cousin, arrived that afternoon with a folder full of old photographs. He had been researching their **lineage**, tracing their family back five generations to a small village overseas. The photos showed their **ancestral** home — a stone farmhouse surrounded by olive trees. Solange told them the family had always tried to **venerate** their elders by listening to their stories and learning from their wisdom."
+      },
+      {
+        "title": "Honoring the Past",
+        "text": "That evening, the family gathered to remember Great-Uncle Mateo, who had passed away the year before. Solange read a short **eulogy** she had written, praising his kindness and humor. Mateo had left behind an **endowment** — a fund to pay for school supplies for children in the old village. His generosity marked a special **epoch** in the family's history. Esme promised to **perpetuate** his tradition of giving. Rahul suggested they **enshrine** Mateo's story in a scrapbook so no one would ever forget. The family's **enduring** love for one another was clear in every smile and tear that night."
+      },
+      {
+        "title": "A Promise for Tomorrow",
+        "text": "Before bed, Esme carefully placed the quilt back in the chest and set the scrapbook on the shelf beside it. She realized that heritage was not just about objects — it was about the values and memories that connect one generation to the next. She whispered a promise to keep those stories alive, knowing that the best gift she could give her own children someday was the truth of where they came from."
+      }
+    ],
+    "wordCount": 248
+  },
+  "definitions": [
+    {
+      "word": "posterity",
+      "partOfSpeech": "noun",
+      "meaning1": "All future generations of people. Example: The artist hoped her paintings would be enjoyed by posterity for centuries to come.",
+      "meaning2": "",
+      "studentChallenge": "The leader recorded his speech so that ___ could hear his words.",
+      "sentence": ""
+    },
+    {
+      "word": "endowment",
+      "partOfSpeech": "noun",
+      "meaning1": "A gift of money or property given to support a person, organization, or cause over time. Example: The university received a large endowment to build a new science building.",
+      "meaning2": "",
+      "studentChallenge": "The wealthy donor created an ___ to fund scholarships for students in need.",
+      "sentence": ""
+    },
+    {
+      "word": "testament",
+      "partOfSpeech": "noun",
+      "meaning1": "Something that serves as proof or evidence of a quality or fact. Example: Her perfect score was a testament to how hard she had studied.",
+      "meaning2": "A written statement of a person's wishes, especially about what to do with their belongings after death. Example: The old woman left a testament saying her house should go to her grandson.",
+      "studentChallenge": "The beautiful garden is a ___ to the caretaker's years of hard work.",
+      "sentence": ""
+    },
+    {
+      "word": "ancestral",
+      "partOfSpeech": "adjective",
+      "meaning1": "Relating to or inherited from ancestors, the people in your family who lived long ago. Example: The family traveled overseas to visit their ancestral homeland.",
+      "meaning2": "",
+      "studentChallenge": "They returned to their ___ village to learn about their roots.",
+      "sentence": ""
+    },
+    {
+      "word": "venerate",
+      "partOfSpeech": "verb",
+      "meaning1": "To respect or honor someone or something deeply. Example: Many cultures venerate their elders by asking for their advice and blessings.",
+      "meaning2": "",
+      "studentChallenge": "The community gathered to ___ the founder who had built their town.",
+      "sentence": ""
+    },
+    {
+      "word": "heirloom",
+      "partOfSpeech": "noun",
+      "meaning1": "A valuable object that has been passed down through a family for several generations. Example: The gold pocket watch was a family heirloom given to each eldest child.",
+      "meaning2": "",
+      "studentChallenge": "Grandma's silver necklace is a precious ___ that has been in our family for over a century.",
+      "sentence": ""
+    },
+    {
+      "word": "eulogy",
+      "partOfSpeech": "noun",
+      "meaning1": "A speech or piece of writing that praises someone, especially someone who has recently died. Example: The daughter gave a moving eulogy at her father's memorial service.",
+      "meaning2": "",
+      "studentChallenge": "He wrote a heartfelt ___ describing his grandmother's courage and warmth.",
+      "sentence": ""
+    },
+    {
+      "word": "perpetuate",
+      "partOfSpeech": "verb",
+      "meaning1": "To make something continue or last for a very long time. Example: The annual parade helped perpetuate the town's cultural traditions.",
+      "meaning2": "",
+      "studentChallenge": "The family reunion was held every year to ___ the tradition of gathering together.",
+      "sentence": ""
+    },
+    {
+      "word": "epoch",
+      "partOfSpeech": "noun",
+      "meaning1": "A particular period of time in history that is marked by important events or characteristics. Example: The invention of the internet began a new epoch in communication.",
+      "meaning2": "",
+      "studentChallenge": "The discovery of gold started a new ___ in the history of the western frontier.",
+      "sentence": ""
+    },
+    {
+      "word": "lineage",
+      "partOfSpeech": "noun",
+      "meaning1": "The line of ancestors from which a person is descended; a family's history traced back through generations. Example: She was proud of her lineage, which included teachers, farmers, and artists.",
+      "meaning2": "",
+      "studentChallenge": "He traced his ___ all the way back to a village in West Africa.",
+      "sentence": ""
+    },
+    {
+      "word": "enshrine",
+      "partOfSpeech": "verb",
+      "meaning1": "To preserve or protect something in a way that keeps it safe and honored. Example: The town voted to enshrine the old oak tree as a protected landmark.",
+      "meaning2": "",
+      "studentChallenge": "The museum worked to ___ the historical documents behind protective glass.",
+      "sentence": ""
+    },
+    {
+      "word": "enduring",
+      "partOfSpeech": "adjective",
+      "meaning1": "Lasting for a long time; continuing without weakening. Example: Their enduring friendship survived even when they moved to different cities.",
+      "meaning2": "",
+      "studentChallenge": "The novel tells a story of ___ courage that inspired readers for generations.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The time capsule was buried so that _______ could learn what life was like in our era.",
+      "sentence2": "The farmer saved seeds for _______, knowing future generations would need them.",
+      "options": ["lineage", "posterity", "epoch", "endowment"],
+      "correctIndex": 1,
+      "correctAnswer": "posterity"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The college received a generous _______ to create new art programs for students.",
+      "sentence2": "Thanks to the _______ left by the founder, the library was able to buy new books every year.",
+      "options": ["endowment", "testament", "eulogy", "heirloom"],
+      "correctIndex": 0,
+      "correctAnswer": "endowment"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The gleaming trophy case was a _______ to the school's long history of athletic excellence.",
+      "sentence2": "Her volunteer work is a _______ to her caring and generous character.",
+      "options": ["posterity", "lineage", "testament", "epoch"],
+      "correctIndex": 2,
+      "correctAnswer": "testament"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The family returned to their _______ homeland to see where their grandparents had grown up.",
+      "sentence2": "The _______ recipe for spiced bread had been passed down for five generations.",
+      "options": ["enduring", "ancestral", "heirloom", "venerate"],
+      "correctIndex": 1,
+      "correctAnswer": "ancestral"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Many people around the world _______ their grandparents by celebrating special holidays in their honor.",
+      "sentence2": "The students learned to _______ the traditions of the indigenous community they were studying.",
+      "options": ["perpetuate", "enshrine", "venerate", "eulogy"],
+      "correctIndex": 2,
+      "correctAnswer": "venerate"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The silver locket was a family _______ that had belonged to her great-great-grandmother.",
+      "sentence2": "He handled the antique clock with great care, knowing it was a priceless _______.",
+      "options": ["testament", "heirloom", "endowment", "posterity"],
+      "correctIndex": 1,
+      "correctAnswer": "heirloom"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The mayor delivered a touching _______ at the ceremony honoring the retired firefighter.",
+      "sentence2": "In her _______, she described her uncle as the funniest and kindest man she had ever known.",
+      "options": ["eulogy", "lineage", "epoch", "ancestral"],
+      "correctIndex": 0,
+      "correctAnswer": "eulogy"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The annual storytelling night was created to _______ the legends of the town's founding families.",
+      "sentence2": "She wanted to _______ the memory of her mentor by continuing his charity work.",
+      "options": ["venerate", "perpetuate", "enshrine", "enduring"],
+      "correctIndex": 1,
+      "correctAnswer": "perpetuate"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The discovery of electricity marked the beginning of a new _______ in human history.",
+      "sentence2": "Historians call the years of space exploration a remarkable _______ of scientific achievement.",
+      "options": ["endowment", "posterity", "epoch", "testament"],
+      "correctIndex": 2,
+      "correctAnswer": "epoch"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "She was proud of her _______, which included poets, musicians, and civil rights leaders.",
+      "sentence2": "The royal family's _______ could be traced all the way back to the twelfth century.",
+      "options": ["lineage", "heirloom", "eulogy", "ancestral"],
+      "correctIndex": 0,
+      "correctAnswer": "lineage"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The community voted to _______ the hero's name on a bronze plaque in the town square.",
+      "sentence2": "The museum worked to _______ the artist's greatest paintings so they would be protected forever.",
+      "options": ["perpetuate", "venerate", "posterity", "enshrine"],
+      "correctIndex": 3,
+      "correctAnswer": "enshrine"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Their _______ love for each other was clear even after fifty years of marriage.",
+      "sentence2": "The _______ popularity of the old folk song proved that great music never fades away.",
+      "options": ["ancestral", "enduring", "epoch", "endowment"],
+      "correctIndex": 1,
+      "correctAnswer": "enduring"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "posterity",
+      "endowment",
+      "testament",
+      "ancestral",
+      "venerate",
+      "heirloom",
+      "eulogy",
+      "perpetuate",
+      "epoch",
+      "lineage",
+      "enshrine",
+      "enduring"
+    ],
+    "passage": "When Solange opened the old leather journal, she felt as though she had stepped into another _(1)_ entirely. The yellowed pages told the story of her family's _(2)_, stretching back to a tiny coastal village where fishermen and weavers built a life from almost nothing.\n\nOne entry described the family's _(3)_ home — a whitewashed cottage with blue shutters that still stands today. Tucked inside the journal was a faded photograph of Solange's great-grandmother wearing a coral bracelet, a beloved _(4)_ that now sat in Solange's own jewelry box. The journal itself was a _(5)_ to the family's determination and grace through difficult years.\n\nSolange read a passage that her grandfather had written as a _(6)_ for his mother, praising her wisdom and strength. He had also established a small _(7)_ — a fund that helped pay for the village school for decades. His _(8)_ generosity inspired Solange to _(9)_ her elders even more deeply.\n\nShe decided to _(10)_ these memories by scanning every page and sharing copies with her relatives. She wanted to _(11)_ her grandfather's words in a family archive so they would be saved for _(12)_. Closing the journal gently, Solange smiled, knowing the past was not gone — it was alive in every story waiting to be told.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "epoch",
+        "options": ["epoch", "lineage", "testament", "posterity"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "lineage",
+        "options": ["endowment", "heirloom", "lineage", "eulogy"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "ancestral",
+        "options": ["enduring", "ancestral", "perpetuate", "epoch"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "heirloom",
+        "options": ["testament", "heirloom", "venerate", "posterity"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "testament",
+        "options": ["eulogy", "endowment", "testament", "lineage"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "eulogy",
+        "options": ["eulogy", "enshrine", "ancestral", "epoch"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "endowment",
+        "options": ["posterity", "endowment", "heirloom", "perpetuate"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "enduring",
+        "options": ["enduring", "testament", "venerate", "lineage"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "venerate",
+        "options": ["enshrine", "venerate", "epoch", "endowment"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "perpetuate",
+        "options": ["perpetuate", "ancestral", "eulogy", "heirloom"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "enshrine",
+        "options": ["posterity", "enduring", "enshrine", "testament"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "posterity",
+        "options": ["lineage", "posterity", "venerate", "perpetuate"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "venerate",
+        "scale": ["Respect", "Admire", "Venerate"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "enduring",
+        "scale": ["Brief", "Lasting", "Enduring"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "epoch",
+        "scale": ["Moment", "Era", "Epoch"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "heirloom",
+        "scale": ["Possession", "Keepsake", "Heirloom"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "posterity",
+        "words": ["Future", "Descendants", "Ancestors", "Offspring"],
+        "imposterIndex": 2,
+        "imposterWord": "Ancestors"
+      },
+      {
+        "vocabWord": "ancestral",
+        "words": ["Inherited", "Modern", "Traditional", "Ancient"],
+        "imposterIndex": 1,
+        "imposterWord": "Modern"
+      },
+      {
+        "vocabWord": "eulogy",
+        "words": ["Tribute", "Praise", "Criticism", "Remembrance"],
+        "imposterIndex": 2,
+        "imposterWord": "Criticism"
+      },
+      {
+        "vocabWord": "perpetuate",
+        "words": ["Continue", "Maintain", "End", "Sustain"],
+        "imposterIndex": 2,
+        "imposterWord": "End"
+      },
+      {
+        "vocabWord": "enshrine",
+        "words": ["Protect", "Preserve", "Discard", "Honor"],
+        "imposterIndex": 2,
+        "imposterWord": "Discard"
+      },
+      {
+        "vocabWord": "endowment",
+        "words": ["Gift", "Grant", "Donation", "Debt"],
+        "imposterIndex": 3,
+        "imposterWord": "Debt"
+      },
+      {
+        "vocabWord": "testament",
+        "words": ["Proof", "Evidence", "Denial", "Record"],
+        "imposterIndex": 2,
+        "imposterWord": "Denial"
+      },
+      {
+        "vocabWord": "lineage",
+        "words": ["Ancestry", "Heritage", "Bloodline", "Stranger"],
+        "imposterIndex": 3,
+        "imposterWord": "Stranger"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

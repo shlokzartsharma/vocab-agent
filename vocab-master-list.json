@@ -1,0 +1,3213 @@
+{
+  "grade3": {
+    "sets": [
+      {
+        "setNumber": 1,
+        "words": [
+          "glance",
+          "schedule",
+          "superb",
+          "storm",
+          "legal",
+          "plough",
+          "convince",
+          "shatter",
+          "delicate",
+          "rare",
+          "mound",
+          "predict"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "CBSE India",
+          "Cambridge Primary",
+          "Common Core Grade 3",
+          "Common Core Grade 4",
+          "Common Core Grade 5",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Tier 2 Academic"
+        ]
+      },
+      {
+        "setNumber": 2,
+        "words": [
+          "trudge",
+          "occur",
+          "hibernate",
+          "core",
+          "depend",
+          "slumber",
+          "prepare",
+          "tend",
+          "intend",
+          "cargo",
+          "adopt",
+          "pattern"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "CBSE India",
+          "Common Core Grade 3",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Tier 2 Academic",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 3,
+        "words": [
+          "process",
+          "glory",
+          "severe",
+          "exclaim",
+          "fasten",
+          "greed",
+          "elect",
+          "brook",
+          "decrepit",
+          "astronomer",
+          "ration",
+          "mature"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "CBSE India",
+          "Common Core Grade 3",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 4,
+        "words": [
+          "scar",
+          "meek",
+          "motion",
+          "lamp",
+          "signal",
+          "ratio",
+          "glide",
+          "cling",
+          "flutter",
+          "topic",
+          "haste",
+          "luxury"
+        ],
+        "sources": [
+          "CBSE India",
+          "Cambridge Primary",
+          "Common Core Grade 3",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 5,
+        "words": [
+          "local",
+          "delightful",
+          "tavern",
+          "recall",
+          "certain",
+          "landscape",
+          "sketch",
+          "fearsome",
+          "result",
+          "pastime",
+          "seek",
+          "harsh"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "CBSE India",
+          "Common Core Grade 3",
+          "Common Core Grade 4",
+          "Common Core Grade 5",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "Tier 2 Academic",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 6,
+        "words": [
+          "brief",
+          "swoop",
+          "chill",
+          "actual",
+          "quiver",
+          "pause",
+          "deny",
+          "natural",
+          "decrease",
+          "vary",
+          "hasty",
+          "sphere"
+        ],
+        "sources": [
+          "British KS2",
+          "CBSE India",
+          "Common Core Grade 3",
+          "Common Core Grade 4",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 5",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3"
+        ]
+      },
+      {
+        "setNumber": 7,
+        "words": [
+          "miserable",
+          "tense",
+          "specific",
+          "recycle",
+          "labor",
+          "tundra",
+          "allow",
+          "adequate",
+          "patient",
+          "nation",
+          "imitate",
+          "depart"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "CBSE India",
+          "Common Core Grade 3",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 5",
+          "Scholastic",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3"
+        ]
+      },
+      {
+        "setNumber": 8,
+        "words": [
+          "remark",
+          "transfer",
+          "prattle",
+          "avoid",
+          "crater",
+          "modern",
+          "orbit",
+          "invest",
+          "dignified",
+          "homeland",
+          "glare",
+          "globe"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "CBSE India",
+          "Common Core Grade 3",
+          "Common Core Grade 4",
+          "Common Core Grade 5",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 9,
+        "words": [
+          "gasp",
+          "marine",
+          "swamp",
+          "fortunate",
+          "research",
+          "damage",
+          "surrender",
+          "recital",
+          "shark",
+          "rubble",
+          "prowl",
+          "brilliant"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "CBSE India",
+          "Cambridge Primary",
+          "Common Core Grade 3",
+          "Common Core Grade 4",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Sadlier Vocab Workshop",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 10,
+        "words": [
+          "voyage",
+          "consider",
+          "drift",
+          "repeat",
+          "foster",
+          "require",
+          "gesture",
+          "base",
+          "issue",
+          "advantage",
+          "panel",
+          "visible"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "CBSE India",
+          "Common Core Grade 3",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 5",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 11,
+        "words": [
+          "mast",
+          "ramble",
+          "range",
+          "popular",
+          "limit",
+          "conquer",
+          "restless",
+          "intelligent",
+          "feeble",
+          "accuse",
+          "ocean",
+          "inspire"
+        ],
+        "sources": [
+          "British KS2",
+          "CBSE India",
+          "Cambridge Primary",
+          "Common Core Grade 3",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 12,
+        "words": [
+          "value",
+          "coward",
+          "necessary",
+          "valuable",
+          "hawker",
+          "peak",
+          "fog",
+          "thrill",
+          "compost",
+          "gobble",
+          "ferry",
+          "sort"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "CBSE India",
+          "Cambridge Primary",
+          "Common Core Grade 3",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Tier 2 Academic",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 13,
+        "words": [
+          "giant",
+          "prompt",
+          "risk",
+          "frequent",
+          "telescope",
+          "lodge",
+          "shipwreck",
+          "pursue",
+          "approve",
+          "threat",
+          "assembly",
+          "feast"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "CBSE India",
+          "Common Core Grade 3",
+          "Common Core Grade 4",
+          "Common Core Grade 5",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 14,
+        "words": [
+          "goal",
+          "pounce",
+          "sensitive",
+          "refer",
+          "support",
+          "fury",
+          "relate",
+          "pierce",
+          "rate",
+          "humiliation",
+          "unite",
+          "structure"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "CBSE India",
+          "Common Core Grade 3",
+          "Common Core Grade 4",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 15,
+        "words": [
+          "anchor",
+          "clasp",
+          "courage",
+          "layer",
+          "brink",
+          "immigrant",
+          "role",
+          "steady",
+          "shallow",
+          "reward",
+          "stumble",
+          "confess"
+        ],
+        "sources": [
+          "CBSE India",
+          "Common Core Grade 3",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Scholastic",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 16,
+        "words": [
+          "diagram",
+          "vibrant",
+          "description",
+          "incredible",
+          "logic",
+          "persist",
+          "positive",
+          "precious",
+          "numerous",
+          "tangled",
+          "cable",
+          "solve"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "CBSE India",
+          "Common Core Grade 3",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 17,
+        "words": [
+          "injure",
+          "team",
+          "ovation",
+          "negative",
+          "scope",
+          "wit",
+          "scramble",
+          "wing",
+          "endure",
+          "arrange",
+          "legend",
+          "excel"
+        ],
+        "sources": [
+          "CBSE India",
+          "Cambridge Primary",
+          "Common Core Grade 3",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 18,
+        "words": [
+          "observe",
+          "represent",
+          "meadow",
+          "pose",
+          "whimper",
+          "salary",
+          "soar",
+          "tentacle",
+          "symbol",
+          "aware",
+          "recognize",
+          "debris"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "CBSE India",
+          "Common Core Grade 3",
+          "Common Core Grade 4",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Sadlier Vocab Workshop",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 19,
+        "words": [
+          "reverse",
+          "discuss",
+          "vendor",
+          "auction",
+          "trend",
+          "grade",
+          "timid",
+          "valley",
+          "sprout",
+          "magnificent",
+          "strain",
+          "drama"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "CBSE India",
+          "Common Core Grade 3",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Tier 2 Academic",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 20,
+        "words": [
+          "phase",
+          "defeat",
+          "tone",
+          "grant",
+          "method",
+          "replace",
+          "catalog",
+          "disturb",
+          "label",
+          "monsoon",
+          "intent",
+          "coaxing"
+        ],
+        "sources": [
+          "CBSE India",
+          "Common Core Grade 3",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Scholastic",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 21,
+        "words": [
+          "exotic",
+          "frost",
+          "frontier",
+          "marvel",
+          "reflex",
+          "preserve",
+          "rustic",
+          "series",
+          "tinker",
+          "expose",
+          "grip",
+          "revive"
+        ],
+        "sources": [
+          "CBSE India",
+          "Cambridge Primary",
+          "Common Core Grade 3",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 5",
+          "Scholastic",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3",
+          "Wit & Wisdom Grade 4",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 22,
+        "words": [
+          "coach",
+          "feature",
+          "arctic",
+          "grasp",
+          "scatter",
+          "boast",
+          "parcel",
+          "bargain",
+          "site",
+          "transform",
+          "watchful",
+          "shift"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "CBSE India",
+          "Cambridge Primary",
+          "Common Core Grade 3",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 5",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 23,
+        "words": [
+          "aim",
+          "halt",
+          "release",
+          "error",
+          "review",
+          "coast",
+          "mention",
+          "passage",
+          "marsh",
+          "provisions",
+          "resource",
+          "glisten"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "CBSE India",
+          "Common Core Grade 3",
+          "Common Core Grade 4",
+          "Common Core Grade 5",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Tier 2 Academic",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 24,
+        "words": [
+          "discover",
+          "proper",
+          "route",
+          "remain",
+          "summary",
+          "tower",
+          "cylinder",
+          "pilgrim",
+          "narrow",
+          "compete",
+          "common",
+          "peep"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "CBSE India",
+          "Cambridge Primary",
+          "Common Core Grade 3",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "SSAT Elementary",
+          "Tier 2 Academic",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 25,
+        "words": [
+          "treasure",
+          "noble",
+          "canvas",
+          "stranded",
+          "unusual",
+          "explore",
+          "barber",
+          "expert",
+          "gleam",
+          "resist",
+          "tradition",
+          "advice"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "CBSE India",
+          "Common Core Grade 3",
+          "Common Core Grade 4",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 26,
+        "words": [
+          "obscure",
+          "govern",
+          "ability",
+          "pedlar",
+          "permanent",
+          "customs",
+          "inform",
+          "remove",
+          "uproar",
+          "quantity",
+          "genre",
+          "chirp"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "CBSE India",
+          "Common Core Grade 3",
+          "Common Core Grade 4",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Scholastic",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 27,
+        "words": [
+          "organ",
+          "defiant",
+          "opposite",
+          "wander",
+          "absorb",
+          "starve",
+          "cure",
+          "major",
+          "survive",
+          "worthwhile",
+          "transparent",
+          "struggle"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "CBSE India",
+          "Common Core Grade 3",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Tier 2 Academic",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 28,
+        "words": [
+          "talent",
+          "climate",
+          "adapt",
+          "plead",
+          "fatal",
+          "peck",
+          "moist",
+          "rotation",
+          "inspect",
+          "instant",
+          "bashful",
+          "provide"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "CBSE India",
+          "Common Core Grade 3",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 29,
+        "words": [
+          "tournament",
+          "trace",
+          "surround",
+          "crew",
+          "clever",
+          "attract",
+          "cascade",
+          "obvious",
+          "origin",
+          "contain",
+          "weaver",
+          "surface"
+        ],
+        "sources": [
+          "CBSE India",
+          "Common Core Grade 3",
+          "Common Core Grade 4",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Tier 2 Academic",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 30,
+        "words": [
+          "journey",
+          "previous",
+          "loyal",
+          "prior",
+          "fertilizer",
+          "perform",
+          "valid",
+          "fairy",
+          "whale",
+          "technique",
+          "coral",
+          "mild"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "Cambridge Primary",
+          "Common Core Grade 3",
+          "Common Core Grade 4",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 31,
+        "words": [
+          "reflect",
+          "island",
+          "opinion",
+          "rely",
+          "ruin",
+          "scarf",
+          "possess",
+          "eager",
+          "bitter",
+          "flexible",
+          "kimono",
+          "gloomy"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "Benchmark Advance",
+          "British KS2",
+          "Cambridge Primary",
+          "Common Core Grade 3",
+          "Common Core Grade 4",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 32,
+        "words": [
+          "version",
+          "examine",
+          "babble",
+          "grace",
+          "respond",
+          "trot",
+          "plunge",
+          "restore",
+          "wreckage",
+          "flood",
+          "stockade",
+          "minor"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "CBSE India",
+          "Cambridge Primary",
+          "Common Core Grade 3",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "SSAT Elementary",
+          "Tier 2 Academic",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 33,
+        "words": [
+          "spine",
+          "wicked",
+          "task",
+          "peer",
+          "decay",
+          "squeal",
+          "quality",
+          "border",
+          "refuse",
+          "resources",
+          "typical",
+          "final"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "CBSE India",
+          "Common Core Grade 3",
+          "Common Core Grade 4",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "Tier 2 Academic",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 34,
+        "words": [
+          "request",
+          "drought",
+          "hollow",
+          "imply",
+          "cycle",
+          "ignorant",
+          "recover",
+          "merchant",
+          "torrent",
+          "texture",
+          "chatter",
+          "vanish"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "CBSE India",
+          "Common Core Grade 3",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 35,
+        "words": [
+          "swift",
+          "fund",
+          "solid",
+          "establish",
+          "remote",
+          "attitude",
+          "bold",
+          "ripple",
+          "device",
+          "prefer",
+          "hump",
+          "rapid"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "CBSE India",
+          "Common Core Grade 3",
+          "Common Core Grade 4",
+          "Common Core Grade 5",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "Tier 2 Academic",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 36,
+        "words": [
+          "react",
+          "galaxy",
+          "plateau",
+          "bristle",
+          "input",
+          "cobbler",
+          "perch",
+          "minimum",
+          "scene",
+          "atmosphere",
+          "succeed",
+          "fierce"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "CBSE India",
+          "Common Core Grade 3",
+          "Common Core Grade 4",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Scholastic",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 37,
+        "words": [
+          "purchase",
+          "harvest",
+          "temperature",
+          "honor",
+          "cautious",
+          "insist",
+          "vast",
+          "weapon",
+          "grumble",
+          "similar",
+          "eloquent",
+          "croak"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "CBSE India",
+          "Common Core Grade 3",
+          "Custom (Existing)",
+          "EduKate Singapore",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 5",
+          "PiAcademy GCSE",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wordly Wise Book 3",
+          "Wordly Wise Book 5"
+        ]
+      },
+      {
+        "setNumber": 38,
+        "words": [
+          "tremendous",
+          "harbour",
+          "vessel",
+          "revolve",
+          "custom",
+          "style",
+          "shiver",
+          "active",
+          "tough",
+          "sufficient",
+          "force",
+          "produce"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "CBSE India",
+          "Common Core Grade 3",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 5",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 39,
+        "words": [
+          "media",
+          "encore",
+          "link",
+          "volunteer",
+          "ridge",
+          "region",
+          "rudder",
+          "diminutive",
+          "portion",
+          "ambition",
+          "publish",
+          "ordinary"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "CBSE India",
+          "Common Core Grade 3",
+          "Common Core Grade 5",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 5",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 40,
+        "words": [
+          "except",
+          "enable",
+          "castaway",
+          "ancient",
+          "approach",
+          "locate",
+          "progress",
+          "capture",
+          "pier",
+          "triumph",
+          "wisdom",
+          "resident"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "CBSE India",
+          "Common Core Grade 3",
+          "Common Core Grade 4",
+          "Common Core Grade 5",
+          "Custom (Existing)",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 4",
+          "Wordly Wise Book 3"
+        ]
+      }
+    ],
+    "totalWords": 480,
+    "totalSets": 40
+  },
+  "grade4": {
+    "sets": [
+      {
+        "setNumber": 1,
+        "words": [
+          "junior",
+          "maximum",
+          "disappointed",
+          "museum",
+          "contribution",
+          "renewable",
+          "luggage",
+          "essential",
+          "theme",
+          "chapter",
+          "cozy",
+          "boycott"
+        ],
+        "sources": [
+          "Benchmark Advance",
+          "Cambridge Primary",
+          "Common Core Grade 4",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "Scholastic",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 4"
+        ]
+      },
+      {
+        "setNumber": 2,
+        "words": [
+          "ensure",
+          "gaze",
+          "organized",
+          "concluding",
+          "prediction",
+          "survival",
+          "emerge",
+          "partner",
+          "literal",
+          "defend",
+          "ballads",
+          "sector"
+        ],
+        "sources": [
+          "Benchmark Advance",
+          "Common Core Grade 3",
+          "Common Core Grade 4",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 4"
+        ]
+      },
+      {
+        "setNumber": 3,
+        "words": [
+          "petrol",
+          "notion",
+          "effect",
+          "century",
+          "restrain",
+          "ballot",
+          "balcony",
+          "jagged",
+          "convinced",
+          "gust",
+          "distribute",
+          "blanket"
+        ],
+        "sources": [
+          "Benchmark Advance",
+          "British KS2",
+          "Cambridge Primary",
+          "Common Core Grade 4",
+          "Flocabulary Grade 4",
+          "SSAT Elementary",
+          "Scholastic",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 4"
+        ]
+      },
+      {
+        "setNumber": 4,
+        "words": [
+          "argued",
+          "captives",
+          "amount",
+          "settlement",
+          "ancestor",
+          "civilian",
+          "annual",
+          "forge",
+          "overlap",
+          "involve",
+          "railway",
+          "resilience"
+        ],
+        "sources": [
+          "Benchmark Advance",
+          "Cambridge Primary",
+          "Common Core Grade 4",
+          "Flocabulary Grade 4",
+          "Scholastic",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 4"
+        ]
+      },
+      {
+        "setNumber": 5,
+        "words": [
+          "entirety",
+          "ignore",
+          "desert",
+          "afford",
+          "confuse",
+          "arrest",
+          "trophy",
+          "volcano",
+          "inhabit",
+          "clarify",
+          "liberty",
+          "blend"
+        ],
+        "sources": [
+          "Cambridge Primary",
+          "Common Core Grade 4",
+          "Flocabulary Grade 4",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 4"
+        ]
+      },
+      {
+        "setNumber": 6,
+        "words": [
+          "alert",
+          "shelter",
+          "define",
+          "evolve",
+          "journal",
+          "constant",
+          "dense",
+          "village",
+          "compile",
+          "theory",
+          "cause",
+          "insert"
+        ],
+        "sources": [
+          "CBSE India",
+          "Cambridge Primary",
+          "Common Core Grade 4",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "Sadlier Vocab Workshop",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 4"
+        ]
+      },
+      {
+        "setNumber": 7,
+        "words": [
+          "brawling",
+          "orient",
+          "permit",
+          "declare",
+          "assure",
+          "export",
+          "anonymous",
+          "current",
+          "polls",
+          "contact",
+          "output",
+          "expect"
+        ],
+        "sources": [
+          "Benchmark Advance",
+          "Flocabulary Grade 4",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 4"
+        ]
+      },
+      {
+        "setNumber": 8,
+        "words": [
+          "ladder",
+          "scheme",
+          "exploit",
+          "humor",
+          "pollution",
+          "combine",
+          "customary",
+          "fume",
+          "predicted",
+          "revenue",
+          "affect",
+          "evidence"
+        ],
+        "sources": [
+          "Benchmark Advance",
+          "Cambridge Primary",
+          "Common Core Grade 4",
+          "Common Core Grade 5",
+          "Flocabulary Grade 4",
+          "Tier 2 Academic"
+        ]
+      },
+      {
+        "setNumber": 9,
+        "words": [
+          "virtual",
+          "initial",
+          "threatens",
+          "market",
+          "benefit",
+          "sailor",
+          "patriotism",
+          "morale",
+          "design",
+          "despite",
+          "connect",
+          "revise"
+        ],
+        "sources": [
+          "Cambridge Primary",
+          "Common Core Grade 4",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 4"
+        ]
+      },
+      {
+        "setNumber": 10,
+        "words": [
+          "trigger",
+          "engraving",
+          "united",
+          "detail",
+          "figurative",
+          "prison",
+          "sauntered",
+          "thunder",
+          "classic",
+          "garage",
+          "uniform",
+          "stanza"
+        ],
+        "sources": [
+          "Benchmark Advance",
+          "Cambridge Primary",
+          "Common Core Grade 4",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 4"
+        ]
+      },
+      {
+        "setNumber": 11,
+        "words": [
+          "idiom",
+          "adjust",
+          "simile",
+          "synonym",
+          "consume",
+          "extract",
+          "highway",
+          "devote",
+          "domain",
+          "comment",
+          "ascend",
+          "increasing"
+        ],
+        "sources": [
+          "Cambridge Primary",
+          "Common Core Grade 4",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "Scholastic",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 4"
+        ]
+      },
+      {
+        "setNumber": 12,
+        "words": [
+          "reluctantly",
+          "curtain",
+          "distract",
+          "muttered",
+          "assist",
+          "rainbow",
+          "carpet",
+          "simplify",
+          "update",
+          "carefree",
+          "theatre",
+          "attentive"
+        ],
+        "sources": [
+          "Benchmark Advance",
+          "Cambridge Primary",
+          "Common Core Grade 4",
+          "Flocabulary Grade 4",
+          "Tier 2 Academic"
+        ]
+      },
+      {
+        "setNumber": 13,
+        "words": [
+          "extend",
+          "practical",
+          "persevere",
+          "considerable",
+          "slipper",
+          "revolution",
+          "vision",
+          "effective",
+          "image",
+          "concept",
+          "episode",
+          "volume"
+        ],
+        "sources": [
+          "Benchmark Advance",
+          "Cambridge Primary",
+          "Common Core Grade 4",
+          "Common Core Grade 5",
+          "Flocabulary Grade 4",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 4"
+        ]
+      },
+      {
+        "setNumber": 14,
+        "words": [
+          "consist",
+          "intelligence",
+          "confirm",
+          "eliminate",
+          "obtain",
+          "castle",
+          "element",
+          "section",
+          "economy",
+          "example",
+          "obeyed",
+          "reason"
+        ],
+        "sources": [
+          "Benchmark Advance",
+          "Cambridge Primary",
+          "Common Core Grade 4",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "Scholastic",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 4"
+        ]
+      },
+      {
+        "setNumber": 15,
+        "words": [
+          "create",
+          "glimpse",
+          "flight",
+          "visual",
+          "impose",
+          "isolate",
+          "burrow",
+          "retain",
+          "blossom",
+          "sustain",
+          "finance",
+          "arena"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "CBSE India",
+          "Cambridge Primary",
+          "Flocabulary Grade 4",
+          "SSAT Elementary",
+          "Sadlier Vocab Workshop",
+          "Tier 2 Academic"
+        ]
+      },
+      {
+        "setNumber": 16,
+        "words": [
+          "emission",
+          "exclude",
+          "meter",
+          "circular",
+          "compare",
+          "dwell",
+          "behalf",
+          "adaptation",
+          "vanished",
+          "repetition",
+          "period",
+          "overall"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "Benchmark Advance",
+          "Common Core Grade 4",
+          "Flocabulary Grade 4",
+          "Scholastic",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 4"
+        ]
+      },
+      {
+        "setNumber": 17,
+        "words": [
+          "disaster",
+          "estimate",
+          "stadium",
+          "intense",
+          "jungle",
+          "coax",
+          "function",
+          "horror",
+          "document",
+          "embrace",
+          "attach",
+          "migrate"
+        ],
+        "sources": [
+          "Cambridge Primary",
+          "Common Core Grade 4",
+          "Flocabulary Grade 4",
+          "Tier 2 Academic"
+        ]
+      },
+      {
+        "setNumber": 18,
+        "words": [
+          "haven",
+          "promote",
+          "concern",
+          "approached",
+          "amendment",
+          "captivity",
+          "column",
+          "usually",
+          "comparison",
+          "courageous",
+          "rarely",
+          "composition"
+        ],
+        "sources": [
+          "Benchmark Advance",
+          "Common Core Grade 4",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 4"
+        ]
+      },
+      {
+        "setNumber": 19,
+        "words": [
+          "massacre",
+          "submit",
+          "baggage",
+          "cushion",
+          "survey",
+          "humble",
+          "target",
+          "exclaimed",
+          "construct",
+          "attractive",
+          "immortal",
+          "chamber"
+        ],
+        "sources": [
+          "Cambridge Primary",
+          "Common Core Grade 4",
+          "Flocabulary Grade 4",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 4"
+        ]
+      },
+      {
+        "setNumber": 20,
+        "words": [
+          "linger",
+          "project",
+          "proceed",
+          "nuclear",
+          "enormous",
+          "undergo",
+          "communication",
+          "infer",
+          "reject",
+          "elegant",
+          "emotion",
+          "critical"
+        ],
+        "sources": [
+          "Common Core Grade 4",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 4"
+        ]
+      },
+      {
+        "setNumber": 21,
+        "words": [
+          "strolled",
+          "hatchet",
+          "furious",
+          "network",
+          "edible",
+          "commit",
+          "consult",
+          "secure",
+          "transportation",
+          "palace",
+          "factor",
+          "discipline"
+        ],
+        "sources": [
+          "Benchmark Advance",
+          "Cambridge Primary",
+          "Common Core Grade 3",
+          "Common Core Grade 4",
+          "Common Core Grade 5",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "SSAT Elementary",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 4"
+        ]
+      },
+      {
+        "setNumber": 22,
+        "words": [
+          "control",
+          "fragile",
+          "hazard",
+          "defiance",
+          "metaphor",
+          "passive",
+          "develop",
+          "conduct",
+          "genuine",
+          "option",
+          "imagery",
+          "outcome"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "CBSE India",
+          "Common Core Grade 3",
+          "Common Core Grade 4",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "SSAT Elementary",
+          "Scholastic",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 4"
+        ]
+      },
+      {
+        "setNumber": 23,
+        "words": [
+          "helmet",
+          "standoff",
+          "gradual",
+          "concert",
+          "valve",
+          "import",
+          "candidate",
+          "perspective",
+          "lecture",
+          "difference",
+          "suspend",
+          "abroad"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "Benchmark Advance",
+          "Cambridge Primary",
+          "Common Core Grade 4",
+          "Flocabulary Grade 4",
+          "Sadlier Vocab Workshop",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 4"
+        ]
+      },
+      {
+        "setNumber": 24,
+        "words": [
+          "utilize",
+          "automatically",
+          "exceed",
+          "detect",
+          "monitor",
+          "complex",
+          "status",
+          "policy",
+          "honorable",
+          "insisted",
+          "pillow",
+          "companion"
+        ],
+        "sources": [
+          "Benchmark Advance",
+          "Cambridge Primary",
+          "Common Core Grade 4",
+          "Flocabulary Grade 4",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 4"
+        ]
+      }
+    ],
+    "totalWords": 288,
+    "totalSets": 24
+  },
+  "grade5": {
+    "sets": [
+      {
+        "setNumber": 1,
+        "words": [
+          "responsible",
+          "aroma",
+          "familiar",
+          "campaign",
+          "alternative",
+          "accident",
+          "bicycle",
+          "historic",
+          "escalate",
+          "evacuate",
+          "provision",
+          "divert"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "Benchmark Advance",
+          "British KS2",
+          "Common Core Grade 5",
+          "Flocabulary Grade 5",
+          "SSAT Elementary",
+          "Tier 2 Academic"
+        ]
+      },
+      {
+        "setNumber": 2,
+        "words": [
+          "proportion",
+          "tragedy",
+          "system",
+          "associate",
+          "decide",
+          "characteristic",
+          "weary",
+          "cathedral",
+          "reporter",
+          "distinct",
+          "resilient",
+          "framework"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Cambridge Primary",
+          "EduKate Singapore",
+          "Flocabulary Grade 5",
+          "SSAT Elementary",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wordly Wise Book 5"
+        ]
+      },
+      {
+        "setNumber": 3,
+        "words": [
+          "ferocious",
+          "disastrous",
+          "eventually",
+          "achievement",
+          "calamity",
+          "therefore",
+          "distinguish",
+          "beverage",
+          "symbolize",
+          "execute",
+          "jeopardize",
+          "individual"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "EduKate Singapore",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wordly Wise Book 5"
+        ]
+      },
+      {
+        "setNumber": 4,
+        "words": [
+          "heritage",
+          "dominate",
+          "display",
+          "guarantee",
+          "excerpt",
+          "frugal",
+          "declaration",
+          "obstacle",
+          "banter",
+          "register",
+          "various",
+          "culture"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Common Core Grade 5",
+          "Flocabulary Grade 5",
+          "Sadlier Vocab Workshop",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3",
+          "Wordly Wise Book 3",
+          "Wordly Wise Book 5"
+        ]
+      },
+      {
+        "setNumber": 5,
+        "words": [
+          "earth",
+          "principal",
+          "cemetery",
+          "perpendicular",
+          "mammoth",
+          "adversary",
+          "supreme",
+          "possession",
+          "rhythm",
+          "gale",
+          "recently",
+          "physical"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Common Core Grade 5",
+          "Flocabulary Grade 5",
+          "Scholastic",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 4",
+          "Wordly Wise Book 5"
+        ]
+      },
+      {
+        "setNumber": 6,
+        "words": [
+          "congregation",
+          "peculiar",
+          "explain",
+          "ambiguous",
+          "protagonist",
+          "existence",
+          "dilemma",
+          "aggravate",
+          "independent",
+          "kudos",
+          "dictate",
+          "regulate"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Common Core Grade 5",
+          "EduKate Singapore",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "PiAcademy GCSE",
+          "SSAT Elementary",
+          "Sadlier Vocab Workshop",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3"
+        ]
+      },
+      {
+        "setNumber": 7,
+        "words": [
+          "precaution",
+          "controversy",
+          "fascinate",
+          "abundant",
+          "information",
+          "disguise",
+          "abuse",
+          "zany",
+          "ominous",
+          "tolerate",
+          "conscience",
+          "brazen"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Common Core Grade 5",
+          "EduKate Singapore",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "PiAcademy GCSE",
+          "SSAT Elementary",
+          "Sadlier Vocab Workshop",
+          "Singapore MOE/PSLE"
+        ]
+      },
+      {
+        "setNumber": 8,
+        "words": [
+          "ail",
+          "dictionary",
+          "allot",
+          "queue",
+          "integrate",
+          "vertical",
+          "detective",
+          "stable",
+          "procedure",
+          "splendid",
+          "external",
+          "investigate"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Cambridge Primary",
+          "Common Core Grade 3",
+          "Common Core Grade 5",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "SSAT Elementary",
+          "Sadlier Vocab Workshop",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wordly Wise Book 3",
+          "Wordly Wise Book 5"
+        ]
+      },
+      {
+        "setNumber": 9,
+        "words": [
+          "occupy",
+          "soothe",
+          "passenger",
+          "precise",
+          "confront",
+          "centre",
+          "interrupt",
+          "exhilarating",
+          "participate",
+          "imagine",
+          "likewise",
+          "quaint"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "CBSE India",
+          "Cambridge Primary",
+          "Common Core Grade 3",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 5",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3"
+        ]
+      },
+      {
+        "setNumber": 10,
+        "words": [
+          "marvellous",
+          "jubilant",
+          "demonstrate",
+          "circumstance",
+          "apprehensive",
+          "descend",
+          "potential",
+          "parallel",
+          "indicate",
+          "horizontal",
+          "excellent",
+          "argument"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Common Core Grade 3",
+          "Common Core Grade 4",
+          "Common Core Grade 5",
+          "EduKate Singapore",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "Scholastic",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic"
+        ]
+      },
+      {
+        "setNumber": 11,
+        "words": [
+          "supplement",
+          "suggest",
+          "petrified",
+          "justify",
+          "transport",
+          "arrive",
+          "twelfth",
+          "announce",
+          "yield",
+          "muddle",
+          "abstract",
+          "conscious"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Common Core Grade 3",
+          "Common Core Grade 5",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 5",
+          "Sadlier Vocab Workshop",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic"
+        ]
+      },
+      {
+        "setNumber": 12,
+        "words": [
+          "jewellery",
+          "awkward",
+          "particular",
+          "enthusiasm",
+          "dissatisfied",
+          "prejudice",
+          "instance",
+          "desperate",
+          "detriment",
+          "apparatus",
+          "prey",
+          "inhabitant"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "CBSE India",
+          "Cambridge Primary",
+          "Common Core Grade 5",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "Sadlier Vocab Workshop",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 3",
+          "Wit & Wisdom Grade 4"
+        ]
+      },
+      {
+        "setNumber": 13,
+        "words": [
+          "negotiate",
+          "minimize",
+          "motivation",
+          "reinforce",
+          "prohibit",
+          "transmit",
+          "summit",
+          "restaurant",
+          "blunt",
+          "opportunity",
+          "briskly",
+          "engineer"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "CBSE India",
+          "Cambridge Primary",
+          "Common Core Grade 5",
+          "Flocabulary Grade 5",
+          "SSAT Elementary",
+          "Sadlier Vocab Workshop",
+          "Tier 2 Academic"
+        ]
+      },
+      {
+        "setNumber": 14,
+        "words": [
+          "mimic",
+          "quandary",
+          "anticipate",
+          "collaborate",
+          "frequently",
+          "rural",
+          "claim",
+          "vehicle",
+          "signature",
+          "blizzard",
+          "illustrate",
+          "frustrate"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "CBSE India",
+          "Cambridge Primary",
+          "Common Core Grade 3",
+          "Common Core Grade 5",
+          "EduKate Singapore",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "Sadlier Vocab Workshop",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wordly Wise Book 3",
+          "Wordly Wise Book 5"
+        ]
+      },
+      {
+        "setNumber": 15,
+        "words": [
+          "tension",
+          "dazzling",
+          "dynamic",
+          "continue",
+          "hurricane",
+          "decade",
+          "endeavor",
+          "substitute",
+          "hardship",
+          "deprive",
+          "domestic",
+          "interval"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Cambridge Primary",
+          "Common Core Grade 5",
+          "Flocabulary Grade 5",
+          "SSAT Elementary",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic"
+        ]
+      },
+      {
+        "setNumber": 16,
+        "words": [
+          "idealism",
+          "strength",
+          "determine",
+          "gigantic",
+          "burden",
+          "harass",
+          "compassion",
+          "admire",
+          "animate",
+          "definite",
+          "harmonious",
+          "massive"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "CBSE India",
+          "Common Core Grade 3",
+          "Common Core Grade 5",
+          "EduKate Singapore",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "SSAT Elementary",
+          "Singapore MOE/PSLE",
+          "Wordly Wise Book 5"
+        ]
+      },
+      {
+        "setNumber": 17,
+        "words": [
+          "strategy",
+          "abundance",
+          "especially",
+          "consequence",
+          "enigmatic",
+          "classify",
+          "aimless",
+          "manipulate",
+          "shoulder",
+          "unexpected",
+          "altitude",
+          "accommodate"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Common Core Grade 5",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "PiAcademy GCSE",
+          "SSAT Elementary",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic"
+        ]
+      },
+      {
+        "setNumber": 18,
+        "words": [
+          "concentrate",
+          "exercise",
+          "dedicate",
+          "durable",
+          "deliberate",
+          "improvise",
+          "famine",
+          "elaborate",
+          "vow",
+          "compassionate",
+          "dispute",
+          "gist"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "CBSE India",
+          "Common Core Grade 5",
+          "Flocabulary Grade 5",
+          "Sadlier Vocab Workshop",
+          "Singapore MOE/PSLE",
+          "Wit & Wisdom Grade 4"
+        ]
+      },
+      {
+        "setNumber": 19,
+        "words": [
+          "accomplish",
+          "champion",
+          "documentary",
+          "perseverance",
+          "majority",
+          "vivid",
+          "cooperate",
+          "simulate",
+          "waddle",
+          "appreciate",
+          "environment",
+          "technical"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "CBSE India",
+          "Cambridge Primary",
+          "Common Core Grade 4",
+          "Common Core Grade 5",
+          "EduKate Singapore",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "SSAT Elementary",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wordly Wise Book 5"
+        ]
+      },
+      {
+        "setNumber": 20,
+        "words": [
+          "resume",
+          "hindrance",
+          "platform",
+          "temporary",
+          "leisure",
+          "bungle",
+          "opposed",
+          "solemn",
+          "irritate",
+          "collapse",
+          "operate",
+          "kindle"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Cambridge Primary",
+          "Common Core Grade 4",
+          "Common Core Grade 5",
+          "Flocabulary Grade 5",
+          "Tier 2 Academic",
+          "Wordly Wise Book 5"
+        ]
+      },
+      {
+        "setNumber": 21,
+        "words": [
+          "conceal",
+          "plentiful",
+          "cope",
+          "craving",
+          "encourage",
+          "mechanic",
+          "jest",
+          "sole",
+          "moral",
+          "impulse",
+          "belligerent",
+          "knowledge"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Cambridge Primary",
+          "Common Core Grade 3",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "PiAcademy GCSE",
+          "SSAT Elementary",
+          "Sadlier Vocab Workshop",
+          "Tier 2 Academic",
+          "Wordly Wise Book 3",
+          "Wordly Wise Book 5"
+        ]
+      },
+      {
+        "setNumber": 22,
+        "words": [
+          "drowsy",
+          "navigate",
+          "tempest",
+          "formidable",
+          "scarce",
+          "ambulance",
+          "benevolent",
+          "cask",
+          "diversity",
+          "blunder",
+          "exaggerate",
+          "comprehend"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Cambridge Primary",
+          "Common Core Grade 4",
+          "Common Core Grade 5",
+          "EduKate Singapore",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "PiAcademy GCSE",
+          "Sadlier Vocab Workshop",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 4",
+          "Wordly Wise Book 3",
+          "Wordly Wise Book 5"
+        ]
+      },
+      {
+        "setNumber": 23,
+        "words": [
+          "exhilarated",
+          "scenario",
+          "emphasize",
+          "liberal",
+          "famous",
+          "nuisance",
+          "quintessence",
+          "bracelet",
+          "stout",
+          "institute",
+          "miniature",
+          "meticulous"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "CBSE India",
+          "Cambridge Primary",
+          "EduKate Singapore",
+          "Flocabulary Grade 5",
+          "Sadlier Vocab Workshop",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wordly Wise Book 5"
+        ]
+      },
+      {
+        "setNumber": 24,
+        "words": [
+          "appear",
+          "elated",
+          "response",
+          "debate",
+          "breath",
+          "orchard",
+          "achieve",
+          "available",
+          "experience",
+          "mumble",
+          "sophomore",
+          "barrier"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "CBSE India",
+          "Common Core Grade 3",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 5",
+          "SSAT Elementary",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic"
+        ]
+      },
+      {
+        "setNumber": 25,
+        "words": [
+          "impact",
+          "venture",
+          "challenge",
+          "protocol",
+          "melancholy",
+          "extraordinary",
+          "dimension",
+          "tremble",
+          "capacity",
+          "withdraw",
+          "emphasis",
+          "solution"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "Common Core Grade 5",
+          "EduKate Singapore",
+          "Flocabulary Grade 5",
+          "SSAT Elementary",
+          "Sadlier Vocab Workshop",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic"
+        ]
+      },
+      {
+        "setNumber": 26,
+        "words": [
+          "source",
+          "abandon",
+          "fiction",
+          "liberate",
+          "astounding",
+          "keen",
+          "protest",
+          "sincere",
+          "apparent",
+          "recommend",
+          "adhesive",
+          "government"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Common Core Grade 3",
+          "Common Core Grade 4",
+          "Common Core Grade 5",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "SSAT Elementary",
+          "Scholastic",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 27,
+        "words": [
+          "pronunciation",
+          "resolve",
+          "extensive",
+          "empathy",
+          "deft",
+          "breathe",
+          "argue",
+          "decline",
+          "democracy",
+          "rhyme",
+          "determined",
+          "interpret"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Flocabulary Grade 5",
+          "PiAcademy GCSE",
+          "SSAT Elementary",
+          "Scholastic",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 4"
+        ]
+      },
+      {
+        "setNumber": 28,
+        "words": [
+          "jostle",
+          "prone",
+          "innovative",
+          "envy",
+          "hostile",
+          "calendar",
+          "contribute",
+          "petrify",
+          "former",
+          "objective",
+          "bystander",
+          "thorough"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Cambridge Primary",
+          "Common Core Grade 5",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "SSAT Elementary",
+          "Sadlier Vocab Workshop",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic"
+        ]
+      },
+      {
+        "setNumber": 29,
+        "words": [
+          "reassure",
+          "context",
+          "terminate",
+          "hover",
+          "hesitate",
+          "committee",
+          "appeal",
+          "accurate",
+          "confident",
+          "immediate",
+          "decree",
+          "envelope"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Cambridge Primary",
+          "Common Core Grade 3",
+          "Common Core Grade 5",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "Sadlier Vocab Workshop",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wordly Wise Book 3",
+          "Wordly Wise Book 5"
+        ]
+      },
+      {
+        "setNumber": 30,
+        "words": [
+          "adventure",
+          "illuminate",
+          "original",
+          "unfamiliar",
+          "express",
+          "veteran",
+          "extreme",
+          "continuous",
+          "effortless",
+          "primary",
+          "obsolete",
+          "exert"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Cambridge Primary",
+          "Common Core Grade 3",
+          "Common Core Grade 5",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 5",
+          "SSAT Elementary",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wordly Wise Book 5"
+        ]
+      },
+      {
+        "setNumber": 31,
+        "words": [
+          "average",
+          "equip",
+          "sacred",
+          "permission",
+          "oblivious",
+          "daunting",
+          "bruise",
+          "principle",
+          "muscle",
+          "bland",
+          "consumer",
+          "protect"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "EduKate Singapore",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 5",
+          "Scholastic",
+          "Tier 2 Academic"
+        ]
+      },
+      {
+        "setNumber": 32,
+        "words": [
+          "interfere",
+          "pleasant",
+          "generous",
+          "prosper",
+          "trait",
+          "cease",
+          "outskirts",
+          "prospect",
+          "parliament",
+          "overwhelm",
+          "community",
+          "reference"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Common Core Grade 3",
+          "Common Core Grade 5",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "SSAT Elementary",
+          "Tier 2 Academic",
+          "Wordly Wise Book 5"
+        ]
+      },
+      {
+        "setNumber": 33,
+        "words": [
+          "ample",
+          "evident",
+          "lofty",
+          "ridicule",
+          "magazine",
+          "cooperation",
+          "communicate",
+          "acknowledge",
+          "reign",
+          "uproot",
+          "identify",
+          "strange"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Cambridge Primary",
+          "Common Core Grade 3",
+          "Common Core Grade 5",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "SSAT Elementary",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wordly Wise Book 5"
+        ]
+      },
+      {
+        "setNumber": 34,
+        "words": [
+          "phenomenon",
+          "embarrass",
+          "abolish",
+          "population",
+          "anecdote",
+          "territory",
+          "valiant",
+          "compel",
+          "breach",
+          "anthem",
+          "stomach",
+          "consistent"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Common Core Grade 5",
+          "Flocabulary Grade 5",
+          "SSAT Elementary",
+          "Sadlier Vocab Workshop",
+          "Scholastic",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic"
+        ]
+      },
+      {
+        "setNumber": 35,
+        "words": [
+          "witness",
+          "indignant",
+          "character",
+          "shabby",
+          "appropriate",
+          "scientist",
+          "implement",
+          "alternate",
+          "independence",
+          "harrowing",
+          "wary",
+          "enterprise"
+        ],
+        "sources": [
+          "Cambridge Primary",
+          "EduKate Singapore",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "SSAT Elementary",
+          "Sadlier Vocab Workshop",
+          "Scholastic",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wordly Wise Book 5"
+        ]
+      },
+      {
+        "setNumber": 36,
+        "words": [
+          "sacrifice",
+          "criticise",
+          "suitcase",
+          "evaluate",
+          "distress",
+          "fortitude",
+          "occasion",
+          "colony",
+          "increase",
+          "organize",
+          "ridiculous",
+          "immigrate"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Cambridge Primary",
+          "Common Core Grade 5",
+          "EduKate Singapore",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "Sadlier Vocab Workshop",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wordly Wise Book 5"
+        ]
+      },
+      {
+        "setNumber": 37,
+        "words": [
+          "encounter",
+          "novel",
+          "urban",
+          "attached",
+          "conclude",
+          "anxious",
+          "curious",
+          "harbor",
+          "peninsula",
+          "boisterous",
+          "bond",
+          "unique"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Common Core Grade 5",
+          "Flocabulary Grade 5",
+          "SSAT Elementary",
+          "Scholastic",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wordly Wise Book 3",
+          "Wordly Wise Book 5"
+        ]
+      },
+      {
+        "setNumber": 38,
+        "words": [
+          "language",
+          "influence",
+          "hilarious",
+          "analyze",
+          "recognise",
+          "ecosystem",
+          "amateur",
+          "persuade",
+          "assume",
+          "expand",
+          "privilege",
+          "conflict"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Common Core Grade 3",
+          "Common Core Grade 4",
+          "Common Core Grade 5",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "Scholastic",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 4"
+        ]
+      },
+      {
+        "setNumber": 39,
+        "words": [
+          "alarmed",
+          "yacht",
+          "describe",
+          "equivalent",
+          "expansion",
+          "exhaust",
+          "convert",
+          "heroic",
+          "accelerate",
+          "vegetable",
+          "approximate",
+          "variety"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Common Core Grade 3",
+          "Common Core Grade 4",
+          "Common Core Grade 5",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 5",
+          "SSAT Elementary",
+          "Singapore MOE/PSLE",
+          "Wordly Wise Book 5"
+        ]
+      },
+      {
+        "setNumber": 40,
+        "words": [
+          "myth",
+          "profession",
+          "inquire",
+          "resemble",
+          "lightning",
+          "correspond",
+          "grope",
+          "alleviate",
+          "aggressive",
+          "contradiction",
+          "awe",
+          "fundamental"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Cambridge Primary",
+          "Flocabulary Grade 5",
+          "SSAT Elementary",
+          "Sadlier Vocab Workshop",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wordly Wise Book 5"
+        ]
+      },
+      {
+        "setNumber": 41,
+        "words": [
+          "magnanimous",
+          "access",
+          "curiosity",
+          "calculate",
+          "diligent",
+          "colossal",
+          "creativity",
+          "category",
+          "plaudit",
+          "approval",
+          "convenient",
+          "identity"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "CBSE India",
+          "Common Core Grade 4",
+          "Common Core Grade 5",
+          "EduKate Singapore",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "PiAcademy GCSE",
+          "Sadlier Vocab Workshop",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wordly Wise Book 5"
+        ]
+      },
+      {
+        "setNumber": 42,
+        "words": [
+          "foundation",
+          "nimble",
+          "summarize",
+          "wilderness",
+          "contrast",
+          "technology",
+          "mischievous",
+          "civic",
+          "soldier",
+          "candid",
+          "legitimate",
+          "nonchalant"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "CBSE India",
+          "Cambridge Primary",
+          "Common Core Grade 4",
+          "Common Core Grade 5",
+          "EduKate Singapore",
+          "Flocabulary Grade 5",
+          "PiAcademy GCSE",
+          "SSAT Elementary",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wit & Wisdom Grade 4"
+        ]
+      },
+      {
+        "setNumber": 43,
+        "words": [
+          "reveal",
+          "veer",
+          "mortified",
+          "authority",
+          "deceive",
+          "catastrophe",
+          "maximize",
+          "competition",
+          "exchange",
+          "exuberant",
+          "subsequent",
+          "generate"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Cambridge Primary",
+          "Common Core Grade 3",
+          "EduKate Singapore",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "SSAT Elementary",
+          "Sadlier Vocab Workshop",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic"
+        ]
+      },
+      {
+        "setNumber": 44,
+        "words": [
+          "ravenous",
+          "luxurious",
+          "jeer",
+          "predator",
+          "legendary",
+          "restrict",
+          "mirth",
+          "impression",
+          "unison",
+          "pedestrian",
+          "erode",
+          "huddle"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "CBSE India",
+          "Common Core Grade 5",
+          "EduKate Singapore",
+          "Flocabulary Grade 5",
+          "SSAT Elementary",
+          "Sadlier Vocab Workshop",
+          "Tier 2 Academic",
+          "Wordly Wise Book 5"
+        ]
+      },
+      {
+        "setNumber": 45,
+        "words": [
+          "capable",
+          "acquire",
+          "purpose",
+          "sequence",
+          "revolt",
+          "expectation",
+          "seldom",
+          "perceive",
+          "expedition",
+          "business",
+          "diverse",
+          "superior"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Common Core Grade 3",
+          "Common Core Grade 4",
+          "Common Core Grade 5",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 4",
+          "Flocabulary Grade 5",
+          "SSAT Elementary",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic",
+          "Wordly Wise Book 3"
+        ]
+      },
+      {
+        "setNumber": 46,
+        "words": [
+          "accompany",
+          "gratitude",
+          "gullible",
+          "knack",
+          "foreign",
+          "maim",
+          "enhance",
+          "secretary",
+          "disappear",
+          "internal",
+          "significant",
+          "alter"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Common Core Grade 5",
+          "EduKate Singapore",
+          "SSAT Elementary",
+          "Sadlier Vocab Workshop",
+          "Singapore MOE/PSLE",
+          "Tier 2 Academic"
+        ]
+      },
+      {
+        "setNumber": 47,
+        "words": [
+          "jubilation",
+          "neighbour",
+          "reliable",
+          "experiment",
+          "queasy",
+          "guardian",
+          "busy",
+          "explanation",
+          "integrity",
+          "furniture",
+          "programme",
+          "reluctant"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Cambridge Primary",
+          "Flocabulary Grade 5",
+          "SSAT Elementary",
+          "Singapore MOE/PSLE"
+        ]
+      },
+      {
+        "setNumber": 48,
+        "words": [
+          "sanctuary",
+          "umbrella",
+          "gape",
+          "taunt",
+          "detrimental",
+          "professional",
+          "currency",
+          "reform",
+          "measure",
+          "proclamation",
+          "circle",
+          "separate"
+        ],
+        "sources": [
+          "Australian Curriculum",
+          "British KS2",
+          "Cambridge Primary",
+          "Common Core Grade 3",
+          "Common Core Grade 4",
+          "Flocabulary Grade 3",
+          "Flocabulary Grade 5",
+          "SSAT Elementary",
+          "Sadlier Vocab Workshop",
+          "Scholastic",
+          "Tier 2 Academic",
+          "Wordly Wise Book 5"
+        ]
+      }
+    ],
+    "totalWords": 576,
+    "totalSets": 48
+  },
+  "totalUniqueWords": 1344
+}

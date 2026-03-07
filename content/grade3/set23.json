@@ -1,0 +1,589 @@
+{
+  "grade": 3,
+  "setNumber": 23,
+  "words": [
+    "aim",
+    "halt",
+    "release",
+    "error",
+    "review",
+    "coast",
+    "mention",
+    "passage",
+    "marsh",
+    "provisions",
+    "resource",
+    "glisten"
+  ],
+  "sources": [
+    "Australian Curriculum",
+    "British KS2",
+    "CBSE India",
+    "Common Core Grade 3",
+    "Common Core Grade 4",
+    "Common Core Grade 5",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Tier 2 Academic",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "detective or spy fiction",
+  "story": {
+    "genre": "detective or spy fiction",
+    "characters": [
+      "Zara",
+      "Arnav",
+      "Saanvi"
+    ],
+    "parts": [
+      {
+        "title": "The Assignment",
+        "text": "Agent Zara received the message at exactly midnight. Her **aim** was clear \u2014 find the stolen documents before dawn. She took a moment to **review** her notes one final time, checking every detail for even the smallest **error**. There was no room for mistakes on a mission this important.",
+        "wordCount": 50
+      },
+      {
+        "title": "Into Danger",
+        "text": "Zara crept along the rocky **coast**, where the crashing waves masked the sound of her footsteps. She was careful not to **mention** her location on the radio \u2014 the enemy might be listening. A hidden **passage** ran beneath the old warehouse, and she squeezed through it without pausing to **halt**. The wet walls began to **glisten** in the dim beam of her torch.",
+        "wordCount": 64
+      },
+      {
+        "title": "The Vault",
+        "text": "Inside, she found the safe \u2014 half-buried in a muddy **marsh** of old papers and broken shelves. It held the stolen **provisions** maps that the spy network needed to **release** to the public. Arnav had told her that the library archives were the most valuable **resource** for tracing the originals. \"I've found them,\" she whispered into her earpiece to Saanvi.",
+        "wordCount": 63
+      },
+      {
+        "title": "Mission Complete",
+        "text": "Agent Zara escaped just as the sun rose. The documents revealed a network of stolen art worth millions. Arnav met her at the safe house with a rare smile. \"Outstanding work,\" he said. \"You've just solved a case that's been open for fifteen years.\" Zara allowed herself a small smile. Another mission complete \u2014 but she knew the next one was already waiting.",
+        "wordCount": 63
+      }
+    ],
+    "wordCount": 240
+  },
+  "definitions": [
+    {
+      "word": "aim",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To point or direct toward a target. Example: She aimed the ball at the basket.",
+      "meaning2": "A goal or purpose. Example: His aim is to become a doctor.",
+      "studentChallenge": "Her ___ was to finish the race.",
+      "sentence": ""
+    },
+    {
+      "word": "halt",
+      "partOfSpeech": "verb",
+      "meaning1": "To stop moving or doing something. Example: The crossing guard raised her hand to halt the traffic so the children could cross safely.",
+      "meaning2": "A complete stop or pause. Example: The train came to a halt at the station.",
+      "studentChallenge": "The teacher asked everyone to ___ what they were doing and listen to the announcement.",
+      "sentence": ""
+    },
+    {
+      "word": "release",
+      "partOfSpeech": "verb",
+      "meaning1": "To set free or let go. Example: The wildlife centre decided to release the healed owl back into the forest.",
+      "meaning2": "To make something available to the public. Example: The studio will release the new film next Friday.",
+      "studentChallenge": "The children cheered as the volunteers began to ___ the baby sea turtles into the ocean.",
+      "sentence": ""
+    },
+    {
+      "word": "error",
+      "partOfSpeech": "noun",
+      "meaning1": "A mistake or something done incorrectly. Example: She found an error in her math homework and fixed it before turning it in.",
+      "meaning2": "",
+      "studentChallenge": "The spelling ___ in his report was easy to fix once his teacher pointed it out.",
+      "sentence": ""
+    },
+    {
+      "word": "review",
+      "partOfSpeech": "noun",
+      "meaning1": "A careful look at something to check it or give an opinion about it. Example: The film review in the newspaper said the movie was exciting and fun for the whole family.",
+      "meaning2": "To look at something again to study or check it. Example: We need to review our notes before the quiz tomorrow.",
+      "studentChallenge": "The teacher wrote a glowing ___ of the student's essay, praising her creativity and grammar.",
+      "sentence": ""
+    },
+    {
+      "word": "coast",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "The land next to the sea. Example: We drove along the coast to see the ocean.",
+      "meaning2": "To move without effort. Example: The bike coasted down the hill.",
+      "studentChallenge": "Beautiful beaches line the ___ of California.",
+      "sentence": ""
+    },
+    {
+      "word": "mention",
+      "partOfSpeech": "verb",
+      "meaning1": "To briefly talk about or refer to something. Example: Did anyone mention what time the soccer game starts tomorrow?",
+      "meaning2": "",
+      "studentChallenge": "She forgot to ___ that the meeting had been moved to a different room.",
+      "sentence": ""
+    },
+    {
+      "word": "passage",
+      "partOfSpeech": "noun",
+      "meaning1": "A section of a book or piece of writing. Example: Read the passage and answer the questions.",
+      "meaning2": "A narrow path or corridor. Example: The passage led to a secret room.",
+      "studentChallenge": "The ___ in the book described a beautiful garden.",
+      "sentence": ""
+    },
+    {
+      "word": "marsh",
+      "partOfSpeech": "noun",
+      "meaning1": "An area of low, wet land often covered with grasses and water. Example: Frogs and herons make their homes in the muddy marsh near the river.",
+      "meaning2": "",
+      "studentChallenge": "We wore tall rubber boots to walk through the ___ without getting our feet soaked.",
+      "sentence": ""
+    },
+    {
+      "word": "provisions",
+      "partOfSpeech": "noun",
+      "meaning1": "Supplies of food and other things needed for a journey or period of time. Example: The explorers packed enough provisions for a two-week trek through the jungle.",
+      "meaning2": "",
+      "studentChallenge": "Before setting sail, the crew loaded the ship with ___ including bread, dried fruit, and water.",
+      "sentence": ""
+    },
+    {
+      "word": "resource",
+      "partOfSpeech": "noun",
+      "meaning1": "Something useful that can be used when needed. Example: Water is an important natural resource.",
+      "meaning2": "",
+      "studentChallenge": "The library is a great ___ for research.",
+      "sentence": ""
+    },
+    {
+      "word": "glisten",
+      "partOfSpeech": "verb",
+      "meaning1": "To sparkle or shine with reflected light. Example: The morning dew glistened on the grass.",
+      "meaning2": "",
+      "studentChallenge": "The snow ___ in the bright sunlight.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "She carefully ___ the arrow at the target on the far wall and released it perfectly.",
+      "sentence2": "Her ___ for the summer was to learn to swim fifty metres without stopping.",
+      "options": [
+        "aim",
+        "mention",
+        "marsh",
+        "halt"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "aim"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The crossing guard raised her hand to ___ the traffic so the children could cross safely.",
+      "sentence2": "The teacher asked everyone to ___ what they were doing and listen to the important announcement.",
+      "options": [
+        "mention",
+        "glisten",
+        "halt",
+        "passage"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "halt"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The wildlife centre decided to ___ the healed owl back into the forest, setting it free once more.",
+      "sentence2": "The crowd cheered as the volunteers began to ___ the rescued sea turtles into the ocean.",
+      "options": [
+        "coast",
+        "aim",
+        "release",
+        "halt"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "release"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "She found an ___ in her math homework \u2014 a wrong number she had written by mistake \u2014 and fixed it.",
+      "sentence2": "The spelling ___ in his report was easy to correct once his teacher pointed it out.",
+      "options": [
+        "glisten",
+        "passage",
+        "mention",
+        "error"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "error"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The film ___ in the newspaper called it the most exciting adventure movie of the year.",
+      "sentence2": "The teacher wrote a glowing ___ of the student's essay, praising her creativity and grammar.",
+      "options": [
+        "provisions",
+        "error",
+        "aim",
+        "review"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "review"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "We drove along the rocky ___ for hours, watching the waves crash against the cliffs below.",
+      "sentence2": "Beautiful sandy beaches line the ___ of California, stretching for hundreds of kilometres.",
+      "options": [
+        "release",
+        "resource",
+        "coast",
+        "marsh"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "coast"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Did anyone ___ what time the football match starts? I only heard it briefly in passing.",
+      "sentence2": "She forgot to ___ that the meeting had been moved to a different room.",
+      "options": [
+        "mention",
+        "aim",
+        "release",
+        "halt"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "mention"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Read the short ___ carefully, then answer the five questions at the bottom of the page.",
+      "sentence2": "The ___ in the book described a beautiful moonlit garden in vivid detail.",
+      "options": [
+        "error",
+        "coast",
+        "resource",
+        "passage"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "passage"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Frogs and herons make their homes in the muddy, waterlogged ___ near the river.",
+      "sentence2": "We wore tall rubber boots to wade through the soggy ___ without getting our feet soaked.",
+      "options": [
+        "mention",
+        "marsh",
+        "resource",
+        "passage"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "marsh"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The explorers packed enough ___ for a two-week trek \u2014 food, water, and medical supplies.",
+      "sentence2": "Before setting sail, the crew loaded the ship with ___ including dried meat, biscuits, and fresh water.",
+      "options": [
+        "provisions",
+        "resource",
+        "aim",
+        "passage"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "provisions"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Clean water is the most valuable natural ___ on Earth \u2014 nothing can survive without it.",
+      "sentence2": "The library is an excellent ___ for research, with thousands of books and databases to explore.",
+      "options": [
+        "coast",
+        "resource",
+        "glisten",
+        "marsh"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "resource"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The morning dew made every blade of grass ___ like tiny diamonds in the early light.",
+      "sentence2": "The freshly fallen snow began to ___ brilliantly as the sun broke through the clouds.",
+      "options": [
+        "halt",
+        "glisten",
+        "provisions",
+        "coast"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "glisten"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "aim",
+      "halt",
+      "release",
+      "error",
+      "review",
+      "coast",
+      "mention",
+      "passage",
+      "marsh",
+      "provisions",
+      "resource",
+      "glisten"
+    ],
+    "passage": "Agent Dara's _(1)_ was clear: find the stolen map before midnight, focusing directly on the old lighthouse as her target. She did not slow down or _(2)_ for a single moment \u2014 stopping now would cost her the mission. The park ranger had agreed to _(3)_ the trained falcon once the thief was caught, setting it free to fly back into the wild. Every _(4)_ the thief made left behind a clue \u2014 a small mistake that Dara carefully photographed. She stopped to _(5)_ her notes, reading them over once more to check for anything she had missed. The narrow cliff path hugged the _(6)_, running right alongside the crashing sea below. She radioed her partner to _(7)_ the extra guards \u2014 just a quick note, nothing more. A hidden _(8)_ beneath the floorboards led deep under the building, its narrow corridor barely wide enough to squeeze through. Near the entrance of the tunnel, muddy water pooled in a low, soggy _(9)_ thick with reeds and frogs. Dara had packed her _(10)_ carefully: water, a torch, rope, and energy bars \u2014 everything needed for the night ahead. Clean water was her most precious _(11)_, so she saved every drop. The wet stone walls began to _(12)_ in the torchlight, each droplet sparkling like a tiny silver jewel.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "aim",
+        "options": [
+          "aim",
+          "provisions",
+          "mention",
+          "passage"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "halt",
+        "options": [
+          "halt",
+          "mention",
+          "coast",
+          "review"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "release",
+        "options": [
+          "release",
+          "halt",
+          "aim",
+          "marsh"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "error",
+        "options": [
+          "error",
+          "marsh",
+          "provisions",
+          "passage"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "review",
+        "options": [
+          "review",
+          "provisions",
+          "halt",
+          "coast"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "coast",
+        "options": [
+          "coast",
+          "review",
+          "marsh",
+          "error"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "mention",
+        "options": [
+          "mention",
+          "resource",
+          "review",
+          "marsh"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "passage",
+        "options": [
+          "passage",
+          "error",
+          "halt",
+          "coast"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "marsh",
+        "options": [
+          "marsh",
+          "halt",
+          "passage",
+          "coast"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "provisions",
+        "options": [
+          "provisions",
+          "passage",
+          "resource",
+          "coast"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "resource",
+        "options": [
+          "resource",
+          "glisten",
+          "coast",
+          "halt"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "glisten",
+        "options": [
+          "glisten",
+          "marsh",
+          "resource",
+          "review"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "aim",
+        "scale": [
+          "try",
+          "aim",
+          "target"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "halt",
+        "scale": [
+          "pause",
+          "halt",
+          "stop"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "release",
+        "scale": [
+          "loosen",
+          "release",
+          "free"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "error",
+        "scale": [
+          "slip",
+          "error",
+          "mistake"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "review",
+        "words": [
+          "ignore",
+          "examine",
+          "check",
+          "inspect"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "ignore"
+      },
+      {
+        "vocabWord": "coast",
+        "words": [
+          "shore",
+          "beach",
+          "inland",
+          "seaside"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "inland"
+      },
+      {
+        "vocabWord": "mention",
+        "words": [
+          "reference",
+          "cite",
+          "ignore",
+          "note"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "ignore"
+      },
+      {
+        "vocabWord": "passage",
+        "words": [
+          "section",
+          "route",
+          "corridor",
+          "blockade"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "blockade"
+      },
+      {
+        "vocabWord": "marsh",
+        "words": [
+          "swamp",
+          "bog",
+          "desert",
+          "wetland"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "desert"
+      },
+      {
+        "vocabWord": "provisions",
+        "words": [
+          "supplies",
+          "food",
+          "goods",
+          "shortage"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "shortage"
+      },
+      {
+        "vocabWord": "resource",
+        "words": [
+          "supply",
+          "lack",
+          "material",
+          "tool"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "lack"
+      },
+      {
+        "vocabWord": "glisten",
+        "words": [
+          "shine",
+          "sparkle",
+          "glitter",
+          "dullness"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "dullness"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "grade": 4,
+  "setNumber": 5,
+  "words": [
+    "compassion",
+    "distress",
+    "envy",
+    "frantic",
+    "humble",
+    "melancholy",
+    "resent",
+    "dignified",
+    "dismay",
+    "obstinate",
+    "yearn",
+    "sentimental"
+  ],
+  "sources": [
+    "Common Core Grade 4",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 4",
+    "CKLA Grade 4",
+    "Tier 2 Academic"
+  ],
+  "genre": "realistic school fiction",
+  "story": {
+    "genre": "realistic school fiction",
+    "characters": ["Mila", "Ethan", "Priya"],
+    "parts": [
+      {
+        "title": "The New Student",
+        "text": "Mila noticed the new student, Ethan, sitting alone at lunch with a look of **distress** on his face. He stared at his tray and seemed full of **melancholy**, as though something heavy sat on his heart. Mila felt a strong wave of **compassion** and decided right then that she would try to help him feel welcome."
+      },
+      {
+        "title": "A Rocky Start",
+        "text": "Mila asked Priya to join her in welcoming Ethan, but Priya felt a flash of **envy** because Mila always seemed to get attention for being kind. Priya was **obstinate** and refused to go at first, crossing her arms and looking away. Meanwhile, Ethan grew **frantic**, searching his backpack wildly for the homework he had somehow lost on his very first day at school."
+      },
+      {
+        "title": "Coming Together",
+        "text": "Mila watched Ethan's panic with **dismay** and hurried over to help. She spoke in a calm, **dignified** way that made Ethan feel respected. Priya began to **resent** being left out, but then she remembered how much she used to **yearn** for a friend when she was new at this school. She felt **sentimental** thinking about those lonely days, and she walked over with a **humble** smile to introduce herself at last."
+      },
+      {
+        "title": "A Fresh Start",
+        "text": "By the end of the week, the three of them were eating lunch together every day. Ethan told them it was the small act of kindness on that first afternoon that changed everything for him. Mila and Priya learned that reaching out to someone new can turn a hard moment into the beginning of a real and lasting friendship."
+      }
+    ],
+    "wordCount": 249
+  },
+  "definitions": [
+    {
+      "word": "compassion",
+      "partOfSpeech": "noun",
+      "meaning1": "A feeling of caring and wanting to help someone who is suffering. Example: She showed compassion by sitting with the boy who was crying.",
+      "meaning2": "",
+      "studentChallenge": "The nurse treated every patient with kindness and ___.",
+      "sentence": ""
+    },
+    {
+      "word": "distress",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A feeling of great worry, sadness, or pain. Example: The lost puppy was in distress, whimpering by the side of the road.",
+      "meaning2": "To cause someone worry or sadness. Example: The bad news seemed to distress everyone in the room.",
+      "studentChallenge": "The sound of the fire alarm caused ___ among the students.",
+      "sentence": ""
+    },
+    {
+      "word": "envy",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A feeling of wanting what someone else has. Example: He felt envy when his friend got the newest video game.",
+      "meaning2": "To wish you had something that belongs to someone else. Example: I envy her ability to draw such beautiful pictures.",
+      "studentChallenge": "She tried not to feel ___ when her sister won the award.",
+      "sentence": ""
+    },
+    {
+      "word": "frantic",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very worried and hurried, almost out of control. Example: The frantic mother searched everywhere for her missing child.",
+      "meaning2": "",
+      "studentChallenge": "He made a ___ search through his desk for the missing permission slip.",
+      "sentence": ""
+    },
+    {
+      "word": "humble",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not thinking you are better than other people; modest. Example: Even after winning the science fair, she remained humble and thanked her teammates.",
+      "meaning2": "Simple and not fancy. Example: They lived in a humble cottage at the edge of the village.",
+      "studentChallenge": "The champion was ___ and always gave credit to her coach.",
+      "sentence": ""
+    },
+    {
+      "word": "melancholy",
+      "partOfSpeech": "noun, adjective",
+      "meaning1": "A deep feeling of sadness that lasts a while. Example: A feeling of melancholy came over her when summer ended.",
+      "meaning2": "Causing or showing sadness. Example: The melancholy song made the audience feel quiet and thoughtful.",
+      "studentChallenge": "The rainy afternoon filled him with a quiet ___.",
+      "sentence": ""
+    },
+    {
+      "word": "resent",
+      "partOfSpeech": "verb",
+      "meaning1": "To feel angry or bitter about something you think is unfair. Example: She began to resent doing all the chores while her brother watched TV.",
+      "meaning2": "",
+      "studentChallenge": "He started to ___ being the only one who had to stay late.",
+      "sentence": ""
+    },
+    {
+      "word": "dignified",
+      "partOfSpeech": "adjective",
+      "meaning1": "Showing calm, serious behavior that earns respect. Example: The principal gave a dignified speech at the graduation ceremony.",
+      "meaning2": "",
+      "studentChallenge": "The judge entered the courtroom in a ___ manner.",
+      "sentence": ""
+    },
+    {
+      "word": "dismay",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A strong feeling of worry or disappointment. Example: To her dismay, the art project she worked on all week was ruined by the rain.",
+      "meaning2": "To make someone feel upset or disappointed. Example: The test results dismayed the whole class.",
+      "studentChallenge": "She looked at the broken vase with ___.",
+      "sentence": ""
+    },
+    {
+      "word": "obstinate",
+      "partOfSpeech": "adjective",
+      "meaning1": "Stubbornly refusing to change your mind or behavior. Example: The obstinate mule would not move no matter how hard they pulled.",
+      "meaning2": "",
+      "studentChallenge": "The ___ child refused to eat anything but pasta for dinner.",
+      "sentence": ""
+    },
+    {
+      "word": "yearn",
+      "partOfSpeech": "verb",
+      "meaning1": "To want something very much, especially something you cannot have right now. Example: She would yearn for snow days during the long, cold winter.",
+      "meaning2": "",
+      "studentChallenge": "He began to ___ for his old neighborhood after the family moved.",
+      "sentence": ""
+    },
+    {
+      "word": "sentimental",
+      "partOfSpeech": "adjective",
+      "meaning1": "Having or showing tender, warm feelings, often about memories. Example: She got sentimental looking at her baby photos.",
+      "meaning2": "",
+      "studentChallenge": "The old photo album made Grandma feel very ___.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "She showed great _______ by helping the injured bird find its way back to the nest.",
+      "sentence2": "The doctor's _______ for her patients was clear in the gentle way she spoke to them.",
+      "options": ["envy", "compassion", "dismay", "melancholy"],
+      "correctIndex": 1,
+      "correctAnswer": "compassion"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The sailors were in great _______ when the storm ripped their sail apart.",
+      "sentence2": "Hearing her dog was lost caused her terrible _______ all afternoon.",
+      "options": ["distress", "resent", "yearn", "humble"],
+      "correctIndex": 0,
+      "correctAnswer": "distress"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "He could not hide his _______ when his classmate got the lead role in the play.",
+      "sentence2": "She tried not to _______ her neighbor's beautiful garden, but it was hard.",
+      "options": ["dismay", "compassion", "envy", "frantic"],
+      "correctIndex": 2,
+      "correctAnswer": "envy"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The _______ squirrel raced in circles trying to find where it buried its acorns.",
+      "sentence2": "Mom was _______ when she realized we were late for the airport shuttle.",
+      "options": ["dignified", "obstinate", "sentimental", "frantic"],
+      "correctIndex": 3,
+      "correctAnswer": "frantic"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Despite winning every race, the athlete remained _______ and never bragged.",
+      "sentence2": "They grew up in a _______ home, but they were always happy together.",
+      "options": ["humble", "melancholy", "frantic", "obstinate"],
+      "correctIndex": 0,
+      "correctAnswer": "humble"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "A wave of _______ washed over him as he watched the last leaf fall from the tree.",
+      "sentence2": "The _______ music drifted through the empty hallway, making everyone feel a little sad.",
+      "options": ["distress", "envy", "compassion", "melancholy"],
+      "correctIndex": 3,
+      "correctAnswer": "melancholy"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "She began to _______ always being the one asked to clean up after art class.",
+      "sentence2": "He did not _______ his sister's success, but he wished people noticed his efforts too.",
+      "options": ["resent", "yearn", "dismay", "dignified"],
+      "correctIndex": 0,
+      "correctAnswer": "resent"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The _______ queen walked slowly through the crowd, waving with grace.",
+      "sentence2": "Even when he was upset, the teacher kept a calm and _______ tone.",
+      "options": ["frantic", "sentimental", "dignified", "obstinate"],
+      "correctIndex": 2,
+      "correctAnswer": "dignified"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "To her _______, the library had already closed by the time she arrived.",
+      "sentence2": "The coach watched with _______ as the team lost their lead in the final minute.",
+      "options": ["melancholy", "dismay", "humble", "envy"],
+      "correctIndex": 1,
+      "correctAnswer": "dismay"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The _______ cat sat in the doorway and refused to come inside despite the rain.",
+      "sentence2": "No amount of begging could change her _______ decision to keep her old backpack.",
+      "options": ["compassion", "obstinate", "sentimental", "distress"],
+      "correctIndex": 1,
+      "correctAnswer": "obstinate"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "She would _______ for summer vacation during the cold, dark months of winter.",
+      "sentence2": "The boy in the story would _______ for adventure beyond the mountains near his village.",
+      "options": ["yearn", "resent", "envy", "dismay"],
+      "correctIndex": 0,
+      "correctAnswer": "yearn"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Grandma became _______ when she found the old holiday ornaments in the attic.",
+      "sentence2": "The _______ letter from her best friend made her eyes fill with happy tears.",
+      "options": ["humble", "distress", "sentimental", "frantic"],
+      "correctIndex": 2,
+      "correctAnswer": "sentimental"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "compassion",
+      "distress",
+      "envy",
+      "frantic",
+      "humble",
+      "melancholy",
+      "resent",
+      "dignified",
+      "dismay",
+      "obstinate",
+      "yearn",
+      "sentimental"
+    ],
+    "passage": "The school talent show was only one day away, and Mila could feel the _(1)_ energy in the air as students rushed to rehearse their acts. Ethan sat alone backstage, a _(2)_ look on his face because his singing partner had moved away. He tried to stay _(3)_ and keep his chin up, but inside he felt great _(4)_ about performing by himself.\n\nPriya noticed Ethan and felt a pang of _(5)_. She walked over and offered to sing with him, showing real _(6)_. At first, Ethan was _(7)_ and said he did not need any help. He started to _(8)_ the idea that everyone thought he could not do it alone.\n\nBut deep down, Ethan knew he would _(9)_ for a partner if he went onstage without one. He accepted the offer with a _(10)_ nod and a quiet thank-you. As they practiced together, Priya felt _(11)_ remembering her own first performance. On show night, no one could _(12)_ their beautiful duet — the crowd cheered louder than ever before.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "frantic",
+        "options": ["frantic", "humble", "sentimental", "compassion"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "melancholy",
+        "options": ["dismay", "melancholy", "envy", "obstinate"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "dignified",
+        "options": ["frantic", "dignified", "distress", "resent"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "distress",
+        "options": ["yearn", "compassion", "distress", "humble"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "compassion",
+        "options": ["melancholy", "obstinate", "compassion", "frantic"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "humble",
+        "options": ["dignified", "humble", "distress", "envy"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "obstinate",
+        "options": ["sentimental", "obstinate", "yearn", "melancholy"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "resent",
+        "options": ["resent", "frantic", "dignified", "dismay"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "yearn",
+        "options": ["envy", "humble", "yearn", "compassion"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "dismay",
+        "options": ["obstinate", "dismay", "melancholy", "frantic"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "sentimental",
+        "options": ["sentimental", "distress", "resent", "dismay"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "envy",
+        "options": ["yearn", "envy", "humble", "compassion"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "distress",
+        "scale": ["Worry", "Distress", "Agony"],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "melancholy",
+        "scale": ["Sad", "Melancholy", "Grief-stricken"],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "envy",
+        "scale": ["Envy", "Jealousy", "Resentment"],
+        "vocabPosition": 0
+      },
+      {
+        "vocabWord": "frantic",
+        "scale": ["Nervous", "Anxious", "Frantic"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "compassion",
+        "words": ["Kindness", "Cruelty", "Sympathy", "Caring"],
+        "imposterIndex": 1,
+        "imposterWord": "Cruelty"
+      },
+      {
+        "vocabWord": "humble",
+        "words": ["Modest", "Arrogant", "Simple", "Meek"],
+        "imposterIndex": 1,
+        "imposterWord": "Arrogant"
+      },
+      {
+        "vocabWord": "resent",
+        "words": ["Appreciate", "Begrudge", "Grudge", "Bitterness"],
+        "imposterIndex": 0,
+        "imposterWord": "Appreciate"
+      },
+      {
+        "vocabWord": "dignified",
+        "words": ["Graceful", "Stately", "Foolish", "Noble"],
+        "imposterIndex": 2,
+        "imposterWord": "Foolish"
+      },
+      {
+        "vocabWord": "dismay",
+        "words": ["Alarm", "Dread", "Comfort", "Shock"],
+        "imposterIndex": 2,
+        "imposterWord": "Comfort"
+      },
+      {
+        "vocabWord": "obstinate",
+        "words": ["Stubborn", "Headstrong", "Flexible", "Unyielding"],
+        "imposterIndex": 2,
+        "imposterWord": "Flexible"
+      },
+      {
+        "vocabWord": "yearn",
+        "words": ["Long", "Crave", "Desire", "Dislike"],
+        "imposterIndex": 3,
+        "imposterWord": "Dislike"
+      },
+      {
+        "vocabWord": "sentimental",
+        "words": ["Heartless", "Tender", "Emotional", "Nostalgic"],
+        "imposterIndex": 0,
+        "imposterWord": "Heartless"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

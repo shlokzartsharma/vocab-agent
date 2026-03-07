@@ -1,0 +1,405 @@
+{
+  "grade": 3,
+  "setNumber": 8,
+  "words": [
+    "precious",
+    "swift",
+    "unite",
+    "border",
+    "certain",
+    "clasp",
+    "depart",
+    "fierce",
+    "journey",
+    "observe",
+    "superb",
+    "treasure"
+  ],
+  "sources": [
+    "Common Core Grade 3",
+    "CBSE India",
+    "Cambridge Primary",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Tier 2 Academic"
+  ],
+  "genre": "ocean or nature adventure",
+  "story": {
+    "genre": "ocean or nature adventure",
+    "characters": [
+      "Lena",
+      "Mateo",
+      "Aisha"
+    ],
+    "parts": [
+      {
+        "title": "The Map",
+        "text": "Captain Lena was **certain** she had found something important beneath the old floorboards. Wrapped in cloth was a map with a red line forming the **border** of a mysterious island. She knew she had to **depart** before the tide changed."
+      },
+      {
+        "title": "The Voyage",
+        "text": "The **journey** across the sea lasted nine days. On the fourth night, waves turned **fierce** and pounded the hull without mercy. But the wind soon became **swift**, and the ship cut through the water quickly. When she arrived, Lena began to **observe** the shoreline with care, looking for any sign of what the map promised."
+      },
+      {
+        "title": "The Discovery",
+        "text": "At last, beneath a great tree, she found a chest of gold — a **treasure** so **precious** she could barely breathe looking at it. Inside was a letter urging all who found it to **unite** and share the wealth. Lena thought this was a **superb** plan. She used the **clasp** on her cloak to pin the letter to her chest, then turned home — her heart full."
+      },
+      {
+        "title": "The Return",
+        "text": "When Lena returned to her village, she called everyone together and read the letter aloud. The villagers agreed to share the treasure equally. They used the gold to build a new school, a bridge, and a lighthouse. Lena's name was carved into the lighthouse wall, and sailors remembered her as the captain who brought a village together."
+      }
+    ],
+    "wordCount": 230
+  },
+  "definitions": [
+    {
+      "word": "precious",
+      "partOfSpeech": "adjective",
+      "meaning1": "Of great value; not to be wasted or treated carelessly. Example: Clean water is precious to villagers in the desert.",
+      "meaning2": "Greatly loved or treasured. Example: She kept her grandmother's ring because it was precious to her.",
+      "studentChallenge": "The ___ diamond was kept in a locked glass case at the museum.",
+      "sentence": ""
+    },
+    {
+      "word": "swift",
+      "partOfSpeech": "adjective",
+      "meaning1": "Moving or happening very quickly. Example: The runner was so swift that she crossed the finish line first.",
+      "meaning2": "",
+      "studentChallenge": "We had to make a ___ decision before the timer ran out.",
+      "sentence": ""
+    },
+    {
+      "word": "unite",
+      "partOfSpeech": "verb",
+      "meaning1": "To join together as one. Example: The two rival towns decided to unite and build one strong community.",
+      "meaning2": "",
+      "studentChallenge": "The teacher asked the students to ___ their voices and sing together.",
+      "sentence": ""
+    },
+    {
+      "word": "border",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "The edge or boundary of something. Example: The fence marked the border between our yard and the neighbor's garden.",
+      "meaning2": "A line separating two countries or regions. Example: They crossed the border into the next country.",
+      "studentChallenge": "A bright red line formed the ___ around the map, showing where one country ended.",
+      "sentence": ""
+    },
+    {
+      "word": "certain",
+      "partOfSpeech": "adjective",
+      "meaning1": "Sure; having no doubt. Example: She was certain that she had left her backpack on the bus.",
+      "meaning2": "Specific but not named. Example: Certain students were chosen to lead the project.",
+      "studentChallenge": "One thing is ___: if you practice every day, you will improve.",
+      "sentence": ""
+    },
+    {
+      "word": "clasp",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To hold something tightly. Example: She clasped her hand tightly so they wouldn't get separated in the crowd.",
+      "meaning2": "A device for fastening things together. Example: He used a silver clasp to hold his cape in place.",
+      "studentChallenge": "Mom told me to ___ her hand tightly as we crossed the busy street.",
+      "sentence": ""
+    },
+    {
+      "word": "depart",
+      "partOfSpeech": "verb",
+      "meaning1": "To leave a place. Example: The train was scheduled to depart at noon.",
+      "meaning2": "",
+      "studentChallenge": "It was hard to watch the ship ___ because our friends wouldn't return until spring.",
+      "sentence": ""
+    },
+    {
+      "word": "fierce",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very strong, violent, or intense. Example: The wolf let out a fierce growl that silenced every animal.",
+      "meaning2": "Showing strong feelings or determination. Example: She had a fierce desire to win the championship.",
+      "studentChallenge": "A ___ storm knocked down three oak trees overnight.",
+      "sentence": ""
+    },
+    {
+      "word": "journey",
+      "partOfSpeech": "noun",
+      "meaning1": "A long trip from one place to another. Example: The explorer's journey through the jungle took three weeks.",
+      "meaning2": "A process of personal change. Example: Growing up is a long journey with many surprising turns.",
+      "studentChallenge": "The family's ___ across the country took five days by car.",
+      "sentence": ""
+    },
+    {
+      "word": "observe",
+      "partOfSpeech": "verb",
+      "meaning1": "To watch carefully. Example: Scientists went to the rainforest to observe how the rare butterflies behaved.",
+      "meaning2": "To follow or obey a rule or custom. Example: Many families observe the tradition of eating together on Sundays.",
+      "studentChallenge": "From the back of the classroom, she would quietly ___ the new student.",
+      "sentence": ""
+    },
+    {
+      "word": "superb",
+      "partOfSpeech": "adjective",
+      "meaning1": "Excellent; of the highest quality. Example: The gymnast gave a superb performance, earning a perfect score.",
+      "meaning2": "",
+      "studentChallenge": "The meal was ___ — the flavors were balanced and everything was fresh.",
+      "sentence": ""
+    },
+    {
+      "word": "treasure",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A collection of valuable things like gold or jewels. Example: Pirates searched for buried treasure beneath the old lighthouse.",
+      "meaning2": "To value something greatly. Example: He chose to treasure the memory of his dog by keeping a photo on his desk.",
+      "studentChallenge": "The explorers finally found the hidden ___ inside the ancient cave.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The runner was so _______ that she crossed the finish line before anyone else even blinked.",
+      "sentence2": "We had to make a _______ decision before the timer ran out, with no time to think.",
+      "options": ["observe", "journey", "fierce", "swift"],
+      "correctIndex": 3,
+      "correctAnswer": "swift"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Scientists went to the rainforest to _______ how the rare butterflies behaved in the wild.",
+      "sentence2": "From the back of the classroom, Marcus would quietly _______ the new student to see if she needed a friend.",
+      "options": ["clasp", "observe", "depart", "border"],
+      "correctIndex": 1,
+      "correctAnswer": "observe"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "She kept her grandmother's ring in a velvet box because it was too _______ to risk losing.",
+      "sentence2": "Clean water is _______ to villagers in the desert, where every drop must be saved.",
+      "options": ["certain", "fierce", "precious", "superb"],
+      "correctIndex": 2,
+      "correctAnswer": "precious"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The two rival towns decided to _______ and build one strong community together.",
+      "sentence2": "The teacher asked the students to _______ their voices and sing as one choir.",
+      "options": ["unite", "clasp", "depart", "treasure"],
+      "correctIndex": 0,
+      "correctAnswer": "unite"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The explorer's _______ through the jungle took three weeks and crossed four rivers.",
+      "sentence2": "Growing up is a long _______ with many surprising turns along the way.",
+      "options": ["border", "treasure", "journey", "clasp"],
+      "correctIndex": 2,
+      "correctAnswer": "journey"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Mom told me to _______ her hand tightly so we wouldn't get separated in the crowd.",
+      "sentence2": "He used a silver _______ to hold his cape in place at the costume parade.",
+      "options": ["precious", "observe", "swift", "clasp"],
+      "correctIndex": 3,
+      "correctAnswer": "clasp"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The wolf let out a _______ growl that made every animal in the forest go completely silent.",
+      "sentence2": "A _______ storm knocked down three oak trees and flooded the basement overnight.",
+      "options": ["superb", "fierce", "certain", "border"],
+      "correctIndex": 1,
+      "correctAnswer": "fierce"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The train was scheduled to _______ at noon, so we rushed to reach the platform in time.",
+      "sentence2": "It was hard to watch the ship _______ because we knew our friends wouldn't return until spring.",
+      "options": ["treasure", "unite", "depart", "precious"],
+      "correctIndex": 2,
+      "correctAnswer": "depart"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "She was _______ that she had left her backpack on the bus — she remembered it clearly.",
+      "sentence2": "One thing is _______: if you practice every day, you will improve.",
+      "options": ["swift", "journey", "certain", "superb"],
+      "correctIndex": 2,
+      "correctAnswer": "certain"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The gymnast gave a _______ performance, earning a perfect score from every single judge.",
+      "sentence2": "The meal was _______ — the flavors were balanced, the bread was warm, and everything was fresh.",
+      "options": ["fierce", "precious", "border", "superb"],
+      "correctIndex": 3,
+      "correctAnswer": "superb"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The fence marked the _______ between our yard and the neighbor's garden.",
+      "sentence2": "A bright red line formed the _______ around the map, showing where one country ended and another began.",
+      "options": ["border", "journey", "clasp", "observe"],
+      "correctIndex": 0,
+      "correctAnswer": "border"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "He chose to _______ the memory of his dog by keeping a photo on his desk always.",
+      "sentence2": "Pirates searched for buried _______ hidden beneath the old lighthouse on the rocky shore.",
+      "options": ["depart", "swift", "treasure", "unite"],
+      "correctIndex": 2,
+      "correctAnswer": "treasure"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "precious",
+      "swift",
+      "unite",
+      "border",
+      "certain",
+      "clasp",
+      "depart",
+      "fierce",
+      "journey",
+      "observe",
+      "superb",
+      "treasure"
+    ],
+    "passage": "Captain Lena was _(1)_ she had found something important beneath the old floorboards. Wrapped in cloth was a map with a red line forming the _(2)_ of a mysterious island. She knew she had to _(3)_ before the tide changed.\n\nThe _(4)_ across the sea lasted nine days. On the fourth night, waves turned _(5)_ and pounded the hull without mercy. But the wind soon became _(6)_, and the ship cut through the water quickly.\n\nWhen she arrived, Lena began to _(7)_ the shoreline with care, looking for any sign of what the map promised. At last, beneath a great tree, she found a chest of gold — a _(8)_ so _(9)_ she could barely breathe looking at it. Inside was a letter urging all who found it to _(10)_ and share the wealth. Lena thought this was a _(11)_ plan. She used the _(12)_ on her cloak to pin the letter to her chest, then turned home — her heart full.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "certain",
+        "options": ["fierce", "superb", "certain", "swift"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "border",
+        "options": ["clasp", "border", "treasure", "journey"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "depart",
+        "options": ["observe", "unite", "depart", "clasp"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "journey",
+        "options": ["border", "treasure", "journey", "fierce"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "fierce",
+        "options": ["precious", "certain", "fierce", "superb"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "swift",
+        "options": ["observe", "border", "swift", "depart"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "observe",
+        "options": ["unite", "depart", "observe", "precious"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "treasure",
+        "options": ["journey", "border", "clasp", "treasure"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "precious",
+        "options": ["swift", "certain", "fierce", "precious"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "unite",
+        "options": ["depart", "observe", "unite", "border"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "superb",
+        "options": ["fierce", "precious", "superb", "certain"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "clasp",
+        "options": ["border", "observe", "swift", "clasp"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "swift",
+        "scale": ["Slow", "Fast", "Swift"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "fierce",
+        "scale": ["Mild", "Fierce", "Savage"],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "precious",
+        "scale": ["Nice", "Precious", "Priceless"],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "superb",
+        "scale": ["Good", "Superb", "Perfect"],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "precious",
+        "words": ["Valuable", "Treasured", "Cheap", "Cherished"],
+        "imposterIndex": 2,
+        "imposterWord": "Cheap"
+      },
+      {
+        "vocabWord": "swift",
+        "words": ["Slow", "Speedy", "Rapid", "Quick"],
+        "imposterIndex": 0,
+        "imposterWord": "Slow"
+      },
+      {
+        "vocabWord": "unite",
+        "words": ["Join", "Separate", "Merge", "Connect"],
+        "imposterIndex": 1,
+        "imposterWord": "Separate"
+      },
+      {
+        "vocabWord": "fierce",
+        "words": ["Calm", "Intense", "Ferocious", "Violent"],
+        "imposterIndex": 0,
+        "imposterWord": "Calm"
+      },
+      {
+        "vocabWord": "depart",
+        "words": ["Arrive", "Leave", "Go", "Exit"],
+        "imposterIndex": 0,
+        "imposterWord": "Arrive"
+      },
+      {
+        "vocabWord": "observe",
+        "words": ["Watch", "Ignore", "Notice", "Study"],
+        "imposterIndex": 1,
+        "imposterWord": "Ignore"
+      },
+      {
+        "vocabWord": "certain",
+        "words": ["Sure", "Positive", "Doubtful", "Confident"],
+        "imposterIndex": 2,
+        "imposterWord": "Doubtful"
+      },
+      {
+        "vocabWord": "journey",
+        "words": ["Trip", "Voyage", "Stay", "Expedition"],
+        "imposterIndex": 2,
+        "imposterWord": "Stay"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

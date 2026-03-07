@@ -1,0 +1,586 @@
+{
+  "grade": 3,
+  "setNumber": 21,
+  "words": [
+    "exotic",
+    "frost",
+    "frontier",
+    "marvel",
+    "reflex",
+    "preserve",
+    "rustic",
+    "series",
+    "tinker",
+    "expose",
+    "grip",
+    "revive"
+  ],
+  "sources": [
+    "CBSE India",
+    "Cambridge Primary",
+    "Common Core Grade 3",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Flocabulary Grade 5",
+    "Scholastic",
+    "Tier 2 Academic",
+    "Wit & Wisdom Grade 3",
+    "Wit & Wisdom Grade 4",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "sports underdog true story",
+  "story": {
+    "genre": "sports underdog true story",
+    "characters": [
+      "Maya",
+      "Kai",
+      "Lakshmi"
+    ],
+    "parts": [
+      {
+        "title": "The Tryouts",
+        "text": "The morning of tryouts, **frost** still covered the field when Maya arrived, her breath making small clouds in the cold air. She had trained all winter in a **rustic** gym on the edge of town \u2014 bare wooden floors, no heating, just her and the work. Competing at the national level was a new **frontier** for her, and she gripped her water bottle and told herself she was ready."
+      },
+      {
+        "title": "The Doubters",
+        "text": "A **series** of critics said Maya was too young and too unknown to belong in the competition. Coach Kai told her to **preserve** her energy for the field and ignore the noise. It was a **marvel** watching her train \u2014 she moved with speed and precision that seemed almost automatic, her body operating on pure **reflex**. She had discovered an **exotic** footwork technique from a training guide printed overseas, and it was unlike anything her opponents had seen."
+      },
+      {
+        "title": "The Turning Point",
+        "text": "During the semifinal, Maya decided to **expose** a weakness she had spotted in the opposing team's defense. All week she had found time to **tinker** with her approach angle, making tiny adjustments, and now it paid off \u2014 she sprinted through a gap, tightened her **grip** on the ball, and scored the goal that changed the game. The crowd cheered so loudly it seemed to **revive** every tired muscle in her body."
+      },
+      {
+        "title": "Victory",
+        "text": "They won the championship by a single point in the final seconds. Maya was lifted onto her teammates' shoulders. Kai told the reporters, \"She's the hardest-working athlete I've ever coached. Everyone doubted her, but she proved them all wrong.\" That night, Maya looked at her medal and smiled. The underdog had become the champion."
+      }
+    ],
+    "wordCount": 271
+  },
+  "definitions": [
+    {
+      "word": "exotic",
+      "partOfSpeech": "adjective",
+      "meaning1": "Unusual and exciting because it comes from a faraway place. Example: The zoo had exotic birds from tropical rainforests with bright feathers of every color.",
+      "meaning2": "",
+      "studentChallenge": "The market sold ___ fruits from distant countries that we had never tasted before.",
+      "sentence": ""
+    },
+    {
+      "word": "frost",
+      "partOfSpeech": "noun",
+      "meaning1": "A thin layer of ice crystals that forms on surfaces when the temperature drops below freezing. Example: The frost on the window made beautiful, feathery patterns in the morning light.",
+      "meaning2": "",
+      "studentChallenge": "The ___ covered the grass like a sparkling white blanket on the cold November morning.",
+      "sentence": ""
+    },
+    {
+      "word": "frontier",
+      "partOfSpeech": "noun",
+      "meaning1": "The border of settled land; the edge of the unknown. Example: The pioneers headed west to the frontier.",
+      "meaning2": "The limit of knowledge. Example: Space is the next frontier for exploration.",
+      "studentChallenge": "Scientists are pushing the ___ of medical research.",
+      "sentence": ""
+    },
+    {
+      "word": "marvel",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To be filled with wonder. Example: We marveled at the beautiful waterfall.",
+      "meaning2": "Something amazing. Example: The new bridge is a marvel of engineering.",
+      "studentChallenge": "The crowd ___ at the magician's tricks.",
+      "sentence": ""
+    },
+    {
+      "word": "reflex",
+      "partOfSpeech": "noun",
+      "meaning1": "An automatic body movement that happens without you thinking about it. Example: Pulling your hand away from a hot stove is a reflex that protects you from being burned.",
+      "meaning2": "",
+      "studentChallenge": "Blinking when something comes close to your eye is a natural ___ that helps keep you safe.",
+      "sentence": ""
+    },
+    {
+      "word": "preserve",
+      "partOfSpeech": "verb",
+      "meaning1": "To keep something safe or in good condition. Example: We need to preserve the rainforest.",
+      "meaning2": "",
+      "studentChallenge": "The museum works to ___ ancient artifacts.",
+      "sentence": ""
+    },
+    {
+      "word": "rustic",
+      "partOfSpeech": "adjective",
+      "meaning1": "Relating to the countryside; simple and old-fashioned in a pleasant way. Example: The rustic wooden cabin had a stone fireplace, handmade furniture, and a view of the meadow.",
+      "meaning2": "",
+      "studentChallenge": "The family enjoyed their holiday in a ___ farmhouse surrounded by rolling green hills.",
+      "sentence": ""
+    },
+    {
+      "word": "series",
+      "partOfSpeech": "noun",
+      "meaning1": "A number of similar things or events that come one after another. Example: The library had a whole series of mystery books that she couldn't stop reading.",
+      "meaning2": "",
+      "studentChallenge": "We watched a ___ of short videos in class to learn about the water cycle.",
+      "sentence": ""
+    },
+    {
+      "word": "tinker",
+      "partOfSpeech": "verb",
+      "meaning1": "To make small changes or adjustments to try to fix or improve something. Example: Dad liked to tinker with old radios in the garage until they worked again.",
+      "meaning2": "",
+      "studentChallenge": "She loved to ___ with the engine of the go-kart to make it run faster.",
+      "sentence": ""
+    },
+    {
+      "word": "expose",
+      "partOfSpeech": "verb",
+      "meaning1": "To make something visible or known. Example: The investigation exposed the truth.",
+      "meaning2": "",
+      "studentChallenge": "Don't ___ the film to direct sunlight.",
+      "sentence": ""
+    },
+    {
+      "word": "grip",
+      "partOfSpeech": "verb",
+      "meaning1": "To hold something very tightly and firmly. Example: She had to grip the railing as the boat rocked back and forth in the waves.",
+      "meaning2": "A firm, tight hold on something (noun). Example: He kept a strong grip on the leash so the dog would not run away.",
+      "studentChallenge": "The rock climber used chalky hands to ___ the small ledge on the cliff.",
+      "sentence": ""
+    },
+    {
+      "word": "revive",
+      "partOfSpeech": "verb",
+      "meaning1": "To bring back to life or make active again. Example: A glass of cold water revived her after the run.",
+      "meaning2": "",
+      "studentChallenge": "Rain helped ___ the dying plants.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The zoo had ___ birds from tropical rainforests \u2014 creatures with feathers of bright red, gold, and blue.",
+      "sentence2": "The market sold ___ fruits from faraway countries that none of us had ever seen or tasted before.",
+      "options": [
+        "rustic",
+        "expose",
+        "frontier",
+        "exotic"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "exotic"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The ___ on the window made feathery, lace-like patterns in the cold morning light.",
+      "sentence2": "The ___ covered the whole lawn like a sparkling white blanket on the freezing November morning.",
+      "options": [
+        "expose",
+        "frost",
+        "frontier",
+        "preserve"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "frost"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The brave pioneers packed their wagons and headed west to the ___, into land nobody had mapped yet.",
+      "sentence2": "Scientists are constantly pushing the ___ of medical research, discovering things once thought impossible.",
+      "options": [
+        "frontier",
+        "frost",
+        "marvel",
+        "preserve"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "frontier"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "We stood at the edge of the waterfall and could only ___ at the sheer power and beauty of it.",
+      "sentence2": "The crowd began to ___ at the magician's tricks \u2014 gasping and pointing in disbelief.",
+      "options": [
+        "tinker",
+        "expose",
+        "marvel",
+        "frontier"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "marvel"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Pulling your hand away from a burning-hot stove is a ___ \u2014 your body moves before your brain even thinks.",
+      "sentence2": "Blinking when something flies close to your eye is a natural ___ that protects you from harm.",
+      "options": [
+        "series",
+        "reflex",
+        "frost",
+        "marvel"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "reflex"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "We need to ___ the ancient rainforest before it disappears \u2014 once it is gone, it cannot be brought back.",
+      "sentence2": "The museum works hard every day to ___ rare artifacts so future generations can see and learn from them.",
+      "options": [
+        "preserve",
+        "tinker",
+        "rustic",
+        "exotic"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "preserve"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The ___ wooden cabin had a stone fireplace, handmade chairs, and a sweeping view of the meadow.",
+      "sentence2": "The family loved their holiday in the ___ farmhouse, surrounded by rolling green hills and birdsong.",
+      "options": [
+        "series",
+        "rustic",
+        "exotic",
+        "revive"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "rustic"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The library had a whole ___ of mystery books \u2014 twelve in total \u2014 and she could not stop reading them.",
+      "sentence2": "We watched a ___ of short videos in class, one after another, to learn about the water cycle.",
+      "options": [
+        "expose",
+        "preserve",
+        "marvel",
+        "series"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "series"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Dad loved to ___ with old radios in the garage on weekends, adjusting wires until they crackled to life.",
+      "sentence2": "She liked to ___ with the go-kart engine, making tiny tweaks to squeeze out a little more speed.",
+      "options": [
+        "rustic",
+        "frost",
+        "tinker",
+        "preserve"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "tinker"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The reporter worked for months to ___ the truth behind the strange disappearance of the old paintings.",
+      "sentence2": "Never ___ the film to direct sunlight \u2014 it will ruin all the photographs on the roll.",
+      "options": [
+        "marvel",
+        "exotic",
+        "expose",
+        "preserve"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "expose"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "She had to ___ the railing tightly as the ferry rocked and tilted in the rough, choppy waves.",
+      "sentence2": "The rock climber used chalk-covered hands to ___ the tiny ledge on the steep cliff face.",
+      "options": [
+        "frost",
+        "preserve",
+        "frontier",
+        "grip"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "grip"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "A cold glass of water ___ her after the long, exhausting run in the summer heat.",
+      "sentence2": "The long-awaited rain finally came and began to ___ the wilting, dying plants in the garden.",
+      "options": [
+        "revive",
+        "frontier",
+        "exotic",
+        "reflex"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "revive"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "exotic",
+      "frost",
+      "frontier",
+      "marvel",
+      "reflex",
+      "preserve",
+      "rustic",
+      "series",
+      "tinker",
+      "expose",
+      "grip",
+      "revive"
+    ],
+    "passage": "Maya trained every morning in a small, _(1)_ gym \u2014 a simple, old-fashioned room with wooden floors and bare walls \u2014 that sat at the edge of a frozen field. In winter, _(2)_ covered the windows in delicate patterns, but Maya barely noticed; she was already stretching. Her coach had designed a _(3)_ of drills \u2014 one after another \u2014 that would test every part of her body and mind. Space exploration felt like the final _(4)_ of human ambition, but for Maya, the true unknown was what lay at the edge of her own limits. She wanted to _(5)_ everything she had achieved \u2014 to keep it safe and never let it slip away. She learned to _(6)_ in her own performance, adjusting her footwork by tiny amounts until each movement felt perfect. A sip of water was enough to _(7)_ her energy between the hardest drills. Her _(8)_ was lightning fast \u2014 she caught the ball before she even had time to think about catching it. She had discovered an _(9)_ training technique from a distant country, one that nobody else in her league had ever tried. Kai would watch and _(10)_ every time she attempted the difficult leap \u2014 filled with wonder and disbelief. She learned to _(11)_ the rope tightly and pull herself up without swinging, controlled and strong. \"Never _(12)_ your weaknesses to the competition,\" Kai told her. \"Keep them guessing until the very last second.\"",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "rustic",
+        "options": [
+          "rustic",
+          "exotic",
+          "frontier",
+          "preserve"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "frost",
+        "options": [
+          "frost",
+          "tinker",
+          "grip",
+          "exotic"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "series",
+        "options": [
+          "series",
+          "marvel",
+          "frontier",
+          "expose"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "frontier",
+        "options": [
+          "frontier",
+          "frost",
+          "exotic",
+          "preserve"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "preserve",
+        "options": [
+          "preserve",
+          "frost",
+          "reflex",
+          "marvel"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "tinker",
+        "options": [
+          "tinker",
+          "preserve",
+          "reflex",
+          "marvel"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "revive",
+        "options": [
+          "revive",
+          "frontier",
+          "reflex",
+          "rustic"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "reflex",
+        "options": [
+          "reflex",
+          "grip",
+          "expose",
+          "series"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "exotic",
+        "options": [
+          "exotic",
+          "grip",
+          "tinker",
+          "rustic"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "marvel",
+        "options": [
+          "marvel",
+          "expose",
+          "grip",
+          "tinker"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "grip",
+        "options": [
+          "grip",
+          "revive",
+          "tinker",
+          "marvel"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "expose",
+        "options": [
+          "expose",
+          "frontier",
+          "reflex",
+          "rustic"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "exotic",
+        "scale": [
+          "unusual",
+          "exotic",
+          "rare"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "frost",
+        "scale": [
+          "chill",
+          "frost",
+          "freeze"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "frontier",
+        "scale": [
+          "border",
+          "frontier",
+          "edge"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "marvel",
+        "scale": [
+          "sight",
+          "marvel",
+          "wonder"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "reflex",
+        "words": [
+          "reaction",
+          "response",
+          "instinct",
+          "thought"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "thought"
+      },
+      {
+        "vocabWord": "preserve",
+        "words": [
+          "protect",
+          "save",
+          "destroy",
+          "keep"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "destroy"
+      },
+      {
+        "vocabWord": "rustic",
+        "words": [
+          "simple",
+          "country",
+          "old-fashioned",
+          "modern"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "modern"
+      },
+      {
+        "vocabWord": "series",
+        "words": [
+          "group",
+          "sequence",
+          "single",
+          "set"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "single"
+      },
+      {
+        "vocabWord": "tinker",
+        "words": [
+          "fiddle",
+          "break",
+          "repair",
+          "adjust"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "break"
+      },
+      {
+        "vocabWord": "expose",
+        "words": [
+          "hide",
+          "reveal",
+          "uncover",
+          "show"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "hide"
+      },
+      {
+        "vocabWord": "grip",
+        "words": [
+          "release",
+          "hold",
+          "grasp",
+          "clasp"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "release"
+      },
+      {
+        "vocabWord": "revive",
+        "words": [
+          "awaken",
+          "restore",
+          "renew",
+          "kill"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "kill"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

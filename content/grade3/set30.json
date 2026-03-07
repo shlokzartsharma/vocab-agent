@@ -1,0 +1,584 @@
+{
+  "grade": 3,
+  "setNumber": 30,
+  "words": [
+    "journey",
+    "previous",
+    "loyal",
+    "prior",
+    "fertilizer",
+    "perform",
+    "valid",
+    "fairy",
+    "whale",
+    "technique",
+    "coral",
+    "mild"
+  ],
+  "sources": [
+    "Australian Curriculum",
+    "Cambridge Primary",
+    "Common Core Grade 3",
+    "Common Core Grade 4",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Tier 2 Academic",
+    "Wit & Wisdom Grade 3",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "Indian mythology retelling (Panchatantra/Jataka/Mahabharata)",
+  "story": {
+    "genre": "Indian mythology retelling (Panchatantra/Jataka/Mahabharata)",
+    "characters": [
+      "Dev",
+      "Luna",
+      "Diya"
+    ],
+    "parts": [
+      {
+        "title": "The Village by the River",
+        "text": "Long ago, in a village nestled between green hills, Dev set off on a **journey** that would take her across three rivers to visit a wise healer. She had **prior** experience walking long distances, having traveled with her grandmother since childhood. Luna, the village elder, gave her a **loyal** companion for the road \u2014 a steady old dog that never left her side."
+      },
+      {
+        "title": "The Gathering Storm",
+        "text": "By midday the weather turned **mild**, warm and calm, but by evening dark clouds rolled in fast. Luna had taught Dev a **technique** for reading the sky, and it was **valid** \u2014 the storm arrived exactly when the signs said it would. Dev watched a farmer spread **fertilizer** across his field before rushing home ahead of the rain. She thought of the **previous** storms she had sheltered through and stayed calm."
+      },
+      {
+        "title": "The Discovery",
+        "text": "When Dev reached the coast, she saw something that made her gasp \u2014 a **whale** breached the surface of the sea not fifty metres away, its huge body crashing back into the water. Beside it, tiny **coral** reefs glowed in shades of orange and pink. A fisherman nearby began to **perform** a short prayer of thanks, as was the custom of the region. \"A **fairy** tale come to life,\" Diya whispered, appearing at Dev's side."
+      },
+      {
+        "title": "The Lesson",
+        "text": "Dev and Diya stayed by the shore until the stars came out. Luna had told Dev that the greatest journeys were not measured in miles but in what you noticed along the way. The whale, the coral, the farmer, the storm \u2014 all of it had something to teach. Dev walked home that night feeling larger inside than when she had left, carrying a quiet understanding she could not quite put into words but would never forget."
+      }
+    ],
+    "wordCount": 264
+  },
+  "definitions": [
+    {
+      "word": "journey",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A long trip from one place to another. Example: The journey from New York to California took five days.",
+      "meaning2": "",
+      "studentChallenge": "The ___ through the mountains was beautiful.",
+      "sentence": ""
+    },
+    {
+      "word": "previous",
+      "partOfSpeech": "adjective",
+      "meaning1": "Happening before something else. Example: In the previous chapter, the hero escaped from the cave.",
+      "meaning2": "",
+      "studentChallenge": "Her ___ school was in a different state.",
+      "sentence": ""
+    },
+    {
+      "word": "loyal",
+      "partOfSpeech": "adjective",
+      "meaning1": "Always faithful and supportive. Example: A loyal friend stays with you in tough times.",
+      "meaning2": "",
+      "studentChallenge": "The ___ dog waited for its owner every day.",
+      "sentence": ""
+    },
+    {
+      "word": "prior",
+      "partOfSpeech": "adjective",
+      "meaning1": "Coming before in time or order; earlier. Example: You need prior experience with basic maths before joining the advanced class.",
+      "meaning2": "",
+      "studentChallenge": "Please read the chapter ___ to the class discussion so you can share your thoughts.",
+      "sentence": ""
+    },
+    {
+      "word": "fertilizer",
+      "partOfSpeech": "noun",
+      "meaning1": "A substance added to soil to help plants grow stronger and healthier. Example: The farmer spread fertilizer on the fields so the crops would grow tall.",
+      "meaning2": "",
+      "studentChallenge": "Adding ___ to the garden made the tomato plants produce bigger, juicier tomatoes.",
+      "sentence": ""
+    },
+    {
+      "word": "perform",
+      "partOfSpeech": "verb",
+      "meaning1": "To carry out an action or task. Example: The surgeon performed the operation.",
+      "meaning2": "To entertain an audience. Example: The band performed at the school concert.",
+      "studentChallenge": "The actors ___ in front of a large audience.",
+      "sentence": ""
+    },
+    {
+      "word": "valid",
+      "partOfSpeech": "adjective",
+      "meaning1": "Based on truth or good reasoning; acceptable and correct. Example: She had a valid reason for being late\u2014her school bus had a flat tire.",
+      "meaning2": "Officially acceptable or usable. Example: Make sure your library card is still valid before you try to check out books.",
+      "studentChallenge": "The student made a ___ point during the class discussion that made everyone think.",
+      "sentence": ""
+    },
+    {
+      "word": "fairy",
+      "partOfSpeech": "noun",
+      "meaning1": "A tiny imaginary creature with wings and magical powers, often found in stories. Example: In the story, a kind fairy granted the girl three wishes.",
+      "meaning2": "",
+      "studentChallenge": "The ___ in the tale used her magic wand to turn a pumpkin into a golden carriage.",
+      "sentence": ""
+    },
+    {
+      "word": "whale",
+      "partOfSpeech": "noun",
+      "meaning1": "A very large marine mammal that breathes air and lives in the ocean. Example: The blue whale is the largest animal on Earth, even bigger than the biggest dinosaurs.",
+      "meaning2": "",
+      "studentChallenge": "We saw a ___ breach the surface of the ocean and splash back down with a tremendous splash.",
+      "sentence": ""
+    },
+    {
+      "word": "technique",
+      "partOfSpeech": "noun",
+      "meaning1": "A particular way of doing something, especially one that requires skill. Example: The art teacher showed us a new painting technique using a sponge instead of a brush.",
+      "meaning2": "",
+      "studentChallenge": "She learned a special ___ for tying knots that made her friendship bracelets look amazing.",
+      "sentence": ""
+    },
+    {
+      "word": "coral",
+      "partOfSpeech": "noun",
+      "meaning1": "A hard, colorful substance found in the ocean, made up of tiny sea animals. Example: The divers swam through a reef of bright coral that looked like an underwater garden.",
+      "meaning2": "",
+      "studentChallenge": "The ocean floor near the island was covered in beautiful orange and pink ___.",
+      "sentence": ""
+    },
+    {
+      "word": "mild",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not severe or strong; gentle. Example: We had a mild winter with little snow.",
+      "meaning2": "",
+      "studentChallenge": "The ___ cheese had a soft flavor.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The ___ from New York to California took five days by car.",
+      "sentence2": "The long ___ through the mountains was beautiful but exhausting.",
+      "options": [
+        "journey",
+        "loyal",
+        "prior",
+        "technique"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "journey"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "In the ___ chapter, the hero escaped from the cave before sunrise.",
+      "sentence2": "Her ___ school was in a different state, so she had to make all new friends.",
+      "options": [
+        "fairy",
+        "technique",
+        "prior",
+        "previous"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "previous"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "A ___ friend stays with you even in the toughest times.",
+      "sentence2": "The ___ dog waited by the door for its owner every single day.",
+      "options": [
+        "fertilizer",
+        "journey",
+        "loyal",
+        "coral"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "loyal"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "You need ___ experience with basic maths before joining the advanced class.",
+      "sentence2": "Please read the chapter ___ to the class discussion so you are prepared.",
+      "options": [
+        "perform",
+        "whale",
+        "prior",
+        "technique"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "prior"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The farmer spread ___ on the fields so the crops would grow tall and healthy.",
+      "sentence2": "Adding ___ to the garden made the tomato plants produce bigger, juicier tomatoes.",
+      "options": [
+        "fertilizer",
+        "fairy",
+        "technique",
+        "mild"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "fertilizer"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The surgeon carefully ___ the operation while nurses handed over the instruments.",
+      "sentence2": "The actors ___ in front of a large and cheering audience.",
+      "options": [
+        "perform",
+        "prior",
+        "mild",
+        "whale"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "perform"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "She had a ___ reason for being late \u2014 her school bus had a flat tire.",
+      "sentence2": "The student made a ___ point during the class discussion that made everyone think.",
+      "options": [
+        "perform",
+        "valid",
+        "loyal",
+        "fertilizer"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "valid"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "In the story, a kind ___ granted the girl three wishes with a wave of her wand.",
+      "sentence2": "The ___ in the tale used her magic wand to turn a pumpkin into a golden carriage.",
+      "options": [
+        "prior",
+        "fairy",
+        "previous",
+        "journey"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "fairy"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The blue ___ is the largest animal on Earth, even bigger than the biggest dinosaurs.",
+      "sentence2": "We saw a ___ breach the surface of the ocean and splash back down with a tremendous splash.",
+      "options": [
+        "mild",
+        "whale",
+        "valid",
+        "journey"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "whale"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The art teacher showed us a new painting ___ using a sponge instead of a brush.",
+      "sentence2": "She learned a special ___ for tying knots that made her friendship bracelets look amazing.",
+      "options": [
+        "prior",
+        "mild",
+        "previous",
+        "technique"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "technique"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The divers swam through a reef of bright ___ that looked like an underwater garden.",
+      "sentence2": "The ocean floor near the island was covered in beautiful orange and pink ___.",
+      "options": [
+        "previous",
+        "technique",
+        "journey",
+        "coral"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "coral"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "We had a ___ winter this year, with barely any snow and warm afternoons.",
+      "sentence2": "The ___ soap had a soft, gentle scent that did not irritate her skin.",
+      "options": [
+        "fairy",
+        "technique",
+        "mild",
+        "journey"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "mild"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "journey",
+      "previous",
+      "loyal",
+      "prior",
+      "fertilizer",
+      "perform",
+      "valid",
+      "fairy",
+      "whale",
+      "technique",
+      "coral",
+      "mild"
+    ],
+    "passage": "Diya set off on a long _(1)_ \u2014 a trip that would take her across three countries \u2014 to visit an underwater research station. _(2)_ to leaving, she studied everything she could find about ocean life, reading books from her _(3)_ school that she had kept since third grade. The weather was _(4)_, warm and calm without a cloud in the sky, perfect for a boat ride. Her _(5)_ friend Luna came along, never leaving her side no matter how far they traveled. Diya wanted to _(6)_ an experiment testing how _(7)_ \u2014 a special nutrient powder that helps plants grow \u2014 affects sea grasses. She had a _(8)_ reason for the study, backed by real science and careful notes. A tiny _(9)_ \u2014 an imaginary creature from her childhood stories \u2014 seemed to dance in the sparkling waves. Far in the distance, a massive _(10)_ leaped into the air, its huge body crashing back into the sea. Bright orange _(11)_ covered the reef below, looking like an underwater garden. Using a special underwater photography _(12)_ \u2014 a skilled method she had practiced for weeks \u2014 Diya captured everything perfectly.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "journey",
+        "options": [
+          "journey",
+          "technique",
+          "prior",
+          "coral"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "prior",
+        "options": [
+          "prior",
+          "previous",
+          "loyal",
+          "mild"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "previous",
+        "options": [
+          "previous",
+          "prior",
+          "valid",
+          "loyal"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "mild",
+        "options": [
+          "mild",
+          "loyal",
+          "valid",
+          "fairy"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "loyal",
+        "options": [
+          "loyal",
+          "mild",
+          "valid",
+          "prior"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "perform",
+        "options": [
+          "perform",
+          "journey",
+          "vanish",
+          "coral"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "fertilizer",
+        "options": [
+          "fertilizer",
+          "coral",
+          "whale",
+          "fairy"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "valid",
+        "options": [
+          "valid",
+          "mild",
+          "loyal",
+          "prior"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "fairy",
+        "options": [
+          "fairy",
+          "whale",
+          "coral",
+          "technique"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "whale",
+        "options": [
+          "whale",
+          "fairy",
+          "coral",
+          "journey"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "coral",
+        "options": [
+          "coral",
+          "whale",
+          "fertilizer",
+          "perform"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "technique",
+        "options": [
+          "technique",
+          "journey",
+          "perform",
+          "fertilizer"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "journey",
+        "scale": [
+          "walk",
+          "journey",
+          "expedition"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "previous",
+        "scale": [
+          "earlier",
+          "previous",
+          "former"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "loyal",
+        "scale": [
+          "reliable",
+          "loyal",
+          "devoted"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "prior",
+        "scale": [
+          "before",
+          "prior",
+          "preceding"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "fertilizer",
+        "words": [
+          "nutrient",
+          "poison",
+          "compost",
+          "feed"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "poison"
+      },
+      {
+        "vocabWord": "perform",
+        "words": [
+          "act",
+          "do",
+          "abstain",
+          "execute"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "abstain"
+      },
+      {
+        "vocabWord": "valid",
+        "words": [
+          "sound",
+          "correct",
+          "legitimate",
+          "invalid"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "invalid"
+      },
+      {
+        "vocabWord": "fairy",
+        "words": [
+          "sprite",
+          "elf",
+          "mortal",
+          "pixie"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "mortal"
+      },
+      {
+        "vocabWord": "whale",
+        "words": [
+          "minnow",
+          "mammal",
+          "leviathan",
+          "cetacean"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "minnow"
+      },
+      {
+        "vocabWord": "technique",
+        "words": [
+          "accident",
+          "method",
+          "procedure",
+          "way"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "accident"
+      },
+      {
+        "vocabWord": "coral",
+        "words": [
+          "sand",
+          "reef",
+          "organism",
+          "polyp"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "sand"
+      },
+      {
+        "vocabWord": "mild",
+        "words": [
+          "harsh",
+          "gentle",
+          "soft",
+          "calm"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "harsh"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

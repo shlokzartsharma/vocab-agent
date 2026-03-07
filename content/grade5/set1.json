@@ -1,0 +1,405 @@
+{
+  "grade": 5,
+  "setNumber": 1,
+  "words": [
+    "chronicle",
+    "assertion",
+    "remnant",
+    "uncharted",
+    "intrepid",
+    "resolute",
+    "compulsory",
+    "perilous",
+    "traverse",
+    "cartographer",
+    "commemorate",
+    "vanguard"
+  ],
+  "sources": [
+    "Common Core Grade 5",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 5",
+    "CKLA Grade 5",
+    "Tier 2 Academic"
+  ],
+  "genre": "historical exploration",
+  "story": {
+    "genre": "historical exploration",
+    "characters": [
+      "Amira",
+      "Declan",
+      "Mei"
+    ],
+    "parts": [
+      {
+        "title": "The Old Map",
+        "text": "Amira discovered a dusty **chronicle** hidden inside a library book that described a lost mountain city. She showed the crumbling pages to her friends Declan and Mei, who stared at the faded drawings in wonder. Declan made a bold **assertion** that the city was real, and he pointed to a torn **remnant** of a map tucked between the pages."
+      },
+      {
+        "title": "Into the Unknown",
+        "text": "The three friends set off into **uncharted** wilderness where no trails existed. They had to be **intrepid**, pushing through thick jungle vines and crossing icy streams. Mei stayed **resolute**, insisting they keep going even when the path seemed impossible. Their teacher had said map-reading was **compulsory** for this field trip, and now they understood why."
+      },
+      {
+        "title": "The Final Climb",
+        "text": "The route up the cliff was **perilous**, with loose rocks and steep drops on every side. They had to **traverse** a narrow ridge that stretched across a deep canyon. Declan studied the map like a true **cartographer**, tracing every line and landmark. Amira said they would build a monument to **commemorate** their discovery, and Mei proudly declared that their small group was the **vanguard** of a new generation of explorers."
+      },
+      {
+        "title": "The View from the Top",
+        "text": "When they finally reached the summit, the lost city spread out below them like a dream made real. Stone towers rose from the green valley, untouched for centuries. The three friends stood together in silence, knowing that this single adventure had changed them forever. They promised to return one day and share what they had found with the world."
+      }
+    ],
+    "wordCount": 243
+  },
+  "definitions": [
+    {
+      "word": "chronicle",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A detailed record of events in the order they happened. Example: The old chronicle described the town's history from its very first settlers.",
+      "meaning2": "To record events in order. Example: The journalist decided to chronicle the team's entire season from start to finish.",
+      "studentChallenge": "The museum displayed an ancient ___ that told the story of the kingdom's rise and fall.",
+      "sentence": ""
+    },
+    {
+      "word": "assertion",
+      "partOfSpeech": "noun",
+      "meaning1": "A confident and forceful statement that something is true. Example: His assertion that the experiment would work turned out to be correct.",
+      "meaning2": "",
+      "studentChallenge": "Her ___ that she could finish the race surprised everyone, but she proved them wrong.",
+      "sentence": ""
+    },
+    {
+      "word": "remnant",
+      "partOfSpeech": "noun",
+      "meaning1": "A small remaining piece of something larger that has been used, destroyed, or lost. Example: A remnant of the old castle wall still stood at the edge of town.",
+      "meaning2": "",
+      "studentChallenge": "Only a single ___ of the ancient flag survived the fire.",
+      "sentence": ""
+    },
+    {
+      "word": "uncharted",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not yet mapped or explored. Example: The sailors were nervous about sailing into uncharted waters far from land.",
+      "meaning2": "",
+      "studentChallenge": "The astronauts prepared to explore ___ regions of the moon that no one had visited before.",
+      "sentence": ""
+    },
+    {
+      "word": "intrepid",
+      "partOfSpeech": "adjective",
+      "meaning1": "Fearless and adventurous; willing to face danger. Example: The intrepid climber scaled the mountain despite the howling wind.",
+      "meaning2": "",
+      "studentChallenge": "The ___ explorer ventured deep into the jungle without any sign of fear.",
+      "sentence": ""
+    },
+    {
+      "word": "resolute",
+      "partOfSpeech": "adjective",
+      "meaning1": "Determined and unwilling to give up. Example: She was resolute in her decision to study every night until the test.",
+      "meaning2": "",
+      "studentChallenge": "Despite the difficulties, the captain remained ___ and refused to turn back.",
+      "sentence": ""
+    },
+    {
+      "word": "compulsory",
+      "partOfSpeech": "adjective",
+      "meaning1": "Required by a rule or law; mandatory. Example: Wearing a helmet while biking is compulsory in many states.",
+      "meaning2": "",
+      "studentChallenge": "Attendance at the safety assembly was ___ for all students.",
+      "sentence": ""
+    },
+    {
+      "word": "perilous",
+      "partOfSpeech": "adjective",
+      "meaning1": "Full of danger or risk. Example: The perilous journey through the snowstorm tested everyone's strength.",
+      "meaning2": "",
+      "studentChallenge": "Crossing the rickety old bridge over the river was a ___ task.",
+      "sentence": ""
+    },
+    {
+      "word": "traverse",
+      "partOfSpeech": "verb",
+      "meaning1": "To travel across or through something. Example: The hikers had to traverse the wide desert before reaching the mountains.",
+      "meaning2": "",
+      "studentChallenge": "To reach the village, they had to ___ a dense forest filled with wildlife.",
+      "sentence": ""
+    },
+    {
+      "word": "cartographer",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who draws or makes maps. Example: The cartographer spent years mapping the coastline of the newly discovered island.",
+      "meaning2": "",
+      "studentChallenge": "The ___ carefully drew every mountain and river on the new map.",
+      "sentence": ""
+    },
+    {
+      "word": "commemorate",
+      "partOfSpeech": "verb",
+      "meaning1": "To honor the memory of a person or event, often with a ceremony or monument. Example: The town built a statue to commemorate the brave firefighters.",
+      "meaning2": "",
+      "studentChallenge": "The school held a special ceremony to ___ its one-hundredth anniversary.",
+      "sentence": ""
+    },
+    {
+      "word": "vanguard",
+      "partOfSpeech": "noun",
+      "meaning1": "The group of people leading the way in new developments or ideas; the forefront. Example: The young scientists were at the vanguard of the clean energy movement.",
+      "meaning2": "The leading part of an advancing army or fleet. Example: The vanguard of the army reached the river before the rest of the troops.",
+      "studentChallenge": "The team of inventors was at the ___ of modern technology.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The historian found an old _______ that recorded every event in the kingdom for three hundred years.",
+      "sentence2": "The reporter planned to _______ the astronaut's entire journey from training to landing on Mars.",
+      "options": ["remnant", "chronicle", "assertion", "vanguard"],
+      "correctIndex": 1,
+      "correctAnswer": "chronicle"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "His _______ that the bridge was safe turned out to be completely wrong.",
+      "sentence2": "She made the bold _______ that their team would win the science fair this year.",
+      "options": ["assertion", "chronicle", "cartographer", "remnant"],
+      "correctIndex": 0,
+      "correctAnswer": "assertion"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "A _______ of the ancient scroll was found buried under the ruins of the temple.",
+      "sentence2": "The only _______ of the shipwreck was a single wooden plank washed up on shore.",
+      "options": ["vanguard", "traverse", "remnant", "commemorate"],
+      "correctIndex": 2,
+      "correctAnswer": "remnant"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The submarine dove into _______ depths of the ocean where no vessel had ever been.",
+      "sentence2": "Moving to a new country felt like stepping into _______ territory for the whole family.",
+      "options": ["perilous", "compulsory", "resolute", "uncharted"],
+      "correctIndex": 3,
+      "correctAnswer": "uncharted"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The _______ firefighter rushed into the burning building without hesitation.",
+      "sentence2": "Only the most _______ travelers dared to cross the frozen tundra in winter.",
+      "options": ["intrepid", "compulsory", "resolute", "perilous"],
+      "correctIndex": 0,
+      "correctAnswer": "intrepid"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Despite losing the first three games, the coach remained _______ that her team could still win the series.",
+      "sentence2": "The _______ young inventor refused to quit even after her tenth failed experiment.",
+      "options": ["uncharted", "intrepid", "compulsory", "resolute"],
+      "correctIndex": 3,
+      "correctAnswer": "resolute"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "In many countries, school attendance is _______ until the age of sixteen.",
+      "sentence2": "The safety training was _______ for every new employee before they could start working.",
+      "options": ["perilous", "compulsory", "intrepid", "resolute"],
+      "correctIndex": 1,
+      "correctAnswer": "compulsory"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The _______ mountain road twisted along the edge of a steep cliff with no guardrails.",
+      "sentence2": "Swimming across the river during a thunderstorm would be an extremely _______ thing to do.",
+      "options": ["uncharted", "resolute", "perilous", "compulsory"],
+      "correctIndex": 2,
+      "correctAnswer": "perilous"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The caravan had to _______ miles of open desert before reaching the next oasis.",
+      "sentence2": "It took the explorers three days to _______ the thick jungle between the two villages.",
+      "options": ["commemorate", "traverse", "chronicle", "assertion"],
+      "correctIndex": 1,
+      "correctAnswer": "traverse"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The _______ spent months carefully drawing the rivers and mountains of the new territory.",
+      "sentence2": "Long ago, every ship needed a skilled _______ to create accurate sea charts for the captain.",
+      "options": ["vanguard", "remnant", "cartographer", "chronicle"],
+      "correctIndex": 2,
+      "correctAnswer": "cartographer"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The nation held a parade to _______ the anniversary of its independence.",
+      "sentence2": "The school planted a garden to _______ the retiring principal who had served for thirty years.",
+      "options": ["traverse", "commemorate", "assertion", "cartographer"],
+      "correctIndex": 1,
+      "correctAnswer": "commemorate"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The brave soldiers at the _______ were the first to cross the border into unknown land.",
+      "sentence2": "These young programmers are at the _______ of creating technology that could change the world.",
+      "options": ["remnant", "chronicle", "vanguard", "intrepid"],
+      "correctIndex": 2,
+      "correctAnswer": "vanguard"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "chronicle",
+      "assertion",
+      "remnant",
+      "uncharted",
+      "intrepid",
+      "resolute",
+      "compulsory",
+      "perilous",
+      "traverse",
+      "cartographer",
+      "commemorate",
+      "vanguard"
+    ],
+    "passage": "In 1803, President Jefferson hired a skilled _(1)_ to join an expedition heading west. The mission was clear: map every river, mountain, and valley along the way. The team would _(2)_ thousands of miles of wilderness that no American had ever crossed before.\n\nThe land ahead was completely _(3)_, with no existing maps to guide them. Many warned that the route would be _(4)_, full of wild animals and raging rivers. But the explorers were _(5)_ adventurers who refused to let fear stop them. Their leader was _(6)_ in his belief that they would reach the Pacific Ocean.\n\nBefore departing, training in survival skills was _(7)_ for every member of the group. One explorer kept a detailed _(8)_ of their travels, recording each day's events in a leather journal. His bold _(9)_ that they would find a river passage to the sea kept everyone hopeful.\n\nThe small team marched at the _(10)_ of the expedition, leading the way through dense forests. Along the trail, they discovered a _(11)_ of an ancient village, its stone walls half-buried in the earth. When they finally reached the ocean, they built a wooden post to _(12)_ their incredible journey across the continent.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "cartographer",
+        "options": ["cartographer", "vanguard", "chronicle", "remnant"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "traverse",
+        "options": ["commemorate", "traverse", "assertion", "resolute"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "uncharted",
+        "options": ["compulsory", "perilous", "uncharted", "intrepid"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "perilous",
+        "options": ["perilous", "resolute", "uncharted", "compulsory"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "intrepid",
+        "options": ["resolute", "intrepid", "perilous", "vanguard"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "resolute",
+        "options": ["intrepid", "compulsory", "resolute", "chronicle"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "compulsory",
+        "options": ["compulsory", "remnant", "traverse", "assertion"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "chronicle",
+        "options": ["vanguard", "chronicle", "cartographer", "commemorate"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "assertion",
+        "options": ["assertion", "remnant", "traverse", "uncharted"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "vanguard",
+        "options": ["commemorate", "cartographer", "vanguard", "perilous"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "remnant",
+        "options": ["remnant", "intrepid", "assertion", "compulsory"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "commemorate",
+        "options": ["traverse", "commemorate", "chronicle", "vanguard"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "perilous",
+        "scale": ["Risky", "Dangerous", "Perilous"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "intrepid",
+        "scale": ["Brave", "Courageous", "Intrepid"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "resolute",
+        "scale": ["Willing", "Determined", "Resolute"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "remnant",
+        "scale": ["Remnant", "Portion", "Whole"],
+        "vocabPosition": 0
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "chronicle",
+        "words": ["Record", "Account", "Journal", "Silence"],
+        "imposterIndex": 3,
+        "imposterWord": "Silence"
+      },
+      {
+        "vocabWord": "assertion",
+        "words": ["Denial", "Claim", "Declaration", "Statement"],
+        "imposterIndex": 0,
+        "imposterWord": "Denial"
+      },
+      {
+        "vocabWord": "uncharted",
+        "words": ["Unknown", "Mapped", "Unexplored", "Mysterious"],
+        "imposterIndex": 1,
+        "imposterWord": "Mapped"
+      },
+      {
+        "vocabWord": "compulsory",
+        "words": ["Required", "Mandatory", "Necessary", "Optional"],
+        "imposterIndex": 3,
+        "imposterWord": "Optional"
+      },
+      {
+        "vocabWord": "traverse",
+        "words": ["Cross", "Travel", "Journey", "Stay"],
+        "imposterIndex": 3,
+        "imposterWord": "Stay"
+      },
+      {
+        "vocabWord": "cartographer",
+        "words": ["Mapmaker", "Surveyor", "Navigator", "Destroyer"],
+        "imposterIndex": 3,
+        "imposterWord": "Destroyer"
+      },
+      {
+        "vocabWord": "commemorate",
+        "words": ["Honor", "Celebrate", "Remember", "Forget"],
+        "imposterIndex": 3,
+        "imposterWord": "Forget"
+      },
+      {
+        "vocabWord": "vanguard",
+        "words": ["Rear", "Leader", "Pioneer", "Forefront"],
+        "imposterIndex": 0,
+        "imposterWord": "Rear"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

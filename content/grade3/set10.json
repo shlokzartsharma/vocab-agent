@@ -1,0 +1,405 @@
+{
+  "grade": 3,
+  "setNumber": 10,
+  "words": [
+    "climate",
+    "cling",
+    "custom",
+    "decay",
+    "disturb",
+    "expose",
+    "perform",
+    "remote",
+    "timid",
+    "ability",
+    "avoid",
+    "bashful"
+  ],
+  "sources": [
+    "Common Core Grade 3",
+    "CBSE India",
+    "Cambridge Primary",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Tier 2 Academic"
+  ],
+  "genre": "climate and environment",
+  "story": {
+    "genre": "climate and environment",
+    "characters": [
+      "Maya",
+      "Rohan",
+      "Priya"
+    ],
+    "parts": [
+      {
+        "title": "The Shy Explorer",
+        "text": "Maya had always been naturally **timid** and got nervous around new people. But she had a special **ability** to read maps better than anyone her age. Her teacher told her it was a **custom** in many cultures to honor those who were brave enough to travel into unknown lands."
+      },
+      {
+        "title": "The Expedition",
+        "text": "One summer, Maya joined an expedition to a **remote** mountain region where almost no one lived. The **climate** there was cold and unpredictable, with sudden snowstorms that rolled in without warning. She had to **avoid** the icy patches on the trail so she would not slip. Deep in the forest, the team discovered a cave where the walls had begun to **decay** from years of moisture."
+      },
+      {
+        "title": "The Presentation",
+        "text": "Inside, they found ancient carvings never seen before. Maya was careful not to **disturb** any of the artifacts by touching them carelessly. The team decided to **expose** their findings at a science fair so others could learn. Maya, who used to **cling** to her comfort zone, finally felt ready to step into the spotlight. She was too **bashful** to shout, but when it was her turn to **perform** in front of the crowd, she spoke clearly and confidently."
+      },
+      {
+        "title": "The Result",
+        "text": "Maya's presentation won first place at the science fair. Her teacher beamed with pride and said she had never seen a student grow so much in one summer. Maya realized that being quiet was not a weakness — it just meant she observed more before she spoke. She began planning her next expedition before the trophy was even engraved."
+      }
+    ],
+    "wordCount": 245
+  },
+  "definitions": [
+    {
+      "word": "climate",
+      "partOfSpeech": "noun",
+      "meaning1": "The usual weather conditions of a place over a long period of time. Example: The climate in the desert is very hot and dry.",
+      "meaning2": "The general mood or feeling of a situation. Example: The climate at school improved after the new rules were introduced.",
+      "studentChallenge": "Scientists are studying how the ___ is changing due to rising temperatures.",
+      "sentence": ""
+    },
+    {
+      "word": "cling",
+      "partOfSpeech": "verb",
+      "meaning1": "To hold on tightly to something. Example: The frightened child would cling to the railing as she crossed the bridge.",
+      "meaning2": "",
+      "studentChallenge": "The baby koala would ___ to its mother's back wherever she went.",
+      "sentence": ""
+    },
+    {
+      "word": "custom",
+      "partOfSpeech": "noun",
+      "meaning1": "A traditional way of behaving that has been practiced for a long time. Example: It is a custom in our family to eat a big breakfast every Sunday.",
+      "meaning2": "",
+      "studentChallenge": "Wearing a costume during the harvest festival is an old ___ in that village.",
+      "sentence": ""
+    },
+    {
+      "word": "decay",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To rot or break down over time. Example: The fallen log began to decay after years of sitting in the wet forest.",
+      "meaning2": "The process of rotting. Example: Tooth decay can be prevented by brushing regularly.",
+      "studentChallenge": "Without proper care, old buildings will slowly ___ and crumble.",
+      "sentence": ""
+    },
+    {
+      "word": "disturb",
+      "partOfSpeech": "verb",
+      "meaning1": "To interrupt or bother someone or something. Example: Please do not disturb the sleeping baby.",
+      "meaning2": "To move something from its place. Example: The loud noise disturbed the birds in the nest.",
+      "studentChallenge": "The loud construction noise began to ___ the animals living nearby.",
+      "sentence": ""
+    },
+    {
+      "word": "expose",
+      "partOfSpeech": "verb",
+      "meaning1": "To uncover or make visible. Example: The scientist decided to expose the old bones to sunlight.",
+      "meaning2": "To make known; to reveal. Example: The reporter wanted to expose the truth about the company.",
+      "studentChallenge": "Removing the bandage will ___ the wound to fresh air so it can heal.",
+      "sentence": ""
+    },
+    {
+      "word": "perform",
+      "partOfSpeech": "verb",
+      "meaning1": "To carry out or do something, especially in front of an audience. Example: She practiced every day so she could perform the violin solo perfectly.",
+      "meaning2": "",
+      "studentChallenge": "The students were excited to ___ their play for the entire school.",
+      "sentence": ""
+    },
+    {
+      "word": "remote",
+      "partOfSpeech": "adjective",
+      "meaning1": "Far away from towns or cities. Example: The cabin was so remote that the nearest town was three hours away.",
+      "meaning2": "",
+      "studentChallenge": "Scientists use special instruments to study ___ areas at the bottom of the ocean.",
+      "sentence": ""
+    },
+    {
+      "word": "timid",
+      "partOfSpeech": "adjective",
+      "meaning1": "Shy and easily frightened. Example: The timid deer stood at the edge of the woods and would not come closer.",
+      "meaning2": "",
+      "studentChallenge": "The ___ mouse crept slowly toward the cheese, ready to run at any sound.",
+      "sentence": ""
+    },
+    {
+      "word": "ability",
+      "partOfSpeech": "noun",
+      "meaning1": "The skill or power to do something. Example: She has the ability to solve difficult math problems faster than anyone.",
+      "meaning2": "",
+      "studentChallenge": "Learning a new language takes time, but most children have the ___ to do it.",
+      "sentence": ""
+    },
+    {
+      "word": "avoid",
+      "partOfSpeech": "verb",
+      "meaning1": "To stay away from something. Example: She tried to avoid the icy sidewalk by walking on the grass.",
+      "meaning2": "",
+      "studentChallenge": "The doctor told him to ___ spicy food until his stomach felt better.",
+      "sentence": ""
+    },
+    {
+      "word": "bashful",
+      "partOfSpeech": "adjective",
+      "meaning1": "Shy and easily embarrassed. Example: The bashful girl hid behind her mother when strangers came to the door.",
+      "meaning2": "",
+      "studentChallenge": "He was too ___ to raise his hand, even though he knew the right answer.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The scientist decided to _______ the old bones to sunlight to study how they changed over time.",
+      "sentence2": "The reporter did not want to _______ the location of the secret meeting to anyone.",
+      "options": ["disturb", "decay", "expose", "perform"],
+      "correctIndex": 2,
+      "correctAnswer": "expose"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The baby koala would _______ to its mother's back wherever she went in the forest.",
+      "sentence2": "The frightened child would _______ to the railing as she crossed the wobbly bridge.",
+      "options": ["avoid", "cling", "custom", "timid"],
+      "correctIndex": 1,
+      "correctAnswer": "cling"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The fallen log began to _______ after years of sitting in the wet forest.",
+      "sentence2": "Without proper care, your teeth will _______ and cause painful cavities.",
+      "options": ["perform", "remote", "disturb", "decay"],
+      "correctIndex": 3,
+      "correctAnswer": "decay"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "It is a _______ in our family to eat a big breakfast every Sunday morning.",
+      "sentence2": "Wearing a costume during the harvest festival is an old _______ in that village.",
+      "options": ["ability", "custom", "climate", "remote"],
+      "correctIndex": 1,
+      "correctAnswer": "custom"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Please do not _______ the sleeping baby when you walk through the room.",
+      "sentence2": "The loud construction noise began to _______ the birds nesting in the nearby trees.",
+      "options": ["cling", "avoid", "expose", "disturb"],
+      "correctIndex": 3,
+      "correctAnswer": "disturb"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The cabin was so _______ that the nearest town was three hours away by car.",
+      "sentence2": "Scientists use special instruments to study _______ areas at the bottom of the ocean.",
+      "options": ["timid", "bashful", "remote", "custom"],
+      "correctIndex": 2,
+      "correctAnswer": "remote"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The _______ in the desert is very hot and dry for most of the year.",
+      "sentence2": "Scientists are studying how the _______ is changing due to rising temperatures around the world.",
+      "options": ["decay", "ability", "climate", "cling"],
+      "correctIndex": 2,
+      "correctAnswer": "climate"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "She has the _______ to solve difficult math problems faster than anyone else in her class.",
+      "sentence2": "Learning a new language takes time, but most children have the _______ to do it.",
+      "options": ["custom", "climate", "remote", "ability"],
+      "correctIndex": 3,
+      "correctAnswer": "ability"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The _______ deer stood at the edge of the woods and would not come any closer.",
+      "sentence2": "The _______ mouse crept slowly toward the cheese, ready to run at the tiniest sound.",
+      "options": ["remote", "timid", "avoid", "decay"],
+      "correctIndex": 1,
+      "correctAnswer": "timid"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "She tried to _______ the icy sidewalk by walking on the grass instead.",
+      "sentence2": "The doctor told him to _______ spicy food until his stomach felt better.",
+      "options": ["avoid", "perform", "disturb", "expose"],
+      "correctIndex": 0,
+      "correctAnswer": "avoid"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The students were excited to _______ their play for the entire school on Friday afternoon.",
+      "sentence2": "She practiced every day so she could _______ the difficult violin solo perfectly at the concert.",
+      "options": ["cling", "avoid", "climate", "perform"],
+      "correctIndex": 3,
+      "correctAnswer": "perform"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The _______ girl hid behind her mother when strangers came to the front door.",
+      "sentence2": "He was too _______ to raise his hand in class, even though he knew the right answer.",
+      "options": ["bashful", "remote", "decay", "ability"],
+      "correctIndex": 0,
+      "correctAnswer": "bashful"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "climate",
+      "cling",
+      "custom",
+      "decay",
+      "disturb",
+      "expose",
+      "perform",
+      "remote",
+      "timid",
+      "ability",
+      "avoid",
+      "bashful"
+    ],
+    "passage": "Maya had always been naturally _(1)_ and got nervous around new people. But she had a special _(2)_ to read maps better than anyone her age. Her teacher told her it was a _(3)_ in many cultures to honor those who were brave enough to travel into unknown lands.\n\nOne summer, Maya joined an expedition to a _(4)_ mountain region where almost no one lived. The _(5)_ there was cold and unpredictable, with sudden snowstorms that rolled in without warning. She had to _(6)_ the icy patches on the trail so she would not slip.\n\nDeep in the forest, the team discovered a cave where the walls had begun to _(7)_ from years of moisture. Inside, they found ancient carvings never seen before. Maya was careful not to _(8)_ any of the artifacts by touching them carelessly.\n\nThe team decided to _(9)_ their findings at a science fair so others could learn about the discovery. Maya, who used to _(10)_ to her comfort zone, finally felt ready to step into the spotlight. She was too _(11)_ to shout, but when it was her turn to _(12)_ in front of the crowd, she spoke clearly and confidently.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "timid",
+        "options": ["remote", "timid", "custom", "decay"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "ability",
+        "options": ["climate", "cling", "ability", "disturb"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "custom",
+        "options": ["custom", "expose", "remote", "perform"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "remote",
+        "options": ["bashful", "timid", "remote", "climate"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "climate",
+        "options": ["ability", "climate", "avoid", "cling"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "avoid",
+        "options": ["avoid", "disturb", "expose", "decay"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "decay",
+        "options": ["cling", "perform", "decay", "avoid"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "disturb",
+        "options": ["climate", "disturb", "cling", "remote"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "expose",
+        "options": ["decay", "avoid", "timid", "expose"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "cling",
+        "options": ["cling", "avoid", "climate", "perform"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "bashful",
+        "options": ["expose", "ability", "bashful", "remote"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "perform",
+        "options": ["decay", "perform", "custom", "remote"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "bashful",
+        "scale": ["Shy", "Bashful", "Withdrawn"],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "timid",
+        "scale": ["Uneasy", "Timid", "Fearful"],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "avoid",
+        "scale": ["Dodge", "Avoid", "Flee"],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "decay",
+        "scale": ["Wear", "Decay", "Crumble"],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "cling",
+        "words": ["Grasp", "Release", "Hold", "Grip"],
+        "imposterIndex": 1,
+        "imposterWord": "Release"
+      },
+      {
+        "vocabWord": "custom",
+        "words": ["Tradition", "Oddity", "Habit", "Practice"],
+        "imposterIndex": 1,
+        "imposterWord": "Oddity"
+      },
+      {
+        "vocabWord": "decay",
+        "words": ["Rot", "Wither", "Grow", "Crumble"],
+        "imposterIndex": 2,
+        "imposterWord": "Grow"
+      },
+      {
+        "vocabWord": "disturb",
+        "words": ["Calm", "Upset", "Bother", "Interrupt"],
+        "imposterIndex": 0,
+        "imposterWord": "Calm"
+      },
+      {
+        "vocabWord": "expose",
+        "words": ["Reveal", "Hide", "Uncover", "Show"],
+        "imposterIndex": 1,
+        "imposterWord": "Hide"
+      },
+      {
+        "vocabWord": "perform",
+        "words": ["Act", "Present", "Quit", "Execute"],
+        "imposterIndex": 2,
+        "imposterWord": "Quit"
+      },
+      {
+        "vocabWord": "remote",
+        "words": ["Distant", "Nearby", "Isolated", "Faraway"],
+        "imposterIndex": 1,
+        "imposterWord": "Nearby"
+      },
+      {
+        "vocabWord": "ability",
+        "words": ["Skill", "Talent", "Inability", "Gift"],
+        "imposterIndex": 2,
+        "imposterWord": "Inability"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

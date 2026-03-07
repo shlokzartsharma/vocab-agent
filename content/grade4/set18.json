@@ -1,0 +1,405 @@
+{
+  "grade": 4,
+  "setNumber": 18,
+  "words": [
+    "campaign",
+    "inaugurate",
+    "delegate",
+    "legislature",
+    "petition",
+    "ambassador",
+    "diplomatic",
+    "proclamation",
+    "representative",
+    "sovereign",
+    "administration",
+    "veto"
+  ],
+  "sources": [
+    "Common Core Grade 4",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 4",
+    "CKLA Grade 4",
+    "Tier 2 Academic"
+  ],
+  "genre": "election campaign",
+  "story": {
+    "genre": "election campaign",
+    "characters": [
+      "Zane",
+      "Fatima",
+      "Oliver"
+    ],
+    "parts": [
+      {
+        "title": "The Big Announcement",
+        "text": "Zane stood on the school steps and announced his **campaign** to become student body president. His best friend Fatima promised to help **inaugurate** a new era of fairness at Lincoln Elementary. Oliver volunteered to be a **delegate** who would carry messages between the candidates and the classrooms."
+      },
+      {
+        "title": "Building Support",
+        "text": "The student council acted as a small **legislature**, making rules that affected every grade. Fatima created a **petition** asking for longer recess and collected over two hundred signatures. She became an **ambassador** for Zane's ideas, visiting every classroom to explain his plans. Her **diplomatic** style — always calm, polite, and respectful — won over even the students who supported other candidates."
+      },
+      {
+        "title": "Election Day",
+        "text": "On election morning, Zane read a **proclamation** to the whole school, promising to listen to every student's voice. He said he would be a true **representative** who speaks for all classmates, not just his friends. He reminded everyone that the students were **sovereign** — the real power behind every school decision. He also promised that his **administration** would hold monthly meetings so everyone could share ideas. He even said he would never **veto** a plan without first explaining his reasons to the council."
+      },
+      {
+        "title": "A New Beginning",
+        "text": "When the votes were counted, Zane won by a wide margin. Fatima and Oliver cheered as the principal shook his hand. Zane smiled and told the crowd that this victory belonged to everyone. He promised to work hard every single day to make Lincoln Elementary a school where every voice mattered."
+      }
+    ],
+    "wordCount": 242
+  },
+  "definitions": [
+    {
+      "word": "campaign",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "An organized effort to achieve a goal, especially to win an election. Example: The mayor ran a strong campaign by visiting every neighborhood in the city.",
+      "meaning2": "To work in an organized way toward a goal. Example: The students decided to campaign for healthier school lunches.",
+      "studentChallenge": "She worked hard on her ___ to become class president by making posters and giving speeches.",
+      "sentence": ""
+    },
+    {
+      "word": "inaugurate",
+      "partOfSpeech": "verb",
+      "meaning1": "To officially begin something new or swear someone into office. Example: The school will inaugurate the new library with a ribbon-cutting ceremony.",
+      "meaning2": "",
+      "studentChallenge": "The town planned a celebration to ___ the new community park.",
+      "sentence": ""
+    },
+    {
+      "word": "delegate",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A person chosen to speak or act for others. Example: Each class sent one delegate to the student council meeting.",
+      "meaning2": "To give a task or responsibility to someone else. Example: The team leader decided to delegate the poster-making to the art club.",
+      "studentChallenge": "Our class chose Maya as the ___ to represent us at the school assembly.",
+      "sentence": ""
+    },
+    {
+      "word": "legislature",
+      "partOfSpeech": "noun",
+      "meaning1": "A group of people who have the power to make and change laws. Example: The state legislature voted to build more parks in the community.",
+      "meaning2": "",
+      "studentChallenge": "The ___ met in the capitol building to discuss the new education law.",
+      "sentence": ""
+    },
+    {
+      "word": "petition",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A written request signed by many people asking for a change. Example: The neighbors created a petition asking the city to add a crosswalk near the school.",
+      "meaning2": "To make a formal request. Example: The students decided to petition the principal for a longer lunch break.",
+      "studentChallenge": "Over one hundred parents signed the ___ to keep the neighborhood playground open.",
+      "sentence": ""
+    },
+    {
+      "word": "ambassador",
+      "partOfSpeech": "noun",
+      "meaning1": "A person sent to represent their country or group in another place. Example: The ambassador traveled to three different countries to discuss peace agreements.",
+      "meaning2": "Someone who represents or promotes something. Example: She was an ambassador for kindness, always helping others at school.",
+      "studentChallenge": "The ___ met with leaders from other nations to build stronger friendships between countries.",
+      "sentence": ""
+    },
+    {
+      "word": "diplomatic",
+      "partOfSpeech": "adjective",
+      "meaning1": "Careful and polite when dealing with people, especially in difficult situations. Example: She gave a diplomatic answer that avoided hurting anyone's feelings.",
+      "meaning2": "Related to managing relationships between countries. Example: The two nations reached a diplomatic agreement to share the river's water.",
+      "studentChallenge": "Instead of arguing, he gave a ___ response that made both sides feel respected.",
+      "sentence": ""
+    },
+    {
+      "word": "proclamation",
+      "partOfSpeech": "noun",
+      "meaning1": "An official public announcement about something important. Example: The governor issued a proclamation declaring the first week of May as Reading Week.",
+      "meaning2": "",
+      "studentChallenge": "The king made a ___ that all children in the kingdom would receive free schooling.",
+      "sentence": ""
+    },
+    {
+      "word": "representative",
+      "partOfSpeech": "noun, adjective",
+      "meaning1": "A person who is chosen to act or speak for a group. Example: Our class representative shared our ideas with the principal at the meeting.",
+      "meaning2": "Typical of a larger group. Example: The painting is representative of the artist's colorful style.",
+      "studentChallenge": "Each grade elected a ___ to attend the weekly student council meeting.",
+      "sentence": ""
+    },
+    {
+      "word": "sovereign",
+      "partOfSpeech": "adjective, noun",
+      "meaning1": "Having the highest power or authority. Example: The people of the new nation declared themselves sovereign and free from outside rule.",
+      "meaning2": "A king, queen, or ruler. Example: The sovereign addressed the crowd from the palace balcony.",
+      "studentChallenge": "The country became a ___ nation after winning its independence.",
+      "sentence": ""
+    },
+    {
+      "word": "administration",
+      "partOfSpeech": "noun",
+      "meaning1": "The group of people who manage and run an organization or government. Example: The school administration decided to add an extra recess on Fridays.",
+      "meaning2": "The process of managing or running something. Example: The administration of the science fair took weeks of careful planning.",
+      "studentChallenge": "The new ___ promised to improve school lunches and add more after-school clubs.",
+      "sentence": ""
+    },
+    {
+      "word": "veto",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "The power to reject or stop a decision or law. Example: The president used a veto to block the bill from becoming law.",
+      "meaning2": "To reject or refuse to approve something. Example: Mom decided to veto our plan to have ice cream for dinner.",
+      "studentChallenge": "The council president had the power to ___ any rule she disagreed with.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "She launched her _______ for class president by hanging posters in every hallway.",
+      "sentence2": "The town organized a cleanup _______ to remove litter from the riverbanks before summer.",
+      "options": ["petition", "campaign", "proclamation", "veto"],
+      "correctIndex": 1,
+      "correctAnswer": "campaign"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The school planned a special ceremony to _______ the new science wing with a ribbon cutting.",
+      "sentence2": "The mayor was excited to _______ the city's first community garden in the town square.",
+      "options": ["inaugurate", "delegate", "veto", "campaign"],
+      "correctIndex": 0,
+      "correctAnswer": "inaugurate"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Each classroom chose one _______ to attend the student government meeting on Friday.",
+      "sentence2": "The coach decided to _______ the equipment duties to the team captains.",
+      "options": ["ambassador", "representative", "delegate", "sovereign"],
+      "correctIndex": 2,
+      "correctAnswer": "delegate"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The state _______ passed a new law requiring recycling bins in every public building.",
+      "sentence2": "Members of the _______ debated for three hours before voting on the education budget.",
+      "options": ["administration", "legislature", "petition", "proclamation"],
+      "correctIndex": 1,
+      "correctAnswer": "legislature"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The students wrote a _______ asking the principal to allow music during lunch.",
+      "sentence2": "Over three hundred people signed the _______ to save the old oak tree from being cut down.",
+      "options": ["petition", "campaign", "veto", "delegate"],
+      "correctIndex": 0,
+      "correctAnswer": "petition"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The country sent an _______ to attend the peace conference in another nation.",
+      "sentence2": "She became an _______ for reading, visiting schools to share her love of books.",
+      "options": ["representative", "ambassador", "delegate", "sovereign"],
+      "correctIndex": 1,
+      "correctAnswer": "ambassador"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Her _______ response kept both teams calm during the heated debate about the rules.",
+      "sentence2": "The two countries reached a _______ solution that gave each side part of what it wanted.",
+      "options": ["sovereign", "diplomatic", "vital", "legislative"],
+      "correctIndex": 1,
+      "correctAnswer": "diplomatic"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The principal read a _______ over the loudspeaker declaring Friday as School Spirit Day.",
+      "sentence2": "The queen issued a royal _______ announcing that the harvest festival would begin at noon.",
+      "options": ["proclamation", "petition", "campaign", "administration"],
+      "correctIndex": 0,
+      "correctAnswer": "proclamation"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Our _______ on the student council made sure our class got a say in the new dress code.",
+      "sentence2": "The painting is _______ of the bright, bold style the artist is known for.",
+      "options": ["delegate", "ambassador", "representative", "legislature"],
+      "correctIndex": 2,
+      "correctAnswer": "representative"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The _______ nation celebrated its independence with fireworks and parades every year.",
+      "sentence2": "The _______ waved to the crowd from the balcony of the grand palace.",
+      "options": ["diplomatic", "sovereign", "campaign", "proclamation"],
+      "correctIndex": 1,
+      "correctAnswer": "sovereign"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The new school _______ made changes to the homework policy during its first week.",
+      "sentence2": "The _______ of the bake sale required careful planning and many parent volunteers.",
+      "options": ["legislature", "administration", "petition", "veto"],
+      "correctIndex": 1,
+      "correctAnswer": "administration"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The president decided to _______ the bill because she believed it was unfair to farmers.",
+      "sentence2": "Dad used his _______ power to block our plan of eating candy for breakfast.",
+      "options": ["inaugurate", "delegate", "campaign", "veto"],
+      "correctIndex": 3,
+      "correctAnswer": "veto"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "campaign",
+      "inaugurate",
+      "delegate",
+      "legislature",
+      "petition",
+      "ambassador",
+      "diplomatic",
+      "proclamation",
+      "representative",
+      "sovereign",
+      "administration",
+      "veto"
+    ],
+    "passage": "When Greenfield Middle School announced its first-ever student election, fifth grader Rosa jumped at the chance. She started her _(1)_ by visiting every classroom and explaining her ideas for a better school. She asked her friend Marco to be her _(2)_, carrying messages between her team and the other candidates.\n\nRosa wrote a _(3)_ that collected over one hundred fifty signatures asking for longer library hours. She became a true _(4)_ for student voices, meeting with teachers and parents to share what kids really wanted. Her _(5)_ style impressed everyone — she always stayed calm, listened carefully, and treated opponents with respect.\n\nOn election day, Rosa read a _(6)_ to the whole school, promising to be a fair _(7)_ who would speak for every student. She told the crowd that the students were _(8)_ — the true power behind every school decision. She promised her _(9)_ would hold open meetings each month. She even said she would work closely with the student council, which acted as the school's small _(10)_, making rules that affected every grade. She vowed never to _(11)_ a proposal without first hearing every side of the argument. When Rosa won, the principal helped _(12)_ her as president with a ceremony in the auditorium, and the whole school cheered.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "campaign",
+        "options": ["campaign", "petition", "proclamation", "veto"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "delegate",
+        "options": ["ambassador", "delegate", "representative", "sovereign"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "petition",
+        "options": ["petition", "proclamation", "campaign", "administration"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "ambassador",
+        "options": ["delegate", "ambassador", "legislature", "diplomatic"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "diplomatic",
+        "options": ["sovereign", "diplomatic", "representative", "campaign"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "proclamation",
+        "options": ["proclamation", "petition", "veto", "delegate"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "representative",
+        "options": ["representative", "ambassador", "administration", "sovereign"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "sovereign",
+        "options": ["diplomatic", "sovereign", "delegate", "legislature"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "administration",
+        "options": ["administration", "campaign", "petition", "inaugurate"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "legislature",
+        "options": ["legislature", "proclamation", "representative", "veto"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "veto",
+        "options": ["inaugurate", "veto", "campaign", "delegate"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "inaugurate",
+        "options": ["inaugurate", "ambassador", "diplomatic", "petition"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "petition",
+        "scale": ["Request", "Appeal", "Petition"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "sovereign",
+        "scale": ["Important", "Powerful", "Sovereign"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "campaign",
+        "scale": ["Campaign", "Crusade", "Movement"],
+        "vocabPosition": 0
+      },
+      {
+        "vocabWord": "diplomatic",
+        "scale": ["Polite", "Tactful", "Diplomatic"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "inaugurate",
+        "words": ["Begin", "Launch", "End", "Start"],
+        "imposterIndex": 2,
+        "imposterWord": "End"
+      },
+      {
+        "vocabWord": "delegate",
+        "words": ["Spokesperson", "Outsider", "Agent", "Envoy"],
+        "imposterIndex": 1,
+        "imposterWord": "Outsider"
+      },
+      {
+        "vocabWord": "legislature",
+        "words": ["Congress", "Parliament", "Assembly", "Citizen"],
+        "imposterIndex": 3,
+        "imposterWord": "Citizen"
+      },
+      {
+        "vocabWord": "ambassador",
+        "words": ["Envoy", "Enemy", "Diplomat", "Messenger"],
+        "imposterIndex": 1,
+        "imposterWord": "Enemy"
+      },
+      {
+        "vocabWord": "proclamation",
+        "words": ["Announcement", "Declaration", "Secret", "Statement"],
+        "imposterIndex": 2,
+        "imposterWord": "Secret"
+      },
+      {
+        "vocabWord": "representative",
+        "words": ["Spokesperson", "Voice", "Agent", "Dictator"],
+        "imposterIndex": 3,
+        "imposterWord": "Dictator"
+      },
+      {
+        "vocabWord": "administration",
+        "words": ["Management", "Leadership", "Government", "Chaos"],
+        "imposterIndex": 3,
+        "imposterWord": "Chaos"
+      },
+      {
+        "vocabWord": "veto",
+        "words": ["Approve", "Block", "Reject", "Refuse"],
+        "imposterIndex": 0,
+        "imposterWord": "Approve"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

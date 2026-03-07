@@ -1,0 +1,405 @@
+{
+  "grade": 4,
+  "setNumber": 9,
+  "words": [
+    "inspire",
+    "extraordinary",
+    "envision",
+    "miniature",
+    "illusion",
+    "original",
+    "concept",
+    "ornament",
+    "remarkable",
+    "visible",
+    "captivate",
+    "ingenious"
+  ],
+  "sources": [
+    "Common Core Grade 4",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 4",
+    "CKLA Grade 4",
+    "Tier 2 Academic"
+  ],
+  "genre": "young inventor story",
+  "story": {
+    "genre": "young inventor story",
+    "characters": [
+      "Nadia",
+      "Felix",
+      "Suki"
+    ],
+    "parts": [
+      {
+        "title": "The Spark",
+        "text": "Nadia loved to **inspire** others with her wild ideas. One afternoon, she told Felix and Suki about an **extraordinary** plan: she wanted to build a tiny flying machine for the school science fair. Felix thought it sounded impossible, but Suki could already **envision** how the little aircraft would soar above the gym."
+      },
+      {
+        "title": "The Workshop",
+        "text": "The three friends gathered in Nadia's garage to build a **miniature** helicopter from recycled parts. Felix used mirrors and lights to create an **illusion** that made the blades look like they were spinning in rainbow colors. Suki sketched an **original** design that no one had ever tried before. The whole **concept** behind it was simple: use a small motor, lightweight wings, and a clever remote control."
+      },
+      {
+        "title": "The Fair",
+        "text": "At the science fair, Nadia hung a tiny star **ornament** on the helicopter for good luck. When the machine lifted off the table, the crowd gasped — the flight was **remarkable**. The helicopter rose until it was **visible** to every person in the gym. Its spinning rainbow lights began to **captivate** the audience, and the judges called the invention truly **ingenious**."
+      },
+      {
+        "title": "The Celebration",
+        "text": "After the fair, the three friends sat on the school steps and laughed about how nervous they had been. Felix admitted he almost gave up twice, but Nadia and Suki never let him quit. They agreed that the best inventions come from teamwork, curiosity, and the courage to try something new."
+      }
+    ],
+    "wordCount": 232
+  },
+  "definitions": [
+    {
+      "word": "inspire",
+      "partOfSpeech": "verb",
+      "meaning1": "To fill someone with the desire to do something great. Example: The astronaut's speech helped inspire the students to study science.",
+      "meaning2": "",
+      "studentChallenge": "The coach's words helped ___ the team to try their best in the final game.",
+      "sentence": ""
+    },
+    {
+      "word": "extraordinary",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very unusual or remarkable; beyond what is ordinary. Example: The magician performed an extraordinary trick that no one could explain.",
+      "meaning2": "",
+      "studentChallenge": "Everyone agreed that the sunset over the ocean was truly ___.",
+      "sentence": ""
+    },
+    {
+      "word": "envision",
+      "partOfSpeech": "verb",
+      "meaning1": "To picture something in your mind; to imagine. Example: She could envision the finished treehouse even before they started building.",
+      "meaning2": "",
+      "studentChallenge": "Close your eyes and try to ___ what your dream bedroom would look like.",
+      "sentence": ""
+    },
+    {
+      "word": "miniature",
+      "partOfSpeech": "adjective, noun",
+      "meaning1": "Much smaller than normal; a tiny copy of something. Example: He built a miniature castle out of toothpicks and glue.",
+      "meaning2": "",
+      "studentChallenge": "The dollhouse was a perfect ___ version of a real Victorian home.",
+      "sentence": ""
+    },
+    {
+      "word": "illusion",
+      "partOfSpeech": "noun",
+      "meaning1": "Something that looks real but is not; a trick of the eyes or mind. Example: The mirror created an illusion that made the small room look huge.",
+      "meaning2": "",
+      "studentChallenge": "The painting on the sidewalk was an ___ that made it look like a deep hole.",
+      "sentence": ""
+    },
+    {
+      "word": "original",
+      "partOfSpeech": "adjective, noun",
+      "meaning1": "New and different; not copied from anything else. Example: Her original poem was unlike anything the teacher had read before.",
+      "meaning2": "The first version of something. Example: The original painting hangs in a museum in Paris.",
+      "studentChallenge": "The artist wanted every drawing to be ___ and not copied from someone else's work.",
+      "sentence": ""
+    },
+    {
+      "word": "concept",
+      "partOfSpeech": "noun",
+      "meaning1": "An idea or thought about how something works. Example: The concept of sharing is something we learn at a young age.",
+      "meaning2": "",
+      "studentChallenge": "The teacher explained the ___ of gravity by dropping a ball and a feather.",
+      "sentence": ""
+    },
+    {
+      "word": "ornament",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A small, decorative object used to make something look nice. Example: She placed a glass ornament on the highest branch of the tree.",
+      "meaning2": "To decorate or add beauty to something. Example: The baker used icing flowers to ornament the wedding cake.",
+      "studentChallenge": "Each student made a handmade ___ to hang on the classroom holiday tree.",
+      "sentence": ""
+    },
+    {
+      "word": "remarkable",
+      "partOfSpeech": "adjective",
+      "meaning1": "Worthy of attention; amazing or impressive. Example: The dog showed remarkable bravery by rescuing the kitten from the river.",
+      "meaning2": "",
+      "studentChallenge": "The gymnast's ___ balance amazed the crowd at the competition.",
+      "sentence": ""
+    },
+    {
+      "word": "visible",
+      "partOfSpeech": "adjective",
+      "meaning1": "Able to be seen. Example: The lighthouse was visible from miles away on a clear night.",
+      "meaning2": "",
+      "studentChallenge": "The mountain was not ___ through the thick fog that morning.",
+      "sentence": ""
+    },
+    {
+      "word": "captivate",
+      "partOfSpeech": "verb",
+      "meaning1": "To hold someone's attention completely because something is so interesting or beautiful. Example: The storyteller was able to captivate the audience with her exciting tales.",
+      "meaning2": "",
+      "studentChallenge": "The colorful fireworks display seemed to ___ everyone at the park.",
+      "sentence": ""
+    },
+    {
+      "word": "ingenious",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very clever and creative; showing smart thinking. Example: The student came up with an ingenious way to organize her locker using magnets.",
+      "meaning2": "",
+      "studentChallenge": "The trap in the movie was so ___ that even the villain did not see it coming.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The famous scientist's story helped _______ a whole generation of young students to pursue their dreams.",
+      "sentence2": "A beautiful painting can _______ people to see the world in a completely new way.",
+      "options": ["captivate", "envision", "inspire", "ornament"],
+      "correctIndex": 2,
+      "correctAnswer": "inspire"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Climbing to the top of the mountain in a snowstorm was an _______ achievement for the young hiker.",
+      "sentence2": "The chef prepared an _______ meal with flavors no one had ever tasted before.",
+      "options": ["remarkable", "extraordinary", "original", "visible"],
+      "correctIndex": 1,
+      "correctAnswer": "extraordinary"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Before building the treehouse, the children tried to _______ exactly what it would look like when finished.",
+      "sentence2": "The architect asked the family to _______ their perfect home and describe every room.",
+      "options": ["inspire", "envision", "captivate", "concept"],
+      "correctIndex": 1,
+      "correctAnswer": "envision"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The museum had a _______ train set that was small enough to fit on a kitchen table.",
+      "sentence2": "She collected _______ figurines of horses, each one no bigger than her thumb.",
+      "options": ["miniature", "visible", "original", "ornament"],
+      "correctIndex": 0,
+      "correctAnswer": "miniature"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The magician created an _______ that made it look like the rabbit had completely disappeared.",
+      "sentence2": "The desert heat can create an _______ of water shimmering on the road ahead.",
+      "options": ["concept", "ornament", "illusion", "extraordinary"],
+      "correctIndex": 2,
+      "correctAnswer": "illusion"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The songwriter wanted every melody to be _______ and not borrowed from another musician.",
+      "sentence2": "They compared the copy to the _______ document to make sure nothing had been changed.",
+      "options": ["ingenious", "original", "remarkable", "visible"],
+      "correctIndex": 1,
+      "correctAnswer": "original"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The _______ of teamwork was something the coach taught on the very first day of practice.",
+      "sentence2": "It took a while for the students to understand the _______ behind how electricity flows through a circuit.",
+      "options": ["illusion", "concept", "ornament", "inspire"],
+      "correctIndex": 1,
+      "correctAnswer": "concept"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "She carefully placed the glass _______ on the top shelf where it would catch the sunlight.",
+      "sentence2": "Each handmade _______ on the holiday tree told a story about the family's traditions.",
+      "options": ["miniature", "ornament", "illusion", "concept"],
+      "correctIndex": 1,
+      "correctAnswer": "ornament"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The rescue dog showed _______ courage by swimming through the icy river to save the child.",
+      "sentence2": "It was _______ how quickly the tiny plant grew into a towering sunflower in just a few weeks.",
+      "options": ["extraordinary", "visible", "remarkable", "ingenious"],
+      "correctIndex": 2,
+      "correctAnswer": "remarkable"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The stars were clearly _______ on the dark, cloudless night far from the city lights.",
+      "sentence2": "The stain on the white shirt was easily _______ from across the room.",
+      "options": ["visible", "miniature", "original", "captivate"],
+      "correctIndex": 0,
+      "correctAnswer": "visible"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The singer's voice was so beautiful that it could _______ everyone in the concert hall.",
+      "sentence2": "The nature documentary managed to _______ the students for the entire class period.",
+      "options": ["envision", "inspire", "captivate", "remarkable"],
+      "correctIndex": 2,
+      "correctAnswer": "captivate"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The boy built an _______ device that sorted his colored pencils automatically using rubber bands.",
+      "sentence2": "Her _______ solution to the math problem surprised even the teacher.",
+      "options": ["remarkable", "extraordinary", "concept", "ingenious"],
+      "correctIndex": 3,
+      "correctAnswer": "ingenious"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "inspire",
+      "extraordinary",
+      "envision",
+      "miniature",
+      "illusion",
+      "original",
+      "concept",
+      "ornament",
+      "remarkable",
+      "visible",
+      "captivate",
+      "ingenious"
+    ],
+    "passage": "Nadia had always wanted to _(1)_ other kids to become inventors. One day, she came up with an _(2)_ idea for the school talent show: she would build a machine that painted pictures all by itself. She could _(3)_ the finished robot sitting on stage, waving a tiny brush across a canvas.\n\nThe painting robot was _(4)_ — small enough to sit in the palm of her hand. Felix helped create an _(5)_ using lights and mirrors so the robot appeared to be floating in midair. Suki added her own _(6)_ touch by programming the robot to mix colors no one had tried before. The whole _(7)_ was built around a simple motor and a set of spinning arms. Nadia placed a shiny _(8)_ shaped like a star on top of the robot for decoration.\n\nOn show night, the robot's performance was _(9)_. Its colorful paintings were _(10)_ even from the back row of the auditorium. The swirling patterns began to _(11)_ every person in the audience. The judges praised the team for their _(12)_ invention and awarded them first place.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "inspire",
+        "options": ["inspire", "captivate", "envision", "ornament"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "extraordinary",
+        "options": ["miniature", "extraordinary", "remarkable", "visible"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "envision",
+        "options": ["inspire", "illusion", "envision", "concept"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "miniature",
+        "options": ["original", "miniature", "ingenious", "visible"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "illusion",
+        "options": ["illusion", "concept", "ornament", "extraordinary"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "original",
+        "options": ["remarkable", "original", "inspire", "captivate"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "concept",
+        "options": ["ornament", "illusion", "concept", "miniature"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "ornament",
+        "options": ["ornament", "extraordinary", "visible", "ingenious"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "remarkable",
+        "options": ["original", "captivate", "remarkable", "envision"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "visible",
+        "options": ["miniature", "visible", "inspire", "illusion"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "captivate",
+        "options": ["captivate", "ingenious", "concept", "extraordinary"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "ingenious",
+        "options": ["remarkable", "ornament", "envision", "ingenious"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "miniature",
+        "scale": ["Miniature", "Small", "Large"],
+        "vocabPosition": 0
+      },
+      {
+        "vocabWord": "remarkable",
+        "scale": ["Ordinary", "Impressive", "Remarkable"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "captivate",
+        "scale": ["Interest", "Fascinate", "Captivate"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "extraordinary",
+        "scale": ["Common", "Unusual", "Extraordinary"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "inspire",
+        "words": ["Motivate", "Encourage", "Discourage", "Uplift"],
+        "imposterIndex": 2,
+        "imposterWord": "Discourage"
+      },
+      {
+        "vocabWord": "envision",
+        "words": ["Imagine", "Picture", "Ignore", "Dream"],
+        "imposterIndex": 2,
+        "imposterWord": "Ignore"
+      },
+      {
+        "vocabWord": "illusion",
+        "words": ["Trick", "Reality", "Mirage", "Fantasy"],
+        "imposterIndex": 1,
+        "imposterWord": "Reality"
+      },
+      {
+        "vocabWord": "original",
+        "words": ["Copied", "Fresh", "Unique", "New"],
+        "imposterIndex": 0,
+        "imposterWord": "Copied"
+      },
+      {
+        "vocabWord": "visible",
+        "words": ["Clear", "Hidden", "Obvious", "Noticeable"],
+        "imposterIndex": 1,
+        "imposterWord": "Hidden"
+      },
+      {
+        "vocabWord": "ingenious",
+        "words": ["Brilliant", "Clever", "Creative", "Foolish"],
+        "imposterIndex": 3,
+        "imposterWord": "Foolish"
+      },
+      {
+        "vocabWord": "concept",
+        "words": ["Idea", "Thought", "Confusion", "Notion"],
+        "imposterIndex": 2,
+        "imposterWord": "Confusion"
+      },
+      {
+        "vocabWord": "ornament",
+        "words": ["Decoration", "Trinket", "Accessory", "Plainness"],
+        "imposterIndex": 3,
+        "imposterWord": "Plainness"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

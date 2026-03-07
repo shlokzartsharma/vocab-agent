@@ -1,0 +1,405 @@
+{
+  "grade": 5,
+  "setNumber": 19,
+  "words": [
+    "solidarity",
+    "communal",
+    "kinship",
+    "covenant",
+    "philanthropic",
+    "exclusion",
+    "benefactor",
+    "fellowship",
+    "camaraderie",
+    "ostracize",
+    "consensus",
+    "stewardship"
+  ],
+  "sources": [
+    "Common Core Grade 5",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 5",
+    "CKLA Grade 5",
+    "Tier 2 Academic"
+  ],
+  "genre": "community project",
+  "story": {
+    "genre": "community project",
+    "characters": [
+      "Leandro",
+      "Nkechi",
+      "Tara"
+    ],
+    "parts": [
+      {
+        "title": "A Neighborhood in Need",
+        "text": "Leandro stared at the empty lot on Maple Street, littered with broken glass and weeds. The neighbors rarely spoke to one another, and there was no sense of **kinship** among them. Nkechi, who had just moved in, felt the **exclusion** right away — no one waved or said hello. She decided it was time for a change and called a meeting at her kitchen table."
+      },
+      {
+        "title": "Building Bridges",
+        "text": "Nkechi proposed turning the empty lot into a **communal** garden that everyone could share. Tara, who lived across the street, loved the idea and suggested they sign a **covenant** — a written promise to care for the garden together. A local business owner, known as a generous **benefactor**, donated seeds, soil, and tools. His **philanthropic** gift gave the project a strong start."
+      },
+      {
+        "title": "Growing Together",
+        "text": "Every Saturday, volunteers arrived to dig, plant, and water. The group reached a **consensus** that each family would tend one raised bed. A spirit of **camaraderie** grew as neighbors laughed and traded gardening tips. Leandro spoke up at a meeting, urging everyone never to **ostracize** newcomers the way the neighborhood once had. He reminded them that true **solidarity** meant standing together, especially when times were hard. Tara added that good **stewardship** of the garden meant thinking about the future, not just today. Their **fellowship** was becoming something real."
+      },
+      {
+        "title": "Seeds of Change",
+        "text": "By autumn, the garden was bursting with tomatoes, peppers, and sunflowers taller than Leandro. Families gathered every weekend to harvest and share meals right there among the raised beds. What had started as an empty, forgotten lot had become the heart of the neighborhood — proof that when people work side by side, a community can truly bloom."
+      }
+    ],
+    "wordCount": 245
+  },
+  "definitions": [
+    {
+      "word": "solidarity",
+      "partOfSpeech": "noun",
+      "meaning1": "Unity and support among people who share the same goal or cause. Example: The students showed solidarity by wearing matching ribbons to support their classmate.",
+      "meaning2": "",
+      "studentChallenge": "The workers stood together in ___ to demand safer conditions.",
+      "sentence": ""
+    },
+    {
+      "word": "communal",
+      "partOfSpeech": "adjective",
+      "meaning1": "Shared by all members of a group or community. Example: The apartment building had a communal rooftop where everyone could relax.",
+      "meaning2": "",
+      "studentChallenge": "The park is a ___ space that belongs to the whole neighborhood.",
+      "sentence": ""
+    },
+    {
+      "word": "kinship",
+      "partOfSpeech": "noun",
+      "meaning1": "A feeling of being close or connected to other people. Example: The two girls felt an instant kinship because they both loved drawing.",
+      "meaning2": "A family relationship. Example: There is a kinship between the two cousins, even though they live far apart.",
+      "studentChallenge": "She felt a strong ___ with the new student who also loved reading.",
+      "sentence": ""
+    },
+    {
+      "word": "covenant",
+      "partOfSpeech": "noun",
+      "meaning1": "A serious, formal agreement or promise between people or groups. Example: The two teams made a covenant to always play fairly and respectfully.",
+      "meaning2": "",
+      "studentChallenge": "The neighbors signed a ___ agreeing to keep the shared yard clean.",
+      "sentence": ""
+    },
+    {
+      "word": "philanthropic",
+      "partOfSpeech": "adjective",
+      "meaning1": "Wanting to help others, especially by giving money or resources to good causes. Example: The philanthropic family donated books to every school in the district.",
+      "meaning2": "",
+      "studentChallenge": "Her ___ efforts raised thousands of dollars for the animal shelter.",
+      "sentence": ""
+    },
+    {
+      "word": "exclusion",
+      "partOfSpeech": "noun",
+      "meaning1": "The act of leaving someone out or keeping them from being part of a group. Example: The exclusion of younger kids from the game made them feel sad.",
+      "meaning2": "",
+      "studentChallenge": "The ___ of certain students from the club was unfair and hurtful.",
+      "sentence": ""
+    },
+    {
+      "word": "benefactor",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who gives money or help to support a cause or another person. Example: A generous benefactor paid for new computers in the school library.",
+      "meaning2": "",
+      "studentChallenge": "An anonymous ___ donated enough money to build a new playground.",
+      "sentence": ""
+    },
+    {
+      "word": "fellowship",
+      "partOfSpeech": "noun",
+      "meaning1": "A friendly feeling among people who share an interest or experience. Example: There was a warm fellowship among the campers after spending a week together in the woods.",
+      "meaning2": "",
+      "studentChallenge": "The book club created a sense of ___ among students who loved to read.",
+      "sentence": ""
+    },
+    {
+      "word": "camaraderie",
+      "partOfSpeech": "noun",
+      "meaning1": "A feeling of trust, friendship, and good spirit among a group. Example: The camaraderie on the soccer team made every practice feel fun.",
+      "meaning2": "",
+      "studentChallenge": "The ___ among the volunteers made the long day of work feel enjoyable.",
+      "sentence": ""
+    },
+    {
+      "word": "ostracize",
+      "partOfSpeech": "verb",
+      "meaning1": "To deliberately leave someone out or refuse to include them in a group. Example: The other children began to ostracize the new kid, which was unkind.",
+      "meaning2": "",
+      "studentChallenge": "It is wrong to ___ someone just because they are different from you.",
+      "sentence": ""
+    },
+    {
+      "word": "consensus",
+      "partOfSpeech": "noun",
+      "meaning1": "A general agreement reached by a whole group. Example: After a long discussion, the class reached a consensus on which movie to watch.",
+      "meaning2": "",
+      "studentChallenge": "The team could not reach a ___ on which design to choose for the poster.",
+      "sentence": ""
+    },
+    {
+      "word": "stewardship",
+      "partOfSpeech": "noun",
+      "meaning1": "The responsible care and management of something entrusted to you. Example: Good stewardship of the environment means recycling and reducing waste.",
+      "meaning2": "",
+      "studentChallenge": "The class practiced ___ by taking care of the school garden all year long.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The workers stood together in _______ to demand safer working conditions at the factory.",
+      "sentence2": "The whole school showed _______ by raising money for the family who lost their home in the fire.",
+      "options": ["consensus", "solidarity", "fellowship", "camaraderie"],
+      "correctIndex": 1,
+      "correctAnswer": "solidarity"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The apartment building had a _______ laundry room that all residents could use.",
+      "sentence2": "The _______ vegetable garden was tended by every family on the block.",
+      "options": ["philanthropic", "communal", "exclusion", "kinship"],
+      "correctIndex": 1,
+      "correctAnswer": "communal"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The two pen pals felt a deep _______ even though they had never met in person.",
+      "sentence2": "Growing up in the same small town gave the neighbors a sense of _______ that lasted for decades.",
+      "options": ["kinship", "covenant", "stewardship", "consensus"],
+      "correctIndex": 0,
+      "correctAnswer": "kinship"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The two nations signed a _______ promising to work together for peace.",
+      "sentence2": "Our club made a _______ that every member would volunteer at least once a month.",
+      "options": ["benefactor", "exclusion", "covenant", "solidarity"],
+      "correctIndex": 2,
+      "correctAnswer": "covenant"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The _______ organization built clean-water wells in villages around the world.",
+      "sentence2": "Her _______ spirit inspired her to donate half her allowance to the food bank every month.",
+      "options": ["communal", "philanthropic", "ostracize", "fellowship"],
+      "correctIndex": 1,
+      "correctAnswer": "philanthropic"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The _______ of girls from the science competition was unfair and outdated.",
+      "sentence2": "He felt the pain of _______ when no one invited him to sit at their lunch table.",
+      "options": ["exclusion", "camaraderie", "kinship", "stewardship"],
+      "correctIndex": 0,
+      "correctAnswer": "exclusion"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "A mysterious _______ left a check for ten thousand dollars at the children's hospital.",
+      "sentence2": "The school library was renovated thanks to a kind _______ who loved books.",
+      "options": ["consensus", "covenant", "solidarity", "benefactor"],
+      "correctIndex": 3,
+      "correctAnswer": "benefactor"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The summer camp created a lasting _______ among the children who attended.",
+      "sentence2": "There was a spirit of _______ in the room as neighbors gathered to share a holiday meal.",
+      "options": ["fellowship", "exclusion", "ostracize", "communal"],
+      "correctIndex": 0,
+      "correctAnswer": "fellowship"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The _______ on the basketball team was obvious — they high-fived after every play.",
+      "sentence2": "A strong sense of _______ developed among the cast members during rehearsals for the school play.",
+      "options": ["stewardship", "camaraderie", "covenant", "philanthropic"],
+      "correctIndex": 1,
+      "correctAnswer": "camaraderie"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "It is wrong to _______ someone simply because they look or think differently.",
+      "sentence2": "The group decided to _______ the bully, refusing to play with him until he apologized.",
+      "options": ["kinship", "consensus", "ostracize", "benefactor"],
+      "correctIndex": 2,
+      "correctAnswer": "ostracize"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "After much debate, the student council reached a _______ on the theme for the spring dance.",
+      "sentence2": "The family came to a _______ that they would spend the holiday at Grandma's house this year.",
+      "options": ["consensus", "solidarity", "fellowship", "exclusion"],
+      "correctIndex": 0,
+      "correctAnswer": "consensus"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Good _______ of the forest means planting new trees when old ones are cut down.",
+      "sentence2": "The principal praised the fifth graders for their _______ of the school recycling program.",
+      "options": ["communal", "philanthropic", "stewardship", "camaraderie"],
+      "correctIndex": 2,
+      "correctAnswer": "stewardship"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "solidarity",
+      "communal",
+      "kinship",
+      "covenant",
+      "philanthropic",
+      "exclusion",
+      "benefactor",
+      "fellowship",
+      "camaraderie",
+      "ostracize",
+      "consensus",
+      "stewardship"
+    ],
+    "passage": "When the old community center on Oak Avenue was about to be torn down, the neighbors knew they had to act. They could not allow the _(1)_ of anyone from the planning process, so they invited every family on the block to a meeting. A feeling of _(2)_ filled the room as neighbors who barely knew each other discovered they shared the same worry.\n\nA retired teacher named Mr. Hollins became the group's greatest _(3)_, donating money for supplies and refreshments at every meeting. His _(4)_ generosity inspired others to chip in, too. Together, the group made a _(5)_ — a solemn promise that they would rebuild the center as a _(6)_ space that belonged to everyone.\n\nWeeks of planning brought a wonderful _(7)_ to the team. They laughed, argued, and solved problems side by side. The group reached a _(8)_ that the new center would include a playground, a library corner, and a kitchen. Leandro reminded everyone that they must never _(9)_ a neighbor, no matter how small their contribution.\n\nThe grand opening was a day of true _(10)_, with every family standing together under a hand-painted banner. Nkechi gave a speech about _(11)_ — how taking care of shared spaces was everyone's duty. As the sun set, the _(12)_ among the neighbors felt stronger than ever, like a family brought together by purpose.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "exclusion",
+        "options": ["exclusion", "kinship", "covenant", "solidarity"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "kinship",
+        "options": ["camaraderie", "kinship", "stewardship", "consensus"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "benefactor",
+        "options": ["benefactor", "fellowship", "ostracize", "communal"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "philanthropic",
+        "options": ["communal", "philanthropic", "solidarity", "exclusion"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "covenant",
+        "options": ["consensus", "camaraderie", "covenant", "stewardship"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "communal",
+        "options": ["philanthropic", "communal", "kinship", "benefactor"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "camaraderie",
+        "options": ["fellowship", "exclusion", "camaraderie", "ostracize"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "consensus",
+        "options": ["covenant", "solidarity", "consensus", "kinship"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "ostracize",
+        "options": ["ostracize", "benefactor", "stewardship", "communal"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "solidarity",
+        "options": ["camaraderie", "solidarity", "fellowship", "philanthropic"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "stewardship",
+        "options": ["exclusion", "consensus", "stewardship", "covenant"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "fellowship",
+        "options": ["fellowship", "ostracize", "kinship", "benefactor"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "exclusion",
+        "scale": ["Inclusion", "Separation", "Exclusion"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "solidarity",
+        "scale": ["Agreement", "Unity", "Solidarity"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "camaraderie",
+        "scale": ["Friendliness", "Companionship", "Camaraderie"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "kinship",
+        "scale": ["Acquaintance", "Kinship", "Family"],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "solidarity",
+        "words": ["Unity", "Division", "Togetherness", "Support"],
+        "imposterIndex": 1,
+        "imposterWord": "Division"
+      },
+      {
+        "vocabWord": "communal",
+        "words": ["Shared", "Private", "Collective", "Public"],
+        "imposterIndex": 1,
+        "imposterWord": "Private"
+      },
+      {
+        "vocabWord": "ostracize",
+        "words": ["Banish", "Welcome", "Shun", "Reject"],
+        "imposterIndex": 1,
+        "imposterWord": "Welcome"
+      },
+      {
+        "vocabWord": "benefactor",
+        "words": ["Donor", "Supporter", "Taker", "Patron"],
+        "imposterIndex": 2,
+        "imposterWord": "Taker"
+      },
+      {
+        "vocabWord": "consensus",
+        "words": ["Agreement", "Harmony", "Disagreement", "Accord"],
+        "imposterIndex": 2,
+        "imposterWord": "Disagreement"
+      },
+      {
+        "vocabWord": "philanthropic",
+        "words": ["Generous", "Charitable", "Giving", "Selfish"],
+        "imposterIndex": 3,
+        "imposterWord": "Selfish"
+      },
+      {
+        "vocabWord": "stewardship",
+        "words": ["Neglect", "Care", "Responsibility", "Management"],
+        "imposterIndex": 0,
+        "imposterWord": "Neglect"
+      },
+      {
+        "vocabWord": "fellowship",
+        "words": ["Companionship", "Isolation", "Friendship", "Brotherhood"],
+        "imposterIndex": 1,
+        "imposterWord": "Isolation"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

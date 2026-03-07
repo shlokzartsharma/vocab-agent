@@ -1,0 +1,586 @@
+{
+  "grade": 3,
+  "setNumber": 35,
+  "words": [
+    "swift",
+    "fund",
+    "solid",
+    "establish",
+    "remote",
+    "attitude",
+    "bold",
+    "ripple",
+    "device",
+    "prefer",
+    "hump",
+    "rapid"
+  ],
+  "sources": [
+    "Australian Curriculum",
+    "CBSE India",
+    "Common Core Grade 3",
+    "Common Core Grade 4",
+    "Common Core Grade 5",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Flocabulary Grade 4",
+    "Flocabulary Grade 5",
+    "Tier 2 Academic",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "detective or spy fiction",
+  "story": {
+    "genre": "detective or spy fiction",
+    "characters": [
+      "Luna",
+      "Liam",
+      "Lakshmi"
+    ],
+    "parts": [
+      {
+        "title": "The Assignment",
+        "text": "Agent Luna received the message at exactly midnight. She had to be **swift** \u2014 there was no time to waste. Her handler Liam confirmed that the mission **fund** had been approved, meaning she had everything she needed. Her training was **solid**, and no one else in the agency could handle this kind of assignment."
+      },
+      {
+        "title": "Into Danger",
+        "text": "The warehouse was in a **remote** part of the city, far from any road with streetlights. Luna moved with a calm **attitude** \u2014 cool and focused, betraying nothing. She preferred to use a small electronic **device** to scan for motion sensors before moving into any new space. A single wrong step could send a **ripple** of alerts through the entire security system. She needed to be **bold** but not reckless."
+      },
+      {
+        "title": "The Vault",
+        "text": "Inside, she found a safe hidden behind a painting. She used her scanner to crack its combination in seconds. The safe contained documents that could help **establish** the truth about a decades-old theft. A **hump** of folders was stacked neatly on the desk beside it. Luna would **prefer** to photograph everything rather than take originals, and the camera on her watch was more than up to the task."
+      },
+      {
+        "title": "Mission Complete",
+        "text": "Agent Luna escaped just as the sun rose. The documents revealed a network of stolen art worth millions. Liam met her at the safe house, and his usually **rapid** speech slowed to something almost gentle. \"Outstanding work,\" he said. \"You've just solved a case that's been open for fifteen years.\" Luna allowed herself a small smile. Another mission complete \u2014 but she knew the next one was already waiting."
+      }
+    ],
+    "wordCount": 258
+  },
+  "definitions": [
+    {
+      "word": "swift",
+      "partOfSpeech": "adjective",
+      "meaning1": "Moving very fast. Example: The swift cheetah caught its prey.",
+      "meaning2": "",
+      "studentChallenge": "The river had a ___ current after the rain.",
+      "sentence": ""
+    },
+    {
+      "word": "fund",
+      "partOfSpeech": "noun",
+      "meaning1": "An amount of money collected and saved for a specific purpose. Example: The class started a fund to raise money for new playground equipment.",
+      "meaning2": "To provide money for something (verb). Example: The town voted to fund the construction of a new swimming pool.",
+      "studentChallenge": "Students donated their spare change to the ___ for buying books for the school library.",
+      "sentence": ""
+    },
+    {
+      "word": "solid",
+      "partOfSpeech": "adjective",
+      "meaning1": "Hard and firm; not liquid or gas. Example: Ice is the solid form of water.",
+      "meaning2": "Strong and reliable. Example: She built a solid friendship.",
+      "studentChallenge": "The bridge is made of ___ stone.",
+      "sentence": ""
+    },
+    {
+      "word": "establish",
+      "partOfSpeech": "verb",
+      "meaning1": "To set up or create something. Example: They established a new school in the village.",
+      "meaning2": "",
+      "studentChallenge": "The company was ___ in 1985.",
+      "sentence": ""
+    },
+    {
+      "word": "remote",
+      "partOfSpeech": "adjective",
+      "meaning1": "Far away from other places. Example: The village was in a remote area of the mountains.",
+      "meaning2": "",
+      "studentChallenge": "The ___ island had no roads or electricity.",
+      "sentence": ""
+    },
+    {
+      "word": "attitude",
+      "partOfSpeech": "noun",
+      "meaning1": "The way you think or feel about something, shown by your behavior. Example: Having a positive attitude helps you get through tough days at school.",
+      "meaning2": "",
+      "studentChallenge": "Her cheerful ___ made everyone around her feel happy and welcome.",
+      "sentence": ""
+    },
+    {
+      "word": "bold",
+      "partOfSpeech": "adjective",
+      "meaning1": "Brave and confident; not afraid. Example: The bold explorer ventured into the cave.",
+      "meaning2": "",
+      "studentChallenge": "It was ___ of her to speak up in front of everyone.",
+      "sentence": ""
+    },
+    {
+      "word": "ripple",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A small wave on the surface of water. Example: A stone thrown into the pond made ripples.",
+      "meaning2": "",
+      "studentChallenge": "The breeze caused a ___ across the lake.",
+      "sentence": ""
+    },
+    {
+      "word": "device",
+      "partOfSpeech": "noun",
+      "meaning1": "A tool or piece of equipment made for a specific purpose. Example: The tablet is a useful device for reading books, watching videos, and doing schoolwork.",
+      "meaning2": "",
+      "studentChallenge": "The scientist invented a clever ___ that could measure the speed of the wind.",
+      "sentence": ""
+    },
+    {
+      "word": "prefer",
+      "partOfSpeech": "verb",
+      "meaning1": "To like one thing more than another. Example: I prefer drawing with coloured pencils rather than painting with watercolours.",
+      "meaning2": "",
+      "studentChallenge": "Do you ___ chocolate or vanilla ice cream for your birthday sundae?",
+      "sentence": ""
+    },
+    {
+      "word": "hump",
+      "partOfSpeech": "noun",
+      "meaning1": "A rounded bump or raised part. Example: A camel has a large hump on its back that stores fat for energy.",
+      "meaning2": "",
+      "studentChallenge": "The car bounced when we drove over the speed ___ in the parking lot.",
+      "sentence": ""
+    },
+    {
+      "word": "rapid",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very fast; happening in a short time. Example: The rapid growth of the sunflower amazed the class \u2014 it grew ten centimetres in just one week.",
+      "meaning2": "",
+      "studentChallenge": "The ___ current of the river carried the canoe downstream much faster than we expected.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The ___ cheetah sprinted across the plains and caught its prey in seconds.",
+      "sentence2": "The river had a ___ current after the heavy rain, moving faster than we could swim.",
+      "options": [
+        "hump",
+        "swift",
+        "prefer",
+        "establish"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "swift"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The class started a ___ to raise money for new playground equipment.",
+      "sentence2": "Students donated their spare change to the ___ for buying books for the school library.",
+      "options": [
+        "fund",
+        "rapid",
+        "prefer",
+        "swift"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "fund"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Ice is the ___ form of water \u2014 hard and firm, not flowing at all.",
+      "sentence2": "The bridge is made of ___ stone that has held firm for two hundred years.",
+      "options": [
+        "solid",
+        "device",
+        "remote",
+        "rapid"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "solid"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "They ___ a new school in the village so children no longer had to walk ten miles.",
+      "sentence2": "The company was ___ in 1985 by two friends with a big idea and a small workshop.",
+      "options": [
+        "attitude",
+        "establish",
+        "fund",
+        "ripple"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "establish"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The village was in a ___ area of the mountains, far from any town or road.",
+      "sentence2": "The ___ island had no roads or electricity \u2014 only jungle and birdsong.",
+      "options": [
+        "rapid",
+        "device",
+        "remote",
+        "solid"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "remote"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Having a positive ___ helps you get through tough days at school.",
+      "sentence2": "Her cheerful ___ made everyone around her feel happy and welcome.",
+      "options": [
+        "rapid",
+        "remote",
+        "attitude",
+        "establish"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "attitude"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The ___ explorer ventured into the dark cave without hesitation.",
+      "sentence2": "It was ___ of her to speak up in front of the entire assembly.",
+      "options": [
+        "bold",
+        "remote",
+        "solid",
+        "ripple"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "bold"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "A stone thrown into the pond made small ___ that spread to the edge.",
+      "sentence2": "The gentle breeze caused a ___ across the surface of the still lake.",
+      "options": [
+        "bold",
+        "ripple",
+        "fund",
+        "device"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "ripple"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The tablet is a useful ___ for reading books, watching videos, and doing schoolwork.",
+      "sentence2": "The scientist invented a clever ___ that could measure the speed of the wind.",
+      "options": [
+        "hump",
+        "ripple",
+        "bold",
+        "device"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "device"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "I ___ drawing with coloured pencils rather than painting with watercolours.",
+      "sentence2": "Do you ___ chocolate or vanilla ice cream for your birthday sundae?",
+      "options": [
+        "device",
+        "rapid",
+        "bold",
+        "prefer"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "prefer"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "A camel has a large ___ on its back that stores fat for energy on long desert journeys.",
+      "sentence2": "The car bounced when we drove over the speed ___ in the school parking lot.",
+      "options": [
+        "device",
+        "swift",
+        "hump",
+        "attitude"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "hump"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The ___ growth of the sunflower amazed the class \u2014 it grew ten centimetres in just one week.",
+      "sentence2": "The ___ current of the river carried the canoe downstream much faster than we expected.",
+      "options": [
+        "device",
+        "prefer",
+        "fund",
+        "rapid"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "rapid"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "swift",
+      "fund",
+      "solid",
+      "establish",
+      "remote",
+      "attitude",
+      "bold",
+      "ripple",
+      "device",
+      "prefer",
+      "hump",
+      "rapid"
+    ],
+    "passage": "Agent Luna tracked a stolen painting to a _(1)_ village \u2014 a tiny, faraway place with no roads and no phone signal. She crossed a _(2)_ in the path \u2014 a rounded rise in the ground \u2014 and crouched behind a wall. She used a small electronic _(3)_ \u2014 a gadget no bigger than her thumb \u2014 to scan for hidden cameras. Her movements were _(4)_, fast and quiet, leaving no trace behind. She needed to _(5)_ her cover story first, setting it up before anyone could question her. The village had used a community _(6)_ \u2014 money saved together by the residents \u2014 to build a gallery that housed local art. Luna's _(7)_ was calm and confident, showing nothing of the danger she felt inside. The evidence sat on a _(8)_ stone shelf, hard and firm, impossible to move without the right tools. A single wrong step could send a _(9)_ across the still water in the courtyard, alerting the guards. She would _(10)_ stealth over speed, choosing silence rather than rushing. She made a _(11)_ move \u2014 brave and daring \u2014 and opened the vault door without a sound. The _(12)_ pace of her heartbeat slowed as the painting came into view, exactly where the tip-off said it would be.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "remote",
+        "options": [
+          "remote",
+          "solid",
+          "bold",
+          "rapid"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "hump",
+        "options": [
+          "hump",
+          "ripple",
+          "fund",
+          "device"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "device",
+        "options": [
+          "device",
+          "fund",
+          "ripple",
+          "hump"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "swift",
+        "options": [
+          "swift",
+          "bold",
+          "solid",
+          "rapid"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "establish",
+        "options": [
+          "establish",
+          "prefer",
+          "fund",
+          "attitude"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "fund",
+        "options": [
+          "fund",
+          "establish",
+          "device",
+          "hump"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "attitude",
+        "options": [
+          "attitude",
+          "prefer",
+          "ripple",
+          "establish"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "solid",
+        "options": [
+          "solid",
+          "remote",
+          "swift",
+          "bold"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "ripple",
+        "options": [
+          "ripple",
+          "hump",
+          "device",
+          "fund"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "prefer",
+        "options": [
+          "prefer",
+          "establish",
+          "attitude",
+          "bold"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "bold",
+        "options": [
+          "bold",
+          "swift",
+          "rapid",
+          "solid"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "rapid",
+        "options": [
+          "rapid",
+          "swift",
+          "bold",
+          "remote"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "swift",
+        "scale": [
+          "quick",
+          "swift",
+          "speedy"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "fund",
+        "scale": [
+          "money",
+          "fund",
+          "capital"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "solid",
+        "scale": [
+          "firm",
+          "solid",
+          "sturdy"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "establish",
+        "scale": [
+          "start",
+          "establish",
+          "found"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "remote",
+        "words": [
+          "distant",
+          "near",
+          "far",
+          "isolated"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "near"
+      },
+      {
+        "vocabWord": "attitude",
+        "words": [
+          "outlook",
+          "manner",
+          "indifference",
+          "approach"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "indifference"
+      },
+      {
+        "vocabWord": "bold",
+        "words": [
+          "brave",
+          "daring",
+          "timid",
+          "fearless"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "timid"
+      },
+      {
+        "vocabWord": "ripple",
+        "words": [
+          "wave",
+          "undulation",
+          "stillness",
+          "surge"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "stillness"
+      },
+      {
+        "vocabWord": "device",
+        "words": [
+          "nothing",
+          "gadget",
+          "tool",
+          "instrument"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "nothing"
+      },
+      {
+        "vocabWord": "prefer",
+        "words": [
+          "dislike",
+          "like",
+          "choose",
+          "favor"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "dislike"
+      },
+      {
+        "vocabWord": "hump",
+        "words": [
+          "hollow",
+          "bump",
+          "mound",
+          "bulge"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "hollow"
+      },
+      {
+        "vocabWord": "rapid",
+        "words": [
+          "fast",
+          "quick",
+          "slow",
+          "speedy"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "slow"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

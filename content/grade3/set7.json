@@ -1,0 +1,406 @@
+{
+  "grade": 3,
+  "setNumber": 7,
+  "words": [
+    "passage",
+    "restless",
+    "shallow",
+    "shatter",
+    "talent",
+    "atmosphere",
+    "brilliant",
+    "convince",
+    "endure",
+    "glance",
+    "harsh",
+    "plunge"
+  ],
+  "sources": [
+    "Common Core Grade 3",
+    "Common Core Grade 4",
+    "CBSE India",
+    "Cambridge Primary",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Tier 2 Academic"
+  ],
+  "genre": "real world records and achievements",
+  "story": {
+    "genre": "real world records and achievements",
+    "characters": [
+      "Maya",
+      "Rohan",
+      "Aarav"
+    ],
+    "parts": [
+      {
+        "title": "The Hidden Tunnel",
+        "text": "Maya had always been a **restless** sleeper, waking up at every creak and shadow. One night, she spotted a faint glow at the end of the old hallway and decided to investigate. She moved quietly through a hidden **passage** behind the bookcase, stepping carefully to avoid making noise."
+      },
+      {
+        "title": "The Chamber",
+        "text": "The tunnel grew narrow and the ceiling hung low, with only a **shallow** layer of air between the stone and her head. She had to **plunge** down a steep stone ramp to reach a chamber below. The room had a strange **atmosphere** — cool, still, and humming with mystery. A lantern cast **brilliant** golden light across the walls, which were covered in ancient drawings."
+      },
+      {
+        "title": "The Discovery",
+        "text": "Maya could only steal a quick **glance** at each drawing before she spotted a locked chest. A sign warned that the glass lid would **shatter** if handled carelessly. She tried to **convince** herself to act bravely. She knew she had the **talent** for solving puzzles. The cold and the dark were **harsh** conditions, but she had trained herself to **endure** discomfort. She opened the chest — and smiled."
+      },
+      {
+        "title": "The Treasure",
+        "text": "Inside the chest was a collection of old journals written by a famous explorer who had once lived in the house. Maya spent the rest of the night reading by lamplight. When morning came, she showed Rohan and Aarav what she had found. The three friends decided to donate the journals to the local museum, where they became the most popular exhibit of the year."
+      }
+    ],
+    "wordCount": 240
+  },
+  "definitions": [
+    {
+      "word": "passage",
+      "partOfSpeech": "noun",
+      "meaning1": "A narrow path or tunnel that allows you to go through something. Example: The hikers followed a narrow passage through the cave.",
+      "meaning2": "A section of a piece of writing. Example: She read the passage carefully before answering the questions.",
+      "studentChallenge": "The secret ___ behind the bookcase led to a hidden room.",
+      "sentence": ""
+    },
+    {
+      "word": "restless",
+      "partOfSpeech": "adjective",
+      "meaning1": "Unable to stay still or be calm. Example: The restless puppy kept running from room to room.",
+      "meaning2": "",
+      "studentChallenge": "He tossed and turned all night, too ___ to sleep.",
+      "sentence": ""
+    },
+    {
+      "word": "shallow",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not deep. Example: The puddle was too shallow for the ducks to swim in.",
+      "meaning2": "Not showing deep thought or understanding. Example: Her explanation was shallow and did not explore the deeper ideas.",
+      "studentChallenge": "The water near the shore was so ___ that you could see the sandy bottom.",
+      "sentence": ""
+    },
+    {
+      "word": "shatter",
+      "partOfSpeech": "verb",
+      "meaning1": "To break suddenly into many small pieces. Example: One wrong move could shatter the delicate glass ornament.",
+      "meaning2": "To destroy completely. Example: The bad news shattered his hopes of winning.",
+      "studentChallenge": "The baseball hit the window and caused it to ___ into a hundred pieces.",
+      "sentence": ""
+    },
+    {
+      "word": "talent",
+      "partOfSpeech": "noun",
+      "meaning1": "A natural ability to do something well. Example: She has a real talent for drawing animals that look almost alive.",
+      "meaning2": "",
+      "studentChallenge": "It takes years of practice to develop a natural ___ into a true skill.",
+      "sentence": ""
+    },
+    {
+      "word": "atmosphere",
+      "partOfSpeech": "noun",
+      "meaning1": "The layer of gases surrounding the Earth. Example: The atmosphere protects us from the sun's harmful rays.",
+      "meaning2": "The mood or feeling of a place. Example: The atmosphere at the party was warm and full of laughter.",
+      "studentChallenge": "The ___ in the haunted house was dark and creepy.",
+      "sentence": ""
+    },
+    {
+      "word": "brilliant",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very bright or shining. Example: The stage lights made the dancer's costume look brilliant and dazzling.",
+      "meaning2": "Extremely clever or talented. Example: The scientist had a brilliant idea that changed how everyone thought about light.",
+      "studentChallenge": "The ___ sunset turned the whole sky orange and gold.",
+      "sentence": ""
+    },
+    {
+      "word": "convince",
+      "partOfSpeech": "verb",
+      "meaning1": "To make someone believe or agree with something by giving good reasons. Example: She tried to convince her brother that the movie was worth watching.",
+      "meaning2": "",
+      "studentChallenge": "No matter how hard he argued, he could not ___ the judges to change their decision.",
+      "sentence": ""
+    },
+    {
+      "word": "endure",
+      "partOfSpeech": "verb",
+      "meaning1": "To suffer through something difficult without giving up. Example: The villagers had to endure a long, bitter winter with very little food.",
+      "meaning2": "",
+      "studentChallenge": "It is hard to ___ years of training, but champions push through.",
+      "sentence": ""
+    },
+    {
+      "word": "glance",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To look at something quickly. Example: She stole a quick glance at the clock.",
+      "meaning2": "A brief or hurried look. Example: One glance at his face told her something was wrong.",
+      "studentChallenge": "Before crossing the street, she took a quick ___ in both directions.",
+      "sentence": ""
+    },
+    {
+      "word": "harsh",
+      "partOfSpeech": "adjective",
+      "meaning1": "Unpleasantly rough or severe. Example: The coach's words were harsh but honest.",
+      "meaning2": "Uncomfortable or difficult to deal with. Example: Winter winds can be harsh on uncovered skin.",
+      "studentChallenge": "The ___ sunlight made her squint as she stepped outside.",
+      "sentence": ""
+    },
+    {
+      "word": "plunge",
+      "partOfSpeech": "verb",
+      "meaning1": "To jump or dive quickly into something. Example: He decided to plunge into the cold water rather than wade in slowly.",
+      "meaning2": "To fall or drop suddenly. Example: The stock market could plunge if investors lose confidence.",
+      "studentChallenge": "She took a deep breath and decided to ___ into the icy lake.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The hikers followed the narrow _______ through the dark cave until they reached the other side.",
+      "sentence2": "She read the _______ from the book carefully before answering the questions on the test.",
+      "options": ["glance", "talent", "passage", "atmosphere"],
+      "correctIndex": 2,
+      "correctAnswer": "passage"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The puppy was so _______ that it kept running from room to room chasing its own shadow.",
+      "sentence2": "He tossed and turned all night, too _______ to fall asleep before the big game.",
+      "options": ["harsh", "restless", "brilliant", "shallow"],
+      "correctIndex": 1,
+      "correctAnswer": "restless"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The puddle was too _______ for the ducks to swim in — barely an inch deep.",
+      "sentence2": "Her explanation was _______ and did not explore the deeper reasons behind the problem.",
+      "options": ["shallow", "endure", "harsh", "restless"],
+      "correctIndex": 0,
+      "correctAnswer": "shallow"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "One wrong move could _______ the delicate glass ornament sitting on the shelf.",
+      "sentence2": "The loud thunderclap was enough to _______ the silence of the peaceful night.",
+      "options": ["convince", "glance", "plunge", "shatter"],
+      "correctIndex": 3,
+      "correctAnswer": "shatter"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "She has a real _______ for drawing animals that look almost alive on the page.",
+      "sentence2": "It takes years of practice to develop a natural _______ into a true professional skill.",
+      "options": ["talent", "passage", "atmosphere", "plunge"],
+      "correctIndex": 0,
+      "correctAnswer": "talent"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The smoky _______ in the old diner made her eyes water and her throat burn.",
+      "sentence2": "The _______ at the surprise party was warm, cheerful, and full of laughter.",
+      "options": ["glance", "passage", "atmosphere", "talent"],
+      "correctIndex": 2,
+      "correctAnswer": "atmosphere"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The scientist had a _______ idea that completely changed how everyone thought about energy.",
+      "sentence2": "The stage lights made the dancer's costume look _______ and dazzling under the spotlight.",
+      "options": ["harsh", "restless", "brilliant", "shallow"],
+      "correctIndex": 2,
+      "correctAnswer": "brilliant"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "She tried to _______ her brother that the movie was actually worth watching twice.",
+      "sentence2": "No matter how hard he argued, he could not _______ the judges to change their final decision.",
+      "options": ["endure", "plunge", "shatter", "convince"],
+      "correctIndex": 3,
+      "correctAnswer": "convince"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The villagers had to _______ a long, bitter winter with very little food or firewood.",
+      "sentence2": "It is hard to _______ years of training, but true champions always push through.",
+      "options": ["endure", "glance", "shatter", "talent"],
+      "correctIndex": 0,
+      "correctAnswer": "endure"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "She stole a quick _______ at the clock without stopping her work on the painting.",
+      "sentence2": "One _______ at his face told her immediately that something was terribly wrong.",
+      "options": ["passage", "atmosphere", "plunge", "glance"],
+      "correctIndex": 3,
+      "correctAnswer": "glance"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The coach's words were _______ but honest, and the team needed to hear the truth.",
+      "sentence2": "Winter winds can be extremely _______ on skin that is not properly covered.",
+      "options": ["brilliant", "harsh", "shallow", "restless"],
+      "correctIndex": 1,
+      "correctAnswer": "harsh"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "He decided to _______ into the cold lake water rather than wade in slowly from the shore.",
+      "sentence2": "The stock market could _______ if investors suddenly lose all their confidence.",
+      "options": ["plunge", "convince", "endure", "passage"],
+      "correctIndex": 0,
+      "correctAnswer": "plunge"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "passage",
+      "restless",
+      "shallow",
+      "shatter",
+      "talent",
+      "atmosphere",
+      "brilliant",
+      "convince",
+      "endure",
+      "glance",
+      "harsh",
+      "plunge"
+    ],
+    "passage": "Maya had always been a _(1)_ sleeper, waking up at every creak and shadow. One night, she spotted a faint glow at the end of the old hallway and decided to investigate. She moved quietly through a hidden _(2)_ behind the bookcase, stepping carefully to avoid making noise.\n\nThe tunnel grew narrow and the ceiling hung low, with only a _(3)_ layer of air between the stone and her head. She had to _(4)_ down a steep stone ramp to reach a chamber below. The room had a strange _(5)_ — cool, still, and humming with mystery.\n\nA lantern cast _(6)_ golden light across the walls, which were covered in ancient drawings. Maya could only steal a quick _(7)_ at each one before she spotted a locked chest. A sign warned that the glass lid would _(8)_ if handled carelessly.\n\nShe tried to _(9)_ herself to act bravely, reminding herself she had the _(10)_ for solving puzzles. The cold and the dark were _(11)_ conditions, but she had trained herself to _(12)_ discomfort. She opened the chest — and smiled.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "restless",
+        "options": ["brilliant", "shallow", "restless", "harsh"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "passage",
+        "options": ["glance", "talent", "atmosphere", "passage"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "shallow",
+        "options": ["shallow", "restless", "harsh", "brilliant"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "plunge",
+        "options": ["shatter", "plunge", "endure", "convince"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "atmosphere",
+        "options": ["talent", "glance", "atmosphere", "passage"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "brilliant",
+        "options": ["restless", "harsh", "shallow", "brilliant"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "glance",
+        "options": ["glance", "passage", "talent", "atmosphere"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "shatter",
+        "options": ["endure", "convince", "shatter", "plunge"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "convince",
+        "options": ["endure", "convince", "plunge", "shatter"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "talent",
+        "options": ["glance", "passage", "talent", "atmosphere"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "harsh",
+        "options": ["restless", "brilliant", "harsh", "shallow"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "endure",
+        "options": ["convince", "plunge", "shatter", "endure"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "glance",
+        "scale": ["Peek", "Glance", "Stare"],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "brilliant",
+        "scale": ["Dim", "Bright", "Brilliant"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "harsh",
+        "scale": ["Mild", "Firm", "Harsh"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "shallow",
+        "scale": ["Shallow", "Moderate", "Deep"],
+        "vocabPosition": 0
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "restless",
+        "words": ["Fidgety", "Calm", "Uneasy", "Agitated"],
+        "imposterIndex": 1,
+        "imposterWord": "Calm"
+      },
+      {
+        "vocabWord": "shatter",
+        "words": ["Smash", "Mend", "Crack", "Break"],
+        "imposterIndex": 1,
+        "imposterWord": "Mend"
+      },
+      {
+        "vocabWord": "talent",
+        "words": ["Gift", "Weakness", "Skill", "Ability"],
+        "imposterIndex": 1,
+        "imposterWord": "Weakness"
+      },
+      {
+        "vocabWord": "brilliant",
+        "words": ["Dull", "Dazzling", "Clever", "Vivid"],
+        "imposterIndex": 0,
+        "imposterWord": "Dull"
+      },
+      {
+        "vocabWord": "harsh",
+        "words": ["Gentle", "Rough", "Severe", "Stern"],
+        "imposterIndex": 0,
+        "imposterWord": "Gentle"
+      },
+      {
+        "vocabWord": "endure",
+        "words": ["Tolerate", "Collapse", "Persist", "Withstand"],
+        "imposterIndex": 1,
+        "imposterWord": "Collapse"
+      },
+      {
+        "vocabWord": "convince",
+        "words": ["Persuade", "Discourage", "Influence", "Sway"],
+        "imposterIndex": 1,
+        "imposterWord": "Discourage"
+      },
+      {
+        "vocabWord": "plunge",
+        "words": ["Dive", "Rise", "Leap", "Drop"],
+        "imposterIndex": 1,
+        "imposterWord": "Rise"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

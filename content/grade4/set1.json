@@ -1,0 +1,405 @@
+{
+  "grade": 4,
+  "setNumber": 1,
+  "words": [
+    "confront",
+    "dispute",
+    "peril",
+    "reluctant",
+    "surrender",
+    "valor",
+    "adversary",
+    "allegiance",
+    "overwhelm",
+    "protest",
+    "retreat",
+    "standpoint"
+  ],
+  "sources": [
+    "Common Core Grade 4",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 4",
+    "CKLA Grade 4",
+    "Tier 2 Academic"
+  ],
+  "genre": "historical fiction",
+  "story": {
+    "genre": "historical fiction",
+    "characters": [
+      "Anika",
+      "Marcus",
+      "Lin"
+    ],
+    "parts": [
+      {
+        "title": "The Divided Village",
+        "text": "Long ago, two villages sat on opposite sides of a wide river. Anika lived on the east bank, and Marcus lived on the west. A **dispute** had broken out between the two villages over who owned the bridge. Anika felt a deep **allegiance** to her people and wanted to protect them. Marcus, once her friend, had become her **adversary** in this conflict."
+      },
+      {
+        "title": "The Dangerous Crossing",
+        "text": "One stormy night, Lin, a young traveler, tried to cross the bridge. The river rose high and placed her in great **peril**. Anika wanted to help, but she was **reluctant** to cross into the other village's territory. She knew she had to **confront** her fear. With great **valor**, Anika stepped onto the shaking bridge and reached for Lin's hand."
+      },
+      {
+        "title": "The Truce",
+        "text": "Marcus saw what was happening and ran to help. Together, they pulled Lin to safety. The crowd from both villages began to **protest**, shouting that no one should cross the bridge. But Lin's rescue started to **overwhelm** people with a new feeling — kindness. Marcus decided to **surrender** the argument and offered peace. From his **standpoint**, saving a life mattered more than winning. The villagers agreed to **retreat** from their angry positions."
+      },
+      {
+        "title": "A New Beginning",
+        "text": "The next morning, both villages gathered on the bridge. Anika and Marcus shook hands while Lin smiled between them. The bridge was no longer a line that divided people — it was a place that brought them together. From that day on, the two villages shared the bridge and celebrated their friendship every spring."
+      }
+    ],
+    "wordCount": 247
+  },
+  "definitions": [
+    {
+      "word": "confront",
+      "partOfSpeech": "verb",
+      "meaning1": "To face something or someone in a bold or direct way. Example: She decided to confront the bully instead of hiding from him.",
+      "meaning2": "",
+      "studentChallenge": "It took courage to ___ the problem instead of running away from it.",
+      "sentence": ""
+    },
+    {
+      "word": "dispute",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A disagreement or argument between people. Example: The two friends had a dispute about which movie to watch.",
+      "meaning2": "To argue or disagree with something. Example: She wanted to dispute the unfair rule at school.",
+      "studentChallenge": "The neighbors had a ___ over where the fence should be built.",
+      "sentence": ""
+    },
+    {
+      "word": "peril",
+      "partOfSpeech": "noun",
+      "meaning1": "Serious and immediate danger. Example: The hikers were in great peril when the storm hit the mountain.",
+      "meaning2": "",
+      "studentChallenge": "The sailors faced great ___ as the waves crashed against their tiny boat.",
+      "sentence": ""
+    },
+    {
+      "word": "reluctant",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not willing or eager to do something. Example: He was reluctant to jump into the cold pool on a chilly day.",
+      "meaning2": "",
+      "studentChallenge": "She was ___ to try the new food because it looked strange.",
+      "sentence": ""
+    },
+    {
+      "word": "surrender",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To give up or stop fighting. Example: The losing team had to surrender the trophy to the winners.",
+      "meaning2": "The act of giving up. Example: The soldiers raised a white flag as a sign of surrender.",
+      "studentChallenge": "After a long game of tug-of-war, the other team had to ___ and let go of the rope.",
+      "sentence": ""
+    },
+    {
+      "word": "valor",
+      "partOfSpeech": "noun",
+      "meaning1": "Great courage and bravery, especially in battle or danger. Example: The firefighter showed true valor when she rescued the family from the burning building.",
+      "meaning2": "",
+      "studentChallenge": "The knight was honored for his ___ in protecting the kingdom.",
+      "sentence": ""
+    },
+    {
+      "word": "adversary",
+      "partOfSpeech": "noun",
+      "meaning1": "An opponent or enemy. Example: In the chess tournament, her toughest adversary was the boy from the other school.",
+      "meaning2": "",
+      "studentChallenge": "The two teams were friendly off the field, but during the game, each was the other's ___.",
+      "sentence": ""
+    },
+    {
+      "word": "allegiance",
+      "partOfSpeech": "noun",
+      "meaning1": "Loyalty or devotion to a person, group, or cause. Example: The citizens showed their allegiance to their country by flying flags on the holiday.",
+      "meaning2": "",
+      "studentChallenge": "The knight pledged his ___ to the queen and promised to serve her faithfully.",
+      "sentence": ""
+    },
+    {
+      "word": "overwhelm",
+      "partOfSpeech": "verb",
+      "meaning1": "To have a very strong effect on someone's feelings. Example: The surprise party was so nice that joy began to overwhelm her.",
+      "meaning2": "To defeat completely. Example: The flood waters threatened to overwhelm the small town.",
+      "studentChallenge": "The amount of homework started to ___ the students before the holiday break.",
+      "sentence": ""
+    },
+    {
+      "word": "protest",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To speak out against something you think is wrong. Example: The students decided to protest the unfair dress code by writing letters to the principal.",
+      "meaning2": "A public event where people show they disagree with something. Example: The town held a peaceful protest to save the old library.",
+      "studentChallenge": "The workers planned to ___ the new rules they thought were unfair.",
+      "sentence": ""
+    },
+    {
+      "word": "retreat",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To move back or away from something. Example: The campers had to retreat from the river when the water started rising.",
+      "meaning2": "A quiet place to rest and relax. Example: The cabin in the woods was a peaceful retreat from the noisy city.",
+      "studentChallenge": "When the thunder got louder, the dog tried to ___ under the bed.",
+      "sentence": ""
+    },
+    {
+      "word": "standpoint",
+      "partOfSpeech": "noun",
+      "meaning1": "A way of thinking about something; a point of view. Example: From her standpoint, the science project was the most important assignment of the year.",
+      "meaning2": "",
+      "studentChallenge": "From the teacher's ___, homework helps students practice what they learned in class.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The two neighbors had a _______ over whose tree was dropping leaves into the other's yard.",
+      "sentence2": "The siblings got into a _______ about who got to sit in the front seat of the car.",
+      "options": ["peril", "dispute", "valor", "allegiance"],
+      "correctIndex": 1,
+      "correctAnswer": "dispute"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The firefighter showed great _______ by running into the burning building to save the cat.",
+      "sentence2": "The soldier received a medal for her _______ on the battlefield.",
+      "options": ["standpoint", "retreat", "valor", "protest"],
+      "correctIndex": 2,
+      "correctAnswer": "valor"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "She was _______ to ride the roller coaster because the drop looked so steep.",
+      "sentence2": "The puppy was _______ to go outside during the thunderstorm.",
+      "options": ["reluctant", "adversary", "overwhelm", "confront"],
+      "correctIndex": 0,
+      "correctAnswer": "reluctant"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "When the bees came too close, the picnic group decided to _______ to the car.",
+      "sentence2": "The army had to _______ when the river flooded the valley they were crossing.",
+      "options": ["surrender", "protest", "retreat", "dispute"],
+      "correctIndex": 2,
+      "correctAnswer": "retreat"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The students wanted to _______ the decision to cancel recess by writing a letter to the principal.",
+      "sentence2": "The crowd gathered to _______ the plan to cut down the oldest tree in the park.",
+      "options": ["confront", "protest", "surrender", "peril"],
+      "correctIndex": 1,
+      "correctAnswer": "protest"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The swimmers were in great _______ when the lifeguard spotted a strong current pulling them out.",
+      "sentence2": "The tiny kitten was in _______ as it clung to the top of the tall fence.",
+      "options": ["peril", "allegiance", "standpoint", "valor"],
+      "correctIndex": 0,
+      "correctAnswer": "peril"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "She decided to _______ the bully and tell him to stop being mean to her friends.",
+      "sentence2": "It's not easy to _______ a difficult problem, but avoiding it only makes things worse.",
+      "options": ["overwhelm", "retreat", "confront", "reluctant"],
+      "correctIndex": 2,
+      "correctAnswer": "confront"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "After losing every piece, the chess player had no choice but to _______ the game.",
+      "sentence2": "The captain refused to _______ even when the other ship was much bigger.",
+      "options": ["dispute", "surrender", "allegiance", "protest"],
+      "correctIndex": 1,
+      "correctAnswer": "surrender"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "In the spelling bee, her toughest _______ was the boy who had won three years in a row.",
+      "sentence2": "The superhero's greatest _______ was the villain who lived in the dark castle.",
+      "options": ["adversary", "standpoint", "valor", "peril"],
+      "correctIndex": 0,
+      "correctAnswer": "adversary"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "From the coach's _______, the team needed more practice before the big game.",
+      "sentence2": "From a safety _______, wearing a helmet while biking is always a good idea.",
+      "options": ["retreat", "allegiance", "dispute", "standpoint"],
+      "correctIndex": 3,
+      "correctAnswer": "standpoint"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The citizens showed their _______ to the flag by placing their hands over their hearts.",
+      "sentence2": "Her _______ to her best friend meant she would always stand by her side.",
+      "options": ["overwhelm", "allegiance", "surrender", "confront"],
+      "correctIndex": 1,
+      "correctAnswer": "allegiance"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The surprise birthday party seemed to _______ her with happiness, and she burst into tears of joy.",
+      "sentence2": "So many assignments at once can _______ even the best students in the class.",
+      "options": ["protest", "reluctant", "overwhelm", "adversary"],
+      "correctIndex": 2,
+      "correctAnswer": "overwhelm"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "confront",
+      "dispute",
+      "peril",
+      "reluctant",
+      "surrender",
+      "valor",
+      "adversary",
+      "allegiance",
+      "overwhelm",
+      "protest",
+      "retreat",
+      "standpoint"
+    ],
+    "passage": "In the year 1820, two towns along the Gold River argued over who owned the only bridge. The _(1)_ had lasted for months, and no one could agree. Anika, the youngest town leader, felt a deep _(2)_ to her people. She wanted to protect them, but she was _(3)_ to start a fight.\n\nOne cold night, a terrible flood put the bridge in great _(4)_. Marcus, the leader from the other town and Anika's greatest _(5)_, saw the danger too. Anika decided to _(6)_ the problem head-on. She crossed the river with great _(7)_, wading through freezing water to reach the other side.\n\nMarcus wanted to _(8)_ her plan at first, saying it was too risky. But the rising water began to _(9)_ the bridge, cracking its wooden beams. From Marcus's _(10)_, working together was the only choice. He decided to _(11)_ his pride and help Anika. Together, they saved the bridge and called on both towns to _(12)_ from the argument and live in peace.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "dispute",
+        "options": ["allegiance", "dispute", "valor", "peril"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "allegiance",
+        "options": ["allegiance", "retreat", "protest", "confront"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "reluctant",
+        "options": ["reluctant", "overwhelm", "standpoint", "surrender"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "peril",
+        "options": ["valor", "peril", "dispute", "adversary"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "adversary",
+        "options": ["protest", "retreat", "adversary", "reluctant"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "confront",
+        "options": ["surrender", "confront", "overwhelm", "allegiance"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "valor",
+        "options": ["valor", "standpoint", "dispute", "peril"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "protest",
+        "options": ["retreat", "confront", "protest", "reluctant"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "overwhelm",
+        "options": ["surrender", "overwhelm", "allegiance", "adversary"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "standpoint",
+        "options": ["peril", "valor", "standpoint", "dispute"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "surrender",
+        "options": ["protest", "surrender", "confront", "retreat"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "retreat",
+        "options": ["overwhelm", "reluctant", "adversary", "retreat"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "peril",
+        "scale": ["Risk", "Danger", "Peril"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "reluctant",
+        "scale": ["Reluctant", "Hesitant", "Eager"],
+        "vocabPosition": 0
+      },
+      {
+        "vocabWord": "valor",
+        "scale": ["Nerve", "Courage", "Valor"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "overwhelm",
+        "scale": ["Bother", "Upset", "Overwhelm"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "confront",
+        "words": ["Face", "Challenge", "Avoid", "Address"],
+        "imposterIndex": 2,
+        "imposterWord": "Avoid"
+      },
+      {
+        "vocabWord": "dispute",
+        "words": ["Agreement", "Argument", "Conflict", "Quarrel"],
+        "imposterIndex": 0,
+        "imposterWord": "Agreement"
+      },
+      {
+        "vocabWord": "surrender",
+        "words": ["Yield", "Resist", "Give up", "Submit"],
+        "imposterIndex": 1,
+        "imposterWord": "Resist"
+      },
+      {
+        "vocabWord": "adversary",
+        "words": ["Rival", "Opponent", "Ally", "Foe"],
+        "imposterIndex": 2,
+        "imposterWord": "Ally"
+      },
+      {
+        "vocabWord": "allegiance",
+        "words": ["Loyalty", "Devotion", "Faithfulness", "Betrayal"],
+        "imposterIndex": 3,
+        "imposterWord": "Betrayal"
+      },
+      {
+        "vocabWord": "protest",
+        "words": ["Accept", "Object", "Oppose", "Complain"],
+        "imposterIndex": 0,
+        "imposterWord": "Accept"
+      },
+      {
+        "vocabWord": "retreat",
+        "words": ["Advance", "Withdraw", "Back away", "Pull back"],
+        "imposterIndex": 0,
+        "imposterWord": "Advance"
+      },
+      {
+        "vocabWord": "standpoint",
+        "words": ["Perspective", "Viewpoint", "Opinion", "Confusion"],
+        "imposterIndex": 3,
+        "imposterWord": "Confusion"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

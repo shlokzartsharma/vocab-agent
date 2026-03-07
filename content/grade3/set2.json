@@ -1,0 +1,407 @@
+{
+  "grade": 3,
+  "setNumber": 2,
+  "words": [
+    "trudge",
+    "occur",
+    "hibernate",
+    "core",
+    "depend",
+    "slumber",
+    "prepare",
+    "tend",
+    "intend",
+    "cargo",
+    "adopt",
+    "pattern"
+  ],
+  "sources": [
+    "Australian Curriculum",
+    "British KS2",
+    "CBSE India",
+    "Common Core Grade 3",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Tier 2 Academic",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "real science discovery",
+  "story": {
+    "genre": "real science discovery",
+    "characters": [
+      "Aisha",
+      "Luna",
+      "Arnav"
+    ],
+    "parts": [
+      {
+        "title": "The Curious Mind",
+        "text": "Aisha loved science more than anything. Every morning, she would **trudge** up the steep hill to school, her backpack heavy with notebooks and experiment supplies. At the **core** of every project was a big question she wanted to answer. Her teacher, Luna, said Aisha's curiosity was the best she had seen \u2014 young animals **depend** on their parents, Luna always said, but Aisha depended only on her own sharp mind."
+      },
+      {
+        "title": "The Unexpected Challenge",
+        "text": "During the science fair, a power outage struck the school. It did not **occur** to anyone that the lights might simply go out in the middle of a competition. Aisha did not **intend** to give up. She watched other students fall into a quiet **slumber** of defeat, slumping in their chairs. But Aisha began to **prepare** her display using only candlelight. Animals **hibernate** in winter and wake up ready to go \u2014 she told herself she would do the same."
+      },
+      {
+        "title": "The Breakthrough",
+        "text": "Aisha noticed a repeating **pattern** in her crystal data \u2014 every time the temperature dropped, the crystals grew faster. She decided to **adopt** a new method: cooling the solution by hand using ice from the cafeteria. The supply of ice was like **cargo** delivered just in time. \"Strange things **tend** to happen when you least expect them,\" she whispered to Arnav, watching the crystals bloom in the candlelight."
+      },
+      {
+        "title": "The Award",
+        "text": "The judges were amazed. Aisha not only won first place but also received a special award for creativity under pressure. Luna told the class, \"Science isn't just about fancy equipment. It's about curiosity, patience, and the courage to keep going when things get hard.\" Aisha held her trophy high and smiled \u2014 this was the best day of her life."
+      }
+    ],
+    "wordCount": 251
+  },
+  "definitions": [
+    {
+      "word": "trudge",
+      "partOfSpeech": "verb",
+      "meaning1": "To walk slowly and with heavy steps, usually because you are tired or the path is difficult. Example: The hikers had to trudge through deep snow to reach the cabin at the top of the hill.",
+      "meaning2": "",
+      "studentChallenge": "Every morning the students ___ up the steep hill to get to school.",
+      "sentence": ""
+    },
+    {
+      "word": "occur",
+      "partOfSpeech": "verb",
+      "meaning1": "To happen or take place. Example: The earthquake occurred at 3 AM.",
+      "meaning2": "To come into your mind. Example: It occurred to me that I forgot my lunch.",
+      "studentChallenge": "Accidents can ___ when you're not paying attention.",
+      "sentence": ""
+    },
+    {
+      "word": "hibernate",
+      "partOfSpeech": "verb",
+      "meaning1": "To spend the winter in a deep sleep, as some animals do. Example: Bears hibernate in their dens all through the cold winter months.",
+      "meaning2": "",
+      "studentChallenge": "Many animals ___ during winter because food is hard to find in the snow.",
+      "sentence": ""
+    },
+    {
+      "word": "core",
+      "partOfSpeech": "noun",
+      "meaning1": "The center or most important part of something. Example: The core of the Earth is extremely hot, made of melted metal deep below the surface.",
+      "meaning2": "The hard center part of a fruit that holds the seeds. Example: After eating the apple, she threw the core into the compost bin.",
+      "studentChallenge": "Honesty and kindness are at the ___ of being a good friend.",
+      "sentence": ""
+    },
+    {
+      "word": "depend",
+      "partOfSpeech": "verb",
+      "meaning1": "To rely on someone or something. Example: Young birds depend on their parents for food.",
+      "meaning2": "",
+      "studentChallenge": "You can ___ on me to help.",
+      "sentence": ""
+    },
+    {
+      "word": "slumber",
+      "partOfSpeech": "noun/verb",
+      "meaning1": "Sleep, especially peaceful and restful sleep. Example: The baby fell into a deep slumber after being rocked gently in her mother's arms.",
+      "meaning2": "",
+      "studentChallenge": "The bear settled into its den for a long winter ___ until spring arrived.",
+      "sentence": ""
+    },
+    {
+      "word": "prepare",
+      "partOfSpeech": "verb",
+      "meaning1": "To get ready for something. Example: We helped Mum prepare a special dinner by washing the vegetables and setting the table.",
+      "meaning2": "",
+      "studentChallenge": "The students began to ___ for the spelling test by studying their word lists every evening.",
+      "sentence": ""
+    },
+    {
+      "word": "tend",
+      "partOfSpeech": "verb",
+      "meaning1": "To usually do something or be likely to do something. Example: Cats tend to sleep for many hours during the day.",
+      "meaning2": "To take care of or look after something. Example: The gardener would tend the roses by watering and trimming them every morning.",
+      "studentChallenge": "Younger children ___ to get tired earlier in the evening than older kids do.",
+      "sentence": ""
+    },
+    {
+      "word": "intend",
+      "partOfSpeech": "verb",
+      "meaning1": "To plan or mean to do something. Example: I intend to finish reading this chapter before bedtime tonight.",
+      "meaning2": "",
+      "studentChallenge": "She did not ___ to hurt anyone's feelings when she made that comment.",
+      "sentence": ""
+    },
+    {
+      "word": "cargo",
+      "partOfSpeech": "noun",
+      "meaning1": "Goods or products carried by a ship, truck, plane, or train. Example: The enormous ship carried cargo of bananas and coffee beans from South America.",
+      "meaning2": "",
+      "studentChallenge": "The airplane was loaded with ___ that included boxes of medicine and food supplies.",
+      "sentence": ""
+    },
+    {
+      "word": "adopt",
+      "partOfSpeech": "verb",
+      "meaning1": "To take in and raise as your own. Example: They decided to adopt a rescue dog.",
+      "meaning2": "To start using a new idea or method. Example: The school adopted a new reading program.",
+      "studentChallenge": "Our family wants to ___ a kitten from the shelter.",
+      "sentence": ""
+    },
+    {
+      "word": "pattern",
+      "partOfSpeech": "noun",
+      "meaning1": "A design that repeats. Example: The wallpaper had a flower pattern.",
+      "meaning2": "A regular way something happens. Example: She noticed a pattern in the data.",
+      "studentChallenge": "The tiles had a beautiful ___ of blue and white.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "After the long rainy hike, the tired campers had to _______ back to the cabin through thick, sticky mud.",
+      "sentence2": "Each winter morning, Grandpa would _______ down the icy driveway to fetch the newspaper, his boots crunching with every slow step.",
+      "options": ["slumber", "hibernate", "trudge", "cargo"],
+      "correctIndex": 2,
+      "correctAnswer": "trudge"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Earthquakes can _______ without warning, shaking the ground before anyone has time to react.",
+      "sentence2": "It did not _______ to the boy that he had been reading the map upside down the whole time.",
+      "options": ["prepare", "occur", "depend", "adopt"],
+      "correctIndex": 1,
+      "correctAnswer": "occur"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Some frogs _______ by burying themselves in mud at the bottom of a pond until spring arrives.",
+      "sentence2": "When the temperature drops below freezing, chipmunks _______ in their underground burrows for months.",
+      "options": ["hibernate", "slumber", "tend", "pattern"],
+      "correctIndex": 0,
+      "correctAnswer": "hibernate"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "She ate the apple all the way down to the _______, where the tiny brown seeds were tucked inside.",
+      "sentence2": "Teamwork is at the _______ of what makes our classroom such a great place to learn.",
+      "options": ["cargo", "pattern", "intend", "core"],
+      "correctIndex": 3,
+      "correctAnswer": "core"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Baby sea turtles _______ on the moonlight to guide them from the sand to the ocean after they hatch.",
+      "sentence2": "Whether we have the picnic inside or outside will _______ on the weather forecast for Saturday.",
+      "options": ["depend", "trudge", "occur", "prepare"],
+      "correctIndex": 0,
+      "correctAnswer": "depend"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The cat curled into a warm _______ on the velvet cushion, purring softly in the afternoon sun.",
+      "sentence2": "The village fell into a deep _______ after midnight, with not a single light glowing in any window.",
+      "options": ["core", "adopt", "slumber", "intend"],
+      "correctIndex": 2,
+      "correctAnswer": "slumber"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The chef began to _______ the ingredients for the holiday feast two days before the guests arrived.",
+      "sentence2": "Astronauts _______ for years before they are ready to travel into outer space.",
+      "options": ["tend", "prepare", "hibernate", "cargo"],
+      "correctIndex": 1,
+      "correctAnswer": "prepare"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Flowers _______ to bloom earlier in places where the spring sunshine is strong and warm.",
+      "sentence2": "The farmer woke at dawn each day to _______ the sheep, making sure they had fresh water and clean hay.",
+      "options": ["occur", "pattern", "adopt", "tend"],
+      "correctIndex": 3,
+      "correctAnswer": "tend"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "I _______ to learn how to play the guitar before my birthday so I can perform a song for my family.",
+      "sentence2": "He did not _______ to knock the vase off the shelf; it was a complete accident.",
+      "options": ["depend", "intend", "trudge", "slumber"],
+      "correctIndex": 1,
+      "correctAnswer": "intend"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The train carried heavy _______ of steel beams and lumber across the mountains to the construction site.",
+      "sentence2": "Workers unloaded the ship's _______ of fresh tropical fruit onto the dock before sunrise.",
+      "options": ["adopt", "core", "cargo", "pattern"],
+      "correctIndex": 2,
+      "correctAnswer": "cargo"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The family chose to _______ a golden retriever from the animal rescue shelter downtown.",
+      "sentence2": "The school decided to _______ a new recycling program to help reduce waste in the cafeteria.",
+      "options": ["prepare", "hibernate", "depend", "adopt"],
+      "correctIndex": 3,
+      "correctAnswer": "adopt"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The butterfly's wings displayed a beautiful _______ of orange and black stripes repeated perfectly on both sides.",
+      "sentence2": "The scientist discovered a _______ in the weather data showing that storms arrived every fourteen days.",
+      "options": ["pattern", "trudge", "occur", "slumber"],
+      "correctIndex": 0,
+      "correctAnswer": "pattern"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "trudge",
+      "occur",
+      "hibernate",
+      "core",
+      "depend",
+      "slumber",
+      "prepare",
+      "tend",
+      "intend",
+      "cargo",
+      "adopt",
+      "pattern"
+    ],
+    "passage": "Deep in the mountains, a team of wildlife scientists had to _(1)_ through heavy snow each morning just to reach their research cabin. Their goal was to study how bears _(2)_ during the long, freezing winter months. The scientists would _(3)_ their equipment the night before, packing cameras and notebooks into waterproof bags.\n\nThey discovered that a bear's body temperature drops to its lowest at the _(4)_ of winter, usually in January. Cubs born during this season _(5)_ entirely on their mother's warmth to survive. The tiny bears _(6)_ to weigh less than a pound when they are born, smaller than a loaf of bread. The mother does not _(7)_ to wake up during the birth; her body takes care of everything while she is still in a deep _(8)_.\n\nOne morning, a strange thing began to _(9)_ at the den entrance — fresh paw prints appeared in the snow, forming a clear _(10)_ of circles. The team decided to _(11)_ a new tracking method using motion-sensor cameras. A supply helicopter dropped _(12)_ of batteries, food, and medicine at the base camp, keeping the researchers ready for another week of discovery.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "trudge",
+        "options": ["trudge", "prepare", "hibernate", "adopt"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "hibernate",
+        "options": ["slumber", "hibernate", "occur", "depend"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "prepare",
+        "options": ["intend", "tend", "prepare", "trudge"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "core",
+        "options": ["core", "cargo", "pattern", "slumber"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "depend",
+        "options": ["tend", "adopt", "depend", "intend"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "tend",
+        "options": ["occur", "tend", "prepare", "cargo"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "intend",
+        "options": ["intend", "depend", "hibernate", "trudge"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "slumber",
+        "options": ["pattern", "core", "slumber", "adopt"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "occur",
+        "options": ["cargo", "occur", "tend", "prepare"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "pattern",
+        "options": ["slumber", "pattern", "core", "intend"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "adopt",
+        "options": ["depend", "trudge", "adopt", "hibernate"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "cargo",
+        "options": ["cargo", "occur", "pattern", "tend"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "trudge",
+        "scale": ["Stroll", "Walk", "Trudge"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "slumber",
+        "scale": ["Doze", "Slumber", "Hibernate"],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "prepare",
+        "scale": ["Consider", "Prepare", "Master"],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "cargo",
+        "scale": ["Parcel", "Shipment", "Cargo"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "trudge",
+        "words": ["Plod", "Sprint", "Drag", "Lumber"],
+        "imposterIndex": 1,
+        "imposterWord": "Sprint"
+      },
+      {
+        "vocabWord": "depend",
+        "words": ["Rely", "Trust", "Lean", "Distrust"],
+        "imposterIndex": 3,
+        "imposterWord": "Distrust"
+      },
+      {
+        "vocabWord": "slumber",
+        "words": ["Awaken", "Rest", "Nap", "Doze"],
+        "imposterIndex": 0,
+        "imposterWord": "Awaken"
+      },
+      {
+        "vocabWord": "prepare",
+        "words": ["Arrange", "Plan", "Neglect", "Ready"],
+        "imposterIndex": 2,
+        "imposterWord": "Neglect"
+      },
+      {
+        "vocabWord": "intend",
+        "words": ["Plan", "Aim", "Mean", "Abandon"],
+        "imposterIndex": 3,
+        "imposterWord": "Abandon"
+      },
+      {
+        "vocabWord": "cargo",
+        "words": ["Freight", "Emptiness", "Goods", "Load"],
+        "imposterIndex": 1,
+        "imposterWord": "Emptiness"
+      },
+      {
+        "vocabWord": "adopt",
+        "words": ["Embrace", "Welcome", "Accept", "Reject"],
+        "imposterIndex": 3,
+        "imposterWord": "Reject"
+      },
+      {
+        "vocabWord": "pattern",
+        "words": ["Chaos", "Design", "Sequence", "Arrangement"],
+        "imposterIndex": 0,
+        "imposterWord": "Chaos"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

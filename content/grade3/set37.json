@@ -1,0 +1,588 @@
+{
+  "grade": 3,
+  "setNumber": 37,
+  "words": [
+    "purchase",
+    "harvest",
+    "temperature",
+    "honor",
+    "cautious",
+    "insist",
+    "vast",
+    "weapon",
+    "grumble",
+    "similar",
+    "eloquent",
+    "croak"
+  ],
+  "sources": [
+    "Australian Curriculum",
+    "British KS2",
+    "CBSE India",
+    "Common Core Grade 3",
+    "Custom (Existing)",
+    "EduKate Singapore",
+    "Flocabulary Grade 3",
+    "Flocabulary Grade 5",
+    "PiAcademy GCSE",
+    "Singapore MOE/PSLE",
+    "Tier 2 Academic",
+    "Wordly Wise Book 3",
+    "Wordly Wise Book 5"
+  ],
+  "genre": "Indian folktale",
+  "story": {
+    "genre": "Indian folktale",
+    "characters": [
+      "Maya",
+      "Leo",
+      "Luna"
+    ],
+    "parts": [
+      {
+        "title": "The Autumn Fair",
+        "text": "Every autumn, Maya helped her family prepare for the **harvest** festival. She would **purchase** sacks of grain from the market at dawn, haggling in her **eloquent** way until the merchants smiled and agreed to her price. The fields were **vast**, stretching so far in every direction that the far edge disappeared into morning mist."
+      },
+      {
+        "title": "The Gathering Storm",
+        "text": "The **temperature** dropped sharply before noon, and dark clouds rolled in from the hills. Leo, the village elder, was always **cautious** \u2014 he studied the sky before deciding anything. He told the farmers to finish quickly and come inside. Maya heard the thunder **croak** and rumble overhead and began to **grumble** quietly, worried the rain would ruin their carefully stacked harvest."
+      },
+      {
+        "title": "The Discovery",
+        "text": "After the storm, Maya and Luna walked through the **similar**-looking fields that all ran together at the edges of the village. Then Maya spotted something extraordinary: a figure sitting alone under a banyan tree, wrapped in a torn shawl. It was an old storyteller who had been traveling for weeks. Maya felt it was a great **honor** to sit beside him. She **insist**ed that he come inside and eat, and would not take no for an answer."
+      },
+      {
+        "title": "The Lesson",
+        "text": "Over a warm meal, the storyteller spoke of kingdoms, floods, and the **weapon** of words \u2014 how a well-chosen story could stop a war or heal a broken heart. Maya listened without moving, her whole body still. When he finally rose to leave at dawn, Leo said quietly, \"You treated a stranger with the same care you give family. That is the oldest wisdom there is.\" Maya never forgot those words, and she passed the story on every harvest season after."
+      }
+    ],
+    "wordCount": 267
+  },
+  "definitions": [
+    {
+      "word": "purchase",
+      "partOfSpeech": "verb",
+      "meaning1": "To buy something. Example: We went to the bookshop to purchase a new dictionary for the classroom.",
+      "meaning2": "Something that has been bought. Example: She carried her purchases home in two large paper bags.",
+      "studentChallenge": "You will need enough money to ___ a ticket before you can enter the museum.",
+      "sentence": ""
+    },
+    {
+      "word": "harvest",
+      "partOfSpeech": "noun",
+      "meaning1": "The gathering of ripe crops from the fields. Example: The apple harvest in October kept the farmers busy for weeks.",
+      "meaning2": "To gather or collect crops. Example: The workers helped harvest the corn before the first frost.",
+      "studentChallenge": "Every fall, the students visited the farm to help with the pumpkin ___.",
+      "sentence": ""
+    },
+    {
+      "word": "temperature",
+      "partOfSpeech": "noun",
+      "meaning1": "A measurement of how hot or cold something is. Example: The temperature outside dropped below freezing, so the pond was covered in a thin layer of ice.",
+      "meaning2": "",
+      "studentChallenge": "The nurse used a thermometer to check the ___ of the student who felt sick.",
+      "sentence": ""
+    },
+    {
+      "word": "honor",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "Great respect and admiration. Example: It was an honor to meet the famous author.",
+      "meaning2": "To show respect. Example: We honor our veterans on Memorial Day.",
+      "studentChallenge": "The award was given in ___ of her achievements.",
+      "sentence": ""
+    },
+    {
+      "word": "cautious",
+      "partOfSpeech": "adjective",
+      "meaning1": "Being very careful to avoid danger or mistakes. Example: Be cautious when crossing the busy road.",
+      "meaning2": "",
+      "studentChallenge": "The ___ driver slowed down in the rain.",
+      "sentence": ""
+    },
+    {
+      "word": "insist",
+      "partOfSpeech": "verb",
+      "meaning1": "To say firmly that something must happen. Example: She insisted on paying for dinner.",
+      "meaning2": "",
+      "studentChallenge": "He ___ that he did not break the vase.",
+      "sentence": ""
+    },
+    {
+      "word": "vast",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very large in area or amount. Example: The vast desert stretched for miles.",
+      "meaning2": "",
+      "studentChallenge": "The ocean is a ___ body of water.",
+      "sentence": ""
+    },
+    {
+      "word": "weapon",
+      "partOfSpeech": "noun",
+      "meaning1": "An object used to fight or defend against someone, such as a sword or shield. Example: In the story, the brave knight carried a shining weapon to protect the kingdom.",
+      "meaning2": "",
+      "studentChallenge": "The knight's most powerful ___ was his sharp silver sword.",
+      "sentence": ""
+    },
+    {
+      "word": "grumble",
+      "partOfSpeech": "verb",
+      "meaning1": "To complain in a quiet, unhappy way. Example: The students started to grumble when the teacher announced extra homework over the weekend.",
+      "meaning2": "",
+      "studentChallenge": "My stomach began to ___ loudly because I had skipped breakfast that morning.",
+      "sentence": ""
+    },
+    {
+      "word": "similar",
+      "partOfSpeech": "adjective",
+      "meaning1": "Almost the same but not exactly alike. Example: The two kittens looked similar, but one had a white spot on its nose and the other did not.",
+      "meaning2": "",
+      "studentChallenge": "Your painting is ___ to mine because we both chose to paint a sunset over the ocean.",
+      "sentence": ""
+    },
+    {
+      "word": "eloquent",
+      "partOfSpeech": "adjective",
+      "meaning1": "Speaking in a powerful and beautiful way. Example: The president gave an eloquent speech.",
+      "meaning2": "",
+      "studentChallenge": "Her ___ words moved the audience to tears.",
+      "sentence": ""
+    },
+    {
+      "word": "croak",
+      "partOfSpeech": "verb",
+      "meaning1": "To make a deep, rough sound like a frog. Example: The bullfrogs began to croak loudly by the pond as soon as the sun went down.",
+      "meaning2": "",
+      "studentChallenge": "We could hear the frogs ___ from across the pond every evening in spring.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Dad went to the market to ___ fresh vegetables, paying for each item at the stall.",
+      "sentence2": "You will need enough money to ___ a ticket before you can enter the science museum.",
+      "options": [
+        "purchase",
+        "grumble",
+        "insist",
+        "honor"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "purchase"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The apple ___ in October kept the farmers working from sunrise to sunset for three weeks.",
+      "sentence2": "Every fall, the students visited the farm to help gather the pumpkin ___ from the fields.",
+      "options": [
+        "harvest",
+        "similar",
+        "weapon",
+        "grumble"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "harvest"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The ___ outside dropped so far below freezing that the pond turned into a solid sheet of ice overnight.",
+      "sentence2": "The nurse placed a thermometer under the sick student's tongue to measure his ___.",
+      "options": [
+        "insist",
+        "temperature",
+        "honor",
+        "eloquent"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "temperature"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "It was a great ___ to shake hands with the famous author whose books she had read ten times.",
+      "sentence2": "The school held a ceremony to ___ the students who had shown great courage during the storm.",
+      "options": [
+        "vast",
+        "grumble",
+        "purchase",
+        "honor"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "honor"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The ___ hiker checked every step carefully before placing her foot on the slippery mountain path.",
+      "sentence2": "Be ___ when crossing the busy road \u2014 always look both ways before stepping off the curb.",
+      "options": [
+        "vast",
+        "purchase",
+        "grumble",
+        "cautious"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "cautious"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "She ___ on paying the full bill herself, firmly refusing to let anyone else contribute a single coin.",
+      "sentence2": "He ___ loudly and repeatedly that he had not broken the vase, even when nobody believed him at first.",
+      "options": [
+        "insist",
+        "temperature",
+        "honor",
+        "weapon"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "insist"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The ___ Sahara Desert stretches across most of northern Africa, covering an almost unimaginable area of land.",
+      "sentence2": "The ocean is a ___ body of water so enormous that ships can sail for weeks without seeing land.",
+      "options": [
+        "similar",
+        "croak",
+        "grumble",
+        "vast"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "vast"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "In the story, the brave knight carried a gleaming ___ \u2014 a sword that flashed like silver in the sun.",
+      "sentence2": "The archer's most reliable ___ was his longbow, which he had trained with every single day.",
+      "options": [
+        "vast",
+        "grumble",
+        "weapon",
+        "croak"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "weapon"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The students began to mutter and ___ quietly when the teacher announced a surprise test on Friday.",
+      "sentence2": "My empty stomach started to rumble and ___ noisily during the long bus ride home after I skipped lunch.",
+      "options": [
+        "weapon",
+        "croak",
+        "grumble",
+        "temperature"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "grumble"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The two puppies looked nearly ___, but one had a brown patch on its ear and the other did not.",
+      "sentence2": "Your drawing is ___ to mine \u2014 we both chose to show a sunset over the ocean with orange and pink clouds.",
+      "options": [
+        "harvest",
+        "similar",
+        "eloquent",
+        "purchase"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "similar"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The student council president gave an ___ speech \u2014 her words were so well-chosen that the whole room fell silent.",
+      "sentence2": "Her ___ farewell moved the audience to tears, with every sentence carefully chosen and beautifully spoken.",
+      "options": [
+        "honor",
+        "cautious",
+        "eloquent",
+        "purchase"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "eloquent"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The bullfrogs began to ___ loudly by the pond the moment the sun disappeared below the horizon.",
+      "sentence2": "Every spring evening, we could hear the frogs ___ and call to each other from across the water.",
+      "options": [
+        "cautious",
+        "croak",
+        "honor",
+        "grumble"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "croak"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "purchase",
+      "harvest",
+      "temperature",
+      "honor",
+      "cautious",
+      "insist",
+      "vast",
+      "weapon",
+      "grumble",
+      "similar",
+      "eloquent",
+      "croak"
+    ],
+    "passage": "Every autumn, the village of Greenvale celebrated the _(1)_ festival, gathering ripe fruit and vegetables from the fields in a tradition that had lasted for generations. The villagers felt it was a great _(2)_ to take part, and every family considered it a privilege and a mark of deep respect to help. The fields were _(3)_ \u2014 stretching so far in every direction that you could not see the far edge even on the clearest day. Farmer Devi was always _(4)_, checking the sky and testing the soil before deciding which crop to pick next, never rushing or taking chances. She would _(5)_ that everyone wear gloves, firmly refusing to begin work until every helper was properly protected. The _(6)_ that week had dropped sharply, the thermometer showing temperatures far below normal for that time of year. Some younger helpers began to _(7)_, complaining quietly that the cold made the work too hard. But old Rajan, the most respected elder, gave an _(8)_ speech \u2014 every word chosen with care and beauty \u2014 that reminded everyone why the festival mattered. He said kindness was the greatest _(9)_, a far more powerful tool than any sword or shield. Two young sisters who worked side by side had _(10)_ baskets, nearly alike in shape and color, though one was slightly taller. They heard a bullfrog _(11)_ from somewhere deep in the reeds, its rough, low call echoing across the quiet field. With the money the village earned from selling its crop, it planned to _(12)_ new seeds for the following spring, buying enough to plant the largest field yet.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "harvest",
+        "options": [
+          "harvest",
+          "purchase",
+          "honor",
+          "temperature"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "honor",
+        "options": [
+          "honor",
+          "harvest",
+          "weapon",
+          "grumble"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "vast",
+        "options": [
+          "vast",
+          "similar",
+          "cautious",
+          "eloquent"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "cautious",
+        "options": [
+          "cautious",
+          "vast",
+          "eloquent",
+          "similar"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "insist",
+        "options": [
+          "insist",
+          "croak",
+          "grumble",
+          "purchase"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "temperature",
+        "options": [
+          "temperature",
+          "harvest",
+          "honor",
+          "weapon"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "grumble",
+        "options": [
+          "grumble",
+          "insist",
+          "croak",
+          "purchase"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "eloquent",
+        "options": [
+          "eloquent",
+          "similar",
+          "cautious",
+          "vast"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "weapon",
+        "options": [
+          "weapon",
+          "grumble",
+          "harvest",
+          "temperature"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "similar",
+        "options": [
+          "similar",
+          "eloquent",
+          "vast",
+          "cautious"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "croak",
+        "options": [
+          "croak",
+          "insist",
+          "grumble",
+          "purchase"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "purchase",
+        "options": [
+          "purchase",
+          "croak",
+          "insist",
+          "similar"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "purchase",
+        "scale": [
+          "bargain",
+          "purchase",
+          "acquire"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "harvest",
+        "scale": [
+          "gathering",
+          "harvest",
+          "yield"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "temperature",
+        "scale": [
+          "coolness",
+          "temperature",
+          "warmth"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "honor",
+        "scale": [
+          "respect",
+          "honor",
+          "glory"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "cautious",
+        "words": [
+          "careful",
+          "wary",
+          "reckless",
+          "guarded"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "reckless"
+      },
+      {
+        "vocabWord": "insist",
+        "words": [
+          "yield",
+          "demand",
+          "persist",
+          "assert"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "yield"
+      },
+      {
+        "vocabWord": "vast",
+        "words": [
+          "huge",
+          "tiny",
+          "immense",
+          "enormous"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "tiny"
+      },
+      {
+        "vocabWord": "weapon",
+        "words": [
+          "tool",
+          "instrument",
+          "peace",
+          "armament"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "peace"
+      },
+      {
+        "vocabWord": "grumble",
+        "words": [
+          "praise",
+          "complain",
+          "moan",
+          "groan"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "praise"
+      },
+      {
+        "vocabWord": "similar",
+        "words": [
+          "different",
+          "alike",
+          "comparable",
+          "matching"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "different"
+      },
+      {
+        "vocabWord": "eloquent",
+        "words": [
+          "articulate",
+          "expressive",
+          "inarticulate",
+          "fluent"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "inarticulate"
+      },
+      {
+        "vocabWord": "croak",
+        "words": [
+          "squawk",
+          "rasp",
+          "grunt",
+          "sing"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "sing"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

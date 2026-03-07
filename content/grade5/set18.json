@@ -1,0 +1,401 @@
+{
+  "grade": 5,
+  "setNumber": 18,
+  "words": [
+    "discern",
+    "intuition",
+    "rationale",
+    "contemplation",
+    "enlighten",
+    "misconception",
+    "perspective",
+    "profound",
+    "deduction",
+    "scrutinize",
+    "ponder",
+    "astute"
+  ],
+  "sources": [
+    "Common Core Grade 5",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 5",
+    "CKLA Grade 5",
+    "Tier 2 Academic"
+  ],
+  "genre": "philosophical adventure",
+  "story": {
+    "genre": "philosophical adventure",
+    "characters": ["Sage", "Dmitri", "Ananya"],
+    "parts": [
+      {
+        "title": "The Mysterious Map",
+        "text": "Sage found an old map inside a library book. She had to **scrutinize** every symbol on its edges to make sense of them. Her **intuition** told her the map led somewhere important. She showed it to Dmitri, who loved to **ponder** riddles, and Ananya, whose **astute** mind spotted patterns others missed."
+      },
+      {
+        "title": "The Three Doors",
+        "text": "The map led them to a hidden chamber beneath the school with three locked doors. Ananya used careful **deduction** to solve the first riddle carved in stone. Dmitri's **rationale** for choosing the second door was simple — its keyhole matched the symbol on the map. Behind it, a glowing inscription promised to **enlighten** anyone who read it with a truth about courage."
+      },
+      {
+        "title": "The Hall of Reflections",
+        "text": "The third door opened into a hall of mirrors, each showing the world from a different **perspective**. One mirror revealed a common **misconception** — that being smart means always knowing the answer. Sage sat in quiet **contemplation**, thinking about what the mirrors taught. She began to **discern** the real lesson: wisdom comes from asking questions. The experience left a **profound** impression on all three friends."
+      },
+      {
+        "title": "The Return",
+        "text": "When they climbed back into the library, the afternoon sun slanted through the windows. The three friends sat in silence, turning over the ideas they had encountered below. Sage placed the map back inside the book, knowing the greatest treasure was not gold or jewels, but a new way of thinking about the world."
+      }
+    ],
+    "wordCount": 232
+  },
+  "definitions": [
+    {
+      "word": "discern",
+      "partOfSpeech": "verb",
+      "meaning1": "To notice or understand something by looking or thinking carefully. Example: It was hard to discern the difference between the two shades of blue.",
+      "meaning2": "",
+      "studentChallenge": "She had to look closely to ___ which path led to the exit.",
+      "sentence": ""
+    },
+    {
+      "word": "intuition",
+      "partOfSpeech": "noun",
+      "meaning1": "A feeling of knowing something without having proof or evidence. Example: Her intuition told her that something was wrong even before anyone said a word.",
+      "meaning2": "",
+      "studentChallenge": "He trusted his ___ and chose the left path, which turned out to be correct.",
+      "sentence": ""
+    },
+    {
+      "word": "rationale",
+      "partOfSpeech": "noun",
+      "meaning1": "The reason or logical explanation behind a decision or action. Example: The teacher explained the rationale for assigning group projects instead of individual ones.",
+      "meaning2": "",
+      "studentChallenge": "Can you explain the ___ behind your decision to change the plan?",
+      "sentence": ""
+    },
+    {
+      "word": "contemplation",
+      "partOfSpeech": "noun",
+      "meaning1": "Deep, focused thinking about something for a long time. Example: After hours of contemplation, she finally decided which book to write her report on.",
+      "meaning2": "",
+      "studentChallenge": "He sat in quiet ___ before answering the difficult question.",
+      "sentence": ""
+    },
+    {
+      "word": "enlighten",
+      "partOfSpeech": "verb",
+      "meaning1": "To give someone new knowledge or understanding. Example: The documentary helped enlighten viewers about the importance of protecting coral reefs.",
+      "meaning2": "",
+      "studentChallenge": "The science teacher tried to ___ the class about how volcanoes actually work.",
+      "sentence": ""
+    },
+    {
+      "word": "misconception",
+      "partOfSpeech": "noun",
+      "meaning1": "A wrong idea or belief based on misunderstanding. Example: It is a misconception that bats are blind — they can actually see quite well.",
+      "meaning2": "",
+      "studentChallenge": "Many people hold the ___ that the Great Wall of China can be seen from space.",
+      "sentence": ""
+    },
+    {
+      "word": "perspective",
+      "partOfSpeech": "noun",
+      "meaning1": "A particular way of looking at or thinking about something. Example: Traveling to another country gave her a new perspective on her own life.",
+      "meaning2": "The way objects appear based on their position and distance. Example: From the artist's perspective, the mountains looked tiny compared to the tree in the foreground.",
+      "studentChallenge": "Reading the story from the villain's ___ made her feel more sympathy for the character.",
+      "sentence": ""
+    },
+    {
+      "word": "profound",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very deep, strong, or meaningful. Example: The loss of her grandmother had a profound effect on how she thought about family.",
+      "meaning2": "",
+      "studentChallenge": "The poem had such a ___ message that the class sat in silence after hearing it.",
+      "sentence": ""
+    },
+    {
+      "word": "deduction",
+      "partOfSpeech": "noun",
+      "meaning1": "A conclusion reached by thinking logically about known facts. Example: Through careful deduction, the detective figured out who had taken the missing necklace.",
+      "meaning2": "",
+      "studentChallenge": "Using ___, the student figured out that the answer had to be the only option left.",
+      "sentence": ""
+    },
+    {
+      "word": "scrutinize",
+      "partOfSpeech": "verb",
+      "meaning1": "To examine something very closely and carefully. Example: The judge had to scrutinize every painting before choosing a winner for the art contest.",
+      "meaning2": "",
+      "studentChallenge": "The editor will ___ every page of the newspaper before it goes to print.",
+      "sentence": ""
+    },
+    {
+      "word": "ponder",
+      "partOfSpeech": "verb",
+      "meaning1": "To think about something carefully and for a long time. Example: She sat by the window to ponder what she wanted to be when she grew up.",
+      "meaning2": "",
+      "studentChallenge": "He liked to ___ big questions like why the sky is blue.",
+      "sentence": ""
+    },
+    {
+      "word": "astute",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very clever and good at noticing things quickly. Example: The astute detective spotted the tiny clue that everyone else had missed.",
+      "meaning2": "",
+      "studentChallenge": "Her ___ observation about the experiment impressed even the science teacher.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "It was hard to _______ the difference between the two nearly identical paintings hanging side by side.",
+      "sentence2": "After reading the clues carefully, she was finally able to _______ the hidden message in the puzzle.",
+      "options": ["ponder", "discern", "enlighten", "scrutinize"],
+      "correctIndex": 1,
+      "correctAnswer": "discern"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Her _______ told her that something was wrong even before anyone spoke a word about the problem.",
+      "sentence2": "He followed his _______ and turned left at the fork, which ended up being the shorter route.",
+      "options": ["rationale", "intuition", "deduction", "contemplation"],
+      "correctIndex": 1,
+      "correctAnswer": "intuition"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The principal explained the _______ behind the new homework policy during the school assembly.",
+      "sentence2": "Before making a decision, the coach shared his _______ with the team so everyone understood his thinking.",
+      "options": ["misconception", "perspective", "rationale", "profound"],
+      "correctIndex": 2,
+      "correctAnswer": "rationale"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "After a long period of quiet _______, she finally knew which topic to choose for her essay.",
+      "sentence2": "The monk spent hours in deep _______, sitting still and reflecting on the meaning of kindness.",
+      "options": ["contemplation", "intuition", "deduction", "misconception"],
+      "correctIndex": 0,
+      "correctAnswer": "contemplation"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The guest speaker came to _______ the students about the importance of protecting endangered species.",
+      "sentence2": "Reading that book helped _______ me about a part of history I had never learned in class.",
+      "options": ["scrutinize", "ponder", "enlighten", "discern"],
+      "correctIndex": 2,
+      "correctAnswer": "enlighten"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "It is a common _______ that lightning never strikes the same place twice — it actually can.",
+      "sentence2": "The teacher corrected the _______ that plants only need sunlight and nothing else to survive.",
+      "options": ["perspective", "misconception", "rationale", "deduction"],
+      "correctIndex": 1,
+      "correctAnswer": "misconception"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Traveling to a new country gave her a completely different _______ on how other people live.",
+      "sentence2": "From the bird's _______ high in the sky, the city looked like a tiny model made of blocks.",
+      "options": ["perspective", "contemplation", "profound", "intuition"],
+      "correctIndex": 0,
+      "correctAnswer": "perspective"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The movie had such a _______ ending that the audience sat in complete silence as the credits rolled.",
+      "sentence2": "Volunteering at the shelter had a _______ impact on how he thought about helping others.",
+      "options": ["astute", "profound", "misconception", "rationale"],
+      "correctIndex": 1,
+      "correctAnswer": "profound"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Through careful _______, the detective narrowed down the list of suspects to just one person.",
+      "sentence2": "Using her powers of _______, she figured out that the missing puzzle piece must be under the couch.",
+      "options": ["contemplation", "perspective", "intuition", "deduction"],
+      "correctIndex": 3,
+      "correctAnswer": "deduction"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The scientist had to _______ the data for any errors before publishing her research paper.",
+      "sentence2": "The jeweler used a magnifying glass to _______ every facet of the diamond before setting a price.",
+      "options": ["ponder", "discern", "scrutinize", "enlighten"],
+      "correctIndex": 2,
+      "correctAnswer": "scrutinize"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "She liked to sit by the lake and _______ the big questions of life, like what makes people happy.",
+      "sentence2": "The philosopher urged his students to _______ the meaning of justice before writing their essays.",
+      "options": ["ponder", "astute", "discern", "rationale"],
+      "correctIndex": 0,
+      "correctAnswer": "ponder"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The _______ young chess player could predict her opponent's moves three turns in advance.",
+      "sentence2": "His _______ observation about the experiment's flaw saved the team weeks of wasted effort.",
+      "options": ["profound", "contemplation", "misconception", "astute"],
+      "correctIndex": 3,
+      "correctAnswer": "astute"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "discern",
+      "intuition",
+      "rationale",
+      "contemplation",
+      "enlighten",
+      "misconception",
+      "perspective",
+      "profound",
+      "deduction",
+      "scrutinize",
+      "ponder",
+      "astute"
+    ],
+    "passage": "Ananya sat on the hilltop, lost in quiet _(1)_ about the stars above. She liked to _(2)_ questions that had no easy answers, such as whether the universe had an edge. Her friend Dmitri was more practical — he preferred to _(3)_ maps and charts, looking for patterns hidden in plain sight.\n\nOne evening, Dmitri shared a surprising _(4)_ with Ananya: he believed a comet would pass overhead that very week. His _(5)_ was based on data he had gathered from old astronomy books. Ananya's _(6)_ told her he was right, even before she checked the numbers herself.\n\nThe next night, the comet appeared, and it was a _(7)_ experience that left them both speechless. They could _(8)_ the comet's path clearly against the dark sky and predicted exactly where it would be brightest. The sight helped _(9)_ them about how small Earth really is in the vastness of space.\n\nDmitri admitted he had once held the _(10)_ that comets were just random streaks of light with no pattern at all. Now, from this new _(11)_, he understood that everything in the sky follows a path. Ananya smiled — her _(12)_ friend had learned something that no textbook could teach.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "contemplation",
+        "options": ["contemplation", "deduction", "rationale", "misconception"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "ponder",
+        "options": ["scrutinize", "ponder", "discern", "enlighten"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "scrutinize",
+        "options": ["scrutinize", "ponder", "astute", "intuition"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "deduction",
+        "options": ["perspective", "misconception", "deduction", "profound"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "rationale",
+        "options": ["rationale", "intuition", "contemplation", "discern"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "intuition",
+        "options": ["astute", "intuition", "perspective", "enlighten"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "profound",
+        "options": ["profound", "rationale", "deduction", "ponder"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "discern",
+        "options": ["contemplation", "discern", "deduction", "scrutinize"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "enlighten",
+        "options": ["discern", "ponder", "enlighten", "astute"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "misconception",
+        "options": ["perspective", "misconception", "rationale", "profound"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "perspective",
+        "options": ["perspective", "intuition", "contemplation", "deduction"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "astute",
+        "options": ["astute", "discern", "enlighten", "scrutinize"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "ponder",
+        "scale": ["Think", "Consider", "Ponder"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "scrutinize",
+        "scale": ["Glance", "Examine", "Scrutinize"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "profound",
+        "scale": ["Shallow", "Meaningful", "Profound"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "astute",
+        "scale": ["Aware", "Sharp", "Astute"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "discern",
+        "words": ["Notice", "Detect", "Overlook", "Recognize"],
+        "imposterIndex": 2,
+        "imposterWord": "Overlook"
+      },
+      {
+        "vocabWord": "intuition",
+        "words": ["Instinct", "Feeling", "Proof", "Hunch"],
+        "imposterIndex": 2,
+        "imposterWord": "Proof"
+      },
+      {
+        "vocabWord": "rationale",
+        "words": ["Reason", "Logic", "Confusion", "Explanation"],
+        "imposterIndex": 2,
+        "imposterWord": "Confusion"
+      },
+      {
+        "vocabWord": "contemplation",
+        "words": ["Reflection", "Meditation", "Thought", "Neglect"],
+        "imposterIndex": 3,
+        "imposterWord": "Neglect"
+      },
+      {
+        "vocabWord": "enlighten",
+        "words": ["Inform", "Confuse", "Educate", "Teach"],
+        "imposterIndex": 1,
+        "imposterWord": "Confuse"
+      },
+      {
+        "vocabWord": "misconception",
+        "words": ["Truth", "Myth", "Falsehood", "Error"],
+        "imposterIndex": 0,
+        "imposterWord": "Truth"
+      },
+      {
+        "vocabWord": "perspective",
+        "words": ["Viewpoint", "Angle", "Outlook", "Blindness"],
+        "imposterIndex": 3,
+        "imposterWord": "Blindness"
+      },
+      {
+        "vocabWord": "deduction",
+        "words": ["Guess", "Reasoning", "Conclusion", "Inference"],
+        "imposterIndex": 0,
+        "imposterWord": "Guess"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

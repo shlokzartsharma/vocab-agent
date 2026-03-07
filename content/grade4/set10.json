@@ -1,0 +1,405 @@
+{
+  "grade": 4,
+  "setNumber": 10,
+  "words": [
+    "flourish",
+    "cultivate",
+    "essential",
+    "generate",
+    "transition",
+    "evolve",
+    "gradual",
+    "alter",
+    "diminish",
+    "substantial",
+    "thrive",
+    "inevitable"
+  ],
+  "sources": [
+    "Common Core Grade 4",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 4",
+    "CKLA Grade 4",
+    "Tier 2 Academic"
+  ],
+  "genre": "garden and seasons",
+  "story": {
+    "genre": "garden and seasons",
+    "characters": [
+      "Aria",
+      "Mateo",
+      "Mei"
+    ],
+    "parts": [
+      {
+        "title": "Spring Beginnings",
+        "text": "Every spring, Aria watched the garden behind her grandmother's house **flourish** with color. This year, she invited Mateo and Mei to help her **cultivate** a new vegetable patch. Mei explained that sunlight and water were **essential** for the seeds to sprout. Mateo suggested they place the garden where the tall fence could **generate** shade during the hottest part of the day."
+      },
+      {
+        "title": "Summer Growth",
+        "text": "As weeks passed, the friends noticed the **transition** from tiny green shoots to strong, leafy plants. Mei said that gardens **evolve** over time, changing shape and size as different plants grow at different speeds. The changes were **gradual** — so slow that the children had to compare photos each week to see the difference."
+      },
+      {
+        "title": "Autumn Changes",
+        "text": "When autumn arrived, the cool air began to **alter** the color of the leaves from green to gold and red. The amount of daylight started to **diminish**, and the plants grew more slowly. Still, the harvest was **substantial** — baskets full of tomatoes, peppers, and squash. The vegetables continued to **thrive** right up until the first frost, and Aria said that change with the seasons was simply **inevitable**."
+      },
+      {
+        "title": "Winter Reflection",
+        "text": "On a cold December afternoon, the three friends sat inside drinking warm cocoa and looking at photos of their garden through the months. They were proud of everything they had grown together. Mateo smiled and said he could not wait to start planning next year's garden, and the others quickly agreed."
+      }
+    ],
+    "wordCount": 237
+  },
+  "definitions": [
+    {
+      "word": "flourish",
+      "partOfSpeech": "verb",
+      "meaning1": "To grow or develop in a healthy, strong way. Example: The roses began to flourish once we moved them into the sunlight.",
+      "meaning2": "A bold, sweeping movement or gesture. Example: The artist signed her name with a fancy flourish.",
+      "studentChallenge": "With enough rain and sunshine, the wildflowers will ___ along the meadow path.",
+      "sentence": ""
+    },
+    {
+      "word": "cultivate",
+      "partOfSpeech": "verb",
+      "meaning1": "To prepare and use land for growing crops or plants. Example: The farmer worked hard to cultivate the rocky soil so he could plant corn.",
+      "meaning2": "To develop a skill or quality over time. Example: Reading every day is a great way to cultivate a love of learning.",
+      "studentChallenge": "She wanted to ___ a small herb garden on the kitchen windowsill.",
+      "sentence": ""
+    },
+    {
+      "word": "essential",
+      "partOfSpeech": "adjective",
+      "meaning1": "Absolutely necessary; extremely important. Example: Drinking water is essential for staying healthy.",
+      "meaning2": "",
+      "studentChallenge": "A good night's sleep is ___ for doing well on a test the next morning.",
+      "sentence": ""
+    },
+    {
+      "word": "generate",
+      "partOfSpeech": "verb",
+      "meaning1": "To produce or create something. Example: The windmill can generate enough electricity to power ten homes.",
+      "meaning2": "",
+      "studentChallenge": "The science project asked students to ___ their own ideas for saving energy at school.",
+      "sentence": ""
+    },
+    {
+      "word": "transition",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A change from one thing, stage, or condition to another. Example: The transition from elementary school to middle school can be exciting and a little scary.",
+      "meaning2": "",
+      "studentChallenge": "The ___ from summer to fall brought cooler temperatures and shorter days.",
+      "sentence": ""
+    },
+    {
+      "word": "evolve",
+      "partOfSpeech": "verb",
+      "meaning1": "To change or develop slowly over time. Example: The tiny village began to evolve into a bustling town over many years.",
+      "meaning2": "",
+      "studentChallenge": "Scientists believe that some animals ___ over millions of years to survive in new environments.",
+      "sentence": ""
+    },
+    {
+      "word": "gradual",
+      "partOfSpeech": "adjective",
+      "meaning1": "Happening slowly, step by step, over a period of time. Example: The gradual rise in temperature told us that spring was finally on its way.",
+      "meaning2": "",
+      "studentChallenge": "Learning to ride a bike is a ___ process that takes patience and practice.",
+      "sentence": ""
+    },
+    {
+      "word": "alter",
+      "partOfSpeech": "verb",
+      "meaning1": "To change or make something different. Example: The tailor had to alter the dress so it would fit properly.",
+      "meaning2": "",
+      "studentChallenge": "The teacher asked him to ___ his essay by adding more details to the ending.",
+      "sentence": ""
+    },
+    {
+      "word": "diminish",
+      "partOfSpeech": "verb",
+      "meaning1": "To become smaller, weaker, or less important. Example: As the sun set, the light began to diminish until the sky turned dark.",
+      "meaning2": "",
+      "studentChallenge": "The sound of the train started to ___ as it moved farther down the tracks.",
+      "sentence": ""
+    },
+    {
+      "word": "substantial",
+      "partOfSpeech": "adjective",
+      "meaning1": "Large in amount, size, or importance. Example: She saved a substantial amount of money by packing her lunch every day.",
+      "meaning2": "",
+      "studentChallenge": "The team made a ___ improvement after weeks of extra practice.",
+      "sentence": ""
+    },
+    {
+      "word": "thrive",
+      "partOfSpeech": "verb",
+      "meaning1": "To grow, develop, or do very well. Example: Cactus plants thrive in hot, dry climates where other plants cannot survive.",
+      "meaning2": "",
+      "studentChallenge": "Some children ___ when they are given the freedom to learn at their own pace.",
+      "sentence": ""
+    },
+    {
+      "word": "inevitable",
+      "partOfSpeech": "adjective",
+      "meaning1": "Certain to happen; unavoidable. Example: After eating so much candy, a stomachache was inevitable.",
+      "meaning2": "",
+      "studentChallenge": "When dark clouds fill the sky, rain seems ___.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The garden began to _______ after weeks of warm rain and bright sunshine.",
+      "sentence2": "With the right support, a shy student can _______ and become a confident leader.",
+      "options": ["diminish", "flourish", "alter", "generate"],
+      "correctIndex": 1,
+      "correctAnswer": "flourish"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The farmer used special tools to _______ the dry, hard soil before planting the seeds.",
+      "sentence2": "She worked hard to _______ her drawing skills by practicing every single day.",
+      "options": ["evolve", "cultivate", "transition", "thrive"],
+      "correctIndex": 1,
+      "correctAnswer": "cultivate"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Packing warm clothes is _______ when you are camping in the mountains during winter.",
+      "sentence2": "Good communication is _______ for any team to work well together.",
+      "options": ["gradual", "substantial", "essential", "inevitable"],
+      "correctIndex": 2,
+      "correctAnswer": "essential"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The solar panels on the roof _______ enough power to run all the lights in the building.",
+      "sentence2": "The brainstorming session helped the students _______ many creative ideas for the project.",
+      "options": ["generate", "alter", "diminish", "cultivate"],
+      "correctIndex": 0,
+      "correctAnswer": "generate"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The _______ from winter to spring brought warmer winds and longer days.",
+      "sentence2": "Moving to a new school can be a difficult _______ for many children.",
+      "options": ["transition", "flourish", "evolve", "essential"],
+      "correctIndex": 0,
+      "correctAnswer": "transition"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Over millions of years, some fish began to _______ and develop legs to walk on land.",
+      "sentence2": "Her taste in music continued to _______ as she grew older and listened to new artists.",
+      "options": ["alter", "diminish", "evolve", "generate"],
+      "correctIndex": 2,
+      "correctAnswer": "evolve"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The _______ change in the weather meant that each day was just a tiny bit warmer than the last.",
+      "sentence2": "Learning a new language is a _______ process that requires months of steady practice.",
+      "options": ["substantial", "inevitable", "gradual", "essential"],
+      "correctIndex": 2,
+      "correctAnswer": "gradual"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The seamstress had to _______ the costume so it would fit the actor properly for the play.",
+      "sentence2": "One small decision can _______ the entire outcome of a game.",
+      "options": ["alter", "flourish", "cultivate", "thrive"],
+      "correctIndex": 0,
+      "correctAnswer": "alter"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "As the campfire burned down, its warmth began to _______ in the cold night air.",
+      "sentence2": "Nothing could _______ her excitement about the upcoming field trip to the aquarium.",
+      "options": ["generate", "transition", "diminish", "evolve"],
+      "correctIndex": 2,
+      "correctAnswer": "diminish"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The library received a _______ donation of books — over five hundred in a single week.",
+      "sentence2": "There was a _______ difference between the beginner and advanced levels of the game.",
+      "options": ["gradual", "substantial", "inevitable", "essential"],
+      "correctIndex": 1,
+      "correctAnswer": "substantial"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Tropical fish _______ in warm water but struggle to survive in cold tanks.",
+      "sentence2": "The new business began to _______ once customers discovered how good the food tasted.",
+      "options": ["flourish", "thrive", "cultivate", "alter"],
+      "correctIndex": 1,
+      "correctAnswer": "thrive"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "After weeks of not studying, failing the test seemed _______.",
+      "sentence2": "Change is _______ — nothing stays exactly the same forever.",
+      "options": ["substantial", "gradual", "essential", "inevitable"],
+      "correctIndex": 3,
+      "correctAnswer": "inevitable"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "flourish",
+      "cultivate",
+      "essential",
+      "generate",
+      "transition",
+      "evolve",
+      "gradual",
+      "alter",
+      "diminish",
+      "substantial",
+      "thrive",
+      "inevitable"
+    ],
+    "passage": "Aria, Mateo, and Mei had a plan: they would _(1)_ a community garden in the empty lot behind the library. Mei said good soil and clean water were _(2)_ — without them, nothing would grow. Mateo hoped the garden would _(3)_ enough fresh vegetables to share with every family on the block.\n\nAt first, the changes were _(4)_. Each morning the seedlings were just a tiny bit taller than the day before. But as the _(5)_ from spring to summer brought hotter days, the plants began to _(6)_ in the warm sunshine. Aria watched the little garden _(7)_ over the weeks, changing from bare soil into rows of green.\n\nBy late summer, the harvest was _(8)_ — buckets of tomatoes, beans, and squash filled the library steps. The herbs and peppers continued to _(9)_ even as cooler nights arrived. But the shorter days began to _(10)_ the amount of sunlight, and the leaves started to _(11)_ color from green to gold.\n\nWhen the first frost came, the friends knew the end of the growing season was _(12)_. But they were already planning for next year.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "cultivate",
+        "options": ["flourish", "cultivate", "generate", "thrive"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "essential",
+        "options": ["essential", "gradual", "substantial", "inevitable"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "generate",
+        "options": ["alter", "evolve", "generate", "diminish"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "gradual",
+        "options": ["substantial", "gradual", "essential", "inevitable"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "transition",
+        "options": ["transition", "flourish", "cultivate", "alter"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "flourish",
+        "options": ["diminish", "thrive", "flourish", "evolve"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "evolve",
+        "options": ["generate", "evolve", "transition", "gradual"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "substantial",
+        "options": ["essential", "substantial", "inevitable", "cultivate"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "thrive",
+        "options": ["thrive", "flourish", "alter", "diminish"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "diminish",
+        "options": ["generate", "transition", "diminish", "gradual"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "alter",
+        "options": ["evolve", "alter", "essential", "cultivate"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "inevitable",
+        "options": ["substantial", "thrive", "inevitable", "flourish"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "diminish",
+        "scale": ["Diminish", "Reduce", "Eliminate"],
+        "vocabPosition": 0
+      },
+      {
+        "vocabWord": "substantial",
+        "scale": ["Tiny", "Moderate", "Substantial"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "gradual",
+        "scale": ["Gradual", "Steady", "Sudden"],
+        "vocabPosition": 0
+      },
+      {
+        "vocabWord": "flourish",
+        "scale": ["Survive", "Grow", "Flourish"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "cultivate",
+        "words": ["Grow", "Nurture", "Neglect", "Tend"],
+        "imposterIndex": 2,
+        "imposterWord": "Neglect"
+      },
+      {
+        "vocabWord": "essential",
+        "words": ["Unnecessary", "Vital", "Important", "Needed"],
+        "imposterIndex": 0,
+        "imposterWord": "Unnecessary"
+      },
+      {
+        "vocabWord": "generate",
+        "words": ["Create", "Produce", "Build", "Destroy"],
+        "imposterIndex": 3,
+        "imposterWord": "Destroy"
+      },
+      {
+        "vocabWord": "evolve",
+        "words": ["Develop", "Progress", "Advance", "Stagnate"],
+        "imposterIndex": 3,
+        "imposterWord": "Stagnate"
+      },
+      {
+        "vocabWord": "alter",
+        "words": ["Preserve", "Adjust", "Modify", "Shift"],
+        "imposterIndex": 0,
+        "imposterWord": "Preserve"
+      },
+      {
+        "vocabWord": "thrive",
+        "words": ["Prosper", "Succeed", "Wither", "Bloom"],
+        "imposterIndex": 2,
+        "imposterWord": "Wither"
+      },
+      {
+        "vocabWord": "inevitable",
+        "words": ["Certain", "Avoidable", "Guaranteed", "Unavoidable"],
+        "imposterIndex": 1,
+        "imposterWord": "Avoidable"
+      },
+      {
+        "vocabWord": "transition",
+        "words": ["Change", "Shift", "Stillness", "Movement"],
+        "imposterIndex": 2,
+        "imposterWord": "Stillness"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

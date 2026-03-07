@@ -1,0 +1,582 @@
+{
+  "grade": 3,
+  "setNumber": 29,
+  "words": [
+    "tournament",
+    "trace",
+    "surround",
+    "crew",
+    "clever",
+    "attract",
+    "cascade",
+    "obvious",
+    "origin",
+    "contain",
+    "weaver",
+    "surface"
+  ],
+  "sources": [
+    "CBSE India",
+    "Common Core Grade 3",
+    "Common Core Grade 4",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Tier 2 Academic",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "ocean or nature adventure",
+  "story": {
+    "genre": "ocean or nature adventure",
+    "characters": [
+      "Aanya",
+      "Kiran",
+      "Arnav"
+    ],
+    "parts": [
+      {
+        "title": "The Shore",
+        "text": "Aanya walked along the beach with her **crew** of two best friends, Kiran and Arnav, ready to explore the tide pools. She knelt down to **trace** the outline of a starfish in her notebook, carefully following every arm. Rocky cliffs **surround** the cove on all sides, giving the spot a feeling of calm and mystery."
+      },
+      {
+        "title": "Nature's Warning",
+        "text": "It was **obvious** to all three of them that the sky was changing \u2014 dark clouds gathered faster than they expected. Arnav, the most **clever** of the group, used a tide chart to track the **origin** of the incoming storm. A **cascade** of rainwater began pouring down the cliff face in thin silver streams. The tide was rising fast and would soon cut off the path, so they moved quickly toward the shore."
+      },
+      {
+        "title": "The Rescue",
+        "text": "That's when Aanya spotted something on the **surface** of the water \u2014 a baby sea turtle tangled in an old fishing net. The net seemed to **contain** a ball of kelp and rope all knotted together. Kiran, who was training as a marine biologist, said the turtle belonged to a rare species found in this part of the sea. The net was knotted like the work of an old **weaver**, but Arnav carefully cut it free. \"This little one will **attract** a crowd at the research center,\" Kiran said with a grin."
+      },
+      {
+        "title": "New Purpose",
+        "text": "The baby turtle swam away into the waves, strong and free. Back on shore, the three friends were quiet for a moment, watching it disappear into the deep blue. Kiran invited Aanya to join her summer marine research program. Arnav said he wanted to enter a science **tournament** with their findings about the tide pools. From that day on, all three of them knew the ocean was not just a place to visit \u2014 it was a world worth protecting."
+      }
+    ],
+    "wordCount": 252
+  },
+  "definitions": [
+    {
+      "word": "tournament",
+      "partOfSpeech": "noun",
+      "meaning1": "A competition with many games or matches to decide a winner. Example: Our school chess club entered a tournament and competed against teams from five other schools.",
+      "meaning2": "",
+      "studentChallenge": "The soccer ___ lasted all weekend, and our team made it to the final round.",
+      "sentence": ""
+    },
+    {
+      "word": "trace",
+      "partOfSpeech": "verb/noun",
+      "meaning1": "To draw over the lines of something or follow a path. Example: The student used thin paper to trace the outline of the map for her geography project.",
+      "meaning2": "A very small amount of something left behind. Example: The detective found a trace of mud on the floor that was an important clue.",
+      "studentChallenge": "She used tracing paper to ___ the picture of the butterfly and then colored it in.",
+      "sentence": ""
+    },
+    {
+      "word": "surround",
+      "partOfSpeech": "verb",
+      "meaning1": "To be all around something or someone on every side. Example: Tall pine trees surround the lake, making it a beautiful and quiet place to visit.",
+      "meaning2": "",
+      "studentChallenge": "A moat filled with water used to ___ the castle and protect it from enemies.",
+      "sentence": ""
+    },
+    {
+      "word": "crew",
+      "partOfSpeech": "noun",
+      "meaning1": "A group of people who work together, especially on a ship, airplane, or project. Example: The ship's crew worked together to steer the vessel safely through the rough storm.",
+      "meaning2": "",
+      "studentChallenge": "The film ___ set up cameras and lights before the actors arrived on set.",
+      "sentence": ""
+    },
+    {
+      "word": "clever",
+      "partOfSpeech": "adjective",
+      "meaning1": "Quick to learn and understand; smart. Example: The clever fox outsmarted the hunters.",
+      "meaning2": "",
+      "studentChallenge": "That was a ___ way to solve the puzzle.",
+      "sentence": ""
+    },
+    {
+      "word": "attract",
+      "partOfSpeech": "verb",
+      "meaning1": "To pull toward or cause interest. Example: The bright flowers attract butterflies.",
+      "meaning2": "",
+      "studentChallenge": "The magnet will ___ the metal clips.",
+      "sentence": ""
+    },
+    {
+      "word": "cascade",
+      "partOfSpeech": "noun",
+      "meaning1": "A small waterfall, or a series of things falling or flowing downward. Example: A beautiful cascade of water tumbled over the rocks and into the pool below.",
+      "meaning2": "",
+      "studentChallenge": "After the rainstorm, a ___ of water poured down the hillside and into the creek.",
+      "sentence": ""
+    },
+    {
+      "word": "obvious",
+      "partOfSpeech": "adjective",
+      "meaning1": "Easy to see or understand; clear. Example: It was obvious that she was tired.",
+      "meaning2": "",
+      "studentChallenge": "The answer was ___ once she read the question again.",
+      "sentence": ""
+    },
+    {
+      "word": "origin",
+      "partOfSpeech": "noun",
+      "meaning1": "The beginning or starting point of something; where something comes from. Example: The origin of the river is a tiny spring high up in the mountains.",
+      "meaning2": "",
+      "studentChallenge": "The teacher asked us to research the ___ of our favourite holiday traditions.",
+      "sentence": ""
+    },
+    {
+      "word": "contain",
+      "partOfSpeech": "verb",
+      "meaning1": "To hold something inside. Example: The big treasure chest was said to contain gold coins and sparkling jewels.",
+      "meaning2": "",
+      "studentChallenge": "This jar can ___ up to one hundred marbles if you pack them tightly.",
+      "sentence": ""
+    },
+    {
+      "word": "weaver",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who makes cloth or fabric by crossing threads over and under each other. Example: The skilled weaver sat at her loom and created a beautiful blanket with colorful patterns.",
+      "meaning2": "",
+      "studentChallenge": "The ___ used bright red and blue threads to create a stunning tapestry.",
+      "sentence": ""
+    },
+    {
+      "word": "surface",
+      "partOfSpeech": "noun/verb",
+      "meaning1": "The outside or top layer of something. Example: The surface of the frozen pond was smooth enough for ice skating.",
+      "meaning2": "To come up to the top from below. Example: The whale would surface to breathe and then dive back down into the deep ocean.",
+      "studentChallenge": "The ___ of the table was covered with scratches from years of use.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Our school chess club entered a ___ and competed against teams from five other schools.",
+      "sentence2": "The soccer ___ lasted all weekend, and our team made it to the final round.",
+      "options": [
+        "clever",
+        "tournament",
+        "crew",
+        "origin"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "tournament"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The student used thin paper to ___ the outline of the map for her geography project.",
+      "sentence2": "The detective found a tiny ___ of mud near the door that turned out to be an important clue.",
+      "options": [
+        "surface",
+        "trace",
+        "origin",
+        "cascade"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "trace"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Tall pine trees ___ the lake, making it a beautiful and quiet place to visit.",
+      "sentence2": "A moat filled with water used to ___ the castle and protect it from enemies.",
+      "options": [
+        "obvious",
+        "contain",
+        "origin",
+        "surround"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "surround"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The ship's ___ worked together to steer the vessel safely through the rough storm.",
+      "sentence2": "The film ___ set up cameras and lights before the actors arrived on set.",
+      "options": [
+        "contain",
+        "clever",
+        "weaver",
+        "crew"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "crew"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The ___ fox outsmarted the hunters by hiding its tracks in the stream.",
+      "sentence2": "That was a ___ way to solve the puzzle \u2014 no one else had thought of it.",
+      "options": [
+        "surface",
+        "weaver",
+        "clever",
+        "trace"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "clever"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The bright flowers ___ butterflies from all over the garden.",
+      "sentence2": "The magnet will ___ the metal clips from across the table.",
+      "options": [
+        "attract",
+        "contain",
+        "origin",
+        "surface"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "attract"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "A beautiful ___ of water tumbled over the rocks and into the pool below.",
+      "sentence2": "After the rainstorm, a ___ of water poured down the hillside and into the creek.",
+      "options": [
+        "attract",
+        "cascade",
+        "trace",
+        "weaver"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "cascade"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "It was ___ that she was tired \u2014 she could barely keep her eyes open.",
+      "sentence2": "The answer was ___ once she read the question again carefully.",
+      "options": [
+        "tournament",
+        "contain",
+        "weaver",
+        "obvious"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "obvious"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The ___ of the river is a tiny spring high up in the mountains.",
+      "sentence2": "The teacher asked us to research the ___ of our favourite holiday traditions.",
+      "options": [
+        "origin",
+        "crew",
+        "weaver",
+        "contain"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "origin"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The big treasure chest was said to ___ gold coins and sparkling jewels.",
+      "sentence2": "This jar can ___ up to one hundred marbles if you pack them tightly.",
+      "options": [
+        "surround",
+        "surface",
+        "contain",
+        "attract"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "contain"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The skilled ___ sat at her loom and created a beautiful blanket with colorful patterns.",
+      "sentence2": "The ___ used bright red and blue threads to create a stunning tapestry.",
+      "options": [
+        "origin",
+        "obvious",
+        "weaver",
+        "trace"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "weaver"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The ___ of the frozen pond was smooth enough for ice skating.",
+      "sentence2": "The whale came up to the ___ of the ocean to breathe before diving back down.",
+      "options": [
+        "surface",
+        "weaver",
+        "crew",
+        "obvious"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "surface"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "tournament",
+      "trace",
+      "surround",
+      "crew",
+      "clever",
+      "attract",
+      "cascade",
+      "obvious",
+      "origin",
+      "contain",
+      "weaver",
+      "surface"
+    ],
+    "passage": "Arnav and his sailing _(1)_ \u2014 a group of twelve friends who worked together on the boat \u2014 set off to explore a hidden cove. It was _(2)_ to everyone, plain and clear, that the weather was perfect. Arnav used a map to _(3)_ the route his grandfather had once traveled, following every twist and turn. Tall cliffs _(4)_ the cove on all sides, wrapping around it like walls. The _(5)_ of the calm water was so glassy it reflected the sky like a mirror. A _(6)_ of sparkling water tumbled down the cliff face, flowing from rock to rock into the sea below. The bright colors of the coral were sure to _(7)_ curious fish from the deeper water. They found a cave that seemed to _(8)_ hidden treasures, its walls packed with glittering stones. Inside, a local _(9)_ had left a woven tapestry hanging on the wall, each thread crossing beautifully under and over. The inscription described a great sailing _(10)_ \u2014 a competition held there long ago, with many boats racing for the championship. It also told the _(11)_ of the cove \u2014 where it began and how it got its name. Arnav was _(12)_, smart enough to photograph everything before the tide came in.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "crew",
+        "options": [
+          "crew",
+          "weaver",
+          "tournament",
+          "cascade"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "obvious",
+        "options": [
+          "obvious",
+          "clever",
+          "trace",
+          "contain"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "trace",
+        "options": [
+          "trace",
+          "attract",
+          "surround",
+          "origin"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "surround",
+        "options": [
+          "surround",
+          "contain",
+          "attract",
+          "cascade"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "surface",
+        "options": [
+          "surface",
+          "origin",
+          "cascade",
+          "trace"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "cascade",
+        "options": [
+          "cascade",
+          "surface",
+          "trace",
+          "tournament"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "attract",
+        "options": [
+          "attract",
+          "contain",
+          "surround",
+          "obvious"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "contain",
+        "options": [
+          "contain",
+          "attract",
+          "surround",
+          "trace"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "weaver",
+        "options": [
+          "weaver",
+          "crew",
+          "origin",
+          "tournament"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "tournament",
+        "options": [
+          "tournament",
+          "obvious",
+          "clever",
+          "cascade"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "origin",
+        "options": [
+          "origin",
+          "surface",
+          "tournament",
+          "crew"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "clever",
+        "options": [
+          "clever",
+          "obvious",
+          "attract",
+          "contain"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "tournament",
+        "scale": [
+          "event",
+          "tournament",
+          "championship"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "trace",
+        "scale": [
+          "mark",
+          "trace",
+          "sign"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "surround",
+        "scale": [
+          "border",
+          "surround",
+          "encircle"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "crew",
+        "scale": [
+          "pair",
+          "crew",
+          "team"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "clever",
+        "words": [
+          "foolish",
+          "smart",
+          "witty",
+          "ingenious"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "foolish"
+      },
+      {
+        "vocabWord": "attract",
+        "words": [
+          "draw",
+          "lure",
+          "pull",
+          "repel"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "repel"
+      },
+      {
+        "vocabWord": "cascade",
+        "words": [
+          "trickle",
+          "waterfall",
+          "flow",
+          "pour"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "trickle"
+      },
+      {
+        "vocabWord": "obvious",
+        "words": [
+          "hidden",
+          "clear",
+          "plain",
+          "evident"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "hidden"
+      },
+      {
+        "vocabWord": "origin",
+        "words": [
+          "source",
+          "beginning",
+          "end",
+          "root"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "end"
+      },
+      {
+        "vocabWord": "contain",
+        "words": [
+          "hold",
+          "include",
+          "store",
+          "release"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "release"
+      },
+      {
+        "vocabWord": "weaver",
+        "words": [
+          "destroyer",
+          "craftsperson",
+          "artisan",
+          "maker"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "destroyer"
+      },
+      {
+        "vocabWord": "surface",
+        "words": [
+          "top",
+          "depth",
+          "outside",
+          "level"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "depth"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

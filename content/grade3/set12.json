@@ -1,0 +1,405 @@
+{
+  "grade": 3,
+  "setNumber": 12,
+  "words": [
+    "fury",
+    "intent",
+    "pattern",
+    "vibrant",
+    "wit",
+    "approach",
+    "approve",
+    "glory",
+    "meek",
+    "tradition",
+    "prompt",
+    "revive"
+  ],
+  "sources": [
+    "Common Core Grade 3",
+    "CBSE India",
+    "Cambridge Primary",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Tier 2 Academic"
+  ],
+  "genre": "true historical figure biography",
+  "story": {
+    "genre": "true historical figure biography",
+    "characters": [
+      "Priya",
+      "Aarav",
+      "Mila"
+    ],
+    "parts": [
+      {
+        "title": "The Festival",
+        "text": "Every year, the small village held a **tradition** that filled the streets with music and dancing. This year, a great storm had swept through and left everyone feeling low. The mayor knew she had to act fast to **revive** the community's excitement before festival day arrived."
+      },
+      {
+        "title": "The Preparation",
+        "text": "She walked through the village with clear **intent**: she was going to make this the best festival yet. Her **approach** was simple — talk to every neighbor and ask them to help decorate. The decorations were **vibrant**, with bold colors bursting from every window and doorway. Children painted a cheerful **pattern** of suns and waves along the town wall."
+      },
+      {
+        "title": "The Celebration",
+        "text": "When festival day came, the crowd cheered with great **glory** as the parade began. A young girl who had always been quiet and **meek** stood up and recited a poem with a clear, loud voice. She had used her **wit** to write something funny and touching. The mayor gave a **prompt** nod to start the fireworks right on time. The storm had arrived with **fury**, but the festival proved the village could not be broken. Everyone would **approve** of how the day turned out."
+      },
+      {
+        "title": "The Memory",
+        "text": "That night, the whole village sat under the stars and shared stories. The mayor smiled and said the best festivals are not the ones with the most money — they are the ones where everyone comes together. The children promised to help decorate again next year, and the tradition grew even stronger."
+      }
+    ],
+    "wordCount": 238
+  },
+  "definitions": [
+    {
+      "word": "fury",
+      "partOfSpeech": "noun",
+      "meaning1": "Extreme anger or rage. Example: The giant flew into a fury when he found his gold had been stolen.",
+      "meaning2": "Wild and violent force. Example: The fury of the storm knocked down several trees.",
+      "studentChallenge": "She felt the ___ rising inside her when she saw the broken window.",
+      "sentence": ""
+    },
+    {
+      "word": "intent",
+      "partOfSpeech": "noun, adjective",
+      "meaning1": "A plan or purpose. Example: It was my intent to clean my room, but I fell asleep instead.",
+      "meaning2": "Paying very close attention. Example: The cat watched the mouse with intent eyes.",
+      "studentChallenge": "Her ___ was to finish the book before the weekend.",
+      "sentence": ""
+    },
+    {
+      "word": "pattern",
+      "partOfSpeech": "noun",
+      "meaning1": "A repeated design or decoration. Example: The wallpaper has a beautiful flower pattern.",
+      "meaning2": "A regular way something happens. Example: The teacher noticed a pattern of kindness among the students.",
+      "studentChallenge": "The artist used a repeating ___ of stars and moons on the fabric.",
+      "sentence": ""
+    },
+    {
+      "word": "vibrant",
+      "partOfSpeech": "adjective",
+      "meaning1": "Bright, strong, and full of energy. Example: The flowers in the garden were vibrant, with bright yellows and deep reds.",
+      "meaning2": "",
+      "studentChallenge": "The mural on the school wall was ___ and full of life.",
+      "sentence": ""
+    },
+    {
+      "word": "wit",
+      "partOfSpeech": "noun",
+      "meaning1": "The ability to say things that are clever and funny. Example: Her quick wit made everyone laugh during the long car ride.",
+      "meaning2": "",
+      "studentChallenge": "It takes real ___ to write jokes that are both clever and kind.",
+      "sentence": ""
+    },
+    {
+      "word": "approach",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A way of dealing with something. Example: The team had to decide on the best approach for solving the problem.",
+      "meaning2": "To move closer to something. Example: She began to approach the podium slowly, nervous about her speech.",
+      "studentChallenge": "We need a new ___ to this problem because the old way isn't working.",
+      "sentence": ""
+    },
+    {
+      "word": "approve",
+      "partOfSpeech": "verb",
+      "meaning1": "To agree with or accept something. Example: The principal was happy to approve the new lunch menu.",
+      "meaning2": "To have a good opinion of something. Example: Her parents did not approve of staying up past midnight.",
+      "studentChallenge": "The teacher had to ___ the field trip plan before we could go.",
+      "sentence": ""
+    },
+    {
+      "word": "glory",
+      "partOfSpeech": "noun",
+      "meaning1": "Great fame, honor, or praise. Example: The old painting still showed the glory of the ancient kingdom.",
+      "meaning2": "Beauty or magnificence. Example: The glory of the sunset took everyone's breath away.",
+      "studentChallenge": "The crowd cheered as the team celebrated their ___ after winning the championship.",
+      "sentence": ""
+    },
+    {
+      "word": "meek",
+      "partOfSpeech": "adjective",
+      "meaning1": "Quiet, gentle, and not wanting to argue. Example: The meek child gave a soft nod and stepped aside.",
+      "meaning2": "",
+      "studentChallenge": "The shy lamb was quiet and ___ around the other animals.",
+      "sentence": ""
+    },
+    {
+      "word": "tradition",
+      "partOfSpeech": "noun",
+      "meaning1": "A custom or belief passed down from generation to generation. Example: Lighting candles on birthdays is a tradition many families share.",
+      "meaning2": "",
+      "studentChallenge": "The old custom had become a beloved family ___ over the years.",
+      "sentence": ""
+    },
+    {
+      "word": "prompt",
+      "partOfSpeech": "adjective, verb",
+      "meaning1": "Done quickly and without delay; on time. Example: A prompt reply showed she had been paying attention.",
+      "meaning2": "To cause someone to do something. Example: The teacher's reminder prompted students to finish the assignment.",
+      "studentChallenge": "The bus driver is always ___ — he arrives at exactly 7:15 every morning.",
+      "sentence": ""
+    },
+    {
+      "word": "revive",
+      "partOfSpeech": "verb",
+      "meaning1": "To bring back to life, health, or strength. Example: The cool water helped revive the wilting plants after the hot day.",
+      "meaning2": "To bring back into use or popularity. Example: The coach gave a speech to revive the team's spirit.",
+      "studentChallenge": "A cold glass of water was enough to ___ her energy after the long run.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The artist used a repeating _______ of stars and moons on the fabric she was designing.",
+      "sentence2": "The teacher noticed a _______ of kindness in the way the students helped one another every day.",
+      "options": ["tradition", "prompt", "pattern", "vibrant"],
+      "correctIndex": 2,
+      "correctAnswer": "pattern"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The crowd cheered as the team celebrated their _______ after winning the championship.",
+      "sentence2": "The old painting still showed the _______ of the ancient kingdom in all its golden detail.",
+      "options": ["wit", "fury", "intent", "glory"],
+      "correctIndex": 3,
+      "correctAnswer": "glory"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The teacher's _______ reminder helped students finish the assignment right on time.",
+      "sentence2": "A _______ reply to the question showed she had been paying close attention all along.",
+      "options": ["meek", "approach", "prompt", "approve"],
+      "correctIndex": 2,
+      "correctAnswer": "prompt"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The storm hit with great _______, knocking down trees across the entire neighborhood.",
+      "sentence2": "In the story, the giant flew into a _______ when he found that his gold had been stolen.",
+      "options": ["glory", "fury", "tradition", "pattern"],
+      "correctIndex": 1,
+      "correctAnswer": "fury"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The shy lamb was quiet and _______ around the other animals in the barnyard.",
+      "sentence2": "He gave a _______ nod and stepped aside to let the others go first without arguing.",
+      "options": ["vibrant", "intent", "meek", "wit"],
+      "correctIndex": 2,
+      "correctAnswer": "meek"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Her quick _______ humor made everyone laugh during the long, boring car ride.",
+      "sentence2": "It takes real _______ to write jokes that are both clever and funny at the same time.",
+      "options": ["wit", "approach", "fury", "glory"],
+      "correctIndex": 0,
+      "correctAnswer": "wit"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The flowers in the garden were _______, with bright yellows and deep reds bursting everywhere.",
+      "sentence2": "The mural painted on the school wall was _______ and full of energy and life.",
+      "options": ["meek", "intent", "prompt", "vibrant"],
+      "correctIndex": 3,
+      "correctAnswer": "vibrant"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The team had to decide on the best _______ for solving the difficult math problem.",
+      "sentence2": "She began to _______ the podium slowly, nervous about giving her very first speech.",
+      "options": ["approach", "glory", "tradition", "pattern"],
+      "correctIndex": 0,
+      "correctAnswer": "approach"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "His _______ was to finish the entire book before the weekend started.",
+      "sentence2": "She stared at the puzzle with a look of deep _______, determined to solve it no matter what.",
+      "options": ["meek", "intent", "prompt", "approve"],
+      "correctIndex": 1,
+      "correctAnswer": "intent"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The parents did not _______ of staying up past midnight on school nights.",
+      "sentence2": "The principal was happy to _______ the new lunch menu after tasting the food herself.",
+      "options": ["revive", "pattern", "tradition", "approve"],
+      "correctIndex": 3,
+      "correctAnswer": "approve"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The old custom had become a beloved family _______ passed down for generations.",
+      "sentence2": "Lighting candles on birthdays is a _______ that many families around the world share.",
+      "options": ["tradition", "fury", "wit", "intent"],
+      "correctIndex": 0,
+      "correctAnswer": "tradition"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The cool water helped _______ the wilting plants after the long, hot summer day.",
+      "sentence2": "The coach gave a powerful speech to _______ the team's spirit before the championship game.",
+      "options": ["approve", "pattern", "revive", "glory"],
+      "correctIndex": 2,
+      "correctAnswer": "revive"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "fury",
+      "intent",
+      "pattern",
+      "vibrant",
+      "wit",
+      "approach",
+      "approve",
+      "glory",
+      "meek",
+      "tradition",
+      "prompt",
+      "revive"
+    ],
+    "passage": "Every year, the small village held a _(1)_ that filled the streets with music and dancing. It had been celebrated for hundreds of years, and no one wanted to let it fade away. This year, though, a great storm had swept through and left everyone feeling low. The mayor knew she had to act fast to _(2)_ the community's excitement before festival day arrived.\n\nShe walked through the village with clear _(3)_: she was going to make this the best festival yet. Her _(4)_ was simple — talk to every neighbor and ask them to help decorate. The decorations were _(5)_, with bold colors bursting from every window and doorway. Children painted a cheerful _(6)_ of suns and waves along the town wall.\n\nWhen festival day came, the crowd cheered with great _(7)_ as the parade began. A young girl who had always been quiet and _(8)_ stood up and recited a poem with a clear, loud voice. She had used her _(9)_ to write something both funny and touching. The mayor gave a _(10)_ nod to start the fireworks right on time. The storm had arrived with _(11)_, but the festival proved the village could not be broken. Everyone would _(12)_ of how the day turned out.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "tradition",
+        "options": ["fury", "pattern", "tradition", "wit"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "revive",
+        "options": ["approach", "revive", "approve", "meek"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "intent",
+        "options": ["glory", "vibrant", "intent", "prompt"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "approach",
+        "options": ["approach", "fury", "tradition", "pattern"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "vibrant",
+        "options": ["meek", "vibrant", "prompt", "intent"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "pattern",
+        "options": ["glory", "fury", "wit", "pattern"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "glory",
+        "options": ["fury", "glory", "meek", "revive"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "meek",
+        "options": ["vibrant", "prompt", "meek", "approve"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "wit",
+        "options": ["wit", "fury", "intent", "tradition"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "prompt",
+        "options": ["vibrant", "prompt", "glory", "pattern"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "fury",
+        "options": ["revive", "approve", "fury", "tradition"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "approve",
+        "options": ["intent", "approach", "revive", "approve"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "fury",
+        "scale": ["Annoyance", "Anger", "Fury"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "vibrant",
+        "scale": ["Dull", "Colorful", "Vibrant"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "meek",
+        "scale": ["Meek", "Confident", "Bold"],
+        "vocabPosition": 0
+      },
+      {
+        "vocabWord": "glory",
+        "scale": ["Praise", "Honor", "Glory"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "fury",
+        "words": ["Rage", "Calm", "Anger", "Wrath"],
+        "imposterIndex": 1,
+        "imposterWord": "Calm"
+      },
+      {
+        "vocabWord": "vibrant",
+        "words": ["Lively", "Dull", "Bright", "Colorful"],
+        "imposterIndex": 1,
+        "imposterWord": "Dull"
+      },
+      {
+        "vocabWord": "meek",
+        "words": ["Bold", "Humble", "Gentle", "Timid"],
+        "imposterIndex": 0,
+        "imposterWord": "Bold"
+      },
+      {
+        "vocabWord": "wit",
+        "words": ["Humor", "Dullness", "Cleverness", "Sharpness"],
+        "imposterIndex": 1,
+        "imposterWord": "Dullness"
+      },
+      {
+        "vocabWord": "revive",
+        "words": ["Restore", "Weaken", "Refresh", "Awaken"],
+        "imposterIndex": 1,
+        "imposterWord": "Weaken"
+      },
+      {
+        "vocabWord": "approve",
+        "words": ["Support", "Allow", "Reject", "Accept"],
+        "imposterIndex": 2,
+        "imposterWord": "Reject"
+      },
+      {
+        "vocabWord": "prompt",
+        "words": ["On time", "Delayed", "Quick", "Ready"],
+        "imposterIndex": 1,
+        "imposterWord": "Delayed"
+      },
+      {
+        "vocabWord": "glory",
+        "words": ["Shame", "Honor", "Triumph", "Fame"],
+        "imposterIndex": 0,
+        "imposterWord": "Shame"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

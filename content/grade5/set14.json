@@ -1,0 +1,405 @@
+{
+  "grade": 5,
+  "setNumber": 14,
+  "words": [
+    "authoritarian",
+    "monarchy",
+    "despot",
+    "abdicate",
+    "insurrection",
+    "emancipate",
+    "subordinate",
+    "usurp",
+    "diplomat",
+    "regime",
+    "bureaucracy",
+    "amendment"
+  ],
+  "sources": [
+    "Common Core Grade 5",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 5",
+    "CKLA Grade 5",
+    "Tier 2 Academic"
+  ],
+  "genre": "historical revolution",
+  "story": {
+    "genre": "historical revolution",
+    "characters": [
+      "Marisol",
+      "Ekon",
+      "Freya"
+    ],
+    "parts": [
+      {
+        "title": "A Kingdom in Trouble",
+        "text": "Long ago, the island kingdom of Brevara was ruled by a strict **monarchy** where only the royal family held power. The current king ran an **authoritarian** government, making every decision himself and punishing anyone who disagreed. The people whispered that he had become a **despot** who cared only about his own wealth."
+      },
+      {
+        "title": "Seeds of Change",
+        "text": "Marisol, a farmer's daughter, believed the people deserved freedom. She met Ekon, a young **diplomat** who had traveled to other lands and seen fairer governments. Together they learned that the king's **regime** had been in power for forty years, kept strong by a tangled **bureaucracy** of officials who followed orders without question. Ekon explained that each official was a **subordinate** who answered only to the person above them."
+      },
+      {
+        "title": "The Revolution",
+        "text": "Freya, a scholar, joined their cause and argued that they needed an **amendment** to the kingdom's laws — a change that would give citizens a voice. When the king refused to listen, the people launched an **insurrection**, rising up together to demand their rights. The rebels vowed to **emancipate** every citizen from unfair rule. Faced with thousands of peaceful marchers, the king chose to **abdicate** his throne rather than fight. A general tried to **usurp** power by seizing the palace, but the people stood firm."
+      },
+      {
+        "title": "A New Beginning",
+        "text": "After weeks of meetings, the citizens of Brevara created a new government where leaders were chosen by the people. Marisol, Ekon, and Freya each served on the first council. The island was not perfect overnight, but for the first time in decades, every voice mattered, and hope filled the streets."
+      }
+    ],
+    "wordCount": 243
+  },
+  "definitions": [
+    {
+      "word": "authoritarian",
+      "partOfSpeech": "adjective, noun",
+      "meaning1": "Demanding strict obedience and not allowing people to act freely. Example: The authoritarian principal made rules about everything, even how students should walk in the hallway.",
+      "meaning2": "A person who believes in or enforces strict obedience. Example: The coach was an authoritarian who never let the players question his decisions.",
+      "studentChallenge": "The ___ ruler made all the decisions and never asked the people what they wanted.",
+      "sentence": ""
+    },
+    {
+      "word": "monarchy",
+      "partOfSpeech": "noun",
+      "meaning1": "A form of government led by a king or queen. Example: In a monarchy, the crown is usually passed down from parent to child.",
+      "meaning2": "",
+      "studentChallenge": "The country was a ___ ruled by a queen who had inherited the throne from her mother.",
+      "sentence": ""
+    },
+    {
+      "word": "despot",
+      "partOfSpeech": "noun",
+      "meaning1": "A ruler who uses power in a cruel and unfair way. Example: The despot threw anyone who disagreed with him into prison.",
+      "meaning2": "",
+      "studentChallenge": "The cruel king was called a ___ because he punished people for speaking their minds.",
+      "sentence": ""
+    },
+    {
+      "word": "abdicate",
+      "partOfSpeech": "verb",
+      "meaning1": "To officially give up a position of power, especially a throne. Example: The old king decided to abdicate so his daughter could rule the kingdom.",
+      "meaning2": "",
+      "studentChallenge": "Under pressure from the people, the queen chose to ___ and let a new leader take over.",
+      "sentence": ""
+    },
+    {
+      "word": "insurrection",
+      "partOfSpeech": "noun",
+      "meaning1": "A violent uprising against a government or authority. Example: The insurrection began when citizens marched to the capital and demanded change.",
+      "meaning2": "",
+      "studentChallenge": "The people organized an ___ because the government refused to listen to their demands.",
+      "sentence": ""
+    },
+    {
+      "word": "emancipate",
+      "partOfSpeech": "verb",
+      "meaning1": "To set free from control or slavery. Example: The new law helped emancipate thousands of people who had been held against their will.",
+      "meaning2": "",
+      "studentChallenge": "The goal of the movement was to ___ all citizens who were living under unfair rules.",
+      "sentence": ""
+    },
+    {
+      "word": "subordinate",
+      "partOfSpeech": "noun, adjective",
+      "meaning1": "A person who is lower in rank or position. Example: The general gave orders to his subordinate officers.",
+      "meaning2": "Of less importance; secondary. Example: The small details were subordinate to the main goal of finishing the project on time.",
+      "studentChallenge": "The manager asked her ___ to deliver the report to the office upstairs.",
+      "sentence": ""
+    },
+    {
+      "word": "usurp",
+      "partOfSpeech": "verb",
+      "meaning1": "To take a position of power or authority illegally or by force. Example: The duke tried to usurp the throne while the king was away at war.",
+      "meaning2": "",
+      "studentChallenge": "The ambitious general attempted to ___ the president's power by taking control of the army.",
+      "sentence": ""
+    },
+    {
+      "word": "diplomat",
+      "partOfSpeech": "noun",
+      "meaning1": "A person whose job is to represent their country in discussions with other countries. Example: The diplomat traveled to the neighboring kingdom to discuss a peace agreement.",
+      "meaning2": "A person who is skilled at dealing with others in a sensitive way. Example: She was a natural diplomat who could settle any argument between her friends.",
+      "studentChallenge": "The ___ was sent to the foreign country to negotiate a new trade agreement.",
+      "sentence": ""
+    },
+    {
+      "word": "regime",
+      "partOfSpeech": "noun",
+      "meaning1": "A government, especially one that has strict control over people. Example: The old regime had been in power for decades before the people finally demanded a change.",
+      "meaning2": "",
+      "studentChallenge": "The harsh ___ controlled what people could read, say, and even think.",
+      "sentence": ""
+    },
+    {
+      "word": "bureaucracy",
+      "partOfSpeech": "noun",
+      "meaning1": "A system of government with many offices, officials, and complicated rules. Example: The bureaucracy made it difficult to get a simple permit because so many forms had to be filled out.",
+      "meaning2": "",
+      "studentChallenge": "The ___ was so slow that it took months just to get a building permit approved.",
+      "sentence": ""
+    },
+    {
+      "word": "amendment",
+      "partOfSpeech": "noun",
+      "meaning1": "A change or addition made to a law, document, or rule. Example: The amendment to the school handbook gave students an extra ten minutes for lunch.",
+      "meaning2": "",
+      "studentChallenge": "The council voted to pass an ___ that would give citizens the right to vote at age sixteen.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The _______ leader made every decision alone and never allowed anyone to question his orders.",
+      "sentence2": "Students complained that the new hall monitor was _______, banning running, talking, and even smiling in the hallways.",
+      "options": ["subordinate", "authoritarian", "diplomat", "amendment"],
+      "correctIndex": 1,
+      "correctAnswer": "authoritarian"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "England is a _______ where the king or queen serves as head of state alongside an elected parliament.",
+      "sentence2": "In the old _______, the crown was passed from father to eldest son for over three hundred years.",
+      "options": ["monarchy", "regime", "bureaucracy", "insurrection"],
+      "correctIndex": 0,
+      "correctAnswer": "monarchy"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The cruel _______ taxed the villagers so heavily that many families could barely afford to eat.",
+      "sentence2": "History remembers the emperor as a _______ who silenced anyone who dared to speak against him.",
+      "options": ["diplomat", "subordinate", "despot", "amendment"],
+      "correctIndex": 2,
+      "correctAnswer": "despot"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The aging queen decided to _______ her throne so her younger, more energetic daughter could lead the country.",
+      "sentence2": "Rather than face the angry crowd, the governor chose to _______ his position and leave the capital quietly.",
+      "options": ["emancipate", "usurp", "abdicate", "insurrection"],
+      "correctIndex": 2,
+      "correctAnswer": "abdicate"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The _______ began at dawn when thousands of citizens marched toward the palace gates demanding freedom.",
+      "sentence2": "After years of unfair treatment, the workers organized an _______ and refused to obey the factory owner's rules.",
+      "options": ["insurrection", "monarchy", "bureaucracy", "regime"],
+      "correctIndex": 0,
+      "correctAnswer": "insurrection"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The new law was designed to _______ all workers who had been trapped in unfair contracts.",
+      "sentence2": "The brave leader fought for years to _______ the enslaved people and give them their freedom at last.",
+      "options": ["abdicate", "usurp", "subordinate", "emancipate"],
+      "correctIndex": 3,
+      "correctAnswer": "emancipate"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "As a _______, the young officer had to follow every command given by the captain above him.",
+      "sentence2": "The assistant was a loyal _______ who carried out tasks without complaint and reported to the director each morning.",
+      "options": ["despot", "subordinate", "diplomat", "amendment"],
+      "correctIndex": 1,
+      "correctAnswer": "subordinate"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The scheming duke tried to _______ the throne by forging a document that named him the rightful king.",
+      "sentence2": "The general attempted to _______ control of the government while the president was traveling abroad.",
+      "options": ["emancipate", "abdicate", "usurp", "authoritarian"],
+      "correctIndex": 2,
+      "correctAnswer": "usurp"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The _______ sat at the peace table and carefully negotiated an agreement between the two warring countries.",
+      "sentence2": "She acted as a _______ between the two arguing groups, helping them find common ground without raising her voice.",
+      "options": ["diplomat", "despot", "monarchy", "regime"],
+      "correctIndex": 0,
+      "correctAnswer": "diplomat"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The harsh _______ controlled the newspapers and only allowed stories that praised the government to be printed.",
+      "sentence2": "After the old _______ fell, the citizens celebrated in the streets and began planning free elections.",
+      "options": ["bureaucracy", "amendment", "insurrection", "regime"],
+      "correctIndex": 3,
+      "correctAnswer": "regime"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The _______ required so many forms and signatures that it took six months just to open a small shop.",
+      "sentence2": "Citizens grew frustrated with the slow _______ that seemed more interested in paperwork than in solving real problems.",
+      "options": ["monarchy", "bureaucracy", "authoritarian", "subordinate"],
+      "correctIndex": 1,
+      "correctAnswer": "bureaucracy"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The _______ to the school constitution gave every student the right to vote in class elections.",
+      "sentence2": "Congress passed an _______ that officially guaranteed equal rights for all citizens regardless of background.",
+      "options": ["amendment", "insurrection", "despot", "usurp"],
+      "correctIndex": 0,
+      "correctAnswer": "amendment"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "authoritarian",
+      "monarchy",
+      "despot",
+      "abdicate",
+      "insurrection",
+      "emancipate",
+      "subordinate",
+      "usurp",
+      "diplomat",
+      "regime",
+      "bureaucracy",
+      "amendment"
+    ],
+    "passage": "In the year 1789, the people of Valdoria lived under a _(1)_ ruled by King Aldric the Third. He ran an _(2)_ government where no one was allowed to speak freely or question his laws. Many called him a _(3)_ because he taxed the poor to build golden statues of himself.\n\nA young _(4)_ named Clara traveled to neighboring kingdoms and saw how other countries let their citizens have a say. She returned home and met with a loyal _(5)_ of the king — a soldier named Tomas who secretly wanted change. Together they wrote a proposed _(6)_ to the kingdom's charter that would give citizens the right to vote.\n\nWhen the king rejected their proposal, the citizens organized an _(7)_ and marched on the palace. The king's massive _(8)_ of clerks and officials could not process the flood of complaints fast enough. The _(9)_ that had ruled for decades began to crumble. The king's brother tried to _(10)_ the throne for himself, but the people refused to accept another tyrant.\n\nFinally, King Aldric chose to _(11)_ and hand power to an elected council. The council's first act was to _(12)_ all prisoners who had been jailed simply for speaking their minds. Valdoria was free at last.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "monarchy",
+        "options": ["monarchy", "regime", "insurrection", "amendment"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "authoritarian",
+        "options": ["subordinate", "authoritarian", "diplomat", "despot"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "despot",
+        "options": ["bureaucracy", "despot", "monarchy", "usurp"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "diplomat",
+        "options": ["diplomat", "authoritarian", "subordinate", "amendment"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "subordinate",
+        "options": ["despot", "insurrection", "subordinate", "emancipate"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "amendment",
+        "options": ["regime", "amendment", "monarchy", "usurp"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "insurrection",
+        "options": ["insurrection", "bureaucracy", "abdicate", "diplomat"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "bureaucracy",
+        "options": ["authoritarian", "amendment", "bureaucracy", "despot"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "regime",
+        "options": ["emancipate", "regime", "subordinate", "monarchy"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "usurp",
+        "options": ["abdicate", "insurrection", "usurp", "diplomat"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "abdicate",
+        "options": ["emancipate", "abdicate", "regime", "bureaucracy"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "emancipate",
+        "options": ["usurp", "authoritarian", "amendment", "emancipate"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "despot",
+        "scale": ["Leader", "Tyrant", "Despot"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "insurrection",
+        "scale": ["Protest", "Revolt", "Insurrection"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "subordinate",
+        "scale": ["Subordinate", "Equal", "Superior"],
+        "vocabPosition": 0
+      },
+      {
+        "vocabWord": "authoritarian",
+        "scale": ["Lenient", "Strict", "Authoritarian"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "monarchy",
+        "words": ["Kingdom", "Republic", "Dynasty", "Crown"],
+        "imposterIndex": 1,
+        "imposterWord": "Republic"
+      },
+      {
+        "vocabWord": "abdicate",
+        "words": ["Resign", "Surrender", "Seize", "Relinquish"],
+        "imposterIndex": 2,
+        "imposterWord": "Seize"
+      },
+      {
+        "vocabWord": "emancipate",
+        "words": ["Liberate", "Free", "Release", "Enslave"],
+        "imposterIndex": 3,
+        "imposterWord": "Enslave"
+      },
+      {
+        "vocabWord": "usurp",
+        "words": ["Steal", "Grab", "Surrender", "Snatch"],
+        "imposterIndex": 2,
+        "imposterWord": "Surrender"
+      },
+      {
+        "vocabWord": "diplomat",
+        "words": ["Negotiator", "Peacemaker", "Agitator", "Ambassador"],
+        "imposterIndex": 2,
+        "imposterWord": "Agitator"
+      },
+      {
+        "vocabWord": "regime",
+        "words": ["Government", "Administration", "Anarchy", "Rule"],
+        "imposterIndex": 2,
+        "imposterWord": "Anarchy"
+      },
+      {
+        "vocabWord": "bureaucracy",
+        "words": ["Administration", "Simplicity", "System", "Officials"],
+        "imposterIndex": 1,
+        "imposterWord": "Simplicity"
+      },
+      {
+        "vocabWord": "amendment",
+        "words": ["Change", "Revision", "Preservation", "Modification"],
+        "imposterIndex": 2,
+        "imposterWord": "Preservation"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

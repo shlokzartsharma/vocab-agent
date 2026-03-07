@@ -1,0 +1,587 @@
+{
+  "grade": 3,
+  "setNumber": 31,
+  "words": [
+    "reflect",
+    "island",
+    "opinion",
+    "rely",
+    "ruin",
+    "scarf",
+    "possess",
+    "eager",
+    "bitter",
+    "flexible",
+    "kimono",
+    "gloomy"
+  ],
+  "sources": [
+    "Australian Curriculum",
+    "Benchmark Advance",
+    "British KS2",
+    "Cambridge Primary",
+    "Common Core Grade 3",
+    "Common Core Grade 4",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Flocabulary Grade 4",
+    "Tier 2 Academic",
+    "Wit & Wisdom Grade 3",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "real world records and achievements",
+  "story": {
+    "genre": "real world records and achievements",
+    "characters": [
+      "Diya",
+      "Kabir",
+      "Yuki"
+    ],
+    "parts": [
+      {
+        "title": "The Dream",
+        "text": "Every night, Diya would **reflect** on what she had learned at practice, turning each moment over in her mind. In her **opinion**, she was not yet good enough \u2014 but she was getting closer. She trained on a small **island** of gym mats in the corner of the school hall, the only space her coach Kabir could find for her."
+      },
+      {
+        "title": "The Setback",
+        "text": "Two weeks before the competition, a fire threatened to **ruin** the training hall and the team had to **rely** on a borrowed gym across town. Diya was **eager** to keep practicing despite everything, wrapping a warm **scarf** around her neck each cold morning as she cycled to the new facility. Kabir, who **possess**ed a quiet belief in her that never wavered, told her the setback would only make her stronger."
+      },
+      {
+        "title": "Against the Odds",
+        "text": "The borrowed gym was **gloomy** and poorly lit, but Diya refused to let the mood affect her. She was **flexible** enough to adapt her routine to the smaller space. One morning, after a routine that had gone perfectly, she wore the traditional **kimono** she had brought from home as a reminder of why she competed \u2014 not for medals, but for something deeper. Only the **bitter** cold of the early mornings made training feel truly hard."
+      },
+      {
+        "title": "The Record",
+        "text": "On competition day, Diya performed flawlessly. She didn't just win \u2014 she broke the national record by two full points. The crowd erupted in cheers. Kabir wiped tears from his eyes. \"This is what happens when you refuse to quit,\" he said. Yuki, who had traveled from another city just to watch, said it was the most extraordinary thing she had ever seen. Diya's name was printed in the record books that very evening, and her story inspired thousands of young athletes across the country."
+      }
+    ],
+    "wordCount": 267
+  },
+  "definitions": [
+    {
+      "word": "reflect",
+      "partOfSpeech": "verb",
+      "meaning1": "To send back light, heat, or sound from a surface. Example: The calm lake reflected the mountains so clearly it looked like a mirror.",
+      "meaning2": "To think carefully about something. Example: She took a moment to reflect on what she had learned during the school year.",
+      "studentChallenge": "The shiny surface of the lake seemed to ___ the colours of the sunset perfectly.",
+      "sentence": ""
+    },
+    {
+      "word": "island",
+      "partOfSpeech": "noun",
+      "meaning1": "A piece of land completely surrounded by water. Example: We took a ferry to visit the small island where wild horses roam free.",
+      "meaning2": "",
+      "studentChallenge": "The treasure map showed that the gold was buried on a tiny ___ in the middle of the ocean.",
+      "sentence": ""
+    },
+    {
+      "word": "opinion",
+      "partOfSpeech": "noun",
+      "meaning1": "What a person thinks or believes about something, which may be different from what others think. Example: In my opinion, strawberry ice cream is the best flavour of all.",
+      "meaning2": "",
+      "studentChallenge": "Everyone in the class shared their ___ about which book we should read next.",
+      "sentence": ""
+    },
+    {
+      "word": "rely",
+      "partOfSpeech": "verb",
+      "meaning1": "To depend on someone or something; to trust. Example: The team relies on every player doing their best during the match.",
+      "meaning2": "",
+      "studentChallenge": "We ___ on the weather forecast to decide whether to bring umbrellas to school.",
+      "sentence": ""
+    },
+    {
+      "word": "ruin",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To destroy or damage badly. Example: The flood ruined the crops.",
+      "meaning2": "The remains of a destroyed building. Example: The ancient ruins attracted many tourists.",
+      "studentChallenge": "Don't let one mistake ___ your whole day.",
+      "sentence": ""
+    },
+    {
+      "word": "scarf",
+      "partOfSpeech": "noun",
+      "meaning1": "A piece of cloth worn around the neck or head for warmth or decoration. Example: She wrapped a soft wool scarf around her neck before heading out into the cold winter air.",
+      "meaning2": "",
+      "studentChallenge": "He picked out a bright red ___ to keep his neck warm during the snowstorm.",
+      "sentence": ""
+    },
+    {
+      "word": "possess",
+      "partOfSpeech": "verb",
+      "meaning1": "To have or own something. Example: She was lucky to possess a rare coin collection that her grandfather had started years ago.",
+      "meaning2": "",
+      "studentChallenge": "Very few people ___ the skill to play the violin as beautifully as she does.",
+      "sentence": ""
+    },
+    {
+      "word": "eager",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very excited and wanting to do something. Example: The eager students raised their hands.",
+      "meaning2": "",
+      "studentChallenge": "She was ___ to start her first day of camp.",
+      "sentence": ""
+    },
+    {
+      "word": "bitter",
+      "partOfSpeech": "adjective",
+      "meaning1": "Having a sharp, unpleasant taste. Example: The medicine tasted bitter.",
+      "meaning2": "Feeling angry or disappointed. Example: She was bitter about losing the competition.",
+      "studentChallenge": "The ___ cold made everyone hurry inside.",
+      "sentence": ""
+    },
+    {
+      "word": "flexible",
+      "partOfSpeech": "adjective",
+      "meaning1": "Able to bend without breaking. Example: Yoga makes your body more flexible.",
+      "meaning2": "Willing to change or try new things. Example: She has a flexible schedule.",
+      "studentChallenge": "The gymnast was very ___.",
+      "sentence": ""
+    },
+    {
+      "word": "kimono",
+      "partOfSpeech": "noun",
+      "meaning1": "A long, loose robe with wide sleeves, traditionally worn in Japan. Example: She wore a beautiful silk kimono decorated with cherry blossoms to the festival.",
+      "meaning2": "",
+      "studentChallenge": "During our lesson about Japan, the teacher showed us a colorful ___ made of soft fabric.",
+      "sentence": ""
+    },
+    {
+      "word": "gloomy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Dark and sad. Example: The gloomy sky meant rain was coming.",
+      "meaning2": "Feeling sad or unhappy. Example: He felt gloomy on the rainy day.",
+      "studentChallenge": "The ___ basement needed more light.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The calm lake ___ the mountains so clearly it looked like a mirror.",
+      "sentence2": "She took a quiet moment to ___ on everything she had learned during the school year.",
+      "options": [
+        "scarf",
+        "rely",
+        "bitter",
+        "reflect"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "reflect"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "We took a ferry to visit the small ___ where wild horses roam free.",
+      "sentence2": "The treasure map showed that the gold was buried on a tiny ___ in the middle of the ocean.",
+      "options": [
+        "island",
+        "reflect",
+        "flexible",
+        "eager"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "island"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "In my ___, strawberry ice cream is the best flavour of all.",
+      "sentence2": "Everyone in the class shared their ___ about which book we should read next.",
+      "options": [
+        "opinion",
+        "eager",
+        "flexible",
+        "kimono"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "opinion"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The team ___ on every player doing their best during the match.",
+      "sentence2": "We ___ on the weather forecast to decide whether to bring umbrellas to school.",
+      "options": [
+        "opinion",
+        "rely",
+        "eager",
+        "ruin"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "rely"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The flood ___ the crops, leaving the farmer with nothing to harvest.",
+      "sentence2": "Don't let one small mistake ___ your whole day.",
+      "options": [
+        "scarf",
+        "rely",
+        "possess",
+        "ruin"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ruin"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "She wrapped a soft wool ___ around her neck before heading out into the cold winter air.",
+      "sentence2": "He picked out a bright red ___ to keep his neck warm during the snowstorm.",
+      "options": [
+        "gloomy",
+        "scarf",
+        "island",
+        "bitter"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "scarf"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "She was lucky to ___ a rare coin collection that her grandfather had started years ago.",
+      "sentence2": "Very few people ___ the skill to play the violin as beautifully as she does.",
+      "options": [
+        "scarf",
+        "island",
+        "flexible",
+        "possess"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "possess"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The ___ students raised their hands before the teacher even finished the question.",
+      "sentence2": "She was so ___ to start her first day of camp that she woke up an hour early.",
+      "options": [
+        "eager",
+        "rely",
+        "reflect",
+        "ruin"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "eager"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The medicine tasted so ___ that she had to hold her nose to swallow it.",
+      "sentence2": "The ___ cold wind made everyone hurry inside and close the door.",
+      "options": [
+        "possess",
+        "kimono",
+        "bitter",
+        "reflect"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "bitter"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Yoga makes your body more ___ so you can bend and stretch without pain.",
+      "sentence2": "The gymnast was very ___ and could do backbends that amazed the crowd.",
+      "options": [
+        "island",
+        "rely",
+        "flexible",
+        "bitter"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "flexible"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "She wore a beautiful silk ___ decorated with cherry blossoms to the festival.",
+      "sentence2": "During our lesson about Japan, the teacher showed us a colorful ___ made of soft fabric.",
+      "options": [
+        "rely",
+        "eager",
+        "kimono",
+        "gloomy"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "kimono"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The ___ sky was dark and heavy with clouds, and rain was sure to follow.",
+      "sentence2": "The ___ basement needed more light \u2014 every corner was dim and shadowy.",
+      "options": [
+        "scarf",
+        "gloomy",
+        "ruin",
+        "reflect"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "gloomy"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "reflect",
+      "island",
+      "opinion",
+      "rely",
+      "ruin",
+      "scarf",
+      "possess",
+      "eager",
+      "bitter",
+      "flexible",
+      "kimono",
+      "gloomy"
+    ],
+    "passage": "Yuki traveled to a small _(1)_ \u2014 a piece of land completely surrounded by the sea \u2014 to attend a traditional Japanese ceremony. The sky was _(2)_, dark and heavy with rain clouds, but the ceremony would go ahead regardless. She wore a silk _(3)_ \u2014 the long, wide-sleeved robe traditionally worn in Japan \u2014 decorated with painted cranes. Around her neck she wrapped a warm _(4)_ \u2014 a soft cloth to shield her from the cool ocean breeze. She paused to _(5)_ on how lucky she was, thinking carefully about her journey. In her _(6)_, this was the most beautiful place she had ever visited. The ceremony required performers to be _(7)_, bending and moving gracefully without any stiffness. Yuki was _(8)_ and excited, barely able to wait for her turn on stage. The tea offered at the ceremony was _(9)_ \u2014 sharp and strong-tasting, not sweet at all. She had always known she _(10)_ a gift for performance, owning a natural talent passed down from her grandmother. The crowd would _(11)_ on her to lead the final dance, trusting her completely. One stumble could _(12)_ the ending of the ceremony, ruining months of careful practice.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "island",
+        "options": [
+          "island",
+          "opinion",
+          "scarf",
+          "kimono"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "gloomy",
+        "options": [
+          "gloomy",
+          "bitter",
+          "eager",
+          "flexible"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "kimono",
+        "options": [
+          "kimono",
+          "scarf",
+          "island",
+          "opinion"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "scarf",
+        "options": [
+          "scarf",
+          "kimono",
+          "ruin",
+          "reflect"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "reflect",
+        "options": [
+          "reflect",
+          "rely",
+          "possess",
+          "ruin"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "opinion",
+        "options": [
+          "opinion",
+          "reflect",
+          "island",
+          "rely"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "flexible",
+        "options": [
+          "flexible",
+          "bitter",
+          "gloomy",
+          "eager"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "eager",
+        "options": [
+          "eager",
+          "flexible",
+          "bitter",
+          "gloomy"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "bitter",
+        "options": [
+          "bitter",
+          "eager",
+          "flexible",
+          "gloomy"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "possess",
+        "options": [
+          "possess",
+          "rely",
+          "reflect",
+          "ruin"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "rely",
+        "options": [
+          "rely",
+          "possess",
+          "reflect",
+          "ruin"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "ruin",
+        "options": [
+          "ruin",
+          "rely",
+          "possess",
+          "reflect"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "reflect",
+        "scale": [
+          "notice",
+          "reflect",
+          "ponder"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "island",
+        "scale": [
+          "rock",
+          "island",
+          "landmass"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "opinion",
+        "scale": [
+          "thought",
+          "opinion",
+          "belief"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "rely",
+        "scale": [
+          "question",
+          "rely",
+          "depend"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "ruin",
+        "words": [
+          "destroy",
+          "build",
+          "wreck",
+          "damage"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "build"
+      },
+      {
+        "vocabWord": "scarf",
+        "words": [
+          "exposure",
+          "wrap",
+          "covering",
+          "cloth"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "exposure"
+      },
+      {
+        "vocabWord": "possess",
+        "words": [
+          "own",
+          "have",
+          "hold",
+          "lack"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "lack"
+      },
+      {
+        "vocabWord": "eager",
+        "words": [
+          "excited",
+          "enthusiastic",
+          "keen",
+          "reluctant"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "reluctant"
+      },
+      {
+        "vocabWord": "bitter",
+        "words": [
+          "sweet",
+          "harsh",
+          "sour",
+          "resentful"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "sweet"
+      },
+      {
+        "vocabWord": "flexible",
+        "words": [
+          "bendable",
+          "adaptable",
+          "bendy",
+          "rigid"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "rigid"
+      },
+      {
+        "vocabWord": "kimono",
+        "words": [
+          "robe",
+          "garment",
+          "dress",
+          "nothing"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "nothing"
+      },
+      {
+        "vocabWord": "gloomy",
+        "words": [
+          "cheerful",
+          "sad",
+          "dark",
+          "depressing"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "cheerful"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

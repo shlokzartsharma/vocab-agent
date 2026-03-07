@@ -1,0 +1,409 @@
+{
+  "grade": 3,
+  "setNumber": 1,
+  "words": [
+    "glance",
+    "schedule",
+    "superb",
+    "storm",
+    "legal",
+    "plough",
+    "convince",
+    "shatter",
+    "delicate",
+    "rare",
+    "mound",
+    "predict"
+  ],
+  "sources": [
+    "Australian Curriculum",
+    "CBSE India",
+    "Cambridge Primary",
+    "Common Core Grade 3",
+    "Common Core Grade 4",
+    "Common Core Grade 5",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Flocabulary Grade 4",
+    "Tier 2 Academic"
+  ],
+  "genre": "Indian folktale",
+  "story": {
+    "genre": "Indian folktale",
+    "characters": [
+      "Omar",
+      "Priya",
+      "Mateo"
+    ],
+    "parts": [
+      {
+        "title": "The Village by the River",
+        "text": "Long ago, in a village nestled between green hills, there lived a young girl named Omar. She was known for her ability to **glance** at things and understand them deeply. Every morning, she would follow a strict **schedule** \u2014 waking before sunrise, feeding the animals, and helping her grandmother prepare meals. Everyone agreed her cooking was **superb**, especially her spiced rice with vegetables."
+      },
+      {
+        "title": "The Gathering Storm",
+        "text": "One afternoon, dark clouds rolled in and a terrible **storm** shook the village. Priya, the village elder, said it was not a **legal** matter but a sign from nature. The old farmer had to stop his work with the **plough** and rush home. Omar tried to **convince** her younger brother that everything would be fine, but the wind was so strong it could **shatter** the clay pots on the shelf."
+      },
+      {
+        "title": "The Discovery",
+        "text": "After the storm passed, Omar found something **delicate** \u2014 a tiny bird with an injured wing, a **rare** species she had never seen before. She carefully placed it on a **mound** of soft leaves. \"I **predict** this bird will fly again,\" she told Mateo, who had come to help."
+      },
+      {
+        "title": "The Lesson",
+        "text": "Omar nursed the bird for seven days, following a careful schedule and using herbs her grandmother taught her about. When the bird finally spread its wings and soared into the sky, the whole village cheered. The elder Priya smiled and said, \"The greatest strength is gentleness. Even the most delicate creature can survive the worst storm if someone cares enough to help.\" Omar never forgot that lesson. She grew up to become the village healer, and people traveled from far away to seek her superb care."
+      }
+    ],
+    "wordCount": 268
+  },
+  "definitions": [
+    {
+      "word": "glance",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To look at something quickly. Example: She took a quick glance at her watch.",
+      "meaning2": "A brief or hurried look. Example: He gave a glance over his shoulder.",
+      "studentChallenge": "The detective gave a quick ___ at the clue on the table.",
+      "sentence": ""
+    },
+    {
+      "word": "schedule",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A plan that lists times for activities or events. Example: My school schedule starts at 8 AM.",
+      "meaning2": "To plan or arrange for something to happen at a certain time. Example: We scheduled the meeting for Friday.",
+      "studentChallenge": "Write a sentence about your weekly ___.",
+      "sentence": ""
+    },
+    {
+      "word": "superb",
+      "partOfSpeech": "adjective",
+      "meaning1": "Excellent; of the highest quality. Example: The chef prepared a superb meal.",
+      "meaning2": "",
+      "studentChallenge": "The dancer gave a ___ performance that amazed the audience.",
+      "sentence": ""
+    },
+    {
+      "word": "storm",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "Violent weather with strong winds, rain, thunder, or snow. Example: The storm knocked down several trees.",
+      "meaning2": "To move angrily or forcefully. Example: She stormed out of the room.",
+      "studentChallenge": "Write a sentence describing a ___ you have experienced.",
+      "sentence": ""
+    },
+    {
+      "word": "legal",
+      "partOfSpeech": "adjective",
+      "meaning1": "Allowed by the law or having to do with the law. Example: It is not legal to drive a car until you are old enough to have a license.",
+      "meaning2": "",
+      "studentChallenge": "The ___ age to vote in the United States is eighteen years old.",
+      "sentence": ""
+    },
+    {
+      "word": "plough",
+      "partOfSpeech": "verb",
+      "meaning1": "To turn over the soil in a field to prepare it for planting seeds. Example: The farmer used a tractor to plough the fields before sowing the wheat.",
+      "meaning2": "A large farming tool used to dig and turn the soil. Example: The old plough was pulled by two strong horses.",
+      "studentChallenge": "Every spring, the farmer would ___ the fields to get the soil ready for planting.",
+      "sentence": ""
+    },
+    {
+      "word": "convince",
+      "partOfSpeech": "verb",
+      "meaning1": "To make someone believe or agree with something by giving good reasons. Example: She convinced her parents to let her go camping.",
+      "meaning2": "",
+      "studentChallenge": "How would you ___ your teacher to give less homework?",
+      "sentence": ""
+    },
+    {
+      "word": "shatter",
+      "partOfSpeech": "verb",
+      "meaning1": "To break suddenly into many small pieces. Example: The ball shattered the glass window.",
+      "meaning2": "To destroy completely. Example: The bad news shattered her hopes.",
+      "studentChallenge": "The dropped vase ___ into a hundred tiny pieces.",
+      "sentence": ""
+    },
+    {
+      "word": "delicate",
+      "partOfSpeech": "adjective",
+      "meaning1": "Easily broken or damaged; fragile. Example: Be careful with that delicate glass ornament.",
+      "meaning2": "Fine and subtle in quality. Example: The painting had delicate brushstrokes.",
+      "studentChallenge": "The butterfly's wings were so ___ they looked like paper.",
+      "sentence": ""
+    },
+    {
+      "word": "rare",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not found or seen very often; uncommon. Example: That is a rare type of butterfly.",
+      "meaning2": "",
+      "studentChallenge": "Finding a four-leaf clover is very ___.",
+      "sentence": ""
+    },
+    {
+      "word": "mound",
+      "partOfSpeech": "noun",
+      "meaning1": "A rounded pile or hill of earth or stones. Example: The children built a mound of sand at the beach.",
+      "meaning2": "The raised area in the center of a baseball field. Example: The pitcher stood on the mound.",
+      "studentChallenge": "The ants built a ___ of dirt near the garden.",
+      "sentence": ""
+    },
+    {
+      "word": "predict",
+      "partOfSpeech": "verb",
+      "meaning1": "To say what you think will happen in the future. Example: Scientists predict that it will rain tomorrow.",
+      "meaning2": "",
+      "studentChallenge": "Can you ___ what will happen next in the story?",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "She took a quick _______ at the clock to check the time.",
+      "sentence2": "With just a _______ at the painting, the art expert knew it was very old.",
+      "options": ["storm", "glance", "mound", "predict"],
+      "correctIndex": 1,
+      "correctAnswer": "glance"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The train runs on a strict _______ and arrives at the same time every day.",
+      "sentence2": "We need to _______ the parent meeting for next Thursday afternoon.",
+      "options": ["schedule", "legal", "rare", "convince"],
+      "correctIndex": 0,
+      "correctAnswer": "schedule"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The singer gave a _______ performance that left the crowd speechless.",
+      "sentence2": "What a _______ sunset we saw from the hilltop last evening!",
+      "options": ["delicate", "plough", "superb", "storm"],
+      "correctIndex": 2,
+      "correctAnswer": "superb"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "A terrible _______ blew the roof right off the old barn.",
+      "sentence2": "After losing the game, the coach _______ out of the locker room in anger.",
+      "options": ["shatter", "storm", "schedule", "glance"],
+      "correctIndex": 1,
+      "correctAnswer": "storm"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "It is not _______ to park your car in front of a fire hydrant.",
+      "sentence2": "The _______ documents were signed by both lawyers before the deal was complete.",
+      "options": ["rare", "superb", "legal", "mound"],
+      "correctIndex": 2,
+      "correctAnswer": "legal"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Every spring, the farmer would _______ the fields to get them ready for planting.",
+      "sentence2": "The old _______ was pulled by two strong horses across the muddy ground.",
+      "options": ["plough", "predict", "convince", "shatter"],
+      "correctIndex": 0,
+      "correctAnswer": "plough"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Mateo tried to _______ his sister that the movie was worth watching.",
+      "sentence2": "The evidence was strong enough to _______ the jury that he was telling the truth.",
+      "options": ["glance", "schedule", "storm", "convince"],
+      "correctIndex": 3,
+      "correctAnswer": "convince"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The baseball flew through the window and _______ it into a hundred pieces.",
+      "sentence2": "The bad news could _______ her dreams of becoming a dancer.",
+      "options": ["predict", "shatter", "rare", "delicate"],
+      "correctIndex": 1,
+      "correctAnswer": "shatter"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The china teacup was so _______ that it cracked when she set it down too quickly.",
+      "sentence2": "The artist added _______ brushstrokes to create a soft, beautiful picture.",
+      "options": ["delicate", "storm", "legal", "mound"],
+      "correctIndex": 0,
+      "correctAnswer": "delicate"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Finding a four-leaf clover is _______ because most clovers only have three leaves.",
+      "sentence2": "The museum displayed a _______ coin that was over a thousand years old.",
+      "options": ["plough", "superb", "convince", "rare"],
+      "correctIndex": 3,
+      "correctAnswer": "rare"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The children piled sand into a tall _______ and shaped it into a castle.",
+      "sentence2": "The pitcher walked up to the _______ and threw the first pitch of the game.",
+      "options": ["glance", "mound", "schedule", "predict"],
+      "correctIndex": 1,
+      "correctAnswer": "mound"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Weather scientists _______ that a big snowstorm will arrive on Friday.",
+      "sentence2": "Can you _______ what will happen next in the story?",
+      "options": ["shatter", "legal", "predict", "plough"],
+      "correctIndex": 2,
+      "correctAnswer": "predict"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "glance",
+      "schedule",
+      "superb",
+      "storm",
+      "legal",
+      "plough",
+      "convince",
+      "shatter",
+      "delicate",
+      "rare",
+      "mound",
+      "predict"
+    ],
+    "passage": "Omar checked the _(1)_ on the wall to see when the village harvest festival would begin. Dark clouds were rolling in, and she could _(2)_ that a big _(3)_ was on its way. She took a quick _(4)_ out the window and saw the farmer racing to _(5)_ one last row before the rain hit.\n\nThe wind howled so loudly it could _(6)_ the glass jars on the kitchen shelf. Omar had to _(7)_ her little brother that they were safe inside. When the rain finally stopped, they stepped outside and found a _(8)_ of mud and leaves piled near the front gate.\n\nBehind it lay something surprising \u2014 a _(9)_ blue flower that Omar had never seen before. Its petals were thin and _(10)_, almost like tiny wings. She carefully picked it up and placed it in a jar of water. The village elder later said it was perfectly _(11)_ to keep a wildflower, and everyone agreed Omar's discovery was truly _(12)_.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "schedule",
+        "options": ["schedule", "storm", "mound", "glance"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "predict",
+        "options": ["convince", "predict", "shatter", "plough"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "storm",
+        "options": ["storm", "mound", "schedule", "rare"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "glance",
+        "options": ["superb", "glance", "legal", "predict"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "plough",
+        "options": ["shatter", "convince", "plough", "delicate"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "shatter",
+        "options": ["plough", "shatter", "rare", "mound"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "convince",
+        "options": ["predict", "glance", "convince", "schedule"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "mound",
+        "options": ["mound", "storm", "superb", "legal"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "rare",
+        "options": ["delicate", "rare", "glance", "convince"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "delicate",
+        "options": ["rare", "superb", "delicate", "shatter"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "legal",
+        "options": ["legal", "predict", "storm", "plough"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "superb",
+        "options": ["schedule", "mound", "superb", "convince"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "glance",
+        "scale": ["Glance", "Look", "Stare"],
+        "vocabPosition": 0
+      },
+      {
+        "vocabWord": "superb",
+        "scale": ["Good", "Great", "Superb"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "storm",
+        "scale": ["Drizzle", "Storm", "Hurricane"],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "shatter",
+        "scale": ["Crack", "Break", "Shatter"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "glance",
+        "words": ["Peek", "Glimpse", "Stare", "Look"],
+        "imposterIndex": 2,
+        "imposterWord": "Stare"
+      },
+      {
+        "vocabWord": "schedule",
+        "words": ["Plan", "Timetable", "Chaos", "Agenda"],
+        "imposterIndex": 2,
+        "imposterWord": "Chaos"
+      },
+      {
+        "vocabWord": "convince",
+        "words": ["Discourage", "Persuade", "Influence", "Sway"],
+        "imposterIndex": 0,
+        "imposterWord": "Discourage"
+      },
+      {
+        "vocabWord": "delicate",
+        "words": ["Fragile", "Gentle", "Fine", "Tough"],
+        "imposterIndex": 3,
+        "imposterWord": "Tough"
+      },
+      {
+        "vocabWord": "rare",
+        "words": ["Uncommon", "Common", "Unusual", "Scarce"],
+        "imposterIndex": 1,
+        "imposterWord": "Common"
+      },
+      {
+        "vocabWord": "predict",
+        "words": ["Forecast", "Foresee", "Surprise", "Expect"],
+        "imposterIndex": 2,
+        "imposterWord": "Surprise"
+      },
+      {
+        "vocabWord": "legal",
+        "words": ["Lawful", "Permitted", "Forbidden", "Allowed"],
+        "imposterIndex": 2,
+        "imposterWord": "Forbidden"
+      },
+      {
+        "vocabWord": "mound",
+        "words": ["Heap", "Pile", "Hill", "Ditch"],
+        "imposterIndex": 3,
+        "imposterWord": "Ditch"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

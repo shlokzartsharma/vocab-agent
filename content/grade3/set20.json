@@ -1,0 +1,583 @@
+{
+  "grade": 3,
+  "setNumber": 20,
+  "words": [
+    "phase",
+    "defeat",
+    "tone",
+    "grant",
+    "method",
+    "replace",
+    "catalog",
+    "disturb",
+    "label",
+    "monsoon",
+    "intent",
+    "coaxing"
+  ],
+  "sources": [
+    "CBSE India",
+    "Common Core Grade 3",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Scholastic",
+    "Tier 2 Academic",
+    "Wit & Wisdom Grade 3",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "climate and environment true story",
+  "story": {
+    "genre": "climate and environment true story",
+    "characters": [
+      "Sanjay",
+      "Priya",
+      "Ravi"
+    ],
+    "parts": [
+      {
+        "title": "The Warning Signs",
+        "text": "The **monsoon** arrived three weeks early that year, and Sanjay could tell from the first day that something was wrong. She kept a careful **catalog** of the rainfall measurements, logging each reading in a notebook she carried everywhere. Her **intent** was not to alarm anyone \u2014 she spoke to the village in a calm **tone**, making sure people understood the risk without panicking."
+      },
+      {
+        "title": "The Crisis",
+        "text": "When the floods came, they left behind enormous piles of mud and wreckage that blocked the streets and began to **disturb** the natural flow of the river. The squabbling on the town council threatened to **defeat** the recovery plan entirely. Priya used gentle **coaxing** to bring the two sides together, reminding them that there was no **label** that mattered now \u2014 not left or right, rich or poor \u2014 only neighbors helping neighbors."
+      },
+      {
+        "title": "Taking Action",
+        "text": "Sanjay explained her **method**: the project would move through each **phase** one step at a time \u2014 first clear the debris, then plant mangrove seedlings along the shore, then apply for a government **grant** to fund the rest. \"We can **replace** the concrete seawall with something alive,\" she told the council. Ravi, who had once doubted her, raised his hand and agreed to help."
+      },
+      {
+        "title": "A Greener Future",
+        "text": "Three years later, the mangrove forest stretched along two miles of coastline. When the next big storm came, the town survived with minimal damage. Priya told the newspapers, \"Sanjay saved our town. She showed us that one person with a good idea can change everything.\" The town became a model for climate resilience, and Sanjay's story was taught in schools across the country."
+      }
+    ],
+    "wordCount": 268
+  },
+  "definitions": [
+    {
+      "word": "phase",
+      "partOfSpeech": "noun",
+      "meaning1": "A stage or step in a process of change or development. Example: The caterpillar turning into a butterfly is just one phase of its amazing life cycle.",
+      "meaning2": "",
+      "studentChallenge": "Building the new playground is now in its second ___, which involves adding the climbing frame.",
+      "sentence": ""
+    },
+    {
+      "word": "defeat",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To win against someone in a contest or battle. Example: Our team defeated the champions.",
+      "meaning2": "",
+      "studentChallenge": "They celebrated their ___ of the rival team.",
+      "sentence": ""
+    },
+    {
+      "word": "tone",
+      "partOfSpeech": "noun",
+      "meaning1": "The feeling or mood expressed by the way someone speaks or writes. Example: The teacher spoke in a calm and gentle tone to help the nervous student relax.",
+      "meaning2": "A sound or musical note. Example: The phone made a short tone to let me know the message had been sent.",
+      "studentChallenge": "The author's cheerful ___ made the story fun and enjoyable to read.",
+      "sentence": ""
+    },
+    {
+      "word": "grant",
+      "partOfSpeech": "verb",
+      "meaning1": "To give or allow something that has been asked for. Example: The principal agreed to grant the students permission to hold a bake sale.",
+      "meaning2": "A sum of money given for a special purpose (noun). Example: The school received a grant to buy new computers for the lab.",
+      "studentChallenge": "The fairy godmother used her wand to ___ Cinderella's wish to attend the ball.",
+      "sentence": ""
+    },
+    {
+      "word": "method",
+      "partOfSpeech": "noun",
+      "meaning1": "A particular way of doing something. Example: The teacher showed us a new method for solving the problem.",
+      "meaning2": "",
+      "studentChallenge": "What ___ did you use to find the answer?",
+      "sentence": ""
+    },
+    {
+      "word": "replace",
+      "partOfSpeech": "verb",
+      "meaning1": "To put something new in the place of something old, broken, or missing. Example: We had to replace the broken window with a new sheet of glass.",
+      "meaning2": "",
+      "studentChallenge": "The school decided to ___ the old wooden desks with brand-new ones.",
+      "sentence": ""
+    },
+    {
+      "word": "catalog",
+      "partOfSpeech": "noun",
+      "meaning1": "A list of items organized in a specific order, or a book showing things you can buy. Example: We looked through the catalog to choose new books for the school library.",
+      "meaning2": "",
+      "studentChallenge": "The librarian used the ___ to help us find a book about volcanoes.",
+      "sentence": ""
+    },
+    {
+      "word": "disturb",
+      "partOfSpeech": "verb",
+      "meaning1": "To interrupt or bother someone. Example: Please don't disturb me while I'm studying.",
+      "meaning2": "",
+      "studentChallenge": "The loud noise will ___ the sleeping baby.",
+      "sentence": ""
+    },
+    {
+      "word": "label",
+      "partOfSpeech": "noun",
+      "meaning1": "A small piece of paper or tag attached to something that gives information about it. Example: Read the label on the cereal box to find out what ingredients are inside.",
+      "meaning2": "To attach a label to something or describe someone in a simple way. Example: Please label each folder with your name and subject.",
+      "studentChallenge": "The teacher asked us to ___ every part of the plant diagram with the correct name.",
+      "sentence": ""
+    },
+    {
+      "word": "monsoon",
+      "partOfSpeech": "noun",
+      "meaning1": "A seasonal wind that brings very heavy rain to certain parts of the world. Example: The monsoon brought weeks of heavy rain that filled the rivers and watered the crops.",
+      "meaning2": "",
+      "studentChallenge": "Farmers in some countries depend on the ___ rains to water their fields each year.",
+      "sentence": ""
+    },
+    {
+      "word": "intent",
+      "partOfSpeech": "noun, adjective",
+      "meaning1": "A plan or purpose. Example: His intent was to help, not to cause trouble.",
+      "meaning2": "Giving full attention. Example: She was intent on finishing her book.",
+      "studentChallenge": "The student was ___ on getting a perfect score.",
+      "sentence": ""
+    },
+    {
+      "word": "coaxing",
+      "partOfSpeech": "noun",
+      "meaning1": "The act of gently persuading someone to do something. Example: After much coaxing, the puppy finally jumped into the bathtub for his first bath.",
+      "meaning2": "",
+      "studentChallenge": "It took a lot of ___ to get the scared bird to eat from my hand.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The caterpillar turning into a butterfly is just one ___ of its amazing life cycle.",
+      "sentence2": "Building the new playground is now in its second ___, which involves adding the climbing frame.",
+      "options": [
+        "phase",
+        "coaxing",
+        "intent",
+        "grant"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "phase"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Our team worked together and managed to ___ the unbeaten champions in the final match.",
+      "sentence2": "They celebrated their ___ of the rival team with a loud cheer and a victory lap.",
+      "options": [
+        "catalog",
+        "tone",
+        "grant",
+        "defeat"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "defeat"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The teacher spoke in a calm, gentle ___ that helped even the most nervous student relax.",
+      "sentence2": "The author's cheerful ___ made the whole story feel light and fun to read.",
+      "options": [
+        "catalog",
+        "tone",
+        "replace",
+        "disturb"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "tone"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The principal agreed to ___ the students special permission to hold a bake sale after school.",
+      "sentence2": "The fairy godmother used her magic wand to ___ Cinderella's wish to go to the grand ball.",
+      "options": [
+        "tone",
+        "intent",
+        "defeat",
+        "grant"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "grant"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The teacher showed us a step-by-step ___ for solving the math problem without making errors.",
+      "sentence2": "What ___ did you use to find the answer \u2014 did you draw a diagram or use a number line?",
+      "options": [
+        "replace",
+        "monsoon",
+        "disturb",
+        "method"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "method"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "We had to ___ the cracked window with a fresh sheet of clear, new glass.",
+      "sentence2": "The school decided to ___ the old wobbly wooden desks with brand-new ones.",
+      "options": [
+        "coaxing",
+        "catalog",
+        "replace",
+        "tone"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "replace"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "We browsed through the ___ to choose new books for the school library before the order was placed.",
+      "sentence2": "The librarian used the computer ___ to help us find the exact book about volcanoes.",
+      "options": [
+        "catalog",
+        "coaxing",
+        "monsoon",
+        "defeat"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "catalog"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Please don't ___ me while I'm concentrating \u2014 I need quiet to finish this difficult problem.",
+      "sentence2": "The sudden loud noise will ___ the sleeping baby and wake her up from her nap.",
+      "options": [
+        "coaxing",
+        "catalog",
+        "disturb",
+        "monsoon"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "disturb"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Read the ___ on the cereal box carefully to find out exactly what ingredients are inside.",
+      "sentence2": "The teacher asked us to ___ every part of the plant diagram with the correct scientific name.",
+      "options": [
+        "label",
+        "replace",
+        "phase",
+        "coaxing"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "label"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The ___ brought weeks of heavy, pounding rain that filled the rivers and soaked the crops.",
+      "sentence2": "Farmers in India depend on the ___ rains each summer to water their fields and grow enough food.",
+      "options": [
+        "method",
+        "monsoon",
+        "tone",
+        "grant"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "monsoon"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "His ___ was clearly to help, not to cause any trouble \u2014 he just wanted to fix the problem.",
+      "sentence2": "The student was ___ on getting a perfect score, focused completely and not letting anything distract her.",
+      "options": [
+        "replace",
+        "intent",
+        "disturb",
+        "grant"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "intent"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "After much gentle ___, the nervous puppy finally jumped into the bathtub for its very first bath.",
+      "sentence2": "It took a lot of patient ___ to get the frightened bird to eat seeds from my open hand.",
+      "options": [
+        "grant",
+        "tone",
+        "coaxing",
+        "monsoon"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "coaxing"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "phase",
+      "defeat",
+      "tone",
+      "grant",
+      "method",
+      "replace",
+      "catalog",
+      "disturb",
+      "label",
+      "monsoon",
+      "intent",
+      "coaxing"
+    ],
+    "passage": "The coastal village was entering a new _(1)_ \u2014 a fresh chapter in its history that nobody had planned for. The heavy _(2)_ rains had come early that year, pounding the shoreline for weeks without stopping. Sanjay's _(3)_ was clear from the start: she was there to help, not to cause arguments or stir up trouble. Her _(4)_ was warm and steady as she spoke to worried neighbors \u2014 never panicking, always calm and kind. She pulled out a long _(5)_ of local plants, a carefully organized list showing which species were native to the shoreline. Her _(6)_ for protecting the coast was simple but brilliant: plant mangrove trees in three long rows. She worked with gentle _(7)_, quietly persuading even the most doubtful villagers to try something new. The community decided to _(8)_ the crumbling concrete seawall with a living wall of roots and branches. Sanjay knew she could not _(9)_ the natural rhythm of the tides, so she planned every planting session around them. Each sapling received a small _(10)_ \u2014 a little tag giving its species name and the date it was planted. Over time, the government agreed to _(11)_ the village extra funds to expand the mangrove planting to the northern shore as well. The town's greatest _(12)_ was not a sporting rival \u2014 it was the rising sea itself, and the mangroves were finally winning.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "phase",
+        "options": [
+          "phase",
+          "tone",
+          "replace",
+          "coaxing"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "monsoon",
+        "options": [
+          "monsoon",
+          "defeat",
+          "coaxing",
+          "intent"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "intent",
+        "options": [
+          "intent",
+          "phase",
+          "catalog",
+          "grant"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "tone",
+        "options": [
+          "tone",
+          "phase",
+          "method",
+          "disturb"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "catalog",
+        "options": [
+          "catalog",
+          "replace",
+          "grant",
+          "label"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "method",
+        "options": [
+          "method",
+          "tone",
+          "coaxing",
+          "disturb"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "coaxing",
+        "options": [
+          "coaxing",
+          "replace",
+          "label",
+          "phase"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "replace",
+        "options": [
+          "replace",
+          "label",
+          "phase",
+          "disturb"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "disturb",
+        "options": [
+          "disturb",
+          "intent",
+          "method",
+          "grant"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "label",
+        "options": [
+          "label",
+          "grant",
+          "monsoon",
+          "coaxing"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "grant",
+        "options": [
+          "grant",
+          "method",
+          "disturb",
+          "catalog"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "defeat",
+        "options": [
+          "defeat",
+          "disturb",
+          "tone",
+          "catalog"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "phase",
+        "scale": [
+          "stage",
+          "phase",
+          "period"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "defeat",
+        "scale": [
+          "beat",
+          "defeat",
+          "conquer"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "tone",
+        "scale": [
+          "sound",
+          "tone",
+          "pitch"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "grant",
+        "scale": [
+          "give",
+          "grant",
+          "bestow"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "method",
+        "words": [
+          "way",
+          "process",
+          "chaos",
+          "technique"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "chaos"
+      },
+      {
+        "vocabWord": "replace",
+        "words": [
+          "keep",
+          "substitute",
+          "swap",
+          "exchange"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "keep"
+      },
+      {
+        "vocabWord": "catalog",
+        "words": [
+          "list",
+          "disarray",
+          "directory",
+          "index"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "disarray"
+      },
+      {
+        "vocabWord": "disturb",
+        "words": [
+          "calm",
+          "bother",
+          "interrupt",
+          "upset"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "calm"
+      },
+      {
+        "vocabWord": "label",
+        "words": [
+          "hide",
+          "tag",
+          "mark",
+          "sticker"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "hide"
+      },
+      {
+        "vocabWord": "monsoon",
+        "words": [
+          "storm",
+          "rainfall",
+          "downpour",
+          "drought"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "drought"
+      },
+      {
+        "vocabWord": "intent",
+        "words": [
+          "purpose",
+          "aim",
+          "goal",
+          "accident"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "accident"
+      },
+      {
+        "vocabWord": "coaxing",
+        "words": [
+          "persuading",
+          "forcing",
+          "urging",
+          "encouraging"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "forcing"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

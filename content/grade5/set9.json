@@ -1,0 +1,405 @@
+{
+  "grade": 5,
+  "setNumber": 9,
+  "words": [
+    "anguish",
+    "despondent",
+    "foreboding",
+    "remorse",
+    "sullen",
+    "wistful",
+    "agitation",
+    "trepidation",
+    "indifferent",
+    "exasperate",
+    "bewildered",
+    "consolation"
+  ],
+  "sources": [
+    "Common Core Grade 5",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 5",
+    "CKLA Grade 5",
+    "Tier 2 Academic"
+  ],
+  "genre": "coming of age",
+  "story": {
+    "genre": "coming of age",
+    "characters": [
+      "Eloise",
+      "Matias",
+      "Preethi"
+    ],
+    "parts": [
+      {
+        "title": "The Last Summer",
+        "text": "Eloise sat on the porch with a **wistful** look in her eyes, remembering the summers she and her friends had spent catching fireflies. Everything was changing now. Matias was moving across the country, and the thought filled her with a sense of **foreboding**, as though something important was slipping away forever. She felt a deep **anguish** that sat heavy in her chest."
+      },
+      {
+        "title": "The Argument",
+        "text": "When Preethi suggested they throw a goodbye party, Matias became **sullen** and refused to talk about it. His silence began to **exasperate** Preethi, who only wanted to help. Eloise tried to explain, but Matias grew more upset, his **agitation** showing in the way he paced back and forth. Preethi stood there, completely **bewildered** by his reaction."
+      },
+      {
+        "title": "Making Amends",
+        "text": "Later that evening, Matias felt terrible **remorse** for how he had treated his friends. He had been acting **indifferent** when really he was terrified inside. He finally admitted his **trepidation** about starting over at a new school where he knew nobody. He had been so **despondent** that he pushed everyone away. Preethi offered quiet **consolation**, reminding him that true friendships survive any distance."
+      },
+      {
+        "title": "A New Beginning",
+        "text": "On the day Matias left, the three friends stood together and made a promise. They would write letters, video call every weekend, and visit each summer. Eloise realized that growing up did not mean losing the people you love. It meant learning to carry them with you, no matter where life takes you."
+      }
+    ],
+    "wordCount": 234
+  },
+  "definitions": [
+    {
+      "word": "anguish",
+      "partOfSpeech": "noun",
+      "meaning1": "Extreme pain or suffering, especially in the mind or heart. Example: She felt deep anguish when her best friend moved away.",
+      "meaning2": "",
+      "studentChallenge": "The ___ in his voice was clear when he talked about losing his dog.",
+      "sentence": ""
+    },
+    {
+      "word": "despondent",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very sad and without hope. Example: After losing the championship, the team was despondent for days.",
+      "meaning2": "",
+      "studentChallenge": "She became ___ after failing the test she had studied so hard for.",
+      "sentence": ""
+    },
+    {
+      "word": "foreboding",
+      "partOfSpeech": "noun",
+      "meaning1": "A strong feeling that something bad is about to happen. Example: A sense of foreboding filled the room as dark clouds rolled in.",
+      "meaning2": "",
+      "studentChallenge": "A feeling of ___ crept over him as he walked into the dark hallway.",
+      "sentence": ""
+    },
+    {
+      "word": "remorse",
+      "partOfSpeech": "noun",
+      "meaning1": "A deep feeling of regret or guilt for something wrong you have done. Example: He was filled with remorse after saying something hurtful to his sister.",
+      "meaning2": "",
+      "studentChallenge": "She felt great ___ for breaking her promise to her friend.",
+      "sentence": ""
+    },
+    {
+      "word": "sullen",
+      "partOfSpeech": "adjective",
+      "meaning1": "Quiet and bad-tempered; refusing to talk or be friendly. Example: The sullen boy sat in the corner and refused to join the game.",
+      "meaning2": "",
+      "studentChallenge": "After being scolded, the child sat with a ___ expression and would not speak.",
+      "sentence": ""
+    },
+    {
+      "word": "wistful",
+      "partOfSpeech": "adjective",
+      "meaning1": "Feeling a gentle sadness, often because you are thinking about something you wish you still had. Example: She gave a wistful smile when she looked at old photos from summer camp.",
+      "meaning2": "",
+      "studentChallenge": "He had a ___ look on his face as he remembered the house where he grew up.",
+      "sentence": ""
+    },
+    {
+      "word": "agitation",
+      "partOfSpeech": "noun",
+      "meaning1": "A feeling of worry, nervousness, or restlessness that makes it hard to stay calm. Example: Her agitation was obvious as she tapped her foot and checked the clock again and again.",
+      "meaning2": "",
+      "studentChallenge": "His ___ grew as the minutes ticked by and the bus still had not arrived.",
+      "sentence": ""
+    },
+    {
+      "word": "trepidation",
+      "partOfSpeech": "noun",
+      "meaning1": "A feeling of fear or anxiety about something that is going to happen. Example: She approached the stage with trepidation before her first solo performance.",
+      "meaning2": "",
+      "studentChallenge": "He opened the report card with ___, unsure of what his grades would be.",
+      "sentence": ""
+    },
+    {
+      "word": "indifferent",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not caring one way or another; showing no interest or concern. Example: She seemed indifferent about which movie they watched.",
+      "meaning2": "",
+      "studentChallenge": "He acted ___ about the results, but deep down he really cared.",
+      "sentence": ""
+    },
+    {
+      "word": "exasperate",
+      "partOfSpeech": "verb",
+      "meaning1": "To annoy or frustrate someone greatly. Example: The constant interruptions began to exasperate the teacher during the lesson.",
+      "meaning2": "",
+      "studentChallenge": "Her little brother's endless questions started to ___ her while she was trying to study.",
+      "sentence": ""
+    },
+    {
+      "word": "bewildered",
+      "partOfSpeech": "adjective",
+      "meaning1": "Completely confused or puzzled. Example: The bewildered traveler could not figure out which train to take.",
+      "meaning2": "",
+      "studentChallenge": "She was ___ by the strange instructions on the assignment.",
+      "sentence": ""
+    },
+    {
+      "word": "consolation",
+      "partOfSpeech": "noun",
+      "meaning1": "Comfort or encouragement given to someone who is sad or disappointed. Example: Winning second place was a small consolation after coming so close to first.",
+      "meaning2": "",
+      "studentChallenge": "Her kind words were a great ___ during a very difficult time.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "She felt deep _______ when she learned her grandmother was in the hospital.",
+      "sentence2": "The _______ in the mother's eyes was clear as she watched the news about the missing hikers.",
+      "options": ["remorse", "anguish", "consolation", "foreboding"],
+      "correctIndex": 1,
+      "correctAnswer": "anguish"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "After weeks of rain ruined every outdoor plan, the campers felt completely _______.",
+      "sentence2": "He was so _______ about the situation that he could barely get out of bed in the morning.",
+      "options": ["sullen", "wistful", "despondent", "indifferent"],
+      "correctIndex": 2,
+      "correctAnswer": "despondent"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "A sense of _______ hung over the village as the river continued to rise.",
+      "sentence2": "She could not shake the _______ that something was about to go terribly wrong.",
+      "options": ["agitation", "foreboding", "remorse", "trepidation"],
+      "correctIndex": 1,
+      "correctAnswer": "foreboding"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "He felt deep _______ for cheating on the test, even though no one found out.",
+      "sentence2": "Her _______ was so strong that she confessed to breaking the vase, even though she could have stayed quiet.",
+      "options": ["anguish", "consolation", "remorse", "agitation"],
+      "correctIndex": 2,
+      "correctAnswer": "remorse"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The _______ child sat at the back of the room, arms crossed, refusing to participate.",
+      "sentence2": "After the argument, he became _______ and would not say a single word to anyone.",
+      "options": ["bewildered", "sullen", "wistful", "indifferent"],
+      "correctIndex": 1,
+      "correctAnswer": "sullen"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "She gave a _______ sigh as she flipped through the scrapbook from her childhood summers.",
+      "sentence2": "He watched the old house with a _______ expression, wishing he could go back to simpler times.",
+      "options": ["despondent", "sullen", "wistful", "bewildered"],
+      "correctIndex": 2,
+      "correctAnswer": "wistful"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "His _______ was clear from the way he kept pacing and wringing his hands.",
+      "sentence2": "The crowd's growing _______ made the security guards nervous as the wait continued.",
+      "options": ["foreboding", "consolation", "trepidation", "agitation"],
+      "correctIndex": 3,
+      "correctAnswer": "agitation"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "She climbed the ladder with great _______, afraid to look down at the ground below.",
+      "sentence2": "He entered the dentist's office with _______, knowing he had a cavity that needed filling.",
+      "options": ["trepidation", "anguish", "remorse", "agitation"],
+      "correctIndex": 0,
+      "correctAnswer": "trepidation"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "He seemed completely _______ about the outcome of the election and did not bother to vote.",
+      "sentence2": "The cat was _______ to the new toy, choosing to nap instead of play with it.",
+      "options": ["sullen", "despondent", "indifferent", "bewildered"],
+      "correctIndex": 2,
+      "correctAnswer": "indifferent"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The constant noise from the construction site continued to _______ the neighbors all week.",
+      "sentence2": "Her habit of leaving dirty dishes in the sink would _______ her roommate every single day.",
+      "options": ["exasperate", "consolation", "foreboding", "anguish"],
+      "correctIndex": 0,
+      "correctAnswer": "exasperate"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The _______ students stared at the math problem, unable to figure out where to begin.",
+      "sentence2": "She was completely _______ when she arrived at school and found everyone wearing costumes.",
+      "options": ["wistful", "indifferent", "sullen", "bewildered"],
+      "correctIndex": 3,
+      "correctAnswer": "bewildered"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The trophy was little _______ after such a heartbreaking loss in the finals.",
+      "sentence2": "Her grandmother's warm hug provided the _______ she needed after a very hard day.",
+      "options": ["remorse", "consolation", "trepidation", "despondent"],
+      "correctIndex": 1,
+      "correctAnswer": "consolation"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "anguish",
+      "despondent",
+      "foreboding",
+      "remorse",
+      "sullen",
+      "wistful",
+      "agitation",
+      "trepidation",
+      "indifferent",
+      "exasperate",
+      "bewildered",
+      "consolation"
+    ],
+    "passage": "On the morning of her twelfth birthday, Eloise woke up with a feeling of _(1)_, as if something difficult was waiting for her. She had always been _(2)_ about her old neighborhood, gently missing the lemonade stands and bike rides she used to enjoy. But today was different. Her family was moving to a new city, and the _(3)_ she felt was almost unbearable.\n\nMatias, her younger brother, was completely _(4)_ by the moving trucks outside. He did not understand why strangers were carrying away their furniture. Their older cousin Preethi tried to act _(5)_, pretending the move did not bother her, but her shaking hands revealed her true _(6)_.\n\nAs the car pulled away, Matias became _(7)_ and refused to wave goodbye to the neighbors. His mood began to _(8)_ their mother, who was already overwhelmed. Eloise felt _(9)_ for not being stronger for her family. She had been so _(10)_ all week that she had forgotten others were hurting too.\n\nPreethi reached over and squeezed Eloise's hand. It was a small _(11)_, but it meant the world. Eloise took a deep breath, pushing down her _(12)_ about what lay ahead, and looked forward through the windshield toward whatever came next.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "foreboding",
+        "options": ["anguish", "foreboding", "consolation", "remorse"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "wistful",
+        "options": ["sullen", "wistful", "indifferent", "despondent"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "anguish",
+        "options": ["anguish", "agitation", "trepidation", "remorse"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "bewildered",
+        "options": ["bewildered", "sullen", "despondent", "exasperate"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "indifferent",
+        "options": ["wistful", "indifferent", "sullen", "bewildered"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "agitation",
+        "options": ["consolation", "foreboding", "agitation", "remorse"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "sullen",
+        "options": ["despondent", "sullen", "indifferent", "wistful"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "exasperate",
+        "options": ["exasperate", "bewildered", "anguish", "trepidation"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "remorse",
+        "options": ["foreboding", "agitation", "remorse", "consolation"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "despondent",
+        "options": ["sullen", "despondent", "wistful", "indifferent"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "consolation",
+        "options": ["consolation", "trepidation", "anguish", "foreboding"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "trepidation",
+        "options": ["remorse", "exasperate", "trepidation", "agitation"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "anguish",
+        "scale": ["Discomfort", "Distress", "Anguish"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "trepidation",
+        "scale": ["Nervousness", "Trepidation", "Terror"],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "agitation",
+        "scale": ["Unease", "Agitation", "Frenzy"],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "despondent",
+        "scale": ["Sad", "Gloomy", "Despondent"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "anguish",
+        "words": ["Suffering", "Joy", "Torment", "Grief"],
+        "imposterIndex": 1,
+        "imposterWord": "Joy"
+      },
+      {
+        "vocabWord": "sullen",
+        "words": ["Cheerful", "Moody", "Grumpy", "Gloomy"],
+        "imposterIndex": 0,
+        "imposterWord": "Cheerful"
+      },
+      {
+        "vocabWord": "wistful",
+        "words": ["Longing", "Nostalgic", "Yearning", "Content"],
+        "imposterIndex": 3,
+        "imposterWord": "Content"
+      },
+      {
+        "vocabWord": "remorse",
+        "words": ["Guilt", "Regret", "Pride", "Shame"],
+        "imposterIndex": 2,
+        "imposterWord": "Pride"
+      },
+      {
+        "vocabWord": "indifferent",
+        "words": ["Passionate", "Uncaring", "Detached", "Apathetic"],
+        "imposterIndex": 0,
+        "imposterWord": "Passionate"
+      },
+      {
+        "vocabWord": "exasperate",
+        "words": ["Irritate", "Annoy", "Frustrate", "Soothe"],
+        "imposterIndex": 3,
+        "imposterWord": "Soothe"
+      },
+      {
+        "vocabWord": "bewildered",
+        "words": ["Confused", "Perplexed", "Certain", "Puzzled"],
+        "imposterIndex": 2,
+        "imposterWord": "Certain"
+      },
+      {
+        "vocabWord": "consolation",
+        "words": ["Comfort", "Solace", "Relief", "Torment"],
+        "imposterIndex": 3,
+        "imposterWord": "Torment"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

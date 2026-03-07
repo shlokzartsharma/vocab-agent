@@ -1,0 +1,405 @@
+{
+  "grade": 4,
+  "setNumber": 11,
+  "words": [
+    "civilization",
+    "monument",
+    "mythology",
+    "emperor",
+    "artifact",
+    "conquest",
+    "inscription",
+    "relic",
+    "dynasty",
+    "pharaoh",
+    "tyrant",
+    "sacred"
+  ],
+  "sources": [
+    "Common Core Grade 4",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 4",
+    "CKLA Grade 4",
+    "Tier 2 Academic"
+  ],
+  "genre": "ancient Egypt adventure",
+  "story": {
+    "genre": "ancient Egypt adventure",
+    "characters": [
+      "Rashid",
+      "Kira",
+      "Eben"
+    ],
+    "parts": [
+      {
+        "title": "The Hidden Doorway",
+        "text": "Rashid pressed his hand against the cool stone wall and felt it shift. Behind it lay the entrance to a lost **civilization** buried beneath the desert sand. Kira, his cousin, gasped as they stepped inside and saw a tall **monument** carved into the rock. The walls showed scenes from ancient **mythology** — gods with animal heads and golden wings."
+      },
+      {
+        "title": "The Golden Chamber",
+        "text": "Eben, their guide, led them deeper into the tunnels. He explained that a powerful **emperor** had once ruled this land and commanded thousands of workers. They entered a chamber and found a clay **artifact** sitting on a stone shelf. A scroll nearby described the ruler's greatest **conquest** — a battle that united two kingdoms into one."
+      },
+      {
+        "title": "The Secret Room",
+        "text": "Kira spotted an **inscription** carved above a narrow doorway. Inside, a dusty **relic** — a jeweled crown — sat on a pedestal. Eben whispered that it belonged to a long **dynasty** of rulers. The crown's owner was a famous **pharaoh** who was kind, unlike the cruel **tyrant** who came after him. The room felt still and **sacred**, as if it held a power that deserved deep respect."
+      },
+      {
+        "title": "Back to the Surface",
+        "text": "The three explorers carefully made their way back through the tunnels. When they stepped into the bright desert sunlight, Rashid took a deep breath. He knew they had found something incredible. Kira pulled out her notebook and began sketching everything she could remember. Eben smiled and said the world deserved to know about this place."
+      }
+    ],
+    "wordCount": 237
+  },
+  "definitions": [
+    {
+      "word": "civilization",
+      "partOfSpeech": "noun",
+      "meaning1": "A large group of people living together in an organized way with laws, buildings, and culture. Example: The ancient Egyptian civilization built pyramids that still stand today.",
+      "meaning2": "",
+      "studentChallenge": "The Mayan ___ built great cities deep in the jungle.",
+      "sentence": ""
+    },
+    {
+      "word": "monument",
+      "partOfSpeech": "noun",
+      "meaning1": "A statue, building, or structure built to honor a person or event. Example: The town built a monument in the park to honor the soldiers who served in the war.",
+      "meaning2": "",
+      "studentChallenge": "The tall stone ___ in the center of the city honors the country's founders.",
+      "sentence": ""
+    },
+    {
+      "word": "mythology",
+      "partOfSpeech": "noun",
+      "meaning1": "A collection of ancient stories about gods, heroes, and magical creatures. Example: In Greek mythology, Zeus was the king of all the gods.",
+      "meaning2": "",
+      "studentChallenge": "We read stories from Norse ___ about thunder gods and ice giants.",
+      "sentence": ""
+    },
+    {
+      "word": "emperor",
+      "partOfSpeech": "noun",
+      "meaning1": "The ruler of an empire, which is a large area of land with many people. Example: The emperor wore a golden crown and made laws for the entire empire.",
+      "meaning2": "",
+      "studentChallenge": "The ___ ruled over many different lands and peoples from his grand palace.",
+      "sentence": ""
+    },
+    {
+      "word": "artifact",
+      "partOfSpeech": "noun",
+      "meaning1": "An object made by people long ago that tells us about how they lived. Example: The museum displayed a pottery artifact that was over two thousand years old.",
+      "meaning2": "",
+      "studentChallenge": "The archaeologist carefully brushed the dirt off the ancient ___ she found buried in the ground.",
+      "sentence": ""
+    },
+    {
+      "word": "conquest",
+      "partOfSpeech": "noun",
+      "meaning1": "The act of taking over a place or people by force, usually in war. Example: The conquest of the neighboring kingdom took the army three long years.",
+      "meaning2": "",
+      "studentChallenge": "The general planned the ___ of the enemy's capital city very carefully.",
+      "sentence": ""
+    },
+    {
+      "word": "inscription",
+      "partOfSpeech": "noun",
+      "meaning1": "Words or letters carved or written on a surface like stone, metal, or wood. Example: The inscription on the old coin was hard to read because it had worn away over the years.",
+      "meaning2": "",
+      "studentChallenge": "The ___ on the back of the locket said 'With love, forever.'",
+      "sentence": ""
+    },
+    {
+      "word": "relic",
+      "partOfSpeech": "noun",
+      "meaning1": "An object that has survived from a long time ago. Example: The old sword was a relic from a battle fought hundreds of years ago.",
+      "meaning2": "",
+      "studentChallenge": "The dusty shield in the museum is a ___ from the Middle Ages.",
+      "sentence": ""
+    },
+    {
+      "word": "dynasty",
+      "partOfSpeech": "noun",
+      "meaning1": "A series of rulers from the same family who lead a country for a long time. Example: The Ming dynasty ruled China for nearly three hundred years.",
+      "meaning2": "",
+      "studentChallenge": "The powerful ___ passed the throne from parent to child for many generations.",
+      "sentence": ""
+    },
+    {
+      "word": "pharaoh",
+      "partOfSpeech": "noun",
+      "meaning1": "A ruler of ancient Egypt. Example: The pharaoh ordered the construction of a great pyramid as his final resting place.",
+      "meaning2": "",
+      "studentChallenge": "King Tutankhamun was a famous ___ who became ruler at a very young age.",
+      "sentence": ""
+    },
+    {
+      "word": "tyrant",
+      "partOfSpeech": "noun",
+      "meaning1": "A cruel and unfair ruler who uses power to hurt or control others. Example: The people were afraid of the tyrant because he punished anyone who disagreed with him.",
+      "meaning2": "",
+      "studentChallenge": "The villagers wanted to overthrow the ___ who made their lives so difficult.",
+      "sentence": ""
+    },
+    {
+      "word": "sacred",
+      "partOfSpeech": "adjective",
+      "meaning1": "Considered holy or deserving deep respect, often connected to religion or spiritual beliefs. Example: The ancient temple was a sacred place where people came to pray.",
+      "meaning2": "",
+      "studentChallenge": "The old tree in the village was ___ to the people who had lived there for centuries.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The ancient Roman _______ lasted for hundreds of years and built roads that still exist today.",
+      "sentence2": "Scientists study the tools and buildings of each _______ to learn how people lived long ago.",
+      "options": ["dynasty", "monument", "civilization", "relic"],
+      "correctIndex": 2,
+      "correctAnswer": "civilization"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The city built a _______ to remember the brave firefighters who saved many lives.",
+      "sentence2": "The stone _______ in the town square was covered with the names of important leaders.",
+      "options": ["artifact", "monument", "inscription", "conquest"],
+      "correctIndex": 1,
+      "correctAnswer": "monument"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "In Greek _______, Athena was the goddess of wisdom and courage.",
+      "sentence2": "The library had an entire section filled with books about ancient _______ from around the world.",
+      "options": ["mythology", "dynasty", "civilization", "pharaoh"],
+      "correctIndex": 0,
+      "correctAnswer": "mythology"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The _______ sat on a golden throne and gave orders to his generals.",
+      "sentence2": "When the old _______ died, his son took control of the vast empire.",
+      "options": ["tyrant", "pharaoh", "relic", "emperor"],
+      "correctIndex": 3,
+      "correctAnswer": "emperor"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The broken piece of pottery was an _______ from a village that existed over a thousand years ago.",
+      "sentence2": "Each _______ in the museum has a card explaining where it was found and how old it is.",
+      "options": ["artifact", "inscription", "conquest", "monument"],
+      "correctIndex": 0,
+      "correctAnswer": "artifact"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The general celebrated the _______ of the fortress after a long and difficult battle.",
+      "sentence2": "The history book described the _______ of new lands by explorers who sailed across the ocean.",
+      "options": ["dynasty", "sacred", "conquest", "relic"],
+      "correctIndex": 2,
+      "correctAnswer": "conquest"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The _______ on the ancient tomb warned visitors not to disturb the resting place.",
+      "sentence2": "She could barely read the _______ on the old ring because the letters had faded.",
+      "options": ["inscription", "mythology", "artifact", "civilization"],
+      "correctIndex": 0,
+      "correctAnswer": "inscription"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The rusted helmet was a _______ from a war that was fought centuries ago.",
+      "sentence2": "Grandma's old music box is a family _______ that has been passed down for generations.",
+      "options": ["monument", "emperor", "pharaoh", "relic"],
+      "correctIndex": 3,
+      "correctAnswer": "relic"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The Ming _______ ruled China and built the Forbidden City in Beijing.",
+      "sentence2": "The royal _______ ended when the last king had no children to take the throne.",
+      "options": ["dynasty", "tyrant", "conquest", "civilization"],
+      "correctIndex": 0,
+      "correctAnswer": "dynasty"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The _______ commanded workers to build a massive pyramid in the desert.",
+      "sentence2": "Cleopatra was the last _______ to rule ancient Egypt before it became part of Rome.",
+      "options": ["emperor", "tyrant", "pharaoh", "monument"],
+      "correctIndex": 2,
+      "correctAnswer": "pharaoh"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The cruel _______ raised taxes so high that the people could barely afford food.",
+      "sentence2": "The citizens finally stood up to the _______ and demanded fair treatment.",
+      "options": ["sacred", "relic", "tyrant", "inscription"],
+      "correctIndex": 2,
+      "correctAnswer": "tyrant"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The mountain was _______ to the people who believed the gods lived at its peak.",
+      "sentence2": "The old temple was a _______ place where visitors always spoke in whispers.",
+      "options": ["artifact", "sacred", "mythology", "dynasty"],
+      "correctIndex": 1,
+      "correctAnswer": "sacred"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "civilization",
+      "monument",
+      "mythology",
+      "emperor",
+      "artifact",
+      "conquest",
+      "inscription",
+      "relic",
+      "dynasty",
+      "pharaoh",
+      "tyrant",
+      "sacred"
+    ],
+    "passage": "Deep in the desert, a team of explorers uncovered the ruins of a lost _(1)_ that had thrived thousands of years ago. At the center of the ruins stood a tall stone _(2)_ covered in carvings of gods and winged creatures from ancient _(3)_.\n\nA guide explained that a mighty _(4)_ had once ruled this land and commanded an army of thousands. In a dusty chamber, they found a golden _(5)_ — a small statue shaped like a cat. Nearby, a scroll described the ruler's greatest _(6)_ — a battle that brought the entire valley under his control.\n\nAbove a sealed doorway, the team discovered an _(7)_ warning that only royal blood could enter. Inside, a jeweled _(8)_ from the old kingdom — a silver bracelet — sat untouched on a stone shelf. It once belonged to a powerful _(9)_ of rulers who had governed for two hundred years. The first of these rulers was a kind _(10)_ who built schools and gardens, but the last was a cruel _(11)_ who forced his people to work without rest.\n\nThe explorers moved carefully, understanding that this place was _(12)_ — a space that deserved honor and silence.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "civilization",
+        "options": ["dynasty", "civilization", "conquest", "relic"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "monument",
+        "options": ["monument", "artifact", "inscription", "pharaoh"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "mythology",
+        "options": ["sacred", "mythology", "tyrant", "emperor"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "emperor",
+        "options": ["pharaoh", "relic", "emperor", "civilization"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "artifact",
+        "options": ["monument", "conquest", "artifact", "dynasty"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "conquest",
+        "options": ["inscription", "conquest", "mythology", "sacred"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "inscription",
+        "options": ["relic", "tyrant", "inscription", "artifact"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "relic",
+        "options": ["relic", "monument", "emperor", "civilization"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "dynasty",
+        "options": ["conquest", "pharaoh", "dynasty", "sacred"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "pharaoh",
+        "options": ["pharaoh", "mythology", "inscription", "tyrant"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "tyrant",
+        "options": ["artifact", "tyrant", "dynasty", "relic"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "sacred",
+        "options": ["emperor", "civilization", "monument", "sacred"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "sacred",
+        "scale": ["Common", "Important", "Sacred"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "tyrant",
+        "scale": ["Leader", "Bully", "Tyrant"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "conquest",
+        "scale": ["Skirmish", "Battle", "Conquest"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "monument",
+        "scale": ["Marker", "Memorial", "Monument"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "sacred",
+        "words": ["Holy", "Blessed", "Ordinary", "Divine"],
+        "imposterIndex": 2,
+        "imposterWord": "Ordinary"
+      },
+      {
+        "vocabWord": "tyrant",
+        "words": ["Dictator", "Oppressor", "Liberator", "Bully"],
+        "imposterIndex": 2,
+        "imposterWord": "Liberator"
+      },
+      {
+        "vocabWord": "civilization",
+        "words": ["Society", "Culture", "Wilderness", "Community"],
+        "imposterIndex": 2,
+        "imposterWord": "Wilderness"
+      },
+      {
+        "vocabWord": "artifact",
+        "words": ["Treasure", "Replica", "Antique", "Heirloom"],
+        "imposterIndex": 1,
+        "imposterWord": "Replica"
+      },
+      {
+        "vocabWord": "emperor",
+        "words": ["Ruler", "Servant", "Monarch", "King"],
+        "imposterIndex": 1,
+        "imposterWord": "Servant"
+      },
+      {
+        "vocabWord": "dynasty",
+        "words": ["Lineage", "Bloodline", "Outsider", "Heritage"],
+        "imposterIndex": 2,
+        "imposterWord": "Outsider"
+      },
+      {
+        "vocabWord": "relic",
+        "words": ["Remnant", "Keepsake", "Novelty", "Fossil"],
+        "imposterIndex": 2,
+        "imposterWord": "Novelty"
+      },
+      {
+        "vocabWord": "inscription",
+        "words": ["Engraving", "Carving", "Erasure", "Etching"],
+        "imposterIndex": 2,
+        "imposterWord": "Erasure"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

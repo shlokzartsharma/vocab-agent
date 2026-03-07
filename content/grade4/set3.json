@@ -1,0 +1,405 @@
+{
+  "grade": 4,
+  "setNumber": 3,
+  "words": [
+    "vegetation",
+    "barren",
+    "habitat",
+    "erosion",
+    "canopy",
+    "predator",
+    "migrate",
+    "tropical",
+    "wilderness",
+    "fertile",
+    "species",
+    "dense"
+  ],
+  "sources": [
+    "Common Core Grade 4",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 4",
+    "CKLA Grade 4",
+    "Tier 2 Academic"
+  ],
+  "genre": "nature documentary",
+  "story": {
+    "genre": "nature documentary",
+    "characters": [
+      "Maya",
+      "Darius",
+      "Keiko"
+    ],
+    "parts": [
+      {
+        "title": "Into the Wild",
+        "text": "Maya, Darius, and Keiko were filming a nature documentary deep in the **wilderness**. Their cameras captured thick green **vegetation** covering every hill and valley. The soil beneath it was dark and **fertile**, perfect for growing all kinds of plants. Keiko pointed up at the tall tree **canopy** that blocked most of the sunlight from reaching the forest floor."
+      },
+      {
+        "title": "Life in the Forest",
+        "text": "Darius spotted a rare **species** of bird sitting on a mossy branch. Maya explained that this **tropical** forest stayed warm and wet all year long. The trees grew so close together that the forest floor was **dense** and hard to walk through. Every creature here had found a **habitat** that gave it food, water, and shelter to survive."
+      },
+      {
+        "title": "Signs of Change",
+        "text": "Keiko noticed a hillside that looked completely **barren**, with no plants or trees left at all. Heavy rains had caused **erosion**, washing the soil away and leaving bare rock behind. Maya explained that many animals would **migrate** to new areas when their home was damaged. A **predator** like a hawk would follow, hunting the smaller animals that moved to open ground."
+      },
+      {
+        "title": "A Promise to Protect",
+        "text": "That evening, the three friends sat around their campfire and watched the stars appear above the treetops. They agreed that sharing their film could help people understand why forests matter. Darius said he wanted to come back every year to record how the land changed. Maya smiled and said that protecting nature starts with learning about it."
+      }
+    ],
+    "wordCount": 236
+  },
+  "definitions": [
+    {
+      "word": "vegetation",
+      "partOfSpeech": "noun",
+      "meaning1": "Plants and trees that grow in a particular area. Example: The hillside was covered in thick green vegetation after the spring rains.",
+      "meaning2": "",
+      "studentChallenge": "After the rain, the ___ on the mountainside grew tall and green.",
+      "sentence": ""
+    },
+    {
+      "word": "barren",
+      "partOfSpeech": "adjective",
+      "meaning1": "Empty and unable to support plant life. Example: The desert land was dry and barren with no trees in sight.",
+      "meaning2": "",
+      "studentChallenge": "The ___ field had no grass, flowers, or trees growing on it.",
+      "sentence": ""
+    },
+    {
+      "word": "habitat",
+      "partOfSpeech": "noun",
+      "meaning1": "The natural home or environment where a plant or animal lives. Example: A pond is a perfect habitat for frogs and turtles.",
+      "meaning2": "",
+      "studentChallenge": "The coral reef is a ___ for thousands of colorful fish.",
+      "sentence": ""
+    },
+    {
+      "word": "erosion",
+      "partOfSpeech": "noun",
+      "meaning1": "The slow wearing away of soil or rock by water, wind, or ice. Example: Heavy rains caused erosion that washed away the dirt path near our school.",
+      "meaning2": "",
+      "studentChallenge": "The cliffs along the coast are shrinking because of ___ from the ocean waves.",
+      "sentence": ""
+    },
+    {
+      "word": "canopy",
+      "partOfSpeech": "noun",
+      "meaning1": "The top layer of branches and leaves in a forest. Example: The thick canopy of trees kept the forest floor cool and shady.",
+      "meaning2": "A covering that hangs over something for shade or shelter. Example: The canopy over the market stall protected the fruit from the rain.",
+      "studentChallenge": "Monkeys swung from branch to branch high up in the forest ___.",
+      "sentence": ""
+    },
+    {
+      "word": "predator",
+      "partOfSpeech": "noun",
+      "meaning1": "An animal that hunts and eats other animals. Example: The lion is a fierce predator that hunts zebras on the plains.",
+      "meaning2": "",
+      "studentChallenge": "The owl is a nighttime ___ that catches mice in the dark.",
+      "sentence": ""
+    },
+    {
+      "word": "migrate",
+      "partOfSpeech": "verb",
+      "meaning1": "To move from one place to another, usually when seasons change. Example: Many birds migrate south when winter comes.",
+      "meaning2": "",
+      "studentChallenge": "Every autumn, the geese ___ to warmer places for the winter.",
+      "sentence": ""
+    },
+    {
+      "word": "tropical",
+      "partOfSpeech": "adjective",
+      "meaning1": "Relating to the hot, wet areas near the equator. Example: Tropical forests get lots of rain and stay warm all year round.",
+      "meaning2": "",
+      "studentChallenge": "The ___ island had palm trees, warm beaches, and colorful parrots.",
+      "sentence": ""
+    },
+    {
+      "word": "wilderness",
+      "partOfSpeech": "noun",
+      "meaning1": "A wild, natural area where few or no people live. Example: The hikers explored the wilderness far from any town or road.",
+      "meaning2": "",
+      "studentChallenge": "They paddled their canoe deep into the ___ where there were no houses or roads.",
+      "sentence": ""
+    },
+    {
+      "word": "fertile",
+      "partOfSpeech": "adjective",
+      "meaning1": "Rich and good for growing plants. Example: The farmer planted seeds in the fertile soil near the river.",
+      "meaning2": "",
+      "studentChallenge": "Crops grow easily in the ___ valley because the soil is so rich.",
+      "sentence": ""
+    },
+    {
+      "word": "species",
+      "partOfSpeech": "noun",
+      "meaning1": "A group of living things that are the same kind and can produce young together. Example: Scientists discovered a new species of frog in the rainforest.",
+      "meaning2": "",
+      "studentChallenge": "The zoo is home to over fifty different ___ of birds from around the world.",
+      "sentence": ""
+    },
+    {
+      "word": "dense",
+      "partOfSpeech": "adjective",
+      "meaning1": "Closely packed together; thick. Example: The fog was so dense that we could not see the road ahead.",
+      "meaning2": "",
+      "studentChallenge": "The ___ jungle was full of vines and bushes that made it hard to walk.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The hillside was covered in thick green _______ that grew taller after every rainstorm.",
+      "sentence2": "Without any _______ to hold the soil in place, the dirt washed away quickly.",
+      "options": ["erosion", "vegetation", "canopy", "habitat"],
+      "correctIndex": 1,
+      "correctAnswer": "vegetation"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The dry, _______ land stretched for miles without a single tree or blade of grass.",
+      "sentence2": "After the wildfire, the once-green forest looked completely _______ and empty.",
+      "options": ["barren", "dense", "tropical", "fertile"],
+      "correctIndex": 0,
+      "correctAnswer": "barren"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The wetland is an important _______ for ducks, herons, and many other birds.",
+      "sentence2": "When a _______ is destroyed, the animals living there must find a new home.",
+      "options": ["species", "wilderness", "habitat", "canopy"],
+      "correctIndex": 2,
+      "correctAnswer": "habitat"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Over many years, _______ carved a deep canyon through the rocky landscape.",
+      "sentence2": "Planting trees along the riverbank can help prevent _______ of the soil.",
+      "options": ["vegetation", "erosion", "predator", "wilderness"],
+      "correctIndex": 1,
+      "correctAnswer": "erosion"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The thick forest _______ blocked the sunlight and kept the ground cool and damp.",
+      "sentence2": "Colorful birds nested high in the _______ where they were safe from animals below.",
+      "options": ["canopy", "habitat", "vegetation", "species"],
+      "correctIndex": 0,
+      "correctAnswer": "canopy"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The eagle is a powerful _______ that can spot a rabbit from high in the sky.",
+      "sentence2": "A _______ must be fast and strong to catch its prey in the wild.",
+      "options": ["species", "predator", "habitat", "wilderness"],
+      "correctIndex": 1,
+      "correctAnswer": "predator"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Every fall, monarch butterflies _______ thousands of miles to reach warmer lands.",
+      "sentence2": "The caribou _______ across the frozen tundra each spring to find fresh grass.",
+      "options": ["migrate", "barren", "dense", "fertile"],
+      "correctIndex": 0,
+      "correctAnswer": "migrate"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The _______ rainforest receives heavy rainfall nearly every day of the year.",
+      "sentence2": "Pineapples and mangoes grow best in _______ climates where it is always warm.",
+      "options": ["barren", "dense", "tropical", "fertile"],
+      "correctIndex": 2,
+      "correctAnswer": "tropical"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The national park protects miles of untouched _______ where animals roam freely.",
+      "sentence2": "Lost in the _______, the explorers had to use a compass to find their way back.",
+      "options": ["canopy", "erosion", "vegetation", "wilderness"],
+      "correctIndex": 3,
+      "correctAnswer": "wilderness"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The _______ farmland produced huge crops of corn and wheat every summer.",
+      "sentence2": "River floods leave behind rich, _______ mud that helps plants grow strong.",
+      "options": ["tropical", "barren", "fertile", "dense"],
+      "correctIndex": 2,
+      "correctAnswer": "fertile"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Scientists found a new _______ of lizard that had never been seen before.",
+      "sentence2": "Each _______ of whale has its own unique song that it uses to communicate.",
+      "options": ["predator", "species", "habitat", "erosion"],
+      "correctIndex": 1,
+      "correctAnswer": "species"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The _______ fog made it impossible to see more than a few feet ahead.",
+      "sentence2": "The jungle was so _______ with trees and vines that sunlight barely reached the ground.",
+      "options": ["migrate", "vegetation", "dense", "canopy"],
+      "correctIndex": 2,
+      "correctAnswer": "dense"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "vegetation",
+      "barren",
+      "habitat",
+      "erosion",
+      "canopy",
+      "predator",
+      "migrate",
+      "tropical",
+      "wilderness",
+      "fertile",
+      "species",
+      "dense"
+    ],
+    "passage": "Dr. Reena set out on a journey through the _(1)_ to study the animals and plants that lived far from any city. She traveled to a _(2)_ island near the equator, where warm rain fell almost every day. The forest there was incredibly _(3)_, with trees and bushes packed so tightly together that she had to cut a path with her machete.\n\nHigh above her, the _(4)_ of leaves blocked out the sky. Below, the _(5)_ was thick and green, covering every inch of the forest floor. The soil was dark and _(6)_, perfect for growing things. Dr. Reena spotted a rare _(7)_ of monkey swinging through the branches — one that scientists had only recently discovered.\n\nShe also found a clearing where the land was _(8)_ and lifeless. Years of _(9)_ from heavy rains had washed the soil away, leaving nothing but rock. Without plants for food, many animals had started to _(10)_ to other parts of the forest. She even saw a _(11)_ — a large jungle cat — watching from behind a fallen tree, waiting for smaller animals to pass.\n\nDr. Reena wrote in her notebook that protecting each animal's _(12)_ was the most important thing people could do for the natural world.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "wilderness",
+        "options": ["wilderness", "habitat", "canopy", "erosion"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "tropical",
+        "options": ["barren", "tropical", "fertile", "dense"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "dense",
+        "options": ["dense", "barren", "tropical", "fertile"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "canopy",
+        "options": ["vegetation", "canopy", "habitat", "species"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "vegetation",
+        "options": ["erosion", "predator", "vegetation", "wilderness"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "fertile",
+        "options": ["barren", "fertile", "dense", "tropical"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "species",
+        "options": ["predator", "species", "habitat", "canopy"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "barren",
+        "options": ["fertile", "dense", "barren", "vegetation"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "erosion",
+        "options": ["erosion", "migrate", "wilderness", "species"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "migrate",
+        "options": ["migrate", "predator", "canopy", "habitat"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "predator",
+        "options": ["species", "vegetation", "predator", "erosion"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "habitat",
+        "options": ["wilderness", "habitat", "migrate", "tropical"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "dense",
+        "scale": ["Thin", "Thick", "Dense"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "barren",
+        "scale": ["Barren", "Sparse", "Lush"],
+        "vocabPosition": 0
+      },
+      {
+        "vocabWord": "fertile",
+        "scale": ["Poor", "Decent", "Fertile"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "erosion",
+        "scale": ["Weathering", "Wearing", "Erosion"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "vegetation",
+        "words": ["Plants", "Bare", "Greenery", "Flora"],
+        "imposterIndex": 1,
+        "imposterWord": "Bare"
+      },
+      {
+        "vocabWord": "predator",
+        "words": ["Hunter", "Prey", "Stalker", "Chaser"],
+        "imposterIndex": 1,
+        "imposterWord": "Prey"
+      },
+      {
+        "vocabWord": "migrate",
+        "words": ["Travel", "Stay", "Journey", "Move"],
+        "imposterIndex": 1,
+        "imposterWord": "Stay"
+      },
+      {
+        "vocabWord": "tropical",
+        "words": ["Warm", "Freezing", "Humid", "Sunny"],
+        "imposterIndex": 1,
+        "imposterWord": "Freezing"
+      },
+      {
+        "vocabWord": "wilderness",
+        "words": ["City", "Wilds", "Jungle", "Backcountry"],
+        "imposterIndex": 0,
+        "imposterWord": "City"
+      },
+      {
+        "vocabWord": "canopy",
+        "words": ["Cover", "Shelter", "Floor", "Roof"],
+        "imposterIndex": 2,
+        "imposterWord": "Floor"
+      },
+      {
+        "vocabWord": "habitat",
+        "words": ["Home", "Shelter", "Environment", "Exile"],
+        "imposterIndex": 3,
+        "imposterWord": "Exile"
+      },
+      {
+        "vocabWord": "species",
+        "words": ["Kind", "Type", "Breed", "Individual"],
+        "imposterIndex": 3,
+        "imposterWord": "Individual"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

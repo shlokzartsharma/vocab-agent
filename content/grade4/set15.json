@@ -1,0 +1,401 @@
+{
+  "grade": 4,
+  "setNumber": 15,
+  "words": [
+    "architect",
+    "foundation",
+    "construct",
+    "colossal",
+    "scaffold",
+    "renovation",
+    "chamber",
+    "column",
+    "spacious",
+    "corridor",
+    "symmetry",
+    "ornate"
+  ],
+  "sources": [
+    "Common Core Grade 4",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 4",
+    "CKLA Grade 4",
+    "Tier 2 Academic"
+  ],
+  "genre": "building project",
+  "story": {
+    "genre": "building project",
+    "characters": ["Tariq", "Elara", "Wen"],
+    "parts": [
+      {
+        "title": "The Grand Idea",
+        "text": "Tariq, Elara, and Wen stood in the empty lot behind their school. Their town needed a new community center, and the mayor had asked young people to share ideas. Tariq dreamed of being an **architect** someday, so he grabbed a notebook and started sketching. Elara pointed to the ground and said every great building needs a strong **foundation** first. Wen nodded — they were ready to **construct** something amazing together."
+      },
+      {
+        "title": "Planning It Out",
+        "text": "Tariq drew a **colossal** building with tall windows and wide doors. Workers would need a **scaffold** to reach the highest parts safely. Elara suggested a **renovation** of the old brick wall nearby so it could become part of the new design. Wen sketched a secret **chamber** hidden behind a bookshelf where kids could read quietly."
+      },
+      {
+        "title": "Building Day",
+        "text": "On building day, a tall **column** rose at the entrance, holding up a curved roof. Inside, the main hall was bright and **spacious**, with room for hundreds of people. A long **corridor** connected the main hall to the classrooms. Elara made sure both sides of the building had perfect **symmetry**, so it looked balanced and beautiful. Wen added **ornate** carvings of leaves and birds above every doorway."
+      },
+      {
+        "title": "A Place for Everyone",
+        "text": "When the ribbon was cut, the whole town walked inside and gasped. Families explored every room, and children ran through the halls laughing. Tariq, Elara, and Wen looked at each other and smiled. They had turned an empty lot into a place where everyone belonged."
+      }
+    ],
+    "wordCount": 230
+  },
+  "definitions": [
+    {
+      "word": "architect",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who designs buildings and makes plans for how they should be built. Example: The architect drew detailed pictures of the new library before construction began.",
+      "meaning2": "",
+      "studentChallenge": "The ___ showed us a drawing of what the new school would look like.",
+      "sentence": ""
+    },
+    {
+      "word": "foundation",
+      "partOfSpeech": "noun",
+      "meaning1": "The strong base that holds up a building from underneath. Example: The workers poured concrete to make a solid foundation for the house.",
+      "meaning2": "The basis or starting point for something. Example: Reading every day builds a strong foundation for learning.",
+      "studentChallenge": "Before the walls went up, the crew had to lay a strong ___.",
+      "sentence": ""
+    },
+    {
+      "word": "construct",
+      "partOfSpeech": "verb",
+      "meaning1": "To build or put together something by joining parts. Example: The crew worked all summer to construct the new bridge over the river.",
+      "meaning2": "",
+      "studentChallenge": "It took the workers six months to ___ the new playground.",
+      "sentence": ""
+    },
+    {
+      "word": "colossal",
+      "partOfSpeech": "adjective",
+      "meaning1": "Extremely large or enormous. Example: The colossal statue could be seen from miles away.",
+      "meaning2": "",
+      "studentChallenge": "The whale was so ___ that it made the boat look tiny.",
+      "sentence": ""
+    },
+    {
+      "word": "scaffold",
+      "partOfSpeech": "noun",
+      "meaning1": "A temporary frame made of metal poles and wooden boards that workers stand on while building or repairing a tall structure. Example: The painters climbed the scaffold to reach the top of the church wall.",
+      "meaning2": "",
+      "studentChallenge": "The workers stood on a ___ to paint the outside of the tall building.",
+      "sentence": ""
+    },
+    {
+      "word": "renovation",
+      "partOfSpeech": "noun",
+      "meaning1": "The process of repairing and improving an old building so it looks new again. Example: After the renovation, the old theater looked brand new and beautiful.",
+      "meaning2": "",
+      "studentChallenge": "The ___ of the old library took three months and cost a lot of money.",
+      "sentence": ""
+    },
+    {
+      "word": "chamber",
+      "partOfSpeech": "noun",
+      "meaning1": "A room, especially one used for a particular purpose. Example: The king held meetings in a large chamber inside the castle.",
+      "meaning2": "An enclosed space inside something. Example: The heart has four chambers that pump blood through the body.",
+      "studentChallenge": "The explorers found a hidden ___ behind a stone wall in the cave.",
+      "sentence": ""
+    },
+    {
+      "word": "column",
+      "partOfSpeech": "noun",
+      "meaning1": "A tall, solid pillar that helps hold up a building or stands as a decoration. Example: The museum entrance had four marble columns on each side.",
+      "meaning2": "A vertical section of a page or chart. Example: Write your name at the top of the first column on the worksheet.",
+      "studentChallenge": "Each ___ at the front of the building was carved from a single piece of stone.",
+      "sentence": ""
+    },
+    {
+      "word": "spacious",
+      "partOfSpeech": "adjective",
+      "meaning1": "Having a lot of room or space inside. Example: The new apartment was so spacious that their furniture only filled half of it.",
+      "meaning2": "",
+      "studentChallenge": "The gym was ___ enough to hold the entire school for the assembly.",
+      "sentence": ""
+    },
+    {
+      "word": "corridor",
+      "partOfSpeech": "noun",
+      "meaning1": "A long, narrow hallway or passage in a building. Example: Students walked down the corridor to get from the cafeteria to the art room.",
+      "meaning2": "",
+      "studentChallenge": "The ___ between the classrooms was decorated with student artwork.",
+      "sentence": ""
+    },
+    {
+      "word": "symmetry",
+      "partOfSpeech": "noun",
+      "meaning1": "When both sides of something look the same or are balanced. Example: The butterfly's wings had perfect symmetry, with matching patterns on each side.",
+      "meaning2": "",
+      "studentChallenge": "The artist used ___ to make both halves of the painting look exactly alike.",
+      "sentence": ""
+    },
+    {
+      "word": "ornate",
+      "partOfSpeech": "adjective",
+      "meaning1": "Decorated with lots of fancy, detailed designs. Example: The ornate picture frame had tiny gold flowers carved into every corner.",
+      "meaning2": "",
+      "studentChallenge": "The old clock on the wall was ___, with swirls and patterns covering every inch.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The famous _______ designed a building shaped like a giant seashell.",
+      "sentence2": "My aunt is an _______ who creates floor plans for hospitals and schools.",
+      "options": ["scaffold", "architect", "corridor", "column"],
+      "correctIndex": 1,
+      "correctAnswer": "architect"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The workers poured concrete to create a solid _______ before building the walls.",
+      "sentence2": "Learning your letters is the _______ for becoming a strong reader.",
+      "options": ["foundation", "renovation", "symmetry", "chamber"],
+      "correctIndex": 0,
+      "correctAnswer": "foundation"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The class worked together to _______ a model castle out of cardboard and glue.",
+      "sentence2": "It will take two years to _______ the new highway through the mountains.",
+      "options": ["ornate", "construct", "spacious", "colossal"],
+      "correctIndex": 1,
+      "correctAnswer": "construct"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The _______ waterfall thundered so loudly we had to shout to hear each other.",
+      "sentence2": "A _______ dinosaur skeleton filled the entire entrance hall of the museum.",
+      "options": ["colossal", "ornate", "spacious", "corridor"],
+      "correctIndex": 0,
+      "correctAnswer": "colossal"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The painters climbed the _______ to reach the ceiling of the tall church.",
+      "sentence2": "A _______ wrapped around the outside of the building so workers could repair the roof.",
+      "options": ["column", "foundation", "scaffold", "symmetry"],
+      "correctIndex": 2,
+      "correctAnswer": "scaffold"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "After the _______, the crumbling old theater looked brand new again.",
+      "sentence2": "The school's _______ included fresh paint, new floors, and better lighting.",
+      "options": ["renovation", "architect", "corridor", "chamber"],
+      "correctIndex": 0,
+      "correctAnswer": "renovation"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The queen's private _______ was filled with silk curtains and golden mirrors.",
+      "sentence2": "Scientists discovered a hidden _______ deep inside the ancient pyramid.",
+      "options": ["scaffold", "foundation", "column", "chamber"],
+      "correctIndex": 3,
+      "correctAnswer": "chamber"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "A tall stone _______ stood at each corner of the old temple.",
+      "sentence2": "The _______ in front of the courthouse was so wide that three people could hide behind it.",
+      "options": ["column", "corridor", "ornate", "construct"],
+      "correctIndex": 0,
+      "correctAnswer": "column"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The _______ living room had plenty of space for the whole family to spread out.",
+      "sentence2": "We chose the most _______ tent at the store so everyone could sleep comfortably.",
+      "options": ["colossal", "spacious", "ornate", "symmetry"],
+      "correctIndex": 1,
+      "correctAnswer": "spacious"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The long _______ echoed with footsteps as students hurried to class.",
+      "sentence2": "A narrow _______ connected the old wing of the hospital to the new one.",
+      "options": ["foundation", "corridor", "scaffold", "architect"],
+      "correctIndex": 1,
+      "correctAnswer": "corridor"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The butterfly's wings showed perfect _______, with the same colors on both sides.",
+      "sentence2": "The garden was planted with careful _______, so the left side mirrored the right.",
+      "options": ["renovation", "chamber", "symmetry", "construct"],
+      "correctIndex": 2,
+      "correctAnswer": "symmetry"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The _______ gate was covered with swirling iron vines and tiny metal flowers.",
+      "sentence2": "Grandma's _______ jewelry box had detailed carvings of birds on every side.",
+      "options": ["spacious", "colossal", "ornate", "column"],
+      "correctIndex": 2,
+      "correctAnswer": "ornate"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "architect",
+      "foundation",
+      "construct",
+      "colossal",
+      "scaffold",
+      "renovation",
+      "chamber",
+      "column",
+      "spacious",
+      "corridor",
+      "symmetry",
+      "ornate"
+    ],
+    "passage": "Last summer, our town hired a famous _(1)_ to design a new museum. She explained that the first step was to pour a strong _(2)_ so the building would stand for a hundred years. Workers arrived with trucks and tools, ready to _(3)_ something the whole town could be proud of.\n\nThe plans showed a _(4)_ entrance hall with ceilings as high as a gymnasium. A tall _(5)_ was set up outside so workers could safely reach the upper walls. The town also approved a _(6)_ of the old clock tower next door, giving it fresh bricks and clean windows.\n\nInside the museum, a special _(7)_ was built to display rare gemstones behind thick glass. A marble _(8)_ stood on each side of the main doorway, holding up a stone arch. The hall felt _(9)_ and open, with sunlight pouring in from skylights above. A long _(10)_ led visitors from the gem room all the way to the art gallery.\n\nThe designer paid close attention to _(11)_, making sure both wings of the building matched perfectly. Finally, artists added _(12)_ details to the walls — golden swirls, painted leaves, and tiny carved stars that sparkled in the light.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "architect",
+        "options": ["architect", "scaffold", "corridor", "renovation"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "foundation",
+        "options": ["column", "foundation", "chamber", "symmetry"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "construct",
+        "options": ["ornate", "construct", "colossal", "spacious"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "colossal",
+        "options": ["colossal", "architect", "scaffold", "corridor"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "scaffold",
+        "options": ["foundation", "renovation", "scaffold", "chamber"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "renovation",
+        "options": ["renovation", "construct", "symmetry", "column"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "chamber",
+        "options": ["spacious", "ornate", "chamber", "architect"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "column",
+        "options": ["column", "corridor", "foundation", "scaffold"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "spacious",
+        "options": ["colossal", "spacious", "renovation", "construct"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "corridor",
+        "options": ["symmetry", "chamber", "corridor", "ornate"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "symmetry",
+        "options": ["architect", "symmetry", "column", "foundation"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "ornate",
+        "options": ["ornate", "scaffold", "spacious", "colossal"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "colossal",
+        "scale": ["Small", "Large", "Colossal"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "spacious",
+        "scale": ["Cramped", "Roomy", "Spacious"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "ornate",
+        "scale": ["Plain", "Decorated", "Ornate"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "construct",
+        "scale": ["Plan", "Build", "Construct"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "colossal",
+        "words": ["Enormous", "Tiny", "Massive", "Gigantic"],
+        "imposterIndex": 1,
+        "imposterWord": "Tiny"
+      },
+      {
+        "vocabWord": "foundation",
+        "words": ["Base", "Rooftop", "Groundwork", "Support"],
+        "imposterIndex": 1,
+        "imposterWord": "Rooftop"
+      },
+      {
+        "vocabWord": "spacious",
+        "words": ["Open", "Roomy", "Wide", "Cramped"],
+        "imposterIndex": 3,
+        "imposterWord": "Cramped"
+      },
+      {
+        "vocabWord": "ornate",
+        "words": ["Fancy", "Detailed", "Plain", "Elaborate"],
+        "imposterIndex": 2,
+        "imposterWord": "Plain"
+      },
+      {
+        "vocabWord": "corridor",
+        "words": ["Hallway", "Passage", "Dead end", "Walkway"],
+        "imposterIndex": 2,
+        "imposterWord": "Dead end"
+      },
+      {
+        "vocabWord": "symmetry",
+        "words": ["Balance", "Unevenness", "Harmony", "Mirror"],
+        "imposterIndex": 1,
+        "imposterWord": "Unevenness"
+      },
+      {
+        "vocabWord": "renovation",
+        "words": ["Restoration", "Improvement", "Repair", "Demolition"],
+        "imposterIndex": 3,
+        "imposterWord": "Demolition"
+      },
+      {
+        "vocabWord": "construct",
+        "words": ["Build", "Assemble", "Create", "Destroy"],
+        "imposterIndex": 3,
+        "imposterWord": "Destroy"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

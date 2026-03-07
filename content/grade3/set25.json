@@ -1,0 +1,590 @@
+{
+  "grade": 3,
+  "setNumber": 25,
+  "words": [
+    "treasure",
+    "noble",
+    "canvas",
+    "stranded",
+    "unusual",
+    "explore",
+    "barber",
+    "expert",
+    "gleam",
+    "resist",
+    "tradition",
+    "advice"
+  ],
+  "sources": [
+    "Australian Curriculum",
+    "CBSE India",
+    "Common Core Grade 3",
+    "Common Core Grade 4",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Flocabulary Grade 4",
+    "Flocabulary Grade 5",
+    "Tier 2 Academic",
+    "Wit & Wisdom Grade 3",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "Indian folktale",
+  "story": {
+    "genre": "Indian folktale",
+    "characters": [
+      "Aarav",
+      "Chloe",
+      "Yuki"
+    ],
+    "parts": [
+      {
+        "title": "The Village by the River",
+        "text": "Long ago, in a village nestled between green hills, there lived a young girl named Aarav. She was known for her **noble** heart \u2014 always honest and quick to help others. It was a village **tradition** to paint prayers on stretched **canvas** before the harvest, and Aarav's paintings were the most beautiful of all, made to **gleam** in the morning light with threads of gold.",
+        "wordCount": 64
+      },
+      {
+        "title": "The Gathering Storm",
+        "text": "One afternoon, dark clouds rolled in and a terrible storm struck the village. Chloe, the village elder, said it was **unusual** \u2014 she had never seen rain so fierce in spring. The **barber** who lived by the river was **stranded** when the bridge washed away, unable to reach his family. Aarav could not **resist** helping; she began to **explore** the hillside for a safe path to guide him home.",
+        "wordCount": 70
+      },
+      {
+        "title": "The Discovery",
+        "text": "On the hillside, Aarav found something remarkable \u2014 a hollow tree full of old coins that **gleam**ed even in the grey storm light. She called Yuki, an **expert** healer from the next village, who had come to help after the flood. Chloe gave Aarav her best **advice**: share the **treasure** with those whose homes had been destroyed.",
+        "wordCount": 59
+      },
+      {
+        "title": "The Lesson",
+        "text": "Aarav nursed the bird for seven days, following a careful schedule and using herbs her grandmother taught her about. When the bird finally spread its wings and soared into the sky, the whole village cheered. The elder Chloe smiled and said, \"The greatest strength is gentleness. Even the most delicate creature can survive the worst storm if someone cares enough to help.\" Aarav never forgot that lesson. She grew up to become the village healer, and people traveled from far away to seek her superb care.",
+        "wordCount": 87
+      }
+    ],
+    "wordCount": 280
+  },
+  "definitions": [
+    {
+      "word": "treasure",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "Very valuable things, like gold or jewels. Example: The pirates buried their treasure on the island.",
+      "meaning2": "To value something greatly. Example: She treasured the necklace from her grandmother.",
+      "studentChallenge": "The old map showed where the ___ was hidden.",
+      "sentence": ""
+    },
+    {
+      "word": "noble",
+      "partOfSpeech": "adjective",
+      "meaning1": "Having high moral qualities; honorable. Example: It was a noble act to help the stranger.",
+      "meaning2": "Belonging to royalty. Example: The noble family lived in the castle.",
+      "studentChallenge": "Saving the drowning puppy was a ___ deed.",
+      "sentence": ""
+    },
+    {
+      "word": "canvas",
+      "partOfSpeech": "noun",
+      "meaning1": "A strong, heavy cloth used for painting on or making tents. Example: The artist set up a blank canvas on her easel and began to paint a sunset.",
+      "meaning2": "",
+      "studentChallenge": "The painter dipped her brush in blue paint and swept it across the ___ to create an ocean scene.",
+      "sentence": ""
+    },
+    {
+      "word": "stranded",
+      "partOfSpeech": "adjective",
+      "meaning1": "Left in a place with no way to leave or get help. Example: The sailors were stranded on a tiny island after their boat sank in the storm.",
+      "meaning2": "",
+      "studentChallenge": "We were ___ at the airport for hours because our flight was canceled due to fog.",
+      "sentence": ""
+    },
+    {
+      "word": "unusual",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not common or ordinary; different from what is expected. Example: It was unusual to see snow in April, so the kids were surprised and excited.",
+      "meaning2": "",
+      "studentChallenge": "The ___ rock she found on the beach was shaped exactly like a heart.",
+      "sentence": ""
+    },
+    {
+      "word": "explore",
+      "partOfSpeech": "verb",
+      "meaning1": "To travel through an unfamiliar area to learn about it. Example: The astronauts explored the surface of the Moon.",
+      "meaning2": "",
+      "studentChallenge": "We love to ___ the forest behind our house.",
+      "sentence": ""
+    },
+    {
+      "word": "barber",
+      "partOfSpeech": "noun",
+      "meaning1": "A person whose job is to cut hair, especially men's and boys' hair. Example: The barber trimmed my hair and gave me a neat, clean haircut for picture day.",
+      "meaning2": "",
+      "studentChallenge": "Every month, Dad takes my brother to the ___ for a fresh haircut.",
+      "sentence": ""
+    },
+    {
+      "word": "expert",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who knows a great deal about a certain subject. Example: The wildlife expert told us fascinating facts about how wolves communicate.",
+      "meaning2": "",
+      "studentChallenge": "My grandmother is an ___ at knitting and can make a sweater in just two days.",
+      "sentence": ""
+    },
+    {
+      "word": "gleam",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To shine with a soft light. Example: The moonlight gleamed on the lake.",
+      "meaning2": "",
+      "studentChallenge": "The gold coins ___ in the treasure chest.",
+      "sentence": ""
+    },
+    {
+      "word": "resist",
+      "partOfSpeech": "verb",
+      "meaning1": "To fight against something or refuse to accept it; to stop yourself from doing something. Example: It was hard to resist eating another slice of the delicious chocolate cake.",
+      "meaning2": "",
+      "studentChallenge": "She tried to ___ the urge to peek at her birthday presents hidden under the stairs.",
+      "sentence": ""
+    },
+    {
+      "word": "tradition",
+      "partOfSpeech": "noun",
+      "meaning1": "A custom or belief passed down through generations. Example: Decorating the tree is a holiday tradition.",
+      "meaning2": "",
+      "studentChallenge": "Our family ___ is to eat dinner together every Sunday.",
+      "sentence": ""
+    },
+    {
+      "word": "advice",
+      "partOfSpeech": "noun",
+      "meaning1": "Suggestions about what someone should do. Example: My grandmother always gives good advice.",
+      "meaning2": "",
+      "studentChallenge": "What ___ would you give to a new student?",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The pirates buried their ___ \u2014 gold coins and rubies \u2014 deep beneath the island sand.",
+      "sentence2": "The tattered old map showed exactly where the ___ chest had been hidden centuries ago.",
+      "options": [
+        "noble",
+        "stranded",
+        "gleam",
+        "treasure"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "treasure"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "It was a ___ act to dive into the river and help the stranger \u2014 selfless and brave.",
+      "sentence2": "Running back to return the lost wallet without taking a single coin was a ___ deed.",
+      "options": [
+        "noble",
+        "expert",
+        "unusual",
+        "tradition"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "noble"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The artist stretched a blank ___ over a wooden frame and began painting a glowing sunset.",
+      "sentence2": "She dipped her brush in blue paint and swept broad strokes across the ___ to create a calm sea.",
+      "options": [
+        "unusual",
+        "tradition",
+        "canvas",
+        "stranded"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "canvas"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The sailors were ___ on a tiny island after their boat sank \u2014 no rescue for three days.",
+      "sentence2": "We were ___ at the airport for six hours with no way to leave after all flights were grounded.",
+      "options": [
+        "barber",
+        "noble",
+        "stranded",
+        "tradition"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "stranded"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "It was ___ to see snow falling in April \u2014 something so rare that the whole street stopped to stare.",
+      "sentence2": "The ___ rock she found at the beach was shaped exactly like a heart, unlike any rock she had ever seen.",
+      "options": [
+        "expert",
+        "noble",
+        "barber",
+        "unusual"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "unusual"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The astronauts ___ the surface of the Moon, collecting rock samples and studying the landscape.",
+      "sentence2": "We love to ___ the forest behind our house, discovering new trails and spotting wildlife.",
+      "options": [
+        "resist",
+        "explore",
+        "advice",
+        "gleam"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "explore"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The ___ trimmed my hair neatly and even gave me a clean part on the side for picture day.",
+      "sentence2": "Every month, Dad takes my brother to the ___ on the corner for a fresh, tidy haircut.",
+      "options": [
+        "explore",
+        "barber",
+        "stranded",
+        "expert"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "barber"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The wildlife ___ shared fascinating facts about how wolves use howls to communicate across distances.",
+      "sentence2": "My grandmother is an ___ at knitting \u2014 she can complete an entire sweater in just two days.",
+      "options": [
+        "noble",
+        "barber",
+        "gleam",
+        "expert"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "expert"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The moonlight made the still surface of the lake ___ with a beautiful, silvery glow.",
+      "sentence2": "The polished gold coins began to ___ in the treasure chest as the lantern light hit them.",
+      "options": [
+        "stranded",
+        "gleam",
+        "canvas",
+        "resist"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "gleam"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "It was impossible to ___ the smell of warm chocolate cake \u2014 she cut herself another slice.",
+      "sentence2": "She tried hard to ___ the temptation to peek at her birthday presents before the party.",
+      "options": [
+        "resist",
+        "treasure",
+        "explore",
+        "barber"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "resist"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Decorating the tree together every December is our favorite holiday ___, passed down by our grandparents.",
+      "sentence2": "Our family ___ is to eat a big Sunday dinner together \u2014 it has happened every week for thirty years.",
+      "options": [
+        "tradition",
+        "resist",
+        "canvas",
+        "stranded"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "tradition"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "My grandmother always gives the most thoughtful ___ \u2014 her suggestions have never led me wrong.",
+      "sentence2": "What ___ would you give to a new student on their very first day at school?",
+      "options": [
+        "canvas",
+        "explore",
+        "advice",
+        "tradition"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "advice"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "treasure",
+      "noble",
+      "canvas",
+      "stranded",
+      "unusual",
+      "explore",
+      "barber",
+      "expert",
+      "gleam",
+      "resist",
+      "tradition",
+      "advice"
+    ],
+    "passage": "The village elder kept her greatest _(1)_ \u2014 a golden locket passed down for generations \u2014 hidden in an old clay jar. She was known as a _(2)_ woman, admired for her honesty, courage, and deep respect for others. The artist arrived in the village and set up a blank _(3)_ on her easel to paint the hills at sunrise. A young traveler who had lost her horse was _(4)_ on the road, unable to move on and with no way to get help. One morning, something truly _(5)_ happened \u2014 a snow-white deer stepped out of the forest, a sight no one in the village had ever seen before. Aarav asked the elder for permission to _(6)_ the caves beyond the river, to search and map their hidden tunnels. The village _(7)_ \u2014 who trimmed hair and beards for every man in town \u2014 had heard all the latest gossip by noon. The pottery-maker was an _(8)_ in her craft, the most skilled and knowledgeable in the entire region. The gold ornaments in the display case began to _(9)_ as the sunlight streamed through the window, glowing with a soft, warm shine. It was almost impossible to _(10)_ the smell of fresh bread from the bakery \u2014 she had to go inside. Giving gifts on the harvest festival was a _(11)_, handed down from grandparents to grandchildren for hundreds of years. The wisest elder gave her best _(12)_: listen more than you speak, and always think before you act.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "treasure",
+        "options": [
+          "treasure",
+          "canvas",
+          "tradition",
+          "gleam"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "noble",
+        "options": [
+          "noble",
+          "unusual",
+          "stranded",
+          "expert"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "canvas",
+        "options": [
+          "canvas",
+          "tradition",
+          "gleam",
+          "treasure"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "stranded",
+        "options": [
+          "stranded",
+          "noble",
+          "expert",
+          "unusual"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "unusual",
+        "options": [
+          "unusual",
+          "gleam",
+          "stranded",
+          "tradition"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "explore",
+        "options": [
+          "explore",
+          "tradition",
+          "resist",
+          "treasure"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "barber",
+        "options": [
+          "barber",
+          "expert",
+          "treasure",
+          "noble"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "expert",
+        "options": [
+          "expert",
+          "barber",
+          "gleam",
+          "unusual"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "gleam",
+        "options": [
+          "gleam",
+          "resist",
+          "treasure",
+          "canvas"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "resist",
+        "options": [
+          "resist",
+          "explore",
+          "canvas",
+          "unusual"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "tradition",
+        "options": [
+          "tradition",
+          "explore",
+          "barber",
+          "advice"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "advice",
+        "options": [
+          "advice",
+          "treasure",
+          "barber",
+          "tradition"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "treasure",
+        "scale": [
+          "valuable",
+          "treasure",
+          "precious"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "noble",
+        "scale": [
+          "good",
+          "noble",
+          "dignified"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "canvas",
+        "scale": [
+          "fabric",
+          "canvas",
+          "cloth"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "stranded",
+        "scale": [
+          "stuck",
+          "stranded",
+          "marooned"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "unusual",
+        "words": [
+          "usual",
+          "rare",
+          "uncommon",
+          "unique"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "usual"
+      },
+      {
+        "vocabWord": "explore",
+        "words": [
+          "investigate",
+          "search",
+          "ignore",
+          "discover"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "ignore"
+      },
+      {
+        "vocabWord": "barber",
+        "words": [
+          "customer",
+          "hairdresser",
+          "stylist",
+          "cutter"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "customer"
+      },
+      {
+        "vocabWord": "expert",
+        "words": [
+          "specialist",
+          "beginner",
+          "master",
+          "professional"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "beginner"
+      },
+      {
+        "vocabWord": "gleam",
+        "words": [
+          "shine",
+          "glow",
+          "sparkle",
+          "dullness"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "dullness"
+      },
+      {
+        "vocabWord": "resist",
+        "words": [
+          "surrender",
+          "oppose",
+          "fight",
+          "refuse"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "surrender"
+      },
+      {
+        "vocabWord": "tradition",
+        "words": [
+          "custom",
+          "practice",
+          "heritage",
+          "innovation"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "innovation"
+      },
+      {
+        "vocabWord": "advice",
+        "words": [
+          "silence",
+          "guidance",
+          "suggestion",
+          "counsel"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "silence"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

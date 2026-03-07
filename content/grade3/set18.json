@@ -1,0 +1,587 @@
+{
+  "grade": 3,
+  "setNumber": 18,
+  "words": [
+    "observe",
+    "represent",
+    "meadow",
+    "pose",
+    "whimper",
+    "salary",
+    "soar",
+    "tentacle",
+    "symbol",
+    "aware",
+    "recognize",
+    "debris"
+  ],
+  "sources": [
+    "Australian Curriculum",
+    "British KS2",
+    "CBSE India",
+    "Common Core Grade 3",
+    "Common Core Grade 4",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Sadlier Vocab Workshop",
+    "Singapore MOE/PSLE",
+    "Tier 2 Academic",
+    "Wit & Wisdom Grade 3",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "Indian mythology retelling (Panchatantra/Jataka/Mahabharata)",
+  "story": {
+    "genre": "Indian mythology retelling (Panchatantra/Jataka/Mahabharata)",
+    "characters": [
+      "Mila",
+      "Aisha",
+      "Vivaan"
+    ],
+    "parts": [
+      {
+        "title": "The Village by the River",
+        "text": "Long ago, in a village nestled between green hills, there lived a young girl named Mila. Every morning she would go to the wide open **meadow** beside the river to **observe** the animals \u2014 watching them carefully and learning their habits. The dove that nested in the old banyan tree had become a **symbol** of peace for the whole village, and Mila felt it was her duty to protect it."
+      },
+      {
+        "title": "The Gathering Storm",
+        "text": "One afternoon, a storm struck without warning. Aisha, the village elder, was fully **aware** of what was coming and sent the children home. An eagle that had been circling overhead dropped low and disappeared into the trees, no longer able to **soar** in the violent winds. **Debris** \u2014 broken branches and torn thatch \u2014 scattered across the courtyard, and Mila's younger brother began to **whimper** with fear. She held his hand tight and told him stories until the rain stopped."
+      },
+      {
+        "title": "The Discovery",
+        "text": "After the storm, Mila found a tiny bird trembling in the rubble \u2014 a species she did not **recognize** at first, but Vivaan said it matched the creature described in an old Panchatantra story as a messenger of good fortune. Its injured wing would **pose** a real challenge for healing \u2014 the bone was delicate and the wound was deep. One long **tentacle**-like strand of fishing net from the flooded river had curled around its leg, and Mila carefully worked it free. She asked Vivaan to help her **represent** the bird at the next village meeting \u2014 to speak for it, so that the fishermen would keep their nets off the riverbank. Aisha, the healer who earned a **salary** from the village council for her work with injured animals, promised to check on the bird every day until it was fully recovered."
+      },
+      {
+        "title": "The Lesson",
+        "text": "Mila nursed the bird for seven days, following a careful schedule and using herbs her grandmother taught her about. When the bird finally spread its wings and soared into the sky, the whole village cheered. The elder Aisha smiled and said, \"The greatest strength is gentleness. Even the most delicate creature can survive the worst storm if someone cares enough to help.\" Mila never forgot that lesson. She grew up to become the village healer, and people traveled from far away to seek her superb care."
+      }
+    ],
+    "wordCount": 295
+  },
+  "definitions": [
+    {
+      "word": "observe",
+      "partOfSpeech": "verb",
+      "meaning1": "To watch carefully. Example: Scientists observe animals in their natural habitat.",
+      "meaning2": "To make a comment. Example: She observed that the room was very tidy.",
+      "studentChallenge": "The birdwatcher liked to ___ eagles in the wild.",
+      "sentence": ""
+    },
+    {
+      "word": "represent",
+      "partOfSpeech": "verb",
+      "meaning1": "To stand for or act on behalf of someone or something. Example: Each star on the flag is meant to represent one of the states.",
+      "meaning2": "",
+      "studentChallenge": "The class captain was chosen to ___ our class at the school council meeting.",
+      "sentence": ""
+    },
+    {
+      "word": "meadow",
+      "partOfSpeech": "noun",
+      "meaning1": "An open field of grass and wildflowers. Example: Butterflies danced above the colorful wildflowers in the sunny meadow.",
+      "meaning2": "",
+      "studentChallenge": "The horses galloped freely through the green ___ on the warm spring afternoon.",
+      "sentence": ""
+    },
+    {
+      "word": "pose",
+      "partOfSpeech": "verb",
+      "meaning1": "To stand or sit in a particular position for a photo, painting, or drawing. Example: The whole family posed in front of the Christmas tree for a holiday photograph.",
+      "meaning2": "To create or cause a problem or danger. Example: The broken bridge posed a danger to anyone who tried to cross the river.",
+      "studentChallenge": "The artist asked the model to ___ with one hand resting on the back of the chair.",
+      "sentence": ""
+    },
+    {
+      "word": "whimper",
+      "partOfSpeech": "verb/noun",
+      "meaning1": "To make a soft, quiet crying sound. Example: The lost puppy began to whimper at the door, hoping someone would let it inside.",
+      "meaning2": "",
+      "studentChallenge": "The little girl started to ___ when she scraped her knee on the playground.",
+      "sentence": ""
+    },
+    {
+      "word": "salary",
+      "partOfSpeech": "noun",
+      "meaning1": "A fixed amount of money that a person earns for their work, usually paid every month. Example: My mom earns a good salary working as an engineer at the technology company.",
+      "meaning2": "",
+      "studentChallenge": "The teacher was happy when she received a raise in her ___ at the start of the school year.",
+      "sentence": ""
+    },
+    {
+      "word": "soar",
+      "partOfSpeech": "verb",
+      "meaning1": "To fly high in the air. Example: The eagle soared above the mountains.",
+      "meaning2": "",
+      "studentChallenge": "The kite ___ high in the windy sky.",
+      "sentence": ""
+    },
+    {
+      "word": "tentacle",
+      "partOfSpeech": "noun",
+      "meaning1": "A long, flexible arm-like body part of an animal such as an octopus or jellyfish. Example: The octopus used one tentacle to grab a crab from the ocean floor.",
+      "meaning2": "",
+      "studentChallenge": "The jellyfish trailed its long ___ behind it as it drifted through the warm water.",
+      "sentence": ""
+    },
+    {
+      "word": "symbol",
+      "partOfSpeech": "noun",
+      "meaning1": "Something that represents or stands for something else. Example: The dove is a symbol of peace.",
+      "meaning2": "",
+      "studentChallenge": "The heart is a ___ of love.",
+      "sentence": ""
+    },
+    {
+      "word": "aware",
+      "partOfSpeech": "adjective",
+      "meaning1": "Knowing about something; conscious of it. Example: He was aware of the danger ahead.",
+      "meaning2": "",
+      "studentChallenge": "Are you ___ that the test is tomorrow?",
+      "sentence": ""
+    },
+    {
+      "word": "recognize",
+      "partOfSpeech": "verb",
+      "meaning1": "To know who someone is or what something is because you have seen or experienced it before. Example: I did not recognize my teacher at the supermarket because she was wearing a hat and sunglasses.",
+      "meaning2": "To officially accept or approve of something. Example: The award was given to recognize her outstanding volunteer work in the community.",
+      "studentChallenge": "She could barely ___ the old photograph of her mother as a young child.",
+      "sentence": ""
+    },
+    {
+      "word": "debris",
+      "partOfSpeech": "noun",
+      "meaning1": "Scattered pieces of trash or wreckage left after something has been destroyed. Example: After the tornado passed, debris from broken houses and trees covered the streets.",
+      "meaning2": "",
+      "studentChallenge": "The cleanup crew worked all day to remove the ___ left behind by the powerful storm.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Scientists quietly ___ animals in their natural habitat, watching every movement without disturbing them.",
+      "sentence2": "The birdwatcher liked to ___ eagles in the wild, noting their wing patterns and hunting behavior.",
+      "options": [
+        "whimper",
+        "aware",
+        "observe",
+        "meadow"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "observe"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Each star on the flag is meant to ___ one of the fifty states of the country.",
+      "sentence2": "The class captain was chosen to ___ our class at the school council meeting and speak on our behalf.",
+      "options": [
+        "soar",
+        "tentacle",
+        "represent",
+        "meadow"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "represent"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Butterflies danced above the colorful wildflowers in the wide, sunny ___ near the river.",
+      "sentence2": "The horses galloped freely through the green ___ on the warm spring afternoon, their manes flying.",
+      "options": [
+        "salary",
+        "recognize",
+        "symbol",
+        "meadow"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "meadow"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The whole family ___ together in front of the decorated Christmas tree for the holiday photograph.",
+      "sentence2": "The artist asked the model to ___ with one hand resting gently on the back of the wooden chair.",
+      "options": [
+        "pose",
+        "aware",
+        "salary",
+        "observe"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "pose"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The lost puppy began to ___ softly at the door, making quiet, sad little cries until someone came.",
+      "sentence2": "The little girl started to ___ when she scraped her knee hard on the rough playground ground.",
+      "options": [
+        "pose",
+        "tentacle",
+        "whimper",
+        "observe"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "whimper"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "My mom earns a good ___ working as an engineer, which allows our family to live comfortably.",
+      "sentence2": "The teacher was pleased when she learned she would receive a raise in her ___ at the new school year.",
+      "options": [
+        "observe",
+        "pose",
+        "whimper",
+        "salary"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "salary"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The eagle spread its wings and began to ___ above the mountains, rising high on the warm air currents.",
+      "sentence2": "The kite began to ___ high in the windy sky, tugging hard at the string in my hand.",
+      "options": [
+        "pose",
+        "soar",
+        "meadow",
+        "whimper"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "soar"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The octopus reached out one long ___ and snatched a crab right off the ocean floor.",
+      "sentence2": "The jellyfish trailed its long, stinging ___ behind it as it drifted silently through the warm water.",
+      "options": [
+        "whimper",
+        "salary",
+        "represent",
+        "tentacle"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "tentacle"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The white dove is a well-known ___ of peace, recognized by people all over the world.",
+      "sentence2": "The red heart shape is a familiar ___ of love that you see on cards and gifts.",
+      "options": [
+        "symbol",
+        "observe",
+        "tentacle",
+        "soar"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "symbol"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "He was fully ___ of the danger ahead and stopped walking before he reached the broken bridge.",
+      "sentence2": "Are you ___ that the important test is scheduled for tomorrow morning?",
+      "options": [
+        "meadow",
+        "aware",
+        "debris",
+        "soar"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "aware"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "I did not ___ my teacher at the supermarket because she was wearing a hat and sunglasses.",
+      "sentence2": "She could barely ___ the old photograph of her mother, who looked so different as a young child.",
+      "options": [
+        "recognize",
+        "symbol",
+        "pose",
+        "debris"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "recognize"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "After the tornado passed through, ___ from broken houses and uprooted trees covered every street.",
+      "sentence2": "The cleanup crew worked all day to remove the scattered ___ left behind by the powerful storm.",
+      "options": [
+        "symbol",
+        "debris",
+        "salary",
+        "represent"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "debris"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "observe",
+      "represent",
+      "meadow",
+      "pose",
+      "whimper",
+      "salary",
+      "soar",
+      "tentacle",
+      "symbol",
+      "aware",
+      "recognize",
+      "debris"
+    ],
+    "passage": "Every morning, Mila would go out to _(1)_ the small brown wren that nested in the old oak tree \u2014 watching it carefully, noting every flutter and chirp. The wren had become a _(2)_ of hope for the whole village, standing for the idea that even the smallest creature can survive anything. Mila found the bird one day sitting alone in the wide, grassy _(3)_ \u2014 an open field full of wildflowers, far from its nest. The bird did not fly away; instead it held a curious _(4)_, tilting its head as if posing for a portrait. Then it began to _(5)_, making soft, sad little cries that told Mila it was hurt. She checked the injury carefully, fully _(6)_ that a wrong move could frighten the creature away. The village healer paid her a fair _(7)_ to care for injured animals, and Mila took that job very seriously. Soon the little wren began to _(8)_ above the treetops, gliding on the breeze as if it had never been hurt at all. One of its feathers \u2014 long and flexible like a _(9)_ \u2014 drifted down and landed in Mila's hand. She was able to _(10)_ the exact species from a drawing in her grandmother's old book. All around the oak tree, _(11)_ from the recent storm \u2014 broken branches and torn leaves \u2014 still littered the ground. Yet the tree itself had held firm. \"This little bird will _(12)_ something important to our village \u2014 proof that even the smallest life is worth saving,\" Mila whispered, watching the wren disappear into the morning sky.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "observe",
+        "options": [
+          "observe",
+          "tentacle",
+          "represent",
+          "debris"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "symbol",
+        "options": [
+          "symbol",
+          "observe",
+          "meadow",
+          "salary"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "meadow",
+        "options": [
+          "meadow",
+          "soar",
+          "recognize",
+          "tentacle"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "pose",
+        "options": [
+          "pose",
+          "recognize",
+          "tentacle",
+          "debris"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "whimper",
+        "options": [
+          "whimper",
+          "salary",
+          "represent",
+          "tentacle"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "aware",
+        "options": [
+          "aware",
+          "observe",
+          "soar",
+          "meadow"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "salary",
+        "options": [
+          "salary",
+          "recognize",
+          "symbol",
+          "pose"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "soar",
+        "options": [
+          "soar",
+          "represent",
+          "debris",
+          "whimper"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "tentacle",
+        "options": [
+          "tentacle",
+          "pose",
+          "soar",
+          "recognize"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "recognize",
+        "options": [
+          "recognize",
+          "symbol",
+          "represent",
+          "soar"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "debris",
+        "options": [
+          "debris",
+          "whimper",
+          "salary",
+          "meadow"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "represent",
+        "options": [
+          "represent",
+          "salary",
+          "debris",
+          "observe"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "observe",
+        "scale": [
+          "glance",
+          "observe",
+          "examine"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "represent",
+        "scale": [
+          "hint",
+          "represent",
+          "depict"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "meadow",
+        "scale": [
+          "grass",
+          "meadow",
+          "field"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "pose",
+        "scale": [
+          "suggest",
+          "pose",
+          "display"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "whimper",
+        "words": [
+          "whine",
+          "cry",
+          "moan",
+          "roar"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "roar"
+      },
+      {
+        "vocabWord": "salary",
+        "words": [
+          "debt",
+          "pay",
+          "wage",
+          "income"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "debt"
+      },
+      {
+        "vocabWord": "soar",
+        "words": [
+          "rise",
+          "ascend",
+          "glide",
+          "fall"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "fall"
+      },
+      {
+        "vocabWord": "tentacle",
+        "words": [
+          "trunk",
+          "arm",
+          "appendage",
+          "limb"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "trunk"
+      },
+      {
+        "vocabWord": "symbol",
+        "words": [
+          "reality",
+          "sign",
+          "emblem",
+          "representation"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "reality"
+      },
+      {
+        "vocabWord": "aware",
+        "words": [
+          "conscious",
+          "informed",
+          "unaware",
+          "mindful"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "unaware"
+      },
+      {
+        "vocabWord": "recognize",
+        "words": [
+          "identify",
+          "know",
+          "ignore",
+          "acknowledge"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "ignore"
+      },
+      {
+        "vocabWord": "debris",
+        "words": [
+          "rubble",
+          "order",
+          "wreckage",
+          "remains"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "order"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

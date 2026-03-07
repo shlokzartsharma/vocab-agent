@@ -1,0 +1,588 @@
+{
+  "grade": 3,
+  "setNumber": 24,
+  "words": [
+    "discover",
+    "proper",
+    "route",
+    "remain",
+    "summary",
+    "tower",
+    "cylinder",
+    "pilgrim",
+    "narrow",
+    "compete",
+    "common",
+    "peep"
+  ],
+  "sources": [
+    "Australian Curriculum",
+    "CBSE India",
+    "Cambridge Primary",
+    "Common Core Grade 3",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "SSAT Elementary",
+    "Tier 2 Academic",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "time travel adventure mixing real history",
+  "story": {
+    "genre": "time travel adventure mixing real history",
+    "characters": [
+      "Chloe",
+      "Amara",
+      "Luna"
+    ],
+    "parts": [
+      {
+        "title": "The Time Machine",
+        "text": "Chloe pressed the button on the glowing machine before she could change her mind. There was no **proper** manual for time travel \u2014 no instructions at all. She managed to **peep** through the swirling portal just long enough to **discover** that the world on the other side looked nothing like her attic.",
+        "wordCount": 52
+      },
+      {
+        "title": "Ancient Times",
+        "text": "She landed beside a stone **tower** that seemed to **remain** standing despite centuries of weathering. It was the ancient Indus Valley civilization! A clay **cylinder** seal lay on the ground nearby \u2014 **common** among merchants who used them to stamp their goods. Like a **pilgrim** arriving at a sacred place, Chloe felt a deep sense of wonder. She mapped the **route** back to the machine through the **narrow** streets of the city.",
+        "wordCount": 76
+      },
+      {
+        "title": "Making Friends",
+        "text": "Amara, a girl about Chloe's age, approached her and began to **compete** in a game of hand signals to communicate. Luna, a younger child, tried to **peep** around Amara's shoulder, too shy to step forward. Chloe smiled and wrote a quick **summary** of who she was in the dirt \u2014 pictures and numbers that felt like a language both girls could understand.",
+        "wordCount": 64
+      },
+      {
+        "title": "Coming Home",
+        "text": "After three unforgettable days, the machine hummed back to life. Chloe hugged her new friend goodbye, knowing she could never explain where she was really from. Back in her attic, Chloe wrote everything down in her journal. History wasn't just something in books \u2014 it was real, alive, and full of people just like her. She closed the journal and looked at the time machine. Where would it take her next?",
+        "wordCount": 71
+      }
+    ],
+    "wordCount": 263
+  },
+  "definitions": [
+    {
+      "word": "discover",
+      "partOfSpeech": "verb",
+      "meaning1": "To find something for the first time. Example: Scientists discovered a new species of frog.",
+      "meaning2": "",
+      "studentChallenge": "The children ___ a hidden cave in the hillside.",
+      "sentence": ""
+    },
+    {
+      "word": "proper",
+      "partOfSpeech": "adjective",
+      "meaning1": "Correct or suitable for a situation. Example: Make sure you wear proper shoes for the hike, not sandals or flip-flops.",
+      "meaning2": "",
+      "studentChallenge": "The librarian showed us the ___ way to handle old books so the pages do not tear.",
+      "sentence": ""
+    },
+    {
+      "word": "route",
+      "partOfSpeech": "noun",
+      "meaning1": "A way or path from one place to another. Example: We took the fastest route to the airport.",
+      "meaning2": "",
+      "studentChallenge": "What ___ should we take to avoid traffic?",
+      "sentence": ""
+    },
+    {
+      "word": "remain",
+      "partOfSpeech": "verb",
+      "meaning1": "To stay in the same place or condition. Example: Please remain in your seats until the bus has come to a complete stop.",
+      "meaning2": "",
+      "studentChallenge": "The castle ruins ___ standing on the hilltop after more than five hundred years.",
+      "sentence": ""
+    },
+    {
+      "word": "summary",
+      "partOfSpeech": "noun",
+      "meaning1": "A short statement that gives only the main points of something. Example: She wrote a one-paragraph summary of the book she finished reading.",
+      "meaning2": "",
+      "studentChallenge": "The ___ at the end of the chapter helped me remember the most important facts.",
+      "sentence": ""
+    },
+    {
+      "word": "tower",
+      "partOfSpeech": "noun/verb",
+      "meaning1": "A tall, narrow building or part of a building. Example: The old stone tower at the castle was so tall you could see the entire valley from the top.",
+      "meaning2": "To be much taller than something else nearby. Example: The basketball player seemed to tower over all the other students in the hallway.",
+      "studentChallenge": "The lighthouse ___ stood on the rocky cliff, guiding ships safely through the foggy night.",
+      "sentence": ""
+    },
+    {
+      "word": "cylinder",
+      "partOfSpeech": "noun",
+      "meaning1": "A solid or hollow shape with two flat, circular ends and straight sides, like a can. Example: The paper towel roll is shaped like a cylinder.",
+      "meaning2": "",
+      "studentChallenge": "The soup can is a perfect example of a ___ because it has two round ends and straight sides.",
+      "sentence": ""
+    },
+    {
+      "word": "pilgrim",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who travels a long distance to a holy or special place. Example: The pilgrim walked for many days to reach the ancient temple on the hilltop.",
+      "meaning2": "",
+      "studentChallenge": "Each ___ carried only a small bag of belongings on the long journey to the sacred site.",
+      "sentence": ""
+    },
+    {
+      "word": "narrow",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not wide; having a small distance from one side to the other. Example: The narrow path between the two buildings was barely wide enough for one person.",
+      "meaning2": "To become smaller or less wide. Example: The river narrows as it passes through the canyon.",
+      "studentChallenge": "The ___ bridge made it impossible for two cars to cross at the same time.",
+      "sentence": ""
+    },
+    {
+      "word": "compete",
+      "partOfSpeech": "verb",
+      "meaning1": "To try to win against others. Example: Six teams will compete in the tournament.",
+      "meaning2": "",
+      "studentChallenge": "The students ___ in the science fair every year.",
+      "sentence": ""
+    },
+    {
+      "word": "common",
+      "partOfSpeech": "adjective",
+      "meaning1": "Happening often; usual. Example: Rain is common in April.",
+      "meaning2": "Shared by everyone. Example: We have a common interest in music.",
+      "studentChallenge": "Sparrows are ___ birds you can see anywhere.",
+      "sentence": ""
+    },
+    {
+      "word": "peep",
+      "partOfSpeech": "verb",
+      "meaning1": "To take a quick, secret look at something. Example: She could not resist taking a peep at her birthday presents hidden in the cupboard.",
+      "meaning2": "A short, high-pitched sound made by a young bird. Example: Tiny peeps came from the nest where the baby chicks had just hatched.",
+      "studentChallenge": "He tried to ___ through the keyhole to see what surprise was waiting inside.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Scientists were thrilled to ___ a new species of frog deep in the rainforest.",
+      "sentence2": "The children were amazed to ___ a hidden cave behind the waterfall in the hillside.",
+      "options": [
+        "cylinder",
+        "discover",
+        "compete",
+        "remain"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "discover"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Make sure you wear ___ shoes for the hike \u2014 boots, not sandals or flip-flops.",
+      "sentence2": "The librarian showed us the ___ way to handle old books so the fragile pages do not tear.",
+      "options": [
+        "narrow",
+        "common",
+        "proper",
+        "remain"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "proper"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "We took the fastest ___ to the airport, cutting through the back roads to save time.",
+      "sentence2": "What ___ should we take to avoid the traffic jam on the main road?",
+      "options": [
+        "common",
+        "summary",
+        "peep",
+        "route"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "route"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Please ___ in your seats until the bus has come to a complete stop for safety.",
+      "sentence2": "The ancient castle ruins ___ standing on the hilltop after more than five hundred years.",
+      "options": [
+        "tower",
+        "pilgrim",
+        "discover",
+        "remain"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "remain"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "She wrote a one-paragraph ___ that covered only the main ideas from the book she finished.",
+      "sentence2": "The ___ at the end of the chapter pulled together all the key facts in just a few sentences.",
+      "options": [
+        "summary",
+        "compete",
+        "pilgrim",
+        "route"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "summary"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The old stone ___ at the castle was so tall that you could see the entire valley from its top.",
+      "sentence2": "The lighthouse ___ on the rocky cliff helped guide ships safely through the foggy night.",
+      "options": [
+        "common",
+        "tower",
+        "narrow",
+        "route"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "tower"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The paper towel roll is shaped exactly like a ___, round and hollow all the way through.",
+      "sentence2": "The soup can is a perfect ___ \u2014 it has two flat circular ends connected by a straight side.",
+      "options": [
+        "cylinder",
+        "tower",
+        "pilgrim",
+        "narrow"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "cylinder"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The devoted ___ walked for many days through rain and heat to reach the ancient temple.",
+      "sentence2": "Each ___ carried only a small bag on the long, sacred journey to the holy site.",
+      "options": [
+        "narrow",
+        "compete",
+        "tower",
+        "pilgrim"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "pilgrim"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The ___ alleyway between the two buildings was barely wide enough for one person to walk through.",
+      "sentence2": "The ___ bridge was so thin that two cars could never cross at the same time.",
+      "options": [
+        "route",
+        "narrow",
+        "common",
+        "peep"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "narrow"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Six teams will ___ in the tournament, each hoping to win the championship trophy.",
+      "sentence2": "The students ___ in the school science fair every year by building their best experiments.",
+      "options": [
+        "route",
+        "remain",
+        "compete",
+        "narrow"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "compete"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Heavy rain is ___ in April, so always carry an umbrella during spring.",
+      "sentence2": "Sparrows are the most ___ birds in the city \u2014 you can spot them almost everywhere.",
+      "options": [
+        "discover",
+        "proper",
+        "common",
+        "narrow"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "common"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "She could not resist taking a quick, sneaky ___ at her birthday presents hidden in the cupboard.",
+      "sentence2": "He pressed his eye to the keyhole and tried to ___ at the surprise waiting inside.",
+      "options": [
+        "peep",
+        "route",
+        "summary",
+        "compete"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "peep"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "discover",
+      "proper",
+      "route",
+      "remain",
+      "summary",
+      "tower",
+      "cylinder",
+      "pilgrim",
+      "narrow",
+      "compete",
+      "common",
+      "peep"
+    ],
+    "passage": "Chloe could not wait to _(1)_ what was hidden inside the ancient chest \u2014 she had never found anything like it before. The _(2)_ way to open an old lock was carefully, using the right tools, not forcing it. She mapped out a safe _(3)_ through the dark tunnels, planning her path step by step. The stone walls would _(4)_ standing for centuries, unchanged since they were first built. Chloe wrote a short _(5)_ of her findings \u2014 just the key points \u2014 so her partner could understand quickly. A stone _(6)_ rose at the center of the ruins, so tall it seemed to touch the clouds above. The ancient pot she found was shaped exactly like a _(7)_ \u2014 round and hollow, with two flat ends. Like a faithful _(8)_, she had traveled far on foot to reach this sacred and legendary place. The passageway became so _(9)_ that she had to turn sideways and squeeze through inch by inch. She would _(10)_ with other historians to publish her discovery first. Sparrows \u2014 the most _(11)_ birds in the city \u2014 watched her from a ledge above. She allowed herself just one tiny _(12)_ through the keyhole before stepping back and calling her team.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "discover",
+        "options": [
+          "discover",
+          "remain",
+          "cylinder",
+          "summary"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "proper",
+        "options": [
+          "proper",
+          "narrow",
+          "common",
+          "tower"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "route",
+        "options": [
+          "route",
+          "tower",
+          "summary",
+          "remain"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "remain",
+        "options": [
+          "remain",
+          "peep",
+          "compete",
+          "discover"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "summary",
+        "options": [
+          "summary",
+          "route",
+          "tower",
+          "common"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "tower",
+        "options": [
+          "tower",
+          "cylinder",
+          "pilgrim",
+          "route"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "cylinder",
+        "options": [
+          "cylinder",
+          "common",
+          "narrow",
+          "route"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "pilgrim",
+        "options": [
+          "pilgrim",
+          "route",
+          "cylinder",
+          "tower"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "narrow",
+        "options": [
+          "narrow",
+          "common",
+          "discover",
+          "remain"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "compete",
+        "options": [
+          "compete",
+          "proper",
+          "discover",
+          "remain"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "common",
+        "options": [
+          "common",
+          "peep",
+          "narrow",
+          "cylinder"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "peep",
+        "options": [
+          "peep",
+          "compete",
+          "discover",
+          "pilgrim"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "discover",
+        "scale": [
+          "notice",
+          "discover",
+          "uncover"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "proper",
+        "scale": [
+          "suitable",
+          "proper",
+          "exact"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "route",
+        "scale": [
+          "path",
+          "route",
+          "course"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "remain",
+        "scale": [
+          "pause",
+          "remain",
+          "stay"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "summary",
+        "words": [
+          "detail",
+          "outline",
+          "brief",
+          "synopsis"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "detail"
+      },
+      {
+        "vocabWord": "tower",
+        "words": [
+          "valley",
+          "building",
+          "structure",
+          "skyscraper"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "valley"
+      },
+      {
+        "vocabWord": "cylinder",
+        "words": [
+          "tube",
+          "column",
+          "barrel",
+          "cube"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "cube"
+      },
+      {
+        "vocabWord": "pilgrim",
+        "words": [
+          "traveler",
+          "native",
+          "wanderer",
+          "seeker"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "native"
+      },
+      {
+        "vocabWord": "narrow",
+        "words": [
+          "thin",
+          "wide",
+          "tight",
+          "slim"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "wide"
+      },
+      {
+        "vocabWord": "compete",
+        "words": [
+          "cooperate",
+          "contest",
+          "rival",
+          "challenge"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "cooperate"
+      },
+      {
+        "vocabWord": "common",
+        "words": [
+          "ordinary",
+          "rare",
+          "usual",
+          "frequent"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "rare"
+      },
+      {
+        "vocabWord": "peep",
+        "words": [
+          "look",
+          "peek",
+          "ignore",
+          "glimpse"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "ignore"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

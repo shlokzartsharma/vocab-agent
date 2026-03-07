@@ -1,0 +1,585 @@
+{
+  "grade": 3,
+  "setNumber": 33,
+  "words": [
+    "spine",
+    "wicked",
+    "task",
+    "peer",
+    "decay",
+    "squeal",
+    "quality",
+    "border",
+    "refuse",
+    "resources",
+    "typical",
+    "final"
+  ],
+  "sources": [
+    "Australian Curriculum",
+    "CBSE India",
+    "Common Core Grade 3",
+    "Common Core Grade 4",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Flocabulary Grade 4",
+    "Flocabulary Grade 5",
+    "Tier 2 Academic",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "sports underdog true story",
+  "story": {
+    "genre": "sports underdog true story",
+    "characters": [
+      "Sahil",
+      "Saanvi",
+      "Arjun"
+    ],
+    "parts": [
+      {
+        "title": "The Tryouts",
+        "text": "Nobody expected Sahil to sign up for the basketball tryouts. The **wicked** heat of summer training was brutal \u2014 5 AM every morning, rain or shine. But Sahil's first **task** was simply to make the team, and she attacked it with a ferocious will that surprised everyone watching."
+      },
+      {
+        "title": "The Doubters",
+        "text": "Her **peers** on the squad didn't welcome her at first. People said it wasn't **typical** for someone her age to compete at this level. She had to **refuse** to listen to the voices that told her to quit. Saanvi, the coach, used every **resource** she had to support Sahil \u2014 extra drills, film sessions, and encouragement. When a sprained ankle threatened the **border** of her season, Sahil rested one week and came back stronger."
+      },
+      {
+        "title": "The Turning Point",
+        "text": "During the semifinal, a rival player let out a **squeal** of shock when Sahil faked past her with speed nobody expected. Sahil could feel the **spine** of the crowd's energy running through her. The **quality** of her performance in those final minutes was unlike anything she had shown before. The ball left her hands and sailed through the net, and the gymnasium erupted."
+      },
+      {
+        "title": "Victory",
+        "text": "They won the championship by a single point in the **final** seconds. Sahil was lifted onto her teammates' shoulders. The old wooden bleachers showed some **decay** around the edges, but nobody noticed \u2014 every eye was on Sahil. Saanvi told the reporters, \"She's the hardest-working athlete I've ever coached. Everyone doubted her, but she proved them all wrong.\" That night, Sahil looked at her medal and smiled. The underdog had become the champion."
+      }
+    ],
+    "wordCount": 260
+  },
+  "definitions": [
+    {
+      "word": "spine",
+      "partOfSpeech": "noun",
+      "meaning1": "The column of bones running down the middle of the back; the backbone. Example: The doctor checked the X-ray to make sure the child's spine was straight and healthy.",
+      "meaning2": "The narrow part of a book cover that shows the title when it sits on a shelf. Example: She read the titles on the spine of each book as she searched the library shelf.",
+      "studentChallenge": "You should sit up straight to keep your ___ healthy and strong.",
+      "sentence": ""
+    },
+    {
+      "word": "wicked",
+      "partOfSpeech": "adjective",
+      "meaning1": "Evil, cruel, or morally wrong. Example: The wicked queen in the fairy tale tried to poison the princess with a magic apple.",
+      "meaning2": "",
+      "studentChallenge": "The ___ villain in the movie laughed as he locked the heroes inside the dungeon.",
+      "sentence": ""
+    },
+    {
+      "word": "task",
+      "partOfSpeech": "noun",
+      "meaning1": "A piece of work or a job that needs to be done. Example: Feeding the classroom hamster every morning was her favorite task of the week.",
+      "meaning2": "",
+      "studentChallenge": "The first ___ on our list was to clean up the art supplies from the table.",
+      "sentence": ""
+    },
+    {
+      "word": "peer",
+      "partOfSpeech": "verb",
+      "meaning1": "To look closely or carefully at something that is hard to see. Example: She peered through the foggy window to see if the school bus had arrived.",
+      "meaning2": "A person who is the same age or has the same status as you. Example: He presented his science project to his peers in the classroom.",
+      "studentChallenge": "The detective had to ___ closely at the tiny footprints left in the mud.",
+      "sentence": ""
+    },
+    {
+      "word": "decay",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To slowly break down or rot. Example: Fallen leaves decay on the forest floor.",
+      "meaning2": "",
+      "studentChallenge": "Sugar can cause your teeth to ___.",
+      "sentence": ""
+    },
+    {
+      "word": "squeal",
+      "partOfSpeech": "verb/noun",
+      "meaning1": "To make a loud, high-pitched cry or sound. Example: The children squeal with delight every time they go down the big waterslide.",
+      "meaning2": "",
+      "studentChallenge": "The piglet let out a loud ___ when it was picked up from the pen.",
+      "sentence": ""
+    },
+    {
+      "word": "quality",
+      "partOfSpeech": "noun",
+      "meaning1": "How good or bad something is. Example: The quality of the wool in this jumper is excellent, so it will last for many years.",
+      "meaning2": "A characteristic or feature of a person or thing. Example: Kindness is one of his best qualities.",
+      "studentChallenge": "The ___ of her artwork improved greatly after she took lessons over the summer.",
+      "sentence": ""
+    },
+    {
+      "word": "border",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "The edge or boundary of something. Example: The river forms the border between the two countries.",
+      "meaning2": "",
+      "studentChallenge": "Flowers grew along the ___ of the garden.",
+      "sentence": ""
+    },
+    {
+      "word": "refuse",
+      "partOfSpeech": "verb",
+      "meaning1": "To say no to something. Example: She refused to give up, even when things got hard.",
+      "meaning2": "",
+      "studentChallenge": "He ___ to eat his vegetables.",
+      "sentence": ""
+    },
+    {
+      "word": "resources",
+      "partOfSpeech": "noun",
+      "meaning1": "Materials, money, or supplies that can be used to accomplish something. Example: The school invested its resources in new computers and library books for the students.",
+      "meaning2": "",
+      "studentChallenge": "Water, timber, and minerals are all natural ___ that we should use wisely.",
+      "sentence": ""
+    },
+    {
+      "word": "typical",
+      "partOfSpeech": "adjective",
+      "meaning1": "Normal and what you would usually expect. Example: A typical school day begins with math and ends with art class.",
+      "meaning2": "",
+      "studentChallenge": "It was a ___ rainy day in spring, with gray clouds covering the sky all afternoon.",
+      "sentence": ""
+    },
+    {
+      "word": "final",
+      "partOfSpeech": "adjective",
+      "meaning1": "Last; coming at the end with nothing after it. Example: The final chapter of the book revealed who the mystery thief really was.",
+      "meaning2": "A last test or game in a series (noun). Example: She studied hard for her math final at the end of the school year.",
+      "studentChallenge": "The ___ question on the quiz was the hardest one of all.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The doctor checked the X-ray to make sure the child's ___ was straight and healthy.",
+      "sentence2": "You should sit up straight to keep your ___ healthy and strong.",
+      "options": [
+        "spine",
+        "peer",
+        "task",
+        "refuse"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "spine"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The ___ queen in the fairy tale tried to poison the princess with a magic apple.",
+      "sentence2": "The ___ villain in the movie laughed as he locked the heroes inside the dungeon.",
+      "options": [
+        "border",
+        "quality",
+        "wicked",
+        "task"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "wicked"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Feeding the classroom hamster every morning was her favorite ___ of the week.",
+      "sentence2": "The first ___ on our list was to clean up the art supplies from the table.",
+      "options": [
+        "resources",
+        "task",
+        "spine",
+        "decay"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "task"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "She ___ through the foggy window to see if the school bus had arrived yet.",
+      "sentence2": "The detective had to ___ closely at the tiny footprints left in the mud.",
+      "options": [
+        "decay",
+        "peer",
+        "typical",
+        "refuse"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "peer"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Fallen leaves ___ on the forest floor, slowly breaking down into soil.",
+      "sentence2": "Sugar can cause your teeth to ___ if you don't brush them.",
+      "options": [
+        "decay",
+        "squeal",
+        "spine",
+        "wicked"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "decay"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The children ___ with delight every time they go down the big waterslide.",
+      "sentence2": "The piglet let out a loud ___ when it was picked up from the pen.",
+      "options": [
+        "final",
+        "decay",
+        "resources",
+        "squeal"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "squeal"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The ___ of the wool in this jumper is excellent, so it will last for many years.",
+      "sentence2": "The ___ of her artwork improved greatly after she took lessons over the summer.",
+      "options": [
+        "typical",
+        "spine",
+        "task",
+        "quality"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "quality"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The river forms the ___ between the two countries, running along the entire edge.",
+      "sentence2": "Flowers grew along the ___ of the garden, framing it like a colorful picture.",
+      "options": [
+        "squeal",
+        "spine",
+        "border",
+        "peer"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "border"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "She ___ to give up, even when things got hard and everyone else quit.",
+      "sentence2": "He ___ to eat his vegetables, pushing them to the side of his plate.",
+      "options": [
+        "typical",
+        "refuse",
+        "task",
+        "quality"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "refuse"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The school invested its ___ in new computers and library books for the students.",
+      "sentence2": "Water, timber, and minerals are all natural ___ that we should use wisely.",
+      "options": [
+        "resources",
+        "wicked",
+        "decay",
+        "task"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "resources"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "A ___ school day begins with math and ends with art class.",
+      "sentence2": "It was a ___ rainy day in spring, with gray clouds covering the sky all afternoon.",
+      "options": [
+        "resources",
+        "peer",
+        "quality",
+        "typical"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "typical"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The ___ chapter of the book revealed who the mystery thief really was.",
+      "sentence2": "The ___ question on the quiz was the hardest one of all.",
+      "options": [
+        "typical",
+        "refuse",
+        "final",
+        "squeal"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "final"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "spine",
+      "wicked",
+      "task",
+      "peer",
+      "decay",
+      "squeal",
+      "quality",
+      "border",
+      "refuse",
+      "resources",
+      "typical",
+      "final"
+    ],
+    "passage": "Arjun had one _(1)_ job \u2014 a single piece of work assigned to him \u2014 before the school science fair ended. He had to _(2)_ closely through his magnifying glass at a sample of fallen bark to see exactly how it had begun to rot and break down. He could see where _(3)_ had turned the once-hard wood soft and crumbling. This was no _(4)_ project \u2014 it was unlike anything his classmates had attempted before. The fair was held near the _(5)_ of the school garden, right at the flowered edge between the path and the grass. He had limited _(6)_ \u2014 only a few tools and materials \u2014 so he had to plan carefully. The bark sample had a tough _(7)_ running through its center, a stiff column that held it together even as it rotted. A _(8)_ little beetle \u2014 mean and sharp-jawed \u2014 scurried out of the bark and onto Arjun's hand. The _(9)_ of his work was excellent, so careful and thorough that his teacher stopped to admire it. A smaller boy let out a sudden _(10)_ of excitement when he saw Arjun's display. Arjun would _(11)_ to give up no matter how tired he felt. The _(12)_ step was to present his findings to the judges, and he did so with perfect confidence.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "task",
+        "options": [
+          "task",
+          "quality",
+          "border",
+          "spine"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "peer",
+        "options": [
+          "peer",
+          "refuse",
+          "squeal",
+          "decay"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "decay",
+        "options": [
+          "decay",
+          "quality",
+          "resources",
+          "final"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "typical",
+        "options": [
+          "typical",
+          "wicked",
+          "final",
+          "border"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "border",
+        "options": [
+          "border",
+          "final",
+          "spine",
+          "task"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "resources",
+        "options": [
+          "resources",
+          "quality",
+          "border",
+          "task"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "spine",
+        "options": [
+          "spine",
+          "border",
+          "task",
+          "quality"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "wicked",
+        "options": [
+          "wicked",
+          "typical",
+          "final",
+          "spine"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "quality",
+        "options": [
+          "quality",
+          "resources",
+          "border",
+          "spine"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "squeal",
+        "options": [
+          "squeal",
+          "decay",
+          "refuse",
+          "peer"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "refuse",
+        "options": [
+          "refuse",
+          "squeal",
+          "peer",
+          "decay"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "final",
+        "options": [
+          "final",
+          "typical",
+          "wicked",
+          "task"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "spine",
+        "scale": [
+          "tip",
+          "spine",
+          "backbone"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "wicked",
+        "scale": [
+          "mischievous",
+          "wicked",
+          "evil"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "task",
+        "scale": [
+          "activity",
+          "task",
+          "project"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "peer",
+        "scale": [
+          "equal",
+          "peer",
+          "colleague"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "decay",
+        "words": [
+          "grow",
+          "rot",
+          "decompose",
+          "crumble"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "grow"
+      },
+      {
+        "vocabWord": "squeal",
+        "words": [
+          "cry",
+          "silence",
+          "scream",
+          "shriek"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "silence"
+      },
+      {
+        "vocabWord": "quality",
+        "words": [
+          "standard",
+          "grade",
+          "quantity",
+          "characteristic"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "quantity"
+      },
+      {
+        "vocabWord": "border",
+        "words": [
+          "center",
+          "edge",
+          "boundary",
+          "limit"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "center"
+      },
+      {
+        "vocabWord": "refuse",
+        "words": [
+          "decline",
+          "reject",
+          "deny",
+          "accept"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "accept"
+      },
+      {
+        "vocabWord": "resources",
+        "words": [
+          "shortage",
+          "supplies",
+          "materials",
+          "tools"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "shortage"
+      },
+      {
+        "vocabWord": "typical",
+        "words": [
+          "common",
+          "usual",
+          "standard",
+          "unusual"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "unusual"
+      },
+      {
+        "vocabWord": "final",
+        "words": [
+          "last",
+          "ending",
+          "ultimate",
+          "first"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "first"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

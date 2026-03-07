@@ -1,0 +1,585 @@
+{
+  "grade": 3,
+  "setNumber": 17,
+  "words": [
+    "injure",
+    "team",
+    "ovation",
+    "negative",
+    "scope",
+    "wit",
+    "scramble",
+    "wing",
+    "endure",
+    "arrange",
+    "legend",
+    "excel"
+  ],
+  "sources": [
+    "CBSE India",
+    "Cambridge Primary",
+    "Common Core Grade 3",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Flocabulary Grade 4",
+    "Flocabulary Grade 5",
+    "Tier 2 Academic",
+    "Wit & Wisdom Grade 3",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "ocean or nature adventure",
+  "story": {
+    "genre": "ocean or nature adventure",
+    "characters": [
+      "Noah",
+      "Rohan",
+      "Ethan"
+    ],
+    "parts": [
+      {
+        "title": "The Shore",
+        "text": "Noah walked along the beach with her **team** of young naturalists, each one carrying a notebook and a collecting jar. She was careful not to **injure** any of the small creatures she found in the tide pools, lifting them gently and setting them back in the water. When a pelican spread its great **wing** and glided overhead, the whole group stopped to stare in wonder."
+      },
+      {
+        "title": "Nature's Warning",
+        "text": "Rohan, the marine biologist leading the trip, had a quick **wit** about her \u2014 she could read the sky in seconds. \"That is a **negative** pressure system,\" she said, pointing to the dark clouds building on the horizon. The full **scope** of the storm was becoming clear: heavy rain, rising surf, no time to waste. \"**Scramble** back to the van \u2014 now!\" she called out, and the whole group ran."
+      },
+      {
+        "title": "The Rescue",
+        "text": "That is when Noah spotted it \u2014 a baby sea turtle struggling to **endure** the pull of the current, one flipper tangled in fishing rope near the rocks. The other students gave a quiet **ovation** \u2014 soft clapping so they would not frighten the creature \u2014 as Noah began to work. She worked to **arrange** the rope in a way that let her ease it off without pulling. According to **legend**, those who help a sea turtle will always find their way home safely. \"We can **excel** at this,\" she told Ethan, and together they freed the little turtle in under a minute."
+      },
+      {
+        "title": "New Purpose",
+        "text": "The baby turtle swam away into the waves, strong and free. Rohan was so impressed that she invited Noah to join her summer marine research program. \"You have the instincts of a true scientist,\" she said. From that day on, Noah knew exactly what she wanted to be when she grew up \u2014 someone who protects the ocean and all the creatures that call it home."
+      }
+    ],
+    "wordCount": 278
+  },
+  "definitions": [
+    {
+      "word": "injure",
+      "partOfSpeech": "verb",
+      "meaning1": "To hurt or cause physical harm to someone. Example: He was careful not to injure himself while using the sharp scissors.",
+      "meaning2": "",
+      "studentChallenge": "The soccer player had to sit out after she twisted her ankle and managed to ___ her knee too.",
+      "sentence": ""
+    },
+    {
+      "word": "team",
+      "partOfSpeech": "noun/verb",
+      "meaning1": "A group of people who work or play together toward a common goal. Example: Our soccer team practiced every afternoon to get ready for the big championship game.",
+      "meaning2": "To join together with others to work on something. Example: The two classes decided to team up for the science fair project.",
+      "studentChallenge": "Every player on the ___ cheered when they scored the winning goal.",
+      "sentence": ""
+    },
+    {
+      "word": "ovation",
+      "partOfSpeech": "noun",
+      "meaning1": "A long, loud round of clapping and cheering to show appreciation. Example: The audience gave the young pianist a standing ovation after her beautiful performance.",
+      "meaning2": "",
+      "studentChallenge": "The entire crowd rose to their feet and gave the singer a thunderous ___.",
+      "sentence": ""
+    },
+    {
+      "word": "negative",
+      "partOfSpeech": "adjective",
+      "meaning1": "Bad or harmful; not positive or hopeful. Example: The negative comments about her painting made her feel sad and discouraged.",
+      "meaning2": "A number less than zero. Example: The temperature dropped to negative ten degrees during the blizzard.",
+      "studentChallenge": "Instead of making ___ remarks, try to say something kind and encouraging.",
+      "sentence": ""
+    },
+    {
+      "word": "scope",
+      "partOfSpeech": "noun",
+      "meaning1": "The range or extent of what something deals with or includes. Example: The scope of the science project was so big that it covered everything from volcanoes to glaciers.",
+      "meaning2": "",
+      "studentChallenge": "The ___ of the homework assignment was larger than the students expected.",
+      "sentence": ""
+    },
+    {
+      "word": "wit",
+      "partOfSpeech": "noun",
+      "meaning1": "The ability to say clever and funny things. Example: Her quick wit made everyone laugh.",
+      "meaning2": "",
+      "studentChallenge": "His sharp ___ kept the audience entertained.",
+      "sentence": ""
+    },
+    {
+      "word": "scramble",
+      "partOfSpeech": "verb",
+      "meaning1": "To move quickly and awkwardly, often using your hands and feet. Example: The kids had to scramble up the rocky hillside to reach the top.",
+      "meaning2": "To mix something up. Example: Mom likes to scramble eggs with cheese for breakfast every Saturday morning.",
+      "studentChallenge": "We had to ___ over the fallen tree that blocked the hiking trail.",
+      "sentence": ""
+    },
+    {
+      "word": "wing",
+      "partOfSpeech": "noun",
+      "meaning1": "The part of a bird, insect, or airplane that is used for flying. Example: The eagle spread its enormous wing and soared high above the canyon.",
+      "meaning2": "A section of a building that extends out from the main part. Example: The new wing of the hospital had rooms for fifty more patients.",
+      "studentChallenge": "The butterfly rested on the flower with its colorful ___ spread wide open.",
+      "sentence": ""
+    },
+    {
+      "word": "endure",
+      "partOfSpeech": "verb",
+      "meaning1": "To suffer through something difficult without giving up. Example: The runners endured the heat to finish the marathon.",
+      "meaning2": "",
+      "studentChallenge": "She had to ___ the long wait at the doctor's office.",
+      "sentence": ""
+    },
+    {
+      "word": "arrange",
+      "partOfSpeech": "verb",
+      "meaning1": "To put things in order or to make plans. Example: She arranged the flowers in a vase.",
+      "meaning2": "",
+      "studentChallenge": "Please ___ the books on the shelf by size.",
+      "sentence": ""
+    },
+    {
+      "word": "legend",
+      "partOfSpeech": "noun",
+      "meaning1": "An old story passed down over time that may not be true. Example: The legend of King Arthur has been told for centuries.",
+      "meaning2": "A famous or important person. Example: She is a legend in the world of music.",
+      "studentChallenge": "The ___ says a dragon once lived in the mountain.",
+      "sentence": ""
+    },
+    {
+      "word": "excel",
+      "partOfSpeech": "verb",
+      "meaning1": "To be very good at something. Example: She excels at math and science.",
+      "meaning2": "",
+      "studentChallenge": "Hard work helps you ___ in school.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "He was careful not to ___ himself while cutting paper with the sharp scissors.",
+      "sentence2": "The soccer player had to sit out of the game after she managed to ___ her knee on the hard ground.",
+      "options": [
+        "ovation",
+        "excel",
+        "legend",
+        "injure"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "injure"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Our soccer ___ practiced together every afternoon to get ready for the big championship game.",
+      "sentence2": "Every single player on the ___ cheered loudly when they scored the winning goal.",
+      "options": [
+        "ovation",
+        "team",
+        "wing",
+        "excel"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "team"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The audience gave the young pianist a standing ___, clapping and cheering for several minutes.",
+      "sentence2": "The entire crowd rose to their feet and gave the singer a thunderous ___ at the end of the concert.",
+      "options": [
+        "ovation",
+        "scramble",
+        "negative",
+        "arrange"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ovation"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The ___ comments about her painting \u2014 hurtful and discouraging \u2014 made her feel like giving up.",
+      "sentence2": "Instead of making ___ remarks that bring people down, try to say something kind and supportive.",
+      "options": [
+        "negative",
+        "injure",
+        "legend",
+        "arrange"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "negative"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The ___ of the science project was enormous \u2014 it covered everything from volcanoes to glaciers.",
+      "sentence2": "The students were surprised by the ___ of the assignment, which was much bigger than they had expected.",
+      "options": [
+        "arrange",
+        "scramble",
+        "team",
+        "scope"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "scope"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Her quick ___ \u2014 always ready with a clever joke \u2014 made everyone in the room burst into laughter.",
+      "sentence2": "His sharp ___ kept the whole audience entertained throughout his speech.",
+      "options": [
+        "wit",
+        "wing",
+        "scramble",
+        "excel"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "wit"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The kids had to ___ up the rocky, steep hillside on their hands and knees to reach the top.",
+      "sentence2": "We had to ___ over the fallen tree that was blocking the narrow hiking trail.",
+      "options": [
+        "injure",
+        "scope",
+        "scramble",
+        "legend"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "scramble"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The eagle spread its enormous ___ and soared high above the canyon, riding the warm air currents.",
+      "sentence2": "The butterfly rested on the flower with its colorful ___ spread wide open in the sunshine.",
+      "options": [
+        "wit",
+        "team",
+        "wing",
+        "arrange"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "wing"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The runners had to ___ the scorching heat and burning muscles to finish the full marathon.",
+      "sentence2": "She had to ___ the long, frustrating wait at the doctor's office without complaint.",
+      "options": [
+        "negative",
+        "endure",
+        "ovation",
+        "wing"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "endure"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "She carefully ___ the flowers in a tall glass vase, placing each stem just so.",
+      "sentence2": "Please ___ the books on the shelf by size, from tallest to shortest.",
+      "options": [
+        "negative",
+        "arrange",
+        "team",
+        "wit"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "arrange"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The ___ of King Arthur and his brave knights has been told around campfires for centuries.",
+      "sentence2": "The old ___ says a fierce dragon once lived inside the dark caves of the mountain.",
+      "options": [
+        "endure",
+        "wit",
+        "team",
+        "legend"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "legend"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "She ___ at math and science, always finishing first and getting the highest marks in class.",
+      "sentence2": "Hard work every day helps you ___ in school and reach goals you once thought were impossible.",
+      "options": [
+        "scope",
+        "arrange",
+        "excel",
+        "negative"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "excel"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "injure",
+      "team",
+      "ovation",
+      "negative",
+      "scope",
+      "wit",
+      "scramble",
+      "wing",
+      "endure",
+      "arrange",
+      "legend",
+      "excel"
+    ],
+    "passage": "Coach Rivera had built a _(1)_ unlike any other \u2014 a group of players who trusted each other completely. The _(2)_ of their work was impressive: training, nutrition, strategy, and mental strength all had to come together perfectly. Nobody on the squad would allow a single _(3)_ thought to take hold \u2014 they replaced every doubt with determination. Each player worked hard to _(4)_ in their position, pushing past average to become truly outstanding. When warm-ups began, players would _(5)_ across the field to their spots, moving fast on hands and feet over every obstacle. They had learned to _(6)_ the burning pain of hard practice, suffering through it without giving up. Rivera used her sharp _(7)_ \u2014 a quick joke or a clever remark \u2014 to keep spirits high even on the hardest days. She would carefully _(8)_ the training drills in a specific order, planning every minute so nothing was wasted. The striker, a speedy forward, moved like a bird on the _(9)_ \u2014 always on the edge of the field, always ready to fly toward the goal. One player's story had become a _(10)_ \u2014 passed down from coach to coach for twenty years \u2014 about how she came back from an injury to win gold. Nobody wanted to _(11)_ themselves by pushing too hard too fast, so they followed the plan closely. After the championship win, the whole stadium rose and gave them a thunderous _(12)_, clapping and cheering until the building shook.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "team",
+        "options": [
+          "team",
+          "wing",
+          "legend",
+          "wit"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "scope",
+        "options": [
+          "scope",
+          "injure",
+          "ovation",
+          "legend"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "negative",
+        "options": [
+          "negative",
+          "wit",
+          "scramble",
+          "legend"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "excel",
+        "options": [
+          "excel",
+          "injure",
+          "ovation",
+          "arrange"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "scramble",
+        "options": [
+          "scramble",
+          "ovation",
+          "injure",
+          "team"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "endure",
+        "options": [
+          "endure",
+          "scramble",
+          "wing",
+          "wit"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "wit",
+        "options": [
+          "wit",
+          "legend",
+          "wing",
+          "team"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "arrange",
+        "options": [
+          "arrange",
+          "ovation",
+          "wit",
+          "scope"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "wing",
+        "options": [
+          "wing",
+          "arrange",
+          "negative",
+          "scramble"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "legend",
+        "options": [
+          "legend",
+          "wit",
+          "arrange",
+          "team"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "injure",
+        "options": [
+          "injure",
+          "wing",
+          "arrange",
+          "legend"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "ovation",
+        "options": [
+          "ovation",
+          "injure",
+          "negative",
+          "arrange"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "injure",
+        "scale": [
+          "bruise",
+          "injure",
+          "wound"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "team",
+        "scale": [
+          "pair",
+          "team",
+          "squad"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "ovation",
+        "scale": [
+          "applause",
+          "ovation",
+          "acclamation"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "negative",
+        "scale": [
+          "doubtful",
+          "negative",
+          "hostile"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "scope",
+        "words": [
+          "range",
+          "extent",
+          "nothing",
+          "limit"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "nothing"
+      },
+      {
+        "vocabWord": "wit",
+        "words": [
+          "humor",
+          "dullness",
+          "cleverness",
+          "intelligence"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "dullness"
+      },
+      {
+        "vocabWord": "scramble",
+        "words": [
+          "relax",
+          "rush",
+          "climb",
+          "hurry"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "relax"
+      },
+      {
+        "vocabWord": "wing",
+        "words": [
+          "appendage",
+          "center",
+          "extension",
+          "section"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "center"
+      },
+      {
+        "vocabWord": "endure",
+        "words": [
+          "survive",
+          "surrender",
+          "bear",
+          "withstand"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "surrender"
+      },
+      {
+        "vocabWord": "arrange",
+        "words": [
+          "scatter",
+          "organize",
+          "sort",
+          "order"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "scatter"
+      },
+      {
+        "vocabWord": "legend",
+        "words": [
+          "tale",
+          "reality",
+          "story",
+          "myth"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "reality"
+      },
+      {
+        "vocabWord": "excel",
+        "words": [
+          "fail",
+          "shine",
+          "thrive",
+          "outperform"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "fail"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

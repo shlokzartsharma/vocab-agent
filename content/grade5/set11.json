@@ -1,0 +1,405 @@
+{
+  "grade": 5,
+  "setNumber": 11,
+  "words": [
+    "articulate",
+    "etymology",
+    "paraphrase",
+    "ambiguity",
+    "connotation",
+    "figurative",
+    "glossary",
+    "annotation",
+    "verbose",
+    "discourse",
+    "inference",
+    "enunciate"
+  ],
+  "sources": [
+    "Common Core Grade 5",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 5",
+    "CKLA Grade 5",
+    "Tier 2 Academic"
+  ],
+  "genre": "linguistics mystery",
+  "story": {
+    "genre": "linguistics mystery",
+    "characters": [
+      "Thiago",
+      "Astrid",
+      "Jaya"
+    ],
+    "parts": [
+      {
+        "title": "The Coded Message",
+        "text": "Thiago found a dusty notebook tucked behind a shelf in the school library. Someone had left an **annotation** beside every paragraph — tiny notes written in faded ink. Astrid leaned closer and tried to **articulate** what the markings meant, but the words were strange. Jaya grabbed the **glossary** at the back of the notebook, hoping it would explain the unusual terms."
+      },
+      {
+        "title": "Cracking the Clues",
+        "text": "The three friends began a careful **discourse** about the mysterious text. Jaya noticed that one phrase was **figurative**, comparing the night sky to a blanket of secrets. Astrid studied the **etymology** of an old word, tracing its roots back to ancient Greek. Thiago tried to **paraphrase** a coded line, restating it in simpler language."
+      },
+      {
+        "title": "The Hidden Meaning",
+        "text": "Some sentences held **ambiguity** — they could mean two completely different things. Astrid realized that a word's **connotation** mattered more than its dictionary definition in this puzzle. She asked Thiago to **enunciate** each clue aloud, pronouncing every syllable clearly. Jaya made an **inference** from the patterns she noticed. The writer had been far too **verbose**, using many extra words to hide a simple secret."
+      },
+      {
+        "title": "The Reveal",
+        "text": "After hours of teamwork, the three friends decoded the final line. The notebook had been written decades ago by a student who wanted future readers to practice their language skills. They laughed, realizing the mystery had been a vocabulary exercise all along, and decided to create their own coded notebook for the next curious reader."
+      }
+    ],
+    "wordCount": 234
+  },
+  "definitions": [
+    {
+      "word": "articulate",
+      "partOfSpeech": "verb, adjective",
+      "meaning1": "To express an idea clearly and effectively. Example: She was able to articulate her feelings about the book during the class discussion.",
+      "meaning2": "Able to speak clearly and well. Example: The articulate speaker held the audience's attention the entire time.",
+      "studentChallenge": "He tried to ___ his thoughts, but he was too nervous to find the right words.",
+      "sentence": ""
+    },
+    {
+      "word": "etymology",
+      "partOfSpeech": "noun",
+      "meaning1": "The study of where words come from and how their meanings have changed over time. Example: The etymology of the word 'telephone' traces back to Greek words meaning 'far' and 'voice.'",
+      "meaning2": "",
+      "studentChallenge": "Learning the ___ of a word can help you understand its meaning better.",
+      "sentence": ""
+    },
+    {
+      "word": "paraphrase",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To restate something in your own words. Example: The teacher asked us to paraphrase the paragraph instead of copying it word for word.",
+      "meaning2": "A restatement of a text in different words. Example: Her paraphrase of the poem made it much easier to understand.",
+      "studentChallenge": "Can you ___ this sentence so it is easier for younger students to understand?",
+      "sentence": ""
+    },
+    {
+      "word": "ambiguity",
+      "partOfSpeech": "noun",
+      "meaning1": "When something can be understood in more than one way; uncertainty of meaning. Example: The ambiguity of the riddle made it hard to know the correct answer.",
+      "meaning2": "",
+      "studentChallenge": "There was ___ in his directions, so we were not sure which path to take.",
+      "sentence": ""
+    },
+    {
+      "word": "connotation",
+      "partOfSpeech": "noun",
+      "meaning1": "An extra feeling or idea that a word suggests beyond its basic definition. Example: The word 'home' has a warm connotation that the word 'building' does not.",
+      "meaning2": "",
+      "studentChallenge": "The word 'stubborn' has a negative ___, while 'determined' sounds more positive.",
+      "sentence": ""
+    },
+    {
+      "word": "figurative",
+      "partOfSpeech": "adjective",
+      "meaning1": "Using words in a creative, non-literal way to create a picture or idea. Example: When she said 'it's raining cats and dogs,' she was using figurative language.",
+      "meaning2": "",
+      "studentChallenge": "The poet used ___ language when she called the moon a silver coin in the sky.",
+      "sentence": ""
+    },
+    {
+      "word": "glossary",
+      "partOfSpeech": "noun",
+      "meaning1": "A list of special or unusual words with their definitions, usually found at the back of a book. Example: I checked the glossary to find the meaning of the science term.",
+      "meaning2": "",
+      "studentChallenge": "If you do not know a word in the textbook, look it up in the ___ at the back.",
+      "sentence": ""
+    },
+    {
+      "word": "annotation",
+      "partOfSpeech": "noun",
+      "meaning1": "A note or comment added to a text to explain or highlight something. Example: The student wrote an annotation in the margin to remember the important detail.",
+      "meaning2": "",
+      "studentChallenge": "She added an ___ next to the poem to remind herself what the metaphor meant.",
+      "sentence": ""
+    },
+    {
+      "word": "verbose",
+      "partOfSpeech": "adjective",
+      "meaning1": "Using more words than necessary; long-winded. Example: His verbose essay could have been half the length if he had cut the extra details.",
+      "meaning2": "",
+      "studentChallenge": "The report was too ___, so the teacher asked her to shorten it.",
+      "sentence": ""
+    },
+    {
+      "word": "discourse",
+      "partOfSpeech": "noun",
+      "meaning1": "A serious discussion or conversation about a topic. Example: The class had an interesting discourse about whether homework helps students learn.",
+      "meaning2": "",
+      "studentChallenge": "The students had a thoughtful ___ about the causes of the American Revolution.",
+      "sentence": ""
+    },
+    {
+      "word": "inference",
+      "partOfSpeech": "noun",
+      "meaning1": "A conclusion you reach based on clues and evidence, not from being told directly. Example: Based on the wet umbrella by the door, she made the inference that it was raining outside.",
+      "meaning2": "",
+      "studentChallenge": "The detective made an ___ about who stole the painting based on the footprints.",
+      "sentence": ""
+    },
+    {
+      "word": "enunciate",
+      "partOfSpeech": "verb",
+      "meaning1": "To pronounce words clearly and distinctly. Example: The actor had to enunciate every word so the audience in the back row could understand.",
+      "meaning2": "",
+      "studentChallenge": "Please ___ your words when giving a speech so everyone can hear you clearly.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "She was able to _______ her ideas clearly during the group presentation.",
+      "sentence2": "The _______ young speaker impressed the judges with how well she expressed her thoughts.",
+      "options": ["enunciate", "articulate", "paraphrase", "verbose"],
+      "correctIndex": 1,
+      "correctAnswer": "articulate"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The _______ of the word 'democracy' traces back to ancient Greek words meaning 'people' and 'rule.'",
+      "sentence2": "Studying the _______ of English words reveals that many come from Latin and French roots.",
+      "options": ["glossary", "annotation", "etymology", "connotation"],
+      "correctIndex": 2,
+      "correctAnswer": "etymology"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The teacher asked us to _______ the author's main argument using our own words.",
+      "sentence2": "If you cannot quote the text exactly, try to _______ the most important ideas instead.",
+      "options": ["paraphrase", "articulate", "enunciate", "discourse"],
+      "correctIndex": 0,
+      "correctAnswer": "paraphrase"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The _______ of the poem's ending left readers debating what really happened to the character.",
+      "sentence2": "To avoid _______, the scientist wrote her instructions in very specific, clear language.",
+      "options": ["connotation", "inference", "ambiguity", "annotation"],
+      "correctIndex": 2,
+      "correctAnswer": "ambiguity"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The word 'cheap' has a negative _______, while 'affordable' sounds much more positive.",
+      "sentence2": "Writers choose words carefully because every word carries a _______ beyond its basic meaning.",
+      "options": ["connotation", "etymology", "ambiguity", "glossary"],
+      "correctIndex": 0,
+      "correctAnswer": "connotation"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Saying 'time flies' is _______ language because time does not actually have wings.",
+      "sentence2": "The poet used _______ expressions to compare sadness to a heavy stone on the chest.",
+      "options": ["verbose", "figurative", "articulate", "inference"],
+      "correctIndex": 1,
+      "correctAnswer": "figurative"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "I found the definition of 'photosynthesis' in the _______ at the back of the science textbook.",
+      "sentence2": "The _______ listed every technical term used in the chapter in alphabetical order.",
+      "options": ["annotation", "discourse", "etymology", "glossary"],
+      "correctIndex": 3,
+      "correctAnswer": "glossary"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The student wrote an _______ in the margin of the page explaining why the quote was important.",
+      "sentence2": "Each _______ she added to the map helped the other hikers understand the trail better.",
+      "options": ["annotation", "inference", "paraphrase", "ambiguity"],
+      "correctIndex": 0,
+      "correctAnswer": "annotation"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "His _______ answer took ten minutes when a simple 'yes' or 'no' would have been enough.",
+      "sentence2": "The _______ letter rambled on for five pages without ever getting to the point.",
+      "options": ["figurative", "articulate", "verbose", "enunciate"],
+      "correctIndex": 2,
+      "correctAnswer": "verbose"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The panel held a thoughtful _______ about how technology is changing education.",
+      "sentence2": "During their _______, the students shared different viewpoints about the novel's theme.",
+      "options": ["inference", "discourse", "ambiguity", "connotation"],
+      "correctIndex": 1,
+      "correctAnswer": "discourse"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Based on the dark clouds and strong wind, she made the _______ that a storm was coming.",
+      "sentence2": "Good readers make an _______ about a character's feelings by looking at what the character says and does.",
+      "options": ["etymology", "paraphrase", "glossary", "inference"],
+      "correctIndex": 3,
+      "correctAnswer": "inference"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The drama teacher reminded the actors to _______ every syllable so the audience could understand them.",
+      "sentence2": "She had to _______ the unfamiliar name several times before her classmates could repeat it correctly.",
+      "options": ["enunciate", "articulate", "verbose", "discourse"],
+      "correctIndex": 0,
+      "correctAnswer": "enunciate"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "articulate",
+      "etymology",
+      "paraphrase",
+      "ambiguity",
+      "connotation",
+      "figurative",
+      "glossary",
+      "annotation",
+      "verbose",
+      "discourse",
+      "inference",
+      "enunciate"
+    ],
+    "passage": "Professor Lin's Language Lab was the most popular after-school club at Maple Ridge Elementary. Every Tuesday, students gathered for a lively _(1)_ about the hidden secrets of words. Today's lesson began with the _(2)_ of the word 'astronaut,' which comes from Greek words meaning 'star sailor' — a beautiful _(3)_ expression that paints a picture of someone sailing through the sky.\n\nMarcus raised his hand and tried to _(4)_ his question clearly, but he stumbled over the long word 'onomatopoeia.' Professor Lin smiled and asked him to _(5)_ each syllable slowly. She then pointed to the _(6)_ in their workbook where the word was defined.\n\nNext, Professor Lin showed two poems on the board. She had written an _(7)_ beside each stanza explaining the poet's technique. She asked the class to _(8)_ the first poem's meaning in their own words. One student's answer was far too _(9)_, taking three paragraphs to say what could be said in three sentences.\n\nThe trickiest part came when Professor Lin revealed a sentence with deliberate _(10)_ — it could be read two different ways. The students had to make an _(11)_ about the author's true intention using context clues. Finally, they discussed how the word 'thrifty' has a positive _(12)_ compared to the word 'stingy,' even though both describe someone who does not spend much money.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "discourse",
+        "options": ["discourse", "annotation", "ambiguity", "glossary"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "etymology",
+        "options": ["connotation", "etymology", "inference", "paraphrase"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "figurative",
+        "options": ["verbose", "figurative", "articulate", "enunciate"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "articulate",
+        "options": ["articulate", "paraphrase", "enunciate", "discourse"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "enunciate",
+        "options": ["enunciate", "articulate", "verbose", "inference"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "glossary",
+        "options": ["annotation", "glossary", "etymology", "connotation"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "annotation",
+        "options": ["annotation", "ambiguity", "discourse", "figurative"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "paraphrase",
+        "options": ["enunciate", "paraphrase", "articulate", "etymology"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "verbose",
+        "options": ["figurative", "verbose", "ambiguity", "glossary"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "ambiguity",
+        "options": ["connotation", "inference", "ambiguity", "discourse"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "inference",
+        "options": ["inference", "paraphrase", "annotation", "etymology"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "connotation",
+        "options": ["verbose", "connotation", "glossary", "enunciate"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "verbose",
+        "scale": ["Brief", "Wordy", "Verbose"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "ambiguity",
+        "scale": ["Clarity", "Vagueness", "Ambiguity"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "articulate",
+        "scale": ["Mumbling", "Clear", "Articulate"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "discourse",
+        "scale": ["Chat", "Discussion", "Discourse"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "articulate",
+        "words": ["Clear", "Mumbling", "Expressive", "Eloquent"],
+        "imposterIndex": 1,
+        "imposterWord": "Mumbling"
+      },
+      {
+        "vocabWord": "verbose",
+        "words": ["Concise", "Long-winded", "Wordy", "Rambling"],
+        "imposterIndex": 0,
+        "imposterWord": "Concise"
+      },
+      {
+        "vocabWord": "figurative",
+        "words": ["Symbolic", "Metaphorical", "Literal", "Imaginative"],
+        "imposterIndex": 2,
+        "imposterWord": "Literal"
+      },
+      {
+        "vocabWord": "paraphrase",
+        "words": ["Restate", "Rephrase", "Summarize", "Copy"],
+        "imposterIndex": 3,
+        "imposterWord": "Copy"
+      },
+      {
+        "vocabWord": "enunciate",
+        "words": ["Pronounce", "Mumble", "Declare", "Speak"],
+        "imposterIndex": 1,
+        "imposterWord": "Mumble"
+      },
+      {
+        "vocabWord": "inference",
+        "words": ["Guess", "Deduction", "Conclusion", "Fact"],
+        "imposterIndex": 3,
+        "imposterWord": "Fact"
+      },
+      {
+        "vocabWord": "ambiguity",
+        "words": ["Certainty", "Confusion", "Vagueness", "Uncertainty"],
+        "imposterIndex": 0,
+        "imposterWord": "Certainty"
+      },
+      {
+        "vocabWord": "annotation",
+        "words": ["Note", "Comment", "Remark", "Erasure"],
+        "imposterIndex": 3,
+        "imposterWord": "Erasure"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

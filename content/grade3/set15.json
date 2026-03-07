@@ -1,0 +1,583 @@
+{
+  "grade": 3,
+  "setNumber": 15,
+  "words": [
+    "anchor",
+    "clasp",
+    "courage",
+    "layer",
+    "brink",
+    "immigrant",
+    "role",
+    "steady",
+    "shallow",
+    "reward",
+    "stumble",
+    "confess"
+  ],
+  "sources": [
+    "CBSE India",
+    "Common Core Grade 3",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Scholastic",
+    "Tier 2 Academic",
+    "Wit & Wisdom Grade 3",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "true historical figure biography",
+  "story": {
+    "genre": "true historical figure biography",
+    "characters": [
+      "Nisha",
+      "Kiran",
+      "Amara"
+    ],
+    "parts": [
+      {
+        "title": "The Warning Signs",
+        "text": "Nisha was the **anchor** of her research team \u2014 the one person everyone depended on to stay calm when the news was bad. Every morning she would **clasp** her notebook tightly and read the latest climate data, her hands steady even as the numbers grew worse. It took real **courage** to stand up at the town meeting and tell people the truth: the coast was in danger, and they had very little time to act."
+      },
+      {
+        "title": "The Crisis",
+        "text": "A massive storm stripped away the top **layer** of soil along the shoreline, and the flooding that followed pushed the town to the **brink** of disaster. Amara, who had come to the region years ago as a young **immigrant** and made it her home, knocked on every door urging her neighbors not to give up. Kiran's **role** as community leader had never felt heavier \u2014 she needed to keep everyone **steady** while the river rose around them."
+      },
+      {
+        "title": "Taking Action",
+        "text": "The damage from the floods was not **shallow** \u2014 it ran deep into the foundations of homes and lives. But Nisha believed there was a **reward** waiting for anyone willing to work for it: a safer, greener coast protected by mangrove trees. \"Anyone who bothers to look will **stumble** upon research proving mangroves can reduce flood damage by half,\" she told the council. \"I must **confess** I was skeptical at first, but the evidence is undeniable.\""
+      },
+      {
+        "title": "A Greener Future",
+        "text": "Three years later, the mangrove forest stretched along two miles of coastline. When the next big storm came, the town survived with minimal damage. Kiran told the newspapers, \"Nisha saved our town. She showed us that one person with a good idea can change everything.\" The town became a model for climate resilience, and Nisha's story was taught in schools across the country."
+      }
+    ],
+    "wordCount": 253
+  },
+  "definitions": [
+    {
+      "word": "anchor",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A heavy object dropped into water to keep a boat in place. Example: The captain dropped the anchor near the shore.",
+      "meaning2": "A person who reads the news on TV. Example: She works as a news anchor.",
+      "studentChallenge": "The ship dropped its ___ in the harbor.",
+      "sentence": ""
+    },
+    {
+      "word": "clasp",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To hold tightly. Example: She clasped the necklace around her neck.",
+      "meaning2": "A device that holds things together. Example: The clasp on the bracelet broke.",
+      "studentChallenge": "He ___ the trophy tightly in his hands.",
+      "sentence": ""
+    },
+    {
+      "word": "courage",
+      "partOfSpeech": "noun",
+      "meaning1": "The ability to face fear or danger bravely. Example: It takes courage to stand up for what is right.",
+      "meaning2": "",
+      "studentChallenge": "The firefighter showed great ___ during the rescue.",
+      "sentence": ""
+    },
+    {
+      "word": "layer",
+      "partOfSpeech": "noun",
+      "meaning1": "A single thickness of something that lies on top of or under another. Example: The cake had three layers of chocolate with frosting in between each one.",
+      "meaning2": "",
+      "studentChallenge": "She put on an extra ___ of clothing because the morning was chilly.",
+      "sentence": ""
+    },
+    {
+      "word": "brink",
+      "partOfSpeech": "noun",
+      "meaning1": "The edge of something steep or dangerous. Example: They stood on the brink of the cliff.",
+      "meaning2": "Very close to a new situation. Example: The team was on the brink of victory.",
+      "studentChallenge": "The country was on the ___ of a great discovery.",
+      "sentence": ""
+    },
+    {
+      "word": "immigrant",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who moves to a new country to live there. Example: My great-grandfather was an immigrant who came to America from Italy on a big ship.",
+      "meaning2": "",
+      "studentChallenge": "The ___ worked hard to learn a new language and make a home in a new country.",
+      "sentence": ""
+    },
+    {
+      "word": "role",
+      "partOfSpeech": "noun",
+      "meaning1": "The part someone plays in a situation, job, or performance. Example: She was thrilled to get the lead role in the school play about a girl who travels back in time.",
+      "meaning2": "",
+      "studentChallenge": "Each member of the team had an important ___ to play in making the project a success.",
+      "sentence": ""
+    },
+    {
+      "word": "steady",
+      "partOfSpeech": "adjective",
+      "meaning1": "Firm, balanced, and not shaking or moving. Example: Hold the camera steady so the photograph doesn't come out blurry.",
+      "meaning2": "Happening at an even, regular pace. Example: The steady beat of the drum kept all the marchers in step.",
+      "studentChallenge": "She held the flashlight ___ so her brother could read the map in the dark tent.",
+      "sentence": ""
+    },
+    {
+      "word": "shallow",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not deep. Example: The shallow pool was safe for young children.",
+      "meaning2": "",
+      "studentChallenge": "The ___ end of the pool is only two feet deep.",
+      "sentence": ""
+    },
+    {
+      "word": "reward",
+      "partOfSpeech": "noun",
+      "meaning1": "Something given in return for good behaviour, hard work, or an achievement. Example: As a reward for finishing all her homework early, she was allowed to play outside.",
+      "meaning2": "",
+      "studentChallenge": "The family offered a ___ to anyone who could help them find their missing puppy.",
+      "sentence": ""
+    },
+    {
+      "word": "stumble",
+      "partOfSpeech": "verb",
+      "meaning1": "To trip or lose your balance while walking or running. Example: He stumbled over a tree root on the hiking trail and nearly fell into the stream.",
+      "meaning2": "To accidentally find or come across something. Example: While cleaning the attic, they stumbled upon a box of old family photographs.",
+      "studentChallenge": "Be careful not to ___ on the uneven sidewalk in front of the school.",
+      "sentence": ""
+    },
+    {
+      "word": "confess",
+      "partOfSpeech": "verb",
+      "meaning1": "To admit that you did something wrong or that something is true. Example: After a long pause, Jake decided to confess that he was the one who accidentally broke the window.",
+      "meaning2": "",
+      "studentChallenge": "I have to ___ that I ate the last cookie before anyone else could have one.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The captain dropped the heavy metal ___ to keep the ship from drifting away from the shore.",
+      "sentence2": "The news reporter became the evening ___, reading every story to millions of viewers at home.",
+      "options": [
+        "shallow",
+        "anchor",
+        "role",
+        "immigrant"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "anchor"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "She ___ her little sister's hand tightly so she would not wander off in the busy crowd.",
+      "sentence2": "The broken ___ on her bracelet meant the jewelry fell right off her wrist.",
+      "options": [
+        "clasp",
+        "stumble",
+        "steady",
+        "role"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "clasp"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "It takes real ___ to speak up for a friend who is being treated unfairly.",
+      "sentence2": "The firefighter showed incredible ___, running into the burning building to save the trapped family.",
+      "options": [
+        "clasp",
+        "brink",
+        "shallow",
+        "courage"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "courage"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The earth has ___ of rock deep underground, each one a different color and age.",
+      "sentence2": "She added a thick ___ of frosting between each sponge of the birthday cake.",
+      "options": [
+        "anchor",
+        "stumble",
+        "reward",
+        "layer"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "layer"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Standing on the ___ of the cliff, they could see the ocean crashing far below.",
+      "sentence2": "After months of hard training, the young swimmer was on the ___ of breaking the school record.",
+      "options": [
+        "role",
+        "brink",
+        "stumble",
+        "layer"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "brink"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "My great-grandmother was an ___ who traveled by ship from Poland to start a new life in Canada.",
+      "sentence2": "The ___ worked hard every day to learn English, save money, and build a home in a new country.",
+      "options": [
+        "confess",
+        "clasp",
+        "immigrant",
+        "shallow"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "immigrant"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "She practiced her lines every night because she had the lead ___ in the school play.",
+      "sentence2": "Each scientist on the team had a specific ___ \u2014 one collected data while another wrote the report.",
+      "options": [
+        "role",
+        "brink",
+        "steady",
+        "clasp"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "role"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Hold the camera ___ or the photo will come out blurry and shaky.",
+      "sentence2": "She kept her hand ___ as she poured the paint, making sure not a single drop spilled.",
+      "options": [
+        "courage",
+        "steady",
+        "anchor",
+        "stumble"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "steady"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The ___ end of the creek, only ankle-deep, was the safe spot for the young children to wade.",
+      "sentence2": "The ___ pan held just enough water to rinse the brushes without making a mess.",
+      "options": [
+        "shallow",
+        "brink",
+        "steady",
+        "clasp"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "shallow"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "As a ___ for finishing all her chores, she was allowed to choose the movie for family night.",
+      "sentence2": "The neighbor offered a generous ___ to anyone who could find her missing cat.",
+      "options": [
+        "clasp",
+        "layer",
+        "reward",
+        "shallow"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "reward"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "He began to ___ over the loose stone on the path and nearly fell into the stream.",
+      "sentence2": "While exploring the old attic, they happened to ___ upon a box of letters from a hundred years ago.",
+      "options": [
+        "courage",
+        "role",
+        "steady",
+        "stumble"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "stumble"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "After thinking it over all night, Jake decided to ___ that he had accidentally broken the window.",
+      "sentence2": "I must ___ that I forgot to return the library book \u2014 it has been sitting under my bed for two weeks.",
+      "options": [
+        "immigrant",
+        "shallow",
+        "confess",
+        "role"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "confess"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "anchor",
+      "clasp",
+      "courage",
+      "layer",
+      "brink",
+      "immigrant",
+      "role",
+      "steady",
+      "shallow",
+      "reward",
+      "stumble",
+      "confess"
+    ],
+    "passage": "Mara's grandmother had come to this country as a young _(1)_, crossing the ocean with nothing but a small bag and a big dream. Her most treasured keepsake was a silver necklace with a tiny _(2)_ shaped like a heart \u2014 it had belonged to her own mother. Mara would often _(3)_ upon it in the drawer and hold it gently. It took real _(4)_ to leave everything behind and start over in a strange land. Grandmother had played a vital _(5)_ in building their community, teaching neighbors how to cook and plant gardens. She was the _(6)_ of the family \u2014 always calm, always there, never wavering. When times were hard, the family stood on the _(7)_ of giving up, but grandmother kept them going with her quiet strength. She would add a new _(8)_ of meaning to every old family story, making each one richer than before. Even in _(9)_ difficulties \u2014 small, everyday troubles \u2014 she stayed _(10)_, never letting her hands shake or her voice tremble. \"I must _(11)_,\" she once told Mara, \"that the greatest _(12)_ in life is not money or fame. It is the love of the people around you.\"",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "immigrant",
+        "options": [
+          "immigrant",
+          "stumble",
+          "layer",
+          "steady"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "clasp",
+        "options": [
+          "clasp",
+          "confess",
+          "courage",
+          "shallow"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "stumble",
+        "options": [
+          "stumble",
+          "anchor",
+          "role",
+          "brink"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "courage",
+        "options": [
+          "courage",
+          "reward",
+          "steady",
+          "layer"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "role",
+        "options": [
+          "role",
+          "reward",
+          "immigrant",
+          "anchor"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "anchor",
+        "options": [
+          "anchor",
+          "clasp",
+          "brink",
+          "layer"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "brink",
+        "options": [
+          "brink",
+          "shallow",
+          "confess",
+          "layer"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "layer",
+        "options": [
+          "layer",
+          "anchor",
+          "role",
+          "brink"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "shallow",
+        "options": [
+          "shallow",
+          "clasp",
+          "steady",
+          "confess"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "steady",
+        "options": [
+          "steady",
+          "role",
+          "brink",
+          "layer"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "confess",
+        "options": [
+          "confess",
+          "courage",
+          "reward",
+          "layer"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "reward",
+        "options": [
+          "reward",
+          "anchor",
+          "immigrant",
+          "clasp"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "anchor",
+        "scale": [
+          "hold",
+          "anchor",
+          "secure"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "clasp",
+        "scale": [
+          "touch",
+          "clasp",
+          "grip"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "courage",
+        "scale": [
+          "nerve",
+          "courage",
+          "bravery"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "layer",
+        "scale": [
+          "sheet",
+          "layer",
+          "stratum"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "brink",
+        "words": [
+          "center",
+          "edge",
+          "verge",
+          "threshold"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "center"
+      },
+      {
+        "vocabWord": "immigrant",
+        "words": [
+          "newcomer",
+          "settler",
+          "migrant",
+          "native"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "native"
+      },
+      {
+        "vocabWord": "role",
+        "words": [
+          "part",
+          "absence",
+          "character",
+          "position"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "absence"
+      },
+      {
+        "vocabWord": "steady",
+        "words": [
+          "stable",
+          "firm",
+          "constant",
+          "shaky"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "shaky"
+      },
+      {
+        "vocabWord": "shallow",
+        "words": [
+          "surface",
+          "deep",
+          "slight",
+          "superficial"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "deep"
+      },
+      {
+        "vocabWord": "reward",
+        "words": [
+          "prize",
+          "payment",
+          "gift",
+          "punishment"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "punishment"
+      },
+      {
+        "vocabWord": "stumble",
+        "words": [
+          "balance",
+          "trip",
+          "falter",
+          "stagger"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "balance"
+      },
+      {
+        "vocabWord": "confess",
+        "words": [
+          "deny",
+          "admit",
+          "reveal",
+          "acknowledge"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "deny"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

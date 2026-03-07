@@ -1,0 +1,585 @@
+{
+  "grade": 3,
+  "setNumber": 36,
+  "words": [
+    "react",
+    "galaxy",
+    "plateau",
+    "bristle",
+    "input",
+    "cobbler",
+    "perch",
+    "minimum",
+    "scene",
+    "atmosphere",
+    "succeed",
+    "fierce"
+  ],
+  "sources": [
+    "Australian Curriculum",
+    "CBSE India",
+    "Common Core Grade 3",
+    "Common Core Grade 4",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Scholastic",
+    "Tier 2 Academic",
+    "Wit & Wisdom Grade 3",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "time travel adventure mixing real history",
+  "story": {
+    "genre": "time travel adventure mixing real history",
+    "characters": [
+      "Arjun",
+      "Maya",
+      "Mila"
+    ],
+    "parts": [
+      {
+        "title": "The Time Machine",
+        "text": "Arjun did not know how to **react** when the glowing machine in her grandfather's attic switched on by itself. Its controls sat on a flat **plateau** of metal, smooth and level like a tabletop. A star map painted on its side showed every **galaxy** in the known universe, with tiny arrows pointing to destinations Arjun could not yet read."
+      },
+      {
+        "title": "Ancient Times",
+        "text": "She landed in the middle of a **scene** she could barely believe \u2014 the ancient Indus Valley civilization, alive and busy around her. The **atmosphere** was warm and dusty, filled with the smell of grain and river mud. A **cobbler** sat cross-legged at the edge of a market, stitching a leather sandal with expert hands. Arjun tried to **perch** quietly on a low wall and observe without drawing attention, though the **minimum** noise she made turning a page in her notebook caused a child nearby to look up."
+      },
+      {
+        "title": "Making Friends",
+        "text": "A girl about her own age approached, her eyes **fierce** with curiosity rather than fear. She spoke first and gestured for Arjun to follow, eager to **succeed** at making herself understood. She welcomed any **input** Arjun tried to give \u2014 pointing at things, drawing shapes in the dust. When a dog nearby began to **bristle** and growl at Arjun, the girl stepped between them calmly, and the dog backed down."
+      },
+      {
+        "title": "Coming Home",
+        "text": "After three unforgettable days, the machine hummed back to life. Arjun hugged her new friend goodbye, knowing she could never explain where she was really from. Back in her attic, Arjun wrote everything down in her journal. History wasn't just something in books \u2014 it was real, alive, and full of people just like her. She closed the journal and looked at the time machine. Where would it take her next?"
+      }
+    ],
+    "wordCount": 278
+  },
+  "definitions": [
+    {
+      "word": "react",
+      "partOfSpeech": "verb",
+      "meaning1": "To respond to something that has happened. Example: The audience did not know how to react when the magician made the rabbit disappear.",
+      "meaning2": "In science, when substances combine and change. Example: Vinegar and baking soda react together to create a fizzy eruption.",
+      "studentChallenge": "How did your friends ___ when you told them the exciting news about the school trip?",
+      "sentence": ""
+    },
+    {
+      "word": "galaxy",
+      "partOfSpeech": "noun",
+      "meaning1": "A huge collection of stars, planets, gas, and dust held together by gravity in space. Example: Our solar system is part of a galaxy called the Milky Way.",
+      "meaning2": "",
+      "studentChallenge": "Scientists believe there are billions of stars in our ___ alone.",
+      "sentence": ""
+    },
+    {
+      "word": "plateau",
+      "partOfSpeech": "noun",
+      "meaning1": "A large, flat area of land that is higher than the land around it. Example: The plateau stretched for miles, flat as a table, with steep cliffs dropping down on every side.",
+      "meaning2": "A period where there is no change or improvement. Example: After improving quickly, her piano skills hit a plateau for a few weeks.",
+      "studentChallenge": "From the edge of the ___, we could see the river winding through the valley far below.",
+      "sentence": ""
+    },
+    {
+      "word": "bristle",
+      "partOfSpeech": "noun",
+      "meaning1": "A short, stiff hair or one of the stiff fibers on a brush. Example: The bristles on the old toothbrush were bent and worn out.",
+      "meaning2": "To react in an angry or offended way. Example: The cat would bristle and puff up its fur whenever the dog came near.",
+      "studentChallenge": "The paintbrush had soft ___ that made it easy to spread the watercolors smoothly.",
+      "sentence": ""
+    },
+    {
+      "word": "input",
+      "partOfSpeech": "noun",
+      "meaning1": "Ideas, suggestions, or information that someone contributes. Example: The teacher asked for input from every student before choosing the class pet.",
+      "meaning2": "Information entered into a computer. Example: The program needed input from the keyboard to work properly.",
+      "studentChallenge": "The principal wanted ___ from parents and students before making changes to the lunch menu.",
+      "sentence": ""
+    },
+    {
+      "word": "cobbler",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who makes or repairs shoes. Example: The cobbler fixed the broken heel on my favorite boots and they looked brand new.",
+      "meaning2": "A type of baked fruit dessert with a thick crust on top. Example: Grandma made a delicious peach cobbler with fruit from her own garden.",
+      "studentChallenge": "The ___ carefully stitched the torn leather on the old pair of boots.",
+      "sentence": ""
+    },
+    {
+      "word": "perch",
+      "partOfSpeech": "verb",
+      "meaning1": "To sit or rest on the edge of something, usually up high. Example: A bright red robin perched on the garden fence and sang a cheerful song.",
+      "meaning2": "A bar or branch where a bird sits. Example: The parrot hopped along its wooden perch inside the cage.",
+      "studentChallenge": "The owl liked to ___ on the highest branch of the tree and watch the field below.",
+      "sentence": ""
+    },
+    {
+      "word": "minimum",
+      "partOfSpeech": "noun",
+      "meaning1": "The smallest amount or lowest level that is possible or allowed. Example: You need a minimum of five players to start the basketball game.",
+      "meaning2": "",
+      "studentChallenge": "The ___ age to join the chess club is seven years old.",
+      "sentence": ""
+    },
+    {
+      "word": "scene",
+      "partOfSpeech": "noun",
+      "meaning1": "A part of a play, movie, or story where events happen in one place. Example: The funniest scene in the movie was when the dog stole the birthday cake.",
+      "meaning2": "A view or picture of a place. Example: The scene from the top of the mountain was absolutely beautiful.",
+      "studentChallenge": "The opening ___ of the play took place in a spooky old castle.",
+      "sentence": ""
+    },
+    {
+      "word": "atmosphere",
+      "partOfSpeech": "noun",
+      "meaning1": "The layer of gases surrounding the Earth. Example: The atmosphere protects us from harmful rays.",
+      "meaning2": "The feeling or mood of a place. Example: The restaurant had a friendly atmosphere.",
+      "studentChallenge": "The ___ in the room was tense before the announcement.",
+      "sentence": ""
+    },
+    {
+      "word": "succeed",
+      "partOfSpeech": "verb",
+      "meaning1": "To achieve what you set out to do. Example: If you work hard, you will succeed.",
+      "meaning2": "",
+      "studentChallenge": "She studied every night and ___ on the test.",
+      "sentence": ""
+    },
+    {
+      "word": "fierce",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very strong or violent; intense. Example: The fierce winds knocked down trees.",
+      "meaning2": "",
+      "studentChallenge": "The ___ lion protected its territory.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Nobody knew how to ___ when the fire alarm suddenly rang during the quiet library hour.",
+      "sentence2": "When vinegar and baking soda mix, they ___ immediately and create a foaming eruption.",
+      "options": [
+        "react",
+        "plateau",
+        "succeed",
+        "perch"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "react"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Our solar system is one tiny part of the vast ___ called the Milky Way, which contains billions of stars.",
+      "sentence2": "Scientists use powerful telescopes to study each ___ and count the stars spinning inside it.",
+      "options": [
+        "scene",
+        "atmosphere",
+        "galaxy",
+        "plateau"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "galaxy"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The hikers climbed until they reached the flat, table-top ___, where the land stretched level in every direction.",
+      "sentence2": "After improving quickly for months, her reading speed hit a ___ and stayed the same for several weeks.",
+      "options": [
+        "react",
+        "minimum",
+        "fierce",
+        "plateau"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "plateau"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The stiff ___ on the old scrub brush were worn down to stubby nubs from years of heavy use.",
+      "sentence2": "She chose a paintbrush with soft, fine ___ so the watercolor would spread smoothly across the paper.",
+      "options": [
+        "perch",
+        "input",
+        "bristle",
+        "scene"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "bristle"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The teacher asked every student to share their ___ \u2014 their ideas and suggestions \u2014 before choosing the class project.",
+      "sentence2": "The principal valued ___ from parents, wanting their opinions and feedback before changing the school schedule.",
+      "options": [
+        "input",
+        "cobbler",
+        "atmosphere",
+        "minimum"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "input"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The ___ carefully stitched the cracked sole back onto the boot, making it look as good as new.",
+      "sentence2": "Grandma baked a warm peach ___ with a golden, crumbly topping that smelled wonderful.",
+      "options": [
+        "atmosphere",
+        "cobbler",
+        "plateau",
+        "perch"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "cobbler"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "A red-breasted robin chose to ___ right at the very tip of the garden fence post.",
+      "sentence2": "The owl liked to ___ on the highest branch it could find and silently watch the meadow far below.",
+      "options": [
+        "atmosphere",
+        "minimum",
+        "scene",
+        "perch"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "perch"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The contest rules required a ___ of three correct answers before a team could advance to the next round.",
+      "sentence2": "The ___ age allowed to enter the haunted house was ten, so younger children had to wait outside.",
+      "options": [
+        "bristle",
+        "minimum",
+        "perch",
+        "plateau"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "minimum"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The most exciting ___ in the film was when the hero swung across the canyon on a vine.",
+      "sentence2": "The opening ___ of the school play showed a dark, stormy night at a crumbling old castle.",
+      "options": [
+        "scene",
+        "plateau",
+        "react",
+        "succeed"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "scene"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The ___ surrounding the Earth is a thin blanket of gases that shields all living things from harmful radiation.",
+      "sentence2": "The cozy firelight and soft music gave the room a warm, welcoming ___ that made everyone feel at home.",
+      "options": [
+        "react",
+        "atmosphere",
+        "succeed",
+        "bristle"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "atmosphere"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "She practiced the piano every single day because she was determined to ___ at the recital no matter what.",
+      "sentence2": "He told his little brother that if he kept trying and never gave up, he would ___ at anything he chose.",
+      "options": [
+        "minimum",
+        "atmosphere",
+        "succeed",
+        "perch"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "succeed"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The ___ storm tore branches off trees and sent roof tiles flying across the neighborhood.",
+      "sentence2": "The ___ guard dog growled loudly and bared its teeth whenever a stranger came near the gate.",
+      "options": [
+        "perch",
+        "react",
+        "bristle",
+        "fierce"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "fierce"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "react",
+      "galaxy",
+      "plateau",
+      "bristle",
+      "input",
+      "cobbler",
+      "perch",
+      "minimum",
+      "scene",
+      "atmosphere",
+      "succeed",
+      "fierce"
+    ],
+    "passage": "The science fair filled the gymnasium with a buzzing, excited _(1)_ \u2014 the kind of mood where everyone felt something amazing was about to happen. Lena's project was about our _(2)_, the vast Milky Way, which contains billions of stars and planets. She had studied for weeks without taking a single day off, determined to _(3)_ and win first place. The _(4)_ competition among the top three finalists was intense, almost frightening, like a storm about to break. Lena's display showed the flat, table-like surface of a _(5)_ on Mars, where future explorers might one day land. She welcomed every judge's _(6)_ \u2014 their ideas and suggestions \u2014 and wrote every comment down carefully. From her tall stool, she could _(7)_ above the crowd and watch the judges move from table to table. The rules required a _(8)_ of three data points to prove any experiment was reliable, so Lena had collected twelve. In the dramatic final _(9)_, the principal read the winners aloud over the microphone. Lena felt every _(10)_ on her arms stand up, stiff with nervousness, the way a cat's fur rises before a thunderstorm. She barely knew how to _(11)_ when her name was called \u2014 she froze, then burst into a huge smile. Later, the school _(12)_, the kind old shoe-repair shop owner who always sat outside fixing boots, shook her hand and said she had made the whole street proud.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "atmosphere",
+        "options": [
+          "atmosphere",
+          "galaxy",
+          "plateau",
+          "scene"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "galaxy",
+        "options": [
+          "galaxy",
+          "atmosphere",
+          "plateau",
+          "scene"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "succeed",
+        "options": [
+          "succeed",
+          "react",
+          "perch",
+          "fierce"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "fierce",
+        "options": [
+          "fierce",
+          "succeed",
+          "minimum",
+          "react"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "plateau",
+        "options": [
+          "plateau",
+          "galaxy",
+          "scene",
+          "atmosphere"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "input",
+        "options": [
+          "input",
+          "bristle",
+          "minimum",
+          "cobbler"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "perch",
+        "options": [
+          "perch",
+          "react",
+          "succeed",
+          "bristle"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "minimum",
+        "options": [
+          "minimum",
+          "input",
+          "perch",
+          "cobbler"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "scene",
+        "options": [
+          "scene",
+          "atmosphere",
+          "galaxy",
+          "plateau"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "bristle",
+        "options": [
+          "bristle",
+          "minimum",
+          "input",
+          "cobbler"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "react",
+        "options": [
+          "react",
+          "succeed",
+          "perch",
+          "fierce"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "cobbler",
+        "options": [
+          "cobbler",
+          "bristle",
+          "input",
+          "minimum"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "react",
+        "scale": [
+          "respond",
+          "react",
+          "recoil"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "galaxy",
+        "scale": [
+          "system",
+          "galaxy",
+          "cosmos"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "plateau",
+        "scale": [
+          "level",
+          "plateau",
+          "plain"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "bristle",
+        "scale": [
+          "tingle",
+          "bristle",
+          "prickle"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "input",
+        "words": [
+          "contribution",
+          "output",
+          "suggestion",
+          "feedback"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "output"
+      },
+      {
+        "vocabWord": "cobbler",
+        "words": [
+          "customer",
+          "shoemaker",
+          "shoe repairer",
+          "craftsman"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "customer"
+      },
+      {
+        "vocabWord": "perch",
+        "words": [
+          "fall",
+          "roost",
+          "sit",
+          "rest"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "fall"
+      },
+      {
+        "vocabWord": "minimum",
+        "words": [
+          "maximum",
+          "least",
+          "smallest",
+          "lowest"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "maximum"
+      },
+      {
+        "vocabWord": "scene",
+        "words": [
+          "darkness",
+          "view",
+          "sight",
+          "setting"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "darkness"
+      },
+      {
+        "vocabWord": "atmosphere",
+        "words": [
+          "air",
+          "mood",
+          "feeling",
+          "vacuum"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "vacuum"
+      },
+      {
+        "vocabWord": "succeed",
+        "words": [
+          "win",
+          "triumph",
+          "fail",
+          "achieve"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "fail"
+      },
+      {
+        "vocabWord": "fierce",
+        "words": [
+          "gentle",
+          "wild",
+          "intense",
+          "ferocious"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "gentle"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

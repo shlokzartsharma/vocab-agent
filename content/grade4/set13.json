@@ -1,0 +1,401 @@
+{
+  "grade": 4,
+  "setNumber": 13,
+  "words": [
+    "catastrophe",
+    "destructive",
+    "turbulent",
+    "precipitation",
+    "forecast",
+    "disastrous",
+    "devastate",
+    "intense",
+    "gust",
+    "saturate",
+    "cyclone",
+    "evaporate"
+  ],
+  "sources": [
+    "Common Core Grade 4",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 4",
+    "CKLA Grade 4",
+    "Tier 2 Academic"
+  ],
+  "genre": "storm survival",
+  "story": {
+    "genre": "storm survival",
+    "characters": ["Sana", "Kofi", "Liam"],
+    "parts": [
+      {
+        "title": "The Warning",
+        "text": "Sana stared at the morning sky. Dark clouds rolled in fast, and the **forecast** on the radio warned of a dangerous **cyclone** headed straight for their coastal town. Kofi rushed over with his weather notebook. He explained that heavy **precipitation** was already falling on the hills nearby and the rivers would soon rise."
+      },
+      {
+        "title": "The Scramble",
+        "text": "Liam helped board up the windows as a powerful **gust** of wind nearly knocked him off his feet. The sea had become **turbulent**, with wild waves crashing against the rocky shore. Sana knew a storm like this could **devastate** their small town if they did not prepare. She called out to everyone on the street to find shelter immediately."
+      },
+      {
+        "title": "The Storm Hits",
+        "text": "The rain began to **saturate** the ground until water pooled everywhere. The **intense** wind howled through the streets, bending trees sideways. It was clear that the storm was going to be a **catastrophe** unlike anything they had seen. The **destructive** force ripped signs from buildings and sent debris flying. Kofi whispered that the damage would be **disastrous** if it did not pass soon. Sana watched puddles briefly **evaporate** under flashes of hot lightning, only to fill again with more rain."
+      },
+      {
+        "title": "After the Storm",
+        "text": "By evening, the clouds finally broke apart and warm sunlight poured through. Sana, Kofi, and Liam stepped outside and looked around. Some fences were down and branches covered the roads, but every family was safe. The neighbors gathered together, sharing food and blankets. They promised to rebuild anything that was broken, knowing their community was stronger than any storm."
+      }
+    ],
+    "wordCount": 240
+  },
+  "definitions": [
+    {
+      "word": "catastrophe",
+      "partOfSpeech": "noun",
+      "meaning1": "A sudden event that causes great damage or suffering. Example: The oil spill was a catastrophe for the ocean and all its animals.",
+      "meaning2": "",
+      "studentChallenge": "The flooding downtown was a ___ that closed schools for an entire week.",
+      "sentence": ""
+    },
+    {
+      "word": "destructive",
+      "partOfSpeech": "adjective",
+      "meaning1": "Causing a lot of damage or harm. Example: The destructive tornado tore the roofs off several houses in the neighborhood.",
+      "meaning2": "",
+      "studentChallenge": "The ___ wildfire burned thousands of acres of forest before firefighters stopped it.",
+      "sentence": ""
+    },
+    {
+      "word": "turbulent",
+      "partOfSpeech": "adjective",
+      "meaning1": "Moving in a rough, uneven, or violent way. Example: The airplane ride was turbulent, and passengers had to keep their seat belts on the whole time.",
+      "meaning2": "",
+      "studentChallenge": "The boat rocked wildly on the ___ waters of the lake during the storm.",
+      "sentence": ""
+    },
+    {
+      "word": "precipitation",
+      "partOfSpeech": "noun",
+      "meaning1": "Water that falls from the sky as rain, snow, sleet, or hail. Example: The weather report said to expect heavy precipitation this weekend.",
+      "meaning2": "",
+      "studentChallenge": "The ___ in the mountains this winter came mostly in the form of snow.",
+      "sentence": ""
+    },
+    {
+      "word": "forecast",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A prediction about what the weather or future will be like. Example: The forecast called for sunny skies all week long.",
+      "meaning2": "To predict what will happen. Example: Scientists can forecast storms several days before they arrive.",
+      "studentChallenge": "According to the ___, it will rain all day tomorrow.",
+      "sentence": ""
+    },
+    {
+      "word": "disastrous",
+      "partOfSpeech": "adjective",
+      "meaning1": "Causing great damage, harm, or failure. Example: The disastrous flood destroyed bridges and roads throughout the county.",
+      "meaning2": "",
+      "studentChallenge": "The team's ___ season ended without winning a single game.",
+      "sentence": ""
+    },
+    {
+      "word": "devastate",
+      "partOfSpeech": "verb",
+      "meaning1": "To destroy or cause severe damage to something. Example: The earthquake could devastate the entire city if the buildings are not strong enough.",
+      "meaning2": "To make someone feel extremely upset. Example: The bad news will devastate her because she worked so hard on the project.",
+      "studentChallenge": "A powerful hurricane can ___ a small island in just a few hours.",
+      "sentence": ""
+    },
+    {
+      "word": "intense",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very strong, extreme, or powerful. Example: The intense heat from the summer sun made everyone seek shade under the trees.",
+      "meaning2": "",
+      "studentChallenge": "The ___ cold snap froze the pond solid overnight.",
+      "sentence": ""
+    },
+    {
+      "word": "gust",
+      "partOfSpeech": "noun",
+      "meaning1": "A sudden, strong burst of wind. Example: A gust of wind blew the papers right out of her hands.",
+      "meaning2": "",
+      "studentChallenge": "A sudden ___ of wind knocked the hat right off his head.",
+      "sentence": ""
+    },
+    {
+      "word": "saturate",
+      "partOfSpeech": "verb",
+      "meaning1": "To soak something completely so that no more liquid can be absorbed. Example: The heavy rain will saturate the soil and make the garden very muddy.",
+      "meaning2": "",
+      "studentChallenge": "If you ___ the sponge with water, it will start dripping all over the counter.",
+      "sentence": ""
+    },
+    {
+      "word": "cyclone",
+      "partOfSpeech": "noun",
+      "meaning1": "A powerful storm with strong winds that spin in a circle. Example: The cyclone knocked down power lines and flooded the streets for days.",
+      "meaning2": "",
+      "studentChallenge": "The weather map showed a large ___ spinning over the ocean toward the coast.",
+      "sentence": ""
+    },
+    {
+      "word": "evaporate",
+      "partOfSpeech": "verb",
+      "meaning1": "To change from a liquid into a gas, usually because of heat. Example: If you leave a glass of water in the sun, it will slowly evaporate.",
+      "meaning2": "To disappear or fade away. Example: His anger seemed to evaporate once he heard the good news.",
+      "studentChallenge": "The puddles on the sidewalk will ___ quickly on a hot, sunny day.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The earthquake was a _______ that left thousands of people without homes or clean water.",
+      "sentence2": "Losing all the science fair projects in the flood was a complete _______ for the school.",
+      "options": ["forecast", "catastrophe", "gust", "cyclone"],
+      "correctIndex": 1,
+      "correctAnswer": "catastrophe"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The _______ hailstorm shattered car windows all across the parking lot.",
+      "sentence2": "The puppy's _______ chewing ruined three pairs of shoes in one single week.",
+      "options": ["turbulent", "intense", "destructive", "disastrous"],
+      "correctIndex": 2,
+      "correctAnswer": "destructive"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The river became _______ after days of heavy rain, tossing the canoe from side to side.",
+      "sentence2": "The _______ ocean waves made it far too dangerous for anyone to go swimming that day.",
+      "options": ["turbulent", "destructive", "intense", "disastrous"],
+      "correctIndex": 0,
+      "correctAnswer": "turbulent"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The area received more _______ this spring than it had in the last five years combined.",
+      "sentence2": "Snow, rain, and sleet are all common forms of _______ that fall from clouds.",
+      "options": ["cyclone", "precipitation", "forecast", "catastrophe"],
+      "correctIndex": 1,
+      "correctAnswer": "precipitation"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The weather _______ predicted clear skies for the entire weekend camping trip.",
+      "sentence2": "Scientists can _______ how strong a hurricane will be before it reaches the coast.",
+      "options": ["forecast", "devastate", "saturate", "evaporate"],
+      "correctIndex": 0,
+      "correctAnswer": "forecast"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The _______ mistake caused the baker to ruin all fifty wedding cakes in a single day.",
+      "sentence2": "The results of the experiment were _______, setting the research back by several months.",
+      "options": ["intense", "turbulent", "catastrophe", "disastrous"],
+      "correctIndex": 3,
+      "correctAnswer": "disastrous"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The wildfire could _______ the entire forest if firefighters do not stop it in time.",
+      "sentence2": "Hearing that her best friend was moving to another country would _______ the little girl.",
+      "options": ["saturate", "evaporate", "devastate", "forecast"],
+      "correctIndex": 2,
+      "correctAnswer": "devastate"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The _______ heat of the desert sun made the hikers stop to drink water every few minutes.",
+      "sentence2": "She felt _______ pressure to do well on the final exam because of her scholarship.",
+      "options": ["intense", "destructive", "turbulent", "disastrous"],
+      "correctIndex": 0,
+      "correctAnswer": "intense"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "A sudden _______ of wind slammed the front door shut with a loud bang.",
+      "sentence2": "The kite shot high into the sky when a strong _______ caught it from behind.",
+      "options": ["cyclone", "precipitation", "catastrophe", "gust"],
+      "correctIndex": 3,
+      "correctAnswer": "gust"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The overnight rain was enough to _______ the entire baseball field and cancel the game.",
+      "sentence2": "If you _______ the cloth in dye, it will turn a much deeper and richer color.",
+      "options": ["evaporate", "devastate", "saturate", "forecast"],
+      "correctIndex": 2,
+      "correctAnswer": "saturate"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The massive _______ spun across the ocean before striking the coast with powerful winds.",
+      "sentence2": "News reporters tracked the path of the _______ on a giant weather map for several days.",
+      "options": ["gust", "catastrophe", "cyclone", "precipitation"],
+      "correctIndex": 2,
+      "correctAnswer": "cyclone"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The morning dew will _______ once the sun warms the grass after sunrise.",
+      "sentence2": "His excitement seemed to _______ when he learned the trip had been canceled.",
+      "options": ["evaporate", "saturate", "devastate", "forecast"],
+      "correctIndex": 0,
+      "correctAnswer": "evaporate"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "catastrophe",
+      "destructive",
+      "turbulent",
+      "precipitation",
+      "forecast",
+      "disastrous",
+      "devastate",
+      "intense",
+      "gust",
+      "saturate",
+      "cyclone",
+      "evaporate"
+    ],
+    "passage": "Captain Lena checked the _(1)_ one last time before setting sail. It warned of a large _(2)_ forming far out at sea with winds spinning at incredible speed. She knew this kind of storm could _(3)_ any ship caught in its path.\n\nAs they sailed into open water, a powerful _(4)_ of wind ripped the flag clean off the mast. The sea quickly turned _(5)_, tossing the ship up and down like a toy. Heavy _(6)_ began pouring from the dark sky above. The rain was so _(7)_ that the crew could barely see the bow of the ship. Water started to _(8)_ every rope and sail until everything dripped and sagged.\n\nThe _(9)_ waves smashed against the hull with enough force to crack wooden boards. If the ship went down, it would be a _(10)_ for the entire crew. One sailor shouted that the results would be _(11)_ if they did not turn back immediately. Luckily, the storm passed within the hour, and bright sunshine came out to _(12)_ the puddles on deck.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "forecast",
+        "options": ["forecast", "cyclone", "gust", "precipitation"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "cyclone",
+        "options": ["catastrophe", "cyclone", "gust", "turbulent"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "devastate",
+        "options": ["evaporate", "devastate", "saturate", "forecast"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "gust",
+        "options": ["precipitation", "cyclone", "gust", "intense"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "turbulent",
+        "options": ["destructive", "turbulent", "disastrous", "intense"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "precipitation",
+        "options": ["precipitation", "catastrophe", "forecast", "gust"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "intense",
+        "options": ["turbulent", "destructive", "intense", "disastrous"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "saturate",
+        "options": ["devastate", "evaporate", "saturate", "forecast"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "destructive",
+        "options": ["destructive", "turbulent", "intense", "catastrophe"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "catastrophe",
+        "options": ["disastrous", "gust", "catastrophe", "cyclone"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "disastrous",
+        "options": ["disastrous", "destructive", "precipitation", "intense"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "evaporate",
+        "options": ["saturate", "evaporate", "forecast", "catastrophe"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "gust",
+        "scale": ["Breeze", "Wind", "Gust"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "catastrophe",
+        "scale": ["Problem", "Disaster", "Catastrophe"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "intense",
+        "scale": ["Mild", "Strong", "Intense"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "saturate",
+        "scale": ["Dampen", "Soak", "Saturate"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "destructive",
+        "words": ["Harmful", "Damaging", "Protective", "Ruinous"],
+        "imposterIndex": 2,
+        "imposterWord": "Protective"
+      },
+      {
+        "vocabWord": "turbulent",
+        "words": ["Calm", "Rough", "Stormy", "Choppy"],
+        "imposterIndex": 0,
+        "imposterWord": "Calm"
+      },
+      {
+        "vocabWord": "forecast",
+        "words": ["Prediction", "Outlook", "Hindsight", "Projection"],
+        "imposterIndex": 2,
+        "imposterWord": "Hindsight"
+      },
+      {
+        "vocabWord": "disastrous",
+        "words": ["Terrible", "Successful", "Dreadful", "Awful"],
+        "imposterIndex": 1,
+        "imposterWord": "Successful"
+      },
+      {
+        "vocabWord": "devastate",
+        "words": ["Destroy", "Wreck", "Repair", "Ruin"],
+        "imposterIndex": 2,
+        "imposterWord": "Repair"
+      },
+      {
+        "vocabWord": "evaporate",
+        "words": ["Vanish", "Disappear", "Collect", "Fade"],
+        "imposterIndex": 2,
+        "imposterWord": "Collect"
+      },
+      {
+        "vocabWord": "cyclone",
+        "words": ["Hurricane", "Tornado", "Stillness", "Typhoon"],
+        "imposterIndex": 2,
+        "imposterWord": "Stillness"
+      },
+      {
+        "vocabWord": "precipitation",
+        "words": ["Rainfall", "Snowfall", "Drought", "Sleet"],
+        "imposterIndex": 2,
+        "imposterWord": "Drought"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "grade": 5,
+  "setNumber": 6,
+  "words": [
+    "virtuous",
+    "hypocrite",
+    "scrupulous",
+    "atone",
+    "repentance",
+    "commend",
+    "reproach",
+    "malicious",
+    "audacious",
+    "gallant",
+    "exemplary",
+    "decorum"
+  ],
+  "sources": [
+    "Common Core Grade 5",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 5",
+    "CKLA Grade 5",
+    "Tier 2 Academic"
+  ],
+  "genre": "medieval quest",
+  "story": {
+    "genre": "medieval quest",
+    "characters": [
+      "Alaric",
+      "Zuri",
+      "Tomoko"
+    ],
+    "parts": [
+      {
+        "title": "The Summons",
+        "text": "In the kingdom of Thornwall, young squire Alaric tried to live a **virtuous** life, following the code of honor. When the king's advisor, a **hypocrite** who preached honesty but secretly stole from the treasury, framed a villager, Alaric knew he had to act. His friend Zuri, a **scrupulous** mapmaker who checked every detail twice, agreed to help find proof."
+      },
+      {
+        "title": "The Journey",
+        "text": "Alaric and Zuri set out with Tomoko, a **gallant** warrior who never backed down from danger. Along the forest road, they discovered **malicious** traps set by the advisor's spies — hidden pits and ropes strung between trees. Tomoko made an **audacious** leap across a ravine to clear the path. The group maintained proper **decorum** when they arrived at the village, bowing respectfully to the elders."
+      },
+      {
+        "title": "The Truth Revealed",
+        "text": "Zuri uncovered old letters that proved the advisor's guilt. The villagers began to **commend** the three heroes for their bravery. When the advisor was brought before the king, the queen chose to **reproach** him for his dishonesty. The advisor showed **repentance**, dropping to his knees. He promised to **atone** for his wrongs by returning every coin. The king called the heroes **exemplary** models of courage."
+      },
+      {
+        "title": "The Homecoming",
+        "text": "As the sun set over Thornwall, the three friends sat together on the castle wall watching the kingdom celebrate below. Alaric realized that doing the right thing was never easy, but it was always worth the effort. They promised to stand together whenever justice needed defending."
+      }
+    ],
+    "wordCount": 235
+  },
+  "definitions": [
+    {
+      "word": "virtuous",
+      "partOfSpeech": "adjective",
+      "meaning1": "Having high moral standards; behaving in a good and honest way. Example: The virtuous knight always told the truth, even when it was difficult.",
+      "meaning2": "",
+      "studentChallenge": "The ___ mayor was known for always doing what was right for the community.",
+      "sentence": ""
+    },
+    {
+      "word": "hypocrite",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who pretends to have beliefs or values that they do not actually follow. Example: He was a hypocrite because he told others to be kind but was mean behind their backs.",
+      "meaning2": "",
+      "studentChallenge": "She called him a ___ because he said littering was wrong but threw trash on the ground himself.",
+      "sentence": ""
+    },
+    {
+      "word": "scrupulous",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very careful and thorough, paying close attention to details. Example: The scrupulous editor checked every sentence in the book for errors.",
+      "meaning2": "Concerned with doing what is morally right. Example: She was scrupulous about returning money if a cashier gave her too much change.",
+      "studentChallenge": "The ___ scientist double-checked every measurement before writing her report.",
+      "sentence": ""
+    },
+    {
+      "word": "atone",
+      "partOfSpeech": "verb",
+      "meaning1": "To make up for something wrong that you have done. Example: He tried to atone for breaking the window by paying for a new one and helping install it.",
+      "meaning2": "",
+      "studentChallenge": "She wanted to ___ for her mistake by apologizing and fixing the damage.",
+      "sentence": ""
+    },
+    {
+      "word": "repentance",
+      "partOfSpeech": "noun",
+      "meaning1": "The feeling of being truly sorry for something wrong you have done. Example: His repentance was clear from the tears in his eyes and his sincere apology.",
+      "meaning2": "",
+      "studentChallenge": "She showed true ___ by admitting her mistake and promising never to do it again.",
+      "sentence": ""
+    },
+    {
+      "word": "commend",
+      "partOfSpeech": "verb",
+      "meaning1": "To praise someone formally for something they have done well. Example: The principal took a moment to commend the students who had volunteered at the food bank.",
+      "meaning2": "",
+      "studentChallenge": "The coach wanted to ___ the team for their incredible effort during the championship.",
+      "sentence": ""
+    },
+    {
+      "word": "reproach",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To express disappointment or criticism toward someone for their actions. Example: The teacher had to reproach the student for copying answers from a classmate.",
+      "meaning2": "A feeling of shame or disgrace. Example: His behavior brought reproach upon the entire team.",
+      "studentChallenge": "The parent had to ___ the child for being dishonest about what had happened.",
+      "sentence": ""
+    },
+    {
+      "word": "malicious",
+      "partOfSpeech": "adjective",
+      "meaning1": "Intending to cause harm or suffering on purpose. Example: Spreading malicious rumors about someone can hurt their feelings deeply.",
+      "meaning2": "",
+      "studentChallenge": "The ___ prank was not funny at all — it was meant to embarrass and hurt.",
+      "sentence": ""
+    },
+    {
+      "word": "audacious",
+      "partOfSpeech": "adjective",
+      "meaning1": "Showing a bold willingness to take risks or do something daring. Example: The audacious explorer sailed across the ocean without a map.",
+      "meaning2": "Showing a lack of respect in a bold or rude way. Example: It was audacious of him to demand a reward before finishing the job.",
+      "studentChallenge": "Her ___ plan to climb the tallest mountain surprised everyone who knew her.",
+      "sentence": ""
+    },
+    {
+      "word": "gallant",
+      "partOfSpeech": "adjective",
+      "meaning1": "Brave, heroic, and noble in behavior. Example: The gallant firefighter rushed into the burning building to save the trapped family.",
+      "meaning2": "Polite and respectful, especially toward others. Example: The gallant young man held the door open for everyone behind him.",
+      "studentChallenge": "The ___ soldier received a medal for his bravery during the rescue mission.",
+      "sentence": ""
+    },
+    {
+      "word": "exemplary",
+      "partOfSpeech": "adjective",
+      "meaning1": "Serving as an excellent example worth copying. Example: Her exemplary behavior earned her the Student of the Year award.",
+      "meaning2": "",
+      "studentChallenge": "The teacher praised the student's ___ work and held it up as a model for the class.",
+      "sentence": ""
+    },
+    {
+      "word": "decorum",
+      "partOfSpeech": "noun",
+      "meaning1": "Polite and proper behavior that is expected in a formal setting. Example: The students showed great decorum during the assembly by sitting quietly and listening.",
+      "meaning2": "",
+      "studentChallenge": "The host reminded everyone to maintain ___ during the formal dinner.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The _______ queen was loved by her people because she always put their needs before her own.",
+      "sentence2": "Living a _______ life means choosing to do what is right even when no one is watching.",
+      "options": ["gallant", "virtuous", "malicious", "audacious"],
+      "correctIndex": 1,
+      "correctAnswer": "virtuous"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "He told everyone to eat healthy food, but he ate candy all day — what a _______!",
+      "sentence2": "The senator was called a _______ for voting against the very law she had helped write.",
+      "options": ["hypocrite", "reproach", "decorum", "repentance"],
+      "correctIndex": 0,
+      "correctAnswer": "hypocrite"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The _______ accountant reviewed every receipt to make sure nothing was wrong.",
+      "sentence2": "She was _______ about following the rules, never taking shortcuts even when no one would notice.",
+      "options": ["exemplary", "scrupulous", "audacious", "virtuous"],
+      "correctIndex": 1,
+      "correctAnswer": "scrupulous"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "He tried to _______ for forgetting her birthday by planning a surprise party the next week.",
+      "sentence2": "The company worked hard to _______ for the pollution it had caused by cleaning up the river.",
+      "options": ["commend", "reproach", "atone", "gallant"],
+      "correctIndex": 2,
+      "correctAnswer": "atone"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Her _______ was genuine — she truly wished she had made a different choice.",
+      "sentence2": "The prisoner's _______ convinced the judge that he had changed and deserved a second chance.",
+      "options": ["decorum", "repentance", "hypocrite", "malicious"],
+      "correctIndex": 1,
+      "correctAnswer": "repentance"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The mayor wanted to _______ the volunteers for the hours they spent cleaning up the park.",
+      "sentence2": "I must _______ you on your excellent presentation — it was the best in the class.",
+      "options": ["reproach", "atone", "commend", "scrupulous"],
+      "correctIndex": 2,
+      "correctAnswer": "commend"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The principal had to _______ the students who were caught cheating on the exam.",
+      "sentence2": "She gave him a look of sharp _______ when he interrupted the speaker for the third time.",
+      "options": ["commend", "reproach", "repentance", "exemplary"],
+      "correctIndex": 1,
+      "correctAnswer": "reproach"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The _______ gossip was intended to ruin the new student's reputation before she even made friends.",
+      "sentence2": "Someone had written a _______ note that was designed to make the teacher look bad.",
+      "options": ["gallant", "malicious", "virtuous", "audacious"],
+      "correctIndex": 1,
+      "correctAnswer": "malicious"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "It was an _______ move to challenge the champion to a rematch after losing badly.",
+      "sentence2": "The _______ inventor built a flying machine in her backyard and actually flew it over the town.",
+      "options": ["scrupulous", "exemplary", "audacious", "decorum"],
+      "correctIndex": 2,
+      "correctAnswer": "audacious"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The _______ knight protected the villagers from the bandits without asking for any reward.",
+      "sentence2": "With a _______ bow, the young man offered his seat to the elderly woman on the bus.",
+      "options": ["gallant", "malicious", "hypocrite", "atone"],
+      "correctIndex": 0,
+      "correctAnswer": "gallant"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Her _______ grades and perfect attendance made her the top candidate for the scholarship.",
+      "sentence2": "The restaurant received an _______ review for its outstanding food and friendly service.",
+      "options": ["virtuous", "exemplary", "scrupulous", "reproach"],
+      "correctIndex": 1,
+      "correctAnswer": "exemplary"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The guests were expected to show proper _______ at the royal banquet by following formal table manners.",
+      "sentence2": "The principal reminded students that _______ was required during the visiting diplomat's speech.",
+      "options": ["repentance", "hypocrite", "commend", "decorum"],
+      "correctIndex": 3,
+      "correctAnswer": "decorum"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "virtuous",
+      "hypocrite",
+      "scrupulous",
+      "atone",
+      "repentance",
+      "commend",
+      "reproach",
+      "malicious",
+      "audacious",
+      "gallant",
+      "exemplary",
+      "decorum"
+    ],
+    "passage": "Long ago in the kingdom of Stonehaven, a _(1)_ knight named Alaric was known throughout the land for his honesty and kindness. He served alongside Tomoko, a _(2)_ warrior who once charged alone into a goblin camp to rescue captured villagers. Together, they were _(3)_ heroes — the kind that songs were written about.\n\nOne day, the king's treasurer was caught stealing gold from the people. The king chose to _(4)_ him in front of the entire court, calling him a _(5)_ who had spoken of loyalty while secretly betraying everyone's trust. The treasurer dropped to his knees, and his _(6)_ seemed real, for tears streamed down his face. He begged for a chance to _(7)_ for his crimes by working in the fields and repaying every coin.\n\nMeanwhile, Zuri, the kingdom's _(8)_ record-keeper, discovered that the treasurer had also sent _(9)_ letters trying to turn the knights against one another. Alaric and Tomoko brought this evidence before the king, who chose to _(10)_ them for their dedication. The court maintained its _(11)_ throughout the trial, with everyone behaving respectfully despite their anger. In the end, the king declared that a truly _(12)_ person proves their goodness not through words, but through actions.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "gallant",
+        "options": ["gallant", "malicious", "virtuous", "audacious"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "audacious",
+        "options": ["scrupulous", "audacious", "exemplary", "hypocrite"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "exemplary",
+        "options": ["exemplary", "gallant", "decorum", "repentance"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "reproach",
+        "options": ["commend", "atone", "reproach", "virtuous"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "hypocrite",
+        "options": ["hypocrite", "scrupulous", "malicious", "gallant"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "repentance",
+        "options": ["decorum", "repentance", "reproach", "audacious"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "atone",
+        "options": ["commend", "atone", "exemplary", "virtuous"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "scrupulous",
+        "options": ["scrupulous", "hypocrite", "gallant", "repentance"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "malicious",
+        "options": ["audacious", "malicious", "decorum", "atone"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "commend",
+        "options": ["reproach", "commend", "scrupulous", "hypocrite"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "decorum",
+        "options": ["exemplary", "virtuous", "decorum", "malicious"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "virtuous",
+        "options": ["virtuous", "gallant", "repentance", "commend"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "malicious",
+        "scale": ["Unkind", "Harmful", "Malicious"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "audacious",
+        "scale": ["Brave", "Daring", "Audacious"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "reproach",
+        "scale": ["Reproach", "Criticism", "Condemnation"],
+        "vocabPosition": 0
+      },
+      {
+        "vocabWord": "repentance",
+        "scale": ["Regret", "Remorse", "Repentance"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "virtuous",
+        "words": ["Honest", "Noble", "Wicked", "Righteous"],
+        "imposterIndex": 2,
+        "imposterWord": "Wicked"
+      },
+      {
+        "vocabWord": "hypocrite",
+        "words": ["Faker", "Pretender", "Deceiver", "Genuine"],
+        "imposterIndex": 3,
+        "imposterWord": "Genuine"
+      },
+      {
+        "vocabWord": "gallant",
+        "words": ["Heroic", "Cowardly", "Brave", "Noble"],
+        "imposterIndex": 1,
+        "imposterWord": "Cowardly"
+      },
+      {
+        "vocabWord": "commend",
+        "words": ["Praise", "Applaud", "Honor", "Criticize"],
+        "imposterIndex": 3,
+        "imposterWord": "Criticize"
+      },
+      {
+        "vocabWord": "scrupulous",
+        "words": ["Careful", "Thorough", "Careless", "Precise"],
+        "imposterIndex": 2,
+        "imposterWord": "Careless"
+      },
+      {
+        "vocabWord": "exemplary",
+        "words": ["Outstanding", "Terrible", "Excellent", "Admirable"],
+        "imposterIndex": 1,
+        "imposterWord": "Terrible"
+      },
+      {
+        "vocabWord": "decorum",
+        "words": ["Rudeness", "Politeness", "Manners", "Dignity"],
+        "imposterIndex": 0,
+        "imposterWord": "Rudeness"
+      },
+      {
+        "vocabWord": "atone",
+        "words": ["Compensate", "Mend", "Repair", "Offend"],
+        "imposterIndex": 3,
+        "imposterWord": "Offend"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

@@ -1,0 +1,587 @@
+{
+  "grade": 3,
+  "setNumber": 39,
+  "words": [
+    "media",
+    "encore",
+    "link",
+    "volunteer",
+    "ridge",
+    "region",
+    "rudder",
+    "diminutive",
+    "portion",
+    "ambition",
+    "publish",
+    "ordinary"
+  ],
+  "sources": [
+    "Australian Curriculum",
+    "British KS2",
+    "CBSE India",
+    "Common Core Grade 3",
+    "Common Core Grade 5",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Flocabulary Grade 5",
+    "Singapore MOE/PSLE",
+    "Tier 2 Academic",
+    "Wit & Wisdom Grade 3",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "true historical figure biography",
+  "story": {
+    "genre": "true historical figure biography",
+    "characters": [
+      "Nikhil",
+      "Meera",
+      "Lakshmi"
+    ],
+    "parts": [
+      {
+        "title": "An Ordinary Beginning",
+        "text": "Nikhil grew up in an **ordinary** town where nothing remarkable seemed to happen. She was a quiet child with one enormous **ambition**: to write a book that children everywhere would read. She spent a **portion** of every evening writing in her notebook, building her story sentence by sentence."
+      },
+      {
+        "title": "Finding Her Voice",
+        "text": "Nikhil began to **volunteer** at the school library, helping younger students choose books and practise reading aloud. One afternoon she noticed a **link** between the stories that children loved most \u2014 they all had a character who refused to give up. She wanted her book to reach that same high **ridge** of feeling, the place where a story lifts you out of your everyday life. Meera, the librarian, told her that the best stories came from the deepest part of a writer's own experience."
+      },
+      {
+        "title": "The Big Break",
+        "text": "Nikhil sent her manuscript to twelve publishers. The story came from a small **region** of her imagination she had never shown anyone before. Finally, one publisher agreed to **publish** it. The **media** arrived at her school the day the book launched \u2014 cameras, reporters, and microphones filling the front hall. Lakshmi, her teacher, stood beside her like a **rudder**, steady and guiding, as Nikhil answered question after question."
+      },
+      {
+        "title": "A Greener Future",
+        "text": "The book sold quickly, and the audience at the launch was so moved that they demanded an **encore** \u2014 Nikhil read a second chapter aloud to a room that had gone completely still. She was **diminutive** in size but enormous in presence, standing at the podium with her voice clear and strong. Meera told the newspapers, \"Nikhil showed us that one person with a good idea and the courage to share it can change everything.\" The book went on to be read in schools across the country."
+      }
+    ],
+    "wordCount": 265
+  },
+  "definitions": [
+    {
+      "word": "media",
+      "partOfSpeech": "noun",
+      "meaning1": "Ways of communicating information to many people, such as television, newspapers, and the internet. Example: The school principal spoke to the media about the students' award-winning science project.",
+      "meaning2": "",
+      "studentChallenge": "News travels fast because ___ like television and the internet can share stories with millions of people.",
+      "sentence": ""
+    },
+    {
+      "word": "encore",
+      "partOfSpeech": "noun",
+      "meaning1": "An extra performance given at the end of a concert because the audience wants more. Example: The crowd clapped and cheered until the band came back for an encore.",
+      "meaning2": "",
+      "studentChallenge": "The singer performed two songs as an ___ after the audience kept cheering for more.",
+      "sentence": ""
+    },
+    {
+      "word": "link",
+      "partOfSpeech": "noun",
+      "meaning1": "A connection between two things. Example: Scientists found a link between eating healthy food and feeling more energetic.",
+      "meaning2": "One ring or loop of a chain. Example: The chain was only as strong as its weakest link.",
+      "studentChallenge": "The detective discovered a ___ between the two clues that helped solve the mystery.",
+      "sentence": ""
+    },
+    {
+      "word": "volunteer",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A person who does work without being paid. Example: The volunteer helped serve food at the shelter.",
+      "meaning2": "",
+      "studentChallenge": "She decided to ___ at the animal rescue center.",
+      "sentence": ""
+    },
+    {
+      "word": "ridge",
+      "partOfSpeech": "noun",
+      "meaning1": "A long, narrow raised area along the top of something, such as a mountain or a roof. Example: The hikers walked along the ridge of the hill and enjoyed views of both valleys below.",
+      "meaning2": "",
+      "studentChallenge": "From the ___ of the mountain, we could see the sparkling ocean in the distance.",
+      "sentence": ""
+    },
+    {
+      "word": "region",
+      "partOfSpeech": "noun",
+      "meaning1": "A large area of land, often with particular features or characteristics. Example: The northern region of the country is covered in thick forests and tall mountains.",
+      "meaning2": "",
+      "studentChallenge": "The desert ___ receives very little rainfall and has extremely hot temperatures during the day.",
+      "sentence": ""
+    },
+    {
+      "word": "rudder",
+      "partOfSpeech": "noun",
+      "meaning1": "A flat piece attached to the back of a boat or aeroplane that is used to steer it. Example: The captain turned the rudder to guide the ship safely into the harbour.",
+      "meaning2": "",
+      "studentChallenge": "Without a working ___, the sailboat drifted aimlessly across the lake.",
+      "sentence": ""
+    },
+    {
+      "word": "diminutive",
+      "partOfSpeech": "adjective",
+      "meaning1": "Extremely small; tiny. Example: The diminutive kitten fit in the palm of her hand.",
+      "meaning2": "",
+      "studentChallenge": "The ___ flowers grew between the cracks in the sidewalk.",
+      "sentence": ""
+    },
+    {
+      "word": "portion",
+      "partOfSpeech": "noun",
+      "meaning1": "A part or share of something, especially an amount of food served to one person. Example: Each child received an equal portion of the birthday cake.",
+      "meaning2": "",
+      "studentChallenge": "She saved a ___ of her pocket money each week to buy a new book.",
+      "sentence": ""
+    },
+    {
+      "word": "ambition",
+      "partOfSpeech": "noun",
+      "meaning1": "A strong desire to achieve something. Example: Her ambition is to become an astronaut.",
+      "meaning2": "",
+      "studentChallenge": "With hard work and ___, you can achieve your goals.",
+      "sentence": ""
+    },
+    {
+      "word": "publish",
+      "partOfSpeech": "verb",
+      "meaning1": "To prepare and print a book, newspaper, or other written work so people can read it. Example: The author was thrilled when a company agreed to publish her first children's book.",
+      "meaning2": "",
+      "studentChallenge": "The school decided to ___ a magazine filled with stories and poems written by the students.",
+      "sentence": ""
+    },
+    {
+      "word": "ordinary",
+      "partOfSpeech": "adjective",
+      "meaning1": "Normal; not special or different. Example: It seemed like an ordinary day until the surprise happened.",
+      "meaning2": "",
+      "studentChallenge": "She turned an ___ rock into a work of art.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The school principal spoke to reporters and camera crews \u2014 all the ___ \u2014 about the students' science award.",
+      "sentence2": "News travels fast today because ___ like television and the internet can share stories with millions instantly.",
+      "options": [
+        "ridge",
+        "diminutive",
+        "link",
+        "media"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "media"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The crowd clapped and cheered so loudly that the band came back out for an extra performance \u2014 an ___.",
+      "sentence2": "The singer performed two bonus songs as an ___ after the audience refused to stop cheering for more.",
+      "options": [
+        "link",
+        "media",
+        "encore",
+        "ridge"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "encore"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Scientists found a clear ___ \u2014 a direct connection \u2014 between eating healthy food and having more energy.",
+      "sentence2": "The detective discovered a ___ between the two clues that finally helped her crack the mystery wide open.",
+      "options": [
+        "portion",
+        "link",
+        "encore",
+        "volunteer"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "link"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The ___ gave up her Saturday to serve hot meals at the shelter, working without pay from dawn to dusk.",
+      "sentence2": "She decided to ___ at the animal rescue center, choosing to give her free time to help animals in need.",
+      "options": [
+        "volunteer",
+        "publish",
+        "ridge",
+        "ambition"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "volunteer"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The hikers walked in single file along the narrow ___ at the top of the hill, with valleys dropping away on both sides.",
+      "sentence2": "From the ___ of the mountain, they could see the glittering ocean stretching out far below.",
+      "options": [
+        "ridge",
+        "ordinary",
+        "portion",
+        "media"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ridge"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The northern ___ of the country is covered in thick, dark forests and tall, snow-capped mountains.",
+      "sentence2": "The desert ___ receives very little rainfall and bakes under extremely hot temperatures every day.",
+      "options": [
+        "media",
+        "rudder",
+        "region",
+        "encore"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "region"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The captain turned the ___ sharply to steer the ship away from the rocks and safely into the harbour.",
+      "sentence2": "Without a working ___, the small sailboat drifted helplessly and aimlessly in circles across the lake.",
+      "options": [
+        "diminutive",
+        "link",
+        "portion",
+        "rudder"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "rudder"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The ___ kitten \u2014 so tiny it could fit in the palm of a hand \u2014 mewed softly inside the cardboard box.",
+      "sentence2": "The ___ flowers pushing up between the sidewalk cracks were so small you could easily miss them.",
+      "options": [
+        "encore",
+        "volunteer",
+        "rudder",
+        "diminutive"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "diminutive"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Each child received an equal ___ of the birthday cake \u2014 every slice cut to exactly the same size.",
+      "sentence2": "She saved a small ___ of her pocket money each week, setting it aside to buy a new book at month's end.",
+      "options": [
+        "encore",
+        "portion",
+        "ordinary",
+        "publish"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "portion"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Her ___ \u2014 her powerful, burning desire \u2014 was to become the first astronaut from her small hometown.",
+      "sentence2": "With hard work and ___, you can turn even the most distant dream into something real.",
+      "options": [
+        "ambition",
+        "region",
+        "ordinary",
+        "ridge"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ambition"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The author was overjoyed when a well-known company agreed to ___ her very first children's book.",
+      "sentence2": "The school planned to ___ a student magazine filled with poems, stories, and artwork every term.",
+      "options": [
+        "link",
+        "publish",
+        "rudder",
+        "ordinary"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "publish"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "It seemed like an ___ Tuesday \u2014 nothing unusual at all \u2014 until the surprise party guests jumped out.",
+      "sentence2": "She took an ___ grey rock and painted it so beautifully that it looked like a tiny work of art.",
+      "options": [
+        "publish",
+        "link",
+        "ordinary",
+        "encore"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "ordinary"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "media",
+      "encore",
+      "link",
+      "volunteer",
+      "ridge",
+      "region",
+      "rudder",
+      "diminutive",
+      "portion",
+      "ambition",
+      "publish",
+      "ordinary"
+    ],
+    "passage": "Twelve-year-old Priya had one great _(1)_ \u2014 a burning desire to write a book that would be read by children all over the world. She did not come from a famous family or a wealthy _(2)_ of the country; she grew up in a perfectly _(3)_ town where nothing unusual ever seemed to happen. Every day after school, she would _(4)_ at the community library, helping shelve books and read stories to younger children without being paid a single coin. She began writing her story in a _(5)_ notebook so small it fit inside her coat pocket. The plot had a strong _(6)_ \u2014 a clear connection \u2014 between a lonely girl and a magical forest that seemed to mirror the girl's own feelings. Scientists in the book studied the mountain _(7)_, the long narrow peak that ran above the valley, and discovered something astonishing hidden beneath it. One day, reporters from every _(8)_ \u2014 newspapers, television channels, and websites \u2014 came to interview Priya's teacher about the school's writing programme. Her teacher mentioned Priya's story, and suddenly the whole country was listening. A publisher offered to _(9)_ the book immediately, agreeing to print and share it with readers everywhere. At the book launch, the crowd cheered so loudly that Priya had to give an _(10)_ \u2014 reading an extra chapter aloud because the audience simply would not let her stop. She used the _(11)_ \u2014 the steering piece \u2014 of her imagination to guide each new chapter in an exciting direction. She set aside a _(12)_ of every day for writing, protecting that quiet hour like a treasure, and it was that daily habit that turned her dream into a reality.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "ambition",
+        "options": [
+          "ambition",
+          "encore",
+          "portion",
+          "link"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "region",
+        "options": [
+          "region",
+          "ridge",
+          "rudder",
+          "media"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "ordinary",
+        "options": [
+          "ordinary",
+          "diminutive",
+          "volunteer",
+          "publish"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "volunteer",
+        "options": [
+          "volunteer",
+          "publish",
+          "link",
+          "encore"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "diminutive",
+        "options": [
+          "diminutive",
+          "ordinary",
+          "portion",
+          "ambition"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "link",
+        "options": [
+          "link",
+          "ridge",
+          "rudder",
+          "region"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "ridge",
+        "options": [
+          "ridge",
+          "region",
+          "rudder",
+          "link"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "media",
+        "options": [
+          "media",
+          "encore",
+          "ambition",
+          "volunteer"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "publish",
+        "options": [
+          "publish",
+          "volunteer",
+          "link",
+          "ordinary"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "encore",
+        "options": [
+          "encore",
+          "media",
+          "ambition",
+          "publish"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "rudder",
+        "options": [
+          "rudder",
+          "ridge",
+          "region",
+          "link"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "portion",
+        "options": [
+          "portion",
+          "diminutive",
+          "ordinary",
+          "ambition"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "media",
+        "scale": [
+          "channel",
+          "media",
+          "press"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "encore",
+        "scale": [
+          "repeat",
+          "encore",
+          "bonus"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "link",
+        "scale": [
+          "touch",
+          "link",
+          "connect"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "volunteer",
+        "scale": [
+          "helper",
+          "volunteer",
+          "supporter"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "ridge",
+        "words": [
+          "hill",
+          "peak",
+          "valley",
+          "bump"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "valley"
+      },
+      {
+        "vocabWord": "region",
+        "words": [
+          "area",
+          "zone",
+          "nowhere",
+          "place"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "nowhere"
+      },
+      {
+        "vocabWord": "rudder",
+        "words": [
+          "drift",
+          "steering",
+          "guide",
+          "control"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "drift"
+      },
+      {
+        "vocabWord": "diminutive",
+        "words": [
+          "tiny",
+          "small",
+          "enormous",
+          "miniature"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "enormous"
+      },
+      {
+        "vocabWord": "portion",
+        "words": [
+          "whole",
+          "part",
+          "share",
+          "piece"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "whole"
+      },
+      {
+        "vocabWord": "ambition",
+        "words": [
+          "laziness",
+          "drive",
+          "goal",
+          "determination"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "laziness"
+      },
+      {
+        "vocabWord": "publish",
+        "words": [
+          "print",
+          "release",
+          "hide",
+          "share"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "hide"
+      },
+      {
+        "vocabWord": "ordinary",
+        "words": [
+          "extraordinary",
+          "common",
+          "normal",
+          "usual"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "extraordinary"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

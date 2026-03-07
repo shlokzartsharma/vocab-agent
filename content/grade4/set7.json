@@ -1,0 +1,405 @@
+{
+  "grade": 4,
+  "setNumber": 7,
+  "words": [
+    "narrate",
+    "elaborate",
+    "persuade",
+    "proclaim",
+    "convey",
+    "interpret",
+    "correspond",
+    "contradict",
+    "emphasis",
+    "dialogue",
+    "recite",
+    "summarize"
+  ],
+  "sources": [
+    "Common Core Grade 4",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 4",
+    "CKLA Grade 4",
+    "Tier 2 Academic"
+  ],
+  "genre": "journalism adventure",
+  "story": {
+    "genre": "journalism adventure",
+    "characters": [
+      "Omar",
+      "Isla",
+      "Chen"
+    ],
+    "parts": [
+      {
+        "title": "The Big Assignment",
+        "text": "Omar, Isla, and Chen were student reporters for the Maple Street Gazette, and they were always looking for the next big scoop. Their editor asked them to **narrate** the true story behind a mysterious mural that had appeared on the library wall overnight. Chen grabbed his notebook and promised to **elaborate** on every detail they found, no matter how small."
+      },
+      {
+        "title": "Gathering the Facts",
+        "text": "At the library, Isla tried to **persuade** the librarian to share what she knew. The librarian smiled and began to **proclaim** proudly that the mural was a gift from a local artist. Omar took careful notes so he could **convey** the full story to their readers. Chen studied the shapes closely, trying to **interpret** the meaning behind each color and symbol."
+      },
+      {
+        "title": "Writing the Story",
+        "text": "Back at the newsroom, the three reporters discovered their notes did not **correspond** with each other. Isla's facts seemed to **contradict** what Chen had written down. Omar placed special **emphasis** on getting the quotes right and checked the **dialogue** they had recorded. Isla offered to **recite** her notes aloud while Chen would **summarize** the key points into one clear paragraph."
+      },
+      {
+        "title": "Front Page News",
+        "text": "By the end of the day, their article was finished and pinned to the classroom bulletin board for everyone to see. Students gathered around to read every word, and teachers stopped by to compliment their work. The three reporters looked at each other and smiled, knowing that teamwork had turned a confusing mystery into a story the whole school could enjoy."
+      }
+    ],
+    "wordCount": 242
+  },
+  "definitions": [
+    {
+      "word": "narrate",
+      "partOfSpeech": "verb",
+      "meaning1": "To tell a story or describe events in order. Example: The author will narrate the tale of a brave knight on a quest.",
+      "meaning2": "",
+      "studentChallenge": "The teacher asked Maya to ___ the story of her summer vacation to the class.",
+      "sentence": ""
+    },
+    {
+      "word": "elaborate",
+      "partOfSpeech": "verb, adjective",
+      "meaning1": "To give more details or explain something further. Example: Can you elaborate on your answer so we understand it better?",
+      "meaning2": "Very detailed and complicated. Example: The castle had an elaborate entrance with golden doors and carved pillars.",
+      "studentChallenge": "The scientist asked the student to ___ on her experiment by explaining each step.",
+      "sentence": ""
+    },
+    {
+      "word": "persuade",
+      "partOfSpeech": "verb",
+      "meaning1": "To convince someone to do or believe something. Example: She tried to persuade her parents to let her get a puppy.",
+      "meaning2": "",
+      "studentChallenge": "He wrote a letter to ___ the mayor to build a new playground in the park.",
+      "sentence": ""
+    },
+    {
+      "word": "proclaim",
+      "partOfSpeech": "verb",
+      "meaning1": "To announce something publicly or proudly. Example: The king stood on the balcony to proclaim that the war was over.",
+      "meaning2": "",
+      "studentChallenge": "The principal stood in the hallway to ___ the winner of the spelling bee.",
+      "sentence": ""
+    },
+    {
+      "word": "convey",
+      "partOfSpeech": "verb",
+      "meaning1": "To communicate or express a message or feeling. Example: Her smile was enough to convey how happy she felt.",
+      "meaning2": "To carry or transport something from one place to another. Example: The trucks convey goods from the factory to the stores.",
+      "studentChallenge": "The painting seemed to ___ a feeling of peace and calm.",
+      "sentence": ""
+    },
+    {
+      "word": "interpret",
+      "partOfSpeech": "verb",
+      "meaning1": "To explain the meaning of something. Example: The guide helped us interpret the symbols carved into the ancient wall.",
+      "meaning2": "To translate words from one language to another. Example: She can interpret Spanish into English for her grandmother.",
+      "studentChallenge": "The students had to ___ the poem and explain what the author meant.",
+      "sentence": ""
+    },
+    {
+      "word": "correspond",
+      "partOfSpeech": "verb",
+      "meaning1": "To match or agree with something. Example: The answers on her paper correspond with the ones in the answer key.",
+      "meaning2": "To write letters or messages to someone. Example: The pen pals correspond by sending letters every month.",
+      "studentChallenge": "The numbers on the map did not ___ with the ones in the directions.",
+      "sentence": ""
+    },
+    {
+      "word": "contradict",
+      "partOfSpeech": "verb",
+      "meaning1": "To say the opposite of what someone else has said. Example: The witness seemed to contradict the story that was told earlier.",
+      "meaning2": "",
+      "studentChallenge": "The two reports ___ each other, so we are not sure which one is correct.",
+      "sentence": ""
+    },
+    {
+      "word": "emphasis",
+      "partOfSpeech": "noun",
+      "meaning1": "Special importance or attention given to something. Example: The coach placed emphasis on teamwork during every practice.",
+      "meaning2": "",
+      "studentChallenge": "The teacher put great ___ on reading every single day.",
+      "sentence": ""
+    },
+    {
+      "word": "dialogue",
+      "partOfSpeech": "noun",
+      "meaning1": "A conversation between two or more people. Example: The dialogue between the two characters made the play very exciting.",
+      "meaning2": "",
+      "studentChallenge": "The writer added ___ to the story so the characters could speak to each other.",
+      "sentence": ""
+    },
+    {
+      "word": "recite",
+      "partOfSpeech": "verb",
+      "meaning1": "To say something aloud from memory. Example: She practiced hard so she could recite the poem in front of the whole school.",
+      "meaning2": "",
+      "studentChallenge": "Every morning, the students ___ the Pledge of Allegiance together.",
+      "sentence": ""
+    },
+    {
+      "word": "summarize",
+      "partOfSpeech": "verb",
+      "meaning1": "To give a short version of something by stating the main points. Example: After reading the chapter, the teacher asked us to summarize what happened.",
+      "meaning2": "",
+      "studentChallenge": "Can you ___ the movie in just two or three sentences?",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The author was invited to _______ the documentary about life in the deep ocean.",
+      "sentence2": "Grandpa loves to _______ bedtime stories about his childhood adventures on the farm.",
+      "options": ["recite", "narrate", "summarize", "proclaim"],
+      "correctIndex": 1,
+      "correctAnswer": "narrate"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The architect showed an _______ model of the building with tiny doors and windows.",
+      "sentence2": "Could you _______ on your idea so the rest of us can understand it better?",
+      "options": ["elaborate", "convey", "interpret", "correspond"],
+      "correctIndex": 0,
+      "correctAnswer": "elaborate"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The advertisement tried to _______ shoppers to buy the new cereal brand.",
+      "sentence2": "She wrote a speech to _______ her classmates to vote for her as class president.",
+      "options": ["proclaim", "contradict", "persuade", "narrate"],
+      "correctIndex": 2,
+      "correctAnswer": "persuade"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The mayor stood on the stage to _______ that the new park was officially open.",
+      "sentence2": "The captain raised his sword to _______ victory after the long battle.",
+      "options": ["summarize", "proclaim", "recite", "dialogue"],
+      "correctIndex": 1,
+      "correctAnswer": "proclaim"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The letter was meant to _______ her thanks to the family who had helped her.",
+      "sentence2": "A good drawing can _______ feelings without using any words at all.",
+      "options": ["convey", "elaborate", "contradict", "emphasis"],
+      "correctIndex": 0,
+      "correctAnswer": "convey"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The museum guide helped visitors _______ the meaning behind the ancient carvings.",
+      "sentence2": "It can be hard to _______ someone's tone in a text message.",
+      "options": ["narrate", "correspond", "interpret", "persuade"],
+      "correctIndex": 2,
+      "correctAnswer": "interpret"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The colors on the map _______ with the legend printed at the bottom of the page.",
+      "sentence2": "The two pen pals _______ by writing letters to each other every single month.",
+      "options": ["contradict", "correspond", "summarize", "recite"],
+      "correctIndex": 1,
+      "correctAnswer": "correspond"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The new evidence seemed to _______ everything the detective had believed so far.",
+      "sentence2": "If you say it is raining but I say it is sunny, we _______ each other.",
+      "options": ["contradict", "convey", "elaborate", "narrate"],
+      "correctIndex": 0,
+      "correctAnswer": "contradict"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The school placed great _______ on being kind and respectful to others.",
+      "sentence2": "She read the sentence again with extra _______ on the last word to make her point clear.",
+      "options": ["dialogue", "emphasis", "interpret", "proclaim"],
+      "correctIndex": 1,
+      "correctAnswer": "emphasis"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The _______ between the two friends in the movie was funny and natural.",
+      "sentence2": "The playwright wrote sharp, witty _______ that kept the audience laughing the whole time.",
+      "options": ["narrate", "summarize", "dialogue", "correspond"],
+      "correctIndex": 2,
+      "correctAnswer": "dialogue"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "She stood at the front of the room to _______ the poem she had memorized.",
+      "sentence2": "The actors had to _______ their lines perfectly during the opening night of the show.",
+      "options": ["recite", "persuade", "convey", "emphasis"],
+      "correctIndex": 0,
+      "correctAnswer": "recite"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The teacher asked us to _______ the chapter in our own words.",
+      "sentence2": "Can you _______ what happened at the meeting so I do not have to read the full report?",
+      "options": ["contradict", "elaborate", "proclaim", "summarize"],
+      "correctIndex": 3,
+      "correctAnswer": "summarize"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "narrate",
+      "elaborate",
+      "persuade",
+      "proclaim",
+      "convey",
+      "interpret",
+      "correspond",
+      "contradict",
+      "emphasis",
+      "dialogue",
+      "recite",
+      "summarize"
+    ],
+    "passage": "When the school announced a news writing contest, three friends decided to enter as a team. Their plan was to _(1)_ the story of how the old town clock was saved from being torn down. First, they visited the mayor, who was happy to _(2)_ on the history of the clock and share many interesting details.\n\nThe friends tried to _(3)_ the townspeople to share their memories too. One shopkeeper stood on his porch to _(4)_ that the clock had been ringing every hour for over a hundred years. The friends wanted their article to _(5)_ just how much the clock meant to everyone. They also had to _(6)_ old photographs to understand what the clock looked like long ago.\n\nBack at school, they checked to make sure their facts would _(7)_ with the historical records. One source seemed to _(8)_ the date the clock was built, so they had to dig deeper. Their teacher reminded them to place _(9)_ on accuracy. They included _(10)_ from the people they interviewed to make the article feel real. Mara offered to _(11)_ the best quotes aloud to choose the strongest ones. Finally, they worked together to _(12)_ their research into one powerful article that won first place.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "narrate",
+        "options": ["narrate", "summarize", "recite", "convey"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "elaborate",
+        "options": ["proclaim", "elaborate", "contradict", "emphasis"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "persuade",
+        "options": ["correspond", "interpret", "persuade", "dialogue"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "proclaim",
+        "options": ["narrate", "proclaim", "summarize", "elaborate"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "convey",
+        "options": ["convey", "recite", "contradict", "correspond"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "interpret",
+        "options": ["emphasis", "persuade", "interpret", "dialogue"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "correspond",
+        "options": ["correspond", "contradict", "narrate", "elaborate"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "contradict",
+        "options": ["summarize", "convey", "contradict", "recite"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "emphasis",
+        "options": ["dialogue", "emphasis", "proclaim", "persuade"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "dialogue",
+        "options": ["interpret", "narrate", "dialogue", "correspond"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "recite",
+        "options": ["recite", "convey", "emphasis", "summarize"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "summarize",
+        "options": ["elaborate", "proclaim", "persuade", "summarize"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "elaborate",
+        "scale": ["Simple", "Detailed", "Elaborate"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "proclaim",
+        "scale": ["Whisper", "Say", "Proclaim"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "persuade",
+        "scale": ["Suggest", "Urge", "Persuade"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "emphasis",
+        "scale": ["Mention", "Stress", "Emphasis"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "narrate",
+        "words": ["Tell", "Silence", "Describe", "Report"],
+        "imposterIndex": 1,
+        "imposterWord": "Silence"
+      },
+      {
+        "vocabWord": "convey",
+        "words": ["Express", "Communicate", "Share", "Withhold"],
+        "imposterIndex": 3,
+        "imposterWord": "Withhold"
+      },
+      {
+        "vocabWord": "contradict",
+        "words": ["Agree", "Oppose", "Deny", "Dispute"],
+        "imposterIndex": 0,
+        "imposterWord": "Agree"
+      },
+      {
+        "vocabWord": "correspond",
+        "words": ["Match", "Differ", "Align", "Fit"],
+        "imposterIndex": 1,
+        "imposterWord": "Differ"
+      },
+      {
+        "vocabWord": "recite",
+        "words": ["Speak", "Perform", "Forget", "Repeat"],
+        "imposterIndex": 2,
+        "imposterWord": "Forget"
+      },
+      {
+        "vocabWord": "summarize",
+        "words": ["Expand", "Shorten", "Condense", "Outline"],
+        "imposterIndex": 0,
+        "imposterWord": "Expand"
+      },
+      {
+        "vocabWord": "dialogue",
+        "words": ["Conversation", "Discussion", "Chat", "Monologue"],
+        "imposterIndex": 3,
+        "imposterWord": "Monologue"
+      },
+      {
+        "vocabWord": "interpret",
+        "words": ["Explain", "Decode", "Misread", "Understand"],
+        "imposterIndex": 2,
+        "imposterWord": "Misread"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

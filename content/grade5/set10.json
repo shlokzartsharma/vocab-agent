@@ -1,0 +1,405 @@
+{
+  "grade": 5,
+  "setNumber": 10,
+  "words": [
+    "commodity",
+    "embargo",
+    "tariff",
+    "mercantile",
+    "expenditure",
+    "subsidy",
+    "monopoly",
+    "transaction",
+    "deficit",
+    "inflation",
+    "lucrative",
+    "entrepreneur"
+  ],
+  "sources": [
+    "Common Core Grade 5",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 5",
+    "CKLA Grade 5",
+    "Tier 2 Academic"
+  ],
+  "genre": "colonial trade",
+  "story": {
+    "genre": "colonial trade",
+    "characters": [
+      "Simone",
+      "Akio",
+      "Rani"
+    ],
+    "parts": [
+      {
+        "title": "The Trading Post",
+        "text": "In the year 1762, Simone's family ran a small **mercantile** shop in the port town of New Haven. Sugar was the most valuable **commodity** they sold, shipped in barrels from the Caribbean islands. But the governor had just placed an **embargo** on trade with French colonies, which meant no new shipments could arrive."
+      },
+      {
+        "title": "The Problem Grows",
+        "text": "Simone's friend Akio worked at the docks. He explained that a heavy **tariff** on imported tea had already raised prices beyond what most families could afford. The town's **expenditure** on basic goods was climbing fast. With rising costs everywhere, **inflation** made every coin worth less than before. Akio worried that only the wealthiest merchant, who held a **monopoly** on the spice trade, could survive."
+      },
+      {
+        "title": "A Bold Plan",
+        "text": "Rani, a clever young **entrepreneur**, had an idea. She proposed that the townspeople pool their money to create a **subsidy** that would help smaller shops stay open. Every **transaction** at the market would add a small donation to the fund. Simone calculated the numbers and found a growing **deficit** between what the shops earned and what they owed. Still, Rani believed that trading locally grown goods could be **lucrative** enough to save the town."
+      },
+      {
+        "title": "A Community Rebuilt",
+        "text": "Over the following months, the plan worked. Farmers brought vegetables and wool to the market, and neighbors began buying from one another instead of waiting for foreign ships. The shops slowly recovered, and the people of New Haven learned that when a community works together, it can overcome even the hardest times."
+      }
+    ],
+    "wordCount": 243
+  },
+  "definitions": [
+    {
+      "word": "commodity",
+      "partOfSpeech": "noun",
+      "meaning1": "A raw material or product that can be bought and sold. Example: Cotton was an important commodity in the early American economy.",
+      "meaning2": "",
+      "studentChallenge": "Gold was a highly valued ___ that traders traveled across oceans to find.",
+      "sentence": ""
+    },
+    {
+      "word": "embargo",
+      "partOfSpeech": "noun",
+      "meaning1": "An official order that stops trade with another country. Example: The government placed an embargo on imports from the rival nation.",
+      "meaning2": "",
+      "studentChallenge": "The king declared an ___ that stopped all ships from entering the harbor.",
+      "sentence": ""
+    },
+    {
+      "word": "tariff",
+      "partOfSpeech": "noun",
+      "meaning1": "A tax charged on goods brought into a country. Example: The tariff on imported cloth made it much more expensive to buy.",
+      "meaning2": "",
+      "studentChallenge": "The new ___ on sugar raised the price of every bag sold in the market.",
+      "sentence": ""
+    },
+    {
+      "word": "mercantile",
+      "partOfSpeech": "adjective",
+      "meaning1": "Having to do with trade, merchants, or commerce. Example: The mercantile district of the city was filled with shops and warehouses.",
+      "meaning2": "",
+      "studentChallenge": "The ___ center of the town was always bustling with buyers and sellers.",
+      "sentence": ""
+    },
+    {
+      "word": "expenditure",
+      "partOfSpeech": "noun",
+      "meaning1": "The amount of money spent on something. Example: The family's biggest expenditure each month was the rent for their apartment.",
+      "meaning2": "",
+      "studentChallenge": "The school's largest ___ this year was the new computer lab.",
+      "sentence": ""
+    },
+    {
+      "word": "subsidy",
+      "partOfSpeech": "noun",
+      "meaning1": "Money given by the government or a group to help lower the cost of something. Example: The farmers received a subsidy to help them buy seeds for the growing season.",
+      "meaning2": "",
+      "studentChallenge": "The government offered a ___ to help families pay for heating oil during the winter.",
+      "sentence": ""
+    },
+    {
+      "word": "monopoly",
+      "partOfSpeech": "noun",
+      "meaning1": "Complete control over the supply of a product or service, with no competition. Example: The company had a monopoly on the railroad, so it could charge whatever it wanted.",
+      "meaning2": "",
+      "studentChallenge": "Because only one store sold medicine, it had a ___ and could set any price.",
+      "sentence": ""
+    },
+    {
+      "word": "transaction",
+      "partOfSpeech": "noun",
+      "meaning1": "An exchange or deal in which goods, services, or money are traded. Example: The transaction was complete once the buyer paid and received the goods.",
+      "meaning2": "",
+      "studentChallenge": "Every ___ at the market was carefully recorded in the shopkeeper's ledger.",
+      "sentence": ""
+    },
+    {
+      "word": "deficit",
+      "partOfSpeech": "noun",
+      "meaning1": "The amount by which money spent is greater than money earned. Example: The school had a deficit because it spent more on supplies than it received in funding.",
+      "meaning2": "",
+      "studentChallenge": "The club had a ___ of twenty dollars because they spent more than they earned at the bake sale.",
+      "sentence": ""
+    },
+    {
+      "word": "inflation",
+      "partOfSpeech": "noun",
+      "meaning1": "A general increase in prices over time, which means money buys less than it used to. Example: Because of inflation, the same loaf of bread that cost one dollar now costs two.",
+      "meaning2": "",
+      "studentChallenge": "Due to ___, the price of milk has gone up every year for the past decade.",
+      "sentence": ""
+    },
+    {
+      "word": "lucrative",
+      "partOfSpeech": "adjective",
+      "meaning1": "Producing a lot of money; very profitable. Example: Selling lemonade on hot days turned out to be a lucrative business for the kids.",
+      "meaning2": "",
+      "studentChallenge": "The spice trade was so ___ that merchants risked dangerous sea voyages to take part in it.",
+      "sentence": ""
+    },
+    {
+      "word": "entrepreneur",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who starts and runs their own business, often taking risks to do so. Example: The young entrepreneur opened a bakery and quickly attracted loyal customers.",
+      "meaning2": "",
+      "studentChallenge": "As a creative ___, she turned her hobby of making candles into a successful shop.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Cotton was one of the most widely traded _______ in the colonies during the 1700s.",
+      "sentence2": "Clean water is a precious _______ that many communities around the world struggle to access.",
+      "options": ["tariff", "commodity", "subsidy", "deficit"],
+      "correctIndex": 1,
+      "correctAnswer": "commodity"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The president placed an _______ on all trade with the neighboring country after the conflict began.",
+      "sentence2": "Because of the _______, no ships were allowed to carry goods into or out of the port.",
+      "options": ["embargo", "tariff", "monopoly", "transaction"],
+      "correctIndex": 0,
+      "correctAnswer": "embargo"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The new _______ on imported steel made it cheaper to buy metal from local mines instead.",
+      "sentence2": "Colonists were angry about the _______ on tea because it made their favorite drink too expensive.",
+      "options": ["subsidy", "deficit", "tariff", "expenditure"],
+      "correctIndex": 2,
+      "correctAnswer": "tariff"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The _______ district along the waterfront was full of warehouses and trading offices.",
+      "sentence2": "In the colonial era, _______ families often built their wealth through the buying and selling of goods.",
+      "options": ["lucrative", "mercantile", "commodity", "embargo"],
+      "correctIndex": 1,
+      "correctAnswer": "mercantile"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The town's largest _______ last year was the construction of a new bridge across the river.",
+      "sentence2": "She tracked every _______ in her notebook to make sure she did not spend more than she earned.",
+      "options": ["transaction", "expenditure", "deficit", "inflation"],
+      "correctIndex": 1,
+      "correctAnswer": "expenditure"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The government offered a _______ to help small farmers buy new equipment for their fields.",
+      "sentence2": "Without the _______, the ferry service would have been too expensive to keep running.",
+      "options": ["monopoly", "tariff", "subsidy", "commodity"],
+      "correctIndex": 2,
+      "correctAnswer": "subsidy"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The East India Company held a _______ on the tea trade and controlled prices throughout the colonies.",
+      "sentence2": "When one company has a _______, customers have no other choices and must pay whatever price is set.",
+      "options": ["embargo", "monopoly", "deficit", "transaction"],
+      "correctIndex": 1,
+      "correctAnswer": "monopoly"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The _______ was simple: the farmer traded a bushel of wheat for a bolt of cloth.",
+      "sentence2": "Every _______ at the general store was written down in a thick leather-bound ledger.",
+      "options": ["transaction", "expenditure", "subsidy", "inflation"],
+      "correctIndex": 0,
+      "correctAnswer": "transaction"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The colony faced a serious _______ after spending far more on soldiers than it collected in taxes.",
+      "sentence2": "The club's _______ meant they would need to raise more money at the next fundraiser.",
+      "options": ["tariff", "commodity", "deficit", "embargo"],
+      "correctIndex": 2,
+      "correctAnswer": "deficit"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Because of _______, the same bag of flour that once cost a few pennies now cost a whole shilling.",
+      "sentence2": "Rapid _______ made it harder for ordinary families to afford food and clothing.",
+      "options": ["inflation", "monopoly", "expenditure", "subsidy"],
+      "correctIndex": 0,
+      "correctAnswer": "inflation"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The silk trade was so _______ that merchants were willing to travel thousands of miles to profit from it.",
+      "sentence2": "She discovered that selling handmade soap at the market was surprisingly _______.",
+      "options": ["mercantile", "lucrative", "entrepreneur", "commodity"],
+      "correctIndex": 1,
+      "correctAnswer": "lucrative"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The young _______ opened a print shop and quickly became one of the busiest tradespeople in town.",
+      "sentence2": "As a bold _______, she saw opportunity where others saw only risk.",
+      "options": ["deficit", "entrepreneur", "tariff", "monopoly"],
+      "correctIndex": 1,
+      "correctAnswer": "entrepreneur"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "commodity",
+      "embargo",
+      "tariff",
+      "mercantile",
+      "expenditure",
+      "subsidy",
+      "monopoly",
+      "transaction",
+      "deficit",
+      "inflation",
+      "lucrative",
+      "entrepreneur"
+    ],
+    "passage": "In the bustling port of Charlestown, Simone worked in her family's _(1)_ shop, where they bought and sold goods from around the world. Tea was the most popular _(2)_ on the shelves, but a new _(3)_ on tea imports had driven the price up sharply. To make matters worse, the governor announced an _(4)_ that banned all trade with French islands.\n\nSimone's friend Akio kept careful records of every _(5)_ that took place at the docks. He noticed that the town's total _(6)_ on imported goods was rising fast. Because of _(7)_, the same barrel of molasses that had cost three coins last year now cost five. The richest merchant in town held a _(8)_ on the salt trade, so no one else could compete.\n\nRani, a daring young _(9)_, proposed a plan. She asked the town council to create a _(10)_ that would help smaller traders afford their supplies. Simone ran the numbers and found a worrying _(11)_ between what the shops earned and what they owed. But Rani believed that selling locally grown tobacco could be _(12)_ enough to turn things around, and the townspeople agreed to try.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "mercantile",
+        "options": ["mercantile", "lucrative", "commodity", "embargo"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "commodity",
+        "options": ["tariff", "commodity", "subsidy", "transaction"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "tariff",
+        "options": ["deficit", "embargo", "tariff", "monopoly"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "embargo",
+        "options": ["inflation", "embargo", "expenditure", "subsidy"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "transaction",
+        "options": ["transaction", "tariff", "commodity", "deficit"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "expenditure",
+        "options": ["monopoly", "expenditure", "subsidy", "entrepreneur"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "inflation",
+        "options": ["inflation", "embargo", "tariff", "deficit"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "monopoly",
+        "options": ["subsidy", "commodity", "monopoly", "lucrative"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "entrepreneur",
+        "options": ["entrepreneur", "mercantile", "transaction", "expenditure"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "subsidy",
+        "options": ["tariff", "subsidy", "inflation", "monopoly"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "deficit",
+        "options": ["deficit", "embargo", "commodity", "transaction"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "lucrative",
+        "options": ["expenditure", "entrepreneur", "lucrative", "mercantile"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "tariff",
+        "scale": ["Fee", "Tariff", "Penalty"],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "deficit",
+        "scale": ["Shortfall", "Deficit", "Crisis"],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "inflation",
+        "scale": ["Increase", "Inflation", "Hyperinflation"],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "expenditure",
+        "scale": ["Spending", "Expenditure", "Extravagance"],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "commodity",
+        "words": ["Product", "Goods", "Resource", "Scarcity"],
+        "imposterIndex": 3,
+        "imposterWord": "Scarcity"
+      },
+      {
+        "vocabWord": "embargo",
+        "words": ["Ban", "Blockade", "Restriction", "Permission"],
+        "imposterIndex": 3,
+        "imposterWord": "Permission"
+      },
+      {
+        "vocabWord": "monopoly",
+        "words": ["Competition", "Control", "Dominance", "Supremacy"],
+        "imposterIndex": 0,
+        "imposterWord": "Competition"
+      },
+      {
+        "vocabWord": "lucrative",
+        "words": ["Profitable", "Rewarding", "Worthless", "Gainful"],
+        "imposterIndex": 2,
+        "imposterWord": "Worthless"
+      },
+      {
+        "vocabWord": "subsidy",
+        "words": ["Aid", "Grant", "Support", "Tax"],
+        "imposterIndex": 3,
+        "imposterWord": "Tax"
+      },
+      {
+        "vocabWord": "entrepreneur",
+        "words": ["Founder", "Innovator", "Employee", "Pioneer"],
+        "imposterIndex": 2,
+        "imposterWord": "Employee"
+      },
+      {
+        "vocabWord": "mercantile",
+        "words": ["Commercial", "Trading", "Charitable", "Business"],
+        "imposterIndex": 2,
+        "imposterWord": "Charitable"
+      },
+      {
+        "vocabWord": "transaction",
+        "words": ["Exchange", "Deal", "Trade", "Refusal"],
+        "imposterIndex": 3,
+        "imposterWord": "Refusal"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "grade": 4,
+  "setNumber": 17,
+  "words": [
+    "symptom",
+    "diagnose",
+    "fatigue",
+    "nourish",
+    "remedy",
+    "ailment",
+    "contagious",
+    "epidemic",
+    "circulation",
+    "vital",
+    "immune",
+    "hygiene"
+  ],
+  "sources": [
+    "Common Core Grade 4",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 4",
+    "CKLA Grade 4",
+    "Tier 2 Academic"
+  ],
+  "genre": "medical science adventure",
+  "story": {
+    "genre": "medical science adventure",
+    "characters": [
+      "Samir",
+      "Elena",
+      "Theo"
+    ],
+    "parts": [
+      {
+        "title": "The Mystery Begins",
+        "text": "When students at Riverside Elementary started coughing, Samir noticed the first **symptom** right away — red, watery eyes. Elena, who dreamed of becoming a doctor, tried to **diagnose** the problem by asking everyone what they had eaten. Theo could barely keep his eyes open and complained of **fatigue** that made even walking to lunch feel impossible."
+      },
+      {
+        "title": "The Health Station",
+        "text": "Elena set up a health station in the library. She told everyone that fruits and vegetables **nourish** the body and help fight sickness. Samir searched for a **remedy** that might help classmates feel better. They learned that the **ailment** spreading through school was a common cold, and it was highly **contagious**, passing easily from one person to the next."
+      },
+      {
+        "title": "The Action Plan",
+        "text": "Theo worried the cold could turn into a full **epidemic** that would spread across the entire town. Elena explained that good **circulation** of fresh air through classrooms would help reduce germs. She reminded everyone that handwashing was **vital** — absolutely necessary — if they wanted to stay healthy. Some students who had already recovered were now **immune** and could not catch the cold again. Samir made colorful posters about proper **hygiene**, showing the right way to wash hands and cover sneezes."
+      },
+      {
+        "title": "The Recovery",
+        "text": "Within a week, the school was back to normal. The nurse thanked Samir, Elena, and Theo for helping everyone understand how to take care of themselves. The three friends felt proud knowing that a little knowledge and teamwork had made a big difference for their whole school."
+      }
+    ],
+    "wordCount": 243
+  },
+  "definitions": [
+    {
+      "word": "symptom",
+      "partOfSpeech": "noun",
+      "meaning1": "A sign that shows something is wrong with your body, like a fever or a cough. Example: A runny nose is a common symptom of a cold.",
+      "meaning2": "A sign that a bigger problem exists. Example: The empty shelves were a symptom of the supply shortage.",
+      "studentChallenge": "A sore throat is often the first ___ of the flu.",
+      "sentence": ""
+    },
+    {
+      "word": "diagnose",
+      "partOfSpeech": "verb",
+      "meaning1": "To figure out what illness or problem someone has. Example: The doctor was able to diagnose the illness after running a few tests.",
+      "meaning2": "",
+      "studentChallenge": "The vet had to ___ the puppy's illness before giving it any medicine.",
+      "sentence": ""
+    },
+    {
+      "word": "fatigue",
+      "partOfSpeech": "noun",
+      "meaning1": "A feeling of being very tired and having no energy. Example: After running three miles, she was overcome with fatigue.",
+      "meaning2": "",
+      "studentChallenge": "The soccer players felt ___ after practicing for two hours in the hot sun.",
+      "sentence": ""
+    },
+    {
+      "word": "nourish",
+      "partOfSpeech": "verb",
+      "meaning1": "To give food or nutrients that help someone grow and stay healthy. Example: Fruits and vegetables nourish your body with important vitamins.",
+      "meaning2": "",
+      "studentChallenge": "We water the garden every day to ___ the growing plants.",
+      "sentence": ""
+    },
+    {
+      "word": "remedy",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "Something that helps fix a problem or cure a sickness. Example: Grandma's chicken soup is her favorite remedy for a cold.",
+      "meaning2": "To fix or correct something. Example: The teacher tried to remedy the confusion by explaining the directions again.",
+      "studentChallenge": "Hot tea with honey is a popular ___ for a sore throat.",
+      "sentence": ""
+    },
+    {
+      "word": "ailment",
+      "partOfSpeech": "noun",
+      "meaning1": "A sickness or health problem, usually not very serious. Example: A headache is a common ailment that most people experience.",
+      "meaning2": "",
+      "studentChallenge": "The nurse helped students with every ___, from stomachaches to scraped knees.",
+      "sentence": ""
+    },
+    {
+      "word": "contagious",
+      "partOfSpeech": "adjective",
+      "meaning1": "Able to spread from one person to another. Example: The flu is very contagious, so you should stay home when you are sick.",
+      "meaning2": "Spreading easily to others, even feelings or actions. Example: Her laughter was contagious, and soon everyone in the room was giggling.",
+      "studentChallenge": "The doctor said the rash was not ___, so it could not spread to other kids.",
+      "sentence": ""
+    },
+    {
+      "word": "epidemic",
+      "partOfSpeech": "noun",
+      "meaning1": "A disease that spreads quickly to many people in the same area at the same time. Example: The town faced an epidemic of the flu last winter.",
+      "meaning2": "",
+      "studentChallenge": "The health department worked hard to stop the ___ from spreading further.",
+      "sentence": ""
+    },
+    {
+      "word": "circulation",
+      "partOfSpeech": "noun",
+      "meaning1": "The movement of blood through the body, or the movement of air or water. Example: Exercise helps improve blood circulation throughout your body.",
+      "meaning2": "The passing of something from person to person. Example: The new book was in wide circulation at the school library.",
+      "studentChallenge": "Opening windows helps the ___ of fresh air in a stuffy room.",
+      "sentence": ""
+    },
+    {
+      "word": "vital",
+      "partOfSpeech": "adjective",
+      "meaning1": "Extremely important and necessary. Example: Water is vital for all living things to survive.",
+      "meaning2": "Full of energy and life. Example: The vital young puppy ran and jumped without ever stopping.",
+      "studentChallenge": "Getting enough sleep is ___ for doing well in school.",
+      "sentence": ""
+    },
+    {
+      "word": "immune",
+      "partOfSpeech": "adjective",
+      "meaning1": "Protected from a disease because your body can fight it off. Example: After getting the vaccine, she was immune to the illness.",
+      "meaning2": "Not affected by something. Example: He seemed immune to the cold weather and never wore a jacket.",
+      "studentChallenge": "Once you have had chickenpox, you are usually ___ to it for life.",
+      "sentence": ""
+    },
+    {
+      "word": "hygiene",
+      "partOfSpeech": "noun",
+      "meaning1": "Practices that keep you clean and healthy, like washing your hands and brushing your teeth. Example: Good hygiene is one of the best ways to prevent getting sick.",
+      "meaning2": "",
+      "studentChallenge": "The dentist reminded us that good dental ___ includes brushing twice a day.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "A high fever was the first _______ that told the family she was getting sick.",
+      "sentence2": "Long lines at every store were a _______ of the holiday shopping rush.",
+      "options": ["ailment", "symptom", "remedy", "epidemic"],
+      "correctIndex": 1,
+      "correctAnswer": "symptom"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The doctor ran several tests to _______ the patient's mysterious illness.",
+      "sentence2": "The mechanic needed to _______ the problem with the engine before he could fix it.",
+      "options": ["nourish", "diagnose", "circulation", "hygiene"],
+      "correctIndex": 1,
+      "correctAnswer": "diagnose"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "After hiking all day long, the campers were overcome with _______ and fell asleep immediately.",
+      "sentence2": "The _______ from studying all night made it hard to concentrate during the morning test.",
+      "options": ["fatigue", "symptom", "ailment", "remedy"],
+      "correctIndex": 0,
+      "correctAnswer": "fatigue"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Healthy meals _______ a child's growing body with the nutrients it needs.",
+      "sentence2": "Reading good books can _______ the mind just as healthy food feeds the body.",
+      "options": ["diagnose", "nourish", "immune", "vital"],
+      "correctIndex": 1,
+      "correctAnswer": "nourish"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Grandma's special soup was the best _______ whenever anyone in the family felt under the weather.",
+      "sentence2": "The principal tried to _______ the lunchroom noise problem by setting up quiet zones.",
+      "options": ["epidemic", "remedy", "contagious", "hygiene"],
+      "correctIndex": 1,
+      "correctAnswer": "remedy"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "A stomachache is a common _______ that usually goes away on its own after some rest.",
+      "sentence2": "The old cat had a minor _______ that the vet treated with a simple daily medicine.",
+      "options": ["ailment", "fatigue", "circulation", "symptom"],
+      "correctIndex": 0,
+      "correctAnswer": "ailment"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The nurse said the cold was highly _______ and could spread to the entire class.",
+      "sentence2": "Her excitement about the field trip was _______, and soon everyone was buzzing with joy.",
+      "options": ["vital", "immune", "contagious", "epidemic"],
+      "correctIndex": 2,
+      "correctAnswer": "contagious"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The city prepared for the flu _______ by opening extra health clinics around town.",
+      "sentence2": "Doctors warned that without vaccines, the disease could become a full _______ across the region.",
+      "options": ["epidemic", "ailment", "remedy", "symptom"],
+      "correctIndex": 0,
+      "correctAnswer": "epidemic"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Exercise keeps your blood _______ strong and your heart healthy.",
+      "sentence2": "The library tracked the _______ of its most popular books from reader to reader.",
+      "options": ["hygiene", "fatigue", "circulation", "vital"],
+      "correctIndex": 2,
+      "correctAnswer": "circulation"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Drinking clean water every day is _______ for staying healthy and strong.",
+      "sentence2": "The rescue team carried _______ supplies like food, water, and medicine to the village.",
+      "options": ["contagious", "immune", "vital", "nourish"],
+      "correctIndex": 2,
+      "correctAnswer": "vital"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "After recovering from the illness, her body was _______ to catching it a second time.",
+      "sentence2": "He seemed completely _______ to the cold weather and never even wore a jacket.",
+      "options": ["immune", "diagnose", "epidemic", "fatigue"],
+      "correctIndex": 0,
+      "correctAnswer": "immune"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The school nurse taught a lesson on proper _______, including handwashing and brushing teeth.",
+      "sentence2": "Good _______ in the kitchen means keeping surfaces clean so germs do not spread.",
+      "options": ["circulation", "remedy", "hygiene", "ailment"],
+      "correctIndex": 2,
+      "correctAnswer": "hygiene"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "symptom",
+      "diagnose",
+      "fatigue",
+      "nourish",
+      "remedy",
+      "ailment",
+      "contagious",
+      "epidemic",
+      "circulation",
+      "vital",
+      "immune",
+      "hygiene"
+    ],
+    "passage": "Dr. Patel noticed that many patients were coming in with the same _(1)_ — a scratchy throat and watery eyes. She worked quickly to _(2)_ what was making so many people sick at once. Most patients also complained of _(3)_, saying they had no energy to do even the simplest tasks.\n\nThe doctor told every family to _(4)_ their bodies with healthy fruits, vegetables, and plenty of water. She explained that rest was the best _(5)_ and that the _(6)_ was nothing too serious — just a seasonal cold. However, it was very _(7)_, which meant it could jump from one person to the next in no time at all.\n\nThe town mayor worried that the cold could become a full _(8)_ if people were not careful. Dr. Patel recommended opening windows to improve the _(9)_ of fresh air in classrooms and offices. She reminded everyone that handwashing was _(10)_ — absolutely necessary — to stop the germs from spreading. Students who had already been sick were now _(11)_ and helped care for classmates who were still recovering. The school posted bright signs about proper _(12)_, and within two weeks the whole town was healthy again.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "symptom",
+        "options": ["symptom", "ailment", "fatigue", "epidemic"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "diagnose",
+        "options": ["nourish", "diagnose", "remedy", "circulation"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "fatigue",
+        "options": ["hygiene", "fatigue", "vital", "contagious"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "nourish",
+        "options": ["diagnose", "immune", "nourish", "symptom"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "remedy",
+        "options": ["remedy", "epidemic", "ailment", "fatigue"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "ailment",
+        "options": ["circulation", "ailment", "hygiene", "vital"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "contagious",
+        "options": ["immune", "symptom", "contagious", "nourish"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "epidemic",
+        "options": ["epidemic", "remedy", "fatigue", "diagnose"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "circulation",
+        "options": ["hygiene", "vital", "ailment", "circulation"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "vital",
+        "options": ["contagious", "vital", "symptom", "immune"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "immune",
+        "options": ["immune", "nourish", "epidemic", "remedy"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "hygiene",
+        "options": ["circulation", "diagnose", "hygiene", "ailment"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "fatigue",
+        "scale": ["Tiredness", "Weariness", "Fatigue"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "vital",
+        "scale": ["Helpful", "Important", "Vital"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "ailment",
+        "scale": ["Ailment", "Illness", "Disease"],
+        "vocabPosition": 0
+      },
+      {
+        "vocabWord": "contagious",
+        "scale": ["Spreadable", "Catching", "Contagious"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "symptom",
+        "words": ["Sign", "Clue", "Cause", "Indicator"],
+        "imposterIndex": 2,
+        "imposterWord": "Cause"
+      },
+      {
+        "vocabWord": "diagnose",
+        "words": ["Identify", "Ignore", "Detect", "Determine"],
+        "imposterIndex": 1,
+        "imposterWord": "Ignore"
+      },
+      {
+        "vocabWord": "nourish",
+        "words": ["Feed", "Starve", "Sustain", "Strengthen"],
+        "imposterIndex": 1,
+        "imposterWord": "Starve"
+      },
+      {
+        "vocabWord": "remedy",
+        "words": ["Cure", "Treatment", "Fix", "Problem"],
+        "imposterIndex": 3,
+        "imposterWord": "Problem"
+      },
+      {
+        "vocabWord": "epidemic",
+        "words": ["Outbreak", "Plague", "Containment", "Spread"],
+        "imposterIndex": 2,
+        "imposterWord": "Containment"
+      },
+      {
+        "vocabWord": "circulation",
+        "words": ["Flow", "Blockage", "Movement", "Current"],
+        "imposterIndex": 1,
+        "imposterWord": "Blockage"
+      },
+      {
+        "vocabWord": "immune",
+        "words": ["Protected", "Resistant", "Vulnerable", "Safe"],
+        "imposterIndex": 2,
+        "imposterWord": "Vulnerable"
+      },
+      {
+        "vocabWord": "hygiene",
+        "words": ["Cleanliness", "Filth", "Sanitation", "Tidiness"],
+        "imposterIndex": 1,
+        "imposterWord": "Filth"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

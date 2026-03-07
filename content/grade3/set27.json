@@ -1,0 +1,587 @@
+{
+  "grade": 3,
+  "setNumber": 27,
+  "words": [
+    "organ",
+    "defiant",
+    "opposite",
+    "wander",
+    "absorb",
+    "starve",
+    "cure",
+    "major",
+    "survive",
+    "worthwhile",
+    "transparent",
+    "struggle"
+  ],
+  "sources": [
+    "Australian Curriculum",
+    "British KS2",
+    "CBSE India",
+    "Common Core Grade 3",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Tier 2 Academic",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "true historical figure biography",
+  "story": {
+    "genre": "true historical figure biography",
+    "characters": [
+      "Nikhil",
+      "Arnav",
+      "Kiran"
+    ],
+    "parts": [
+      {
+        "title": "The Warning Signs",
+        "text": "Nikhil stared at the data on her screen every morning \u2014 the numbers were getting worse. Coastal villages were beginning to **starve** for resources as saltwater flooded their farmland. Scientists took the **opposite** view from the government: the crisis was not temporary but a **major** emergency. The situation had become so serious that no one could **wander** away from it any longer without consequence.",
+        "wordCount": 65
+      },
+      {
+        "title": "The Crisis",
+        "text": "A massive storm hit the coastal town, flooding streets and destroying homes. The soil could no longer **absorb** the surging water \u2014 it was **transparent**ly clear that the old sea walls had failed. The community had to **struggle** through the wreckage to find survivors. Arnav tried to **cure** the fear spreading through the town by organizing emergency teams. Even the most **defiant** residents who had refused to evacuate now asked for help.",
+        "wordCount": 73
+      },
+      {
+        "title": "Taking Action",
+        "text": "Nikhil proposed a solution that would prove **worthwhile** \u2014 planting mangrove forests along the coast. She built a **transparent** display of evidence showing how the roots of mangroves act like a living **organ** for the coastline, filtering water and binding soil. Kiran, who had once been **defiant** about the project, now helped Nikhil present the plan to the town council.",
+        "wordCount": 62
+      },
+      {
+        "title": "A Greener Future",
+        "text": "Three years later, the mangrove forest stretched along two miles of coastline. When the next big storm came, the town survived with minimal damage. Arnav told the newspapers, \"Nikhil saved our town. She showed us that one person with a good idea can change everything.\" The town became a model for climate resilience, and Nikhil's story was taught in schools across the country.",
+        "wordCount": 65
+      }
+    ],
+    "wordCount": 265
+  },
+  "definitions": [
+    {
+      "word": "organ",
+      "partOfSpeech": "noun",
+      "meaning1": "A part of the body that has a special job, such as the heart, lungs, or brain. Example: The heart is an organ that pumps blood through your entire body.",
+      "meaning2": "A large musical instrument with pipes and a keyboard, often found in churches. Example: The deep, powerful sound of the organ filled the entire cathedral.",
+      "studentChallenge": "The doctor explained that the liver is an important ___ that helps clean our blood.",
+      "sentence": ""
+    },
+    {
+      "word": "defiant",
+      "partOfSpeech": "adjective",
+      "meaning1": "Boldly refusing to obey. Example: The defiant child crossed her arms and said no.",
+      "meaning2": "",
+      "studentChallenge": "The ___ look on her face showed she would not give in.",
+      "sentence": ""
+    },
+    {
+      "word": "opposite",
+      "partOfSpeech": "adjective",
+      "meaning1": "Completely different from something in every way. Example: Hot and cold are opposite temperatures, just like light and dark are opposite amounts of brightness.",
+      "meaning2": "On the other side of something; facing. Example: The bakery is on the opposite side of the street from the library.",
+      "studentChallenge": "The twins had ___ personalities: one was shy and quiet, the other was loud and outgoing.",
+      "sentence": ""
+    },
+    {
+      "word": "wander",
+      "partOfSpeech": "verb",
+      "meaning1": "To walk around without a clear direction. Example: We wandered through the old town exploring the streets.",
+      "meaning2": "",
+      "studentChallenge": "Don't ___ too far from the campsite.",
+      "sentence": ""
+    },
+    {
+      "word": "absorb",
+      "partOfSpeech": "verb",
+      "meaning1": "To soak up or take in. Example: The sponge will absorb the water.",
+      "meaning2": "To be very interested in something. Example: She was absorbed in her book.",
+      "studentChallenge": "The towel can ___ a lot of water.",
+      "sentence": ""
+    },
+    {
+      "word": "starve",
+      "partOfSpeech": "verb",
+      "meaning1": "To suffer or die from not having enough food to eat. Example: The lost hikers were afraid they would starve if they didn't find help soon.",
+      "meaning2": "",
+      "studentChallenge": "We need to feed the fish every day so they don't ___ while we're on vacation.",
+      "sentence": ""
+    },
+    {
+      "word": "cure",
+      "partOfSpeech": "noun",
+      "meaning1": "Something that makes a sick person or animal healthy again. Example: Scientists worked for years to find a cure for the disease that was making so many people ill.",
+      "meaning2": "",
+      "studentChallenge": "The doctor hoped that the new medicine would be a ___ for the patient's illness.",
+      "sentence": ""
+    },
+    {
+      "word": "major",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very important or large in size or effect. Example: The discovery of electricity was a major event that changed how people live.",
+      "meaning2": "",
+      "studentChallenge": "Finishing the book report was a ___ accomplishment because it had taken her three whole weeks.",
+      "sentence": ""
+    },
+    {
+      "word": "survive",
+      "partOfSpeech": "verb",
+      "meaning1": "To continue to live through a difficult situation. Example: The plants survived the harsh winter.",
+      "meaning2": "",
+      "studentChallenge": "How do animals ___ in the desert?",
+      "sentence": ""
+    },
+    {
+      "word": "worthwhile",
+      "partOfSpeech": "adjective",
+      "meaning1": "Worth the time, effort, or money spent; valuable and rewarding. Example: Volunteering at the animal shelter is a worthwhile activity that helps animals in need.",
+      "meaning2": "",
+      "studentChallenge": "Reading every night is a ___ habit that can improve your vocabulary and imagination.",
+      "sentence": ""
+    },
+    {
+      "word": "transparent",
+      "partOfSpeech": "adjective",
+      "meaning1": "Clear enough to see through. Example: The fish tank was made of transparent glass so we could watch the colorful fish swimming inside.",
+      "meaning2": "",
+      "studentChallenge": "She wrapped the gift in ___ plastic wrap, so everyone could see what was inside.",
+      "sentence": ""
+    },
+    {
+      "word": "struggle",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To try very hard to do something difficult. Example: She struggled to carry the heavy box.",
+      "meaning2": "A difficult fight or effort. Example: The struggle for freedom lasted many years.",
+      "studentChallenge": "Don't give up when you ___ with a hard problem.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The heart is the most vital ___ in the body \u2014 it pumps blood to every single cell nonstop.",
+      "sentence2": "The doctor explained that the liver is an important ___ that cleans the blood and removes toxins.",
+      "options": [
+        "worthwhile",
+        "organ",
+        "absorb",
+        "struggle"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "organ"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The ___ child crossed her arms, stamped her foot, and flatly refused to follow the rule.",
+      "sentence2": "The ___ glare on her face made it clear she had no intention of giving in \u2014 not even a little.",
+      "options": [
+        "cure",
+        "defiant",
+        "worthwhile",
+        "transparent"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "defiant"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Hot and cold are ___ temperatures \u2014 each is the complete reverse of the other on the scale.",
+      "sentence2": "The twins had ___ personalities: one was timid and quiet, the other was bold and loud.",
+      "options": [
+        "major",
+        "transparent",
+        "opposite",
+        "wander"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "opposite"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "We spent the afternoon wandering through the old town, drifting from street to street without a map.",
+      "sentence2": "Don't ___ too far from the campsite \u2014 it's easy to get lost in the forest after dark.",
+      "options": [
+        "wander",
+        "survive",
+        "struggle",
+        "cure"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "wander"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "A dry sponge will ___ an entire cup of spilled water in just a few seconds.",
+      "sentence2": "The thick cotton towel can ___ a great deal of water \u2014 far more than a thin cloth.",
+      "options": [
+        "absorb",
+        "worthwhile",
+        "cure",
+        "starve"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "absorb"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The lost hikers feared they would ___ \u2014 they had eaten nothing for two days and were growing faint.",
+      "sentence2": "We must feed the fish every day so they don't ___ and die while we are away on vacation.",
+      "options": [
+        "transparent",
+        "survive",
+        "wander",
+        "starve"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "starve"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Scientists worked for decades to find a ___ for the disease \u2014 a treatment that would make people fully well.",
+      "sentence2": "The doctor hoped that the new medicine would be a complete ___ for the patient's painful illness.",
+      "options": [
+        "cure",
+        "struggle",
+        "absorb",
+        "worthwhile"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "cure"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The discovery of electricity was a ___ turning point \u2014 one of the most important events in human history.",
+      "sentence2": "Finishing the long book report was a ___ achievement \u2014 it had taken her three full weeks of hard work.",
+      "options": [
+        "absorb",
+        "major",
+        "defiant",
+        "struggle"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "major"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Remarkably, the plants managed to ___ the harsh winter without any shelter or extra watering.",
+      "sentence2": "How do desert animals ___ for months in blazing heat with almost no water to drink?",
+      "options": [
+        "absorb",
+        "wander",
+        "major",
+        "survive"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "survive"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Volunteering at the animal shelter is a truly ___ activity \u2014 the effort you put in is rewarded with grateful wagging tails.",
+      "sentence2": "Reading every night is a ___ habit that sharpens your vocabulary and stretches your imagination.",
+      "options": [
+        "starve",
+        "major",
+        "defiant",
+        "worthwhile"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "worthwhile"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The fish tank was made of perfectly ___ glass, letting you watch every colorful fish glide by.",
+      "sentence2": "She wrapped the gift in ___ plastic wrap so everyone could clearly see what was inside.",
+      "options": [
+        "survive",
+        "defiant",
+        "transparent",
+        "worthwhile"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "transparent"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "She had to ___ with both arms just to carry the heavy box up the stairs without dropping it.",
+      "sentence2": "Don't give up when you ___ with a hard problem \u2014 the effort is what makes you stronger.",
+      "options": [
+        "defiant",
+        "worthwhile",
+        "struggle",
+        "survive"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "struggle"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "organ",
+      "defiant",
+      "opposite",
+      "wander",
+      "absorb",
+      "starve",
+      "cure",
+      "major",
+      "survive",
+      "worthwhile",
+      "transparent",
+      "struggle"
+    ],
+    "passage": "The doctor pointed to a model of the body and explained that the heart is the hardest-working _(1)_ \u2014 it pumps blood every single second without stopping. The young patient crossed her arms, set her jaw, and gave the nurse a _(2)_ stare that clearly said she had no intention of swallowing the bitter medicine. Hot and cold are _(3)_ temperatures, each the complete reverse of the other \u2014 one extreme vs. the other. The hikers were free to _(4)_ wherever they liked through the botanical garden, drifting aimlessly from flower to flower without any set path. A thick sponge will _(5)_ a full cup of spilled juice, soaking it up until not a single drop remains on the table. Without enough food, the stranded hikers were beginning to _(6)_ \u2014 their stomachs aching with hunger and their bodies growing weak. Scientists worked for years to find a _(7)_ for the illness, searching for a medicine that would make patients fully healthy again. Losing electricity during the storm was a _(8)_ problem \u2014 it affected every house, school, and hospital in the entire town. The tiny seedling managed to _(9)_ the harsh winter, pushing through the frozen soil when spring finally arrived. Spending three hours helping younger students read was truly _(10)_ \u2014 seeing their faces light up made every minute feel valuable. The glass walls of the greenhouse were completely _(11)_, letting you look straight through them to see every plant growing inside. She had to _(12)_ to lift the heavy crate \u2014 straining with all her strength just to move it an inch.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "organ",
+        "options": [
+          "organ",
+          "major",
+          "struggle",
+          "cure"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "defiant",
+        "options": [
+          "defiant",
+          "wander",
+          "worthwhile",
+          "organ"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "opposite",
+        "options": [
+          "opposite",
+          "starve",
+          "transparent",
+          "cure"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "wander",
+        "options": [
+          "wander",
+          "survive",
+          "starve",
+          "struggle"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "absorb",
+        "options": [
+          "absorb",
+          "wander",
+          "starve",
+          "worthwhile"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "starve",
+        "options": [
+          "starve",
+          "absorb",
+          "survive",
+          "wander"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "cure",
+        "options": [
+          "cure",
+          "opposite",
+          "struggle",
+          "wander"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "major",
+        "options": [
+          "major",
+          "wander",
+          "organ",
+          "worthwhile"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "survive",
+        "options": [
+          "survive",
+          "wander",
+          "starve",
+          "organ"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "worthwhile",
+        "options": [
+          "worthwhile",
+          "defiant",
+          "cure",
+          "starve"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "transparent",
+        "options": [
+          "transparent",
+          "major",
+          "defiant",
+          "opposite"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "struggle",
+        "options": [
+          "struggle",
+          "organ",
+          "survive",
+          "absorb"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "organ",
+        "scale": [
+          "part",
+          "organ",
+          "instrument"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "defiant",
+        "scale": [
+          "stubborn",
+          "defiant",
+          "rebellious"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "opposite",
+        "scale": [
+          "different",
+          "opposite",
+          "reverse"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "wander",
+        "scale": [
+          "roam",
+          "wander",
+          "meander"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "absorb",
+        "words": [
+          "soak",
+          "take in",
+          "engross",
+          "release"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "release"
+      },
+      {
+        "vocabWord": "starve",
+        "words": [
+          "feed",
+          "hunger",
+          "deprive",
+          "suffer"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "feed"
+      },
+      {
+        "vocabWord": "cure",
+        "words": [
+          "remedy",
+          "treatment",
+          "heal",
+          "disease"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "disease"
+      },
+      {
+        "vocabWord": "major",
+        "words": [
+          "significant",
+          "minor",
+          "important",
+          "main"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "minor"
+      },
+      {
+        "vocabWord": "survive",
+        "words": [
+          "endure",
+          "persist",
+          "perish",
+          "withstand"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "perish"
+      },
+      {
+        "vocabWord": "worthwhile",
+        "words": [
+          "wasteful",
+          "valuable",
+          "beneficial",
+          "rewarding"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "wasteful"
+      },
+      {
+        "vocabWord": "transparent",
+        "words": [
+          "opaque",
+          "clear",
+          "see-through",
+          "obvious"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "opaque"
+      },
+      {
+        "vocabWord": "struggle",
+        "words": [
+          "fight",
+          "ease",
+          "effort",
+          "battle"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "ease"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

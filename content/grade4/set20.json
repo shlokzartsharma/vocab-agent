@@ -1,0 +1,405 @@
+{
+  "grade": 4,
+  "setNumber": 20,
+  "words": [
+    "persevere",
+    "accomplish",
+    "determination",
+    "hardship",
+    "fortitude",
+    "resourceful",
+    "relentless",
+    "withstand",
+    "persistent",
+    "tenacity",
+    "resilient",
+    "prevail"
+  ],
+  "sources": [
+    "Common Core Grade 4",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 4",
+    "CKLA Grade 4",
+    "Tier 2 Academic"
+  ],
+  "genre": "sports underdog",
+  "story": {
+    "genre": "sports underdog",
+    "characters": [
+      "Celia",
+      "Dante",
+      "Imani"
+    ],
+    "parts": [
+      {
+        "title": "The Underdog Team",
+        "text": "Nobody expected the Riverside Rockets to win a single game. Celia, the captain, had enough **determination** to keep everyone going even when the scores looked hopeless. Dante showed real **fortitude** by playing through a sore ankle without complaining. Coach Imani was **resourceful** — when the gym flooded, she moved practice to the parking lot and used cones from her car."
+      },
+      {
+        "title": "Facing the Storm",
+        "text": "The season brought one **hardship** after another: broken equipment, canceled buses, and a star player who moved away. Still, Celia refused to quit. She told her team they had to **persevere** no matter what. Dante was **relentless** on defense, never giving the other team a moment of rest. Even when they lost three games in a row, the Rockets stayed **resilient** and bounced back stronger each time."
+      },
+      {
+        "title": "The Championship",
+        "text": "In the final game, the Rockets were down by ten points at halftime. Imani reminded them that **persistent** effort pays off. Celia played with fierce **tenacity**, diving for every loose ball. The team fought to **withstand** the pressure of the roaring crowd. They wanted to **accomplish** something no one believed possible — and to **prevail** over the top-ranked team."
+      },
+      {
+        "title": "Victory at Last",
+        "text": "With five seconds left, Dante sank a three-point shot and the buzzer sounded. The Rockets won by one point. The gym erupted in cheers. Celia hugged her teammates and whispered that she had never been prouder. Imani smiled and said this was proof that heart matters more than talent."
+      }
+    ],
+    "wordCount": 235
+  },
+  "definitions": [
+    {
+      "word": "persevere",
+      "partOfSpeech": "verb",
+      "meaning1": "To keep trying even when something is very difficult. Example: She had to persevere through months of practice before she could play the song perfectly.",
+      "meaning2": "",
+      "studentChallenge": "Even when the math problems were hard, the student chose to ___ and finish every one.",
+      "sentence": ""
+    },
+    {
+      "word": "accomplish",
+      "partOfSpeech": "verb",
+      "meaning1": "To succeed in doing or completing something. Example: With teamwork, the class was able to accomplish their goal of reading five hundred books.",
+      "meaning2": "",
+      "studentChallenge": "She worked all weekend to ___ her goal of finishing the science project on time.",
+      "sentence": ""
+    },
+    {
+      "word": "determination",
+      "partOfSpeech": "noun",
+      "meaning1": "A strong feeling of wanting to do something and not letting anything stop you. Example: His determination to learn how to swim kept him going back to the pool every day.",
+      "meaning2": "",
+      "studentChallenge": "Her ___ to win the spelling bee was clear from the hours she spent studying words.",
+      "sentence": ""
+    },
+    {
+      "word": "hardship",
+      "partOfSpeech": "noun",
+      "meaning1": "A difficult situation that causes suffering or struggle. Example: The family faced many hardships after the storm destroyed their home.",
+      "meaning2": "",
+      "studentChallenge": "Moving to a new school was a ___ at first, but she soon made new friends.",
+      "sentence": ""
+    },
+    {
+      "word": "fortitude",
+      "partOfSpeech": "noun",
+      "meaning1": "Courage and strength when facing pain or trouble. Example: It took great fortitude to keep hiking up the steep mountain in the freezing rain.",
+      "meaning2": "",
+      "studentChallenge": "The explorer showed incredible ___ when she continued the journey despite the dangerous weather.",
+      "sentence": ""
+    },
+    {
+      "word": "resourceful",
+      "partOfSpeech": "adjective",
+      "meaning1": "Good at finding clever ways to solve problems. Example: The resourceful camper used a large leaf as an umbrella when it started to rain.",
+      "meaning2": "",
+      "studentChallenge": "When they ran out of paint, the ___ students mixed food coloring with glue instead.",
+      "sentence": ""
+    },
+    {
+      "word": "relentless",
+      "partOfSpeech": "adjective",
+      "meaning1": "Never stopping or slowing down; nonstop. Example: The relentless rain lasted for three days and flooded the streets.",
+      "meaning2": "",
+      "studentChallenge": "The detective was ___ in her search for clues, checking every room in the building.",
+      "sentence": ""
+    },
+    {
+      "word": "withstand",
+      "partOfSpeech": "verb",
+      "meaning1": "To be strong enough to survive something difficult without being harmed. Example: The old oak tree was able to withstand the powerful winds of the hurricane.",
+      "meaning2": "",
+      "studentChallenge": "The castle walls were built thick enough to ___ attacks from enemy armies.",
+      "sentence": ""
+    },
+    {
+      "word": "persistent",
+      "partOfSpeech": "adjective",
+      "meaning1": "Continuing to try and not giving up. Example: The persistent student kept raising her hand until the teacher called on her.",
+      "meaning2": "Lasting for a long time. Example: A persistent cough kept him home from school for a whole week.",
+      "studentChallenge": "His ___ knocking on the door finally got someone to answer.",
+      "sentence": ""
+    },
+    {
+      "word": "tenacity",
+      "partOfSpeech": "noun",
+      "meaning1": "The quality of holding on tightly and refusing to give up. Example: The puppy showed tenacity by chasing the ball until it finally caught it.",
+      "meaning2": "",
+      "studentChallenge": "Her ___ impressed the coach because she never stopped trying, even during the hardest drills.",
+      "sentence": ""
+    },
+    {
+      "word": "resilient",
+      "partOfSpeech": "adjective",
+      "meaning1": "Able to recover quickly from difficult situations. Example: The resilient town rebuilt itself within a year after the earthquake.",
+      "meaning2": "",
+      "studentChallenge": "After losing the first game, the ___ team came back and won the next three.",
+      "sentence": ""
+    },
+    {
+      "word": "prevail",
+      "partOfSpeech": "verb",
+      "meaning1": "To win or succeed, especially after a struggle. Example: The hero managed to prevail over the villain at the end of the story.",
+      "meaning2": "",
+      "studentChallenge": "Despite falling behind early, the team was able to ___ and win the championship.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "She had to _______ through months of difficult training before she could run the full marathon.",
+      "sentence2": "Even when the puzzle seemed impossible, he chose to _______ and kept working on it for hours.",
+      "options": ["accomplish", "persevere", "withstand", "prevail"],
+      "correctIndex": 1,
+      "correctAnswer": "persevere"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "With teamwork, the class was able to _______ their goal of collecting five hundred cans of food.",
+      "sentence2": "She worked every weekend to _______ her dream of building a treehouse all by herself.",
+      "options": ["accomplish", "persevere", "determination", "resourceful"],
+      "correctIndex": 0,
+      "correctAnswer": "accomplish"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "His _______ to learn how to ride a bike kept him getting back on every time he fell.",
+      "sentence2": "The look of fierce _______ on her face showed that nothing would stop her from finishing the race.",
+      "options": ["hardship", "tenacity", "determination", "fortitude"],
+      "correctIndex": 2,
+      "correctAnswer": "determination"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The family faced many _______ after the flood damaged their house and ruined their belongings.",
+      "sentence2": "Living without electricity for a week was a real _______ during the cold winter months.",
+      "options": ["hardship", "resilient", "relentless", "prevail"],
+      "correctIndex": 0,
+      "correctAnswer": "hardship"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "It took great _______ to keep climbing the steep mountain in the freezing rain.",
+      "sentence2": "The firefighter showed amazing _______ by running into the burning building to save the child.",
+      "options": ["persistent", "tenacity", "fortitude", "resourceful"],
+      "correctIndex": 2,
+      "correctAnswer": "fortitude"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The _______ camper used a large leaf as an umbrella when it suddenly started to rain.",
+      "sentence2": "When they ran out of tape, the _______ students used sticky notes to hold the poster together.",
+      "options": ["relentless", "resilient", "resourceful", "persistent"],
+      "correctIndex": 2,
+      "correctAnswer": "resourceful"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The _______ rain lasted for three straight days and turned the streets into rivers.",
+      "sentence2": "The detective was _______ in her investigation, searching every room until she found the missing clue.",
+      "options": ["relentless", "persistent", "resilient", "withstand"],
+      "correctIndex": 0,
+      "correctAnswer": "relentless"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The old stone bridge was strong enough to _______ the heavy flooding without cracking.",
+      "sentence2": "The goalkeeper managed to _______ shot after shot from the opposing team during the final minutes.",
+      "options": ["prevail", "persevere", "withstand", "accomplish"],
+      "correctIndex": 2,
+      "correctAnswer": "withstand"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The _______ student kept raising her hand until the teacher finally called on her.",
+      "sentence2": "A _______ knocking at the front door woke the family up early on a Sunday morning.",
+      "options": ["relentless", "persistent", "resilient", "resourceful"],
+      "correctIndex": 1,
+      "correctAnswer": "persistent"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The puppy showed real _______ by chasing the squirrel through the yard until it finally caught up.",
+      "sentence2": "Her _______ impressed the coach because she refused to give up even during the hardest drills.",
+      "options": ["determination", "fortitude", "tenacity", "hardship"],
+      "correctIndex": 2,
+      "correctAnswer": "tenacity"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The _______ town rebuilt all its houses within a year after the terrible earthquake.",
+      "sentence2": "After losing the opening match, the _______ team bounced back and won the next three games.",
+      "options": ["persistent", "resilient", "relentless", "resourceful"],
+      "correctIndex": 1,
+      "correctAnswer": "resilient"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Despite falling behind early, the underdog team managed to _______ and win the championship.",
+      "sentence2": "The hero fought bravely and was able to _______ over the villain at the end of the story.",
+      "options": ["accomplish", "withstand", "persevere", "prevail"],
+      "correctIndex": 3,
+      "correctAnswer": "prevail"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "persevere",
+      "accomplish",
+      "determination",
+      "hardship",
+      "fortitude",
+      "resourceful",
+      "relentless",
+      "withstand",
+      "persistent",
+      "tenacity",
+      "resilient",
+      "prevail"
+    ],
+    "passage": "Nobody believed the Riverside Rockets could win a single game. Their season started with one _(1)_ after another — broken equipment, a flooded gym, and their best player moving away. But Captain Celia had enough _(2)_ to keep the team going. She told everyone they had to _(3)_ no matter how tough things got.\n\nCoach Imani was _(4)_ and found creative solutions to every problem. She showed great _(5)_ by staying calm even when everything seemed to go wrong. Dante was _(6)_ on defense, never giving the other team a single easy shot. His _(7)_ effort wore down every opponent he faced.\n\nIn the championship game, the Rockets fell behind by ten points. The crowd was loud, but the team was _(8)_ enough to _(9)_ the pressure. Celia played with fierce _(10)_, diving for every loose ball. The team wanted to _(11)_ something that no one thought was possible. In the final seconds, Dante sank the winning shot. The Riverside Rockets had managed to _(12)_ over the top-ranked team and become champions at last.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "hardship",
+        "options": ["hardship", "tenacity", "prevail", "accomplish"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "determination",
+        "options": ["fortitude", "determination", "resourceful", "relentless"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "persevere",
+        "options": ["persevere", "withstand", "prevail", "accomplish"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "resourceful",
+        "options": ["persistent", "resilient", "resourceful", "relentless"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "fortitude",
+        "options": ["fortitude", "tenacity", "determination", "hardship"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "relentless",
+        "options": ["persistent", "relentless", "resilient", "resourceful"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "persistent",
+        "options": ["relentless", "persistent", "prevail", "fortitude"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "resilient",
+        "options": ["resilient", "resourceful", "relentless", "persistent"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "withstand",
+        "options": ["persevere", "accomplish", "withstand", "prevail"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "tenacity",
+        "options": ["determination", "tenacity", "hardship", "fortitude"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "accomplish",
+        "options": ["accomplish", "prevail", "persevere", "withstand"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "prevail",
+        "options": ["hardship", "accomplish", "persevere", "prevail"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "hardship",
+        "scale": ["Trouble", "Hardship", "Crisis"],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "relentless",
+        "scale": ["Steady", "Determined", "Relentless"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "persistent",
+        "scale": ["Persistent", "Stubborn", "Unyielding"],
+        "vocabPosition": 0
+      },
+      {
+        "vocabWord": "fortitude",
+        "scale": ["Nerve", "Courage", "Fortitude"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "persevere",
+        "words": ["Continue", "Endure", "Quit", "Persist"],
+        "imposterIndex": 2,
+        "imposterWord": "Quit"
+      },
+      {
+        "vocabWord": "accomplish",
+        "words": ["Achieve", "Complete", "Fail", "Finish"],
+        "imposterIndex": 2,
+        "imposterWord": "Fail"
+      },
+      {
+        "vocabWord": "determination",
+        "words": ["Willpower", "Drive", "Apathy", "Resolve"],
+        "imposterIndex": 2,
+        "imposterWord": "Apathy"
+      },
+      {
+        "vocabWord": "resourceful",
+        "words": ["Helpless", "Clever", "Creative", "Inventive"],
+        "imposterIndex": 0,
+        "imposterWord": "Helpless"
+      },
+      {
+        "vocabWord": "withstand",
+        "words": ["Endure", "Survive", "Collapse", "Resist"],
+        "imposterIndex": 2,
+        "imposterWord": "Collapse"
+      },
+      {
+        "vocabWord": "tenacity",
+        "words": ["Grit", "Weakness", "Toughness", "Grip"],
+        "imposterIndex": 1,
+        "imposterWord": "Weakness"
+      },
+      {
+        "vocabWord": "resilient",
+        "words": ["Tough", "Fragile", "Strong", "Flexible"],
+        "imposterIndex": 1,
+        "imposterWord": "Fragile"
+      },
+      {
+        "vocabWord": "prevail",
+        "words": ["Triumph", "Succeed", "Overcome", "Surrender"],
+        "imposterIndex": 3,
+        "imposterWord": "Surrender"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

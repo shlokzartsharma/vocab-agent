@@ -1,0 +1,405 @@
+{
+  "grade": 4,
+  "setNumber": 4,
+  "words": [
+    "prosperity",
+    "civic",
+    "commerce",
+    "constitute",
+    "democratic",
+    "commonwealth",
+    "obligation",
+    "contribute",
+    "authority",
+    "reform",
+    "heritage",
+    "liberty"
+  ],
+  "sources": [
+    "Common Core Grade 4",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 4",
+    "CKLA Grade 4",
+    "Tier 2 Academic"
+  ],
+  "genre": "community building",
+  "story": {
+    "genre": "community building",
+    "characters": [
+      "Sofia",
+      "Kwame",
+      "Riya"
+    ],
+    "parts": [
+      {
+        "title": "A Town in Need",
+        "text": "Sofia, Kwame, and Riya lived in a small town that had once enjoyed great **prosperity**, with busy shops and happy families everywhere. But the old market had closed, and **commerce** had slowed down. Kwame believed every citizen had an **obligation** to help fix things. Riya agreed and said they should **contribute** their time and ideas to make the town better."
+      },
+      {
+        "title": "Planning Together",
+        "text": "The three friends decided to hold a **democratic** vote so everyone in town could have a say. They invited a local **authority** — the town council president — to help guide the meeting. Sofia explained that their town was a **commonwealth** where all people shared in its success. Together, the citizens would **constitute** a planning committee to rebuild the market square."
+      },
+      {
+        "title": "Building a Better Town",
+        "text": "The committee pushed for **reform**, changing old rules that had kept new shops from opening. Kwame organized a **civic** cleanup day where neighbors swept streets and planted flowers in public spaces. Riya set up a booth celebrating the town's **heritage**, displaying old photographs and recipes passed down through generations. A large banner hung over the new market square, promising **liberty** and community for all."
+      },
+      {
+        "title": "A Fresh Start",
+        "text": "On opening day, the market was packed with families buying fresh bread, handmade crafts, and jars of local honey. Sofia looked around at the smiling faces and felt proud. The three friends had shown that when a community works together, anything is possible. Kwame smiled and said this was only the beginning."
+      }
+    ],
+    "wordCount": 232
+  },
+  "definitions": [
+    {
+      "word": "prosperity",
+      "partOfSpeech": "noun",
+      "meaning1": "The state of being successful, especially by having plenty of money or resources. Example: The new factory brought prosperity to the small town by creating many jobs.",
+      "meaning2": "",
+      "studentChallenge": "Years of hard work brought ___ to the farming community at last.",
+      "sentence": ""
+    },
+    {
+      "word": "civic",
+      "partOfSpeech": "adjective",
+      "meaning1": "Relating to the duties and activities of citizens in a community. Example: Picking up litter in the park is an example of civic responsibility.",
+      "meaning2": "",
+      "studentChallenge": "Voting and volunteering are important ___ duties for every citizen.",
+      "sentence": ""
+    },
+    {
+      "word": "commerce",
+      "partOfSpeech": "noun",
+      "meaning1": "The buying and selling of goods and services. Example: The harbor was full of ships involved in commerce between the two countries.",
+      "meaning2": "",
+      "studentChallenge": "The new highway helped increase ___ between the two cities by making travel faster.",
+      "sentence": ""
+    },
+    {
+      "word": "constitute",
+      "partOfSpeech": "verb",
+      "meaning1": "To form or make up something. Example: Twelve players constitute the entire team roster.",
+      "meaning2": "To officially set up or establish. Example: The school decided to constitute a new student council this year.",
+      "studentChallenge": "Five boroughs ___ the great city of New York.",
+      "sentence": ""
+    },
+    {
+      "word": "democratic",
+      "partOfSpeech": "adjective",
+      "meaning1": "Based on a system where everyone has an equal right to vote or share opinions. Example: The class held a democratic election to choose the president of the student council.",
+      "meaning2": "",
+      "studentChallenge": "In a ___ classroom, every student gets a chance to share their ideas.",
+      "sentence": ""
+    },
+    {
+      "word": "commonwealth",
+      "partOfSpeech": "noun",
+      "meaning1": "A group of people or a community organized for the common good. Example: The leaders worked hard to build a commonwealth where everyone had a fair chance.",
+      "meaning2": "",
+      "studentChallenge": "The ___ was founded on the belief that every person's voice matters.",
+      "sentence": ""
+    },
+    {
+      "word": "obligation",
+      "partOfSpeech": "noun",
+      "meaning1": "Something you are required or expected to do; a duty. Example: It is every student's obligation to follow the school rules.",
+      "meaning2": "",
+      "studentChallenge": "She felt a strong ___ to return the lost wallet to its owner.",
+      "sentence": ""
+    },
+    {
+      "word": "contribute",
+      "partOfSpeech": "verb",
+      "meaning1": "To give something, such as time, money, or effort, to help achieve a goal. Example: Each student was asked to contribute one item to the class food drive.",
+      "meaning2": "",
+      "studentChallenge": "Everyone in the family tried to ___ ideas for the vacation plan.",
+      "sentence": ""
+    },
+    {
+      "word": "authority",
+      "partOfSpeech": "noun",
+      "meaning1": "The power or right to give orders and make decisions. Example: The principal has the authority to cancel school during a snowstorm.",
+      "meaning2": "A person or group with special knowledge or power. Example: The doctor was an authority on children's health.",
+      "studentChallenge": "The lifeguard has the ___ to close the pool if the weather is dangerous.",
+      "sentence": ""
+    },
+    {
+      "word": "reform",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A change made to improve something, especially a rule or system. Example: The new reform allowed students to have a longer lunch break.",
+      "meaning2": "To make changes in order to improve something. Example: The mayor promised to reform the city's recycling program.",
+      "studentChallenge": "The school board voted on a ___ that would add more recess time for students.",
+      "sentence": ""
+    },
+    {
+      "word": "heritage",
+      "partOfSpeech": "noun",
+      "meaning1": "Traditions, values, and history passed down from earlier generations. Example: The festival celebrates the heritage of the many cultures that built our city.",
+      "meaning2": "",
+      "studentChallenge": "Grandma taught us about our family's ___ by sharing stories from her childhood.",
+      "sentence": ""
+    },
+    {
+      "word": "liberty",
+      "partOfSpeech": "noun",
+      "meaning1": "The freedom to live, think, and act as you choose. Example: The Statue of Liberty stands as a symbol of freedom for people everywhere.",
+      "meaning2": "",
+      "studentChallenge": "The colonists fought for their ___ and the right to govern themselves.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The discovery of gold brought great _______ to the once-struggling mining town.",
+      "sentence2": "After years of hard work, the family finally enjoyed _______ and could afford a bigger house.",
+      "options": ["obligation", "prosperity", "heritage", "reform"],
+      "correctIndex": 1,
+      "correctAnswer": "prosperity"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Cleaning up the neighborhood park is an important _______ duty that helps everyone.",
+      "sentence2": "The students showed great _______ pride by volunteering at the local community center.",
+      "options": ["democratic", "civic", "liberty", "commerce"],
+      "correctIndex": 1,
+      "correctAnswer": "civic"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The busy port was the center of _______ between the island and the mainland.",
+      "sentence2": "New roads and bridges helped increase _______ by making it easier for merchants to deliver goods.",
+      "options": ["commerce", "authority", "commonwealth", "constitute"],
+      "correctIndex": 0,
+      "correctAnswer": "commerce"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Fifty states _______ the United States of America.",
+      "sentence2": "The club members voted to _______ a new committee that would plan all future events.",
+      "options": ["reform", "contribute", "constitute", "obligation"],
+      "correctIndex": 2,
+      "correctAnswer": "constitute"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The class held a _______ election so every student could vote for class president.",
+      "sentence2": "In a _______ society, people have the right to speak freely and share their opinions.",
+      "options": ["civic", "democratic", "prosperity", "heritage"],
+      "correctIndex": 1,
+      "correctAnswer": "democratic"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The leaders worked together to build a _______ where resources were shared fairly among all people.",
+      "sentence2": "Virginia, Massachusetts, Pennsylvania, and Kentucky are all officially called a _______.",
+      "options": ["authority", "reform", "commonwealth", "liberty"],
+      "correctIndex": 2,
+      "correctAnswer": "commonwealth"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Every citizen has an _______ to obey the laws of the country.",
+      "sentence2": "She felt a strong _______ to help her neighbor carry the heavy groceries inside.",
+      "options": ["obligation", "heritage", "prosperity", "contribute"],
+      "correctIndex": 0,
+      "correctAnswer": "obligation"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Each family was asked to _______ a dish for the school potluck dinner.",
+      "sentence2": "You can _______ to the community garden by donating seeds or volunteering your time.",
+      "options": ["constitute", "reform", "authority", "contribute"],
+      "correctIndex": 3,
+      "correctAnswer": "contribute"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The principal has the _______ to change the school schedule when needed.",
+      "sentence2": "The police officer used her _______ to close the road during the emergency.",
+      "options": ["liberty", "obligation", "authority", "commerce"],
+      "correctIndex": 2,
+      "correctAnswer": "authority"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The mayor promised to _______ the old parking rules so that downtown would be less crowded.",
+      "sentence2": "The _______ made school lunches healthier by adding more fruits and vegetables to the menu.",
+      "options": ["reform", "civic", "democratic", "commonwealth"],
+      "correctIndex": 0,
+      "correctAnswer": "reform"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The museum display honored the _______ of the families who first settled in the valley.",
+      "sentence2": "Learning about your cultural _______ helps you understand where your family traditions come from.",
+      "options": ["prosperity", "heritage", "liberty", "obligation"],
+      "correctIndex": 1,
+      "correctAnswer": "heritage"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The people celebrated their _______ after years of fighting for the right to vote.",
+      "sentence2": "The new law protected the _______ of every citizen to practice their own religion.",
+      "options": ["contribute", "constitute", "commerce", "liberty"],
+      "correctIndex": 3,
+      "correctAnswer": "liberty"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "prosperity",
+      "civic",
+      "commerce",
+      "constitute",
+      "democratic",
+      "commonwealth",
+      "obligation",
+      "contribute",
+      "authority",
+      "reform",
+      "heritage",
+      "liberty"
+    ],
+    "passage": "Long ago, the people of Millbrook decided to _(1)_ a new town council so that everyone would have a voice. They believed in _(2)_ values — every adult could vote, and no single person held all the power. The council's first act was to invite a respected _(3)_ on farming to teach better methods for growing crops.\n\nThe town's _(4)_ soon improved as trade picked up. Ships carried goods to and from the harbor, and _(5)_ brought wealth to merchants and shopkeepers alike. Each family felt an _(6)_ to help their neighbors, and people would _(7)_ whatever they could — food, tools, or simply their time.\n\nThe council also passed a _(8)_ that changed the old tax laws and made them fairer for everyone. Citizens took part in _(9)_ projects like building a new bridge and planting trees along the main road. A statue was placed in the town square as a symbol of _(10)_ — a reminder that the people were free to live as they chose.\n\nMillbrook became known as a true _(11)_, a community where everyone shared in both the work and the rewards. Every year, a festival celebrated the town's _(12)_, with music, dancing, and stories passed down from grandparents to grandchildren.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "constitute",
+        "options": ["constitute", "reform", "contribute", "authority"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "democratic",
+        "options": ["civic", "democratic", "heritage", "liberty"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "authority",
+        "options": ["obligation", "prosperity", "authority", "commonwealth"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "prosperity",
+        "options": ["prosperity", "commerce", "reform", "civic"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "commerce",
+        "options": ["heritage", "liberty", "commerce", "constitute"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "obligation",
+        "options": ["obligation", "democratic", "authority", "prosperity"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "contribute",
+        "options": ["reform", "contribute", "commonwealth", "civic"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "reform",
+        "options": ["liberty", "heritage", "obligation", "reform"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "civic",
+        "options": ["civic", "constitute", "commerce", "democratic"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "liberty",
+        "options": ["prosperity", "liberty", "contribute", "authority"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "commonwealth",
+        "options": ["commonwealth", "reform", "obligation", "heritage"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "heritage",
+        "options": ["constitute", "heritage", "civic", "commerce"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "prosperity",
+        "scale": ["Poverty", "Comfort", "Prosperity"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "authority",
+        "scale": ["Influence", "Authority", "Supremacy"],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "obligation",
+        "scale": ["Suggestion", "Duty", "Obligation"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "liberty",
+        "scale": ["Restriction", "Permission", "Liberty"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "prosperity",
+        "words": ["Wealth", "Poverty", "Success", "Fortune"],
+        "imposterIndex": 1,
+        "imposterWord": "Poverty"
+      },
+      {
+        "vocabWord": "democratic",
+        "words": ["Fair", "Dictatorial", "Equal", "Open"],
+        "imposterIndex": 1,
+        "imposterWord": "Dictatorial"
+      },
+      {
+        "vocabWord": "contribute",
+        "words": ["Give", "Donate", "Withhold", "Share"],
+        "imposterIndex": 2,
+        "imposterWord": "Withhold"
+      },
+      {
+        "vocabWord": "reform",
+        "words": ["Improve", "Preserve", "Change", "Fix"],
+        "imposterIndex": 1,
+        "imposterWord": "Preserve"
+      },
+      {
+        "vocabWord": "heritage",
+        "words": ["Tradition", "History", "Legacy", "Novelty"],
+        "imposterIndex": 3,
+        "imposterWord": "Novelty"
+      },
+      {
+        "vocabWord": "liberty",
+        "words": ["Freedom", "Captivity", "Independence", "Choice"],
+        "imposterIndex": 1,
+        "imposterWord": "Captivity"
+      },
+      {
+        "vocabWord": "commerce",
+        "words": ["Trade", "Business", "Exchange", "Hoarding"],
+        "imposterIndex": 3,
+        "imposterWord": "Hoarding"
+      },
+      {
+        "vocabWord": "civic",
+        "words": ["Public", "Community", "Private", "Communal"],
+        "imposterIndex": 2,
+        "imposterWord": "Private"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

@@ -1,0 +1,590 @@
+{
+  "grade": 3,
+  "setNumber": 28,
+  "words": [
+    "talent",
+    "climate",
+    "adapt",
+    "plead",
+    "fatal",
+    "peck",
+    "moist",
+    "rotation",
+    "inspect",
+    "instant",
+    "bashful",
+    "provide"
+  ],
+  "sources": [
+    "Australian Curriculum",
+    "CBSE India",
+    "Common Core Grade 3",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Flocabulary Grade 4",
+    "Flocabulary Grade 5",
+    "Singapore MOE/PSLE",
+    "Tier 2 Academic",
+    "Wit & Wisdom Grade 3",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "mystery set in a school",
+  "story": {
+    "genre": "mystery set in a school",
+    "characters": [
+      "Tara",
+      "Kai",
+      "Vivaan"
+    ],
+    "parts": [
+      {
+        "title": "Something Strange",
+        "text": "Tara had a real **talent** for spotting things others missed. She stopped to **inspect** the library shelf and noticed something odd \u2014 a drawing tucked behind the books, its edges **moist** with damp air. The school's **climate** control had been broken all week, and the warm, humid hallways felt heavy and strange.",
+        "wordCount": 53
+      },
+      {
+        "title": "The Investigation",
+        "text": "That night, wind rattled the school windows, but Tara was too curious to worry. Was there something **fatal** to the mystery hidden in that drawing, or was it just a prank? She began to **adapt** her usual methods \u2014 this was no ordinary lost-and-found case. She had to **plead** with Kai to join her after dark, and then convince **bashful** Vivaan to come too, because three detectives were better than two.",
+        "wordCount": 72
+      },
+      {
+        "title": "The Hidden Clue",
+        "text": "Behind the bookshelf, they found an old map. The paper was thin and **moist** to the touch. It showed a hidden passage in the school's **rotation** of underground tunnels \u2014 a layout that had changed every decade since the building was first constructed. In an **instant**, Tara understood: the drawing was a map key. \"This will **provide** the answer we need,\" she whispered. Vivaan gave a **peck** of excitement \u2014 a tiny, quick tap on Kai's shoulder.",
+        "wordCount": 80
+      },
+      {
+        "title": "The Secret Revealed",
+        "text": "What they found was the school's original time capsule from 1923 \u2014 filled with letters, photographs, and a gold pocket watch. The principal was thrilled and announced that Tara, Kai, and Vivaan had made the most exciting discovery in the school's history. Their names were added to the school's Hall of Fame, and the time capsule went on permanent display in the library.",
+        "wordCount": 63
+      }
+    ],
+    "wordCount": 268
+  },
+  "definitions": [
+    {
+      "word": "talent",
+      "partOfSpeech": "noun",
+      "meaning1": "A natural ability to do something well. Example: She has a talent for drawing.",
+      "meaning2": "",
+      "studentChallenge": "Everyone has a special ___.",
+      "sentence": ""
+    },
+    {
+      "word": "climate",
+      "partOfSpeech": "noun",
+      "meaning1": "The usual weather conditions in an area over a long time. Example: Tropical climates are warm and rainy.",
+      "meaning2": "",
+      "studentChallenge": "The ___ in the desert is hot and dry.",
+      "sentence": ""
+    },
+    {
+      "word": "adapt",
+      "partOfSpeech": "verb",
+      "meaning1": "To change in order to fit a new situation. Example: Animals adapt to survive in different climates.",
+      "meaning2": "",
+      "studentChallenge": "You need to ___ to a new school quickly.",
+      "sentence": ""
+    },
+    {
+      "word": "plead",
+      "partOfSpeech": "verb",
+      "meaning1": "To ask for something in a very serious and emotional way. Example: The children began to plead with their parents to let them stay up late to watch the fireworks.",
+      "meaning2": "",
+      "studentChallenge": "She had to ___ with her brother to let her have a turn on the swing.",
+      "sentence": ""
+    },
+    {
+      "word": "fatal",
+      "partOfSpeech": "adjective",
+      "meaning1": "Causing death or leading to disaster. Example: A fatal flaw in the ship's design caused it to sink during the storm.",
+      "meaning2": "",
+      "studentChallenge": "The ranger warned that the bite of certain snakes can be ___ if not treated quickly.",
+      "sentence": ""
+    },
+    {
+      "word": "peck",
+      "partOfSpeech": "verb",
+      "meaning1": "To strike or bite at something quickly with a beak. Example: The hen pecked at the seeds scattered across the farmyard.",
+      "meaning2": "A quick, light kiss. Example: She gave her little brother a peck on the cheek before leaving for school.",
+      "studentChallenge": "The woodpecker began to ___ rapidly at the bark of the old oak tree.",
+      "sentence": ""
+    },
+    {
+      "word": "moist",
+      "partOfSpeech": "adjective",
+      "meaning1": "Slightly wet or damp. Example: The soil in the garden needs to stay moist so the seeds will grow.",
+      "meaning2": "",
+      "studentChallenge": "The chocolate cake was perfectly ___ and melted in your mouth with every bite.",
+      "sentence": ""
+    },
+    {
+      "word": "rotation",
+      "partOfSpeech": "noun",
+      "meaning1": "The action of turning around a central point. Example: The rotation of the Earth on its axis is what gives us day and night.",
+      "meaning2": "A system where people take turns doing something. Example: The class had a rotation for classroom jobs, so everyone got a turn at each task.",
+      "studentChallenge": "One full ___ of the Earth takes approximately twenty-four hours.",
+      "sentence": ""
+    },
+    {
+      "word": "inspect",
+      "partOfSpeech": "verb",
+      "meaning1": "To look at something very carefully to check for problems. Example: The mechanic had to inspect the car's engine to find out what was wrong.",
+      "meaning2": "",
+      "studentChallenge": "The health inspector came to ___ the school cafeteria to make sure it was clean.",
+      "sentence": ""
+    },
+    {
+      "word": "instant",
+      "partOfSpeech": "adjective",
+      "meaning1": "Happening right away with no delay. Example: The magic trick got an instant reaction of gasps and cheers from the crowd.",
+      "meaning2": "A very brief moment of time. Example: The rabbit disappeared in an instant.",
+      "studentChallenge": "Adding hot water to the powder made ___ oatmeal that was ready to eat in seconds.",
+      "sentence": ""
+    },
+    {
+      "word": "bashful",
+      "partOfSpeech": "adjective",
+      "meaning1": "Shy and easily embarrassed. Example: The bashful child hid behind her mother.",
+      "meaning2": "",
+      "studentChallenge": "The ___ kitten hid under the bed when visitors came.",
+      "sentence": ""
+    },
+    {
+      "word": "provide",
+      "partOfSpeech": "verb",
+      "meaning1": "To give or supply something that is needed. Example: The charity works hard to provide warm coats and blankets to families during the winter.",
+      "meaning2": "",
+      "studentChallenge": "The school canteen will ___ a free healthy snack to every student at break time.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "She has a natural ___ for drawing \u2014 her sketches look professional even though she has never had a lesson.",
+      "sentence2": "Everyone has at least one special ___ that they are uniquely gifted at if they take the time to find it.",
+      "options": [
+        "adapt",
+        "talent",
+        "bashful",
+        "fatal"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "talent"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Tropical ___ are warm and rainy all year round, which is why rainforests grow so thick and lush.",
+      "sentence2": "The ___ in the desert is so hot and dry that fewer than ten species of plant can survive there.",
+      "options": [
+        "climate",
+        "instant",
+        "talent",
+        "rotation"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "climate"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Animals must ___ to survive in harsh climates \u2014 changing their fur, diet, or sleep patterns as needed.",
+      "sentence2": "Moving to a new country can be difficult, but children tend to ___ quickly and make new friends.",
+      "options": [
+        "adapt",
+        "rotation",
+        "plead",
+        "inspect"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "adapt"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The children began to ___ desperately with their parents, begging to stay up late for the fireworks.",
+      "sentence2": "She had to ___ earnestly with her brother, asking again and again for just one turn on the swing.",
+      "options": [
+        "plead",
+        "rotation",
+        "inspect",
+        "adapt"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "plead"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "A ___ flaw in the ship's hull \u2014 one tiny crack \u2014 caused it to take on water and sink in the storm.",
+      "sentence2": "The ranger warned that the bite of certain snakes can be ___ if not treated within the hour.",
+      "options": [
+        "peck",
+        "fatal",
+        "talent",
+        "bashful"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "fatal"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The hen began to ___ at the grain scattered across the farmyard, jabbing her beak down with each step.",
+      "sentence2": "The woodpecker began to ___ rapidly at the bark of the old oak, drumming so hard you could hear it across the field.",
+      "options": [
+        "fatal",
+        "plead",
+        "peck",
+        "climate"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "peck"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The garden soil must stay ___ and slightly damp at all times so the new seeds can sprout and grow.",
+      "sentence2": "The chocolate cake was perfectly ___, melting on your tongue with every soft, rich bite.",
+      "options": [
+        "peck",
+        "fatal",
+        "bashful",
+        "moist"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "moist"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The ___ of the Earth on its own axis is what causes day and night to alternate every twenty-four hours.",
+      "sentence2": "One complete ___ of the Earth around the Sun takes exactly three hundred and sixty-five days \u2014 one full year.",
+      "options": [
+        "provide",
+        "instant",
+        "talent",
+        "rotation"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "rotation"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The mechanic had to ___ every part of the car's engine carefully to find the fault causing the rattling noise.",
+      "sentence2": "The health inspector arrived to ___ the school cafeteria, checking every corner to ensure it was spotlessly clean.",
+      "options": [
+        "rotation",
+        "inspect",
+        "adapt",
+        "plead"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "inspect"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The final magic trick got an ___ reaction \u2014 the entire crowd gasped and then burst into cheers at once.",
+      "sentence2": "Just add boiling water to the powder and you'll have ___ oatmeal, hot and ready to eat in sixty seconds.",
+      "options": [
+        "rotation",
+        "fatal",
+        "moist",
+        "instant"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "instant"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The ___ child pressed her face into her mother's sleeve, too shy to look at the visitors.",
+      "sentence2": "The ___ kitten retreated under the bed whenever a stranger entered, too timid to come out.",
+      "options": [
+        "climate",
+        "peck",
+        "bashful",
+        "adapt"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "bashful"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The charity works all winter to ___ warm coats, gloves, and blankets to families who cannot afford them.",
+      "sentence2": "The school canteen will ___ every student with a free, healthy snack at break time each day.",
+      "options": [
+        "rotation",
+        "fatal",
+        "provide",
+        "adapt"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "provide"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "talent",
+      "climate",
+      "adapt",
+      "plead",
+      "fatal",
+      "peck",
+      "moist",
+      "rotation",
+      "inspect",
+      "instant",
+      "bashful",
+      "provide"
+    ],
+    "passage": "Tara had a natural _(1)_ for solving mysteries \u2014 a rare gift she had shown since the age of five. The rainy _(2)_ of the valley meant that moss grew on every stone and the air always smelled of damp earth. Wild animals must _(3)_ to survive \u2014 changing their habits, diet, and shelter whenever their environment shifts around them. The lost puppy seemed to _(4)_ with its eyes, gazing up at each passerby with such a desperate, begging look that it was impossible to walk on. A _(5)_ mistake in the ship's hull \u2014 a crack too small to see \u2014 had caused it to sink completely in the storm. The hen began to _(6)_ rapidly at the corn scattered across the farmyard floor, jabbing her beak down again and again. The garden soil must stay _(7)_ and slightly damp so the seeds can take root and start to grow. The Earth completes one full _(8)_ on its own axis every twenty-four hours, which is what gives us day and night. The safety officer stopped to carefully _(9)_ every piece of equipment, checking each item closely for cracks or damage. The audience's applause was _(10)_ \u2014 it erupted the very second the last note was played, without a moment's pause. The _(11)_ kitten pressed itself into the corner of the basket, too timid to come forward when the visitors arrived. The school promised to _(12)_ every student with a warm meal, books, and everything else needed to learn and grow.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "talent",
+        "options": [
+          "talent",
+          "climate",
+          "bashful",
+          "peck"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "climate",
+        "options": [
+          "climate",
+          "talent",
+          "fatal",
+          "plead"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "adapt",
+        "options": [
+          "adapt",
+          "bashful",
+          "rotation",
+          "provide"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "plead",
+        "options": [
+          "plead",
+          "instant",
+          "moist",
+          "adapt"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "fatal",
+        "options": [
+          "fatal",
+          "instant",
+          "climate",
+          "moist"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "peck",
+        "options": [
+          "peck",
+          "adapt",
+          "inspect",
+          "plead"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "moist",
+        "options": [
+          "moist",
+          "instant",
+          "talent",
+          "fatal"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "rotation",
+        "options": [
+          "rotation",
+          "moist",
+          "provide",
+          "inspect"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "inspect",
+        "options": [
+          "inspect",
+          "fatal",
+          "peck",
+          "provide"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "instant",
+        "options": [
+          "instant",
+          "bashful",
+          "provide",
+          "rotation"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "bashful",
+        "options": [
+          "bashful",
+          "fatal",
+          "instant",
+          "plead"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "provide",
+        "options": [
+          "provide",
+          "talent",
+          "climate",
+          "rotation"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "talent",
+        "scale": [
+          "aptitude",
+          "talent",
+          "expertise"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "climate",
+        "scale": [
+          "weather",
+          "climate",
+          "conditions"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "adapt",
+        "scale": [
+          "cope",
+          "adapt",
+          "adjust"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "plead",
+        "scale": [
+          "ask",
+          "plead",
+          "beg"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "fatal",
+        "words": [
+          "deadly",
+          "harmless",
+          "lethal",
+          "mortal"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "harmless"
+      },
+      {
+        "vocabWord": "peck",
+        "words": [
+          "embrace",
+          "tap",
+          "nibble",
+          "kiss"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "embrace"
+      },
+      {
+        "vocabWord": "moist",
+        "words": [
+          "dry",
+          "wet",
+          "damp",
+          "humid"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "dry"
+      },
+      {
+        "vocabWord": "rotation",
+        "words": [
+          "stillness",
+          "turn",
+          "spin",
+          "revolving"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "stillness"
+      },
+      {
+        "vocabWord": "inspect",
+        "words": [
+          "examine",
+          "scrutinize",
+          "review",
+          "ignore"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "ignore"
+      },
+      {
+        "vocabWord": "instant",
+        "words": [
+          "eternity",
+          "moment",
+          "second",
+          "immediate"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "eternity"
+      },
+      {
+        "vocabWord": "bashful",
+        "words": [
+          "bold",
+          "shy",
+          "timid",
+          "modest"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "bold"
+      },
+      {
+        "vocabWord": "provide",
+        "words": [
+          "give",
+          "supply",
+          "withhold",
+          "offer"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "withhold"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

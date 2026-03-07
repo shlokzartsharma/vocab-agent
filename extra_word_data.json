@@ -1,0 +1,11664 @@
+{
+  "continuous": {
+    "syns": [
+      "steady",
+      "constant",
+      "unbroken"
+    ],
+    "ant": "interrupted",
+    "scale": [
+      "steady",
+      "continuous",
+      "unceasing",
+      "perpetual"
+    ]
+  },
+  "factor": {
+    "syns": [
+      "element",
+      "part",
+      "cause"
+    ],
+    "ant": "whole",
+    "scale": [
+      "piece",
+      "factor",
+      "component",
+      "ingredient"
+    ]
+  },
+  "fairy": {
+    "syns": [
+      "sprite",
+      "magical being",
+      "elf"
+    ],
+    "ant": "mortal",
+    "scale": [
+      "creature",
+      "fairy",
+      "enchanted being",
+      "magical spirit"
+    ]
+  },
+  "familiar": {
+    "syns": [
+      "known",
+      "recognizable",
+      "acquainted"
+    ],
+    "ant": "unfamiliar",
+    "scale": [
+      "strange",
+      "familiar",
+      "well-known",
+      "intimate"
+    ]
+  },
+  "famine": {
+    "syns": [
+      "starvation",
+      "hunger",
+      "shortage"
+    ],
+    "ant": "abundance",
+    "scale": [
+      "scarcity",
+      "famine",
+      "deprivation",
+      "desolation"
+    ]
+  },
+  "famous": {
+    "syns": [
+      "well-known",
+      "celebrated",
+      "renowned"
+    ],
+    "ant": "unknown",
+    "scale": [
+      "known",
+      "famous",
+      "celebrated",
+      "legendary"
+    ]
+  },
+  "fascinate": {
+    "syns": [
+      "captivate",
+      "enthrall",
+      "charm"
+    ],
+    "ant": "bore",
+    "scale": [
+      "interest",
+      "fascinate",
+      "captivate",
+      "mesmerize"
+    ]
+  },
+  "fasten": {
+    "syns": [
+      "attach",
+      "secure",
+      "tie"
+    ],
+    "ant": "unfasten",
+    "scale": [
+      "join",
+      "fasten",
+      "bind",
+      "clamp"
+    ]
+  },
+  "fatal": {
+    "syns": [
+      "deadly",
+      "lethal",
+      "mortal"
+    ],
+    "ant": "harmless",
+    "scale": [
+      "dangerous",
+      "fatal",
+      "lethal",
+      "catastrophic"
+    ]
+  },
+  "fearsome": {
+    "syns": [
+      "frightening",
+      "terrifying",
+      "scary"
+    ],
+    "ant": "comforting",
+    "scale": [
+      "spooky",
+      "fearsome",
+      "terrifying",
+      "horrifying"
+    ]
+  },
+  "feast": {
+    "syns": [
+      "banquet",
+      "meal",
+      "celebration"
+    ],
+    "ant": "famine",
+    "scale": [
+      "meal",
+      "feast",
+      "banquet",
+      "extravaganza"
+    ]
+  },
+  "feature": {
+    "syns": [
+      "characteristic",
+      "trait",
+      "element"
+    ],
+    "ant": "lack",
+    "scale": [
+      "aspect",
+      "feature",
+      "attribute",
+      "hallmark"
+    ]
+  },
+  "feeble": {
+    "syns": [
+      "weak",
+      "frail",
+      "faint"
+    ],
+    "ant": "strong",
+    "scale": [
+      "weak",
+      "feeble",
+      "fragile",
+      "helpless"
+    ]
+  },
+  "ferocious": {
+    "syns": [
+      "fierce",
+      "wild",
+      "savage"
+    ],
+    "ant": "gentle",
+    "scale": [
+      "aggressive",
+      "ferocious",
+      "wild",
+      "brutal"
+    ]
+  },
+  "ferry": {
+    "syns": [
+      "transport",
+      "boat",
+      "shuttle"
+    ],
+    "ant": "stationary",
+    "scale": [
+      "vessel",
+      "ferry",
+      "transport ship",
+      "cargo boat"
+    ]
+  },
+  "fertilizer": {
+    "syns": [
+      "nutrient",
+      "plant food",
+      "compost"
+    ],
+    "ant": "poison",
+    "scale": [
+      "additive",
+      "fertilizer",
+      "plant food",
+      "enrichment"
+    ]
+  },
+  "fiction": {
+    "syns": [
+      "story",
+      "tale",
+      "invented"
+    ],
+    "ant": "fact",
+    "scale": [
+      "narrative",
+      "fiction",
+      "fantasy",
+      "fabrication"
+    ]
+  },
+  "fierce": {
+    "syns": [
+      "wild",
+      "intense",
+      "ferocious"
+    ],
+    "ant": "gentle",
+    "scale": [
+      "strong",
+      "fierce",
+      "violent",
+      "raging"
+    ]
+  },
+  "figurative": {
+    "syns": [
+      "symbolic",
+      "metaphorical",
+      "implied"
+    ],
+    "ant": "literal",
+    "scale": [
+      "implied",
+      "figurative",
+      "symbolic",
+      "metaphorical"
+    ]
+  },
+  "final": {
+    "syns": [
+      "last",
+      "ending",
+      "ultimate"
+    ],
+    "ant": "first",
+    "scale": [
+      "last",
+      "final",
+      "conclusive",
+      "terminal"
+    ]
+  },
+  "finance": {
+    "syns": [
+      "money",
+      "funds",
+      "capital"
+    ],
+    "ant": "debt",
+    "scale": [
+      "money",
+      "finance",
+      "capital",
+      "wealth"
+    ]
+  },
+  "flexible": {
+    "syns": [
+      "bendable",
+      "adaptable",
+      "bendy"
+    ],
+    "ant": "rigid",
+    "scale": [
+      "bendable",
+      "flexible",
+      "pliable",
+      "supple"
+    ]
+  },
+  "flight": {
+    "syns": [
+      "flying",
+      "escape",
+      "journey"
+    ],
+    "ant": "landing",
+    "scale": [
+      "journey",
+      "flight",
+      "departure",
+      "voyage"
+    ]
+  },
+  "flood": {
+    "syns": [
+      "overflow",
+      "inundation",
+      "deluge"
+    ],
+    "ant": "drought",
+    "scale": [
+      "surge",
+      "flood",
+      "deluge",
+      "torrent"
+    ]
+  },
+  "flutter": {
+    "syns": [
+      "flap",
+      "wave",
+      "tremble"
+    ],
+    "ant": "stillness",
+    "scale": [
+      "shake",
+      "flutter",
+      "quiver",
+      "vibrate"
+    ]
+  },
+  "fog": {
+    "syns": [
+      "mist",
+      "haze",
+      "cloud"
+    ],
+    "ant": "clarity",
+    "scale": [
+      "mist",
+      "fog",
+      "haze",
+      "murk"
+    ]
+  },
+  "force": {
+    "syns": [
+      "strength",
+      "power",
+      "might"
+    ],
+    "ant": "weakness",
+    "scale": [
+      "power",
+      "force",
+      "strength",
+      "might"
+    ]
+  },
+  "foreign": {
+    "syns": [
+      "unfamiliar",
+      "distant",
+      "strange"
+    ],
+    "ant": "domestic",
+    "scale": [
+      "distant",
+      "foreign",
+      "exotic",
+      "alien"
+    ]
+  },
+  "forge": {
+    "syns": [
+      "create",
+      "make",
+      "construct"
+    ],
+    "ant": "destroy",
+    "scale": [
+      "shape",
+      "forge",
+      "craft",
+      "fabricate"
+    ]
+  },
+  "former": {
+    "syns": [
+      "previous",
+      "past",
+      "earlier"
+    ],
+    "ant": "latter",
+    "scale": [
+      "past",
+      "former",
+      "previous",
+      "earlier"
+    ]
+  },
+  "formidable": {
+    "syns": [
+      "powerful",
+      "impressive",
+      "daunting"
+    ],
+    "ant": "insignificant",
+    "scale": [
+      "impressive",
+      "formidable",
+      "daunting",
+      "overwhelming"
+    ]
+  },
+  "fortitude": {
+    "syns": [
+      "courage",
+      "bravery",
+      "strength"
+    ],
+    "ant": "cowardice",
+    "scale": [
+      "resolve",
+      "fortitude",
+      "courage",
+      "valor"
+    ]
+  },
+  "fortunate": {
+    "syns": [
+      "lucky",
+      "blessed",
+      "favored"
+    ],
+    "ant": "unfortunate",
+    "scale": [
+      "lucky",
+      "fortunate",
+      "blessed",
+      "favored"
+    ]
+  },
+  "foster": {
+    "syns": [
+      "encourage",
+      "promote",
+      "nurture"
+    ],
+    "ant": "discourage",
+    "scale": [
+      "support",
+      "foster",
+      "encourage",
+      "nurture"
+    ]
+  },
+  "foundation": {
+    "syns": [
+      "base",
+      "ground",
+      "basis"
+    ],
+    "ant": "top",
+    "scale": [
+      "base",
+      "foundation",
+      "bedrock",
+      "cornerstone"
+    ]
+  },
+  "fragile": {
+    "syns": [
+      "delicate",
+      "breakable",
+      "frail"
+    ],
+    "ant": "sturdy",
+    "scale": [
+      "delicate",
+      "fragile",
+      "breakable",
+      "brittle"
+    ]
+  },
+  "framework": {
+    "syns": [
+      "structure",
+      "skeleton",
+      "outline"
+    ],
+    "ant": "chaos",
+    "scale": [
+      "structure",
+      "framework",
+      "skeleton",
+      "scaffold"
+    ]
+  },
+  "frequent": {
+    "syns": [
+      "often",
+      "regular",
+      "common"
+    ],
+    "ant": "rare",
+    "scale": [
+      "regular",
+      "frequent",
+      "habitual",
+      "constant"
+    ]
+  },
+  "frequently": {
+    "syns": [
+      "often",
+      "regularly",
+      "commonly"
+    ],
+    "ant": "rarely",
+    "scale": [
+      "sometimes",
+      "frequently",
+      "regularly",
+      "constantly"
+    ]
+  },
+  "frontier": {
+    "syns": [
+      "border",
+      "edge",
+      "boundary"
+    ],
+    "ant": "interior",
+    "scale": [
+      "border",
+      "frontier",
+      "edge",
+      "outpost"
+    ]
+  },
+  "frost": {
+    "syns": [
+      "freeze",
+      "ice",
+      "cold"
+    ],
+    "ant": "warmth",
+    "scale": [
+      "chill",
+      "frost",
+      "freeze",
+      "icebound"
+    ]
+  },
+  "frugal": {
+    "syns": [
+      "thrifty",
+      "economical",
+      "sparing"
+    ],
+    "ant": "wasteful",
+    "scale": [
+      "economical",
+      "frugal",
+      "thrifty",
+      "miserly"
+    ]
+  },
+  "frustrate": {
+    "syns": [
+      "annoy",
+      "irritate",
+      "exasperate"
+    ],
+    "ant": "satisfy",
+    "scale": [
+      "annoy",
+      "frustrate",
+      "irritate",
+      "exasperate"
+    ]
+  },
+  "fume": {
+    "syns": [
+      "smoke",
+      "vapor",
+      "gas"
+    ],
+    "ant": "clarity",
+    "scale": [
+      "vapor",
+      "fume",
+      "smoke",
+      "exhaust"
+    ]
+  },
+  "function": {
+    "syns": [
+      "purpose",
+      "role",
+      "duty"
+    ],
+    "ant": "dysfunction",
+    "scale": [
+      "role",
+      "function",
+      "purpose",
+      "operation"
+    ]
+  },
+  "fund": {
+    "syns": [
+      "money",
+      "supply",
+      "resource"
+    ],
+    "ant": "deficit",
+    "scale": [
+      "money",
+      "fund",
+      "capital",
+      "endowment"
+    ]
+  },
+  "fundamental": {
+    "syns": [
+      "basic",
+      "essential",
+      "core"
+    ],
+    "ant": "superficial",
+    "scale": [
+      "basic",
+      "fundamental",
+      "essential",
+      "primary"
+    ]
+  },
+  "furious": {
+    "syns": [
+      "angry",
+      "enraged",
+      "livid"
+    ],
+    "ant": "calm",
+    "scale": [
+      "angry",
+      "furious",
+      "enraged",
+      "livid"
+    ]
+  },
+  "furniture": {
+    "syns": [
+      "furnishings",
+      "fixtures",
+      "pieces"
+    ],
+    "ant": "bareness",
+    "scale": [
+      "item",
+      "furniture",
+      "furnishings",
+      "fixtures"
+    ]
+  },
+  "fury": {
+    "syns": [
+      "rage",
+      "anger",
+      "wrath"
+    ],
+    "ant": "calmness",
+    "scale": [
+      "anger",
+      "fury",
+      "rage",
+      "wrath"
+    ]
+  },
+  "galaxy": {
+    "syns": [
+      "space",
+      "stars",
+      "universe"
+    ],
+    "ant": "vacuum",
+    "scale": [
+      "system",
+      "galaxy",
+      "cosmos",
+      "universe"
+    ]
+  },
+  "gale": {
+    "syns": [
+      "wind",
+      "storm",
+      "breeze"
+    ],
+    "ant": "calm",
+    "scale": [
+      "breeze",
+      "gale",
+      "storm",
+      "tempest"
+    ]
+  },
+  "gape": {
+    "syns": [
+      "stare",
+      "gawk",
+      "open"
+    ],
+    "ant": "close",
+    "scale": [
+      "open",
+      "gape",
+      "yawn",
+      "stretch"
+    ]
+  },
+  "garage": {
+    "syns": [
+      "shed",
+      "shelter",
+      "storage"
+    ],
+    "ant": "open",
+    "scale": [
+      "shelter",
+      "garage",
+      "workshop",
+      "bay"
+    ]
+  },
+  "gasp": {
+    "syns": [
+      "breathe",
+      "exclaim",
+      "pant"
+    ],
+    "ant": "silence",
+    "scale": [
+      "breath",
+      "gasp",
+      "pant",
+      "wheeze"
+    ]
+  },
+  "gaze": {
+    "syns": [
+      "stare",
+      "look",
+      "watch"
+    ],
+    "ant": "ignore",
+    "scale": [
+      "look",
+      "gaze",
+      "stare",
+      "fixate"
+    ]
+  },
+  "generate": {
+    "syns": [
+      "create",
+      "produce",
+      "make"
+    ],
+    "ant": "destroy",
+    "scale": [
+      "make",
+      "generate",
+      "produce",
+      "create"
+    ]
+  },
+  "generous": {
+    "syns": [
+      "giving",
+      "kind",
+      "unselfish"
+    ],
+    "ant": "stingy",
+    "scale": [
+      "kind",
+      "generous",
+      "giving",
+      "magnanimous"
+    ]
+  },
+  "genre": {
+    "syns": [
+      "type",
+      "category",
+      "style"
+    ],
+    "ant": "original",
+    "scale": [
+      "type",
+      "genre",
+      "category",
+      "classification"
+    ]
+  },
+  "genuine": {
+    "syns": [
+      "real",
+      "true",
+      "authentic"
+    ],
+    "ant": "fake",
+    "scale": [
+      "true",
+      "genuine",
+      "authentic",
+      "legitimate"
+    ]
+  },
+  "gesture": {
+    "syns": [
+      "sign",
+      "motion",
+      "movement"
+    ],
+    "ant": "stillness",
+    "scale": [
+      "motion",
+      "gesture",
+      "signal",
+      "movement"
+    ]
+  },
+  "giant": {
+    "syns": [
+      "huge",
+      "enormous",
+      "immense"
+    ],
+    "ant": "tiny",
+    "scale": [
+      "big",
+      "giant",
+      "enormous",
+      "colossal"
+    ]
+  },
+  "gigantic": {
+    "syns": [
+      "enormous",
+      "immense",
+      "huge"
+    ],
+    "ant": "microscopic",
+    "scale": [
+      "large",
+      "gigantic",
+      "immense",
+      "titanic"
+    ]
+  },
+  "gist": {
+    "syns": [
+      "essence",
+      "main point",
+      "summary"
+    ],
+    "ant": "detail",
+    "scale": [
+      "outline",
+      "gist",
+      "essence",
+      "core"
+    ]
+  },
+  "glance": {
+    "syns": [
+      "peek",
+      "glimpse",
+      "look"
+    ],
+    "ant": "ignore",
+    "scale": [
+      "peek",
+      "glance",
+      "glimpse",
+      "look"
+    ]
+  },
+  "glare": {
+    "syns": [
+      "shine",
+      "shine brightly",
+      "scowl"
+    ],
+    "ant": "dim",
+    "scale": [
+      "shine",
+      "glare",
+      "blaze",
+      "radiance"
+    ]
+  },
+  "gleam": {
+    "syns": [
+      "shine",
+      "glow",
+      "sparkle"
+    ],
+    "ant": "dullness",
+    "scale": [
+      "shine",
+      "gleam",
+      "glow",
+      "radiance"
+    ]
+  },
+  "glide": {
+    "syns": [
+      "slide",
+      "float",
+      "move smoothly"
+    ],
+    "ant": "stumble",
+    "scale": [
+      "slide",
+      "glide",
+      "float",
+      "soar"
+    ]
+  },
+  "glimpse": {
+    "syns": [
+      "peek",
+      "glance",
+      "sight"
+    ],
+    "ant": "ignore",
+    "scale": [
+      "glimpse",
+      "glimpse",
+      "view",
+      "sight"
+    ]
+  },
+  "glisten": {
+    "syns": [
+      "shine",
+      "sparkle",
+      "glitter"
+    ],
+    "ant": "dullness",
+    "scale": [
+      "shine",
+      "glisten",
+      "sparkle",
+      "shimmer"
+    ]
+  },
+  "globe": {
+    "syns": [
+      "world",
+      "sphere",
+      "planet"
+    ],
+    "ant": "flat",
+    "scale": [
+      "sphere",
+      "globe",
+      "ball",
+      "world"
+    ]
+  },
+  "gloomy": {
+    "syns": [
+      "sad",
+      "dark",
+      "depressing"
+    ],
+    "ant": "cheerful",
+    "scale": [
+      "dim",
+      "gloomy",
+      "dark",
+      "bleak"
+    ]
+  },
+  "glory": {
+    "syns": [
+      "honor",
+      "fame",
+      "triumph"
+    ],
+    "ant": "shame",
+    "scale": [
+      "honor",
+      "glory",
+      "triumph",
+      "splendor"
+    ]
+  },
+  "goal": {
+    "syns": [
+      "aim",
+      "objective",
+      "target"
+    ],
+    "ant": "aimlessness",
+    "scale": [
+      "aim",
+      "goal",
+      "objective",
+      "target"
+    ]
+  },
+  "gobble": {
+    "syns": [
+      "eat quickly",
+      "devour",
+      "gulp"
+    ],
+    "ant": "abstain",
+    "scale": [
+      "eat",
+      "gobble",
+      "devour",
+      "gorge"
+    ]
+  },
+  "govern": {
+    "syns": [
+      "rule",
+      "control",
+      "manage"
+    ],
+    "ant": "chaos",
+    "scale": [
+      "manage",
+      "govern",
+      "rule",
+      "command"
+    ]
+  },
+  "government": {
+    "syns": [
+      "leadership",
+      "authority",
+      "state"
+    ],
+    "ant": "anarchy",
+    "scale": [
+      "organization",
+      "government",
+      "administration",
+      "regime"
+    ]
+  },
+  "grace": {
+    "syns": [
+      "elegance",
+      "charm",
+      "poise"
+    ],
+    "ant": "clumsiness",
+    "scale": [
+      "poise",
+      "grace",
+      "elegance",
+      "refinement"
+    ]
+  },
+  "grade": {
+    "syns": [
+      "level",
+      "rank",
+      "mark"
+    ],
+    "ant": "equality",
+    "scale": [
+      "level",
+      "grade",
+      "rank",
+      "classification"
+    ]
+  },
+  "gradual": {
+    "syns": [
+      "slow",
+      "progressive",
+      "step-by-step"
+    ],
+    "ant": "sudden",
+    "scale": [
+      "slow",
+      "gradual",
+      "progressive",
+      "incremental"
+    ]
+  },
+  "grant": {
+    "syns": [
+      "give",
+      "award",
+      "allow"
+    ],
+    "ant": "deny",
+    "scale": [
+      "give",
+      "grant",
+      "bestow",
+      "award"
+    ]
+  },
+  "grasp": {
+    "syns": [
+      "grip",
+      "understand",
+      "seize"
+    ],
+    "ant": "release",
+    "scale": [
+      "grip",
+      "grasp",
+      "clutch",
+      "clasp"
+    ]
+  },
+  "gratitude": {
+    "syns": [
+      "thanks",
+      "appreciation",
+      "thankfulness"
+    ],
+    "ant": "ingratitude",
+    "scale": [
+      "thanks",
+      "gratitude",
+      "appreciation",
+      "thankfulness"
+    ]
+  },
+  "greed": {
+    "syns": [
+      "avarice",
+      "want",
+      "selfishness"
+    ],
+    "ant": "generosity",
+    "scale": [
+      "desire",
+      "greed",
+      "avarice",
+      "covetousness"
+    ]
+  },
+  "grip": {
+    "syns": [
+      "hold",
+      "grasp",
+      "clasp"
+    ],
+    "ant": "release",
+    "scale": [
+      "hold",
+      "grip",
+      "grasp",
+      "clutch"
+    ]
+  },
+  "grope": {
+    "syns": [
+      "feel around",
+      "search",
+      "fumble"
+    ],
+    "ant": "precision",
+    "scale": [
+      "feel",
+      "grope",
+      "fumble",
+      "paw"
+    ]
+  },
+  "grumble": {
+    "syns": [
+      "complain",
+      "moan",
+      "groan"
+    ],
+    "ant": "praise",
+    "scale": [
+      "complain",
+      "grumble",
+      "moan",
+      "groan"
+    ]
+  },
+  "guarantee": {
+    "syns": [
+      "promise",
+      "assure",
+      "pledge"
+    ],
+    "ant": "uncertainty",
+    "scale": [
+      "promise",
+      "guarantee",
+      "assure",
+      "warrant"
+    ]
+  },
+  "guardian": {
+    "syns": [
+      "protector",
+      "caretaker",
+      "keeper"
+    ],
+    "ant": "threat",
+    "scale": [
+      "protector",
+      "guardian",
+      "custodian",
+      "warden"
+    ]
+  },
+  "gullible": {
+    "syns": [
+      "naive",
+      "trusting",
+      "foolish"
+    ],
+    "ant": "skeptical",
+    "scale": [
+      "trusting",
+      "gullible",
+      "naive",
+      "credulous"
+    ]
+  },
+  "gust": {
+    "syns": [
+      "wind",
+      "breeze",
+      "blast"
+    ],
+    "ant": "calm",
+    "scale": [
+      "breeze",
+      "gust",
+      "blast",
+      "squall"
+    ]
+  },
+  "halt": {
+    "syns": [
+      "stop",
+      "pause",
+      "cease"
+    ],
+    "ant": "continue",
+    "scale": [
+      "pause",
+      "halt",
+      "stop",
+      "standstill"
+    ]
+  },
+  "harass": {
+    "syns": [
+      "bother",
+      "pester",
+      "torment"
+    ],
+    "ant": "comfort",
+    "scale": [
+      "bother",
+      "harass",
+      "pester",
+      "torment"
+    ]
+  },
+  "harbor": {
+    "syns": [
+      "shelter",
+      "port",
+      "haven"
+    ],
+    "ant": "expose",
+    "scale": [
+      "shelter",
+      "harbor",
+      "haven",
+      "refuge"
+    ]
+  },
+  "harbour": {
+    "syns": [
+      "shelter",
+      "port",
+      "haven"
+    ],
+    "ant": "expose",
+    "scale": [
+      "shelter",
+      "harbour",
+      "haven",
+      "refuge"
+    ]
+  },
+  "hardship": {
+    "syns": [
+      "difficulty",
+      "suffering",
+      "struggle"
+    ],
+    "ant": "ease",
+    "scale": [
+      "difficulty",
+      "hardship",
+      "suffering",
+      "adversity"
+    ]
+  },
+  "harmonious": {
+    "syns": [
+      "peaceful",
+      "agreeable",
+      "tuneful"
+    ],
+    "ant": "discordant",
+    "scale": [
+      "pleasant",
+      "harmonious",
+      "melodious",
+      "consonant"
+    ]
+  },
+  "harrowing": {
+    "syns": [
+      "distressing",
+      "frightening",
+      "horrifying"
+    ],
+    "ant": "comforting",
+    "scale": [
+      "distressing",
+      "harrowing",
+      "frightening",
+      "horrifying"
+    ]
+  },
+  "harsh": {
+    "syns": [
+      "rough",
+      "severe",
+      "cruel"
+    ],
+    "ant": "gentle",
+    "scale": [
+      "rough",
+      "harsh",
+      "severe",
+      "brutal"
+    ]
+  },
+  "harvest": {
+    "syns": [
+      "crop",
+      "gather",
+      "reap"
+    ],
+    "ant": "plant",
+    "scale": [
+      "gathering",
+      "harvest",
+      "yield",
+      "bounty"
+    ]
+  },
+  "haste": {
+    "syns": [
+      "hurry",
+      "rush",
+      "speed"
+    ],
+    "ant": "slowness",
+    "scale": [
+      "rush",
+      "haste",
+      "hurry",
+      "frenzy"
+    ]
+  },
+  "hasty": {
+    "syns": [
+      "quick",
+      "rushed",
+      "hurried"
+    ],
+    "ant": "deliberate",
+    "scale": [
+      "quick",
+      "hasty",
+      "rushed",
+      "frantic"
+    ]
+  },
+  "hatchet": {
+    "syns": [
+      "axe",
+      "tool",
+      "blade"
+    ],
+    "ant": "peace",
+    "scale": [
+      "tool",
+      "hatchet",
+      "axe",
+      "weapon"
+    ]
+  },
+  "haven": {
+    "syns": [
+      "shelter",
+      "refuge",
+      "safe place"
+    ],
+    "ant": "danger",
+    "scale": [
+      "shelter",
+      "haven",
+      "refuge",
+      "sanctuary"
+    ]
+  },
+  "hawker": {
+    "syns": [
+      "seller",
+      "vendor",
+      "trader"
+    ],
+    "ant": "buyer",
+    "scale": [
+      "seller",
+      "hawker",
+      "vendor",
+      "peddler"
+    ]
+  },
+  "hazard": {
+    "syns": [
+      "danger",
+      "risk",
+      "peril"
+    ],
+    "ant": "safety",
+    "scale": [
+      "risk",
+      "hazard",
+      "danger",
+      "peril"
+    ]
+  },
+  "helmet": {
+    "syns": [
+      "protection",
+      "headgear",
+      "hat"
+    ],
+    "ant": "exposure",
+    "scale": [
+      "hat",
+      "helmet",
+      "headgear",
+      "armor"
+    ]
+  },
+  "heritage": {
+    "syns": [
+      "legacy",
+      "tradition",
+      "inheritance"
+    ],
+    "ant": "novelty",
+    "scale": [
+      "legacy",
+      "heritage",
+      "tradition",
+      "inheritance"
+    ]
+  },
+  "heroic": {
+    "syns": [
+      "brave",
+      "courageous",
+      "valiant"
+    ],
+    "ant": "cowardly",
+    "scale": [
+      "brave",
+      "heroic",
+      "courageous",
+      "valiant"
+    ]
+  },
+  "hesitate": {
+    "syns": [
+      "pause",
+      "doubt",
+      "waver"
+    ],
+    "ant": "decide",
+    "scale": [
+      "pause",
+      "hesitate",
+      "doubt",
+      "waver"
+    ]
+  },
+  "hibernate": {
+    "syns": [
+      "sleep",
+      "rest",
+      "dormant"
+    ],
+    "ant": "awaken",
+    "scale": [
+      "rest",
+      "hibernate",
+      "dormancy",
+      "inactivity"
+    ]
+  },
+  "highway": {
+    "syns": [
+      "road",
+      "path",
+      "route"
+    ],
+    "ant": "dead end",
+    "scale": [
+      "road",
+      "highway",
+      "thoroughfare",
+      "expressway"
+    ]
+  },
+  "hilarious": {
+    "syns": [
+      "funny",
+      "amusing",
+      "comical"
+    ],
+    "ant": "serious",
+    "scale": [
+      "amusing",
+      "hilarious",
+      "hysterical",
+      "uproarious"
+    ]
+  },
+  "hindrance": {
+    "syns": [
+      "obstacle",
+      "barrier",
+      "block"
+    ],
+    "ant": "help",
+    "scale": [
+      "obstacle",
+      "hindrance",
+      "barrier",
+      "obstruction"
+    ]
+  },
+  "historic": {
+    "syns": [
+      "important",
+      "memorable",
+      "famous"
+    ],
+    "ant": "insignificant",
+    "scale": [
+      "important",
+      "historic",
+      "memorable",
+      "monumental"
+    ]
+  },
+  "hollow": {
+    "syns": [
+      "empty",
+      "vacant",
+      "sunken"
+    ],
+    "ant": "full",
+    "scale": [
+      "empty",
+      "hollow",
+      "vacant",
+      "void"
+    ]
+  },
+  "homeland": {
+    "syns": [
+      "home",
+      "birthplace",
+      "country"
+    ],
+    "ant": "foreign land",
+    "scale": [
+      "home",
+      "homeland",
+      "birthplace",
+      "native land"
+    ]
+  },
+  "honor": {
+    "syns": [
+      "respect",
+      "glory",
+      "integrity"
+    ],
+    "ant": "shame",
+    "scale": [
+      "respect",
+      "honor",
+      "glory",
+      "distinction"
+    ]
+  },
+  "honorable": {
+    "syns": [
+      "respectable",
+      "honest",
+      "noble"
+    ],
+    "ant": "dishonorable",
+    "scale": [
+      "respectable",
+      "honorable",
+      "noble",
+      "dignified"
+    ]
+  },
+  "horizontal": {
+    "syns": [
+      "level",
+      "flat",
+      "even"
+    ],
+    "ant": "vertical",
+    "scale": [
+      "level",
+      "horizontal",
+      "flat",
+      "even"
+    ]
+  },
+  "horror": {
+    "syns": [
+      "fear",
+      "dread",
+      "terror"
+    ],
+    "ant": "delight",
+    "scale": [
+      "fear",
+      "horror",
+      "dread",
+      "terror"
+    ]
+  },
+  "hostile": {
+    "syns": [
+      "unfriendly",
+      "aggressive",
+      "opposed"
+    ],
+    "ant": "friendly",
+    "scale": [
+      "unfriendly",
+      "hostile",
+      "aggressive",
+      "antagonistic"
+    ]
+  },
+  "hover": {
+    "syns": [
+      "float",
+      "linger",
+      "suspend"
+    ],
+    "ant": "settle",
+    "scale": [
+      "float",
+      "hover",
+      "suspend",
+      "levitate"
+    ]
+  },
+  "huddle": {
+    "syns": [
+      "crouch",
+      "gather",
+      "crowd"
+    ],
+    "ant": "spread",
+    "scale": [
+      "bunch",
+      "huddle",
+      "cluster",
+      "mass"
+    ]
+  },
+  "humble": {
+    "syns": [
+      "modest",
+      "meek",
+      "plain"
+    ],
+    "ant": "proud",
+    "scale": [
+      "simple",
+      "humble",
+      "modest",
+      "meek"
+    ]
+  },
+  "humiliation": {
+    "syns": [
+      "shame",
+      "embarrassment",
+      "dishonor"
+    ],
+    "ant": "honor",
+    "scale": [
+      "embarrassment",
+      "humiliation",
+      "shame",
+      "degradation"
+    ]
+  },
+  "humor": {
+    "syns": [
+      "funny",
+      "joke",
+      "wit"
+    ],
+    "ant": "seriousness",
+    "scale": [
+      "wit",
+      "humor",
+      "comedy",
+      "hilarity"
+    ]
+  },
+  "hump": {
+    "syns": [
+      "bump",
+      "mound",
+      "bulge"
+    ],
+    "ant": "hollow",
+    "scale": [
+      "bump",
+      "hump",
+      "protuberance",
+      "hunch"
+    ]
+  },
+  "hurricane": {
+    "syns": [
+      "storm",
+      "tempest",
+      "cyclone"
+    ],
+    "ant": "calm",
+    "scale": [
+      "storm",
+      "hurricane",
+      "tempest",
+      "typhoon"
+    ]
+  },
+  "idealism": {
+    "syns": [
+      "optimism",
+      "hope",
+      "vision"
+    ],
+    "ant": "pessimism",
+    "scale": [
+      "optimism",
+      "idealism",
+      "hope",
+      "vision"
+    ]
+  },
+  "identify": {
+    "syns": [
+      "recognize",
+      "name",
+      "determine"
+    ],
+    "ant": "confuse",
+    "scale": [
+      "recognize",
+      "identify",
+      "pinpoint",
+      "locate"
+    ]
+  },
+  "identity": {
+    "syns": [
+      "self",
+      "character",
+      "essence"
+    ],
+    "ant": "anonymity",
+    "scale": [
+      "self",
+      "identity",
+      "character",
+      "essence"
+    ]
+  },
+  "idiom": {
+    "syns": [
+      "phrase",
+      "expression",
+      "saying"
+    ],
+    "ant": "literal",
+    "scale": [
+      "expression",
+      "idiom",
+      "phrase",
+      "saying"
+    ]
+  },
+  "ignorant": {
+    "syns": [
+      "uninformed",
+      "unknowledgeable",
+      "unaware"
+    ],
+    "ant": "knowledgeable",
+    "scale": [
+      "unaware",
+      "ignorant",
+      "uninformed",
+      "oblivious"
+    ]
+  },
+  "ignore": {
+    "syns": [
+      "overlook",
+      "disregard",
+      "dismiss"
+    ],
+    "ant": "notice",
+    "scale": [
+      "overlook",
+      "ignore",
+      "disregard",
+      "neglect"
+    ]
+  },
+  "illuminate": {
+    "syns": [
+      "light up",
+      "brighten",
+      "clarify"
+    ],
+    "ant": "darken",
+    "scale": [
+      "brighten",
+      "illuminate",
+      "light up",
+      "radiate"
+    ]
+  },
+  "illustrate": {
+    "syns": [
+      "show",
+      "explain",
+      "depict"
+    ],
+    "ant": "obscure",
+    "scale": [
+      "show",
+      "illustrate",
+      "explain",
+      "demonstrate"
+    ]
+  },
+  "image": {
+    "syns": [
+      "picture",
+      "photo",
+      "reflection"
+    ],
+    "ant": "reality",
+    "scale": [
+      "picture",
+      "image",
+      "likeness",
+      "representation"
+    ]
+  },
+  "persuade": {
+    "syns": [
+      "convince",
+      "influence",
+      "sway"
+    ],
+    "ant": "dissuade",
+    "scale": [
+      "influence",
+      "persuade",
+      "convince",
+      "sway"
+    ]
+  },
+  "petrified": {
+    "syns": [
+      "terrified",
+      "frightened",
+      "scared"
+    ],
+    "ant": "calm",
+    "scale": [
+      "worried",
+      "petrified",
+      "terrified",
+      "horrified"
+    ]
+  },
+  "petrify": {
+    "syns": [
+      "terrify",
+      "frighten",
+      "scare"
+    ],
+    "ant": "calm",
+    "scale": [
+      "frighten",
+      "petrify",
+      "terrify",
+      "horrify"
+    ]
+  },
+  "petrol": {
+    "syns": [
+      "fuel",
+      "gasoline",
+      "gas"
+    ],
+    "ant": "nothing",
+    "scale": [
+      "fuel",
+      "petrol",
+      "gasoline",
+      "diesel"
+    ]
+  },
+  "phase": {
+    "syns": [
+      "stage",
+      "period",
+      "step"
+    ],
+    "ant": "stasis",
+    "scale": [
+      "stage",
+      "phase",
+      "period",
+      "cycle"
+    ]
+  },
+  "phenomenon": {
+    "syns": [
+      "event",
+      "occurrence",
+      "sight"
+    ],
+    "ant": "nothing",
+    "scale": [
+      "event",
+      "phenomenon",
+      "occurrence",
+      "marvel"
+    ]
+  },
+  "physical": {
+    "syns": [
+      "bodily",
+      "material",
+      "tangible"
+    ],
+    "ant": "mental",
+    "scale": [
+      "material",
+      "physical",
+      "tangible",
+      "concrete"
+    ]
+  },
+  "pier": {
+    "syns": [
+      "dock",
+      "wharf",
+      "platform"
+    ],
+    "ant": "inland",
+    "scale": [
+      "landing",
+      "pier",
+      "wharf",
+      "jetty"
+    ]
+  },
+  "pierce": {
+    "syns": [
+      "puncture",
+      "stab",
+      "penetrate"
+    ],
+    "ant": "seal",
+    "scale": [
+      "poke",
+      "pierce",
+      "penetrate",
+      "perforate"
+    ]
+  },
+  "pilgrim": {
+    "syns": [
+      "traveler",
+      "wanderer",
+      "seeker"
+    ],
+    "ant": "native",
+    "scale": [
+      "traveler",
+      "pilgrim",
+      "wanderer",
+      "seeker"
+    ]
+  },
+  "pillow": {
+    "syns": [
+      "cushion",
+      "support",
+      "pad"
+    ],
+    "ant": "nothing",
+    "scale": [
+      "pad",
+      "pillow",
+      "cushion",
+      "bolster"
+    ]
+  },
+  "plateau": {
+    "syns": [
+      "plain",
+      "tableland",
+      "level"
+    ],
+    "ant": "valley",
+    "scale": [
+      "level",
+      "plateau",
+      "plain",
+      "tableland"
+    ]
+  },
+  "platform": {
+    "syns": [
+      "stage",
+      "base",
+      "surface"
+    ],
+    "ant": "ground",
+    "scale": [
+      "base",
+      "platform",
+      "stage",
+      "podium"
+    ]
+  },
+  "plaudit": {
+    "syns": [
+      "applause",
+      "praise",
+      "acclaim"
+    ],
+    "ant": "criticism",
+    "scale": [
+      "compliment",
+      "plaudit",
+      "praise",
+      "acclaim"
+    ]
+  },
+  "plead": {
+    "syns": [
+      "beg",
+      "appeal",
+      "entreat"
+    ],
+    "ant": "demand",
+    "scale": [
+      "ask",
+      "plead",
+      "beg",
+      "entreat"
+    ]
+  },
+  "pleasant": {
+    "syns": [
+      "nice",
+      "enjoyable",
+      "delightful"
+    ],
+    "ant": "unpleasant",
+    "scale": [
+      "nice",
+      "pleasant",
+      "delightful",
+      "charming"
+    ]
+  },
+  "plentiful": {
+    "syns": [
+      "abundant",
+      "ample",
+      "plenty"
+    ],
+    "ant": "scarce",
+    "scale": [
+      "adequate",
+      "plentiful",
+      "abundant",
+      "overflowing"
+    ]
+  },
+  "plough": {
+    "syns": [
+      "plow",
+      "till",
+      "turn"
+    ],
+    "ant": "leave",
+    "scale": [
+      "dig",
+      "plough",
+      "till",
+      "cultivate"
+    ]
+  },
+  "plunge": {
+    "syns": [
+      "dive",
+      "jump",
+      "fall"
+    ],
+    "ant": "rise",
+    "scale": [
+      "dip",
+      "plunge",
+      "dive",
+      "submerge"
+    ]
+  },
+  "metaphor": {
+    "syns": [
+      "comparison",
+      "symbol",
+      "figure"
+    ],
+    "ant": "literal",
+    "scale": [
+      "hint",
+      "metaphor",
+      "analogy",
+      "allegory"
+    ]
+  },
+  "policy": {
+    "syns": [
+      "rule",
+      "plan",
+      "guideline"
+    ],
+    "ant": "chaos",
+    "scale": [
+      "flexible",
+      "policy",
+      "strict",
+      "rigid"
+    ]
+  },
+  "polls": {
+    "syns": [
+      "surveys",
+      "votes",
+      "questions"
+    ],
+    "ant": "certainty",
+    "scale": [
+      "hint",
+      "polls",
+      "count",
+      "census"
+    ]
+  },
+  "pollution": {
+    "syns": [
+      "contamination",
+      "dirt",
+      "filth"
+    ],
+    "ant": "purity",
+    "scale": [
+      "dust",
+      "pollution",
+      "toxins",
+      "poison"
+    ]
+  },
+  "popular": {
+    "syns": [
+      "liked",
+      "trendy",
+      "famous"
+    ],
+    "ant": "unpopular",
+    "scale": [
+      "unknown",
+      "popular",
+      "beloved",
+      "iconic"
+    ]
+  },
+  "population": {
+    "syns": [
+      "people",
+      "inhabitants",
+      "community"
+    ],
+    "ant": "void",
+    "scale": [
+      "few",
+      "population",
+      "many",
+      "masses"
+    ]
+  },
+  "portion": {
+    "syns": [
+      "part",
+      "share",
+      "piece"
+    ],
+    "ant": "whole",
+    "scale": [
+      "crumb",
+      "portion",
+      "chunk",
+      "bulk"
+    ]
+  },
+  "pose": {
+    "syns": [
+      "position",
+      "arrange",
+      "present"
+    ],
+    "ant": "hide",
+    "scale": [
+      "suggest",
+      "pose",
+      "display",
+      "flaunt"
+    ]
+  },
+  "positive": {
+    "syns": [
+      "good",
+      "happy",
+      "optimistic"
+    ],
+    "ant": "negative",
+    "scale": [
+      "neutral",
+      "positive",
+      "confident",
+      "enthusiastic"
+    ]
+  },
+  "possess": {
+    "syns": [
+      "own",
+      "have",
+      "hold"
+    ],
+    "ant": "lack",
+    "scale": [
+      "yearn",
+      "possess",
+      "clutch",
+      "grasp"
+    ]
+  },
+  "possession": {
+    "syns": [
+      "property",
+      "belonging",
+      "item"
+    ],
+    "ant": "loss",
+    "scale": [
+      "wish",
+      "possession",
+      "treasure",
+      "hoard"
+    ]
+  },
+  "potential": {
+    "syns": [
+      "ability",
+      "promise",
+      "talent"
+    ],
+    "ant": "actual",
+    "scale": [
+      "impossible",
+      "potential",
+      "likely",
+      "certain"
+    ]
+  },
+  "pounce": {
+    "syns": [
+      "jump",
+      "leap",
+      "attack"
+    ],
+    "ant": "ignore",
+    "scale": [
+      "creep",
+      "pounce",
+      "strike",
+      "assault"
+    ]
+  },
+  "practical": {
+    "syns": [
+      "useful",
+      "realistic",
+      "sensible"
+    ],
+    "ant": "impractical",
+    "scale": [
+      "theoretical",
+      "practical",
+      "efficient",
+      "flawless"
+    ]
+  },
+  "prattle": {
+    "syns": [
+      "chatter",
+      "babble",
+      "ramble"
+    ],
+    "ant": "silence",
+    "scale": [
+      "whisper",
+      "prattle",
+      "chatter",
+      "shout"
+    ]
+  },
+  "precaution": {
+    "syns": [
+      "safety",
+      "protection",
+      "care"
+    ],
+    "ant": "recklessness",
+    "scale": [
+      "careless",
+      "precaution",
+      "careful",
+      "paranoid"
+    ]
+  },
+  "precious": {
+    "syns": [
+      "valuable",
+      "special",
+      "dear"
+    ],
+    "ant": "worthless",
+    "scale": [
+      "common",
+      "precious",
+      "rare",
+      "priceless"
+    ]
+  },
+  "precise": {
+    "syns": [
+      "exact",
+      "accurate",
+      "specific"
+    ],
+    "ant": "vague",
+    "scale": [
+      "approximate",
+      "precise",
+      "exact",
+      "perfect"
+    ]
+  },
+  "predator": {
+    "syns": [
+      "hunter",
+      "animal",
+      "attacker"
+    ],
+    "ant": "prey",
+    "scale": [
+      "scavenger",
+      "predator",
+      "hunter",
+      "apex"
+    ]
+  },
+  "predict": {
+    "syns": [
+      "forecast",
+      "foresee",
+      "anticipate"
+    ],
+    "ant": "surprise",
+    "scale": [
+      "guess",
+      "predict",
+      "forecast",
+      "guarantee"
+    ]
+  },
+  "predicted": {
+    "syns": [
+      "forecast",
+      "expected",
+      "anticipated"
+    ],
+    "ant": "unexpected",
+    "scale": [
+      "guessed",
+      "predicted",
+      "confirmed",
+      "proven"
+    ]
+  },
+  "prediction": {
+    "syns": [
+      "forecast",
+      "guess",
+      "expectation"
+    ],
+    "ant": "surprise",
+    "scale": [
+      "hunch",
+      "prediction",
+      "forecast",
+      "certainty"
+    ]
+  },
+  "prefer": {
+    "syns": [
+      "like",
+      "choose",
+      "favor"
+    ],
+    "ant": "dislike",
+    "scale": [
+      "tolerate",
+      "prefer",
+      "favor",
+      "adore"
+    ]
+  },
+  "prejudice": {
+    "syns": [
+      "bias",
+      "unfairness",
+      "hate"
+    ],
+    "ant": "fairness",
+    "scale": [
+      "doubt",
+      "prejudice",
+      "hatred",
+      "bigotry"
+    ]
+  },
+  "prepare": {
+    "syns": [
+      "plan",
+      "ready",
+      "arrange"
+    ],
+    "ant": "neglect",
+    "scale": [
+      "start",
+      "prepare",
+      "organize",
+      "perfect"
+    ]
+  },
+  "preserve": {
+    "syns": [
+      "protect",
+      "save",
+      "keep"
+    ],
+    "ant": "destroy",
+    "scale": [
+      "maintain",
+      "preserve",
+      "conserve",
+      "safeguard"
+    ]
+  },
+  "previous": {
+    "syns": [
+      "earlier",
+      "before",
+      "past"
+    ],
+    "ant": "next",
+    "scale": [
+      "distant",
+      "previous",
+      "recent",
+      "immediate"
+    ]
+  },
+  "prey": {
+    "syns": [
+      "victim",
+      "hunted",
+      "animal"
+    ],
+    "ant": "predator",
+    "scale": [
+      "strong",
+      "prey",
+      "helpless",
+      "doomed"
+    ]
+  },
+  "primary": {
+    "syns": [
+      "main",
+      "first",
+      "chief"
+    ],
+    "ant": "secondary",
+    "scale": [
+      "minor",
+      "primary",
+      "principal",
+      "supreme"
+    ]
+  },
+  "principal": {
+    "syns": [
+      "main",
+      "chief",
+      "leader"
+    ],
+    "ant": "minor",
+    "scale": [
+      "assistant",
+      "principal",
+      "head",
+      "supreme"
+    ]
+  },
+  "principle": {
+    "syns": [
+      "rule",
+      "law",
+      "belief"
+    ],
+    "ant": "exception",
+    "scale": [
+      "suggestion",
+      "principle",
+      "rule",
+      "law"
+    ]
+  },
+  "prior": {
+    "syns": [
+      "earlier",
+      "before",
+      "previous"
+    ],
+    "ant": "later",
+    "scale": [
+      "distant",
+      "prior",
+      "recent",
+      "immediate"
+    ]
+  },
+  "prison": {
+    "syns": [
+      "jail",
+      "cell",
+      "cage"
+    ],
+    "ant": "freedom",
+    "scale": [
+      "confined",
+      "prison",
+      "locked",
+      "isolated"
+    ]
+  },
+  "privilege": {
+    "syns": [
+      "right",
+      "honor",
+      "benefit"
+    ],
+    "ant": "burden",
+    "scale": [
+      "luck",
+      "privilege",
+      "honor",
+      "treasure"
+    ]
+  },
+  "procedure": {
+    "syns": [
+      "process",
+      "method",
+      "steps"
+    ],
+    "ant": "chaos",
+    "scale": [
+      "random",
+      "procedure",
+      "system",
+      "precise"
+    ]
+  },
+  "proceed": {
+    "syns": [
+      "continue",
+      "go",
+      "advance"
+    ],
+    "ant": "stop",
+    "scale": [
+      "pause",
+      "proceed",
+      "rush",
+      "charge"
+    ]
+  },
+  "process": {
+    "syns": [
+      "method",
+      "steps",
+      "procedure"
+    ],
+    "ant": "result",
+    "scale": [
+      "start",
+      "process",
+      "progress",
+      "completion"
+    ]
+  },
+  "proclamation": {
+    "syns": [
+      "announcement",
+      "declaration",
+      "statement"
+    ],
+    "ant": "silence",
+    "scale": [
+      "whisper",
+      "proclamation",
+      "announcement",
+      "decree"
+    ]
+  },
+  "produce": {
+    "syns": [
+      "make",
+      "create",
+      "grow"
+    ],
+    "ant": "destroy",
+    "scale": [
+      "begin",
+      "produce",
+      "manufacture",
+      "create"
+    ]
+  },
+  "profession": {
+    "syns": [
+      "job",
+      "career",
+      "work"
+    ],
+    "ant": "hobby",
+    "scale": [
+      "task",
+      "profession",
+      "career",
+      "calling"
+    ]
+  },
+  "professional": {
+    "syns": [
+      "expert",
+      "skilled",
+      "trained"
+    ],
+    "ant": "amateur",
+    "scale": [
+      "novice",
+      "professional",
+      "expert",
+      "master"
+    ]
+  },
+  "programme": {
+    "syns": [
+      "plan",
+      "schedule",
+      "show"
+    ],
+    "ant": "chaos",
+    "scale": [
+      "idea",
+      "programme",
+      "schedule",
+      "agenda"
+    ]
+  },
+  "progress": {
+    "syns": [
+      "advancement",
+      "improvement",
+      "success"
+    ],
+    "ant": "setback",
+    "scale": [
+      "start",
+      "progress",
+      "advancement",
+      "triumph"
+    ]
+  },
+  "prohibit": {
+    "syns": [
+      "forbid",
+      "ban",
+      "block"
+    ],
+    "ant": "allow",
+    "scale": [
+      "discourage",
+      "prohibit",
+      "forbid",
+      "ban"
+    ]
+  },
+  "project": {
+    "syns": [
+      "plan",
+      "task",
+      "assignment"
+    ],
+    "ant": "rest",
+    "scale": [
+      "idea",
+      "project",
+      "mission",
+      "endeavor"
+    ]
+  },
+  "promote": {
+    "syns": [
+      "advance",
+      "encourage",
+      "support"
+    ],
+    "ant": "demote",
+    "scale": [
+      "suggest",
+      "promote",
+      "encourage",
+      "champion"
+    ]
+  },
+  "prompt": {
+    "syns": [
+      "quick",
+      "fast",
+      "immediate"
+    ],
+    "ant": "slow",
+    "scale": [
+      "hesitant",
+      "prompt",
+      "fast",
+      "instant"
+    ]
+  },
+  "prone": {
+    "syns": [
+      "likely",
+      "susceptible",
+      "inclined"
+    ],
+    "ant": "resistant",
+    "scale": [
+      "unlikely",
+      "prone",
+      "susceptible",
+      "destined"
+    ]
+  },
+  "pronunciation": {
+    "syns": [
+      "accent",
+      "sound",
+      "speech"
+    ],
+    "ant": "silence",
+    "scale": [
+      "mumble",
+      "pronunciation",
+      "clarity",
+      "perfection"
+    ]
+  },
+  "proper": {
+    "syns": [
+      "correct",
+      "right",
+      "appropriate"
+    ],
+    "ant": "improper",
+    "scale": [
+      "careless",
+      "proper",
+      "exact",
+      "perfect"
+    ]
+  },
+  "proportion": {
+    "syns": [
+      "ratio",
+      "balance",
+      "share"
+    ],
+    "ant": "imbalance",
+    "scale": [
+      "tiny",
+      "proportion",
+      "large",
+      "massive"
+    ]
+  },
+  "prospect": {
+    "syns": [
+      "chance",
+      "hope",
+      "view"
+    ],
+    "ant": "despair",
+    "scale": [
+      "unlikely",
+      "prospect",
+      "likely",
+      "certain"
+    ]
+  },
+  "prosper": {
+    "syns": [
+      "succeed",
+      "thrive",
+      "flourish"
+    ],
+    "ant": "fail",
+    "scale": [
+      "struggle",
+      "prosper",
+      "thrive",
+      "flourish"
+    ]
+  },
+  "protagonist": {
+    "syns": [
+      "hero",
+      "character",
+      "leader"
+    ],
+    "ant": "antagonist",
+    "scale": [
+      "minor",
+      "protagonist",
+      "central",
+      "heroic"
+    ]
+  },
+  "protect": {
+    "syns": [
+      "defend",
+      "guard",
+      "shield"
+    ],
+    "ant": "harm",
+    "scale": [
+      "expose",
+      "protect",
+      "guard",
+      "defend"
+    ]
+  },
+  "protest": {
+    "syns": [
+      "object",
+      "complain",
+      "oppose"
+    ],
+    "ant": "support",
+    "scale": [
+      "question",
+      "protest",
+      "object",
+      "rebel"
+    ]
+  },
+  "protocol": {
+    "syns": [
+      "rule",
+      "procedure",
+      "code"
+    ],
+    "ant": "chaos",
+    "scale": [
+      "suggestion",
+      "protocol",
+      "procedure",
+      "law"
+    ]
+  },
+  "provide": {
+    "syns": [
+      "give",
+      "supply",
+      "offer"
+    ],
+    "ant": "withhold",
+    "scale": [
+      "hint",
+      "provide",
+      "supply",
+      "deliver"
+    ]
+  },
+  "provision": {
+    "syns": [
+      "supply",
+      "arrangement",
+      "condition"
+    ],
+    "ant": "lack",
+    "scale": [
+      "trace",
+      "provision",
+      "supply",
+      "abundance"
+    ]
+  },
+  "provisions": {
+    "syns": [
+      "supplies",
+      "food",
+      "goods"
+    ],
+    "ant": "shortage",
+    "scale": [
+      "scraps",
+      "provisions",
+      "supplies",
+      "abundance"
+    ]
+  },
+  "prowl": {
+    "syns": [
+      "sneak",
+      "creep",
+      "hunt"
+    ],
+    "ant": "announce",
+    "scale": [
+      "walk",
+      "prowl",
+      "creep",
+      "skulk"
+    ]
+  },
+  "publish": {
+    "syns": [
+      "print",
+      "release",
+      "share"
+    ],
+    "ant": "hide",
+    "scale": [
+      "whisper",
+      "publish",
+      "broadcast",
+      "announce"
+    ]
+  },
+  "purchase": {
+    "syns": [
+      "buy",
+      "obtain",
+      "acquire"
+    ],
+    "ant": "sell",
+    "scale": [
+      "bargain",
+      "purchase",
+      "acquire",
+      "claim"
+    ]
+  },
+  "purpose": {
+    "syns": [
+      "goal",
+      "reason",
+      "aim"
+    ],
+    "ant": "accident",
+    "scale": [
+      "chance",
+      "purpose",
+      "intention",
+      "determination"
+    ]
+  },
+  "pursue": {
+    "syns": [
+      "chase",
+      "follow",
+      "seek"
+    ],
+    "ant": "flee",
+    "scale": [
+      "wander",
+      "pursue",
+      "chase",
+      "hunt"
+    ]
+  },
+  "quaint": {
+    "syns": [
+      "old-fashioned",
+      "charming",
+      "unique"
+    ],
+    "ant": "modern",
+    "scale": [
+      "simple",
+      "quaint",
+      "unique",
+      "peculiar"
+    ]
+  },
+  "quality": {
+    "syns": [
+      "standard",
+      "grade",
+      "characteristic"
+    ],
+    "ant": "quantity",
+    "scale": [
+      "poor",
+      "quality",
+      "excellent",
+      "supreme"
+    ]
+  },
+  "quandary": {
+    "syns": [
+      "dilemma",
+      "problem",
+      "confusion"
+    ],
+    "ant": "clarity",
+    "scale": [
+      "doubt",
+      "quandary",
+      "confusion",
+      "bewilderment"
+    ]
+  },
+  "quantity": {
+    "syns": [
+      "amount",
+      "number",
+      "measure"
+    ],
+    "ant": "quality",
+    "scale": [
+      "trace",
+      "quantity",
+      "amount",
+      "abundance"
+    ]
+  },
+  "queasy": {
+    "syns": [
+      "sick",
+      "uneasy",
+      "nauseous"
+    ],
+    "ant": "well",
+    "scale": [
+      "fine",
+      "queasy",
+      "sick",
+      "ill"
+    ]
+  },
+  "queue": {
+    "syns": [
+      "line",
+      "row",
+      "sequence"
+    ],
+    "ant": "scatter",
+    "scale": [
+      "pair",
+      "queue",
+      "line",
+      "formation"
+    ]
+  },
+  "quintessence": {
+    "syns": [
+      "essence",
+      "best",
+      "perfect"
+    ],
+    "ant": "worst",
+    "scale": [
+      "sample",
+      "quintessence",
+      "ideal",
+      "perfection"
+    ]
+  },
+  "quiver": {
+    "syns": [
+      "shake",
+      "tremble",
+      "shiver"
+    ],
+    "ant": "steady",
+    "scale": [
+      "tingle",
+      "quiver",
+      "shake",
+      "shudder"
+    ]
+  },
+  "railway": {
+    "syns": [
+      "track",
+      "train",
+      "line"
+    ],
+    "ant": "road",
+    "scale": [
+      "path",
+      "railway",
+      "network",
+      "system"
+    ]
+  },
+  "rainbow": {
+    "syns": [
+      "arc",
+      "spectrum",
+      "light"
+    ],
+    "ant": "darkness",
+    "scale": [
+      "dim",
+      "rainbow",
+      "bright",
+      "vivid"
+    ]
+  },
+  "ramble": {
+    "syns": [
+      "wander",
+      "roam",
+      "talk"
+    ],
+    "ant": "stay",
+    "scale": [
+      "stroll",
+      "ramble",
+      "wander",
+      "roam"
+    ]
+  },
+  "range": {
+    "syns": [
+      "extent",
+      "variety",
+      "distance"
+    ],
+    "ant": "limit",
+    "scale": [
+      "small",
+      "range",
+      "wide",
+      "vast"
+    ]
+  },
+  "rapid": {
+    "syns": [
+      "fast",
+      "quick",
+      "speedy"
+    ],
+    "ant": "slow",
+    "scale": [
+      "leisurely",
+      "rapid",
+      "quick",
+      "instant"
+    ]
+  },
+  "rare": {
+    "syns": [
+      "uncommon",
+      "special",
+      "scarce"
+    ],
+    "ant": "common",
+    "scale": [
+      "frequent",
+      "rare",
+      "scarce",
+      "unique"
+    ]
+  },
+  "rarely": {
+    "syns": [
+      "seldom",
+      "infrequently",
+      "hardly"
+    ],
+    "ant": "often",
+    "scale": [
+      "sometimes",
+      "rarely",
+      "seldom",
+      "never"
+    ]
+  },
+  "rate": {
+    "syns": [
+      "speed",
+      "measure",
+      "rank"
+    ],
+    "ant": "stillness",
+    "scale": [
+      "slow",
+      "rate",
+      "fast",
+      "rapid"
+    ]
+  },
+  "ratio": {
+    "syns": [
+      "proportion",
+      "comparison",
+      "balance"
+    ],
+    "ant": "imbalance",
+    "scale": [
+      "unequal",
+      "ratio",
+      "proportion",
+      "equal"
+    ]
+  },
+  "ration": {
+    "syns": [
+      "portion",
+      "share",
+      "allowance"
+    ],
+    "ant": "excess",
+    "scale": [
+      "taste",
+      "ration",
+      "portion",
+      "abundance"
+    ]
+  },
+  "ravenous": {
+    "syns": [
+      "hungry",
+      "starving",
+      "eager"
+    ],
+    "ant": "full",
+    "scale": [
+      "satisfied",
+      "ravenous",
+      "starving",
+      "famished"
+    ]
+  },
+  "react": {
+    "syns": [
+      "respond",
+      "reply",
+      "act"
+    ],
+    "ant": "ignore",
+    "scale": [
+      "hesitate",
+      "react",
+      "respond",
+      "surge"
+    ]
+  },
+  "reason": {
+    "syns": [
+      "cause",
+      "logic",
+      "mind"
+    ],
+    "ant": "impulse",
+    "scale": [
+      "doubt",
+      "reason",
+      "logic",
+      "wisdom"
+    ]
+  },
+  "reassure": {
+    "syns": [
+      "comfort",
+      "calm",
+      "encourage"
+    ],
+    "ant": "worry",
+    "scale": [
+      "hint",
+      "reassure",
+      "calm",
+      "convince"
+    ]
+  },
+  "recall": {
+    "syns": [
+      "remember",
+      "recollect",
+      "retrieve"
+    ],
+    "ant": "forget",
+    "scale": [
+      "vague",
+      "recall",
+      "remember",
+      "recollect"
+    ]
+  },
+  "recently": {
+    "syns": [
+      "lately",
+      "newly",
+      "just"
+    ],
+    "ant": "long ago",
+    "scale": [
+      "ancient",
+      "recently",
+      "newly",
+      "just now"
+    ]
+  },
+  "recital": {
+    "syns": [
+      "performance",
+      "show",
+      "presentation"
+    ],
+    "ant": "silence",
+    "scale": [
+      "reading",
+      "recital",
+      "performance",
+      "spectacle"
+    ]
+  },
+  "recognise": {
+    "syns": [
+      "identify",
+      "know",
+      "acknowledge"
+    ],
+    "ant": "ignore",
+    "scale": [
+      "glimpse",
+      "recognise",
+      "identify",
+      "confirm"
+    ]
+  },
+  "recognize": {
+    "syns": [
+      "identify",
+      "know",
+      "acknowledge"
+    ],
+    "ant": "ignore",
+    "scale": [
+      "glimpse",
+      "recognize",
+      "identify",
+      "confirm"
+    ]
+  },
+  "recommend": {
+    "syns": [
+      "suggest",
+      "advise",
+      "endorse"
+    ],
+    "ant": "discourage",
+    "scale": [
+      "mention",
+      "recommend",
+      "suggest",
+      "endorse"
+    ]
+  },
+  "recover": {
+    "syns": [
+      "heal",
+      "improve",
+      "regain"
+    ],
+    "ant": "worsen",
+    "scale": [
+      "stable",
+      "recover",
+      "improve",
+      "heal"
+    ]
+  },
+  "recycle": {
+    "syns": [
+      "reuse",
+      "process",
+      "convert"
+    ],
+    "ant": "waste",
+    "scale": [
+      "discard",
+      "recycle",
+      "reuse",
+      "restore"
+    ]
+  },
+  "refer": {
+    "syns": [
+      "mention",
+      "point",
+      "direct"
+    ],
+    "ant": "ignore",
+    "scale": [
+      "hint",
+      "refer",
+      "mention",
+      "cite"
+    ]
+  },
+  "reference": {
+    "syns": [
+      "source",
+      "mention",
+      "citation"
+    ],
+    "ant": "original",
+    "scale": [
+      "hint",
+      "reference",
+      "citation",
+      "source"
+    ]
+  },
+  "reflect": {
+    "syns": [
+      "think",
+      "mirror",
+      "ponder"
+    ],
+    "ant": "ignore",
+    "scale": [
+      "glance",
+      "reflect",
+      "think",
+      "contemplate"
+    ]
+  },
+  "reflex": {
+    "syns": [
+      "reaction",
+      "response",
+      "instinct"
+    ],
+    "ant": "thought",
+    "scale": [
+      "slow",
+      "reflex",
+      "quick",
+      "instant"
+    ]
+  },
+  "reform": {
+    "syns": [
+      "improve",
+      "change",
+      "fix"
+    ],
+    "ant": "worsen",
+    "scale": [
+      "adjust",
+      "reform",
+      "improve",
+      "transform"
+    ]
+  },
+  "refuse": {
+    "syns": [
+      "decline",
+      "reject",
+      "deny"
+    ],
+    "ant": "accept",
+    "scale": [
+      "hesitate",
+      "refuse",
+      "reject",
+      "forbid"
+    ]
+  },
+  "region": {
+    "syns": [
+      "area",
+      "zone",
+      "place"
+    ],
+    "ant": "nowhere",
+    "scale": [
+      "spot",
+      "region",
+      "territory",
+      "expanse"
+    ]
+  },
+  "register": {
+    "syns": [
+      "record",
+      "list",
+      "enroll"
+    ],
+    "ant": "erase",
+    "scale": [
+      "note",
+      "register",
+      "record",
+      "document"
+    ]
+  },
+  "regulate": {
+    "syns": [
+      "control",
+      "manage",
+      "adjust"
+    ],
+    "ant": "chaos",
+    "scale": [
+      "guide",
+      "regulate",
+      "control",
+      "govern"
+    ]
+  },
+  "reign": {
+    "syns": [
+      "rule",
+      "reign",
+      "govern"
+    ],
+    "ant": "serve",
+    "scale": [
+      "influence",
+      "reign",
+      "rule",
+      "govern"
+    ]
+  },
+  "reinforce": {
+    "syns": [
+      "strengthen",
+      "support",
+      "boost"
+    ],
+    "ant": "weaken",
+    "scale": [
+      "assist",
+      "reinforce",
+      "strengthen",
+      "fortify"
+    ]
+  },
+  "reject": {
+    "syns": [
+      "refuse",
+      "deny",
+      "decline"
+    ],
+    "ant": "accept",
+    "scale": [
+      "question",
+      "reject",
+      "refuse",
+      "condemn"
+    ]
+  },
+  "relate": {
+    "syns": [
+      "connect",
+      "link",
+      "associate"
+    ],
+    "ant": "separate",
+    "scale": [
+      "touch",
+      "relate",
+      "connect",
+      "bond"
+    ]
+  },
+  "release": {
+    "syns": [
+      "free",
+      "let go",
+      "discharge"
+    ],
+    "ant": "capture",
+    "scale": [
+      "loosen",
+      "release",
+      "free",
+      "liberate"
+    ]
+  },
+  "reliable": {
+    "syns": [
+      "trustworthy",
+      "dependable",
+      "faithful"
+    ],
+    "ant": "unreliable",
+    "scale": [
+      "uncertain",
+      "reliable",
+      "dependable",
+      "steadfast"
+    ]
+  },
+  "reluctant": {
+    "syns": [
+      "unwilling",
+      "hesitant",
+      "resistant"
+    ],
+    "ant": "eager",
+    "scale": [
+      "willing",
+      "reluctant",
+      "unwilling",
+      "resistant"
+    ]
+  },
+  "reluctantly": {
+    "syns": [
+      "unwillingly",
+      "hesitantly",
+      "grudgingly"
+    ],
+    "ant": "eagerly",
+    "scale": [
+      "happily",
+      "reluctantly",
+      "unwillingly",
+      "stubbornly"
+    ]
+  },
+  "rely": {
+    "syns": [
+      "depend",
+      "trust",
+      "count"
+    ],
+    "ant": "doubt",
+    "scale": [
+      "question",
+      "rely",
+      "depend",
+      "trust"
+    ]
+  },
+  "remain": {
+    "syns": [
+      "stay",
+      "continue",
+      "linger"
+    ],
+    "ant": "leave",
+    "scale": [
+      "pause",
+      "remain",
+      "stay",
+      "settle"
+    ]
+  },
+  "remark": {
+    "syns": [
+      "comment",
+      "note",
+      "observe"
+    ],
+    "ant": "silence",
+    "scale": [
+      "whisper",
+      "remark",
+      "comment",
+      "announce"
+    ]
+  },
+  "remote": {
+    "syns": [
+      "distant",
+      "far",
+      "isolated"
+    ],
+    "ant": "near",
+    "scale": [
+      "nearby",
+      "remote",
+      "distant",
+      "isolated"
+    ]
+  },
+  "remove": {
+    "syns": [
+      "take away",
+      "eliminate",
+      "extract"
+    ],
+    "ant": "add",
+    "scale": [
+      "loosen",
+      "remove",
+      "extract",
+      "eliminate"
+    ]
+  },
+  "renewable": {
+    "syns": [
+      "sustainable",
+      "restockable",
+      "recyclable"
+    ],
+    "ant": "finite",
+    "scale": [
+      "limited",
+      "renewable",
+      "sustainable",
+      "infinite"
+    ]
+  },
+  "repeat": {
+    "syns": [
+      "say again",
+      "do again",
+      "echo"
+    ],
+    "ant": "unique",
+    "scale": [
+      "once",
+      "repeat",
+      "again",
+      "constantly"
+    ]
+  },
+  "repetition": {
+    "syns": [
+      "repeat",
+      "duplication",
+      "echo"
+    ],
+    "ant": "uniqueness",
+    "scale": [
+      "once",
+      "repetition",
+      "duplication",
+      "constant"
+    ]
+  },
+  "replace": {
+    "syns": [
+      "substitute",
+      "swap",
+      "exchange"
+    ],
+    "ant": "keep",
+    "scale": [
+      "adjust",
+      "replace",
+      "exchange",
+      "substitute"
+    ]
+  },
+  "reporter": {
+    "syns": [
+      "journalist",
+      "announcer",
+      "correspondent"
+    ],
+    "ant": "audience",
+    "scale": [
+      "observer",
+      "reporter",
+      "journalist",
+      "correspondent"
+    ]
+  },
+  "represent": {
+    "syns": [
+      "stand for",
+      "show",
+      "depict"
+    ],
+    "ant": "hide",
+    "scale": [
+      "hint",
+      "represent",
+      "depict",
+      "portray"
+    ]
+  },
+  "request": {
+    "syns": [
+      "ask",
+      "appeal",
+      "demand"
+    ],
+    "ant": "command",
+    "scale": [
+      "hint",
+      "request",
+      "ask",
+      "demand"
+    ]
+  },
+  "require": {
+    "syns": [
+      "need",
+      "demand",
+      "insist"
+    ],
+    "ant": "optional",
+    "scale": [
+      "suggest",
+      "require",
+      "need",
+      "demand"
+    ]
+  },
+  "research": {
+    "syns": [
+      "study",
+      "investigate",
+      "explore"
+    ],
+    "ant": "ignore",
+    "scale": [
+      "glance",
+      "research",
+      "study",
+      "investigate"
+    ]
+  },
+  "resemble": {
+    "syns": [
+      "look like",
+      "match",
+      "mirror"
+    ],
+    "ant": "differ",
+    "scale": [
+      "hint",
+      "resemble",
+      "match",
+      "identical"
+    ]
+  },
+  "resident": {
+    "syns": [
+      "inhabitant",
+      "occupant",
+      "dweller"
+    ],
+    "ant": "visitor",
+    "scale": [
+      "guest",
+      "resident",
+      "inhabitant",
+      "settler"
+    ]
+  },
+  "resilience": {
+    "syns": [
+      "toughness",
+      "strength",
+      "endurance"
+    ],
+    "ant": "fragility",
+    "scale": [
+      "weak",
+      "resilience",
+      "strong",
+      "unbreakable"
+    ]
+  },
+  "resilient": {
+    "syns": [
+      "tough",
+      "strong",
+      "flexible"
+    ],
+    "ant": "fragile",
+    "scale": [
+      "brittle",
+      "resilient",
+      "strong",
+      "unbreakable"
+    ]
+  },
+  "resist": {
+    "syns": [
+      "oppose",
+      "fight",
+      "refuse"
+    ],
+    "ant": "surrender",
+    "scale": [
+      "yield",
+      "resist",
+      "oppose",
+      "rebel"
+    ]
+  },
+  "resolve": {
+    "syns": [
+      "decide",
+      "solve",
+      "determine"
+    ],
+    "ant": "waver",
+    "scale": [
+      "hesitate",
+      "resolve",
+      "decide",
+      "commit"
+    ]
+  },
+  "resource": {
+    "syns": [
+      "supply",
+      "material",
+      "tool"
+    ],
+    "ant": "lack",
+    "scale": [
+      "trace",
+      "resource",
+      "supply",
+      "abundance"
+    ]
+  },
+  "resources": {
+    "syns": [
+      "supplies",
+      "materials",
+      "tools"
+    ],
+    "ant": "shortage",
+    "scale": [
+      "scraps",
+      "resources",
+      "supplies",
+      "treasure"
+    ]
+  },
+  "respond": {
+    "syns": [
+      "reply",
+      "answer",
+      "react"
+    ],
+    "ant": "ignore",
+    "scale": [
+      "hesitate",
+      "respond",
+      "reply",
+      "answer"
+    ]
+  },
+  "response": {
+    "syns": [
+      "reply",
+      "answer",
+      "reaction"
+    ],
+    "ant": "silence",
+    "scale": [
+      "silence",
+      "response",
+      "reply",
+      "answer"
+    ]
+  },
+  "responsible": {
+    "syns": [
+      "reliable",
+      "dependable",
+      "accountable"
+    ],
+    "ant": "irresponsible",
+    "scale": [
+      "careless",
+      "responsible",
+      "careful",
+      "accountable"
+    ]
+  },
+  "restaurant": {
+    "syns": [
+      "diner",
+      "cafe",
+      "eatery"
+    ],
+    "ant": "kitchen",
+    "scale": [
+      "stall",
+      "restaurant",
+      "cafe",
+      "establishment"
+    ]
+  },
+  "restless": {
+    "syns": [
+      "anxious",
+      "fidgety",
+      "uneasy"
+    ],
+    "ant": "calm",
+    "scale": [
+      "peaceful",
+      "restless",
+      "anxious",
+      "frantic"
+    ]
+  },
+  "meter": {
+    "syns": [
+      "measure",
+      "rhythm",
+      "beat"
+    ],
+    "ant": "chaos",
+    "scale": [
+      "pace",
+      "meter",
+      "tempo",
+      "cadence"
+    ]
+  },
+  "method": {
+    "syns": [
+      "way",
+      "process",
+      "technique"
+    ],
+    "ant": "chaos",
+    "scale": [
+      "idea",
+      "method",
+      "system",
+      "procedure"
+    ]
+  },
+  "meticulous": {
+    "syns": [
+      "careful",
+      "precise",
+      "exact"
+    ],
+    "ant": "careless",
+    "scale": [
+      "tidy",
+      "meticulous",
+      "precise",
+      "perfect"
+    ]
+  },
+  "migrate": {
+    "syns": [
+      "move",
+      "travel",
+      "journey"
+    ],
+    "ant": "stay",
+    "scale": [
+      "drift",
+      "migrate",
+      "relocate",
+      "resettle"
+    ]
+  },
+  "mild": {
+    "syns": [
+      "gentle",
+      "soft",
+      "calm"
+    ],
+    "ant": "harsh",
+    "scale": [
+      "slight",
+      "mild",
+      "moderate",
+      "intense"
+    ]
+  },
+  "mimic": {
+    "syns": [
+      "copy",
+      "imitate",
+      "mock"
+    ],
+    "ant": "originate",
+    "scale": [
+      "echo",
+      "mimic",
+      "imitate",
+      "replicate"
+    ]
+  },
+  "miniature": {
+    "syns": [
+      "tiny",
+      "small",
+      "little"
+    ],
+    "ant": "huge",
+    "scale": [
+      "small",
+      "miniature",
+      "tiny",
+      "microscopic"
+    ]
+  },
+  "minimize": {
+    "syns": [
+      "reduce",
+      "shrink",
+      "lessen"
+    ],
+    "ant": "maximize",
+    "scale": [
+      "trim",
+      "minimize",
+      "shrink",
+      "eliminate"
+    ]
+  },
+  "minimum": {
+    "syns": [
+      "least",
+      "smallest",
+      "lowest"
+    ],
+    "ant": "maximum",
+    "scale": [
+      "small",
+      "minimum",
+      "tiny",
+      "zero"
+    ]
+  },
+  "minor": {
+    "syns": [
+      "small",
+      "slight",
+      "lesser"
+    ],
+    "ant": "major",
+    "scale": [
+      "tiny",
+      "minor",
+      "secondary",
+      "trivial"
+    ]
+  },
+  "mirth": {
+    "syns": [
+      "laughter",
+      "joy",
+      "cheer"
+    ],
+    "ant": "sorrow",
+    "scale": [
+      "smile",
+      "mirth",
+      "laughter",
+      "hilarity"
+    ]
+  },
+  "mischievous": {
+    "syns": [
+      "naughty",
+      "playful",
+      "impish"
+    ],
+    "ant": "obedient",
+    "scale": [
+      "silly",
+      "mischievous",
+      "troublesome",
+      "devilish"
+    ]
+  },
+  "miserable": {
+    "syns": [
+      "unhappy",
+      "sad",
+      "wretched"
+    ],
+    "ant": "happy",
+    "scale": [
+      "sad",
+      "miserable",
+      "wretched",
+      "despondent"
+    ]
+  },
+  "modern": {
+    "syns": [
+      "new",
+      "current",
+      "recent"
+    ],
+    "ant": "ancient",
+    "scale": [
+      "contemporary",
+      "modern",
+      "current",
+      "futuristic"
+    ]
+  },
+  "moist": {
+    "syns": [
+      "wet",
+      "damp",
+      "humid"
+    ],
+    "ant": "dry",
+    "scale": [
+      "damp",
+      "moist",
+      "wet",
+      "soaked"
+    ]
+  },
+  "monitor": {
+    "syns": [
+      "watch",
+      "observe",
+      "check"
+    ],
+    "ant": "ignore",
+    "scale": [
+      "glance",
+      "monitor",
+      "observe",
+      "scrutinize"
+    ]
+  },
+  "monsoon": {
+    "syns": [
+      "storm",
+      "rainfall",
+      "downpour"
+    ],
+    "ant": "drought",
+    "scale": [
+      "drizzle",
+      "monsoon",
+      "deluge",
+      "tempest"
+    ]
+  },
+  "moral": {
+    "syns": [
+      "ethical",
+      "good",
+      "virtuous"
+    ],
+    "ant": "immoral",
+    "scale": [
+      "decent",
+      "moral",
+      "virtuous",
+      "righteous"
+    ]
+  },
+  "morale": {
+    "syns": [
+      "spirit",
+      "confidence",
+      "mood"
+    ],
+    "ant": "despair",
+    "scale": [
+      "hope",
+      "morale",
+      "confidence",
+      "enthusiasm"
+    ]
+  },
+  "mortified": {
+    "syns": [
+      "embarrassed",
+      "ashamed",
+      "humiliated"
+    ],
+    "ant": "proud",
+    "scale": [
+      "embarrassed",
+      "mortified",
+      "humiliated",
+      "disgraced"
+    ]
+  },
+  "motion": {
+    "syns": [
+      "movement",
+      "action",
+      "gesture"
+    ],
+    "ant": "stillness",
+    "scale": [
+      "twitch",
+      "motion",
+      "movement",
+      "surge"
+    ]
+  },
+  "motivation": {
+    "syns": [
+      "drive",
+      "reason",
+      "incentive"
+    ],
+    "ant": "laziness",
+    "scale": [
+      "interest",
+      "motivation",
+      "determination",
+      "passion"
+    ]
+  },
+  "mound": {
+    "syns": [
+      "hill",
+      "heap",
+      "bump"
+    ],
+    "ant": "valley",
+    "scale": [
+      "bump",
+      "mound",
+      "hill",
+      "mountain"
+    ]
+  },
+  "muddle": {
+    "syns": [
+      "confuse",
+      "mix up",
+      "jumble"
+    ],
+    "ant": "clarify",
+    "scale": [
+      "tangle",
+      "muddle",
+      "confuse",
+      "scramble"
+    ]
+  },
+  "mumble": {
+    "syns": [
+      "murmur",
+      "mutter",
+      "whisper"
+    ],
+    "ant": "shout",
+    "scale": [
+      "whisper",
+      "mumble",
+      "murmur",
+      "rumble"
+    ]
+  },
+  "muscle": {
+    "syns": [
+      "strength",
+      "power",
+      "force"
+    ],
+    "ant": "weakness",
+    "scale": [
+      "fiber",
+      "muscle",
+      "strength",
+      "power"
+    ]
+  },
+  "museum": {
+    "syns": [
+      "gallery",
+      "collection",
+      "exhibit"
+    ],
+    "ant": "nothing",
+    "scale": [
+      "display",
+      "museum",
+      "archive",
+      "repository"
+    ]
+  },
+  "muttered": {
+    "syns": [
+      "whispered",
+      "murmured",
+      "grumbled"
+    ],
+    "ant": "shouted",
+    "scale": [
+      "whispered",
+      "muttered",
+      "murmured",
+      "growled"
+    ]
+  },
+  "myth": {
+    "syns": [
+      "legend",
+      "story",
+      "tale"
+    ],
+    "ant": "fact",
+    "scale": [
+      "tale",
+      "myth",
+      "legend",
+      "fable"
+    ]
+  },
+  "narrow": {
+    "syns": [
+      "thin",
+      "tight",
+      "slim"
+    ],
+    "ant": "wide",
+    "scale": [
+      "slim",
+      "narrow",
+      "tight",
+      "constricted"
+    ]
+  },
+  "nation": {
+    "syns": [
+      "country",
+      "state",
+      "people"
+    ],
+    "ant": "individual",
+    "scale": [
+      "group",
+      "nation",
+      "kingdom",
+      "empire"
+    ]
+  },
+  "natural": {
+    "syns": [
+      "real",
+      "genuine",
+      "organic"
+    ],
+    "ant": "artificial",
+    "scale": [
+      "plain",
+      "natural",
+      "pure",
+      "organic"
+    ]
+  },
+  "navigate": {
+    "syns": [
+      "steer",
+      "guide",
+      "direct"
+    ],
+    "ant": "wander",
+    "scale": [
+      "travel",
+      "navigate",
+      "chart",
+      "traverse"
+    ]
+  },
+  "necessary": {
+    "syns": [
+      "essential",
+      "required",
+      "needed"
+    ],
+    "ant": "unnecessary",
+    "scale": [
+      "helpful",
+      "necessary",
+      "essential",
+      "vital"
+    ]
+  },
+  "negative": {
+    "syns": [
+      "bad",
+      "harmful",
+      "pessimistic"
+    ],
+    "ant": "positive",
+    "scale": [
+      "doubtful",
+      "negative",
+      "hostile",
+      "destructive"
+    ]
+  },
+  "negotiate": {
+    "syns": [
+      "discuss",
+      "bargain",
+      "settle"
+    ],
+    "ant": "demand",
+    "scale": [
+      "talk",
+      "negotiate",
+      "bargain",
+      "compromise"
+    ]
+  },
+  "neighbour": {
+    "syns": [
+      "resident",
+      "nearby person",
+      "local"
+    ],
+    "ant": "stranger",
+    "scale": [
+      "acquaintance",
+      "neighbour",
+      "friend",
+      "ally"
+    ]
+  },
+  "network": {
+    "syns": [
+      "system",
+      "web",
+      "grid"
+    ],
+    "ant": "isolation",
+    "scale": [
+      "connection",
+      "network",
+      "web",
+      "infrastructure"
+    ]
+  },
+  "nimble": {
+    "syns": [
+      "quick",
+      "agile",
+      "swift"
+    ],
+    "ant": "clumsy",
+    "scale": [
+      "fast",
+      "nimble",
+      "agile",
+      "swift"
+    ]
+  },
+  "noble": {
+    "syns": [
+      "honorable",
+      "dignified",
+      "brave"
+    ],
+    "ant": "dishonorable",
+    "scale": [
+      "good",
+      "noble",
+      "dignified",
+      "virtuous"
+    ]
+  },
+  "nonchalant": {
+    "syns": [
+      "casual",
+      "cool",
+      "indifferent"
+    ],
+    "ant": "anxious",
+    "scale": [
+      "relaxed",
+      "nonchalant",
+      "indifferent",
+      "detached"
+    ]
+  },
+  "notion": {
+    "syns": [
+      "idea",
+      "thought",
+      "concept"
+    ],
+    "ant": "fact",
+    "scale": [
+      "thought",
+      "notion",
+      "idea",
+      "concept"
+    ]
+  },
+  "novel": {
+    "syns": [
+      "new",
+      "original",
+      "unique"
+    ],
+    "ant": "familiar",
+    "scale": [
+      "unusual",
+      "novel",
+      "original",
+      "unprecedented"
+    ]
+  },
+  "nuclear": {
+    "syns": [
+      "atomic",
+      "core",
+      "central"
+    ],
+    "ant": "peripheral",
+    "scale": [
+      "atomic",
+      "nuclear",
+      "radioactive",
+      "fission"
+    ]
+  },
+  "nuisance": {
+    "syns": [
+      "annoyance",
+      "pest",
+      "bother"
+    ],
+    "ant": "blessing",
+    "scale": [
+      "inconvenience",
+      "nuisance",
+      "pest",
+      "plague"
+    ]
+  },
+  "numerous": {
+    "syns": [
+      "many",
+      "countless",
+      "abundant"
+    ],
+    "ant": "few",
+    "scale": [
+      "several",
+      "numerous",
+      "countless",
+      "infinite"
+    ]
+  },
+  "obeyed": {
+    "syns": [
+      "followed",
+      "listened",
+      "complied"
+    ],
+    "ant": "rebelled",
+    "scale": [
+      "followed",
+      "obeyed",
+      "yielded",
+      "submitted"
+    ]
+  },
+  "objective": {
+    "syns": [
+      "goal",
+      "aim",
+      "target"
+    ],
+    "ant": "subjective",
+    "scale": [
+      "purpose",
+      "objective",
+      "mission",
+      "destination"
+    ]
+  },
+  "oblivious": {
+    "syns": [
+      "unaware",
+      "unconscious",
+      "ignorant"
+    ],
+    "ant": "aware",
+    "scale": [
+      "unaware",
+      "oblivious",
+      "clueless",
+      "ignorant"
+    ]
+  },
+  "obscure": {
+    "syns": [
+      "unclear",
+      "hidden",
+      "vague"
+    ],
+    "ant": "clear",
+    "scale": [
+      "dim",
+      "obscure",
+      "hidden",
+      "concealed"
+    ]
+  },
+  "observe": {
+    "syns": [
+      "watch",
+      "notice",
+      "see"
+    ],
+    "ant": "ignore",
+    "scale": [
+      "glance",
+      "observe",
+      "examine",
+      "scrutinize"
+    ]
+  },
+  "obsolete": {
+    "syns": [
+      "outdated",
+      "old",
+      "useless"
+    ],
+    "ant": "modern",
+    "scale": [
+      "old",
+      "obsolete",
+      "archaic",
+      "extinct"
+    ]
+  },
+  "obstacle": {
+    "syns": [
+      "barrier",
+      "problem",
+      "hurdle"
+    ],
+    "ant": "help",
+    "scale": [
+      "bump",
+      "obstacle",
+      "barrier",
+      "blockade"
+    ]
+  },
+  "obtain": {
+    "syns": [
+      "get",
+      "acquire",
+      "gain"
+    ],
+    "ant": "lose",
+    "scale": [
+      "find",
+      "obtain",
+      "acquire",
+      "procure"
+    ]
+  },
+  "obvious": {
+    "syns": [
+      "clear",
+      "plain",
+      "evident"
+    ],
+    "ant": "hidden",
+    "scale": [
+      "visible",
+      "obvious",
+      "evident",
+      "blatant"
+    ]
+  },
+  "occasion": {
+    "syns": [
+      "event",
+      "time",
+      "circumstance"
+    ],
+    "ant": "nothing",
+    "scale": [
+      "moment",
+      "occasion",
+      "event",
+      "celebration"
+    ]
+  },
+  "occupy": {
+    "syns": [
+      "fill",
+      "take up",
+      "inhabit"
+    ],
+    "ant": "vacate",
+    "scale": [
+      "fill",
+      "occupy",
+      "inhabit",
+      "dominate"
+    ]
+  },
+  "occur": {
+    "syns": [
+      "happen",
+      "take place",
+      "exist"
+    ],
+    "ant": "prevent",
+    "scale": [
+      "happen",
+      "occur",
+      "transpire",
+      "unfold"
+    ]
+  },
+  "ocean": {
+    "syns": [
+      "sea",
+      "water",
+      "expanse"
+    ],
+    "ant": "land",
+    "scale": [
+      "water",
+      "ocean",
+      "sea",
+      "abyss"
+    ]
+  },
+  "ominous": {
+    "syns": [
+      "threatening",
+      "sinister",
+      "dark"
+    ],
+    "ant": "hopeful",
+    "scale": [
+      "suspicious",
+      "ominous",
+      "menacing",
+      "sinister"
+    ]
+  },
+  "operate": {
+    "syns": [
+      "run",
+      "work",
+      "function"
+    ],
+    "ant": "break",
+    "scale": [
+      "move",
+      "operate",
+      "function",
+      "perform"
+    ]
+  },
+  "opinion": {
+    "syns": [
+      "belief",
+      "thought",
+      "view"
+    ],
+    "ant": "fact",
+    "scale": [
+      "thought",
+      "opinion",
+      "belief",
+      "conviction"
+    ]
+  },
+  "opportunity": {
+    "syns": [
+      "chance",
+      "opening",
+      "possibility"
+    ],
+    "ant": "obstacle",
+    "scale": [
+      "chance",
+      "opportunity",
+      "possibility",
+      "fortune"
+    ]
+  },
+  "opposed": {
+    "syns": [
+      "against",
+      "contrary",
+      "resistant"
+    ],
+    "ant": "for",
+    "scale": [
+      "reluctant",
+      "opposed",
+      "resistant",
+      "hostile"
+    ]
+  },
+  "opposite": {
+    "syns": [
+      "contrary",
+      "reverse",
+      "inverse"
+    ],
+    "ant": "same",
+    "scale": [
+      "different",
+      "opposite",
+      "reverse",
+      "inverse"
+    ]
+  },
+  "option": {
+    "syns": [
+      "choice",
+      "alternative",
+      "possibility"
+    ],
+    "ant": "requirement",
+    "scale": [
+      "choice",
+      "option",
+      "alternative",
+      "preference"
+    ]
+  },
+  "orbit": {
+    "syns": [
+      "circle",
+      "path",
+      "rotation"
+    ],
+    "ant": "linear",
+    "scale": [
+      "path",
+      "orbit",
+      "circuit",
+      "revolution"
+    ]
+  },
+  "orchard": {
+    "syns": [
+      "grove",
+      "garden",
+      "plantation"
+    ],
+    "ant": "desert",
+    "scale": [
+      "garden",
+      "orchard",
+      "plantation",
+      "farm"
+    ]
+  },
+  "ordinary": {
+    "syns": [
+      "common",
+      "normal",
+      "usual"
+    ],
+    "ant": "extraordinary",
+    "scale": [
+      "simple",
+      "ordinary",
+      "common",
+      "mundane"
+    ]
+  },
+  "organ": {
+    "syns": [
+      "instrument",
+      "part",
+      "agency"
+    ],
+    "ant": "nothing",
+    "scale": [
+      "part",
+      "organ",
+      "instrument",
+      "apparatus"
+    ]
+  },
+  "organize": {
+    "syns": [
+      "arrange",
+      "plan",
+      "order"
+    ],
+    "ant": "scatter",
+    "scale": [
+      "arrange",
+      "organize",
+      "systemize",
+      "orchestrate"
+    ]
+  },
+  "organized": {
+    "syns": [
+      "arranged",
+      "neat",
+      "systematic"
+    ],
+    "ant": "messy",
+    "scale": [
+      "tidy",
+      "organized",
+      "methodical",
+      "systematic"
+    ]
+  },
+  "orient": {
+    "syns": [
+      "position",
+      "align",
+      "direct"
+    ],
+    "ant": "disorient",
+    "scale": [
+      "adjust",
+      "orient",
+      "align",
+      "calibrate"
+    ]
+  },
+  "origin": {
+    "syns": [
+      "source",
+      "beginning",
+      "root"
+    ],
+    "ant": "end",
+    "scale": [
+      "start",
+      "origin",
+      "source",
+      "foundation"
+    ]
+  },
+  "original": {
+    "syns": [
+      "new",
+      "unique",
+      "first"
+    ],
+    "ant": "copy",
+    "scale": [
+      "fresh",
+      "original",
+      "unique",
+      "unprecedented"
+    ]
+  },
+  "outcome": {
+    "syns": [
+      "result",
+      "end",
+      "consequence"
+    ],
+    "ant": "cause",
+    "scale": [
+      "effect",
+      "outcome",
+      "result",
+      "conclusion"
+    ]
+  },
+  "output": {
+    "syns": [
+      "product",
+      "result",
+      "yield"
+    ],
+    "ant": "input",
+    "scale": [
+      "product",
+      "output",
+      "yield",
+      "production"
+    ]
+  },
+  "outskirts": {
+    "syns": [
+      "edge",
+      "border",
+      "suburb"
+    ],
+    "ant": "center",
+    "scale": [
+      "edge",
+      "outskirts",
+      "periphery",
+      "frontier"
+    ]
+  },
+  "ovation": {
+    "syns": [
+      "applause",
+      "cheering",
+      "acclaim"
+    ],
+    "ant": "silence",
+    "scale": [
+      "clapping",
+      "ovation",
+      "applause",
+      "acclamation"
+    ]
+  },
+  "overall": {
+    "syns": [
+      "general",
+      "total",
+      "complete"
+    ],
+    "ant": "specific",
+    "scale": [
+      "general",
+      "overall",
+      "comprehensive",
+      "total"
+    ]
+  },
+  "overlap": {
+    "syns": [
+      "cover",
+      "intersect",
+      "coincide"
+    ],
+    "ant": "separate",
+    "scale": [
+      "touch",
+      "overlap",
+      "intersect",
+      "merge"
+    ]
+  },
+  "overwhelm": {
+    "syns": [
+      "flood",
+      "swamp",
+      "overtake"
+    ],
+    "ant": "calm",
+    "scale": [
+      "flood",
+      "overwhelm",
+      "inundate",
+      "submerge"
+    ]
+  },
+  "palace": {
+    "syns": [
+      "castle",
+      "mansion",
+      "residence"
+    ],
+    "ant": "hovel",
+    "scale": [
+      "house",
+      "palace",
+      "castle",
+      "fortress"
+    ]
+  },
+  "panel": {
+    "syns": [
+      "board",
+      "surface",
+      "group"
+    ],
+    "ant": "individual",
+    "scale": [
+      "surface",
+      "panel",
+      "board",
+      "section"
+    ]
+  },
+  "parallel": {
+    "syns": [
+      "side by side",
+      "similar",
+      "equivalent"
+    ],
+    "ant": "perpendicular",
+    "scale": [
+      "aligned",
+      "parallel",
+      "matched",
+      "identical"
+    ]
+  },
+  "parcel": {
+    "syns": [
+      "package",
+      "bundle",
+      "plot"
+    ],
+    "ant": "scattered",
+    "scale": [
+      "bundle",
+      "parcel",
+      "package",
+      "shipment"
+    ]
+  },
+  "parliament": {
+    "syns": [
+      "government",
+      "congress",
+      "assembly"
+    ],
+    "ant": "individual",
+    "scale": [
+      "group",
+      "parliament",
+      "assembly",
+      "legislature"
+    ]
+  },
+  "participate": {
+    "syns": [
+      "join",
+      "take part",
+      "engage"
+    ],
+    "ant": "abstain",
+    "scale": [
+      "join",
+      "participate",
+      "engage",
+      "contribute"
+    ]
+  },
+  "particular": {
+    "syns": [
+      "specific",
+      "special",
+      "certain"
+    ],
+    "ant": "general",
+    "scale": [
+      "specific",
+      "particular",
+      "distinct",
+      "individual"
+    ]
+  },
+  "partner": {
+    "syns": [
+      "teammate",
+      "ally",
+      "associate"
+    ],
+    "ant": "rival",
+    "scale": [
+      "helper",
+      "partner",
+      "ally",
+      "companion"
+    ]
+  },
+  "passage": {
+    "syns": [
+      "section",
+      "route",
+      "corridor"
+    ],
+    "ant": "blockade",
+    "scale": [
+      "path",
+      "passage",
+      "corridor",
+      "thoroughfare"
+    ]
+  },
+  "passenger": {
+    "syns": [
+      "traveler",
+      "rider",
+      "commuter"
+    ],
+    "ant": "driver",
+    "scale": [
+      "rider",
+      "passenger",
+      "traveler",
+      "voyager"
+    ]
+  },
+  "passive": {
+    "syns": [
+      "inactive",
+      "receptive",
+      "still"
+    ],
+    "ant": "active",
+    "scale": [
+      "quiet",
+      "passive",
+      "inactive",
+      "inert"
+    ]
+  },
+  "pastime": {
+    "syns": [
+      "hobby",
+      "activity",
+      "entertainment"
+    ],
+    "ant": "work",
+    "scale": [
+      "activity",
+      "pastime",
+      "hobby",
+      "recreation"
+    ]
+  },
+  "patient": {
+    "syns": [
+      "calm",
+      "tolerant",
+      "enduring"
+    ],
+    "ant": "impatient",
+    "scale": [
+      "calm",
+      "patient",
+      "tolerant",
+      "steadfast"
+    ]
+  },
+  "patriotism": {
+    "syns": [
+      "loyalty",
+      "devotion",
+      "pride"
+    ],
+    "ant": "betrayal",
+    "scale": [
+      "loyalty",
+      "patriotism",
+      "devotion",
+      "fervor"
+    ]
+  },
+  "pattern": {
+    "syns": [
+      "design",
+      "model",
+      "example"
+    ],
+    "ant": "chaos",
+    "scale": [
+      "design",
+      "pattern",
+      "template",
+      "blueprint"
+    ]
+  },
+  "pause": {
+    "syns": [
+      "stop",
+      "break",
+      "rest"
+    ],
+    "ant": "continue",
+    "scale": [
+      "hesitate",
+      "pause",
+      "stop",
+      "freeze"
+    ]
+  },
+  "peak": {
+    "syns": [
+      "top",
+      "summit",
+      "highest"
+    ],
+    "ant": "bottom",
+    "scale": [
+      "top",
+      "peak",
+      "summit",
+      "apex"
+    ]
+  },
+  "peck": {
+    "syns": [
+      "tap",
+      "nibble",
+      "kiss"
+    ],
+    "ant": "embrace",
+    "scale": [
+      "touch",
+      "peck",
+      "tap",
+      "strike"
+    ]
+  },
+  "peculiar": {
+    "syns": [
+      "odd",
+      "strange",
+      "unique"
+    ],
+    "ant": "normal",
+    "scale": [
+      "unusual",
+      "peculiar",
+      "strange",
+      "bizarre"
+    ]
+  },
+  "pedestrian": {
+    "syns": [
+      "walker",
+      "ordinary",
+      "dull"
+    ],
+    "ant": "extraordinary",
+    "scale": [
+      "ordinary",
+      "pedestrian",
+      "dull",
+      "mundane"
+    ]
+  },
+  "pedlar": {
+    "syns": [
+      "seller",
+      "merchant",
+      "vendor"
+    ],
+    "ant": "buyer",
+    "scale": [
+      "seller",
+      "pedlar",
+      "vendor",
+      "trader"
+    ]
+  },
+  "peep": {
+    "syns": [
+      "look",
+      "peek",
+      "glimpse"
+    ],
+    "ant": "ignore",
+    "scale": [
+      "glance",
+      "peep",
+      "peek",
+      "peer"
+    ]
+  },
+  "peer": {
+    "syns": [
+      "equal",
+      "look",
+      "examine"
+    ],
+    "ant": "inferior",
+    "scale": [
+      "equal",
+      "peer",
+      "colleague",
+      "match"
+    ]
+  },
+  "peninsula": {
+    "syns": [
+      "land",
+      "promontory",
+      "projection"
+    ],
+    "ant": "island",
+    "scale": [
+      "point",
+      "peninsula",
+      "promontory",
+      "projection"
+    ]
+  },
+  "perceive": {
+    "syns": [
+      "notice",
+      "sense",
+      "understand"
+    ],
+    "ant": "miss",
+    "scale": [
+      "sense",
+      "perceive",
+      "understand",
+      "discern"
+    ]
+  },
+  "perch": {
+    "syns": [
+      "roost",
+      "sit",
+      "rest"
+    ],
+    "ant": "fall",
+    "scale": [
+      "sit",
+      "perch",
+      "balance",
+      "hover"
+    ]
+  },
+  "perform": {
+    "syns": [
+      "act",
+      "do",
+      "execute"
+    ],
+    "ant": "abstain",
+    "scale": [
+      "attempt",
+      "perform",
+      "execute",
+      "accomplish"
+    ]
+  },
+  "period": {
+    "syns": [
+      "time",
+      "era",
+      "duration"
+    ],
+    "ant": "instant",
+    "scale": [
+      "moment",
+      "period",
+      "era",
+      "epoch"
+    ]
+  },
+  "permanent": {
+    "syns": [
+      "lasting",
+      "fixed",
+      "eternal"
+    ],
+    "ant": "temporary",
+    "scale": [
+      "lasting",
+      "permanent",
+      "eternal",
+      "indelible"
+    ]
+  },
+  "permission": {
+    "syns": [
+      "approval",
+      "consent",
+      "allowance"
+    ],
+    "ant": "prohibition",
+    "scale": [
+      "consent",
+      "permission",
+      "approval",
+      "authorization"
+    ]
+  },
+  "permit": {
+    "syns": [
+      "allow",
+      "authorize",
+      "approve"
+    ],
+    "ant": "forbid",
+    "scale": [
+      "allow",
+      "permit",
+      "authorize",
+      "enable"
+    ]
+  },
+  "perpendicular": {
+    "syns": [
+      "vertical",
+      "right angle",
+      "upright"
+    ],
+    "ant": "parallel",
+    "scale": [
+      "angled",
+      "perpendicular",
+      "vertical",
+      "right"
+    ]
+  },
+  "perseverance": {
+    "syns": [
+      "determination",
+      "persistence",
+      "resolve"
+    ],
+    "ant": "quitting",
+    "scale": [
+      "effort",
+      "perseverance",
+      "determination",
+      "steadfastness"
+    ]
+  },
+  "persevere": {
+    "syns": [
+      "persist",
+      "continue",
+      "endure"
+    ],
+    "ant": "quit",
+    "scale": [
+      "continue",
+      "persevere",
+      "persist",
+      "prevail"
+    ]
+  },
+  "persist": {
+    "syns": [
+      "continue",
+      "endure",
+      "remain"
+    ],
+    "ant": "stop",
+    "scale": [
+      "continue",
+      "persist",
+      "endure",
+      "linger"
+    ]
+  },
+  "perspective": {
+    "syns": [
+      "viewpoint",
+      "view",
+      "outlook"
+    ],
+    "ant": "bias",
+    "scale": [
+      "view",
+      "perspective",
+      "outlook",
+      "viewpoint"
+    ]
+  },
+  "sophomore": {
+    "syns": [
+      "second year",
+      "student",
+      "learner"
+    ],
+    "ant": "beginner",
+    "scale": [
+      "new sophomore",
+      "sophomore",
+      "experienced sophomore",
+      "near junior"
+    ]
+  },
+  "sort": {
+    "syns": [
+      "organize",
+      "arrange",
+      "group"
+    ],
+    "ant": "mix up",
+    "scale": [
+      "loose sort",
+      "sort",
+      "neat sort",
+      "perfect order"
+    ]
+  },
+  "source": {
+    "syns": [
+      "origin",
+      "beginning",
+      "root"
+    ],
+    "ant": "end",
+    "scale": [
+      "unclear origin",
+      "source",
+      "clear source",
+      "primary source"
+    ]
+  },
+  "specific": {
+    "syns": [
+      "exact",
+      "particular",
+      "definite"
+    ],
+    "ant": "general",
+    "scale": [
+      "somewhat specific",
+      "specific",
+      "very specific",
+      "extremely exact"
+    ]
+  },
+  "sphere": {
+    "syns": [
+      "ball",
+      "globe",
+      "round"
+    ],
+    "ant": "flat",
+    "scale": [
+      "small sphere",
+      "sphere",
+      "large sphere",
+      "huge globe"
+    ]
+  },
+  "spine": {
+    "syns": [
+      "backbone",
+      "support",
+      "center"
+    ],
+    "ant": "support loss",
+    "scale": [
+      "weak spine",
+      "spine",
+      "strong spine",
+      "rigid backbone"
+    ]
+  },
+  "splendid": {
+    "syns": [
+      "wonderful",
+      "excellent",
+      "grand"
+    ],
+    "ant": "awful",
+    "scale": [
+      "quite good",
+      "splendid",
+      "very excellent",
+      "truly magnificent"
+    ]
+  },
+  "sprout": {
+    "syns": [
+      "grow",
+      "shoot",
+      "develop"
+    ],
+    "ant": "wither",
+    "scale": [
+      "barely visible",
+      "sprout",
+      "full shoot",
+      "mature plant"
+    ]
+  },
+  "squeal": {
+    "syns": [
+      "cry",
+      "scream",
+      "shriek"
+    ],
+    "ant": "silence",
+    "scale": [
+      "quiet cry",
+      "squeal",
+      "loud squeal",
+      "piercing shriek"
+    ]
+  },
+  "stable": {
+    "syns": [
+      "steady",
+      "firm",
+      "secure"
+    ],
+    "ant": "shaky",
+    "scale": [
+      "somewhat steady",
+      "stable",
+      "very steady",
+      "rock stable"
+    ]
+  },
+  "stadium": {
+    "syns": [
+      "arena",
+      "field",
+      "venue"
+    ],
+    "ant": "home",
+    "scale": [
+      "small stadium",
+      "stadium",
+      "large stadium",
+      "huge arena"
+    ]
+  },
+  "standoff": {
+    "syns": [
+      "tie",
+      "deadlock",
+      "draw"
+    ],
+    "ant": "winner",
+    "scale": [
+      "slight tie",
+      "standoff",
+      "complete tie",
+      "total deadlock"
+    ]
+  },
+  "stanza": {
+    "syns": [
+      "verse",
+      "poem",
+      "section"
+    ],
+    "ant": "chaos",
+    "scale": [
+      "short stanza",
+      "stanza",
+      "long stanza",
+      "epic verse"
+    ]
+  },
+  "starve": {
+    "syns": [
+      "hunger",
+      "deprive",
+      "suffer"
+    ],
+    "ant": "feed",
+    "scale": [
+      "slightly hungry",
+      "starve",
+      "very hungry",
+      "dying of hunger"
+    ]
+  },
+  "status": {
+    "syns": [
+      "rank",
+      "position",
+      "standing"
+    ],
+    "ant": "nobody",
+    "scale": [
+      "low status",
+      "status",
+      "high status",
+      "top position"
+    ]
+  },
+  "steady": {
+    "syns": [
+      "stable",
+      "firm",
+      "constant"
+    ],
+    "ant": "shaky",
+    "scale": [
+      "somewhat steady",
+      "steady",
+      "very steady",
+      "rock steady"
+    ]
+  },
+  "stockade": {
+    "syns": [
+      "fence",
+      "fort",
+      "wall"
+    ],
+    "ant": "open",
+    "scale": [
+      "short fence",
+      "stockade",
+      "tall fence",
+      "strong fortification"
+    ]
+  },
+  "stomach": {
+    "syns": [
+      "belly",
+      "gut",
+      "abdomen"
+    ],
+    "ant": "mind",
+    "scale": [
+      "empty stomach",
+      "stomach",
+      "full stomach",
+      "stuffed stomach"
+    ]
+  },
+  "storm": {
+    "syns": [
+      "tempest",
+      "rain",
+      "wind"
+    ],
+    "ant": "calm",
+    "scale": [
+      "light rain",
+      "storm",
+      "strong storm",
+      "fierce tempest"
+    ]
+  },
+  "stout": {
+    "syns": [
+      "thick",
+      "strong",
+      "sturdy"
+    ],
+    "ant": "thin",
+    "scale": [
+      "somewhat stout",
+      "stout",
+      "very stout",
+      "extremely sturdy"
+    ]
+  },
+  "strain": {
+    "syns": [
+      "stress",
+      "effort",
+      "pull"
+    ],
+    "ant": "relax",
+    "scale": [
+      "slight effort",
+      "strain",
+      "great effort",
+      "extreme strain"
+    ]
+  },
+  "stranded": {
+    "syns": [
+      "stuck",
+      "abandoned",
+      "isolated"
+    ],
+    "ant": "rescued",
+    "scale": [
+      "somewhat stuck",
+      "stranded",
+      "completely stuck",
+      "utterly abandoned"
+    ]
+  },
+  "strange": {
+    "syns": [
+      "odd",
+      "unusual",
+      "weird"
+    ],
+    "ant": "normal",
+    "scale": [
+      "slightly odd",
+      "strange",
+      "very odd",
+      "extremely weird"
+    ]
+  },
+  "strategy": {
+    "syns": [
+      "plan",
+      "tactic",
+      "method"
+    ],
+    "ant": "random",
+    "scale": [
+      "simple plan",
+      "strategy",
+      "complex strategy",
+      "detailed plan"
+    ]
+  },
+  "strength": {
+    "syns": [
+      "power",
+      "force",
+      "ability"
+    ],
+    "ant": "weakness",
+    "scale": [
+      "little strength",
+      "strength",
+      "great strength",
+      "mighty power"
+    ]
+  },
+  "strolled": {
+    "syns": [
+      "walked",
+      "wandered",
+      "sauntered"
+    ],
+    "ant": "rushed",
+    "scale": [
+      "slow walk",
+      "strolled",
+      "leisurely walk",
+      "very slow walk"
+    ]
+  },
+  "structure": {
+    "syns": [
+      "building",
+      "frame",
+      "form"
+    ],
+    "ant": "chaos",
+    "scale": [
+      "simple structure",
+      "structure",
+      "complex structure",
+      "elaborate frame"
+    ]
+  },
+  "struggle": {
+    "syns": [
+      "fight",
+      "effort",
+      "battle"
+    ],
+    "ant": "ease",
+    "scale": [
+      "light effort",
+      "struggle",
+      "great effort",
+      "intense battle"
+    ]
+  },
+  "stumble": {
+    "syns": [
+      "trip",
+      "falter",
+      "stagger"
+    ],
+    "ant": "balance",
+    "scale": [
+      "slight trip",
+      "stumble",
+      "major trip",
+      "complete fall"
+    ]
+  },
+  "style": {
+    "syns": [
+      "manner",
+      "fashion",
+      "way"
+    ],
+    "ant": "plainness",
+    "scale": [
+      "simple style",
+      "style",
+      "unique style",
+      "distinctive style"
+    ]
+  },
+  "restore": {
+    "syns": [
+      "repair",
+      "fix",
+      "rebuild"
+    ],
+    "ant": "destroy",
+    "scale": [
+      "slightly fix",
+      "restore",
+      "completely rebuild",
+      "fully reconstruct"
+    ]
+  },
+  "restrain": {
+    "syns": [
+      "hold back",
+      "control",
+      "limit"
+    ],
+    "ant": "release",
+    "scale": [
+      "gently hold",
+      "restrain",
+      "firmly control",
+      "strictly confine"
+    ]
+  },
+  "restrict": {
+    "syns": [
+      "limit",
+      "confine",
+      "control"
+    ],
+    "ant": "allow",
+    "scale": [
+      "somewhat limit",
+      "restrict",
+      "greatly limit",
+      "completely ban"
+    ]
+  },
+  "result": {
+    "syns": [
+      "outcome",
+      "effect",
+      "consequence"
+    ],
+    "ant": "cause",
+    "scale": [
+      "minor outcome",
+      "result",
+      "major outcome",
+      "final result"
+    ]
+  },
+  "resume": {
+    "syns": [
+      "continue",
+      "restart",
+      "begin again"
+    ],
+    "ant": "stop",
+    "scale": [
+      "slowly start",
+      "resume",
+      "quickly restart",
+      "completely restart"
+    ]
+  },
+  "retain": {
+    "syns": [
+      "keep",
+      "hold",
+      "maintain"
+    ],
+    "ant": "release",
+    "scale": [
+      "briefly keep",
+      "retain",
+      "firmly keep",
+      "permanently keep"
+    ]
+  },
+  "reveal": {
+    "syns": [
+      "show",
+      "expose",
+      "uncover"
+    ],
+    "ant": "hide",
+    "scale": [
+      "slightly show",
+      "reveal",
+      "fully expose",
+      "completely expose"
+    ]
+  },
+  "revenue": {
+    "syns": [
+      "income",
+      "money",
+      "earnings"
+    ],
+    "ant": "expense",
+    "scale": [
+      "small income",
+      "revenue",
+      "large income",
+      "massive revenue"
+    ]
+  },
+  "reverse": {
+    "syns": [
+      "flip",
+      "turn back",
+      "opposite"
+    ],
+    "ant": "forward",
+    "scale": [
+      "partially back",
+      "reverse",
+      "completely backward",
+      "fully inverted"
+    ]
+  },
+  "review": {
+    "syns": [
+      "examine",
+      "check",
+      "inspect"
+    ],
+    "ant": "ignore",
+    "scale": [
+      "quick look",
+      "review",
+      "detailed examination",
+      "thorough inspection"
+    ]
+  },
+  "revise": {
+    "syns": [
+      "change",
+      "edit",
+      "improve"
+    ],
+    "ant": "keep",
+    "scale": [
+      "minor change",
+      "revise",
+      "major change",
+      "complete revision"
+    ]
+  },
+  "revive": {
+    "syns": [
+      "awaken",
+      "restore",
+      "bring back"
+    ],
+    "ant": "kill",
+    "scale": [
+      "slightly awaken",
+      "revive",
+      "fully awaken",
+      "completely restore"
+    ]
+  },
+  "revolt": {
+    "syns": [
+      "rebel",
+      "resist",
+      "uprising"
+    ],
+    "ant": "obey",
+    "scale": [
+      "minor protest",
+      "revolt",
+      "major rebellion",
+      "full revolution"
+    ]
+  },
+  "revolution": {
+    "syns": [
+      "uprising",
+      "rebellion",
+      "change"
+    ],
+    "ant": "order",
+    "scale": [
+      "small change",
+      "revolution",
+      "major upheaval",
+      "complete transformation"
+    ]
+  },
+  "revolve": {
+    "syns": [
+      "spin",
+      "rotate",
+      "turn"
+    ],
+    "ant": "still",
+    "scale": [
+      "slow spin",
+      "revolve",
+      "fast spin",
+      "rapid rotation"
+    ]
+  },
+  "reward": {
+    "syns": [
+      "prize",
+      "payment",
+      "gift"
+    ],
+    "ant": "punishment",
+    "scale": [
+      "small prize",
+      "reward",
+      "large prize",
+      "grand prize"
+    ]
+  },
+  "rhyme": {
+    "syns": [
+      "verse",
+      "poem",
+      "sound"
+    ],
+    "ant": "discord",
+    "scale": [
+      "imperfect match",
+      "rhyme",
+      "perfect match",
+      "excellent rhyme"
+    ]
+  },
+  "rhythm": {
+    "syns": [
+      "beat",
+      "pattern",
+      "tempo"
+    ],
+    "ant": "chaos",
+    "scale": [
+      "slow beat",
+      "rhythm",
+      "fast beat",
+      "rapid tempo"
+    ]
+  },
+  "ridge": {
+    "syns": [
+      "hill",
+      "peak",
+      "bump"
+    ],
+    "ant": "valley",
+    "scale": [
+      "small bump",
+      "ridge",
+      "tall peak",
+      "mountain peak"
+    ]
+  },
+  "ridicule": {
+    "syns": [
+      "mock",
+      "tease",
+      "laugh at"
+    ],
+    "ant": "praise",
+    "scale": [
+      "gentle teasing",
+      "ridicule",
+      "harsh mocking",
+      "cruel ridicule"
+    ]
+  },
+  "ridiculous": {
+    "syns": [
+      "silly",
+      "absurd",
+      "foolish"
+    ],
+    "ant": "sensible",
+    "scale": [
+      "slightly silly",
+      "ridiculous",
+      "very absurd",
+      "completely foolish"
+    ]
+  },
+  "ripple": {
+    "syns": [
+      "wave",
+      "undulation",
+      "surge"
+    ],
+    "ant": "stillness",
+    "scale": [
+      "tiny wave",
+      "ripple",
+      "large wave",
+      "big surge"
+    ]
+  },
+  "risk": {
+    "syns": [
+      "danger",
+      "hazard",
+      "chance"
+    ],
+    "ant": "safety",
+    "scale": [
+      "small chance",
+      "risk",
+      "great danger",
+      "extreme hazard"
+    ]
+  },
+  "role": {
+    "syns": [
+      "part",
+      "character",
+      "position"
+    ],
+    "ant": "absence",
+    "scale": [
+      "minor part",
+      "role",
+      "major part",
+      "leading role"
+    ]
+  },
+  "rotation": {
+    "syns": [
+      "turn",
+      "spin",
+      "revolving"
+    ],
+    "ant": "stillness",
+    "scale": [
+      "slow turn",
+      "rotation",
+      "fast turn",
+      "rapid spin"
+    ]
+  },
+  "route": {
+    "syns": [
+      "path",
+      "way",
+      "direction"
+    ],
+    "ant": "dead end",
+    "scale": [
+      "indirect path",
+      "route",
+      "direct route",
+      "shortest route"
+    ]
+  },
+  "rubble": {
+    "syns": [
+      "debris",
+      "ruins",
+      "wreckage"
+    ],
+    "ant": "order",
+    "scale": [
+      "small debris",
+      "rubble",
+      "large rubble",
+      "total debris"
+    ]
+  },
+  "rudder": {
+    "syns": [
+      "steering",
+      "guide",
+      "control"
+    ],
+    "ant": "drift",
+    "scale": [
+      "loose control",
+      "rudder",
+      "firm control",
+      "tight steering"
+    ]
+  },
+  "ruin": {
+    "syns": [
+      "destroy",
+      "wreck",
+      "damage"
+    ],
+    "ant": "build",
+    "scale": [
+      "slight damage",
+      "ruin",
+      "major damage",
+      "complete destruction"
+    ]
+  },
+  "rural": {
+    "syns": [
+      "countryside",
+      "farm",
+      "remote"
+    ],
+    "ant": "urban",
+    "scale": [
+      "somewhat rural",
+      "rural",
+      "very rural",
+      "isolated rural"
+    ]
+  },
+  "succeed": {
+    "syns": [
+      "win",
+      "triumph",
+      "achieve"
+    ],
+    "ant": "fail",
+    "scale": [
+      "barely succeed",
+      "succeed",
+      "greatly succeed",
+      "completely triumph"
+    ]
+  },
+  "sufficient": {
+    "syns": [
+      "enough",
+      "adequate",
+      "plenty"
+    ],
+    "ant": "insufficient",
+    "scale": [
+      "barely enough",
+      "sufficient",
+      "more than enough",
+      "abundant"
+    ]
+  },
+  "suggest": {
+    "syns": [
+      "propose",
+      "imply",
+      "hint"
+    ],
+    "ant": "demand",
+    "scale": [
+      "faint hint",
+      "suggest",
+      "clear hint",
+      "obvious hint"
+    ]
+  },
+  "suitcase": {
+    "syns": [
+      "bag",
+      "luggage",
+      "case"
+    ],
+    "ant": "empty",
+    "scale": [
+      "small bag",
+      "suitcase",
+      "large bag",
+      "huge luggage"
+    ]
+  },
+  "summarize": {
+    "syns": [
+      "shorten",
+      "outline",
+      "brief"
+    ],
+    "ant": "elaborate",
+    "scale": [
+      "loose summary",
+      "summarize",
+      "brief summary",
+      "very concise"
+    ]
+  },
+  "summary": {
+    "syns": [
+      "outline",
+      "brief",
+      "synopsis"
+    ],
+    "ant": "detail",
+    "scale": [
+      "loose outline",
+      "summary",
+      "brief summary",
+      "very concise"
+    ]
+  },
+  "summit": {
+    "syns": [
+      "peak",
+      "top",
+      "height"
+    ],
+    "ant": "base",
+    "scale": [
+      "lower peak",
+      "summit",
+      "high peak",
+      "highest peak"
+    ]
+  },
+  "superb": {
+    "syns": [
+      "excellent",
+      "wonderful",
+      "great"
+    ],
+    "ant": "terrible",
+    "scale": [
+      "quite good",
+      "superb",
+      "excellent",
+      "outstanding"
+    ]
+  },
+  "superior": {
+    "syns": [
+      "better",
+      "higher",
+      "excellent"
+    ],
+    "ant": "inferior",
+    "scale": [
+      "somewhat better",
+      "superior",
+      "much better",
+      "far superior"
+    ]
+  },
+  "supplement": {
+    "syns": [
+      "add",
+      "extra",
+      "addition"
+    ],
+    "ant": "reduce",
+    "scale": [
+      "small addition",
+      "supplement",
+      "large addition",
+      "major addition"
+    ]
+  },
+  "support": {
+    "syns": [
+      "help",
+      "aid",
+      "uphold"
+    ],
+    "ant": "oppose",
+    "scale": [
+      "slight help",
+      "support",
+      "great help",
+      "strong support"
+    ]
+  },
+  "supreme": {
+    "syns": [
+      "highest",
+      "best",
+      "ultimate"
+    ],
+    "ant": "lowest",
+    "scale": [
+      "very high",
+      "supreme",
+      "highest possible",
+      "absolutely highest"
+    ]
+  },
+  "surface": {
+    "syns": [
+      "top",
+      "outside",
+      "level"
+    ],
+    "ant": "depth",
+    "scale": [
+      "shallow area",
+      "surface",
+      "flat surface",
+      "level surface"
+    ]
+  },
+  "surrender": {
+    "syns": [
+      "give up",
+      "yield",
+      "submit"
+    ],
+    "ant": "resist",
+    "scale": [
+      "slight yield",
+      "surrender",
+      "complete yield",
+      "total surrender"
+    ]
+  },
+  "surround": {
+    "syns": [
+      "enclose",
+      "circle",
+      "encompass"
+    ],
+    "ant": "expose",
+    "scale": [
+      "partially surround",
+      "surround",
+      "completely surround",
+      "fully encompass"
+    ]
+  },
+  "survey": {
+    "syns": [
+      "examine",
+      "inspect",
+      "scan"
+    ],
+    "ant": "ignore",
+    "scale": [
+      "quick scan",
+      "survey",
+      "careful survey",
+      "thorough inspection"
+    ]
+  },
+  "soldier": {
+    "syns": [
+      "fighter",
+      "warrior",
+      "military"
+    ],
+    "ant": "civilian",
+    "scale": [
+      "young soldier",
+      "soldier",
+      "veteran soldier",
+      "general"
+    ]
+  },
+  "word": {
+    "syns": [
+      "synonym1",
+      "synonym2",
+      "synonym3"
+    ],
+    "ant": "antonym",
+    "scale": [
+      "weakest_intensity",
+      "word_itself",
+      "stronger",
+      "strongest"
+    ]
+  },
+  "imagery": {
+    "syns": [
+      "pictures",
+      "visuals",
+      "scenes"
+    ],
+    "ant": "silence",
+    "scale": [
+      "vague",
+      "imagery",
+      "vivid",
+      "photographic"
+    ]
+  },
+  "imagine": {
+    "syns": [
+      "picture",
+      "envision",
+      "visualize"
+    ],
+    "ant": "forget",
+    "scale": [
+      "overlook",
+      "imagine",
+      "contemplate",
+      "visualize"
+    ]
+  },
+  "imitate": {
+    "syns": [
+      "copy",
+      "mimic",
+      "impersonate"
+    ],
+    "ant": "originate",
+    "scale": [
+      "sketch",
+      "imitate",
+      "duplicate",
+      "counterfeit"
+    ]
+  },
+  "immediate": {
+    "syns": [
+      "instant",
+      "urgent",
+      "pressing"
+    ],
+    "ant": "delayed",
+    "scale": [
+      "eventual",
+      "immediate",
+      "urgent",
+      "instantaneous"
+    ]
+  },
+  "immigrant": {
+    "syns": [
+      "newcomer",
+      "settler",
+      "migrant"
+    ],
+    "ant": "native",
+    "scale": [
+      "visitor",
+      "immigrant",
+      "settler",
+      "resident"
+    ]
+  },
+  "immigrate": {
+    "syns": [
+      "migrate",
+      "relocate",
+      "resettle"
+    ],
+    "ant": "emigrate",
+    "scale": [
+      "visit",
+      "immigrate",
+      "settle",
+      "establish"
+    ]
+  },
+  "immortal": {
+    "syns": [
+      "eternal",
+      "undying",
+      "deathless"
+    ],
+    "ant": "mortal",
+    "scale": [
+      "temporary",
+      "immortal",
+      "eternal",
+      "everlasting"
+    ]
+  },
+  "impact": {
+    "syns": [
+      "effect",
+      "influence",
+      "consequence"
+    ],
+    "ant": "harmony",
+    "scale": [
+      "nudge",
+      "impact",
+      "collision",
+      "crash"
+    ]
+  },
+  "implement": {
+    "syns": [
+      "execute",
+      "perform",
+      "apply"
+    ],
+    "ant": "neglect",
+    "scale": [
+      "plan",
+      "implement",
+      "execute",
+      "accomplish"
+    ]
+  },
+  "imply": {
+    "syns": [
+      "suggest",
+      "hint",
+      "indicate"
+    ],
+    "ant": "state",
+    "scale": [
+      "whisper",
+      "imply",
+      "suggest",
+      "insinuate"
+    ]
+  },
+  "import": {
+    "syns": [
+      "bring",
+      "introduce",
+      "deliver"
+    ],
+    "ant": "export",
+    "scale": [
+      "ship",
+      "import",
+      "transport",
+      "deliver"
+    ]
+  },
+  "impose": {
+    "syns": [
+      "force",
+      "inflict",
+      "burden"
+    ],
+    "ant": "offer",
+    "scale": [
+      "suggest",
+      "impose",
+      "enforce",
+      "compel"
+    ]
+  },
+  "impression": {
+    "syns": [
+      "feeling",
+      "sense",
+      "notion"
+    ],
+    "ant": "certainty",
+    "scale": [
+      "hunch",
+      "impression",
+      "feeling",
+      "conviction"
+    ]
+  },
+  "improvise": {
+    "syns": [
+      "extemporize",
+      "create",
+      "invent"
+    ],
+    "ant": "plan",
+    "scale": [
+      "stumble",
+      "improvise",
+      "ad-lib",
+      "spontaneously"
+    ]
+  },
+  "impulse": {
+    "syns": [
+      "urge",
+      "whim",
+      "desire"
+    ],
+    "ant": "restraint",
+    "scale": [
+      "thought",
+      "impulse",
+      "compulsion",
+      "obsession"
+    ]
+  },
+  "increase": {
+    "syns": [
+      "grow",
+      "expand",
+      "enlarge"
+    ],
+    "ant": "decrease",
+    "scale": [
+      "stabilize",
+      "increase",
+      "multiply",
+      "skyrocket"
+    ]
+  },
+  "increasing": {
+    "syns": [
+      "growing",
+      "expanding",
+      "rising"
+    ],
+    "ant": "declining",
+    "scale": [
+      "stable",
+      "increasing",
+      "accelerating",
+      "soaring"
+    ]
+  },
+  "incredible": {
+    "syns": [
+      "amazing",
+      "astonishing",
+      "remarkable"
+    ],
+    "ant": "ordinary",
+    "scale": [
+      "interesting",
+      "incredible",
+      "astounding",
+      "unbelievable"
+    ]
+  },
+  "independence": {
+    "syns": [
+      "freedom",
+      "autonomy",
+      "liberty"
+    ],
+    "ant": "dependence",
+    "scale": [
+      "assistance",
+      "independence",
+      "autonomy",
+      "self-sufficiency"
+    ]
+  },
+  "independent": {
+    "syns": [
+      "autonomous",
+      "self-reliant",
+      "free"
+    ],
+    "ant": "dependent",
+    "scale": [
+      "needy",
+      "independent",
+      "self-sufficient",
+      "autonomous"
+    ]
+  },
+  "indicate": {
+    "syns": [
+      "show",
+      "point",
+      "signify"
+    ],
+    "ant": "conceal",
+    "scale": [
+      "whisper",
+      "indicate",
+      "signal",
+      "proclaim"
+    ]
+  },
+  "indignant": {
+    "syns": [
+      "angry",
+      "offended",
+      "insulted"
+    ],
+    "ant": "pleased",
+    "scale": [
+      "annoyed",
+      "indignant",
+      "furious",
+      "enraged"
+    ]
+  },
+  "individual": {
+    "syns": [
+      "person",
+      "single",
+      "unique"
+    ],
+    "ant": "collective",
+    "scale": [
+      "similar",
+      "individual",
+      "distinct",
+      "unique"
+    ]
+  },
+  "infer": {
+    "syns": [
+      "deduce",
+      "conclude",
+      "assume"
+    ],
+    "ant": "state",
+    "scale": [
+      "guess",
+      "infer",
+      "deduce",
+      "conclude"
+    ]
+  },
+  "influence": {
+    "syns": [
+      "impact",
+      "effect",
+      "sway"
+    ],
+    "ant": "insignificance",
+    "scale": [
+      "suggestion",
+      "influence",
+      "persuasion",
+      "dominion"
+    ]
+  },
+  "inform": {
+    "syns": [
+      "tell",
+      "notify",
+      "advise"
+    ],
+    "ant": "conceal",
+    "scale": [
+      "hint",
+      "inform",
+      "explain",
+      "enlighten"
+    ]
+  },
+  "information": {
+    "syns": [
+      "facts",
+      "data",
+      "knowledge"
+    ],
+    "ant": "ignorance",
+    "scale": [
+      "rumor",
+      "information",
+      "knowledge",
+      "understanding"
+    ]
+  },
+  "inhabit": {
+    "syns": [
+      "dwell",
+      "occupy",
+      "reside"
+    ],
+    "ant": "abandon",
+    "scale": [
+      "visit",
+      "inhabit",
+      "settle",
+      "establish"
+    ]
+  },
+  "inhabitant": {
+    "syns": [
+      "resident",
+      "dweller",
+      "occupant"
+    ],
+    "ant": "outsider",
+    "scale": [
+      "visitor",
+      "inhabitant",
+      "resident",
+      "native"
+    ]
+  },
+  "initial": {
+    "syns": [
+      "first",
+      "original",
+      "opening"
+    ],
+    "ant": "final",
+    "scale": [
+      "early",
+      "initial",
+      "primary",
+      "first"
+    ]
+  },
+  "injure": {
+    "syns": [
+      "hurt",
+      "harm",
+      "wound"
+    ],
+    "ant": "heal",
+    "scale": [
+      "bruise",
+      "injure",
+      "wound",
+      "maim"
+    ]
+  },
+  "innovative": {
+    "syns": [
+      "creative",
+      "original",
+      "novel"
+    ],
+    "ant": "conventional",
+    "scale": [
+      "standard",
+      "innovative",
+      "groundbreaking",
+      "revolutionary"
+    ]
+  },
+  "input": {
+    "syns": [
+      "contribution",
+      "suggestion",
+      "feedback"
+    ],
+    "ant": "output",
+    "scale": [
+      "whisper",
+      "input",
+      "suggestion",
+      "contribution"
+    ]
+  },
+  "inquire": {
+    "syns": [
+      "ask",
+      "question",
+      "probe"
+    ],
+    "ant": "ignore",
+    "scale": [
+      "wonder",
+      "inquire",
+      "question",
+      "interrogate"
+    ]
+  },
+  "insert": {
+    "syns": [
+      "put",
+      "place",
+      "introduce"
+    ],
+    "ant": "remove",
+    "scale": [
+      "tuck",
+      "insert",
+      "embed",
+      "implant"
+    ]
+  },
+  "insist": {
+    "syns": [
+      "demand",
+      "persist",
+      "assert"
+    ],
+    "ant": "yield",
+    "scale": [
+      "suggest",
+      "insist",
+      "demand",
+      "compel"
+    ]
+  },
+  "insisted": {
+    "syns": [
+      "demanded",
+      "persisted",
+      "asserted"
+    ],
+    "ant": "yielded",
+    "scale": [
+      "suggested",
+      "insisted",
+      "demanded",
+      "compelled"
+    ]
+  },
+  "inspect": {
+    "syns": [
+      "examine",
+      "scrutinize",
+      "review"
+    ],
+    "ant": "ignore",
+    "scale": [
+      "glance",
+      "inspect",
+      "examine",
+      "scrutinize"
+    ]
+  },
+  "inspire": {
+    "syns": [
+      "motivate",
+      "encourage",
+      "stimulate"
+    ],
+    "ant": "discourage",
+    "scale": [
+      "suggest",
+      "inspire",
+      "encourage",
+      "motivate"
+    ]
+  },
+  "instance": {
+    "syns": [
+      "example",
+      "case",
+      "occurrence"
+    ],
+    "ant": "theory",
+    "scale": [
+      "mention",
+      "instance",
+      "example",
+      "illustration"
+    ]
+  },
+  "instant": {
+    "syns": [
+      "moment",
+      "second",
+      "immediate"
+    ],
+    "ant": "eternity",
+    "scale": [
+      "pause",
+      "instant",
+      "moment",
+      "second"
+    ]
+  },
+  "institute": {
+    "syns": [
+      "establish",
+      "create",
+      "start"
+    ],
+    "ant": "abolish",
+    "scale": [
+      "propose",
+      "institute",
+      "establish",
+      "found"
+    ]
+  },
+  "integrate": {
+    "syns": [
+      "combine",
+      "blend",
+      "merge"
+    ],
+    "ant": "separate",
+    "scale": [
+      "mix",
+      "integrate",
+      "blend",
+      "fuse"
+    ]
+  },
+  "integrity": {
+    "syns": [
+      "honesty",
+      "virtue",
+      "honor"
+    ],
+    "ant": "deception",
+    "scale": [
+      "fairness",
+      "integrity",
+      "honesty",
+      "virtue"
+    ]
+  },
+  "intelligence": {
+    "syns": [
+      "brainpower",
+      "smartness",
+      "ability"
+    ],
+    "ant": "stupidity",
+    "scale": [
+      "competence",
+      "intelligence",
+      "brilliance",
+      "genius"
+    ]
+  },
+  "intelligent": {
+    "syns": [
+      "smart",
+      "clever",
+      "bright"
+    ],
+    "ant": "stupid",
+    "scale": [
+      "capable",
+      "intelligent",
+      "bright",
+      "brilliant"
+    ]
+  },
+  "intend": {
+    "syns": [
+      "plan",
+      "mean",
+      "aim"
+    ],
+    "ant": "abandon",
+    "scale": [
+      "consider",
+      "intend",
+      "plan",
+      "determine"
+    ]
+  },
+  "intense": {
+    "syns": [
+      "strong",
+      "severe",
+      "extreme"
+    ],
+    "ant": "mild",
+    "scale": [
+      "moderate",
+      "intense",
+      "severe",
+      "extreme"
+    ]
+  },
+  "intent": {
+    "syns": [
+      "purpose",
+      "aim",
+      "goal"
+    ],
+    "ant": "accident",
+    "scale": [
+      "thought",
+      "intent",
+      "purpose",
+      "determination"
+    ]
+  },
+  "interfere": {
+    "syns": [
+      "meddle",
+      "interrupt",
+      "intrude"
+    ],
+    "ant": "assist",
+    "scale": [
+      "distract",
+      "interfere",
+      "obstruct",
+      "disrupt"
+    ]
+  },
+  "internal": {
+    "syns": [
+      "inner",
+      "inside",
+      "interior"
+    ],
+    "ant": "external",
+    "scale": [
+      "hidden",
+      "internal",
+      "deep",
+      "innermost"
+    ]
+  },
+  "interpret": {
+    "syns": [
+      "explain",
+      "understand",
+      "translate"
+    ],
+    "ant": "misunderstand",
+    "scale": [
+      "guess",
+      "interpret",
+      "explain",
+      "clarify"
+    ]
+  },
+  "interrupt": {
+    "syns": [
+      "break",
+      "stop",
+      "disturb"
+    ],
+    "ant": "continue",
+    "scale": [
+      "distract",
+      "interrupt",
+      "halt",
+      "stop"
+    ]
+  },
+  "interval": {
+    "syns": [
+      "pause",
+      "gap",
+      "space"
+    ],
+    "ant": "continuity",
+    "scale": [
+      "moment",
+      "interval",
+      "gap",
+      "separation"
+    ]
+  },
+  "invest": {
+    "syns": [
+      "put",
+      "spend",
+      "commit"
+    ],
+    "ant": "withdraw",
+    "scale": [
+      "try",
+      "invest",
+      "commit",
+      "dedicate"
+    ]
+  },
+  "investigate": {
+    "syns": [
+      "examine",
+      "explore",
+      "probe"
+    ],
+    "ant": "ignore",
+    "scale": [
+      "look",
+      "investigate",
+      "examine",
+      "analyze"
+    ]
+  },
+  "involve": {
+    "syns": [
+      "include",
+      "engage",
+      "require"
+    ],
+    "ant": "exclude",
+    "scale": [
+      "mention",
+      "involve",
+      "include",
+      "engage"
+    ]
+  },
+  "irritate": {
+    "syns": [
+      "annoy",
+      "bother",
+      "vex"
+    ],
+    "ant": "please",
+    "scale": [
+      "tickle",
+      "irritate",
+      "annoy",
+      "infuriate"
+    ]
+  },
+  "island": {
+    "syns": [
+      "isle",
+      "atoll",
+      "landmass"
+    ],
+    "ant": "mainland",
+    "scale": [
+      "rock",
+      "island",
+      "landmass",
+      "continent"
+    ]
+  },
+  "isolate": {
+    "syns": [
+      "separate",
+      "detach",
+      "seclude"
+    ],
+    "ant": "integrate",
+    "scale": [
+      "distance",
+      "isolate",
+      "separate",
+      "segregate"
+    ]
+  },
+  "issue": {
+    "syns": [
+      "problem",
+      "topic",
+      "concern"
+    ],
+    "ant": "solution",
+    "scale": [
+      "matter",
+      "issue",
+      "problem",
+      "crisis"
+    ]
+  },
+  "jagged": {
+    "syns": [
+      "sharp",
+      "uneven",
+      "ragged"
+    ],
+    "ant": "smooth",
+    "scale": [
+      "bumpy",
+      "jagged",
+      "rough",
+      "spiky"
+    ]
+  },
+  "jeer": {
+    "syns": [
+      "mock",
+      "taunt",
+      "ridicule"
+    ],
+    "ant": "praise",
+    "scale": [
+      "tease",
+      "jeer",
+      "mock",
+      "ridicule"
+    ]
+  },
+  "jeopardize": {
+    "syns": [
+      "endanger",
+      "risk",
+      "threaten"
+    ],
+    "ant": "protect",
+    "scale": [
+      "threaten",
+      "jeopardize",
+      "endanger",
+      "imperil"
+    ]
+  },
+  "jest": {
+    "syns": [
+      "joke",
+      "quip",
+      "witticism"
+    ],
+    "ant": "seriousness",
+    "scale": [
+      "comment",
+      "jest",
+      "joke",
+      "witticism"
+    ]
+  },
+  "jewellery": {
+    "syns": [
+      "gems",
+      "adornments",
+      "ornaments"
+    ],
+    "ant": "plainness",
+    "scale": [
+      "beads",
+      "jewellery",
+      "gems",
+      "treasures"
+    ]
+  },
+  "jostle": {
+    "syns": [
+      "bump",
+      "push",
+      "shove"
+    ],
+    "ant": "caress",
+    "scale": [
+      "nudge",
+      "jostle",
+      "shove",
+      "slam"
+    ]
+  },
+  "journal": {
+    "syns": [
+      "diary",
+      "log",
+      "record"
+    ],
+    "ant": "fiction",
+    "scale": [
+      "notes",
+      "journal",
+      "record",
+      "chronicle"
+    ]
+  },
+  "journey": {
+    "syns": [
+      "trip",
+      "voyage",
+      "travel"
+    ],
+    "ant": "stay",
+    "scale": [
+      "walk",
+      "journey",
+      "expedition",
+      "odyssey"
+    ]
+  },
+  "jubilant": {
+    "syns": [
+      "joyful",
+      "elated",
+      "overjoyed"
+    ],
+    "ant": "sad",
+    "scale": [
+      "happy",
+      "jubilant",
+      "delighted",
+      "ecstatic"
+    ]
+  },
+  "jubilation": {
+    "syns": [
+      "joy",
+      "celebration",
+      "delight"
+    ],
+    "ant": "sorrow",
+    "scale": [
+      "happiness",
+      "jubilation",
+      "elation",
+      "ecstasy"
+    ]
+  },
+  "jungle": {
+    "syns": [
+      "forest",
+      "wilderness",
+      "bush"
+    ],
+    "ant": "desert",
+    "scale": [
+      "woods",
+      "jungle",
+      "rainforest",
+      "wilderness"
+    ]
+  },
+  "junior": {
+    "syns": [
+      "younger",
+      "lower",
+      "lesser"
+    ],
+    "ant": "senior",
+    "scale": [
+      "younger",
+      "junior",
+      "apprentice",
+      "subordinate"
+    ]
+  },
+  "justify": {
+    "syns": [
+      "explain",
+      "defend",
+      "warrant"
+    ],
+    "ant": "condemn",
+    "scale": [
+      "excuse",
+      "justify",
+      "defend",
+      "vindicate"
+    ]
+  },
+  "keen": {
+    "syns": [
+      "eager",
+      "enthusiastic",
+      "avid"
+    ],
+    "ant": "apathetic",
+    "scale": [
+      "interested",
+      "keen",
+      "enthusiastic",
+      "passionate"
+    ]
+  },
+  "kimono": {
+    "syns": [
+      "robe",
+      "garment",
+      "dress"
+    ],
+    "ant": "nudity",
+    "scale": [
+      "clothing",
+      "kimono",
+      "robe",
+      "gown"
+    ]
+  },
+  "kindle": {
+    "syns": [
+      "ignite",
+      "light",
+      "spark"
+    ],
+    "ant": "extinguish",
+    "scale": [
+      "warm",
+      "kindle",
+      "ignite",
+      "blaze"
+    ]
+  },
+  "knack": {
+    "syns": [
+      "talent",
+      "skill",
+      "ability"
+    ],
+    "ant": "incapacity",
+    "scale": [
+      "skill",
+      "knack",
+      "talent",
+      "expertise"
+    ]
+  },
+  "knowledge": {
+    "syns": [
+      "understanding",
+      "awareness",
+      "learning"
+    ],
+    "ant": "ignorance",
+    "scale": [
+      "idea",
+      "knowledge",
+      "understanding",
+      "expertise"
+    ]
+  },
+  "kudos": {
+    "syns": [
+      "praise",
+      "acclaim",
+      "recognition"
+    ],
+    "ant": "criticism",
+    "scale": [
+      "compliment",
+      "kudos",
+      "acclaim",
+      "adulation"
+    ]
+  },
+  "label": {
+    "syns": [
+      "tag",
+      "mark",
+      "sticker"
+    ],
+    "ant": "hide",
+    "scale": [
+      "mark",
+      "label",
+      "tag",
+      "designation"
+    ]
+  },
+  "labor": {
+    "syns": [
+      "work",
+      "toil",
+      "effort"
+    ],
+    "ant": "rest",
+    "scale": [
+      "task",
+      "labor",
+      "toil",
+      "drudgery"
+    ]
+  },
+  "ladder": {
+    "syns": [
+      "steps",
+      "stairway",
+      "rung"
+    ],
+    "ant": "descent",
+    "scale": [
+      "step",
+      "ladder",
+      "staircase",
+      "tower"
+    ]
+  },
+  "lamp": {
+    "syns": [
+      "light",
+      "fixture",
+      "bulb"
+    ],
+    "ant": "darkness",
+    "scale": [
+      "glow",
+      "lamp",
+      "beacon",
+      "floodlight"
+    ]
+  },
+  "landscape": {
+    "syns": [
+      "scenery",
+      "terrain",
+      "vista"
+    ],
+    "ant": "interior",
+    "scale": [
+      "view",
+      "landscape",
+      "terrain",
+      "panorama"
+    ]
+  },
+  "language": {
+    "syns": [
+      "speech",
+      "tongue",
+      "words"
+    ],
+    "ant": "silence",
+    "scale": [
+      "sound",
+      "language",
+      "discourse",
+      "eloquence"
+    ]
+  },
+  "layer": {
+    "syns": [
+      "level",
+      "stratum",
+      "coating"
+    ],
+    "ant": "unity",
+    "scale": [
+      "sheet",
+      "layer",
+      "stratum",
+      "depth"
+    ]
+  },
+  "lecture": {
+    "syns": [
+      "talk",
+      "speech",
+      "presentation"
+    ],
+    "ant": "silence",
+    "scale": [
+      "comment",
+      "lecture",
+      "discourse",
+      "oration"
+    ]
+  },
+  "legal": {
+    "syns": [
+      "lawful",
+      "permitted",
+      "valid"
+    ],
+    "ant": "illegal",
+    "scale": [
+      "allowed",
+      "legal",
+      "legitimate",
+      "constitutional"
+    ]
+  },
+  "legend": {
+    "syns": [
+      "tale",
+      "story",
+      "myth"
+    ],
+    "ant": "reality",
+    "scale": [
+      "story",
+      "legend",
+      "myth",
+      "folklore"
+    ]
+  },
+  "legendary": {
+    "syns": [
+      "famous",
+      "renowned",
+      "mythical"
+    ],
+    "ant": "obscure",
+    "scale": [
+      "notable",
+      "legendary",
+      "famed",
+      "immortal"
+    ]
+  },
+  "legitimate": {
+    "syns": [
+      "valid",
+      "genuine",
+      "authentic"
+    ],
+    "ant": "counterfeit",
+    "scale": [
+      "reasonable",
+      "legitimate",
+      "authentic",
+      "genuine"
+    ]
+  },
+  "leisure": {
+    "syns": [
+      "free time",
+      "relaxation",
+      "rest"
+    ],
+    "ant": "work",
+    "scale": [
+      "pause",
+      "leisure",
+      "relaxation",
+      "vacation"
+    ]
+  },
+  "liberal": {
+    "syns": [
+      "generous",
+      "open-minded",
+      "progressive"
+    ],
+    "ant": "conservative",
+    "scale": [
+      "moderate",
+      "liberal",
+      "progressive",
+      "radical"
+    ]
+  },
+  "liberate": {
+    "syns": [
+      "free",
+      "release",
+      "emancipate"
+    ],
+    "ant": "enslave",
+    "scale": [
+      "release",
+      "liberate",
+      "free",
+      "emancipate"
+    ]
+  },
+  "liberty": {
+    "syns": [
+      "freedom",
+      "independence",
+      "rights"
+    ],
+    "ant": "captivity",
+    "scale": [
+      "choice",
+      "liberty",
+      "freedom",
+      "independence"
+    ]
+  },
+  "lightning": {
+    "syns": [
+      "bolt",
+      "flash",
+      "electricity"
+    ],
+    "ant": "darkness",
+    "scale": [
+      "spark",
+      "lightning",
+      "flash",
+      "thunder"
+    ]
+  },
+  "likewise": {
+    "syns": [
+      "similarly",
+      "also",
+      "likewise"
+    ],
+    "ant": "differently",
+    "scale": [
+      "also",
+      "likewise",
+      "similarly",
+      "identically"
+    ]
+  },
+  "limit": {
+    "syns": [
+      "boundary",
+      "cap",
+      "restrict"
+    ],
+    "ant": "expand",
+    "scale": [
+      "edge",
+      "limit",
+      "boundary",
+      "cap"
+    ]
+  },
+  "linger": {
+    "syns": [
+      "remain",
+      "stay",
+      "dawdle"
+    ],
+    "ant": "hurry",
+    "scale": [
+      "pause",
+      "linger",
+      "remain",
+      "loiter"
+    ]
+  },
+  "link": {
+    "syns": [
+      "connect",
+      "bond",
+      "tie"
+    ],
+    "ant": "separate",
+    "scale": [
+      "touch",
+      "link",
+      "connect",
+      "bind"
+    ]
+  },
+  "literal": {
+    "syns": [
+      "exact",
+      "precise",
+      "word-for-word"
+    ],
+    "ant": "figurative",
+    "scale": [
+      "plain",
+      "literal",
+      "exact",
+      "precise"
+    ]
+  },
+  "local": {
+    "syns": [
+      "nearby",
+      "regional",
+      "community"
+    ],
+    "ant": "distant",
+    "scale": [
+      "near",
+      "local",
+      "regional",
+      "neighborhood"
+    ]
+  },
+  "locate": {
+    "syns": [
+      "find",
+      "discover",
+      "pinpoint"
+    ],
+    "ant": "lose",
+    "scale": [
+      "search",
+      "locate",
+      "find",
+      "pinpoint"
+    ]
+  },
+  "lodge": {
+    "syns": [
+      "cabin",
+      "shelter",
+      "stay"
+    ],
+    "ant": "leave",
+    "scale": [
+      "shelter",
+      "lodge",
+      "cabin",
+      "manor"
+    ]
+  },
+  "lofty": {
+    "syns": [
+      "high",
+      "elevated",
+      "noble"
+    ],
+    "ant": "humble",
+    "scale": [
+      "tall",
+      "lofty",
+      "towering",
+      "soaring"
+    ]
+  },
+  "logic": {
+    "syns": [
+      "reason",
+      "rationale",
+      "sense"
+    ],
+    "ant": "irrationality",
+    "scale": [
+      "thought",
+      "logic",
+      "reasoning",
+      "analysis"
+    ]
+  },
+  "loyal": {
+    "syns": [
+      "faithful",
+      "devoted",
+      "true"
+    ],
+    "ant": "disloyal",
+    "scale": [
+      "reliable",
+      "loyal",
+      "devoted",
+      "faithful"
+    ]
+  },
+  "luggage": {
+    "syns": [
+      "baggage",
+      "suitcase",
+      "bags"
+    ],
+    "ant": "emptiness",
+    "scale": [
+      "bag",
+      "luggage",
+      "baggage",
+      "cargo"
+    ]
+  },
+  "luxurious": {
+    "syns": [
+      "fancy",
+      "lavish",
+      "elegant"
+    ],
+    "ant": "plain",
+    "scale": [
+      "nice",
+      "luxurious",
+      "lavish",
+      "sumptuous"
+    ]
+  },
+  "luxury": {
+    "syns": [
+      "comfort",
+      "pleasure",
+      "indulgence"
+    ],
+    "ant": "poverty",
+    "scale": [
+      "comfort",
+      "luxury",
+      "indulgence",
+      "opulence"
+    ]
+  },
+  "magazine": {
+    "syns": [
+      "periodical",
+      "journal",
+      "publication"
+    ],
+    "ant": "book",
+    "scale": [
+      "pamphlet",
+      "magazine",
+      "journal",
+      "publication"
+    ]
+  },
+  "magnanimous": {
+    "syns": [
+      "generous",
+      "noble",
+      "forgiving"
+    ],
+    "ant": "petty",
+    "scale": [
+      "kind",
+      "magnanimous",
+      "noble",
+      "generous"
+    ]
+  },
+  "magnificent": {
+    "syns": [
+      "splendid",
+      "grand",
+      "impressive"
+    ],
+    "ant": "humble",
+    "scale": [
+      "beautiful",
+      "magnificent",
+      "grand",
+      "glorious"
+    ]
+  },
+  "maim": {
+    "syns": [
+      "disable",
+      "injure",
+      "wound"
+    ],
+    "ant": "heal",
+    "scale": [
+      "hurt",
+      "maim",
+      "injure",
+      "cripple"
+    ]
+  },
+  "major": {
+    "syns": [
+      "significant",
+      "important",
+      "main"
+    ],
+    "ant": "minor",
+    "scale": [
+      "notable",
+      "major",
+      "significant",
+      "principal"
+    ]
+  },
+  "majority": {
+    "syns": [
+      "most",
+      "greater number",
+      "bulk"
+    ],
+    "ant": "minority",
+    "scale": [
+      "many",
+      "majority",
+      "most",
+      "preponderance"
+    ]
+  },
+  "mammoth": {
+    "syns": [
+      "huge",
+      "enormous",
+      "giant"
+    ],
+    "ant": "tiny",
+    "scale": [
+      "large",
+      "mammoth",
+      "enormous",
+      "colossal"
+    ]
+  },
+  "manipulate": {
+    "syns": [
+      "control",
+      "manage",
+      "handle"
+    ],
+    "ant": "liberate",
+    "scale": [
+      "guide",
+      "manipulate",
+      "control",
+      "dominate"
+    ]
+  },
+  "marine": {
+    "syns": [
+      "ocean",
+      "nautical",
+      "seagoing"
+    ],
+    "ant": "terrestrial",
+    "scale": [
+      "water",
+      "marine",
+      "oceanic",
+      "maritime"
+    ]
+  },
+  "market": {
+    "syns": [
+      "store",
+      "bazaar",
+      "exchange"
+    ],
+    "ant": "stockpile",
+    "scale": [
+      "shop",
+      "market",
+      "bazaar",
+      "marketplace"
+    ]
+  },
+  "marsh": {
+    "syns": [
+      "swamp",
+      "bog",
+      "wetland"
+    ],
+    "ant": "desert",
+    "scale": [
+      "wet",
+      "marsh",
+      "swamp",
+      "bog"
+    ]
+  },
+  "marvel": {
+    "syns": [
+      "wonder",
+      "miracle",
+      "spectacle"
+    ],
+    "ant": "disappointment",
+    "scale": [
+      "sight",
+      "marvel",
+      "wonder",
+      "spectacle"
+    ]
+  },
+  "marvellous": {
+    "syns": [
+      "wonderful",
+      "amazing",
+      "fantastic"
+    ],
+    "ant": "awful",
+    "scale": [
+      "good",
+      "marvellous",
+      "wonderful",
+      "fantastic"
+    ]
+  },
+  "massacre": {
+    "syns": [
+      "slaughter",
+      "carnage",
+      "killing"
+    ],
+    "ant": "salvation",
+    "scale": [
+      "attack",
+      "massacre",
+      "slaughter",
+      "carnage"
+    ]
+  },
+  "massive": {
+    "syns": [
+      "huge",
+      "enormous",
+      "gigantic"
+    ],
+    "ant": "tiny",
+    "scale": [
+      "large",
+      "massive",
+      "enormous",
+      "colossal"
+    ]
+  },
+  "mast": {
+    "syns": [
+      "pole",
+      "post",
+      "tower"
+    ],
+    "ant": "base",
+    "scale": [
+      "stick",
+      "mast",
+      "pole",
+      "tower"
+    ]
+  },
+  "mature": {
+    "syns": [
+      "adult",
+      "ripe",
+      "developed"
+    ],
+    "ant": "immature",
+    "scale": [
+      "grown",
+      "mature",
+      "developed",
+      "seasoned"
+    ]
+  },
+  "maximize": {
+    "syns": [
+      "increase",
+      "expand",
+      "enlarge"
+    ],
+    "ant": "minimize",
+    "scale": [
+      "boost",
+      "maximize",
+      "increase",
+      "amplify"
+    ]
+  },
+  "maximum": {
+    "syns": [
+      "highest",
+      "most",
+      "utmost"
+    ],
+    "ant": "minimum",
+    "scale": [
+      "high",
+      "maximum",
+      "peak",
+      "extreme"
+    ]
+  },
+  "meadow": {
+    "syns": [
+      "field",
+      "grassland",
+      "pasture"
+    ],
+    "ant": "desert",
+    "scale": [
+      "grass",
+      "meadow",
+      "field",
+      "prairie"
+    ]
+  },
+  "measure": {
+    "syns": [
+      "gauge",
+      "assess",
+      "evaluate"
+    ],
+    "ant": "guess",
+    "scale": [
+      "estimate",
+      "measure",
+      "calculate",
+      "evaluate"
+    ]
+  },
+  "mechanic": {
+    "syns": [
+      "technician",
+      "engineer",
+      "operator"
+    ],
+    "ant": "amateur",
+    "scale": [
+      "worker",
+      "mechanic",
+      "technician",
+      "engineer"
+    ]
+  },
+  "media": {
+    "syns": [
+      "press",
+      "news",
+      "communication"
+    ],
+    "ant": "silence",
+    "scale": [
+      "channel",
+      "media",
+      "press",
+      "broadcast"
+    ]
+  },
+  "meek": {
+    "syns": [
+      "humble",
+      "gentle",
+      "mild"
+    ],
+    "ant": "arrogant",
+    "scale": [
+      "quiet",
+      "meek",
+      "humble",
+      "submissive"
+    ]
+  },
+  "melancholy": {
+    "syns": [
+      "sadness",
+      "gloom",
+      "sorrow"
+    ],
+    "ant": "happiness",
+    "scale": [
+      "sadness",
+      "melancholy",
+      "depression",
+      "despair"
+    ]
+  },
+  "mention": {
+    "syns": [
+      "reference",
+      "cite",
+      "note"
+    ],
+    "ant": "ignore",
+    "scale": [
+      "hint",
+      "mention",
+      "reference",
+      "cite"
+    ]
+  },
+  "merchant": {
+    "syns": [
+      "trader",
+      "vendor",
+      "dealer"
+    ],
+    "ant": "customer",
+    "scale": [
+      "seller",
+      "merchant",
+      "trader",
+      "businessman"
+    ]
+  },
+  "rustic": {
+    "syns": [
+      "simple",
+      "country",
+      "old-fashioned"
+    ],
+    "ant": "modern",
+    "scale": [
+      "slightly rustic",
+      "rustic",
+      "very rustic",
+      "very old-fashioned"
+    ]
+  },
+  "sacred": {
+    "syns": [
+      "holy",
+      "blessed",
+      "divine"
+    ],
+    "ant": "profane",
+    "scale": [
+      "somewhat sacred",
+      "sacred",
+      "very sacred",
+      "most sacred"
+    ]
+  },
+  "sacrifice": {
+    "syns": [
+      "give up",
+      "offer",
+      "surrender"
+    ],
+    "ant": "take",
+    "scale": [
+      "small loss",
+      "sacrifice",
+      "large loss",
+      "complete loss"
+    ]
+  },
+  "sailor": {
+    "syns": [
+      "seaman",
+      "mariner",
+      "seafarer"
+    ],
+    "ant": "landlubber",
+    "scale": [
+      "inexperienced sailor",
+      "sailor",
+      "skilled sailor",
+      "master sailor"
+    ]
+  },
+  "salary": {
+    "syns": [
+      "pay",
+      "wage",
+      "income"
+    ],
+    "ant": "debt",
+    "scale": [
+      "low pay",
+      "salary",
+      "good pay",
+      "high salary"
+    ]
+  },
+  "sanctuary": {
+    "syns": [
+      "refuge",
+      "shelter",
+      "safe place"
+    ],
+    "ant": "danger",
+    "scale": [
+      "basic shelter",
+      "sanctuary",
+      "good sanctuary",
+      "perfect refuge"
+    ]
+  },
+  "sauntered": {
+    "syns": [
+      "walked slowly",
+      "strolled",
+      "wandered"
+    ],
+    "ant": "rushed",
+    "scale": [
+      "slow walk",
+      "sauntered",
+      "very slow walk",
+      "leisurely stroll"
+    ]
+  },
+  "scar": {
+    "syns": [
+      "mark",
+      "wound",
+      "injury"
+    ],
+    "ant": "healing",
+    "scale": [
+      "faint mark",
+      "scar",
+      "visible scar",
+      "deep scar"
+    ]
+  },
+  "scarce": {
+    "syns": [
+      "rare",
+      "limited",
+      "few"
+    ],
+    "ant": "abundant",
+    "scale": [
+      "somewhat limited",
+      "scarce",
+      "very rare",
+      "nearly gone"
+    ]
+  },
+  "scarf": {
+    "syns": [
+      "wrap",
+      "covering",
+      "cloth"
+    ],
+    "ant": "exposure",
+    "scale": [
+      "light wrap",
+      "scarf",
+      "thick scarf",
+      "heavy wrap"
+    ]
+  },
+  "scatter": {
+    "syns": [
+      "spread",
+      "disperse",
+      "throw"
+    ],
+    "ant": "gather",
+    "scale": [
+      "slightly spread",
+      "scatter",
+      "widely spread",
+      "completely dispersed"
+    ]
+  },
+  "scenario": {
+    "syns": [
+      "situation",
+      "scene",
+      "setting"
+    ],
+    "ant": "chaos",
+    "scale": [
+      "simple situation",
+      "scenario",
+      "complex scenario",
+      "complicated situation"
+    ]
+  },
+  "scene": {
+    "syns": [
+      "view",
+      "sight",
+      "setting"
+    ],
+    "ant": "darkness",
+    "scale": [
+      "dim view",
+      "scene",
+      "clear scene",
+      "bright scene"
+    ]
+  },
+  "schedule": {
+    "syns": [
+      "plan",
+      "timetable",
+      "list"
+    ],
+    "ant": "random",
+    "scale": [
+      "loose plan",
+      "schedule",
+      "strict schedule",
+      "rigid timetable"
+    ]
+  },
+  "scheme": {
+    "syns": [
+      "plan",
+      "plot",
+      "design"
+    ],
+    "ant": "accident",
+    "scale": [
+      "simple plan",
+      "scheme",
+      "complex scheme",
+      "elaborate plot"
+    ]
+  },
+  "scientist": {
+    "syns": [
+      "researcher",
+      "expert",
+      "scholar"
+    ],
+    "ant": "amateur",
+    "scale": [
+      "junior researcher",
+      "scientist",
+      "senior scientist",
+      "leading expert"
+    ]
+  },
+  "scope": {
+    "syns": [
+      "range",
+      "extent",
+      "limit"
+    ],
+    "ant": "nothing",
+    "scale": [
+      "narrow range",
+      "scope",
+      "wide range",
+      "unlimited extent"
+    ]
+  },
+  "scramble": {
+    "syns": [
+      "rush",
+      "climb",
+      "hurry"
+    ],
+    "ant": "relax",
+    "scale": [
+      "slow climb",
+      "scramble",
+      "fast climb",
+      "rapid rush"
+    ]
+  },
+  "secretary": {
+    "syns": [
+      "assistant",
+      "clerk",
+      "helper"
+    ],
+    "ant": "boss",
+    "scale": [
+      "junior assistant",
+      "secretary",
+      "senior secretary",
+      "office manager"
+    ]
+  },
+  "section": {
+    "syns": [
+      "part",
+      "piece",
+      "portion"
+    ],
+    "ant": "whole",
+    "scale": [
+      "small piece",
+      "section",
+      "large section",
+      "major part"
+    ]
+  },
+  "sector": {
+    "syns": [
+      "area",
+      "part",
+      "region"
+    ],
+    "ant": "whole",
+    "scale": [
+      "small area",
+      "sector",
+      "large sector",
+      "major region"
+    ]
+  },
+  "secure": {
+    "syns": [
+      "safe",
+      "protected",
+      "locked"
+    ],
+    "ant": "dangerous",
+    "scale": [
+      "somewhat safe",
+      "secure",
+      "very safe",
+      "completely secure"
+    ]
+  },
+  "seek": {
+    "syns": [
+      "search",
+      "hunt",
+      "look for"
+    ],
+    "ant": "abandon",
+    "scale": [
+      "casual search",
+      "seek",
+      "careful search",
+      "intense search"
+    ]
+  },
+  "seldom": {
+    "syns": [
+      "rarely",
+      "hardly ever",
+      "infrequently"
+    ],
+    "ant": "often",
+    "scale": [
+      "almost never",
+      "seldom",
+      "very rarely",
+      "once in a lifetime"
+    ]
+  },
+  "sensitive": {
+    "syns": [
+      "tender",
+      "delicate",
+      "aware"
+    ],
+    "ant": "tough",
+    "scale": [
+      "somewhat sensitive",
+      "sensitive",
+      "very sensitive",
+      "extremely delicate"
+    ]
+  },
+  "separate": {
+    "syns": [
+      "divide",
+      "split",
+      "part"
+    ],
+    "ant": "join",
+    "scale": [
+      "slightly apart",
+      "separate",
+      "far apart",
+      "completely divided"
+    ]
+  },
+  "sequence": {
+    "syns": [
+      "order",
+      "series",
+      "pattern"
+    ],
+    "ant": "chaos",
+    "scale": [
+      "loose order",
+      "sequence",
+      "strict order",
+      "perfect sequence"
+    ]
+  },
+  "series": {
+    "syns": [
+      "group",
+      "sequence",
+      "set"
+    ],
+    "ant": "single",
+    "scale": [
+      "few items",
+      "series",
+      "many items",
+      "long series"
+    ]
+  },
+  "settlement": {
+    "syns": [
+      "agreement",
+      "town",
+      "colony"
+    ],
+    "ant": "conflict",
+    "scale": [
+      "partial agreement",
+      "settlement",
+      "fair agreement",
+      "final settlement"
+    ]
+  },
+  "severe": {
+    "syns": [
+      "serious",
+      "harsh",
+      "strict"
+    ],
+    "ant": "mild",
+    "scale": [
+      "somewhat serious",
+      "severe",
+      "very serious",
+      "extremely harsh"
+    ]
+  },
+  "shabby": {
+    "syns": [
+      "worn",
+      "old",
+      "tattered"
+    ],
+    "ant": "new",
+    "scale": [
+      "slightly worn",
+      "shabby",
+      "very worn",
+      "falling apart"
+    ]
+  },
+  "shallow": {
+    "syns": [
+      "not deep",
+      "surface",
+      "superficial"
+    ],
+    "ant": "deep",
+    "scale": [
+      "slightly shallow",
+      "shallow",
+      "very shallow",
+      "ankle-deep"
+    ]
+  },
+  "shark": {
+    "syns": [
+      "predator",
+      "fish",
+      "hunter"
+    ],
+    "ant": "prey",
+    "scale": [
+      "small shark",
+      "shark",
+      "large shark",
+      "great white"
+    ]
+  },
+  "shatter": {
+    "syns": [
+      "break",
+      "smash",
+      "crack"
+    ],
+    "ant": "mend",
+    "scale": [
+      "crack",
+      "shatter",
+      "splinter",
+      "break completely"
+    ]
+  },
+  "shelter": {
+    "syns": [
+      "protection",
+      "refuge",
+      "cover"
+    ],
+    "ant": "exposure",
+    "scale": [
+      "basic shelter",
+      "shelter",
+      "good shelter",
+      "perfect refuge"
+    ]
+  },
+  "shift": {
+    "syns": [
+      "change",
+      "move",
+      "turn"
+    ],
+    "ant": "stay",
+    "scale": [
+      "slight move",
+      "shift",
+      "major move",
+      "complete change"
+    ]
+  },
+  "shipwreck": {
+    "syns": [
+      "wreck",
+      "disaster",
+      "sinking"
+    ],
+    "ant": "safe harbor",
+    "scale": [
+      "minor damage",
+      "shipwreck",
+      "major wreck",
+      "total loss"
+    ]
+  },
+  "shiver": {
+    "syns": [
+      "shake",
+      "tremble",
+      "quiver"
+    ],
+    "ant": "stillness",
+    "scale": [
+      "slight tremble",
+      "shiver",
+      "strong shake",
+      "violent shaking"
+    ]
+  },
+  "shoulder": {
+    "syns": [
+      "support",
+      "carry",
+      "bear"
+    ],
+    "ant": "drop",
+    "scale": [
+      "light support",
+      "shoulder",
+      "heavy burden",
+      "great weight"
+    ]
+  },
+  "signal": {
+    "syns": [
+      "sign",
+      "gesture",
+      "indication"
+    ],
+    "ant": "silence",
+    "scale": [
+      "faint sign",
+      "signal",
+      "clear sign",
+      "obvious signal"
+    ]
+  },
+  "signature": {
+    "syns": [
+      "sign",
+      "mark",
+      "autograph"
+    ],
+    "ant": "blank",
+    "scale": [
+      "unclear mark",
+      "signature",
+      "clear signature",
+      "perfect autograph"
+    ]
+  },
+  "significant": {
+    "syns": [
+      "important",
+      "meaningful",
+      "major"
+    ],
+    "ant": "minor",
+    "scale": [
+      "somewhat important",
+      "significant",
+      "very important",
+      "extremely important"
+    ]
+  },
+  "similar": {
+    "syns": [
+      "alike",
+      "comparable",
+      "matching"
+    ],
+    "ant": "different",
+    "scale": [
+      "somewhat alike",
+      "similar",
+      "very alike",
+      "nearly identical"
+    ]
+  },
+  "simile": {
+    "syns": [
+      "comparison",
+      "metaphor",
+      "like"
+    ],
+    "ant": "difference",
+    "scale": [
+      "weak comparison",
+      "simile",
+      "good comparison",
+      "perfect simile"
+    ]
+  },
+  "simplify": {
+    "syns": [
+      "make easy",
+      "clarify",
+      "reduce"
+    ],
+    "ant": "complicate",
+    "scale": [
+      "slightly easier",
+      "simplify",
+      "very easy",
+      "extremely simple"
+    ]
+  },
+  "simulate": {
+    "syns": [
+      "imitate",
+      "pretend",
+      "mimic"
+    ],
+    "ant": "authentic",
+    "scale": [
+      "rough copy",
+      "simulate",
+      "good copy",
+      "perfect replica"
+    ]
+  },
+  "sincere": {
+    "syns": [
+      "honest",
+      "genuine",
+      "true"
+    ],
+    "ant": "fake",
+    "scale": [
+      "somewhat honest",
+      "sincere",
+      "very honest",
+      "completely genuine"
+    ]
+  },
+  "site": {
+    "syns": [
+      "location",
+      "place",
+      "spot"
+    ],
+    "ant": "nowhere",
+    "scale": [
+      "small area",
+      "site",
+      "large area",
+      "major location"
+    ]
+  },
+  "sketch": {
+    "syns": [
+      "drawing",
+      "outline",
+      "draft"
+    ],
+    "ant": "finished work",
+    "scale": [
+      "rough outline",
+      "sketch",
+      "detailed sketch",
+      "detailed drawing"
+    ]
+  },
+  "slipper": {
+    "syns": [
+      "shoe",
+      "indoor shoe",
+      "footwear"
+    ],
+    "ant": "boot",
+    "scale": [
+      "thin slipper",
+      "slipper",
+      "thick slipper",
+      "warm slipper"
+    ]
+  },
+  "slumber": {
+    "syns": [
+      "sleep",
+      "rest",
+      "nap"
+    ],
+    "ant": "awake",
+    "scale": [
+      "light sleep",
+      "slumber",
+      "deep sleep",
+      "sound sleep"
+    ]
+  },
+  "soar": {
+    "syns": [
+      "fly high",
+      "rise",
+      "ascend"
+    ],
+    "ant": "fall",
+    "scale": [
+      "slow rise",
+      "soar",
+      "rapid rise",
+      "swift ascent"
+    ]
+  },
+  "sole": {
+    "syns": [
+      "only",
+      "single",
+      "alone"
+    ],
+    "ant": "multiple",
+    "scale": [
+      "mostly one",
+      "sole",
+      "completely alone",
+      "one and only"
+    ]
+  },
+  "solemn": {
+    "syns": [
+      "serious",
+      "grave",
+      "formal"
+    ],
+    "ant": "cheerful",
+    "scale": [
+      "somewhat serious",
+      "solemn",
+      "very serious",
+      "extremely grave"
+    ]
+  },
+  "solid": {
+    "syns": [
+      "hard",
+      "firm",
+      "strong"
+    ],
+    "ant": "liquid",
+    "scale": [
+      "somewhat firm",
+      "solid",
+      "very firm",
+      "rock hard"
+    ]
+  },
+  "solution": {
+    "syns": [
+      "answer",
+      "fix",
+      "remedy"
+    ],
+    "ant": "problem",
+    "scale": [
+      "partial fix",
+      "solution",
+      "good solution",
+      "perfect solution"
+    ]
+  },
+  "solve": {
+    "syns": [
+      "answer",
+      "fix",
+      "resolve"
+    ],
+    "ant": "complicate",
+    "scale": [
+      "partially solve",
+      "solve",
+      "completely solve",
+      "fully resolve"
+    ]
+  },
+  "soothe": {
+    "syns": [
+      "calm",
+      "comfort",
+      "relax"
+    ],
+    "ant": "upset",
+    "scale": [
+      "slightly calm",
+      "soothe",
+      "very calm",
+      "completely calm"
+    ]
+  },
+  "submit": {
+    "syns": [
+      "give in",
+      "surrender",
+      "agree"
+    ],
+    "ant": "resist",
+    "scale": [
+      "slightly yield",
+      "submit",
+      "completely yield",
+      "total surrender"
+    ]
+  },
+  "subsequent": {
+    "syns": [
+      "next",
+      "following",
+      "later"
+    ],
+    "ant": "previous",
+    "scale": [
+      "soon after",
+      "subsequent",
+      "much later",
+      "far later"
+    ]
+  },
+  "substitute": {
+    "syns": [
+      "replace",
+      "swap",
+      "alternate"
+    ],
+    "ant": "original",
+    "scale": [
+      "poor replacement",
+      "substitute",
+      "good replacement",
+      "perfect replacement"
+    ]
+  },
+  "survival": {
+    "syns": [
+      "continuation",
+      "endurance",
+      "persistence"
+    ],
+    "ant": "extinction",
+    "scale": [
+      "existence",
+      "survival",
+      "thriving",
+      "flourishing"
+    ]
+  },
+  "survive": {
+    "syns": [
+      "endure",
+      "persist",
+      "withstand"
+    ],
+    "ant": "perish",
+    "scale": [
+      "exist",
+      "survive",
+      "flourish",
+      "thrive"
+    ]
+  },
+  "suspend": {
+    "syns": [
+      "hang",
+      "postpone",
+      "delay"
+    ],
+    "ant": "continue",
+    "scale": [
+      "hold",
+      "suspend",
+      "interrupt",
+      "halt"
+    ]
+  },
+  "sustain": {
+    "syns": [
+      "support",
+      "maintain",
+      "uphold"
+    ],
+    "ant": "abandon",
+    "scale": [
+      "bear",
+      "sustain",
+      "strengthen",
+      "fortify"
+    ]
+  },
+  "swamp": {
+    "syns": [
+      "marsh",
+      "bog",
+      "wetland"
+    ],
+    "ant": "desert",
+    "scale": [
+      "damp",
+      "swamp",
+      "flooded",
+      "submerged"
+    ]
+  },
+  "swift": {
+    "syns": [
+      "fast",
+      "quick",
+      "rapid"
+    ],
+    "ant": "slow",
+    "scale": [
+      "slow",
+      "swift",
+      "speedy",
+      "lightning-fast"
+    ]
+  },
+  "swoop": {
+    "syns": [
+      "dive",
+      "plunge",
+      "descend"
+    ],
+    "ant": "rise",
+    "scale": [
+      "drop",
+      "swoop",
+      "plummet",
+      "nosedive"
+    ]
+  },
+  "symbol": {
+    "syns": [
+      "sign",
+      "emblem",
+      "representation"
+    ],
+    "ant": "reality",
+    "scale": [
+      "mark",
+      "symbol",
+      "icon",
+      "allegory"
+    ]
+  },
+  "symbolize": {
+    "syns": [
+      "represent",
+      "signify",
+      "denote"
+    ],
+    "ant": "reveal",
+    "scale": [
+      "suggest",
+      "symbolize",
+      "represent",
+      "embody"
+    ]
+  },
+  "synonym": {
+    "syns": [
+      "equivalent",
+      "alternative",
+      "parallel"
+    ],
+    "ant": "antonym",
+    "scale": [
+      "similar-word",
+      "synonym",
+      "exact-equivalent",
+      "perfect-match"
+    ]
+  },
+  "system": {
+    "syns": [
+      "method",
+      "arrangement",
+      "organization"
+    ],
+    "ant": "chaos",
+    "scale": [
+      "order",
+      "system",
+      "structure",
+      "framework"
+    ]
+  },
+  "talent": {
+    "syns": [
+      "ability",
+      "skill",
+      "gift"
+    ],
+    "ant": "inability",
+    "scale": [
+      "aptitude",
+      "talent",
+      "expertise",
+      "mastery"
+    ]
+  },
+  "tangled": {
+    "syns": [
+      "twisted",
+      "knotted",
+      "snarled"
+    ],
+    "ant": "untangled",
+    "scale": [
+      "twisted",
+      "tangled",
+      "matted",
+      "hopelessly-knotted"
+    ]
+  },
+  "target": {
+    "syns": [
+      "goal",
+      "objective",
+      "aim"
+    ],
+    "ant": "miss",
+    "scale": [
+      "object",
+      "target",
+      "bullseye",
+      "dead-center"
+    ]
+  },
+  "task": {
+    "syns": [
+      "job",
+      "chore",
+      "assignment"
+    ],
+    "ant": "leisure",
+    "scale": [
+      "activity",
+      "task",
+      "project",
+      "undertaking"
+    ]
+  },
+  "taunt": {
+    "syns": [
+      "tease",
+      "mock",
+      "jeer"
+    ],
+    "ant": "praise",
+    "scale": [
+      "jest",
+      "taunt",
+      "ridicule",
+      "humiliate"
+    ]
+  },
+  "tavern": {
+    "syns": [
+      "pub",
+      "bar",
+      "inn"
+    ],
+    "ant": "home",
+    "scale": [
+      "establishment",
+      "tavern",
+      "saloon",
+      "watering-hole"
+    ]
+  },
+  "team": {
+    "syns": [
+      "group",
+      "squad",
+      "crew"
+    ],
+    "ant": "individual",
+    "scale": [
+      "pair",
+      "team",
+      "squad",
+      "organization"
+    ]
+  },
+  "technical": {
+    "syns": [
+      "specialized",
+      "mechanical",
+      "professional"
+    ],
+    "ant": "simple",
+    "scale": [
+      "skilled",
+      "technical",
+      "specialized",
+      "expert"
+    ]
+  },
+  "technique": {
+    "syns": [
+      "method",
+      "procedure",
+      "way"
+    ],
+    "ant": "accident",
+    "scale": [
+      "approach",
+      "technique",
+      "methodology",
+      "expertise"
+    ]
+  },
+  "technology": {
+    "syns": [
+      "innovation",
+      "science",
+      "devices"
+    ],
+    "ant": "nature",
+    "scale": [
+      "tool",
+      "technology",
+      "apparatus",
+      "system"
+    ]
+  },
+  "telescope": {
+    "syns": [
+      "spyglass",
+      "viewer",
+      "scope"
+    ],
+    "ant": "naked-eye",
+    "scale": [
+      "tube",
+      "telescope",
+      "magnifier",
+      "observatory"
+    ]
+  },
+  "temperature": {
+    "syns": [
+      "heat",
+      "warmth",
+      "degrees"
+    ],
+    "ant": "consistency",
+    "scale": [
+      "feeling",
+      "temperature",
+      "heat-level",
+      "intensity"
+    ]
+  },
+  "tempest": {
+    "syns": [
+      "storm",
+      "gale",
+      "squall"
+    ],
+    "ant": "calm",
+    "scale": [
+      "wind",
+      "tempest",
+      "hurricane",
+      "maelstrom"
+    ]
+  },
+  "temporary": {
+    "syns": [
+      "brief",
+      "fleeting",
+      "provisional"
+    ],
+    "ant": "permanent",
+    "scale": [
+      "short-lived",
+      "temporary",
+      "passing",
+      "momentary"
+    ]
+  },
+  "tend": {
+    "syns": [
+      "care for",
+      "nurture",
+      "manage"
+    ],
+    "ant": "neglect",
+    "scale": [
+      "watch",
+      "tend",
+      "nurture",
+      "cultivate"
+    ]
+  },
+  "tense": {
+    "syns": [
+      "anxious",
+      "nervous",
+      "stressed"
+    ],
+    "ant": "relaxed",
+    "scale": [
+      "tight",
+      "tense",
+      "anxious",
+      "frantic"
+    ]
+  },
+  "tension": {
+    "syns": [
+      "stress",
+      "strain",
+      "pressure"
+    ],
+    "ant": "relaxation",
+    "scale": [
+      "tightness",
+      "tension",
+      "strain",
+      "stress"
+    ]
+  },
+  "tentacle": {
+    "syns": [
+      "arm",
+      "appendage",
+      "limb"
+    ],
+    "ant": "trunk",
+    "scale": [
+      "extension",
+      "tentacle",
+      "limb",
+      "extremity"
+    ]
+  },
+  "terminate": {
+    "syns": [
+      "end",
+      "conclude",
+      "finish"
+    ],
+    "ant": "begin",
+    "scale": [
+      "stop",
+      "terminate",
+      "conclude",
+      "finalize"
+    ]
+  },
+  "territory": {
+    "syns": [
+      "land",
+      "region",
+      "area"
+    ],
+    "ant": "border",
+    "scale": [
+      "space",
+      "territory",
+      "domain",
+      "realm"
+    ]
+  },
+  "texture": {
+    "syns": [
+      "feel",
+      "surface",
+      "quality"
+    ],
+    "ant": "smoothness",
+    "scale": [
+      "quality",
+      "texture",
+      "surface",
+      "character"
+    ]
+  },
+  "theatre": {
+    "syns": [
+      "playhouse",
+      "stage",
+      "auditorium"
+    ],
+    "ant": "home",
+    "scale": [
+      "building",
+      "theatre",
+      "arena",
+      "coliseum"
+    ]
+  },
+  "theme": {
+    "syns": [
+      "subject",
+      "topic",
+      "idea"
+    ],
+    "ant": "randomness",
+    "scale": [
+      "topic",
+      "theme",
+      "central-idea",
+      "main-message"
+    ]
+  },
+  "theory": {
+    "syns": [
+      "hypothesis",
+      "idea",
+      "concept"
+    ],
+    "ant": "practice",
+    "scale": [
+      "idea",
+      "theory",
+      "principle",
+      "framework"
+    ]
+  },
+  "therefore": {
+    "syns": [
+      "thus",
+      "consequently",
+      "so"
+    ],
+    "ant": "however",
+    "scale": [
+      "then",
+      "therefore",
+      "consequently",
+      "inevitably"
+    ]
+  },
+  "thorough": {
+    "syns": [
+      "complete",
+      "careful",
+      "detailed"
+    ],
+    "ant": "careless",
+    "scale": [
+      "careful",
+      "thorough",
+      "meticulous",
+      "exhaustive"
+    ]
+  },
+  "threat": {
+    "syns": [
+      "danger",
+      "risk",
+      "menace"
+    ],
+    "ant": "safety",
+    "scale": [
+      "warning",
+      "threat",
+      "danger",
+      "peril"
+    ]
+  },
+  "threatens": {
+    "syns": [
+      "endangers",
+      "menaces",
+      "jeopardizes"
+    ],
+    "ant": "protects",
+    "scale": [
+      "warns",
+      "threatens",
+      "endangers",
+      "imperils"
+    ]
+  },
+  "thrill": {
+    "syns": [
+      "excitement",
+      "joy",
+      "delight"
+    ],
+    "ant": "boredom",
+    "scale": [
+      "pleasure",
+      "thrill",
+      "excitement",
+      "exhilaration"
+    ]
+  },
+  "thunder": {
+    "syns": [
+      "sound",
+      "rumble",
+      "roar"
+    ],
+    "ant": "silence",
+    "scale": [
+      "noise",
+      "thunder",
+      "boom",
+      "deafening-roar"
+    ]
+  },
+  "timid": {
+    "syns": [
+      "shy",
+      "fearful",
+      "nervous"
+    ],
+    "ant": "bold",
+    "scale": [
+      "cautious",
+      "timid",
+      "afraid",
+      "terrified"
+    ]
+  },
+  "tinker": {
+    "syns": [
+      "fiddle",
+      "repair",
+      "adjust"
+    ],
+    "ant": "break",
+    "scale": [
+      "adjust",
+      "tinker",
+      "modify",
+      "perfect"
+    ]
+  },
+  "tolerate": {
+    "syns": [
+      "accept",
+      "endure",
+      "allow"
+    ],
+    "ant": "reject",
+    "scale": [
+      "accept",
+      "tolerate",
+      "bear",
+      "endure"
+    ]
+  },
+  "tone": {
+    "syns": [
+      "sound",
+      "quality",
+      "manner"
+    ],
+    "ant": "silence",
+    "scale": [
+      "sound",
+      "tone",
+      "pitch",
+      "resonance"
+    ]
+  },
+  "topic": {
+    "syns": [
+      "subject",
+      "theme",
+      "matter"
+    ],
+    "ant": "randomness",
+    "scale": [
+      "subject",
+      "topic",
+      "focus",
+      "thesis"
+    ]
+  },
+  "torrent": {
+    "syns": [
+      "flood",
+      "stream",
+      "downpour"
+    ],
+    "ant": "trickle",
+    "scale": [
+      "flow",
+      "torrent",
+      "deluge",
+      "overwhelming-rush"
+    ]
+  },
+  "tough": {
+    "syns": [
+      "strong",
+      "hard",
+      "resilient"
+    ],
+    "ant": "weak",
+    "scale": [
+      "firm",
+      "tough",
+      "durable",
+      "unbreakable"
+    ]
+  },
+  "tournament": {
+    "syns": [
+      "competition",
+      "contest",
+      "match"
+    ],
+    "ant": "peace",
+    "scale": [
+      "event",
+      "tournament",
+      "championship",
+      "finals"
+    ]
+  },
+  "tower": {
+    "syns": [
+      "building",
+      "structure",
+      "skyscraper"
+    ],
+    "ant": "valley",
+    "scale": [
+      "structure",
+      "tower",
+      "skyscraper",
+      "monolith"
+    ]
+  },
+  "trace": {
+    "syns": [
+      "track",
+      "clue",
+      "mark"
+    ],
+    "ant": "hide",
+    "scale": [
+      "mark",
+      "trace",
+      "sign",
+      "evidence"
+    ]
+  },
+  "tradition": {
+    "syns": [
+      "custom",
+      "practice",
+      "heritage"
+    ],
+    "ant": "innovation",
+    "scale": [
+      "practice",
+      "tradition",
+      "ritual",
+      "legacy"
+    ]
+  },
+  "tragedy": {
+    "syns": [
+      "disaster",
+      "calamity",
+      "misfortune"
+    ],
+    "ant": "comedy",
+    "scale": [
+      "sadness",
+      "tragedy",
+      "catastrophe",
+      "devastation"
+    ]
+  },
+  "trait": {
+    "syns": [
+      "characteristic",
+      "quality",
+      "feature"
+    ],
+    "ant": "change",
+    "scale": [
+      "quality",
+      "trait",
+      "characteristic",
+      "distinctive-feature"
+    ]
+  },
+  "transfer": {
+    "syns": [
+      "move",
+      "shift",
+      "convey"
+    ],
+    "ant": "keep",
+    "scale": [
+      "move",
+      "transfer",
+      "transport",
+      "relocate"
+    ]
+  },
+  "transform": {
+    "syns": [
+      "change",
+      "convert",
+      "alter"
+    ],
+    "ant": "preserve",
+    "scale": [
+      "change",
+      "transform",
+      "metamorphose",
+      "revolutionize"
+    ]
+  },
+  "transmit": {
+    "syns": [
+      "send",
+      "broadcast",
+      "communicate"
+    ],
+    "ant": "receive",
+    "scale": [
+      "send",
+      "transmit",
+      "broadcast",
+      "disseminate"
+    ]
+  },
+  "transparent": {
+    "syns": [
+      "clear",
+      "see-through",
+      "obvious"
+    ],
+    "ant": "opaque",
+    "scale": [
+      "clear",
+      "transparent",
+      "translucent",
+      "crystalline"
+    ]
+  },
+  "transport": {
+    "syns": [
+      "carry",
+      "move",
+      "haul"
+    ],
+    "ant": "stay",
+    "scale": [
+      "carry",
+      "transport",
+      "convey",
+      "relocate"
+    ]
+  },
+  "transportation": {
+    "syns": [
+      "travel",
+      "movement",
+      "delivery"
+    ],
+    "ant": "stationary",
+    "scale": [
+      "movement",
+      "transportation",
+      "delivery",
+      "logistics"
+    ]
+  },
+  "treasure": {
+    "syns": [
+      "wealth",
+      "riches",
+      "valuables"
+    ],
+    "ant": "trash",
+    "scale": [
+      "valuable",
+      "treasure",
+      "precious-item",
+      "priceless-gem"
+    ]
+  },
+  "tremble": {
+    "syns": [
+      "shake",
+      "quiver",
+      "shudder"
+    ],
+    "ant": "steady",
+    "scale": [
+      "shake",
+      "tremble",
+      "quiver",
+      "convulse"
+    ]
+  },
+  "tremendous": {
+    "syns": [
+      "huge",
+      "enormous",
+      "vast"
+    ],
+    "ant": "tiny",
+    "scale": [
+      "large",
+      "tremendous",
+      "enormous",
+      "colossal"
+    ]
+  },
+  "trend": {
+    "syns": [
+      "tendency",
+      "fashion",
+      "direction"
+    ],
+    "ant": "stagnation",
+    "scale": [
+      "direction",
+      "trend",
+      "inclination",
+      "movement"
+    ]
+  },
+  "trigger": {
+    "syns": [
+      "cause",
+      "spark",
+      "activate"
+    ],
+    "ant": "prevent",
+    "scale": [
+      "cause",
+      "trigger",
+      "ignite",
+      "instigate"
+    ]
+  },
+  "triumph": {
+    "syns": [
+      "victory",
+      "success",
+      "win"
+    ],
+    "ant": "defeat",
+    "scale": [
+      "success",
+      "triumph",
+      "conquest",
+      "glorious-victory"
+    ]
+  },
+  "trophy": {
+    "syns": [
+      "award",
+      "prize",
+      "cup"
+    ],
+    "ant": "penalty",
+    "scale": [
+      "award",
+      "trophy",
+      "championship",
+      "grand-prize"
+    ]
+  },
+  "trot": {
+    "syns": [
+      "jog",
+      "run",
+      "pace"
+    ],
+    "ant": "stop",
+    "scale": [
+      "walk",
+      "trot",
+      "canter",
+      "gallop"
+    ]
+  },
+  "trudge": {
+    "syns": [
+      "walk",
+      "plod",
+      "slog"
+    ],
+    "ant": "skip",
+    "scale": [
+      "walk",
+      "trudge",
+      "labor",
+      "struggle"
+    ]
+  },
+  "tundra": {
+    "syns": [
+      "terrain",
+      "landscape",
+      "region"
+    ],
+    "ant": "jungle",
+    "scale": [
+      "land",
+      "tundra",
+      "frozen-plain",
+      "arctic-wasteland"
+    ]
+  },
+  "twelfth": {
+    "syns": [
+      "ordinal-number",
+      "position-twelve",
+      "final"
+    ],
+    "ant": "first",
+    "scale": [
+      "eleventh",
+      "twelfth",
+      "penultimate-position",
+      "final-rank"
+    ]
+  },
+  "typical": {
+    "syns": [
+      "common",
+      "usual",
+      "standard"
+    ],
+    "ant": "unusual",
+    "scale": [
+      "common",
+      "typical",
+      "conventional",
+      "quintessential"
+    ]
+  },
+  "umbrella": {
+    "syns": [
+      "parasol",
+      "cover",
+      "protection"
+    ],
+    "ant": "exposure",
+    "scale": [
+      "cover",
+      "umbrella",
+      "shield",
+      "canopy"
+    ]
+  },
+  "undergo": {
+    "syns": [
+      "experience",
+      "endure",
+      "submit"
+    ],
+    "ant": "avoid",
+    "scale": [
+      "experience",
+      "undergo",
+      "submit-to",
+      "endure-through"
+    ]
+  },
+  "unexpected": {
+    "syns": [
+      "surprising",
+      "unforeseen",
+      "sudden"
+    ],
+    "ant": "expected",
+    "scale": [
+      "surprising",
+      "unexpected",
+      "shocking",
+      "astonishing"
+    ]
+  },
+  "unfamiliar": {
+    "syns": [
+      "unknown",
+      "strange",
+      "foreign"
+    ],
+    "ant": "familiar",
+    "scale": [
+      "unknown",
+      "unfamiliar",
+      "alien",
+      "utterly-foreign"
+    ]
+  },
+  "uniform": {
+    "syns": [
+      "consistent",
+      "identical",
+      "standard"
+    ],
+    "ant": "varied",
+    "scale": [
+      "consistent",
+      "uniform",
+      "standardized",
+      "identical"
+    ]
+  },
+  "unique": {
+    "syns": [
+      "special",
+      "one-of-a-kind",
+      "distinctive"
+    ],
+    "ant": "common",
+    "scale": [
+      "special",
+      "unique",
+      "distinctive",
+      "absolutely-singular"
+    ]
+  },
+  "unison": {
+    "syns": [
+      "harmony",
+      "agreement",
+      "together"
+    ],
+    "ant": "discord",
+    "scale": [
+      "agreement",
+      "unison",
+      "perfect-harmony",
+      "complete-accord"
+    ]
+  },
+  "unite": {
+    "syns": [
+      "join",
+      "combine",
+      "merge"
+    ],
+    "ant": "separate",
+    "scale": [
+      "join",
+      "unite",
+      "merge",
+      "consolidate"
+    ]
+  },
+  "united": {
+    "syns": [
+      "joined",
+      "combined",
+      "together"
+    ],
+    "ant": "divided",
+    "scale": [
+      "joined",
+      "united",
+      "merged",
+      "consolidated"
+    ]
+  },
+  "unusual": {
+    "syns": [
+      "rare",
+      "uncommon",
+      "unique"
+    ],
+    "ant": "usual",
+    "scale": [
+      "uncommon",
+      "unusual",
+      "remarkable",
+      "extraordinary"
+    ]
+  },
+  "update": {
+    "syns": [
+      "revise",
+      "refresh",
+      "upgrade"
+    ],
+    "ant": "ignore",
+    "scale": [
+      "refresh",
+      "update",
+      "upgrade",
+      "modernize"
+    ]
+  },
+  "uproar": {
+    "syns": [
+      "noise",
+      "commotion",
+      "chaos"
+    ],
+    "ant": "silence",
+    "scale": [
+      "noise",
+      "uproar",
+      "pandemonium",
+      "bedlam"
+    ]
+  },
+  "uproot": {
+    "syns": [
+      "remove",
+      "extract",
+      "dislodge"
+    ],
+    "ant": "plant",
+    "scale": [
+      "pull",
+      "uproot",
+      "extract",
+      "eradicate"
+    ]
+  },
+  "urban": {
+    "syns": [
+      "city",
+      "metropolitan",
+      "town"
+    ],
+    "ant": "rural",
+    "scale": [
+      "city-like",
+      "urban",
+      "metropolitan",
+      "cosmopolitan"
+    ]
+  },
+  "usually": {
+    "syns": [
+      "normally",
+      "generally",
+      "typically"
+    ],
+    "ant": "rarely",
+    "scale": [
+      "often",
+      "usually",
+      "commonly",
+      "almost-always"
+    ]
+  },
+  "utilize": {
+    "syns": [
+      "use",
+      "employ",
+      "apply"
+    ],
+    "ant": "ignore",
+    "scale": [
+      "use",
+      "utilize",
+      "employ",
+      "maximize"
+    ]
+  },
+  "valiant": {
+    "syns": [
+      "brave",
+      "courageous",
+      "heroic"
+    ],
+    "ant": "cowardly",
+    "scale": [
+      "brave",
+      "valiant",
+      "fearless",
+      "heroic"
+    ]
+  },
+  "valid": {
+    "syns": [
+      "sound",
+      "correct",
+      "legitimate"
+    ],
+    "ant": "invalid",
+    "scale": [
+      "acceptable",
+      "valid",
+      "sound",
+      "indisputable"
+    ]
+  },
+  "valley": {
+    "syns": [
+      "dale",
+      "gorge",
+      "ravine"
+    ],
+    "ant": "peak",
+    "scale": [
+      "depression",
+      "valley",
+      "canyon",
+      "abyss"
+    ]
+  },
+  "valuable": {
+    "syns": [
+      "precious",
+      "worthy",
+      "prized"
+    ],
+    "ant": "worthless",
+    "scale": [
+      "useful",
+      "valuable",
+      "precious",
+      "priceless"
+    ]
+  },
+  "value": {
+    "syns": [
+      "worth",
+      "importance",
+      "price"
+    ],
+    "ant": "worthlessness",
+    "scale": [
+      "worth",
+      "value",
+      "significance",
+      "preciousness"
+    ]
+  },
+  "valve": {
+    "syns": [
+      "gate",
+      "control",
+      "mechanism"
+    ],
+    "ant": "opening",
+    "scale": [
+      "device",
+      "valve",
+      "regulator",
+      "control-mechanism"
+    ]
+  },
+  "vanish": {
+    "syns": [
+      "disappear",
+      "fade",
+      "evaporate"
+    ],
+    "ant": "appear",
+    "scale": [
+      "fade",
+      "vanish",
+      "disappear",
+      "dissolve"
+    ]
+  },
+  "vanished": {
+    "syns": [
+      "disappeared",
+      "faded",
+      "gone"
+    ],
+    "ant": "appeared",
+    "scale": [
+      "faded",
+      "vanished",
+      "disappeared",
+      "completely-gone"
+    ]
+  },
+  "variety": {
+    "syns": [
+      "diversity",
+      "range",
+      "assortment"
+    ],
+    "ant": "sameness",
+    "scale": [
+      "difference",
+      "variety",
+      "diversity",
+      "vast-array"
+    ]
+  },
+  "various": {
+    "syns": [
+      "different",
+      "diverse",
+      "multiple"
+    ],
+    "ant": "same",
+    "scale": [
+      "different",
+      "various",
+      "diverse",
+      "sundry"
+    ]
+  },
+  "vary": {
+    "syns": [
+      "change",
+      "differ",
+      "fluctuate"
+    ],
+    "ant": "remain",
+    "scale": [
+      "change",
+      "vary",
+      "fluctuate",
+      "oscillate"
+    ]
+  },
+  "vast": {
+    "syns": [
+      "huge",
+      "immense",
+      "enormous"
+    ],
+    "ant": "tiny",
+    "scale": [
+      "large",
+      "vast",
+      "immense",
+      "boundless"
+    ]
+  },
+  "veer": {
+    "syns": [
+      "turn",
+      "swerve",
+      "change"
+    ],
+    "ant": "straighten",
+    "scale": [
+      "turn",
+      "veer",
+      "diverge",
+      "careen"
+    ]
+  },
+  "vegetable": {
+    "syns": [
+      "plant",
+      "produce",
+      "food"
+    ],
+    "ant": "meat",
+    "scale": [
+      "produce",
+      "vegetable",
+      "leafy-green",
+      "nutrient-rich"
+    ]
+  },
+  "vehicle": {
+    "syns": [
+      "transport",
+      "car",
+      "automobile"
+    ],
+    "ant": "pedestrian",
+    "scale": [
+      "transport",
+      "vehicle",
+      "conveyance",
+      "motorized-machine"
+    ]
+  },
+  "vendor": {
+    "syns": [
+      "seller",
+      "merchant",
+      "trader"
+    ],
+    "ant": "buyer",
+    "scale": [
+      "seller",
+      "vendor",
+      "merchant",
+      "retailer"
+    ]
+  },
+  "venture": {
+    "syns": [
+      "undertaking",
+      "enterprise",
+      "attempt"
+    ],
+    "ant": "hesitation",
+    "scale": [
+      "attempt",
+      "venture",
+      "enterprise",
+      "bold-undertaking"
+    ]
+  },
+  "version": {
+    "syns": [
+      "variant",
+      "form",
+      "edition"
+    ],
+    "ant": "original",
+    "scale": [
+      "form",
+      "version",
+      "variant",
+      "adaptation"
+    ]
+  },
+  "vertical": {
+    "syns": [
+      "upright",
+      "perpendicular",
+      "standing"
+    ],
+    "ant": "horizontal",
+    "scale": [
+      "upright",
+      "vertical",
+      "perpendicular",
+      "straight-up"
+    ]
+  },
+  "vessel": {
+    "syns": [
+      "ship",
+      "boat",
+      "container"
+    ],
+    "ant": "land",
+    "scale": [
+      "container",
+      "vessel",
+      "ship",
+      "ocean-liner"
+    ]
+  },
+  "veteran": {
+    "syns": [
+      "expert",
+      "experienced",
+      "old-hand"
+    ],
+    "ant": "novice",
+    "scale": [
+      "experienced",
+      "veteran",
+      "seasoned",
+      "master"
+    ]
+  },
+  "vibrant": {
+    "syns": [
+      "lively",
+      "bright",
+      "colorful"
+    ],
+    "ant": "dull",
+    "scale": [
+      "bright",
+      "vibrant",
+      "vivid",
+      "dazzling"
+    ]
+  },
+  "village": {
+    "syns": [
+      "town",
+      "settlement",
+      "community"
+    ],
+    "ant": "metropolis",
+    "scale": [
+      "settlement",
+      "village",
+      "township",
+      "small-town"
+    ]
+  },
+  "virtual": {
+    "syns": [
+      "online",
+      "digital",
+      "simulated"
+    ],
+    "ant": "physical",
+    "scale": [
+      "digital",
+      "virtual",
+      "online",
+      "completely-digital"
+    ]
+  },
+  "visible": {
+    "syns": [
+      "noticeable",
+      "apparent",
+      "clear"
+    ],
+    "ant": "invisible",
+    "scale": [
+      "detectable",
+      "visible",
+      "apparent",
+      "obvious"
+    ]
+  },
+  "vision": {
+    "syns": [
+      "sight",
+      "view",
+      "image"
+    ],
+    "ant": "blindness",
+    "scale": [
+      "sight",
+      "vision",
+      "perspective",
+      "foresight"
+    ]
+  },
+  "visual": {
+    "syns": [
+      "graphic",
+      "pictorial",
+      "optical"
+    ],
+    "ant": "auditory",
+    "scale": [
+      "optical",
+      "visual",
+      "graphic",
+      "photographic"
+    ]
+  },
+  "vivid": {
+    "syns": [
+      "bright",
+      "vibrant",
+      "intense"
+    ],
+    "ant": "dull",
+    "scale": [
+      "bright",
+      "vivid",
+      "brilliant",
+      "blazing"
+    ]
+  },
+  "volcano": {
+    "syns": [
+      "mountain",
+      "crater",
+      "peak"
+    ],
+    "ant": "valley",
+    "scale": [
+      "mountain",
+      "volcano",
+      "crater",
+      "explosive-peak"
+    ]
+  },
+  "volume": {
+    "syns": [
+      "quantity",
+      "amount",
+      "size"
+    ],
+    "ant": "emptiness",
+    "scale": [
+      "amount",
+      "volume",
+      "magnitude",
+      "immensity"
+    ]
+  },
+  "volunteer": {
+    "syns": [
+      "helper",
+      "participant",
+      "contributor"
+    ],
+    "ant": "forced-labor",
+    "scale": [
+      "helper",
+      "volunteer",
+      "willing-participant",
+      "dedicated-worker"
+    ]
+  },
+  "vow": {
+    "syns": [
+      "promise",
+      "pledge",
+      "oath"
+    ],
+    "ant": "break",
+    "scale": [
+      "promise",
+      "vow",
+      "sacred-oath",
+      "binding-pledge"
+    ]
+  },
+  "voyage": {
+    "syns": [
+      "journey",
+      "trip",
+      "expedition"
+    ],
+    "ant": "stay",
+    "scale": [
+      "journey",
+      "voyage",
+      "expedition",
+      "grand-adventure"
+    ]
+  },
+  "waddle": {
+    "syns": [
+      "shuffle",
+      "toddle",
+      "walk"
+    ],
+    "ant": "stride",
+    "scale": [
+      "shuffle",
+      "waddle",
+      "toddle",
+      "wobble"
+    ]
+  },
+  "wander": {
+    "syns": [
+      "roam",
+      "stroll",
+      "drift"
+    ],
+    "ant": "settle",
+    "scale": [
+      "roam",
+      "wander",
+      "meander",
+      "ramble"
+    ]
+  },
+  "wary": {
+    "syns": [
+      "cautious",
+      "careful",
+      "suspicious"
+    ],
+    "ant": "trusting",
+    "scale": [
+      "cautious",
+      "wary",
+      "suspicious",
+      "paranoid"
+    ]
+  },
+  "watchful": {
+    "syns": [
+      "alert",
+      "vigilant",
+      "observant"
+    ],
+    "ant": "careless",
+    "scale": [
+      "alert",
+      "watchful",
+      "vigilant",
+      "hypervigilant"
+    ]
+  },
+  "weapon": {
+    "syns": [
+      "tool",
+      "instrument",
+      "armament"
+    ],
+    "ant": "peace",
+    "scale": [
+      "tool",
+      "weapon",
+      "lethal-weapon",
+      "devastating-armament"
+    ]
+  },
+  "weary": {
+    "syns": [
+      "tired",
+      "exhausted",
+      "fatigued"
+    ],
+    "ant": "energetic",
+    "scale": [
+      "tired",
+      "weary",
+      "exhausted",
+      "utterly-spent"
+    ]
+  },
+  "weaver": {
+    "syns": [
+      "craftsperson",
+      "artisan",
+      "maker"
+    ],
+    "ant": "destroyer",
+    "scale": [
+      "maker",
+      "weaver",
+      "skilled-artisan",
+      "master-craftsman"
+    ]
+  },
+  "whale": {
+    "syns": [
+      "mammal",
+      "sea-creature",
+      "cetacean"
+    ],
+    "ant": "minnow",
+    "scale": [
+      "large-animal",
+      "whale",
+      "colossal-creature",
+      "ocean-giant"
+    ]
+  },
+  "whimper": {
+    "syns": [
+      "whine",
+      "cry",
+      "moan"
+    ],
+    "ant": "roar",
+    "scale": [
+      "cry",
+      "whimper",
+      "sob",
+      "wail"
+    ]
+  },
+  "wicked": {
+    "syns": [
+      "evil",
+      "bad",
+      "mischievous"
+    ],
+    "ant": "good",
+    "scale": [
+      "mischievous",
+      "wicked",
+      "evil",
+      "diabolical"
+    ]
+  },
+  "wilderness": {
+    "syns": [
+      "wild",
+      "nature",
+      "untamed-land"
+    ],
+    "ant": "civilization",
+    "scale": [
+      "wildness",
+      "wilderness",
+      "untamed-frontier",
+      "pristine-nature"
+    ]
+  },
+  "wing": {
+    "syns": [
+      "appendage",
+      "extension",
+      "section"
+    ],
+    "ant": "center",
+    "scale": [
+      "section",
+      "wing",
+      "division",
+      "lateral-part"
+    ]
+  },
+  "wisdom": {
+    "syns": [
+      "knowledge",
+      "understanding",
+      "insight"
+    ],
+    "ant": "foolishness",
+    "scale": [
+      "knowledge",
+      "wisdom",
+      "profound-insight",
+      "enlightenment"
+    ]
+  },
+  "wit": {
+    "syns": [
+      "humor",
+      "cleverness",
+      "intelligence"
+    ],
+    "ant": "dullness",
+    "scale": [
+      "humor",
+      "wit",
+      "cleverness",
+      "brilliant-humor"
+    ]
+  },
+  "withdraw": {
+    "syns": [
+      "remove",
+      "pull-back",
+      "retreat"
+    ],
+    "ant": "advance",
+    "scale": [
+      "remove",
+      "withdraw",
+      "retreat",
+      "flee"
+    ]
+  },
+  "witness": {
+    "syns": [
+      "observer",
+      "spectator",
+      "bystander"
+    ],
+    "ant": "participant",
+    "scale": [
+      "observer",
+      "witness",
+      "viewer",
+      "firsthand-observer"
+    ]
+  },
+  "worthwhile": {
+    "syns": [
+      "valuable",
+      "beneficial",
+      "rewarding"
+    ],
+    "ant": "wasteful",
+    "scale": [
+      "useful",
+      "worthwhile",
+      "valuable",
+      "highly-rewarding"
+    ]
+  },
+  "wreckage": {
+    "syns": [
+      "debris",
+      "remains",
+      "ruins"
+    ],
+    "ant": "wholeness",
+    "scale": [
+      "debris",
+      "wreckage",
+      "fragments",
+      "scattered-remains"
+    ]
+  },
+  "yacht": {
+    "syns": [
+      "boat",
+      "ship",
+      "vessel"
+    ],
+    "ant": "land-vehicle",
+    "scale": [
+      "boat",
+      "yacht",
+      "luxury-vessel",
+      "ocean-going-ship"
+    ]
+  },
+  "yield": {
+    "syns": [
+      "give",
+      "produce",
+      "surrender"
+    ],
+    "ant": "resist",
+    "scale": [
+      "produce",
+      "yield",
+      "generate",
+      "harvest"
+    ]
+  },
+  "zany": {
+    "syns": [
+      "silly",
+      "wacky",
+      "crazy"
+    ],
+    "ant": "serious",
+    "scale": [
+      "silly",
+      "zany",
+      "hilarious",
+      "outrageously-funny"
+    ]
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "grade": 5,
+  "setNumber": 4,
+  "words": [
+    "ecosystem",
+    "photosynthesis",
+    "sustenance",
+    "tundra",
+    "arid",
+    "temperate",
+    "dormant",
+    "symbiotic",
+    "biodiversity",
+    "desolate",
+    "watershed",
+    "tributary"
+  ],
+  "sources": [
+    "Common Core Grade 5",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 5",
+    "CKLA Grade 5",
+    "Tier 2 Academic"
+  ],
+  "genre": "environmental science",
+  "story": {
+    "genre": "environmental science",
+    "characters": [
+      "Pia",
+      "Callum",
+      "Yoshi"
+    ],
+    "parts": [
+      {
+        "title": "The Field Study",
+        "text": "Pia, Callum, and Yoshi stepped off the bus and gazed at the wide, flat **tundra** stretching before them. Their teacher had brought them here to study a fragile **ecosystem** where plants, animals, and soil all depended on one another. The land looked **desolate** — just ice, rock, and a few patches of moss."
+      },
+      {
+        "title": "Hidden Life",
+        "text": "Callum knelt beside a small stream and explained it was a **tributary** that fed into a larger river. Yoshi noted the entire region was part of a huge **watershed** where all the melting snow drained into one main river. Even in this **arid** landscape with very little rainfall, tiny flowers found **sustenance** from the thin soil."
+      },
+      {
+        "title": "Nature's Connections",
+        "text": "Pia found lichen on a rock and learned it was a **symbiotic** partnership — a fungus and an alga helping each other survive. She saw how **photosynthesis** let even tiny organisms turn sunlight into food. Yoshi recorded that many seeds lay **dormant** through winter, waiting for brief summer warmth. Callum explained that the **biodiversity** here was surprisingly rich. Their teacher added that a **temperate** forest a few hundred miles south had completely different species."
+      },
+      {
+        "title": "Lessons from the Land",
+        "text": "As the sun dipped low, the three friends sat on a ridge and reviewed their notes. They had arrived expecting a lifeless place but found a world full of connections and surprises. Pia smiled and said that every environment, no matter how harsh, has a story to tell if you look closely enough."
+      }
+    ],
+    "wordCount": 236
+  },
+  "definitions": [
+    {
+      "word": "ecosystem",
+      "partOfSpeech": "noun",
+      "meaning1": "A community of living things and their environment, all working together as a system. Example: The pond ecosystem includes fish, frogs, plants, and the water they live in.",
+      "meaning2": "",
+      "studentChallenge": "A coral reef is a complex ___ that supports thousands of different species.",
+      "sentence": ""
+    },
+    {
+      "word": "photosynthesis",
+      "partOfSpeech": "noun",
+      "meaning1": "The process by which green plants use sunlight, water, and carbon dioxide to make their own food. Example: Without photosynthesis, plants would not be able to grow and produce oxygen.",
+      "meaning2": "",
+      "studentChallenge": "During ___, the leaves of a plant absorb sunlight and turn it into energy.",
+      "sentence": ""
+    },
+    {
+      "word": "sustenance",
+      "partOfSpeech": "noun",
+      "meaning1": "Food and drink needed to stay alive and healthy. Example: The lost hikers searched for sustenance in the forest, finding berries and fresh water.",
+      "meaning2": "",
+      "studentChallenge": "The animals depend on the river for ___ during the dry season.",
+      "sentence": ""
+    },
+    {
+      "word": "tundra",
+      "partOfSpeech": "noun",
+      "meaning1": "A vast, flat, treeless region in the Arctic where the ground is permanently frozen beneath the surface. Example: Very few trees can grow on the tundra because the soil stays frozen most of the year.",
+      "meaning2": "",
+      "studentChallenge": "Caribou migrate across the frozen ___ in search of food each winter.",
+      "sentence": ""
+    },
+    {
+      "word": "arid",
+      "partOfSpeech": "adjective",
+      "meaning1": "Extremely dry, with very little rainfall. Example: The arid desert receives less than ten inches of rain per year.",
+      "meaning2": "",
+      "studentChallenge": "Cacti have adapted to survive in ___ climates where water is scarce.",
+      "sentence": ""
+    },
+    {
+      "word": "temperate",
+      "partOfSpeech": "adjective",
+      "meaning1": "Having mild temperatures that are not too hot or too cold. Example: The temperate climate of the valley made it a perfect place to grow fruit trees.",
+      "meaning2": "",
+      "studentChallenge": "Many deciduous forests are found in ___ regions with warm summers and cool winters.",
+      "sentence": ""
+    },
+    {
+      "word": "dormant",
+      "partOfSpeech": "adjective",
+      "meaning1": "Alive but not actively growing or functioning; in a state of rest. Example: The volcano has been dormant for hundreds of years, but scientists still watch it carefully.",
+      "meaning2": "",
+      "studentChallenge": "The bear remained ___ in its cave throughout the long winter months.",
+      "sentence": ""
+    },
+    {
+      "word": "symbiotic",
+      "partOfSpeech": "adjective",
+      "meaning1": "Describing a close relationship between two different living things that benefits one or both of them. Example: The symbiotic relationship between bees and flowers helps both species survive.",
+      "meaning2": "",
+      "studentChallenge": "Clownfish and sea anemones share a ___ bond that protects them both from predators.",
+      "sentence": ""
+    },
+    {
+      "word": "biodiversity",
+      "partOfSpeech": "noun",
+      "meaning1": "The variety of different plant and animal species living in a particular area. Example: The rainforest has incredible biodiversity, with millions of species of insects alone.",
+      "meaning2": "",
+      "studentChallenge": "Scientists worry that pollution is reducing the ___ of our oceans.",
+      "sentence": ""
+    },
+    {
+      "word": "desolate",
+      "partOfSpeech": "adjective",
+      "meaning1": "Empty, bare, and lifeless; showing no sign of people or activity. Example: After the wildfire, the hillside looked desolate, with nothing but ash and blackened stumps.",
+      "meaning2": "",
+      "studentChallenge": "The abandoned town looked ___ with its boarded-up windows and empty streets.",
+      "sentence": ""
+    },
+    {
+      "word": "watershed",
+      "partOfSpeech": "noun",
+      "meaning1": "An area of land where all the water drains into the same river, lake, or ocean. Example: The entire watershed feeds into the Mississippi River, carrying water from many states.",
+      "meaning2": "",
+      "studentChallenge": "Our town is part of a large ___ that collects rainwater and sends it to the bay.",
+      "sentence": ""
+    },
+    {
+      "word": "tributary",
+      "partOfSpeech": "noun",
+      "meaning1": "A smaller river or stream that flows into a larger river. Example: The creek behind our school is a tributary of the Colorado River.",
+      "meaning2": "",
+      "studentChallenge": "Several small streams join together as a ___ before emptying into the main river.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "A coral reef is a complex _______ where fish, plants, and other creatures all depend on one another.",
+      "sentence2": "When one part of an _______ is damaged, it can affect every living thing in that environment.",
+      "options": ["watershed", "ecosystem", "tundra", "tributary"],
+      "correctIndex": 1,
+      "correctAnswer": "ecosystem"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "During _______, plants use sunlight to turn water and carbon dioxide into food.",
+      "sentence2": "Without _______, Earth would have no oxygen for animals to breathe.",
+      "options": ["biodiversity", "sustenance", "photosynthesis", "ecosystem"],
+      "correctIndex": 2,
+      "correctAnswer": "photosynthesis"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The lost hikers searched the forest for _______, finding berries and clean water to survive.",
+      "sentence2": "During the drought, the animals traveled far from their homes in search of _______.",
+      "options": ["sustenance", "watershed", "tundra", "dormant"],
+      "correctIndex": 0,
+      "correctAnswer": "sustenance"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Caribou migrate across the frozen _______ in search of food each winter.",
+      "sentence2": "Very few trees can survive on the _______ because the ground stays frozen beneath the surface.",
+      "options": ["tributary", "desolate", "tundra", "arid"],
+      "correctIndex": 2,
+      "correctAnswer": "tundra"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Cacti have adapted to survive in _______ climates where water is extremely scarce.",
+      "sentence2": "The _______ desert receives less than five inches of rain in an entire year.",
+      "options": ["temperate", "dormant", "desolate", "arid"],
+      "correctIndex": 3,
+      "correctAnswer": "arid"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Many deciduous forests are found in _______ regions with warm summers and cool winters.",
+      "sentence2": "The _______ climate along the coast makes it a comfortable place to live year-round.",
+      "options": ["arid", "symbiotic", "temperate", "desolate"],
+      "correctIndex": 2,
+      "correctAnswer": "temperate"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The volcano has been _______ for centuries, but scientists still monitor it carefully.",
+      "sentence2": "Many flower seeds remain _______ underground throughout the cold winter months.",
+      "options": ["dormant", "arid", "symbiotic", "desolate"],
+      "correctIndex": 0,
+      "correctAnswer": "dormant"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Clownfish and sea anemones share a _______ relationship that protects them both.",
+      "sentence2": "The _______ bond between bees and flowers is one of nature's most important partnerships.",
+      "options": ["temperate", "symbiotic", "dormant", "biodiversity"],
+      "correctIndex": 1,
+      "correctAnswer": "symbiotic"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The rainforest has incredible _______, with millions of species of insects alone.",
+      "sentence2": "Scientists warn that habitat destruction is reducing _______ all around the world.",
+      "options": ["biodiversity", "ecosystem", "photosynthesis", "watershed"],
+      "correctIndex": 0,
+      "correctAnswer": "biodiversity"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "After the wildfire, the once-green hillside looked completely _______.",
+      "sentence2": "The abandoned mining town was _______ and quiet, with no sign of life anywhere.",
+      "options": ["arid", "tundra", "dormant", "desolate"],
+      "correctIndex": 3,
+      "correctAnswer": "desolate"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Our town is part of a large _______ that collects rainwater and sends it to the bay.",
+      "sentence2": "Protecting the _______ helps keep the drinking water clean for everyone downstream.",
+      "options": ["tributary", "watershed", "ecosystem", "sustenance"],
+      "correctIndex": 1,
+      "correctAnswer": "watershed"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The small creek behind our school is a _______ of the Colorado River.",
+      "sentence2": "Several mountain streams merge into a single _______ before joining the main river.",
+      "options": ["watershed", "tundra", "tributary", "biodiversity"],
+      "correctIndex": 2,
+      "correctAnswer": "tributary"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "ecosystem",
+      "photosynthesis",
+      "sustenance",
+      "tundra",
+      "arid",
+      "temperate",
+      "dormant",
+      "symbiotic",
+      "biodiversity",
+      "desolate",
+      "watershed",
+      "tributary"
+    ],
+    "passage": "Dr. Lena Okoro had spent years studying a remote _(1)_ in northern Alaska, where frozen ground and biting winds made survival difficult for most living things. At first glance, the landscape appeared _(2)_ — just endless stretches of ice and rock. But she knew that beneath the surface, an amazing _(3)_ was quietly at work.\n\nEven in this _(4)_ region with almost no rainfall, life found a way. Small plants used _(5)_ to capture the weak sunlight and produce food. Their roots drew _(6)_ from the thin, thawed soil during the brief summer. Many seeds stayed _(7)_ through the long winter, waiting for warmer days to sprout.\n\nDr. Okoro discovered a _(8)_ relationship between a tiny flower and an Arctic beetle — each one helping the other survive. She was amazed by the _(9)_ hidden in such an extreme place. She followed a narrow _(10)_ that fed into a larger river and realized the entire area was part of a vast _(11)_ that carried meltwater to the Arctic Ocean.\n\nBack at her university in a _(12)_ climate far to the south, Dr. Okoro shared her findings with students, reminding them that life thrives in even the harshest corners of the planet.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "tundra",
+        "options": ["tundra", "watershed", "ecosystem", "tributary"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "desolate",
+        "options": ["dormant", "arid", "desolate", "temperate"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "ecosystem",
+        "options": ["biodiversity", "ecosystem", "photosynthesis", "sustenance"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "arid",
+        "options": ["arid", "desolate", "symbiotic", "tundra"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "photosynthesis",
+        "options": ["sustenance", "photosynthesis", "watershed", "dormant"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "sustenance",
+        "options": ["tributary", "biodiversity", "sustenance", "temperate"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "dormant",
+        "options": ["dormant", "arid", "ecosystem", "symbiotic"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "symbiotic",
+        "options": ["desolate", "symbiotic", "tundra", "photosynthesis"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "biodiversity",
+        "options": ["watershed", "sustenance", "biodiversity", "tributary"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "tributary",
+        "options": ["tributary", "dormant", "temperate", "ecosystem"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "watershed",
+        "options": ["arid", "watershed", "biodiversity", "photosynthesis"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "temperate",
+        "options": ["temperate", "symbiotic", "desolate", "tundra"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "arid",
+        "scale": ["Damp", "Dry", "Arid"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "desolate",
+        "scale": ["Quiet", "Empty", "Desolate"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "dormant",
+        "scale": ["Dormant", "Stirring", "Active"],
+        "vocabPosition": 0
+      },
+      {
+        "vocabWord": "temperate",
+        "scale": ["Freezing", "Temperate", "Scorching"],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "arid",
+        "words": ["Parched", "Soaked", "Dry", "Barren"],
+        "imposterIndex": 1,
+        "imposterWord": "Soaked"
+      },
+      {
+        "vocabWord": "biodiversity",
+        "words": ["Variety", "Uniformity", "Richness", "Range"],
+        "imposterIndex": 1,
+        "imposterWord": "Uniformity"
+      },
+      {
+        "vocabWord": "desolate",
+        "words": ["Barren", "Thriving", "Deserted", "Bleak"],
+        "imposterIndex": 1,
+        "imposterWord": "Thriving"
+      },
+      {
+        "vocabWord": "dormant",
+        "words": ["Inactive", "Resting", "Sleeping", "Energetic"],
+        "imposterIndex": 3,
+        "imposterWord": "Energetic"
+      },
+      {
+        "vocabWord": "ecosystem",
+        "words": ["Habitat", "Community", "Isolation", "Environment"],
+        "imposterIndex": 2,
+        "imposterWord": "Isolation"
+      },
+      {
+        "vocabWord": "sustenance",
+        "words": ["Nourishment", "Starvation", "Food", "Nutrition"],
+        "imposterIndex": 1,
+        "imposterWord": "Starvation"
+      },
+      {
+        "vocabWord": "symbiotic",
+        "words": ["Cooperative", "Hostile", "Mutual", "Helpful"],
+        "imposterIndex": 1,
+        "imposterWord": "Hostile"
+      },
+      {
+        "vocabWord": "tundra",
+        "words": ["Arctic", "Frozen", "Tropical", "Icy"],
+        "imposterIndex": 2,
+        "imposterWord": "Tropical"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

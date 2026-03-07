@@ -1,0 +1,584 @@
+{
+  "grade": 3,
+  "setNumber": 14,
+  "words": [
+    "goal",
+    "pounce",
+    "sensitive",
+    "refer",
+    "support",
+    "fury",
+    "relate",
+    "pierce",
+    "rate",
+    "humiliation",
+    "unite",
+    "structure"
+  ],
+  "sources": [
+    "Australian Curriculum",
+    "CBSE India",
+    "Common Core Grade 3",
+    "Common Core Grade 4",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Tier 2 Academic",
+    "Wit & Wisdom Grade 3",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "real science discovery",
+  "story": {
+    "genre": "real science discovery",
+    "characters": [
+      "Mila",
+      "Lakshmi",
+      "Leo"
+    ],
+    "parts": [
+      {
+        "title": "The Curious Mind",
+        "text": "Mila's **goal** was simple: win the school science fair. She kept a detailed notebook and would **refer** to it every evening to track her progress. Her experiment measured the **rate** at which crystals grew in different temperatures \u2014 a topic she chose because she could **relate** to it from watching her grandmother grow salt crystals at home. Mr. Lakshmi said Mila was **sensitive** to detail in a way that made her experiments stand out."
+      },
+      {
+        "title": "The Unexpected Challenge",
+        "text": "On the day of the fair, the power cut out. The **fury** of the storm outside had knocked a tree onto the electrical lines. Some students packed up in despair. But Mila had Leo's **support** \u2014 he ran to find candles while she set up her materials by hand. A power cut would not **pierce** her confidence. \"We can still do this,\" she said, and they began to **unite** their efforts, working as a team."
+      },
+      {
+        "title": "The Breakthrough",
+        "text": "Using only candlelight, Mila completed her experiment. She watched crystals form on a **structure** she had built from wire and string. Last year's failed attempt had filled her with **humiliation**, but she had used that feeling to train harder. \"Don't **pounce** on conclusions too fast,\" Mr. Lakshmi had always told her. She waited, recorded, and then smiled \u2014 the crystals were perfect."
+      },
+      {
+        "title": "The Award",
+        "text": "The judges were amazed. Mila not only won first place but also received a special award for creativity under pressure. Mr. Lakshmi told the class, \"Science isn't just about fancy equipment. It's about curiosity, patience, and the courage to keep going when things get hard.\" Mila held her trophy high and smiled \u2014 this was the best day of her life."
+      }
+    ],
+    "wordCount": 272
+  },
+  "definitions": [
+    {
+      "word": "goal",
+      "partOfSpeech": "noun",
+      "meaning1": "Something you are trying to achieve. Example: Her goal is to become a veterinarian.",
+      "meaning2": "A point scored in sports. Example: He kicked the winning goal.",
+      "studentChallenge": "Setting a ___ helps you stay focused.",
+      "sentence": ""
+    },
+    {
+      "word": "pounce",
+      "partOfSpeech": "verb",
+      "meaning1": "To jump suddenly on something in order to catch it. Example: The cat crouched low behind the bush, ready to pounce on the unsuspecting mouse.",
+      "meaning2": "",
+      "studentChallenge": "The kitten waited patiently before deciding to ___ on the toy dangling from the string.",
+      "sentence": ""
+    },
+    {
+      "word": "sensitive",
+      "partOfSpeech": "adjective",
+      "meaning1": "Easily affected by things; aware of others' feelings. Example: She is sensitive to loud noises.",
+      "meaning2": "",
+      "studentChallenge": "He is a ___ person who cares about others.",
+      "sentence": ""
+    },
+    {
+      "word": "refer",
+      "partOfSpeech": "verb",
+      "meaning1": "To mention or talk about something; to look at something for information. Example: If you do not know the meaning of a word, you can refer to the dictionary.",
+      "meaning2": "",
+      "studentChallenge": "Please ___ to the map on page twelve to find the location of the ancient city.",
+      "sentence": ""
+    },
+    {
+      "word": "support",
+      "partOfSpeech": "verb/noun",
+      "meaning1": "To hold something up or help keep it in place. Example: The strong wooden beams support the roof of the old barn.",
+      "meaning2": "To help, encourage, or show that you agree with someone. Example: All of her friends came to support her during the talent show.",
+      "studentChallenge": "The whole family came to ___ him at his first basketball game of the season.",
+      "sentence": ""
+    },
+    {
+      "word": "fury",
+      "partOfSpeech": "noun",
+      "meaning1": "Extreme anger; rage. Example: The fury of the storm frightened everyone.",
+      "meaning2": "",
+      "studentChallenge": "His ___ was clear from the look on his face.",
+      "sentence": ""
+    },
+    {
+      "word": "relate",
+      "partOfSpeech": "verb",
+      "meaning1": "To see or show a connection between two things. Example: The teacher asked us to relate the events in the story to our own experiences.",
+      "meaning2": "To understand how someone feels. Example: I can relate to feeling nervous before a test because I feel the same way.",
+      "studentChallenge": "Can you ___ this science lesson to something you have noticed in your everyday life?",
+      "sentence": ""
+    },
+    {
+      "word": "pierce",
+      "partOfSpeech": "verb",
+      "meaning1": "To make a hole through something. Example: The needle pierced the fabric.",
+      "meaning2": "",
+      "studentChallenge": "The thorn ___ through her shoe.",
+      "sentence": ""
+    },
+    {
+      "word": "rate",
+      "partOfSpeech": "noun",
+      "meaning1": "The speed at which something happens. Example: The plants grew at a fast rate because they received plenty of sunlight and water.",
+      "meaning2": "The amount of money charged for something. Example: The hotel offered a special rate for families staying more than three nights.",
+      "studentChallenge": "At the ___ we are reading, we will finish the novel by the end of the week.",
+      "sentence": ""
+    },
+    {
+      "word": "humiliation",
+      "partOfSpeech": "noun",
+      "meaning1": "A strong feeling of embarrassment and shame. Example: Tripping on stage during the play filled him with humiliation.",
+      "meaning2": "",
+      "studentChallenge": "She felt ___ when she accidentally called the teacher Mom in front of the whole class.",
+      "sentence": ""
+    },
+    {
+      "word": "unite",
+      "partOfSpeech": "verb",
+      "meaning1": "To join together as one. Example: The community united to help after the flood.",
+      "meaning2": "",
+      "studentChallenge": "Let's ___ to solve this problem together.",
+      "sentence": ""
+    },
+    {
+      "word": "structure",
+      "partOfSpeech": "noun/verb",
+      "meaning1": "Something that has been built or put together, such as a building or bridge. Example: The ancient stone structure had stood on the hilltop for over a thousand years.",
+      "meaning2": "The way the parts of something are arranged or organized. Example: The teacher explained the structure of a good paragraph: a topic sentence, details, and a closing sentence.",
+      "studentChallenge": "The engineer designed a new ___ that could withstand even the strongest earthquakes.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Her ___ is to become a veterinarian, so she studies hard in every science class.",
+      "sentence2": "Setting a clear ___ helps you stay focused and motivated every single day.",
+      "options": [
+        "goal",
+        "rate",
+        "fury",
+        "pounce"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "goal"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The cat crouched silently behind the bush, ready to ___ on the unsuspecting mouse.",
+      "sentence2": "The kitten waited patiently for several minutes before deciding to ___ on the toy dangling from the string.",
+      "options": [
+        "rate",
+        "fury",
+        "pounce",
+        "humiliation"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "pounce"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "She is ___ to loud noises and covers her ears whenever a fire alarm goes off.",
+      "sentence2": "He is a ___ person who always notices when a friend is feeling sad or left out.",
+      "options": [
+        "refer",
+        "pounce",
+        "sensitive",
+        "rate"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "sensitive"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "If you do not know the meaning of a word, you can ___ to the dictionary on your desk.",
+      "sentence2": "Please ___ to the map on page twelve to find the location of the ancient city.",
+      "options": [
+        "refer",
+        "relate",
+        "unite",
+        "fury"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "refer"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The strong wooden beams ___ the roof of the old barn, holding it up through every storm.",
+      "sentence2": "The whole family came to ___ him at his first basketball game of the season.",
+      "options": [
+        "structure",
+        "support",
+        "pierce",
+        "fury"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "support"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The ___ of the storm frightened everyone in the village, rattling windows and bending trees.",
+      "sentence2": "His ___ was plain to see from the look on his face and the clench of his fists.",
+      "options": [
+        "rate",
+        "fury",
+        "support",
+        "refer"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "fury"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The teacher asked us to ___ the events in the story to experiences from our own lives.",
+      "sentence2": "Can you ___ this science lesson to something you have noticed in your everyday world?",
+      "options": [
+        "relate",
+        "pierce",
+        "rate",
+        "pounce"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "relate"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The sharp needle ___ the thick fabric with a clean, precise hole.",
+      "sentence2": "The thorn ___ through the sole of her shoe, surprising her with a sudden sharp pain.",
+      "options": [
+        "refer",
+        "relate",
+        "fury",
+        "pierce"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "pierce"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The plants grew at a very fast ___ because they received hours of sunlight and plenty of water.",
+      "sentence2": "At the ___ we are reading, we should finish the novel well before the end of the week.",
+      "options": [
+        "unite",
+        "support",
+        "structure",
+        "rate"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "rate"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Tripping on stage in front of everyone filled him with a deep sense of ___.",
+      "sentence2": "She felt deep ___ when she accidentally called the teacher Mom in front of the whole class.",
+      "options": [
+        "goal",
+        "relate",
+        "support",
+        "humiliation"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "humiliation"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The whole community decided to ___ and work together to help after the devastating flood.",
+      "sentence2": "Let's ___ our efforts and solve this problem together as a team.",
+      "options": [
+        "goal",
+        "humiliation",
+        "unite",
+        "structure"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "unite"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The ancient stone ___ had stood on the hilltop for over a thousand years without crumbling.",
+      "sentence2": "The engineer designed a new ___ that could withstand even the strongest earthquakes.",
+      "options": [
+        "humiliation",
+        "structure",
+        "pierce",
+        "support"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "structure"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "goal",
+      "pounce",
+      "sensitive",
+      "refer",
+      "support",
+      "fury",
+      "relate",
+      "pierce",
+      "rate",
+      "humiliation",
+      "unite",
+      "structure"
+    ],
+    "passage": "Zara's _(1)_ \u2014 the single thing she was working toward \u2014 was to build the tallest tower in the school's engineering contest. She had to _(2)_ to the instruction booklet over and over, flipping back to it every few minutes to check each step. She wanted to _(3)_ her tower from every side, holding it steady with braces and beams so it would not wobble. The _(4)_ of the wind that afternoon was terrifying \u2014 a howling rage that shook the windows and bent the trees. Zara could _(5)_ to how stressful the contest felt, because she had felt that same pressure the year before. Building at this _(6)_ \u2014 moving this quickly, step after fast step \u2014 made her hands shake with excitement. She used a sharp pin to _(7)_ a small hole in the paper tube, then threaded a string through it to hold two pieces together. Zara was _(8)_ to criticism \u2014 even a small unkind comment could make her feel discouraged for hours. The _(9)_ of her tower was impressive \u2014 a tall, upright frame of triangles that made it both light and strong. She asked her partner to _(10)_ \u2014 to join forces with her \u2014 and work on the base together. Losing last year had been a moment of pure _(11)_ \u2014 a deep, burning shame in front of the whole school. This year, she was ready to _(12)_ on every opportunity, jumping at every chance to prove herself.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "goal",
+        "options": [
+          "goal",
+          "rate",
+          "fury",
+          "humiliation"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "refer",
+        "options": [
+          "refer",
+          "relate",
+          "unite",
+          "pierce"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "support",
+        "options": [
+          "support",
+          "unite",
+          "structure",
+          "pounce"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "fury",
+        "options": [
+          "fury",
+          "rate",
+          "humiliation",
+          "goal"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "relate",
+        "options": [
+          "relate",
+          "refer",
+          "unite",
+          "support"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "rate",
+        "options": [
+          "rate",
+          "fury",
+          "goal",
+          "structure"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "pierce",
+        "options": [
+          "pierce",
+          "pounce",
+          "relate",
+          "refer"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "sensitive",
+        "options": [
+          "sensitive",
+          "support",
+          "structure",
+          "rate"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "structure",
+        "options": [
+          "structure",
+          "support",
+          "goal",
+          "rate"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "unite",
+        "options": [
+          "unite",
+          "support",
+          "relate",
+          "pounce"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "humiliation",
+        "options": [
+          "humiliation",
+          "fury",
+          "rate",
+          "goal"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "pounce",
+        "options": [
+          "pounce",
+          "pierce",
+          "unite",
+          "refer"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "goal",
+        "scale": [
+          "aim",
+          "goal",
+          "objective"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "pounce",
+        "scale": [
+          "creep",
+          "pounce",
+          "strike"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "sensitive",
+        "scale": [
+          "aware",
+          "sensitive",
+          "tender"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "refer",
+        "scale": [
+          "hint",
+          "refer",
+          "mention"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "support",
+        "words": [
+          "help",
+          "oppose",
+          "aid",
+          "uphold"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "oppose"
+      },
+      {
+        "vocabWord": "fury",
+        "words": [
+          "rage",
+          "anger",
+          "wrath",
+          "calmness"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "calmness"
+      },
+      {
+        "vocabWord": "relate",
+        "words": [
+          "connect",
+          "separate",
+          "link",
+          "associate"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "separate"
+      },
+      {
+        "vocabWord": "pierce",
+        "words": [
+          "seal",
+          "puncture",
+          "stab",
+          "penetrate"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "seal"
+      },
+      {
+        "vocabWord": "rate",
+        "words": [
+          "speed",
+          "measure",
+          "stillness",
+          "rank"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "stillness"
+      },
+      {
+        "vocabWord": "humiliation",
+        "words": [
+          "shame",
+          "embarrassment",
+          "dishonor",
+          "honor"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "honor"
+      },
+      {
+        "vocabWord": "unite",
+        "words": [
+          "separate",
+          "join",
+          "combine",
+          "merge"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "separate"
+      },
+      {
+        "vocabWord": "structure",
+        "words": [
+          "building",
+          "frame",
+          "chaos",
+          "form"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "chaos"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

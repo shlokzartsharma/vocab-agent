@@ -1,0 +1,405 @@
+{
+  "grade": 5,
+  "setNumber": 5,
+  "words": [
+    "refute",
+    "credible",
+    "rhetoric",
+    "bias",
+    "propaganda",
+    "concede",
+    "substantiate",
+    "counterpart",
+    "skeptical",
+    "impartial",
+    "fallacy",
+    "rebuttal"
+  ],
+  "sources": [
+    "Common Core Grade 5",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 5",
+    "CKLA Grade 5",
+    "Tier 2 Academic"
+  ],
+  "genre": "debate competition",
+  "story": {
+    "genre": "debate competition",
+    "characters": [
+      "Farah",
+      "Desmond",
+      "Lina"
+    ],
+    "parts": [
+      {
+        "title": "The Tournament Begins",
+        "text": "Farah stepped into the auditorium for the citywide debate tournament. Her teammate Desmond sat in the front row reviewing their notes. Their opponent, Lina, was known for her powerful **rhetoric** and her ability to make any argument sound convincing. Farah had heard that Lina's speeches relied on **propaganda** — emotional phrases designed to persuade rather than inform."
+      },
+      {
+        "title": "Building the Case",
+        "text": "Desmond reminded Farah that they needed to **substantiate** every claim with solid evidence. He said the judges were trained to be **impartial**, so flashy words alone would not win. Farah studied Lina's past arguments and noticed a **fallacy** — a logical error hidden inside an impressive-sounding sentence. She also spotted a clear **bias** in the data Lina had used, since it came from only one side of the issue."
+      },
+      {
+        "title": "The Face-Off",
+        "text": "When the debate began, Lina spoke first with confidence. Farah listened, remaining **skeptical** of each bold claim. Then she delivered a strong **rebuttal**, pointing out weak spots in Lina's reasoning. She used real statistics to **refute** two of Lina's biggest points. Even Lina had to **concede** that Farah's evidence was **credible**. Desmond smiled, knowing his **counterpart** on the opposing team had just admitted they were outmatched."
+      },
+      {
+        "title": "After the Buzzer",
+        "text": "When the scores were announced, Farah and Desmond had won. Lina walked over and shook their hands, saying she had learned something valuable. All three agreed that honest research mattered more than dramatic speeches. They left the auditorium looking forward to the next round."
+      }
+    ],
+    "wordCount": 236
+  },
+  "definitions": [
+    {
+      "word": "refute",
+      "partOfSpeech": "verb",
+      "meaning1": "To prove that something is wrong or false. Example: The scientist was able to refute the old theory by showing new test results.",
+      "meaning2": "",
+      "studentChallenge": "She used three pieces of evidence to ___ his argument.",
+      "sentence": ""
+    },
+    {
+      "word": "credible",
+      "partOfSpeech": "adjective",
+      "meaning1": "Able to be believed or trusted. Example: The witness gave a credible account of what happened at the scene.",
+      "meaning2": "",
+      "studentChallenge": "The reporter only used ___ sources that could be verified.",
+      "sentence": ""
+    },
+    {
+      "word": "rhetoric",
+      "partOfSpeech": "noun",
+      "meaning1": "The art of using language effectively to persuade or impress. Example: The politician's rhetoric made the crowd cheer, even though she hadn't shared many facts.",
+      "meaning2": "",
+      "studentChallenge": "His powerful ___ convinced everyone in the room to support the plan.",
+      "sentence": ""
+    },
+    {
+      "word": "bias",
+      "partOfSpeech": "noun",
+      "meaning1": "An unfair preference for or against something. Example: The judge showed bias by always favoring the home team.",
+      "meaning2": "",
+      "studentChallenge": "The article had a clear ___ because it only showed one side of the story.",
+      "sentence": ""
+    },
+    {
+      "word": "propaganda",
+      "partOfSpeech": "noun",
+      "meaning1": "Information that is spread to influence people's opinions, often in a misleading way. Example: The poster was propaganda designed to make people fear the new law.",
+      "meaning2": "",
+      "studentChallenge": "The flyer was full of ___ that twisted the truth to change people's minds.",
+      "sentence": ""
+    },
+    {
+      "word": "concede",
+      "partOfSpeech": "verb",
+      "meaning1": "To admit that something is true, often unwillingly. Example: After seeing the replay, the coach had to concede that the call was correct.",
+      "meaning2": "To give up or surrender something. Example: The candidate conceded the election after the final votes were counted.",
+      "studentChallenge": "He had to ___ that his opponent made a stronger argument.",
+      "sentence": ""
+    },
+    {
+      "word": "substantiate",
+      "partOfSpeech": "verb",
+      "meaning1": "To provide evidence or proof to support a claim. Example: The detective needed more clues to substantiate her theory about the missing necklace.",
+      "meaning2": "",
+      "studentChallenge": "You need facts and data to ___ your claim before the judges will accept it.",
+      "sentence": ""
+    },
+    {
+      "word": "counterpart",
+      "partOfSpeech": "noun",
+      "meaning1": "A person or thing that has the same role or position as another in a different group. Example: The class president met with her counterpart from the other school to plan the joint event.",
+      "meaning2": "",
+      "studentChallenge": "The captain shook hands with her ___ on the rival team before the game.",
+      "sentence": ""
+    },
+    {
+      "word": "skeptical",
+      "partOfSpeech": "adjective",
+      "meaning1": "Having doubts or not easily convinced. Example: Maria was skeptical of the magic trick until she saw it performed right in front of her.",
+      "meaning2": "",
+      "studentChallenge": "The audience was ___ when the salesman promised the product could do everything.",
+      "sentence": ""
+    },
+    {
+      "word": "impartial",
+      "partOfSpeech": "adjective",
+      "meaning1": "Fair and not favoring one side over another. Example: A good referee must be impartial and treat both teams equally.",
+      "meaning2": "",
+      "studentChallenge": "The teacher tried to be ___ when grading, so every student was treated fairly.",
+      "sentence": ""
+    },
+    {
+      "word": "fallacy",
+      "partOfSpeech": "noun",
+      "meaning1": "A mistaken belief or a flaw in reasoning. Example: It is a fallacy to think that just because something is popular, it must be correct.",
+      "meaning2": "",
+      "studentChallenge": "The argument sounded good at first, but it was based on a logical ___.",
+      "sentence": ""
+    },
+    {
+      "word": "rebuttal",
+      "partOfSpeech": "noun",
+      "meaning1": "A response that argues against or disproves something. Example: After the first speaker finished, the second speaker gave a strong rebuttal.",
+      "meaning2": "",
+      "studentChallenge": "Lena prepared a ___ to answer every point the other team had made.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The lawyer presented new evidence to _______ the false accusation made against her client.",
+      "sentence2": "The student used a graph to _______ the claim that the school lunch program was unhealthy.",
+      "options": ["concede", "refute", "substantiate", "bias"],
+      "correctIndex": 1,
+      "correctAnswer": "refute"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The news report seemed _______ because it included quotes from several experts.",
+      "sentence2": "Her explanation was _______ enough that even the strictest teacher believed it.",
+      "options": ["skeptical", "credible", "impartial", "fallacy"],
+      "correctIndex": 1,
+      "correctAnswer": "credible"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The candidate's _______ was so powerful that the audience broke into applause.",
+      "sentence2": "Some people use fancy _______ to hide the fact that they don't have real evidence.",
+      "options": ["propaganda", "rebuttal", "rhetoric", "counterpart"],
+      "correctIndex": 2,
+      "correctAnswer": "rhetoric"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The survey showed a strong _______ toward students who had more experience.",
+      "sentence2": "A good scientist must recognize _______ in the data before drawing conclusions.",
+      "options": ["bias", "fallacy", "rhetoric", "propaganda"],
+      "correctIndex": 0,
+      "correctAnswer": "bias"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The posters on the wall were _______ meant to make people angry about the new rule.",
+      "sentence2": "During the war, both sides used _______ to convince citizens that the other side was wrong.",
+      "options": ["rebuttal", "propaganda", "credible", "concede"],
+      "correctIndex": 1,
+      "correctAnswer": "propaganda"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "After reviewing the facts, she had to _______ that her original idea was incorrect.",
+      "sentence2": "The chess player decided to _______ the match when she realized she could not win.",
+      "options": ["refute", "substantiate", "concede", "skeptical"],
+      "correctIndex": 2,
+      "correctAnswer": "concede"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The researcher needed more data to _______ her findings before publishing the article.",
+      "sentence2": "Can you _______ your claim with at least two reliable sources?",
+      "options": ["substantiate", "refute", "bias", "impartial"],
+      "correctIndex": 0,
+      "correctAnswer": "substantiate"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The American ambassador met with her _______ from Japan to discuss trade.",
+      "sentence2": "Each team captain greeted his _______ before the championship match began.",
+      "options": ["fallacy", "counterpart", "rebuttal", "rhetoric"],
+      "correctIndex": 1,
+      "correctAnswer": "counterpart"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The villagers were _______ about the stranger's promise to bring rain with a magic dance.",
+      "sentence2": "I'm _______ that this plan will work because we haven't tested it yet.",
+      "options": ["impartial", "credible", "skeptical", "propaganda"],
+      "correctIndex": 2,
+      "correctAnswer": "skeptical"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The judge must remain _______ and not let personal feelings affect the ruling.",
+      "sentence2": "An _______ observer was brought in to make sure both sides were treated equally.",
+      "options": ["bias", "impartial", "counterpart", "concede"],
+      "correctIndex": 1,
+      "correctAnswer": "impartial"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Believing that one rainy day means the whole summer will be wet is a _______.",
+      "sentence2": "The debater found a _______ in her opponent's argument that made the whole point fall apart.",
+      "options": ["fallacy", "rebuttal", "rhetoric", "refute"],
+      "correctIndex": 0,
+      "correctAnswer": "fallacy"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Her _______ was so well-organized that the other team had no answer for it.",
+      "sentence2": "The coach prepared a _______ for every criticism the newspaper had printed about the team.",
+      "options": ["propaganda", "substantiate", "bias", "rebuttal"],
+      "correctIndex": 3,
+      "correctAnswer": "rebuttal"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "refute",
+      "credible",
+      "rhetoric",
+      "bias",
+      "propaganda",
+      "concede",
+      "substantiate",
+      "counterpart",
+      "skeptical",
+      "impartial",
+      "fallacy",
+      "rebuttal"
+    ],
+    "passage": "Farah's debate club was preparing for the biggest tournament of the year. Their coach told them that every good argument must be backed by _(1)_ evidence that the judges can trust. She warned them to watch out for _(2)_ in their own research — if they only looked at one side, their argument would be weak.\n\nDesmond studied the other team's past speeches and found a _(3)_ in their reasoning: they assumed that because most people agreed with them, they must be right. He also noticed their speeches were full of emotional _(4)_ that sounded impressive but lacked real proof. Some of their claims were close to _(5)_, using exaggerated stories to stir up feelings instead of sharing facts.\n\nOn debate day, Lina — Farah's _(6)_ on the opposing team — spoke first. Farah stayed _(7)_ and jotted down weak points. When her turn came, she gave a powerful _(8)_ that addressed every claim. She used charts and data to _(9)_ her own position and to _(10)_ the other team's main argument. The judges, who were trained to be _(11)_, scored each point carefully. In the end, even Lina had to _(12)_ that Farah's team had done the better job.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "credible",
+        "options": ["credible", "skeptical", "impartial", "fallacy"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "bias",
+        "options": ["rhetoric", "bias", "propaganda", "rebuttal"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "fallacy",
+        "options": ["counterpart", "fallacy", "concede", "refute"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "rhetoric",
+        "options": ["bias", "substantiate", "rhetoric", "credible"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "propaganda",
+        "options": ["propaganda", "rebuttal", "impartial", "fallacy"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "counterpart",
+        "options": ["counterpart", "rhetoric", "skeptical", "bias"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "skeptical",
+        "options": ["impartial", "credible", "skeptical", "concede"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "rebuttal",
+        "options": ["propaganda", "rebuttal", "fallacy", "refute"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "substantiate",
+        "options": ["substantiate", "concede", "counterpart", "bias"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "refute",
+        "options": ["rhetoric", "refute", "credible", "propaganda"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "impartial",
+        "options": ["skeptical", "impartial", "substantiate", "counterpart"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "concede",
+        "options": ["refute", "rebuttal", "concede", "bias"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "skeptical",
+        "scale": ["Curious", "Doubtful", "Skeptical"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "credible",
+        "scale": ["Questionable", "Believable", "Credible"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "bias",
+        "scale": ["Bias", "Preference", "Fairness"],
+        "vocabPosition": 0
+      },
+      {
+        "vocabWord": "rhetoric",
+        "scale": ["Remark", "Speech", "Rhetoric"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "refute",
+        "words": ["Disprove", "Confirm", "Challenge", "Deny"],
+        "imposterIndex": 1,
+        "imposterWord": "Confirm"
+      },
+      {
+        "vocabWord": "impartial",
+        "words": ["Fair", "Neutral", "Biased", "Balanced"],
+        "imposterIndex": 2,
+        "imposterWord": "Biased"
+      },
+      {
+        "vocabWord": "concede",
+        "words": ["Admit", "Yield", "Surrender", "Resist"],
+        "imposterIndex": 3,
+        "imposterWord": "Resist"
+      },
+      {
+        "vocabWord": "propaganda",
+        "words": ["Truth", "Manipulation", "Misinformation", "Persuasion"],
+        "imposterIndex": 0,
+        "imposterWord": "Truth"
+      },
+      {
+        "vocabWord": "substantiate",
+        "words": ["Prove", "Support", "Verify", "Undermine"],
+        "imposterIndex": 3,
+        "imposterWord": "Undermine"
+      },
+      {
+        "vocabWord": "fallacy",
+        "words": ["Error", "Mistake", "Flaw", "Fact"],
+        "imposterIndex": 3,
+        "imposterWord": "Fact"
+      },
+      {
+        "vocabWord": "counterpart",
+        "words": ["Equivalent", "Match", "Opposite", "Parallel"],
+        "imposterIndex": 2,
+        "imposterWord": "Opposite"
+      },
+      {
+        "vocabWord": "rebuttal",
+        "words": ["Agreement", "Response", "Objection", "Defense"],
+        "imposterIndex": 0,
+        "imposterWord": "Agreement"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

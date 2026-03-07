@@ -1,0 +1,405 @@
+{
+  "grade": 5,
+  "setNumber": 2,
+  "words": [
+    "republic",
+    "oppression",
+    "preamble",
+    "suffrage",
+    "tyranny",
+    "oligarchy",
+    "ratify",
+    "denounce",
+    "amnesty",
+    "mandate",
+    "secession",
+    "enact"
+  ],
+  "sources": [
+    "Common Core Grade 5",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 5",
+    "CKLA Grade 5",
+    "Tier 2 Academic"
+  ],
+  "genre": "political revolution",
+  "story": {
+    "genre": "political revolution",
+    "characters": [
+      "Joaquin",
+      "Nalini",
+      "Viktor"
+    ],
+    "parts": [
+      {
+        "title": "Seeds of Change",
+        "text": "Joaquin, Nalini, and Viktor lived on the island of Caldera, which had once been a proud **republic** where the people chose their own leaders. But for years the governor had ruled with **oppression**, silencing anyone who dared to disagree. One afternoon, Nalini discovered the **preamble** to Caldera's original constitution hidden in the town hall and read its promises of freedom aloud."
+      },
+      {
+        "title": "A Growing Movement",
+        "text": "The three friends believed deeply in **suffrage** and were determined to restore every citizen's right to vote. Viktor argued that the governor's **tyranny** had gone on long enough and had to end. Nalini explained that the government had become an **oligarchy**, controlled by a handful of wealthy families who ignored ordinary people. Together they decided to convince the island council to **ratify** a new charter guaranteeing equal rights for all."
+      },
+      {
+        "title": "The Turning Point",
+        "text": "Joaquin stood before the packed council chamber and was the first citizen to **denounce** the governor's unfair laws in public. The crowd roared with support. The council offered **amnesty** to everyone who had been jailed for speaking out against the government. With a clear **mandate** from the people, they rejected the governor's dangerous threat of **secession** and voted instead to **enact** a new set of laws that protected every citizen's voice."
+      },
+      {
+        "title": "A New Beginning",
+        "text": "Within weeks, Caldera held its first free election in over a decade. People lined up for hours, proud to cast their votes at last. Joaquin, Nalini, and Viktor watched from the town square, knowing that the change they had fought for was finally real."
+      }
+    ],
+    "wordCount": 246
+  },
+  "definitions": [
+    {
+      "word": "republic",
+      "partOfSpeech": "noun",
+      "meaning1": "A form of government in which the people elect leaders to represent them. Example: The United States is a republic where citizens vote for their president.",
+      "meaning2": "",
+      "studentChallenge": "In a ___, the citizens choose their leaders through elections.",
+      "sentence": ""
+    },
+    {
+      "word": "oppression",
+      "partOfSpeech": "noun",
+      "meaning1": "Cruel and unfair treatment of people, especially by those in power. Example: The villagers suffered years of oppression under the harsh king.",
+      "meaning2": "",
+      "studentChallenge": "The people marched in the streets to protest against the ___ they had endured for so long.",
+      "sentence": ""
+    },
+    {
+      "word": "preamble",
+      "partOfSpeech": "noun",
+      "meaning1": "An introduction or opening statement, especially to a formal document or speech. Example: The preamble to the Constitution begins with the words 'We the People.'",
+      "meaning2": "",
+      "studentChallenge": "The ___ of the document explained why the new laws were being written.",
+      "sentence": ""
+    },
+    {
+      "word": "suffrage",
+      "partOfSpeech": "noun",
+      "meaning1": "The right to vote in political elections. Example: Women in the United States won suffrage in 1920 after decades of protest.",
+      "meaning2": "",
+      "studentChallenge": "Many brave activists fought for years to win ___ for all citizens regardless of race.",
+      "sentence": ""
+    },
+    {
+      "word": "tyranny",
+      "partOfSpeech": "noun",
+      "meaning1": "Cruel and unfair use of power by a ruler or government. Example: The colonists declared independence to escape the tyranny of the king.",
+      "meaning2": "",
+      "studentChallenge": "The people could no longer tolerate the ___ of a ruler who ignored their basic rights.",
+      "sentence": ""
+    },
+    {
+      "word": "oligarchy",
+      "partOfSpeech": "noun",
+      "meaning1": "A type of government where a small group of powerful people controls everything. Example: The country was an oligarchy run by five wealthy families who made all the decisions.",
+      "meaning2": "",
+      "studentChallenge": "The nation was ruled as an ___, with only a few rich families holding all the power.",
+      "sentence": ""
+    },
+    {
+      "word": "ratify",
+      "partOfSpeech": "verb",
+      "meaning1": "To formally approve or confirm something, such as a law or agreement. Example: The states had to ratify the amendment before it could become part of the Constitution.",
+      "meaning2": "",
+      "studentChallenge": "All the member nations needed to ___ the peace treaty before it could take effect.",
+      "sentence": ""
+    },
+    {
+      "word": "denounce",
+      "partOfSpeech": "verb",
+      "meaning1": "To publicly declare that something or someone is wrong or evil. Example: The mayor stood up to denounce the company's pollution of the river.",
+      "meaning2": "",
+      "studentChallenge": "Several leaders chose to ___ the unfair policy in front of the press.",
+      "sentence": ""
+    },
+    {
+      "word": "amnesty",
+      "partOfSpeech": "noun",
+      "meaning1": "An official pardon given to a group of people who have broken the law. Example: The new president granted amnesty to all political prisoners.",
+      "meaning2": "",
+      "studentChallenge": "The government offered ___ to the protesters who had been arrested during the demonstrations.",
+      "sentence": ""
+    },
+    {
+      "word": "mandate",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "An official order or authority to carry out a policy. Example: The voters gave the new leader a clear mandate to change the tax system.",
+      "meaning2": "To officially require something. Example: The school board decided to mandate helmets for all students riding bikes to school.",
+      "studentChallenge": "Winning the election by a huge margin gave the governor a strong ___ to carry out her plans.",
+      "sentence": ""
+    },
+    {
+      "word": "secession",
+      "partOfSpeech": "noun",
+      "meaning1": "The act of formally withdrawing or breaking away from an organization or country. Example: The southern states' secession from the Union led to the Civil War.",
+      "meaning2": "",
+      "studentChallenge": "The small region threatened ___ from the larger nation because its people felt ignored.",
+      "sentence": ""
+    },
+    {
+      "word": "enact",
+      "partOfSpeech": "verb",
+      "meaning1": "To make a bill or proposal officially become law. Example: Congress voted to enact a law protecting endangered animals.",
+      "meaning2": "To act out or perform something. Example: The students chose to enact a scene from the American Revolution for their history project.",
+      "studentChallenge": "The city council voted to ___ a new rule banning plastic bags in stores.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The nation was proud to call itself a _______ where every citizen had a voice in government.",
+      "sentence2": "After the revolution, the people created a _______ with elected leaders instead of a king.",
+      "options": ["oligarchy", "republic", "tyranny", "secession"],
+      "correctIndex": 1,
+      "correctAnswer": "republic"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The people marched in the streets to protest the _______ they had suffered for decades.",
+      "sentence2": "Under the cruel ruler, the _______ of ordinary citizens grew worse with every passing year.",
+      "options": ["suffrage", "amnesty", "oppression", "preamble"],
+      "correctIndex": 2,
+      "correctAnswer": "oppression"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The _______ of the speech explained the purpose of the new declaration of rights.",
+      "sentence2": "Before listing the new rules, the author wrote a short _______ describing why changes were needed.",
+      "options": ["preamble", "mandate", "republic", "amnesty"],
+      "correctIndex": 0,
+      "correctAnswer": "preamble"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Women fought bravely for _______ so they could vote in national elections.",
+      "sentence2": "The new constitution guaranteed _______ to every adult citizen regardless of wealth or background.",
+      "options": ["tyranny", "suffrage", "secession", "oppression"],
+      "correctIndex": 1,
+      "correctAnswer": "suffrage"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The colonists risked their lives to overthrow the _______ of the distant king.",
+      "sentence2": "Living under such _______ meant that people could be punished for simply speaking their minds.",
+      "options": ["tyranny", "republic", "suffrage", "oligarchy"],
+      "correctIndex": 0,
+      "correctAnswer": "tyranny"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The country had become an _______ where only three powerful families controlled all the land and money.",
+      "sentence2": "Instead of listening to the people, the _______ made decisions behind closed doors for its own benefit.",
+      "options": ["mandate", "preamble", "republic", "oligarchy"],
+      "correctIndex": 3,
+      "correctAnswer": "oligarchy"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The senate voted to _______ the peace treaty after months of careful debate.",
+      "sentence2": "Before the amendment could become law, three more states needed to _______ it.",
+      "options": ["denounce", "ratify", "enact", "mandate"],
+      "correctIndex": 1,
+      "correctAnswer": "ratify"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The activist stood before the cameras to _______ the government's unfair treatment of workers.",
+      "sentence2": "Several countries joined together to _______ the dictator's actions and demand change.",
+      "options": ["ratify", "enact", "denounce", "amnesty"],
+      "correctIndex": 2,
+      "correctAnswer": "denounce"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The new leader offered _______ to all prisoners who had been jailed for peaceful protest.",
+      "sentence2": "After the war ended, the government declared _______ so former rebels could return home safely.",
+      "options": ["amnesty", "oppression", "mandate", "suffrage"],
+      "correctIndex": 0,
+      "correctAnswer": "amnesty"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The election results gave the new governor a strong _______ to reform the school system.",
+      "sentence2": "The health department issued a _______ requiring all restaurants to post their safety ratings.",
+      "options": ["secession", "preamble", "mandate", "republic"],
+      "correctIndex": 2,
+      "correctAnswer": "mandate"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The southern region's _______ from the nation caused a bitter conflict that lasted for years.",
+      "sentence2": "Some citizens feared that _______ would weaken both the breakaway territory and the original country.",
+      "options": ["oppression", "secession", "tyranny", "amnesty"],
+      "correctIndex": 1,
+      "correctAnswer": "secession"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The city council voted to _______ a new law banning fireworks within town limits.",
+      "sentence2": "It took several months for the legislature to _______ the bill that protected clean water supplies.",
+      "options": ["denounce", "ratify", "enact", "suffrage"],
+      "correctIndex": 2,
+      "correctAnswer": "enact"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "republic",
+      "oppression",
+      "preamble",
+      "suffrage",
+      "tyranny",
+      "oligarchy",
+      "ratify",
+      "denounce",
+      "amnesty",
+      "mandate",
+      "secession",
+      "enact"
+    ],
+    "passage": "Long ago, the island of Valmara was ruled as an _(1)_, where a tiny group of nobles controlled everything. The common people lived under constant _(2)_, forced to work without fair pay or any say in their future. They had no _(3)_ — no right to vote or choose their leaders.\n\nA young teacher named Rosa wrote a _(4)_ for a new constitution, explaining why the people deserved freedom. She was the first to _(5)_ the nobles' cruelty at a public gathering. Her words inspired thousands. The people demanded an end to the _(6)_ that had kept them silent for so long.\n\nThe nobles threatened _(7)_, saying they would break the island in two rather than share power. But the people held firm. They had a clear _(8)_ from the majority: build a government that belongs to everyone. The new council voted to _(9)_ the proposed constitution, making it the official law of the land. They also offered _(10)_ to anyone who had been imprisoned under the old rulers.\n\nFinally, the council moved to _(11)_ new laws guaranteeing education, fair wages, and free speech. Valmara was no longer controlled by the few. It was now a true _(12)_, governed by the will of its people.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "oligarchy",
+        "options": ["republic", "oligarchy", "tyranny", "mandate"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "oppression",
+        "options": ["suffrage", "oppression", "amnesty", "preamble"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "suffrage",
+        "options": ["suffrage", "secession", "oligarchy", "mandate"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "preamble",
+        "options": ["preamble", "republic", "amnesty", "denounce"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "denounce",
+        "options": ["ratify", "enact", "denounce", "oppression"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "tyranny",
+        "options": ["secession", "tyranny", "suffrage", "preamble"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "secession",
+        "options": ["mandate", "amnesty", "secession", "republic"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "mandate",
+        "options": ["mandate", "oligarchy", "oppression", "enact"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "ratify",
+        "options": ["denounce", "ratify", "enact", "tyranny"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "amnesty",
+        "options": ["suffrage", "preamble", "amnesty", "secession"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "enact",
+        "options": ["ratify", "enact", "republic", "denounce"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "republic",
+        "options": ["oligarchy", "mandate", "republic", "tyranny"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "tyranny",
+        "scale": ["Strictness", "Cruelty", "Tyranny"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "oppression",
+        "scale": ["Unfairness", "Injustice", "Oppression"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "denounce",
+        "scale": ["Question", "Criticize", "Denounce"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "suffrage",
+        "scale": ["Suffrage", "Influence", "Authority"],
+        "vocabPosition": 0
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "republic",
+        "words": ["Democracy", "Dictatorship", "Commonwealth", "Nation"],
+        "imposterIndex": 1,
+        "imposterWord": "Dictatorship"
+      },
+      {
+        "vocabWord": "preamble",
+        "words": ["Introduction", "Conclusion", "Opening", "Preface"],
+        "imposterIndex": 1,
+        "imposterWord": "Conclusion"
+      },
+      {
+        "vocabWord": "oligarchy",
+        "words": ["Elite", "Rulers", "Majority", "Powerful"],
+        "imposterIndex": 2,
+        "imposterWord": "Majority"
+      },
+      {
+        "vocabWord": "ratify",
+        "words": ["Approve", "Confirm", "Accept", "Reject"],
+        "imposterIndex": 3,
+        "imposterWord": "Reject"
+      },
+      {
+        "vocabWord": "amnesty",
+        "words": ["Pardon", "Forgiveness", "Mercy", "Punishment"],
+        "imposterIndex": 3,
+        "imposterWord": "Punishment"
+      },
+      {
+        "vocabWord": "mandate",
+        "words": ["Order", "Suggestion", "Command", "Directive"],
+        "imposterIndex": 1,
+        "imposterWord": "Suggestion"
+      },
+      {
+        "vocabWord": "secession",
+        "words": ["Withdrawal", "Separation", "Departure", "Union"],
+        "imposterIndex": 3,
+        "imposterWord": "Union"
+      },
+      {
+        "vocabWord": "enact",
+        "words": ["Establish", "Pass", "Repeal", "Implement"],
+        "imposterIndex": 2,
+        "imposterWord": "Repeal"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

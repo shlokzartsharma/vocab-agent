@@ -1,0 +1,588 @@
+{
+  "grade": 3,
+  "setNumber": 40,
+  "words": [
+    "except",
+    "enable",
+    "castaway",
+    "ancient",
+    "approach",
+    "locate",
+    "progress",
+    "capture",
+    "pier",
+    "triumph",
+    "wisdom",
+    "resident"
+  ],
+  "sources": [
+    "Australian Curriculum",
+    "British KS2",
+    "CBSE India",
+    "Common Core Grade 3",
+    "Common Core Grade 4",
+    "Common Core Grade 5",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Flocabulary Grade 4",
+    "Flocabulary Grade 5",
+    "Tier 2 Academic",
+    "Wit & Wisdom Grade 4",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "mystery set in a school",
+  "story": {
+    "genre": "mystery set in a school",
+    "characters": [
+      "Ravi",
+      "Nisha",
+      "Aisha"
+    ],
+    "parts": [
+      {
+        "title": "Something Strange",
+        "text": "It started on a Wednesday when Ravi went to **approach** the library shelf to return a book and noticed something odd. All the other students had gone home \u2014 everyone **except** Ravi. A light glowed inside the supposedly locked room. Someone had left a drawing behind \u2014 detailed, careful, and very **ancient**-looking, covered in tiny symbols she had never seen before."
+      },
+      {
+        "title": "The Investigation",
+        "text": "That night a storm rattled the school windows, but Ravi was too curious to sleep. She needed to **locate** where the drawing had come from and **capture** every detail in sketches before it disappeared. She showed it to Nisha, who used her **wisdom** about old school records to trace its origins. Together they made real **progress** through the clues. To solve it fully, they needed to **enable** Aisha to join them, unlocking her access to the storage room where old yearbooks were kept."
+      },
+      {
+        "title": "The Hidden Clue",
+        "text": "Behind the oldest bookshelf, they found a door. Beyond it was a corridor that ran under the school like the underside of a long **pier**, low and damp and echoey, stretching away into darkness. A notice on the wall named a long-forgotten **resident** of the school \u2014 a caretaker from 1923 who had been stranded at the school during a great storm, living like a **castaway** for three days until the flood waters receded \u2014 and described a box he had sealed and hidden before leaving. \"We're going to find something extraordinary,\" Nisha said, and none of them doubted it."
+      },
+      {
+        "title": "The Secret Revealed",
+        "text": "What they found was the school's original time capsule from 1923, filled with letters, photographs, and a gold pocket watch. Solving the mystery was a true **triumph** for all three of them. The principal was thrilled and announced that every resident of the school community should come and see it. Their names were added to the school's Hall of Fame, and the time capsule went on permanent display in the library for everyone to admire."
+      }
+    ],
+    "wordCount": 276
+  },
+  "definitions": [
+    {
+      "word": "except",
+      "partOfSpeech": "preposition",
+      "meaning1": "Not including; other than. Example: Everyone finished the race except the runner who twisted his ankle at the start.",
+      "meaning2": "",
+      "studentChallenge": "All the flavors were sold out ___ vanilla, so that is what we ordered.",
+      "sentence": ""
+    },
+    {
+      "word": "enable",
+      "partOfSpeech": "verb",
+      "meaning1": "To make it possible for someone to do something. Example: The ramp at the entrance will enable wheelchair users to enter the building easily.",
+      "meaning2": "",
+      "studentChallenge": "Learning to read will ___ you to explore any topic that interests you.",
+      "sentence": ""
+    },
+    {
+      "word": "castaway",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who has been stranded in a place, usually after a shipwreck. Example: The castaway survived on the deserted island by eating coconuts and catching fish.",
+      "meaning2": "",
+      "studentChallenge": "The ___ built a shelter out of palm leaves and hoped a passing ship would rescue him.",
+      "sentence": ""
+    },
+    {
+      "word": "ancient",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very, very old; from a time long ago. Example: The ancient ruins were thousands of years old.",
+      "meaning2": "",
+      "studentChallenge": "The museum had ___ artifacts from Egypt.",
+      "sentence": ""
+    },
+    {
+      "word": "approach",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To come near or closer to something. Example: We watched the train approach the station.",
+      "meaning2": "A way of dealing with something. Example: She tried a different approach to the problem.",
+      "studentChallenge": "As we ___ the castle, it looked bigger and bigger.",
+      "sentence": ""
+    },
+    {
+      "word": "locate",
+      "partOfSpeech": "verb",
+      "meaning1": "To find the position of something. Example: Can you locate India on the map?",
+      "meaning2": "",
+      "studentChallenge": "We need to ___ the nearest hospital.",
+      "sentence": ""
+    },
+    {
+      "word": "progress",
+      "partOfSpeech": "noun",
+      "meaning1": "Movement forward or improvement over time. Example: She made great progress in her swimming and could now do ten laps without stopping.",
+      "meaning2": "To move forward or improve. Example: As the hikers progressed up the mountain, the air became cooler and thinner.",
+      "studentChallenge": "The teacher was pleased with the ___ the class had made in learning their times tables.",
+      "sentence": ""
+    },
+    {
+      "word": "capture",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To catch or take control of someone or something. Example: The police captured the thief.",
+      "meaning2": "To record or preserve. Example: The photographer captured a beautiful sunset.",
+      "studentChallenge": "The explorer tried to ___ the butterfly without harming it.",
+      "sentence": ""
+    },
+    {
+      "word": "pier",
+      "partOfSpeech": "noun",
+      "meaning1": "A long structure built out over the water where boats can stop, or where people can walk and fish. Example: We walked to the end of the pier and watched the fishing boats come in with their catch.",
+      "meaning2": "",
+      "studentChallenge": "Families strolled along the ___ eating fish and chips while seagulls circled overhead.",
+      "sentence": ""
+    },
+    {
+      "word": "triumph",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A great victory or achievement. Example: Winning the championship was a triumph for the team.",
+      "meaning2": "",
+      "studentChallenge": "After months of practice, her concert was a ___.",
+      "sentence": ""
+    },
+    {
+      "word": "wisdom",
+      "partOfSpeech": "noun",
+      "meaning1": "The ability to make good decisions based on knowledge and experience. Example: Grandma shared her wisdom with the family.",
+      "meaning2": "",
+      "studentChallenge": "The old teacher was known for her great ___.",
+      "sentence": ""
+    },
+    {
+      "word": "resident",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who lives in a particular place. Example: Every resident of the village was invited to the summer fair.",
+      "meaning2": "",
+      "studentChallenge": "Each ___ on our street received a letter about the plans for a new community garden.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Everyone finished the race ___ the runner who twisted his ankle at the very start and had to stop.",
+      "sentence2": "All the ice cream flavors were sold out ___ vanilla, so that is what everyone had to order.",
+      "options": [
+        "triumph",
+        "enable",
+        "except",
+        "progress"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "except"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The ramp at the entrance will ___ wheelchair users to enter the building easily and safely.",
+      "sentence2": "Learning to read will ___ you to explore any subject that interests you \u2014 science, history, anything.",
+      "options": [
+        "progress",
+        "enable",
+        "ancient",
+        "capture"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "enable"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The ___ survived on the deserted island alone for months, eating coconuts and catching fish with his hands.",
+      "sentence2": "The lonely ___ built a shelter from palm leaves and kept a signal fire burning, hoping a ship would come.",
+      "options": [
+        "wisdom",
+        "castaway",
+        "capture",
+        "progress"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "castaway"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The ___ ruins crumbled with age \u2014 the stones were thousands of years old and worn smooth by centuries of wind.",
+      "sentence2": "The museum displayed ___ artifacts from Egypt, some dating back more than three thousand years.",
+      "options": [
+        "triumph",
+        "ancient",
+        "castaway",
+        "pier"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "ancient"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "We watched the train slowly ___ the station, its headlight growing brighter as it came nearer.",
+      "sentence2": "As we began to ___ the old castle, its towers looked bigger and more impressive with every step.",
+      "options": [
+        "approach",
+        "enable",
+        "except",
+        "resident"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "approach"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Can you ___ India on the map and point to where the river Ganges flows?",
+      "sentence2": "We need to ___ the nearest hospital before the patient's condition gets any worse.",
+      "options": [
+        "except",
+        "approach",
+        "locate",
+        "ancient"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "locate"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "She made great ___ in her swimming, improving from two laps to ten without stopping in just one month.",
+      "sentence2": "The teacher was very pleased with the ___ the class had made \u2014 every student had mastered the times tables.",
+      "options": [
+        "except",
+        "resident",
+        "capture",
+        "progress"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "progress"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The police ___ the thief after a long chase through the crowded market.",
+      "sentence2": "The photographer stayed still for an hour to ___ the perfect moment \u2014 a hawk landing on the branch.",
+      "options": [
+        "triumph",
+        "approach",
+        "resident",
+        "capture"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "capture"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "We walked to the very end of the long wooden ___ and watched the fishing boats return with their catch.",
+      "sentence2": "Families strolled along the ___ eating fish and chips while seagulls swooped and called overhead.",
+      "options": [
+        "pier",
+        "progress",
+        "resident",
+        "wisdom"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "pier"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Winning the championship after three years of training was the greatest ___ the team had ever known.",
+      "sentence2": "After months of daily practice, her piano concert was a complete ___ \u2014 the audience gave a standing ovation.",
+      "options": [
+        "triumph",
+        "enable",
+        "pier",
+        "wisdom"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "triumph"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Grandma shared her ___ with the family, offering advice built from decades of experience and careful thought.",
+      "sentence2": "The old teacher was known for her great ___ \u2014 she always knew exactly the right thing to say.",
+      "options": [
+        "triumph",
+        "castaway",
+        "wisdom",
+        "approach"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "wisdom"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Every ___ of the village was invited to the summer fair \u2014 not a single person who lived there was left out.",
+      "sentence2": "Each ___ on our street received a letter about the plans for a new community garden next spring.",
+      "options": [
+        "enable",
+        "approach",
+        "wisdom",
+        "resident"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "resident"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "except",
+      "enable",
+      "castaway",
+      "ancient",
+      "approach",
+      "locate",
+      "progress",
+      "capture",
+      "pier",
+      "triumph",
+      "wisdom",
+      "resident"
+    ],
+    "passage": "The old fisherman stood at the end of the long wooden _(1)_, watching the morning mist lift off the water. He was a lifelong _(2)_ of the harbour village \u2014 he had lived there for seventy years and knew every boat, every rock, and every face. His _(3)_ was famous throughout the region: people came from far away just to sit beside him and hear his advice, trusting his good judgment built from a lifetime of experience. He told the story of a _(4)_ sailor who had once been stranded alone on a deserted island for six months, with nothing _(5)_ a knife and a waterproof coat to help him survive. That survivor had learned to _(6)_ fresh water by finding plants that collected dew overnight. The sailor's story of courage and endurance was a true _(7)_ \u2014 a victory over impossible odds that the whole village still celebrated. The fisherman explained that a modern map could _(8)_ any spot in the ocean within metres, a remarkable _(9)_ from the old days when sailors used only stars and guesswork. He liked to _(10)_ any problem with patience, coming at it slowly and carefully, never rushing. He could _(11)_ photographs with his old camera \u2014 images so vivid and alive they seemed to move. The _(12)_ ruins of a fort at the cliff's edge still stood, its stones worn smooth by five hundred years of sea wind.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "pier",
+        "options": [
+          "pier",
+          "triumph",
+          "wisdom",
+          "resident"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "resident",
+        "options": [
+          "resident",
+          "castaway",
+          "pier",
+          "wisdom"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "wisdom",
+        "options": [
+          "wisdom",
+          "triumph",
+          "progress",
+          "resident"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "castaway",
+        "options": [
+          "castaway",
+          "resident",
+          "ancient",
+          "wisdom"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "except",
+        "options": [
+          "except",
+          "enable",
+          "capture",
+          "locate"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "locate",
+        "options": [
+          "locate",
+          "capture",
+          "enable",
+          "approach"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "triumph",
+        "options": [
+          "triumph",
+          "wisdom",
+          "progress",
+          "pier"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "enable",
+        "options": [
+          "enable",
+          "capture",
+          "locate",
+          "approach"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "progress",
+        "options": [
+          "progress",
+          "triumph",
+          "wisdom",
+          "capture"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "approach",
+        "options": [
+          "approach",
+          "locate",
+          "enable",
+          "progress"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "capture",
+        "options": [
+          "capture",
+          "approach",
+          "enable",
+          "locate"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "ancient",
+        "options": [
+          "ancient",
+          "castaway",
+          "except",
+          "resident"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "except",
+        "scale": [
+          "besides",
+          "except",
+          "excluding"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "enable",
+        "scale": [
+          "help",
+          "enable",
+          "empower"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "castaway",
+        "scale": [
+          "lost",
+          "castaway",
+          "stranded"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "ancient",
+        "scale": [
+          "old",
+          "ancient",
+          "prehistoric"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "approach",
+        "words": [
+          "retreat",
+          "near",
+          "advance",
+          "come close"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "retreat"
+      },
+      {
+        "vocabWord": "locate",
+        "words": [
+          "find",
+          "lose",
+          "discover",
+          "pinpoint"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "lose"
+      },
+      {
+        "vocabWord": "progress",
+        "words": [
+          "setback",
+          "advancement",
+          "improvement",
+          "success"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "setback"
+      },
+      {
+        "vocabWord": "capture",
+        "words": [
+          "release",
+          "catch",
+          "seize",
+          "trap"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "release"
+      },
+      {
+        "vocabWord": "pier",
+        "words": [
+          "dock",
+          "wharf",
+          "platform",
+          "inland"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "inland"
+      },
+      {
+        "vocabWord": "triumph",
+        "words": [
+          "victory",
+          "success",
+          "win",
+          "defeat"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "defeat"
+      },
+      {
+        "vocabWord": "wisdom",
+        "words": [
+          "foolishness",
+          "knowledge",
+          "understanding",
+          "insight"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "foolishness"
+      },
+      {
+        "vocabWord": "resident",
+        "words": [
+          "inhabitant",
+          "visitor",
+          "occupant",
+          "dweller"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "visitor"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

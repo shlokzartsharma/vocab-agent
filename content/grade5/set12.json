@@ -1,0 +1,405 @@
+{
+  "grade": 5,
+  "setNumber": 12,
+  "words": [
+    "diaspora",
+    "refugee",
+    "nomadic",
+    "assimilate",
+    "displacement",
+    "exile",
+    "indigenous",
+    "persecution",
+    "deportation",
+    "pilgrimage",
+    "emigrate",
+    "disperse"
+  ],
+  "sources": [
+    "Common Core Grade 5",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 5",
+    "CKLA Grade 5",
+    "Tier 2 Academic"
+  ],
+  "genre": "refugee journey",
+  "story": {
+    "genre": "refugee journey",
+    "characters": [
+      "Yasmin",
+      "Kofi",
+      "Eleni"
+    ],
+    "parts": [
+      {
+        "title": "Leaving Home",
+        "text": "Yasmin's family had lived in their village for generations — they were **indigenous** to the land and knew every hill and river. But when **persecution** spread and people were punished for their beliefs, her family knew they had to leave. They became part of a great **diaspora**, thousands of families scattering to different countries."
+      },
+      {
+        "title": "The Journey",
+        "text": "On the road, Yasmin met Kofi, a **refugee** who had fled his country after his father faced **deportation** and was sent away by soldiers. Together, they traveled with families living a **nomadic** life, moving from camp to camp with no permanent home. Kofi shared that his uncle had been sent into **exile**, forced to live far away."
+      },
+      {
+        "title": "A New Beginning",
+        "text": "In the city, Yasmin met Eleni, who had begun to **assimilate** into the new culture by learning the language. Eleni explained that the **displacement** of so many people had changed the neighborhood. Some families chose to **emigrate** to countries even farther away. Others would **disperse** across the continent, spreading out to find peace. Eleni invited Yasmin to join a **pilgrimage** — a walk through the city to honor everyone's journey."
+      },
+      {
+        "title": "Looking Forward",
+        "text": "That evening, the three friends sat together and shared stories of the places they had come from. Though their paths were different, they understood what it meant to start over. They promised to keep their traditions alive while building new lives, knowing that home is not just a place — it is the people you carry in your heart."
+      }
+    ],
+    "wordCount": 240
+  },
+  "definitions": [
+    {
+      "word": "diaspora",
+      "partOfSpeech": "noun",
+      "meaning1": "A large group of people who have spread out from their original homeland to live in other places. Example: The diaspora of Irish families during the famine brought millions of people to America.",
+      "meaning2": "",
+      "studentChallenge": "The ___ of families from the war-torn country stretched across three continents.",
+      "sentence": ""
+    },
+    {
+      "word": "refugee",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who has been forced to leave their country to escape war, danger, or unfair treatment. Example: The refugee carried only a small bag when she crossed the border to safety.",
+      "meaning2": "",
+      "studentChallenge": "The young ___ missed her school and friends back in her homeland.",
+      "sentence": ""
+    },
+    {
+      "word": "nomadic",
+      "partOfSpeech": "adjective",
+      "meaning1": "Moving from place to place instead of living in one permanent home. Example: The nomadic herders traveled with their animals across the grasslands each season.",
+      "meaning2": "",
+      "studentChallenge": "The ___ tribe moved their camp every few weeks to follow the river.",
+      "sentence": ""
+    },
+    {
+      "word": "assimilate",
+      "partOfSpeech": "verb",
+      "meaning1": "To learn and adopt the customs, language, or habits of a new culture. Example: It took time for the family to assimilate into their new community after moving from another country.",
+      "meaning2": "To take in and fully understand new information. Example: She needed a moment to assimilate all the facts before answering the question.",
+      "studentChallenge": "After moving to a new country, he worked hard to ___ by learning the language.",
+      "sentence": ""
+    },
+    {
+      "word": "displacement",
+      "partOfSpeech": "noun",
+      "meaning1": "The forced movement of people away from their home or country. Example: The displacement of thousands of families was caused by the flooding of the river valley.",
+      "meaning2": "",
+      "studentChallenge": "The ___ of villagers from their homes left many families without shelter.",
+      "sentence": ""
+    },
+    {
+      "word": "exile",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "The state of being forced to live away from one's own country, often as a punishment. Example: The king sent the rebel leader into exile on a faraway island.",
+      "meaning2": "To force someone to leave their country. Example: The government decided to exile anyone who spoke against the new laws.",
+      "studentChallenge": "The poet was sent into ___ and spent twenty years living far from home.",
+      "sentence": ""
+    },
+    {
+      "word": "indigenous",
+      "partOfSpeech": "adjective",
+      "meaning1": "Originally living or growing in a particular place; native. Example: The indigenous people of the region had lived there for thousands of years before outsiders arrived.",
+      "meaning2": "",
+      "studentChallenge": "The museum exhibit honored the ___ communities who first settled the land.",
+      "sentence": ""
+    },
+    {
+      "word": "persecution",
+      "partOfSpeech": "noun",
+      "meaning1": "Cruel and unfair treatment of a person or group, especially because of their race, religion, or beliefs. Example: Many families fled the country to escape persecution for their religious practices.",
+      "meaning2": "",
+      "studentChallenge": "The family left their homeland to escape ___ because of their beliefs.",
+      "sentence": ""
+    },
+    {
+      "word": "deportation",
+      "partOfSpeech": "noun",
+      "meaning1": "The act of forcing a person to leave a country, usually by the government. Example: The deportation order meant the family had only days to pack and leave the country.",
+      "meaning2": "",
+      "studentChallenge": "The lawyer fought against the ___ of the family who had lived in the country for ten years.",
+      "sentence": ""
+    },
+    {
+      "word": "pilgrimage",
+      "partOfSpeech": "noun",
+      "meaning1": "A special journey to a meaningful or sacred place. Example: Every year, thousands of people make a pilgrimage to the ancient temple in the mountains.",
+      "meaning2": "",
+      "studentChallenge": "The group made a ___ to the historic site where their ancestors had first arrived.",
+      "sentence": ""
+    },
+    {
+      "word": "emigrate",
+      "partOfSpeech": "verb",
+      "meaning1": "To leave one's own country to go live in another. Example: Her grandparents decided to emigrate from Italy to the United States in search of a better life.",
+      "meaning2": "",
+      "studentChallenge": "Many families chose to ___ when life in their country became too dangerous.",
+      "sentence": ""
+    },
+    {
+      "word": "disperse",
+      "partOfSpeech": "verb",
+      "meaning1": "To spread out or scatter in different directions. Example: After the concert ended, the crowd began to disperse into the parking lot.",
+      "meaning2": "To cause something to spread out widely. Example: The wind helped disperse the seeds across the entire meadow.",
+      "studentChallenge": "The refugees had to ___ across many different countries to find safe places to live.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The _______ of families from the war-torn country spread communities across three continents.",
+      "sentence2": "Historians study the _______ of African peoples to understand how cultures traveled around the world.",
+      "options": ["displacement", "diaspora", "deportation", "pilgrimage"],
+      "correctIndex": 1,
+      "correctAnswer": "diaspora"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The young _______ carried only a blanket and a photograph when she arrived at the border camp.",
+      "sentence2": "The organization built schools for every _______ child who had been forced to flee their homeland.",
+      "options": ["exile", "refugee", "nomadic", "indigenous"],
+      "correctIndex": 1,
+      "correctAnswer": "refugee"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The _______ tribe traveled across the desert with their camels, never staying in one place for long.",
+      "sentence2": "After moving five times in two years, she joked that her family had become completely _______.",
+      "options": ["nomadic", "indigenous", "diaspora", "disperse"],
+      "correctIndex": 0,
+      "correctAnswer": "nomadic"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "It took the new student several months to _______ into the school's culture and make friends.",
+      "sentence2": "The scientist needed time to _______ all the new data before drawing any conclusions.",
+      "options": ["emigrate", "disperse", "assimilate", "exile"],
+      "correctIndex": 2,
+      "correctAnswer": "assimilate"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The _______ of thousands of villagers was caused by the rising floodwaters that covered their homes.",
+      "sentence2": "War led to the _______ of entire communities who had to abandon their neighborhoods overnight.",
+      "options": ["persecution", "displacement", "deportation", "pilgrimage"],
+      "correctIndex": 1,
+      "correctAnswer": "displacement"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The king sent the poet into _______ for writing verses that criticized the royal court.",
+      "sentence2": "After years of _______ in a foreign land, the old man was finally allowed to return home.",
+      "options": ["exile", "refugee", "diaspora", "persecution"],
+      "correctIndex": 0,
+      "correctAnswer": "exile"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The _______ people of the island had a deep knowledge of the local plants and animals.",
+      "sentence2": "The museum celebrated the art and traditions of the _______ communities who first called this region home.",
+      "options": ["nomadic", "indigenous", "disperse", "emigrate"],
+      "correctIndex": 1,
+      "correctAnswer": "indigenous"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Many families fled across the border to escape _______ because of their religious beliefs.",
+      "sentence2": "The history lesson explained how _______ of minority groups led to major human rights movements.",
+      "options": ["deportation", "displacement", "persecution", "exile"],
+      "correctIndex": 2,
+      "correctAnswer": "persecution"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The government ordered the _______ of families who did not have the proper documents.",
+      "sentence2": "The lawyer worked around the clock to prevent the _______ of her client to a country he barely remembered.",
+      "options": ["diaspora", "pilgrimage", "deportation", "displacement"],
+      "correctIndex": 2,
+      "correctAnswer": "deportation"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Every spring, thousands of people make a _______ to the ancient temple on the mountaintop.",
+      "sentence2": "The family's _______ to their grandparents' village was a deeply meaningful journey they would never forget.",
+      "options": ["pilgrimage", "exile", "diaspora", "emigrate"],
+      "correctIndex": 0,
+      "correctAnswer": "pilgrimage"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Her grandparents chose to _______ from Poland and start a new life in Canada after the war ended.",
+      "sentence2": "Many skilled workers _______ to other countries when they cannot find good jobs at home.",
+      "options": ["assimilate", "disperse", "emigrate", "refugee"],
+      "correctIndex": 2,
+      "correctAnswer": "emigrate"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "After the ceremony, the guests began to _______ and head to their cars in the parking lot.",
+      "sentence2": "The strong winds caused the dandelion seeds to _______ across the entire field.",
+      "options": ["nomadic", "disperse", "assimilate", "deportation"],
+      "correctIndex": 1,
+      "correctAnswer": "disperse"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "diaspora",
+      "refugee",
+      "nomadic",
+      "assimilate",
+      "displacement",
+      "exile",
+      "indigenous",
+      "persecution",
+      "deportation",
+      "pilgrimage",
+      "emigrate",
+      "disperse"
+    ],
+    "passage": "Long ago, the Kaya people were _(1)_ to the green valley between two mountains. They had farmed the land for centuries, and every family knew the songs of their ancestors. But when a new ruler rose to power, he brought _(2)_ against anyone who followed the old traditions.\n\nFamilies faced a terrible choice. Some were given _(3)_ orders, forced by soldiers to leave immediately. Others chose to _(4)_ on their own, crossing the border before things got worse. The village elder was sent into _(5)_, banned from ever returning to the land he loved. The _(6)_ of so many people left the once-thriving valley quiet and empty.\n\nThe Kaya became part of a great _(7)_, spreading across many nations. In the camps, a young girl named Saba became a _(8)_, carrying nothing but a small wooden flute her grandmother had given her. Some families lived a _(9)_ life, drifting from one temporary shelter to the next.\n\nYears passed, and the Kaya people began to _(10)_ into their new communities, learning new languages while keeping their old songs alive. They would _(11)_ across the globe, settling in cities and towns far apart from one another. Yet every year, they made a _(12)_ back to the valley — not to live, but to remember where their story began.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "indigenous",
+        "options": ["indigenous", "nomadic", "refugee", "exile"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "persecution",
+        "options": ["deportation", "displacement", "persecution", "pilgrimage"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "deportation",
+        "options": ["exile", "deportation", "diaspora", "disperse"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "emigrate",
+        "options": ["assimilate", "emigrate", "disperse", "indigenous"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "exile",
+        "options": ["exile", "persecution", "refugee", "deportation"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "displacement",
+        "options": ["pilgrimage", "displacement", "diaspora", "nomadic"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "diaspora",
+        "options": ["diaspora", "emigrate", "disperse", "persecution"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "refugee",
+        "options": ["indigenous", "exile", "refugee", "assimilate"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "nomadic",
+        "options": ["nomadic", "displacement", "deportation", "pilgrimage"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "assimilate",
+        "options": ["disperse", "assimilate", "emigrate", "diaspora"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "disperse",
+        "options": ["refugee", "indigenous", "disperse", "persecution"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "pilgrimage",
+        "options": ["pilgrimage", "nomadic", "exile", "displacement"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "persecution",
+        "scale": ["Teasing", "Bullying", "Persecution"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "disperse",
+        "scale": ["Shift", "Scatter", "Disperse"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "exile",
+        "scale": ["Departure", "Banishment", "Exile"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "nomadic",
+        "scale": ["Traveling", "Wandering", "Nomadic"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "refugee",
+        "words": ["Evacuee", "Resident", "Escapee", "Survivor"],
+        "imposterIndex": 1,
+        "imposterWord": "Resident"
+      },
+      {
+        "vocabWord": "indigenous",
+        "words": ["Native", "Original", "Local", "Foreign"],
+        "imposterIndex": 3,
+        "imposterWord": "Foreign"
+      },
+      {
+        "vocabWord": "assimilate",
+        "words": ["Adapt", "Blend", "Integrate", "Resist"],
+        "imposterIndex": 3,
+        "imposterWord": "Resist"
+      },
+      {
+        "vocabWord": "displacement",
+        "words": ["Removal", "Settlement", "Uprooting", "Relocation"],
+        "imposterIndex": 1,
+        "imposterWord": "Settlement"
+      },
+      {
+        "vocabWord": "emigrate",
+        "words": ["Leave", "Depart", "Relocate", "Remain"],
+        "imposterIndex": 3,
+        "imposterWord": "Remain"
+      },
+      {
+        "vocabWord": "diaspora",
+        "words": ["Scattering", "Gathering", "Spreading", "Migration"],
+        "imposterIndex": 1,
+        "imposterWord": "Gathering"
+      },
+      {
+        "vocabWord": "persecution",
+        "words": ["Oppression", "Cruelty", "Abuse", "Protection"],
+        "imposterIndex": 3,
+        "imposterWord": "Protection"
+      },
+      {
+        "vocabWord": "pilgrimage",
+        "words": ["Journey", "Quest", "Voyage", "Standstill"],
+        "imposterIndex": 3,
+        "imposterWord": "Standstill"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

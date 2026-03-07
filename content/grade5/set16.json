@@ -1,0 +1,405 @@
+{
+  "grade": 5,
+  "setNumber": 16,
+  "words": [
+    "indictment",
+    "equity",
+    "clemency",
+    "prosecute",
+    "perjury",
+    "advocate",
+    "acquit",
+    "jurisdiction",
+    "plaintiff",
+    "ordinance",
+    "liability",
+    "statute"
+  ],
+  "sources": [
+    "Common Core Grade 5",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 5",
+    "CKLA Grade 5",
+    "Tier 2 Academic"
+  ],
+  "genre": "courtroom drama",
+  "story": {
+    "genre": "courtroom drama",
+    "characters": [
+      "Carmen",
+      "Dayo",
+      "Iris"
+    ],
+    "parts": [
+      {
+        "title": "The Case Begins",
+        "text": "Carmen sat nervously as the judge read the **indictment** against Riverside Factory for dumping waste into the river. As the **plaintiff**, Carmen's family had filed the complaint because pollution had ruined their farm. Her lawyer, Dayo, was ready to **prosecute** the factory owners and hold them accountable. He had studied every **statute** related to water pollution."
+      },
+      {
+        "title": "The Trial Unfolds",
+        "text": "The factory's lawyer argued that the court lacked **jurisdiction** because the river crossed into another county. But Judge Iris ruled that a local **ordinance** clearly covered the town's waterways. Dayo called a witness who was a well-known **advocate** for clean rivers. The factory's star witness stumbled during questioning, and Dayo suspected **perjury** — the witness may have lied under oath."
+      },
+      {
+        "title": "The Verdict",
+        "text": "The jury refused to **acquit** the factory — they found it guilty. The judge explained that the factory held full **liability** for damage to the river and surrounding farms. Carmen's family asked for **equity** — not revenge, only fair treatment and a clean river. The factory owners requested **clemency**, hoping for a lighter punishment, but the judge said the fine must match the harm."
+      },
+      {
+        "title": "A New Beginning",
+        "text": "After the trial, Carmen stood outside the courthouse and took a deep breath. The river would finally be cleaned up, and the farms could begin to recover. Dayo shook her hand and said her courage had made a real difference for the whole town. Carmen smiled, knowing that standing up for what was right had been worth every difficult moment."
+      }
+    ],
+    "wordCount": 237
+  },
+  "definitions": [
+    {
+      "word": "indictment",
+      "partOfSpeech": "noun",
+      "meaning1": "A formal accusation that someone has committed a crime. Example: The grand jury issued an indictment against the company for breaking safety rules.",
+      "meaning2": "Something that shows a system or situation is bad. Example: The crumbling school building was an indictment of years of neglect.",
+      "studentChallenge": "The ___ was read aloud in court, listing all the charges against the accused.",
+      "sentence": ""
+    },
+    {
+      "word": "equity",
+      "partOfSpeech": "noun",
+      "meaning1": "Fairness and justice in the way people are treated. Example: The new rules were designed to promote equity so that every student had an equal chance.",
+      "meaning2": "",
+      "studentChallenge": "The principal believed in ___ and made sure every classroom had the same resources.",
+      "sentence": ""
+    },
+    {
+      "word": "clemency",
+      "partOfSpeech": "noun",
+      "meaning1": "Mercy or leniency shown toward someone being punished. Example: The prisoner asked the governor for clemency, hoping for a shorter sentence.",
+      "meaning2": "",
+      "studentChallenge": "The judge showed ___ by giving a lighter punishment to the first-time offender.",
+      "sentence": ""
+    },
+    {
+      "word": "prosecute",
+      "partOfSpeech": "verb",
+      "meaning1": "To officially charge someone with a crime and bring them to trial. Example: The district attorney decided to prosecute the case herself.",
+      "meaning2": "",
+      "studentChallenge": "The state decided to ___ the company for illegally dumping chemicals.",
+      "sentence": ""
+    },
+    {
+      "word": "perjury",
+      "partOfSpeech": "noun",
+      "meaning1": "The crime of lying after promising to tell the truth in court. Example: The witness was charged with perjury after the video proved her story was false.",
+      "meaning2": "",
+      "studentChallenge": "Telling a lie under oath in court is a serious crime called ___.",
+      "sentence": ""
+    },
+    {
+      "word": "advocate",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A person who publicly supports a cause or policy. Example: She became an advocate for animal rights after volunteering at the shelter.",
+      "meaning2": "To publicly recommend or support something. Example: The teacher would advocate for longer recess time at every staff meeting.",
+      "studentChallenge": "As an ___ for healthy eating, he encouraged the school to serve more fruits and vegetables.",
+      "sentence": ""
+    },
+    {
+      "word": "acquit",
+      "partOfSpeech": "verb",
+      "meaning1": "To officially declare that someone is not guilty of a crime. Example: The jury voted to acquit the defendant after reviewing all the evidence.",
+      "meaning2": "",
+      "studentChallenge": "After hearing both sides, the jury decided to ___ the accused of all charges.",
+      "sentence": ""
+    },
+    {
+      "word": "jurisdiction",
+      "partOfSpeech": "noun",
+      "meaning1": "The official power to make legal decisions or the area where that power applies. Example: The local court did not have jurisdiction over crimes committed in another state.",
+      "meaning2": "",
+      "studentChallenge": "The case was moved because it fell outside the court's ___.",
+      "sentence": ""
+    },
+    {
+      "word": "plaintiff",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who brings a case against someone else in court. Example: The plaintiff claimed the store had sold him a broken television and refused a refund.",
+      "meaning2": "",
+      "studentChallenge": "The ___ stood before the judge and explained how she had been wronged.",
+      "sentence": ""
+    },
+    {
+      "word": "ordinance",
+      "partOfSpeech": "noun",
+      "meaning1": "An official rule or law made by a city or town government. Example: A new ordinance required all dogs to be on leashes in the park.",
+      "meaning2": "",
+      "studentChallenge": "The town passed an ___ that banned fireworks after ten o'clock at night.",
+      "sentence": ""
+    },
+    {
+      "word": "liability",
+      "partOfSpeech": "noun",
+      "meaning1": "Legal responsibility for something, especially for paying costs or damages. Example: The company accepted liability for the oil spill and agreed to pay for the cleanup.",
+      "meaning2": "Something that causes a disadvantage. Example: His fear of public speaking was a liability in the debate competition.",
+      "studentChallenge": "The factory was forced to accept ___ for the pollution it had caused.",
+      "sentence": ""
+    },
+    {
+      "word": "statute",
+      "partOfSpeech": "noun",
+      "meaning1": "A written law passed by a government body. Example: The new statute made it illegal to text while driving in the state.",
+      "meaning2": "",
+      "studentChallenge": "According to the ___, all buildings must have working smoke detectors.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The grand jury issued a formal _______ against the company for violating safety codes.",
+      "sentence2": "The crumbling roads were an _______ of the city's failure to invest in repairs.",
+      "options": ["ordinance", "indictment", "statute", "liability"],
+      "correctIndex": 1,
+      "correctAnswer": "indictment"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The new school policy was designed to promote _______ so every student received fair treatment.",
+      "sentence2": "The community group fought for _______ in housing, demanding equal access for all families.",
+      "options": ["clemency", "jurisdiction", "equity", "perjury"],
+      "correctIndex": 2,
+      "correctAnswer": "equity"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The governor granted _______ and reduced the prisoner's sentence by five years.",
+      "sentence2": "The defendant's family wrote letters begging the judge for _______, asking for mercy.",
+      "options": ["clemency", "acquit", "indictment", "liability"],
+      "correctIndex": 0,
+      "correctAnswer": "clemency"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The district attorney vowed to _______ anyone caught dumping waste in the river.",
+      "sentence2": "The government decided to _______ the case after new evidence was discovered.",
+      "options": ["advocate", "acquit", "prosecute", "plaintiff"],
+      "correctIndex": 2,
+      "correctAnswer": "prosecute"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The witness was charged with _______ after security footage showed she had lied under oath.",
+      "sentence2": "Committing _______ in a courtroom can result in heavy fines and time in jail.",
+      "options": ["indictment", "liability", "perjury", "ordinance"],
+      "correctIndex": 2,
+      "correctAnswer": "perjury"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The lawyer became a strong _______ for children's rights in the community.",
+      "sentence2": "Several parents gathered to _______ for safer crosswalks near the school.",
+      "options": ["plaintiff", "advocate", "statute", "equity"],
+      "correctIndex": 1,
+      "correctAnswer": "advocate"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "After reviewing all the evidence, the jury decided to _______ the defendant of every charge.",
+      "sentence2": "The judge instructed the jury that they must _______ anyone who is not proven guilty beyond a reasonable doubt.",
+      "options": ["prosecute", "acquit", "advocate", "clemency"],
+      "correctIndex": 1,
+      "correctAnswer": "acquit"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The local court did not have _______ over crimes that happened across the state line.",
+      "sentence2": "The case was transferred because it fell within federal _______, not the city court's authority.",
+      "options": ["jurisdiction", "ordinance", "statute", "liability"],
+      "correctIndex": 0,
+      "correctAnswer": "jurisdiction"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The _______ told the jury how the broken sidewalk had caused her to fall and break her arm.",
+      "sentence2": "As the _______ in the lawsuit, Mr. Torres had to prove that the store was responsible for his injury.",
+      "options": ["advocate", "plaintiff", "indictment", "perjury"],
+      "correctIndex": 1,
+      "correctAnswer": "plaintiff"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The town council passed a new _______ limiting how late construction noise could continue.",
+      "sentence2": "A local _______ required all restaurants to post their health inspection scores in the window.",
+      "options": ["statute", "ordinance", "jurisdiction", "equity"],
+      "correctIndex": 1,
+      "correctAnswer": "ordinance"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The company accepted full _______ for the accident and paid for all the medical bills.",
+      "sentence2": "His temper was a real _______ during group projects because it made teamwork difficult.",
+      "options": ["liability", "clemency", "perjury", "indictment"],
+      "correctIndex": 0,
+      "correctAnswer": "liability"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "A new _______ made it illegal to use a phone while driving anywhere in the state.",
+      "sentence2": "The lawyer found an old _______ that supported her client's right to fish in the public lake.",
+      "options": ["acquit", "plaintiff", "ordinance", "statute"],
+      "correctIndex": 3,
+      "correctAnswer": "statute"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "indictment",
+      "equity",
+      "clemency",
+      "prosecute",
+      "perjury",
+      "advocate",
+      "acquit",
+      "jurisdiction",
+      "plaintiff",
+      "ordinance",
+      "liability",
+      "statute"
+    ],
+    "passage": "The courtroom buzzed with tension as the _(1)_ stepped forward to tell her story. Mrs. Delgado claimed that the Greenleaf Paper Mill had been dumping chemicals into the town's creek, violating a _(2)_ that protected local waterways. Her lawyer presented the formal _(3)_ listing the charges against the mill.\n\nThe mill's attorney argued that the county court had no _(4)_ because the creek flowed through two counties. But the judge pointed to a town _(5)_ that gave the court authority over all water sources within its borders. A well-known environmental _(6)_ took the stand and explained how the chemicals had harmed fish and wildlife.\n\nDuring cross-examination, one of the mill's witnesses changed his story from what he had said earlier. The judge warned him that _(7)_ was a serious offense. The state was determined to _(8)_ the mill to the fullest extent of the law.\n\nIn the end, the jury refused to _(9)_ the mill. They found it guilty and declared it held full _(10)_ for the damage. Mrs. Delgado said she was not seeking revenge — she only wanted _(11)_ and a fair outcome for her community. The mill's owner asked for _(12)_, but the judge insisted the punishment must fit the crime.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "plaintiff",
+        "options": ["advocate", "plaintiff", "liability", "clemency"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "statute",
+        "options": ["ordinance", "statute", "indictment", "perjury"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "indictment",
+        "options": ["indictment", "equity", "jurisdiction", "acquit"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "jurisdiction",
+        "options": ["liability", "statute", "jurisdiction", "clemency"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "ordinance",
+        "options": ["ordinance", "perjury", "advocate", "plaintiff"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "advocate",
+        "options": ["prosecute", "equity", "advocate", "indictment"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "perjury",
+        "options": ["perjury", "acquit", "statute", "liability"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "prosecute",
+        "options": ["clemency", "prosecute", "ordinance", "plaintiff"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "acquit",
+        "options": ["acquit", "indictment", "advocate", "equity"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "liability",
+        "options": ["jurisdiction", "perjury", "liability", "statute"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "equity",
+        "options": ["clemency", "equity", "prosecute", "ordinance"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "clemency",
+        "options": ["acquit", "clemency", "plaintiff", "advocate"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "clemency",
+        "scale": ["Leniency", "Mercy", "Clemency"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "liability",
+        "scale": ["Risk", "Obligation", "Liability"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "perjury",
+        "scale": ["Fib", "Lie", "Perjury"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "indictment",
+        "scale": ["Complaint", "Accusation", "Indictment"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "equity",
+        "words": ["Fairness", "Justice", "Bias", "Equality"],
+        "imposterIndex": 2,
+        "imposterWord": "Bias"
+      },
+      {
+        "vocabWord": "prosecute",
+        "words": ["Charge", "Accuse", "Defend", "Indict"],
+        "imposterIndex": 2,
+        "imposterWord": "Defend"
+      },
+      {
+        "vocabWord": "acquit",
+        "words": ["Release", "Free", "Convict", "Pardon"],
+        "imposterIndex": 2,
+        "imposterWord": "Convict"
+      },
+      {
+        "vocabWord": "advocate",
+        "words": ["Supporter", "Champion", "Opponent", "Backer"],
+        "imposterIndex": 2,
+        "imposterWord": "Opponent"
+      },
+      {
+        "vocabWord": "clemency",
+        "words": ["Mercy", "Harshness", "Compassion", "Forgiveness"],
+        "imposterIndex": 1,
+        "imposterWord": "Harshness"
+      },
+      {
+        "vocabWord": "plaintiff",
+        "words": ["Accuser", "Complainant", "Defendant", "Petitioner"],
+        "imposterIndex": 2,
+        "imposterWord": "Defendant"
+      },
+      {
+        "vocabWord": "statute",
+        "words": ["Law", "Regulation", "Rule", "Suggestion"],
+        "imposterIndex": 3,
+        "imposterWord": "Suggestion"
+      },
+      {
+        "vocabWord": "jurisdiction",
+        "words": ["Authority", "Control", "Powerlessness", "Domain"],
+        "imposterIndex": 2,
+        "imposterWord": "Powerlessness"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

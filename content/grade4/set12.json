@@ -1,0 +1,405 @@
+{
+  "grade": 4,
+  "setNumber": 12,
+  "words": [
+    "alternative",
+    "consequence",
+    "evaluate",
+    "implement",
+    "resolve",
+    "dilemma",
+    "adequate",
+    "anticipate",
+    "formulate",
+    "justify",
+    "compromise",
+    "efficient"
+  ],
+  "sources": [
+    "Common Core Grade 4",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 4",
+    "CKLA Grade 4",
+    "Tier 2 Academic"
+  ],
+  "genre": "mystery detective",
+  "story": {
+    "genre": "mystery detective",
+    "characters": [
+      "Nia",
+      "Ravi",
+      "Hana"
+    ],
+    "parts": [
+      {
+        "title": "The Missing Trophy",
+        "text": "The school's golden soccer trophy had vanished from the display case overnight. Nia, the best young detective in town, knew she had to find an **alternative** explanation — it could not have just disappeared. Every action has a **consequence**, she told her partner Ravi, and whoever took it left clues behind. They needed to **evaluate** every piece of evidence before blaming anyone."
+      },
+      {
+        "title": "Following the Clues",
+        "text": "Ravi suggested they **implement** a plan: interview every student who had stayed late the night before. They had to **resolve** the case before the awards ceremony on Friday. Hana, the school reporter, described a **dilemma** — she saw two students arguing near the trophy case but was not sure if it was related."
+      },
+      {
+        "title": "Cracking the Case",
+        "text": "The janitor's report gave **adequate** details about who entered the building after hours. Nia could **anticipate** the next question: why would someone take the trophy? Ravi helped her **formulate** a theory based on fingerprints and muddy footprints. Hana asked Nia to **justify** her conclusion with solid proof. The answer was a simple **compromise** — a student had borrowed it for a surprise party and planned to return it. The student's **efficient** plan worked so quickly that nobody noticed."
+      },
+      {
+        "title": "Case Closed",
+        "text": "With the trophy safely returned, the awards ceremony went ahead as planned. Nia smiled as the principal thanked the detective team for their quick work. Ravi wrote down everything they had learned in his case notebook. Hana snapped a photo and promised to write about it for the school newspaper. Another mystery solved."
+      }
+    ],
+    "wordCount": 246
+  },
+  "definitions": [
+    {
+      "word": "alternative",
+      "partOfSpeech": "noun, adjective",
+      "meaning1": "Another choice or option instead of something else. Example: Since the park was closed, we found an alternative place to have our picnic.",
+      "meaning2": "Different from what is usual or expected. Example: The doctor suggested an alternative treatment when the first medicine did not work.",
+      "studentChallenge": "When the road was blocked, we had to find an ___ route to school.",
+      "sentence": ""
+    },
+    {
+      "word": "consequence",
+      "partOfSpeech": "noun",
+      "meaning1": "Something that happens as a result of an action or decision. Example: One consequence of not studying is getting a low grade on the test.",
+      "meaning2": "",
+      "studentChallenge": "Forgetting to water the plants had a sad ___ — they all wilted and turned brown.",
+      "sentence": ""
+    },
+    {
+      "word": "evaluate",
+      "partOfSpeech": "verb",
+      "meaning1": "To look at something carefully to decide how good or important it is. Example: The judges had to evaluate each science project before picking a winner.",
+      "meaning2": "",
+      "studentChallenge": "The teacher asked us to ___ our own writing and find ways to improve it.",
+      "sentence": ""
+    },
+    {
+      "word": "implement",
+      "partOfSpeech": "verb",
+      "meaning1": "To put a plan or idea into action. Example: The school decided to implement a new recycling program starting next month.",
+      "meaning2": "",
+      "studentChallenge": "The team voted to ___ the captain's strategy for the next game.",
+      "sentence": ""
+    },
+    {
+      "word": "resolve",
+      "partOfSpeech": "verb",
+      "meaning1": "To find a solution to a problem or disagreement. Example: The two friends were able to resolve their argument by talking it out calmly.",
+      "meaning2": "To make a firm decision to do something. Example: She resolved to practice piano every day until the recital.",
+      "studentChallenge": "The principal helped the students ___ their disagreement about the playground rules.",
+      "sentence": ""
+    },
+    {
+      "word": "dilemma",
+      "partOfSpeech": "noun",
+      "meaning1": "A difficult situation where you have to choose between two or more options. Example: She faced a dilemma: go to her friend's party or stay home and study for the test.",
+      "meaning2": "",
+      "studentChallenge": "He was in a ___ because both soccer and drama club met at the same time.",
+      "sentence": ""
+    },
+    {
+      "word": "adequate",
+      "partOfSpeech": "adjective",
+      "meaning1": "Enough or good enough for what is needed. Example: Make sure you drink an adequate amount of water before the long hike.",
+      "meaning2": "",
+      "studentChallenge": "The shelter had ___ supplies of food and blankets for everyone who needed help.",
+      "sentence": ""
+    },
+    {
+      "word": "anticipate",
+      "partOfSpeech": "verb",
+      "meaning1": "To expect or look forward to something that is going to happen. Example: The children could anticipate the surprise because they heard whispering behind the door.",
+      "meaning2": "",
+      "studentChallenge": "We ___ that the line for the new roller coaster will be very long on opening day.",
+      "sentence": ""
+    },
+    {
+      "word": "formulate",
+      "partOfSpeech": "verb",
+      "meaning1": "To create or develop a plan, idea, or opinion by thinking carefully. Example: The scientist needed time to formulate her theory before presenting it to the group.",
+      "meaning2": "",
+      "studentChallenge": "The students worked together to ___ a plan for their group project.",
+      "sentence": ""
+    },
+    {
+      "word": "justify",
+      "partOfSpeech": "verb",
+      "meaning1": "To give a good reason for something you said or did. Example: She had to justify her answer on the test by showing her work.",
+      "meaning2": "",
+      "studentChallenge": "Can you ___ why you chose that answer by explaining your thinking?",
+      "sentence": ""
+    },
+    {
+      "word": "compromise",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "An agreement where each side gives up something to settle a disagreement. Example: They reached a compromise — one friend picked the movie and the other picked the snack.",
+      "meaning2": "To settle a disagreement by each side giving up part of what it wants. Example: The siblings had to compromise on which game to play after dinner.",
+      "studentChallenge": "After a long discussion, the class reached a ___ about where to go on the field trip.",
+      "sentence": ""
+    },
+    {
+      "word": "efficient",
+      "partOfSpeech": "adjective",
+      "meaning1": "Working well without wasting time, energy, or materials. Example: The new dishwasher is very efficient because it cleans everything in half the time.",
+      "meaning2": "",
+      "studentChallenge": "Packing your backpack the night before is an ___ way to save time in the morning.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Since the library was closed, they needed to find an _______ place to study.",
+      "sentence2": "The coach offered an _______ drill when the rain made it impossible to practice outside.",
+      "options": ["consequence", "dilemma", "alternative", "adequate"],
+      "correctIndex": 2,
+      "correctAnswer": "alternative"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "One _______ of eating too much candy is getting a stomachache.",
+      "sentence2": "Missing the bus was a direct _______ of sleeping through the alarm.",
+      "options": ["compromise", "consequence", "resolve", "efficient"],
+      "correctIndex": 1,
+      "correctAnswer": "consequence"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The judges will _______ each painting before choosing a winner.",
+      "sentence2": "Before buying a new bike, Dad wanted to _______ all the options carefully.",
+      "options": ["evaluate", "implement", "formulate", "justify"],
+      "correctIndex": 0,
+      "correctAnswer": "evaluate"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The city decided to _______ a new rule about recycling plastic bottles.",
+      "sentence2": "Once the team agreed on a strategy, it was time to _______ the plan.",
+      "options": ["anticipate", "resolve", "implement", "compromise"],
+      "correctIndex": 2,
+      "correctAnswer": "implement"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The teacher helped the two students _______ their argument during recess.",
+      "sentence2": "She was determined to _______ the mystery before the end of the week.",
+      "options": ["justify", "evaluate", "resolve", "formulate"],
+      "correctIndex": 2,
+      "correctAnswer": "resolve"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Choosing between two birthday parties on the same day was a real _______.",
+      "sentence2": "The captain faced a _______ when both her best players wanted to play the same position.",
+      "options": ["dilemma", "consequence", "alternative", "compromise"],
+      "correctIndex": 0,
+      "correctAnswer": "dilemma"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The campers made sure they had _______ firewood to last the whole night.",
+      "sentence2": "Her explanation was _______ enough for the teacher to accept the late homework.",
+      "options": ["efficient", "adequate", "alternative", "implement"],
+      "correctIndex": 1,
+      "correctAnswer": "adequate"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Good detectives _______ what the suspect will do next based on the clues.",
+      "sentence2": "We _______ cold weather in January, so we always pack warm coats.",
+      "options": ["formulate", "evaluate", "anticipate", "justify"],
+      "correctIndex": 2,
+      "correctAnswer": "anticipate"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The scientist needed time to _______ a hypothesis before running the experiment.",
+      "sentence2": "The class had to _______ a set of rules everyone could agree on.",
+      "options": ["resolve", "formulate", "implement", "anticipate"],
+      "correctIndex": 1,
+      "correctAnswer": "formulate"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "She had to _______ her answer by showing her work on the math test.",
+      "sentence2": "The student tried to _______ his choice of topic by explaining why it mattered.",
+      "options": ["compromise", "evaluate", "adequate", "justify"],
+      "correctIndex": 3,
+      "correctAnswer": "justify"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "They reached a _______ by agreeing to share the computer equally.",
+      "sentence2": "A good _______ means that both sides feel heard and respected.",
+      "options": ["consequence", "dilemma", "compromise", "alternative"],
+      "correctIndex": 2,
+      "correctAnswer": "compromise"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The new system is much more _______ because it saves both time and paper.",
+      "sentence2": "An _______ worker finishes tasks quickly without making mistakes.",
+      "options": ["adequate", "efficient", "resolve", "formulate"],
+      "correctIndex": 1,
+      "correctAnswer": "efficient"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "alternative",
+      "consequence",
+      "evaluate",
+      "implement",
+      "resolve",
+      "dilemma",
+      "adequate",
+      "anticipate",
+      "formulate",
+      "justify",
+      "compromise",
+      "efficient"
+    ],
+    "passage": "Detective Nia stared at the empty jewelry box on the museum floor. She had to _(1)_ every clue before jumping to conclusions. Her partner Ravi pulled out his notebook and began to _(2)_ a list of suspects based on who had visited the museum that day.\n\nThey faced a _(3)_ — should they search the building first or interview the security guard? Nia decided on an _(4)_ approach: they would split up and do both at the same time. This would be the most _(5)_ use of their limited time.\n\nRavi asked the guard if there was _(6)_ camera footage to review. The guard nodded and explained that the museum planned to _(7)_ a better security system next month. One _(8)_ of waiting too long was that the old cameras missed blind spots in the hallway.\n\nNia could _(9)_ exactly where the thief had gone based on the scratches near the window. She needed enough proof to _(10)_ her theory to the police chief. After reviewing all the evidence, they were able to _(11)_ the case by nightfall.\n\nIt turned out the jewels had been moved to a safer room by a worried curator. The museum director and the curator reached a _(12)_ — next time, any changes would be reported immediately.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "evaluate",
+        "options": ["formulate", "evaluate", "resolve", "compromise"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "formulate",
+        "options": ["justify", "implement", "formulate", "anticipate"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "dilemma",
+        "options": ["consequence", "dilemma", "alternative", "adequate"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "alternative",
+        "options": ["efficient", "alternative", "compromise", "evaluate"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "efficient",
+        "options": ["adequate", "resolve", "efficient", "dilemma"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "adequate",
+        "options": ["adequate", "formulate", "consequence", "implement"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "implement",
+        "options": ["anticipate", "implement", "justify", "alternative"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "consequence",
+        "options": ["dilemma", "evaluate", "consequence", "compromise"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "anticipate",
+        "options": ["anticipate", "resolve", "adequate", "formulate"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "justify",
+        "options": ["implement", "efficient", "justify", "consequence"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "resolve",
+        "options": ["resolve", "alternative", "dilemma", "anticipate"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "compromise",
+        "options": ["evaluate", "compromise", "adequate", "formulate"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "adequate",
+        "scale": ["Lacking", "Adequate", "Abundant"],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "efficient",
+        "scale": ["Slow", "Capable", "Efficient"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "consequence",
+        "scale": ["Hint", "Result", "Consequence"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "dilemma",
+        "scale": ["Choice", "Problem", "Dilemma"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "alternative",
+        "words": ["Option", "Choice", "Substitute", "Requirement"],
+        "imposterIndex": 3,
+        "imposterWord": "Requirement"
+      },
+      {
+        "vocabWord": "evaluate",
+        "words": ["Judge", "Assess", "Ignore", "Examine"],
+        "imposterIndex": 2,
+        "imposterWord": "Ignore"
+      },
+      {
+        "vocabWord": "resolve",
+        "words": ["Settle", "Fix", "Worsen", "Solve"],
+        "imposterIndex": 2,
+        "imposterWord": "Worsen"
+      },
+      {
+        "vocabWord": "anticipate",
+        "words": ["Expect", "Predict", "Overlook", "Foresee"],
+        "imposterIndex": 2,
+        "imposterWord": "Overlook"
+      },
+      {
+        "vocabWord": "formulate",
+        "words": ["Create", "Develop", "Destroy", "Design"],
+        "imposterIndex": 2,
+        "imposterWord": "Destroy"
+      },
+      {
+        "vocabWord": "justify",
+        "words": ["Explain", "Defend", "Accuse", "Support"],
+        "imposterIndex": 2,
+        "imposterWord": "Accuse"
+      },
+      {
+        "vocabWord": "compromise",
+        "words": ["Agreement", "Deal", "Demand", "Settlement"],
+        "imposterIndex": 2,
+        "imposterWord": "Demand"
+      },
+      {
+        "vocabWord": "implement",
+        "words": ["Execute", "Launch", "Abandon", "Apply"],
+        "imposterIndex": 2,
+        "imposterWord": "Abandon"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

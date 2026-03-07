@@ -1,0 +1,411 @@
+{
+  "grade": 3,
+  "setNumber": 5,
+  "words": [
+    "revive",
+    "tradition",
+    "watchful",
+    "wreckage",
+    "advantage",
+    "ambition",
+    "defiant",
+    "fearsome",
+    "imply",
+    "active",
+    "bargain",
+    "gasp"
+  ],
+  "sources": [
+    "Australian Curriculum",
+    "British KS2",
+    "CBSE India",
+    "Common Core Grade 3",
+    "Common Core Grade 4",
+    "Common Core Grade 5",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Flocabulary Grade 4",
+    "Flocabulary Grade 5",
+    "Tier 2 Academic",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "ocean or nature adventure",
+  "story": {
+    "genre": "ocean or nature adventure",
+    "characters": [
+      "Priya",
+      "Mateo",
+      "Aisha"
+    ],
+    "parts": [
+      {
+        "title": "The Summer Storm",
+        "text": "Every summer, it was a family **tradition** for Priya and her cousins to visit their grandparents' farm. Priya's grandmother was always **watchful** — her sharp eyes noticed every detail, from a missing chicken to a crack in the fence. One morning, a **fearsome** storm blew through the valley, so terrifying that the horses kicked at their stalls."
+      },
+      {
+        "title": "The Damage",
+        "text": "When the sky cleared, the **wreckage** of the old shed lay scattered across the yard — broken boards, bent nails, and shattered glass everywhere. Priya let out a **gasp** when she saw the damage. Her grandmother stayed calm. \"Standing still won't help,\" she said. \"We need to be **active** and start cleaning up right away.\" Mateo was **defiant** at first, crossing his arms and saying it was too much work."
+      },
+      {
+        "title": "The Rebuild",
+        "text": "But Priya had the **ambition** to rebuild the shed better than before. She knew that being the oldest gave her an **advantage** — the younger kids always followed her lead. She found leftover wood at a neighbor's house for a great **bargain** — almost free. She used cold water to **revive** the wilted flowers that the storm had knocked over. Her hard work seemed to **imply** that she would never give up, no matter what."
+      },
+      {
+        "title": "The Reward",
+        "text": "By the end of the week, the new shed stood taller and stronger than the old one. Grandma hugged Priya and said, \"You showed everyone that a mess is just a beginning, not an ending.\" That night, the whole family sat on the porch eating watermelon, and Priya decided that next summer she would build a treehouse too."
+      }
+    ],
+    "wordCount": 248
+  },
+  "definitions": [
+    {
+      "word": "revive",
+      "partOfSpeech": "verb",
+      "meaning1": "To bring back to life, health, or strength. Example: The gardener used water and sunlight to revive the dying plant.",
+      "meaning2": "To bring back into use or popularity. Example: The school decided to revive the old tradition of a spring dance.",
+      "studentChallenge": "After a long nap, a cold glass of lemonade was enough to ___ her energy.",
+      "sentence": ""
+    },
+    {
+      "word": "tradition",
+      "partOfSpeech": "noun",
+      "meaning1": "A custom or belief passed down through generations. Example: Eating turkey on Thanksgiving is a tradition in many families.",
+      "meaning2": "",
+      "studentChallenge": "Passing down grandma's recipe is a ___ that has lasted for three generations.",
+      "sentence": ""
+    },
+    {
+      "word": "watchful",
+      "partOfSpeech": "adjective",
+      "meaning1": "Paying close attention to what is happening; alert. Example: The watchful mother eagle kept her eyes on the nest.",
+      "meaning2": "",
+      "studentChallenge": "The ___ guard stood at the entrance, checking every bag.",
+      "sentence": ""
+    },
+    {
+      "word": "wreckage",
+      "partOfSpeech": "noun",
+      "meaning1": "The broken pieces of something that has been destroyed. Example: After the tornado, the wreckage of the barn was scattered across the field.",
+      "meaning2": "",
+      "studentChallenge": "Rescue workers searched through the ___ for survivors.",
+      "sentence": ""
+    },
+    {
+      "word": "advantage",
+      "partOfSpeech": "noun",
+      "meaning1": "Something that helps you or puts you in a better position. Example: Being tall gives a basketball player a big advantage.",
+      "meaning2": "",
+      "studentChallenge": "She took ___ of the quiet library to finish her homework early.",
+      "sentence": ""
+    },
+    {
+      "word": "ambition",
+      "partOfSpeech": "noun",
+      "meaning1": "A strong desire to achieve something. Example: Her ambition was to become the first person in her family to go to college.",
+      "meaning2": "",
+      "studentChallenge": "The young inventor had the ___ to build a robot before she turned twelve.",
+      "sentence": ""
+    },
+    {
+      "word": "defiant",
+      "partOfSpeech": "adjective",
+      "meaning1": "Boldly refusing to obey or follow rules. Example: The defiant child crossed her arms and refused to apologize.",
+      "meaning2": "",
+      "studentChallenge": "Even when the principal called her name, she remained ___ and would not sit down.",
+      "sentence": ""
+    },
+    {
+      "word": "fearsome",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very frightening or scary. Example: The dragon in the movie was the most fearsome creature the children had ever seen.",
+      "meaning2": "",
+      "studentChallenge": "The ___ storm uprooted trees and sent trash cans flying.",
+      "sentence": ""
+    },
+    {
+      "word": "imply",
+      "partOfSpeech": "verb",
+      "meaning1": "To suggest something without saying it directly. Example: Her tone seemed to imply that she did not agree.",
+      "meaning2": "",
+      "studentChallenge": "His smile did not ___ that anything was wrong, but his eyes told a different story.",
+      "sentence": ""
+    },
+    {
+      "word": "active",
+      "partOfSpeech": "adjective",
+      "meaning1": "Moving around a lot; busy and energetic. Example: The puppy was so active that it never stopped running and jumping.",
+      "meaning2": "Currently working or in operation. Example: The volcano is still active — scientists say it could erupt at any time.",
+      "studentChallenge": "My grandmother stays ___ by walking two miles every morning.",
+      "sentence": ""
+    },
+    {
+      "word": "bargain",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "Something bought for less than the usual price; a good deal. Example: The lamp for only two dollars was a great bargain.",
+      "meaning2": "To negotiate the price of something. Example: The customer tried to bargain over the price of the old chair.",
+      "studentChallenge": "At the yard sale, we found a beautiful bookshelf for five dollars — what a ___!",
+      "sentence": ""
+    },
+    {
+      "word": "gasp",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To take a quick, sharp breath, usually from surprise or shock. Example: The audience let out a gasp when the magician pulled a rabbit from the empty hat.",
+      "meaning2": "",
+      "studentChallenge": "The diver came up from underwater and took a huge ___ of fresh air.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The gardener used water and sunlight to _______ the dying plant back to health.",
+      "sentence2": "After a long nap, a cold glass of lemonade was enough to _______ her energy.",
+      "options": ["gasp", "revive", "bargain", "imply"],
+      "correctIndex": 1,
+      "correctAnswer": "revive"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Eating turkey on Thanksgiving is a _______ in many American families.",
+      "sentence2": "Passing down grandma's recipe is a _______ that has lasted for three generations.",
+      "options": ["tradition", "wreckage", "advantage", "ambition"],
+      "correctIndex": 0,
+      "correctAnswer": "tradition"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The _______ mother eagle kept her eyes on the nest from the highest branch.",
+      "sentence2": "A _______ guard stood at the museum entrance, checking every bag that passed through.",
+      "options": ["fearsome", "active", "defiant", "watchful"],
+      "correctIndex": 3,
+      "correctAnswer": "watchful"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "After the tornado passed, the _______ of the barn was scattered across the entire field.",
+      "sentence2": "Rescue workers searched through the _______ for survivors.",
+      "options": ["bargain", "tradition", "wreckage", "ambition"],
+      "correctIndex": 2,
+      "correctAnswer": "wreckage"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Being tall gives a basketball player a big _______ over shorter opponents.",
+      "sentence2": "She took _______ of the quiet library to finish her homework early.",
+      "options": ["advantage", "wreckage", "tradition", "gasp"],
+      "correctIndex": 0,
+      "correctAnswer": "advantage"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Her _______ was to become the first person in her family to go to college.",
+      "sentence2": "The young inventor had the _______ to build a robot before she turned twelve.",
+      "options": ["bargain", "tradition", "wreckage", "ambition"],
+      "correctIndex": 3,
+      "correctAnswer": "ambition"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The _______ child crossed her arms and refused to apologize.",
+      "sentence2": "Even when the principal called her name, she remained _______ and would not sit down.",
+      "options": ["watchful", "defiant", "active", "fearsome"],
+      "correctIndex": 1,
+      "correctAnswer": "defiant"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The dragon in the movie was the most _______ creature the children had ever seen.",
+      "sentence2": "The _______ storm uprooted trees and sent trash cans flying down the street.",
+      "options": ["defiant", "watchful", "active", "fearsome"],
+      "correctIndex": 3,
+      "correctAnswer": "fearsome"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "When she said \"That's an interesting choice,\" her tone seemed to _______ that she did not agree.",
+      "sentence2": "His smile did not _______ that anything was wrong, but his eyes told a different story.",
+      "options": ["revive", "bargain", "gasp", "imply"],
+      "correctIndex": 3,
+      "correctAnswer": "imply"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The puppy was so _______ that it never stopped running, jumping, and chasing its tail.",
+      "sentence2": "The volcano is still _______ — scientists say it could erupt at any time.",
+      "options": ["defiant", "watchful", "active", "fearsome"],
+      "correctIndex": 2,
+      "correctAnswer": "active"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "At the flea market, my mom found a beautiful lamp for only two dollars — what a _______!",
+      "sentence2": "The store owner and the customer tried to _______ over the price of the old chair.",
+      "options": ["tradition", "bargain", "advantage", "ambition"],
+      "correctIndex": 1,
+      "correctAnswer": "bargain"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "When the magician pulled a rabbit from the empty hat, the audience let out a _______.",
+      "sentence2": "The diver came up from underwater and took a huge _______ of fresh air.",
+      "options": ["gasp", "revive", "imply", "wreckage"],
+      "correctIndex": 0,
+      "correctAnswer": "gasp"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "revive",
+      "tradition",
+      "watchful",
+      "wreckage",
+      "advantage",
+      "ambition",
+      "defiant",
+      "fearsome",
+      "imply",
+      "active",
+      "bargain",
+      "gasp"
+    ],
+    "passage": "Every summer, it was a family _(1)_ for Priya and her cousins to visit their grandparents' farm. Priya's grandmother was always _(2)_ — her sharp eyes noticed every detail, from a missing chicken to a crack in the fence.\n\nOne morning, a _(3)_ storm blew through the valley, so terrifying that the horses kicked at their stalls. When the sky cleared, the _(4)_ of the old shed lay scattered across the yard — broken boards, bent nails, and shattered glass everywhere.\n\nPriya let out a _(5)_ when she saw the damage — she could barely catch her breath. Her grandmother stayed calm. \"Standing still won't help,\" she said. \"We need to be _(6)_ and start cleaning up right away.\"\n\nPriya's cousin was _(7)_ at first, crossing his arms and saying it was too much work. But Priya had the _(8)_ to rebuild the shed better than before. She knew that being the oldest gave her an _(9)_ — the younger kids always followed her lead.\n\nShe found leftover wood at a neighbor's house for a great _(10)_ — almost free. She used cold water to _(11)_ the wilted flowers that the storm had knocked over. Her hard work seemed to _(12)_ that she would never give up, no matter what.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "tradition",
+        "options": ["wreckage", "tradition", "bargain", "advantage"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "watchful",
+        "options": ["defiant", "active", "watchful", "fearsome"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "fearsome",
+        "options": ["active", "watchful", "defiant", "fearsome"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "wreckage",
+        "options": ["tradition", "wreckage", "bargain", "ambition"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "gasp",
+        "options": ["gasp", "bargain", "ambition", "tradition"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "active",
+        "options": ["watchful", "defiant", "fearsome", "active"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "defiant",
+        "options": ["watchful", "defiant", "active", "fearsome"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "ambition",
+        "options": ["wreckage", "gasp", "ambition", "bargain"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "advantage",
+        "options": ["tradition", "advantage", "ambition", "wreckage"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "bargain",
+        "options": ["gasp", "tradition", "bargain", "advantage"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "revive",
+        "options": ["imply", "revive", "gasp", "bargain"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "imply",
+        "options": ["revive", "imply", "gasp", "bargain"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "ambition",
+        "scale": ["Wish", "Goal", "Ambition"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "fearsome",
+        "scale": ["Scary", "Frightening", "Fearsome"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "defiant",
+        "scale": ["Stubborn", "Rebellious", "Defiant"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "gasp",
+        "scale": ["Sigh", "Breath", "Gasp"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "revive",
+        "words": ["Restore", "Destroy", "Renew", "Refresh"],
+        "imposterIndex": 1,
+        "imposterWord": "Destroy"
+      },
+      {
+        "vocabWord": "tradition",
+        "words": ["Custom", "Habit", "Change", "Ritual"],
+        "imposterIndex": 2,
+        "imposterWord": "Change"
+      },
+      {
+        "vocabWord": "watchful",
+        "words": ["Alert", "Careless", "Observant", "Attentive"],
+        "imposterIndex": 1,
+        "imposterWord": "Careless"
+      },
+      {
+        "vocabWord": "wreckage",
+        "words": ["Debris", "Ruins", "Creation", "Rubble"],
+        "imposterIndex": 2,
+        "imposterWord": "Creation"
+      },
+      {
+        "vocabWord": "advantage",
+        "words": ["Benefit", "Edge", "Drawback", "Gain"],
+        "imposterIndex": 2,
+        "imposterWord": "Drawback"
+      },
+      {
+        "vocabWord": "ambition",
+        "words": ["Drive", "Laziness", "Determination", "Goal"],
+        "imposterIndex": 1,
+        "imposterWord": "Laziness"
+      },
+      {
+        "vocabWord": "fearsome",
+        "words": ["Terrifying", "Harmless", "Dreadful", "Frightening"],
+        "imposterIndex": 1,
+        "imposterWord": "Harmless"
+      },
+      {
+        "vocabWord": "imply",
+        "words": ["Suggest", "Hint", "State", "Indicate"],
+        "imposterIndex": 2,
+        "imposterWord": "State"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

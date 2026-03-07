@@ -1,0 +1,582 @@
+{
+  "grade": 3,
+  "setNumber": 19,
+  "words": [
+    "reverse",
+    "discuss",
+    "vendor",
+    "auction",
+    "trend",
+    "grade",
+    "timid",
+    "valley",
+    "sprout",
+    "magnificent",
+    "strain",
+    "drama"
+  ],
+  "sources": [
+    "Australian Curriculum",
+    "CBSE India",
+    "Common Core Grade 3",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Tier 2 Academic",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "real world records and achievements",
+  "story": {
+    "genre": "real world records and achievements",
+    "characters": [
+      "Omar",
+      "Mateo",
+      "Aisha"
+    ],
+    "parts": [
+      {
+        "title": "The Dream",
+        "text": "Omar had read every record book she could find, and she was ready to **discuss** her plans with anyone who would listen. She was not **timid** about her ambitions \u2014 she told her coach Mateo straight out that she intended to break the national record before the end of the season. Mateo smiled, and the two of them walked down into the sunlit **valley** below the training center to map out a plan."
+      },
+      {
+        "title": "The Setback",
+        "text": "Two weeks before the big competition, a fierce **strain** on Omar's left knee forced her to stop training completely. The injury felt like a **drama** \u2014 sudden, painful, and impossible to ignore. Mateo helped her **reverse** her training plan, starting again from the beginning with gentler exercises. She watched a **vendor** outside the stadium sell programs for a meet she could not enter, and the sight nearly broke her heart."
+      },
+      {
+        "title": "Against the Odds",
+        "text": "At a school **grade** fair, Omar saw a display about an **auction** of old athletic equipment, and among the items was a training video that showed a **magnificent** technique she had never seen before. The newest **trend** in gymnastics was all about floor routines that combined dance with power, and this video was exactly that. New ideas began to **sprout** in her mind. She studied every frame of the video, and the approach felt right \u2014 like something that could change everything for her final performance."
+      },
+      {
+        "title": "The Record",
+        "text": "On competition day, Omar performed flawlessly. She didn't just win \u2014 she broke the national record by two full points. The crowd erupted in cheers. Mateo wiped tears from his eyes. \"This is what happens when you refuse to quit,\" he said. Omar's name was printed in the record books that very evening, and her story inspired thousands of young athletes across the country."
+      }
+    ],
+    "wordCount": 291
+  },
+  "definitions": [
+    {
+      "word": "reverse",
+      "partOfSpeech": "verb",
+      "meaning1": "To go backwards or to turn something so it is the opposite way. Example: The driver had to reverse the car out of the tight parking space very carefully.",
+      "meaning2": "The opposite of something. Example: The reverse of adding is subtracting.",
+      "studentChallenge": "She tried to ___ the spelling mistake by erasing the letters and rewriting the word correctly.",
+      "sentence": ""
+    },
+    {
+      "word": "discuss",
+      "partOfSpeech": "verb",
+      "meaning1": "To talk about something with others, sharing ideas and opinions. Example: The class sat in a circle to discuss what they liked best about the book they had just finished.",
+      "meaning2": "",
+      "studentChallenge": "Let's ___ our ideas for the science fair project during lunch today.",
+      "sentence": ""
+    },
+    {
+      "word": "vendor",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who sells things, often at a market or on the street. Example: The vendor at the farmers' market sold the juiciest apples I had ever tasted.",
+      "meaning2": "",
+      "studentChallenge": "The ___ set up a colorful stand and sold lemonade and popcorn at the fair.",
+      "sentence": ""
+    },
+    {
+      "word": "auction",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A public sale where things go to the highest bidder. Example: The painting sold at auction for a million dollars.",
+      "meaning2": "",
+      "studentChallenge": "The rare coin was sold at an ___.",
+      "sentence": ""
+    },
+    {
+      "word": "trend",
+      "partOfSpeech": "noun",
+      "meaning1": "A general direction in which something is changing or developing, or a popular style. Example: Wearing bright neon colors was a big trend at school this year.",
+      "meaning2": "",
+      "studentChallenge": "The latest ___ among students was collecting and trading colorful stickers.",
+      "sentence": ""
+    },
+    {
+      "word": "grade",
+      "partOfSpeech": "noun",
+      "meaning1": "A level or year in school. Example: She is in the fourth grade and loves learning about animals.",
+      "meaning2": "A score or mark given to show how well you did on work. Example: He earned a high grade on his history test because he studied every night.",
+      "studentChallenge": "Students in every ___ at our school participate in the annual talent show.",
+      "sentence": ""
+    },
+    {
+      "word": "timid",
+      "partOfSpeech": "adjective",
+      "meaning1": "Shy and lacking confidence. Example: The timid rabbit hid in its burrow.",
+      "meaning2": "",
+      "studentChallenge": "The ___ child was afraid to speak in front of the class.",
+      "sentence": ""
+    },
+    {
+      "word": "valley",
+      "partOfSpeech": "noun",
+      "meaning1": "A low area of land between hills or mountains, often with a river running through it. Example: The green valley below the mountains was full of wildflowers and grazing sheep.",
+      "meaning2": "",
+      "studentChallenge": "The river wound its way through the peaceful ___ surrounded by tall, snowy peaks.",
+      "sentence": ""
+    },
+    {
+      "word": "sprout",
+      "partOfSpeech": "verb/noun",
+      "meaning1": "To begin to grow; to send out new growth. Example: After a week of watering, tiny green sprouts began to push up through the soil.",
+      "meaning2": "",
+      "studentChallenge": "We watched the bean seeds ___ in our paper cups during our classroom science experiment.",
+      "sentence": ""
+    },
+    {
+      "word": "magnificent",
+      "partOfSpeech": "adjective",
+      "meaning1": "Extremely beautiful or impressive. Example: The magnificent palace took your breath away.",
+      "meaning2": "",
+      "studentChallenge": "The sunset over the ocean was ___.",
+      "sentence": ""
+    },
+    {
+      "word": "strain",
+      "partOfSpeech": "verb/noun",
+      "meaning1": "To push, pull, or stretch something too hard, causing damage or difficulty. Example: She had to strain her eyes to read the tiny print at the bottom of the poster.",
+      "meaning2": "Stress or pressure that makes something difficult. Example: Carrying all those heavy books put a strain on his back.",
+      "studentChallenge": "Don't ___ yourself trying to lift that heavy box\u2014ask someone to help you.",
+      "sentence": ""
+    },
+    {
+      "word": "drama",
+      "partOfSpeech": "noun",
+      "meaning1": "A type of story written to be performed by actors on a stage. Example: The fifth graders put on a drama about the first Thanksgiving for the whole school.",
+      "meaning2": "An exciting or emotional situation in real life. Example: There was a lot of drama on the playground when everyone wanted to be team captain.",
+      "studentChallenge": "The school ___ club is rehearsing a play about a pirate who searches for buried treasure.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The driver had to ___ the car slowly and carefully out of the tight, narrow parking space.",
+      "sentence2": "She tried to ___ the spelling mistake by erasing the letters and writing the correct word.",
+      "options": [
+        "auction",
+        "grade",
+        "trend",
+        "reverse"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "reverse"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The class sat in a circle to ___ what they liked best about the book they had just finished reading.",
+      "sentence2": "Let's ___ our ideas for the science fair project together during lunch today.",
+      "options": [
+        "discuss",
+        "auction",
+        "strain",
+        "drama"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "discuss"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The ___ at the farmers' market sold the juiciest, sweetest apples I had ever tasted.",
+      "sentence2": "The ___ set up a colorful stand and sold cold lemonade and fresh popcorn at the fair.",
+      "options": [
+        "vendor",
+        "drama",
+        "discuss",
+        "auction"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "vendor"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The famous painting sold at ___ for a million dollars \u2014 the highest price ever paid that day.",
+      "sentence2": "The rare gold coin was placed on display before being sold at a public ___.",
+      "options": [
+        "drama",
+        "auction",
+        "sprout",
+        "strain"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "auction"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Wearing bright neon colors was a huge ___ at school this year \u2014 everyone seemed to have them.",
+      "sentence2": "The latest ___ among students was collecting and trading colorful stickers at recess.",
+      "options": [
+        "strain",
+        "trend",
+        "drama",
+        "sprout"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "trend"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "She is in the fourth ___ and loves learning about animals, especially ocean creatures.",
+      "sentence2": "Students in every ___ at our school participate in the annual talent show in the spring.",
+      "options": [
+        "drama",
+        "strain",
+        "grade",
+        "timid"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "grade"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The ___ rabbit hid deep in its burrow, too frightened and shy to come out into the open field.",
+      "sentence2": "The ___ child whispered her answer instead of speaking up, too nervous to talk in front of the class.",
+      "options": [
+        "drama",
+        "grade",
+        "timid",
+        "vendor"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "timid"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The green ___ below the mountains was full of wildflowers and gently grazing sheep.",
+      "sentence2": "The river wound peacefully through the ___ surrounded by tall, snowcapped peaks.",
+      "options": [
+        "sprout",
+        "discuss",
+        "drama",
+        "valley"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "valley"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "After a week of watering, tiny green ___ began to push up through the dark soil in the pot.",
+      "sentence2": "We watched the bean seeds ___ in our paper cups during the classroom science experiment.",
+      "options": [
+        "valley",
+        "trend",
+        "strain",
+        "sprout"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "sprout"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The ___ palace with its gold towers and grand gardens took everyone's breath away instantly.",
+      "sentence2": "The sunset over the ocean was ___ \u2014 the most beautiful anyone in our group had ever seen.",
+      "options": [
+        "strain",
+        "magnificent",
+        "reverse",
+        "grade"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "magnificent"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "She had to ___ her eyes just to read the tiny print at the very bottom of the crowded poster.",
+      "sentence2": "Don't ___ yourself trying to carry that heavy box alone \u2014 please ask someone to help you.",
+      "options": [
+        "sprout",
+        "discuss",
+        "strain",
+        "trend"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "strain"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The fifth graders put on a moving ___ about the first Thanksgiving for the whole school.",
+      "sentence2": "The school ___ club is rehearsing an exciting play about a pirate who searches for buried treasure.",
+      "options": [
+        "drama",
+        "valley",
+        "strain",
+        "reverse"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "drama"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "reverse",
+      "discuss",
+      "vendor",
+      "auction",
+      "trend",
+      "grade",
+      "timid",
+      "valley",
+      "sprout",
+      "magnificent",
+      "strain",
+      "drama"
+    ],
+    "passage": "Omar stood at the edge of the wide green _(1)_ \u2014 a low, peaceful stretch of land between two hills \u2014 and took a deep breath before training began. Her coach had noticed a new _(2)_ in her performance: every week, her scores were climbing higher and higher. Omar had once been a _(3)_ athlete \u2014 quiet and unsure of herself \u2014 but those days were gone. Now her movements were _(4)_, breathtaking to watch, the kind that made crowds gasp. She did not _(5)_ her muscles recklessly; every stretch and jump was measured and controlled. Ideas for improving her routine began to _(6)_ in her mind like new plants pushing up through soil. She would _(7)_ each idea with her coach, talking through what might work before trying anything new. One old trophy \u2014 once sold at an _(8)_ for almost nothing \u2014 now sat on her shelf as a reminder of how far she had come. Every _(9)_ level in the sport \u2014 from beginners to elite athletes \u2014 was talking about her comeback, and Omar was the name on everyone's lips. After her final performance, there was real _(10)_ in the crowd \u2014 gasps and tears and wild cheering \u2014 before she was announced as the winner. The young _(11)_ selling programs outside the arena was the first to shout her name. There was no need to _(12)_ the outcome \u2014 everyone could see that Omar had achieved something extraordinary.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "valley",
+        "options": [
+          "valley",
+          "discuss",
+          "timid",
+          "grade"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "trend",
+        "options": [
+          "trend",
+          "vendor",
+          "drama",
+          "magnificent"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "timid",
+        "options": [
+          "timid",
+          "valley",
+          "sprout",
+          "magnificent"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "magnificent",
+        "options": [
+          "magnificent",
+          "reverse",
+          "sprout",
+          "trend"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "strain",
+        "options": [
+          "strain",
+          "timid",
+          "grade",
+          "sprout"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "sprout",
+        "options": [
+          "sprout",
+          "grade",
+          "magnificent",
+          "reverse"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "discuss",
+        "options": [
+          "discuss",
+          "vendor",
+          "drama",
+          "grade"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "auction",
+        "options": [
+          "auction",
+          "reverse",
+          "sprout",
+          "trend"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "grade",
+        "options": [
+          "grade",
+          "magnificent",
+          "vendor",
+          "reverse"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "drama",
+        "options": [
+          "drama",
+          "grade",
+          "trend",
+          "timid"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "vendor",
+        "options": [
+          "vendor",
+          "magnificent",
+          "strain",
+          "grade"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "reverse",
+        "options": [
+          "reverse",
+          "discuss",
+          "drama",
+          "auction"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "reverse",
+        "scale": [
+          "turn",
+          "reverse",
+          "invert"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "discuss",
+        "scale": [
+          "mention",
+          "discuss",
+          "debate"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "vendor",
+        "scale": [
+          "seller",
+          "vendor",
+          "merchant"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "auction",
+        "scale": [
+          "sale",
+          "auction",
+          "bidding"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "trend",
+        "words": [
+          "tendency",
+          "fashion",
+          "direction",
+          "stagnation"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "stagnation"
+      },
+      {
+        "vocabWord": "grade",
+        "words": [
+          "equality",
+          "level",
+          "rank",
+          "mark"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "equality"
+      },
+      {
+        "vocabWord": "timid",
+        "words": [
+          "shy",
+          "bold",
+          "fearful",
+          "nervous"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "bold"
+      },
+      {
+        "vocabWord": "valley",
+        "words": [
+          "peak",
+          "dale",
+          "gorge",
+          "ravine"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "peak"
+      },
+      {
+        "vocabWord": "sprout",
+        "words": [
+          "wither",
+          "grow",
+          "shoot",
+          "develop"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "wither"
+      },
+      {
+        "vocabWord": "magnificent",
+        "words": [
+          "humble",
+          "splendid",
+          "grand",
+          "impressive"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "humble"
+      },
+      {
+        "vocabWord": "strain",
+        "words": [
+          "stress",
+          "relax",
+          "effort",
+          "pull"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "relax"
+      },
+      {
+        "vocabWord": "drama",
+        "words": [
+          "play",
+          "excitement",
+          "comedy",
+          "conflict"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "comedy"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

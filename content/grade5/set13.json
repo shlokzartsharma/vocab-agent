@@ -1,0 +1,405 @@
+{
+  "grade": 5,
+  "setNumber": 13,
+  "words": [
+    "antagonist",
+    "foreshadow",
+    "allegory",
+    "narrative",
+    "suspense",
+    "epilogue",
+    "memoir",
+    "satire",
+    "metaphor",
+    "climax",
+    "prologue",
+    "irony"
+  ],
+  "sources": [
+    "Common Core Grade 5",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 5",
+    "CKLA Grade 5",
+    "Tier 2 Academic"
+  ],
+  "genre": "writer's journey",
+  "story": {
+    "genre": "writer's journey",
+    "characters": [
+      "Nolan",
+      "Ximena",
+      "Anil"
+    ],
+    "parts": [
+      {
+        "title": "The First Draft",
+        "text": "Nolan had always dreamed of writing a novel, but every story he started felt flat. One afternoon, Ximena handed him a **memoir** she had been reading — a true story written by an author about her own childhood. \"See how the writer uses a **prologue** to set up the whole story before chapter one even begins?\" Ximena said. Nolan studied the opening pages and realized a good book needed a strong beginning."
+      },
+      {
+        "title": "Learning the Craft",
+        "text": "Anil, their school's writing club leader, taught them about story structure. He explained that a **narrative** is simply the way a story is told, and that every great tale needs an **antagonist** — a character who creates conflict for the hero. \"You can also **foreshadow** events by dropping small hints early on,\" Anil added. \"That builds **suspense** so readers feel nervous about what might happen next.\""
+      },
+      {
+        "title": "Finding Deeper Meaning",
+        "text": "Ximena suggested that Nolan try writing an **allegory** — a story where characters and events represent bigger ideas about life. She also showed him how a **metaphor** can compare two unlike things to create powerful images. Anil pointed out that some writers use **satire** to poke fun at problems in society through humor. Nolan decided his story's **climax** would be a dramatic showdown, and the **epilogue** would reveal what happened to each character years later. He laughed at the **irony** that his biggest struggle as a writer was finding the right ending."
+      },
+      {
+        "title": "The Finished Story",
+        "text": "After weeks of writing, revising, and sharing drafts with his friends, Nolan finally typed the last sentence. He leaned back in his chair and smiled. The story was not perfect, but it was his. Ximena and Anil read the final version and agreed — Nolan had grown from someone who feared blank pages into a confident young author."
+      }
+    ],
+    "wordCount": 246
+  },
+  "definitions": [
+    {
+      "word": "antagonist",
+      "partOfSpeech": "noun",
+      "meaning1": "A character who opposes or works against the main character in a story. Example: The villain was the antagonist who tried to stop the hero at every turn.",
+      "meaning2": "A person who actively opposes or is hostile to someone. Example: The two rivals had been antagonists since they first competed against each other.",
+      "studentChallenge": "In the fairy tale, the evil queen is the ___ who causes trouble for the princess.",
+      "sentence": ""
+    },
+    {
+      "word": "foreshadow",
+      "partOfSpeech": "verb",
+      "meaning1": "To give hints or clues about what will happen later in a story. Example: The dark clouds in the first chapter foreshadow the coming storm.",
+      "meaning2": "",
+      "studentChallenge": "The author used the strange noise in the attic to ___ the mystery that would unfold later.",
+      "sentence": ""
+    },
+    {
+      "word": "allegory",
+      "partOfSpeech": "noun",
+      "meaning1": "A story in which the characters and events represent deeper meanings or ideas about life. Example: The tale about the ants and the grasshopper is an allegory about hard work.",
+      "meaning2": "",
+      "studentChallenge": "The teacher explained that the fable was actually an ___ about the importance of honesty.",
+      "sentence": ""
+    },
+    {
+      "word": "narrative",
+      "partOfSpeech": "noun",
+      "meaning1": "A spoken or written account of events; a story. Example: The narrative followed a young girl's adventure through a magical forest.",
+      "meaning2": "",
+      "studentChallenge": "The book's ___ was told from the point of view of a ten-year-old boy.",
+      "sentence": ""
+    },
+    {
+      "word": "suspense",
+      "partOfSpeech": "noun",
+      "meaning1": "A feeling of excitement or anxiety about what will happen next. Example: The movie was full of suspense, and everyone was on the edge of their seats.",
+      "meaning2": "",
+      "studentChallenge": "The detective story was filled with ___ because no one knew who the thief was until the very last page.",
+      "sentence": ""
+    },
+    {
+      "word": "epilogue",
+      "partOfSpeech": "noun",
+      "meaning1": "A section at the end of a book or story that tells what happens after the main events. Example: The epilogue revealed that the two friends stayed close for the rest of their lives.",
+      "meaning2": "",
+      "studentChallenge": "The ___ at the end of the novel told readers what happened to each character ten years later.",
+      "sentence": ""
+    },
+    {
+      "word": "memoir",
+      "partOfSpeech": "noun",
+      "meaning1": "A written account of personal experiences from someone's own life. Example: The astronaut wrote a memoir about her years in space.",
+      "meaning2": "",
+      "studentChallenge": "The famous chef published a ___ about growing up on her grandmother's farm.",
+      "sentence": ""
+    },
+    {
+      "word": "satire",
+      "partOfSpeech": "noun",
+      "meaning1": "A type of writing that uses humor or exaggeration to criticize or make fun of something. Example: The cartoon was a satire that made fun of how people spend too much time on their phones.",
+      "meaning2": "",
+      "studentChallenge": "The funny play was actually a ___ that poked fun at how adults sometimes act like children.",
+      "sentence": ""
+    },
+    {
+      "word": "metaphor",
+      "partOfSpeech": "noun",
+      "meaning1": "A figure of speech that compares two unlike things without using 'like' or 'as.' Example: Saying 'the world is a stage' is a famous metaphor.",
+      "meaning2": "",
+      "studentChallenge": "The poet used a ___ when she wrote that her heart was a locked door.",
+      "sentence": ""
+    },
+    {
+      "word": "climax",
+      "partOfSpeech": "noun",
+      "meaning1": "The most exciting or important point in a story, where the main conflict reaches its peak. Example: The climax of the movie came when the hero finally faced the dragon.",
+      "meaning2": "",
+      "studentChallenge": "The ___ of the story happened when the detective finally caught the jewel thief.",
+      "sentence": ""
+    },
+    {
+      "word": "prologue",
+      "partOfSpeech": "noun",
+      "meaning1": "An introduction at the beginning of a book, play, or story that gives background information. Example: The prologue explained what had happened before the main story began.",
+      "meaning2": "",
+      "studentChallenge": "The ___ gave readers a glimpse into the character's life before the adventure started.",
+      "sentence": ""
+    },
+    {
+      "word": "irony",
+      "partOfSpeech": "noun",
+      "meaning1": "A situation where the outcome is the opposite of what you would expect. Example: It was irony that the fire station burned down.",
+      "meaning2": "A way of speaking where you say the opposite of what you mean, often for humor. Example: When it was pouring rain, she said with irony, 'What lovely weather!'",
+      "studentChallenge": "It was pure ___ that the spelling bee champion misspelled her own name on the sign-up sheet.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The villain was the main _______ who tried to stop the hero at every turn in the adventure.",
+      "sentence2": "In the fairy tale, the wicked stepmother serves as the _______ by making life difficult for the young princess.",
+      "options": ["narrative", "antagonist", "allegory", "memoir"],
+      "correctIndex": 1,
+      "correctAnswer": "antagonist"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The dark clouds in the opening scene _______ the terrible storm that was about to come.",
+      "sentence2": "The author used the broken mirror in chapter one to _______ the bad luck that followed the character throughout the book.",
+      "options": ["foreshadow", "climax", "satire", "epilogue"],
+      "correctIndex": 0,
+      "correctAnswer": "foreshadow"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The story about animals building a city together was really an _______ about teamwork in human society.",
+      "sentence2": "Many readers believe the novel is an _______ that uses a fantasy world to talk about real-life problems.",
+      "options": ["prologue", "metaphor", "allegory", "suspense"],
+      "correctIndex": 2,
+      "correctAnswer": "allegory"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The _______ was told from the perspective of a young girl growing up during the Great Depression.",
+      "sentence2": "Each chapter of the _______ introduced a new challenge the characters had to face together.",
+      "options": ["narrative", "irony", "antagonist", "epilogue"],
+      "correctIndex": 0,
+      "correctAnswer": "narrative"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The mystery novel was full of _______, and readers could not wait to find out who stole the diamond.",
+      "sentence2": "The director built _______ by keeping the audience guessing about the hero's fate until the very last scene.",
+      "options": ["satire", "memoir", "suspense", "prologue"],
+      "correctIndex": 2,
+      "correctAnswer": "suspense"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The _______ at the end of the book revealed that the two friends reunited ten years later.",
+      "sentence2": "After the final chapter, the _______ described how the town changed after the hero's great deed.",
+      "options": ["epilogue", "climax", "foreshadow", "narrative"],
+      "correctIndex": 0,
+      "correctAnswer": "epilogue"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The explorer wrote a _______ about her five years living in the Amazon rainforest.",
+      "sentence2": "His _______ described what it was like to grow up as the youngest of twelve siblings.",
+      "options": ["allegory", "memoir", "antagonist", "irony"],
+      "correctIndex": 1,
+      "correctAnswer": "memoir"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The comedy sketch was a clever _______ that poked fun at how politicians make promises they cannot keep.",
+      "sentence2": "The cartoonist drew a _______ showing a king who was afraid of his own shadow to criticize leaders who lack courage.",
+      "options": ["metaphor", "prologue", "suspense", "satire"],
+      "correctIndex": 3,
+      "correctAnswer": "satire"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Calling the classroom a 'zoo' was a _______ that compared the noisy students to wild animals.",
+      "sentence2": "The poet used a powerful _______ when she described hope as a bird that never stops singing.",
+      "options": ["metaphor", "foreshadow", "climax", "allegory"],
+      "correctIndex": 0,
+      "correctAnswer": "metaphor"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The _______ of the story came when the knight finally reached the dragon's cave and had to choose between fighting or fleeing.",
+      "sentence2": "Everyone gasped during the _______ of the play, when the secret identity of the masked stranger was finally revealed.",
+      "options": ["prologue", "irony", "climax", "antagonist"],
+      "correctIndex": 2,
+      "correctAnswer": "climax"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The _______ of the play introduced the setting and explained why the family had moved to a new town.",
+      "sentence2": "Before the first chapter, the _______ described an event from thirty years earlier that would shape the entire story.",
+      "options": ["epilogue", "narrative", "prologue", "memoir"],
+      "correctIndex": 2,
+      "correctAnswer": "prologue"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "It was full of _______ that the lifeguard was the only person at the pool who could not swim.",
+      "sentence2": "The _______ of the situation was that the weather forecaster got caught in rain without an umbrella.",
+      "options": ["suspense", "irony", "satire", "foreshadow"],
+      "correctIndex": 1,
+      "correctAnswer": "irony"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "antagonist",
+      "foreshadow",
+      "allegory",
+      "narrative",
+      "suspense",
+      "epilogue",
+      "memoir",
+      "satire",
+      "metaphor",
+      "climax",
+      "prologue",
+      "irony"
+    ],
+    "passage": "Ms. Torres told her fifth-grade class they would spend the week studying different kinds of writing. She began by reading a _(1)_ written by a famous scientist about her childhood. Then she showed them how a _(2)_ at the beginning of a novel sets up the story before the action starts.\n\nNext, she explained that every _(3)_ needs a good structure — a beginning, middle, and end. She said the best stories create _(4)_ by making readers wonder what will happen next. She pointed out how writers _(5)_ future events by planting small clues early on. The students learned that the _(6)_ is the most thrilling moment, when everything in the story comes to a head.\n\nMs. Torres also taught them about figurative language. A _(7)_ compares two things directly, like saying time is money. She showed them an _(8)_ — a story where a journey through a maze stood for life's challenges. The class laughed at a _(9)_ that used humor to make fun of homework rules. They noticed the _(10)_ in a tale where a detective was the one who lost the clues. One student asked about the _(11)_ — the villain who kept causing problems for the hero. Finally, they read an _(12)_ that told what happened to the characters long after the main story ended.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "memoir",
+        "options": ["memoir", "allegory", "satire", "narrative"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "prologue",
+        "options": ["epilogue", "prologue", "climax", "metaphor"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "narrative",
+        "options": ["suspense", "narrative", "irony", "antagonist"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "suspense",
+        "options": ["foreshadow", "memoir", "suspense", "prologue"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "foreshadow",
+        "options": ["foreshadow", "climax", "allegory", "epilogue"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "climax",
+        "options": ["irony", "antagonist", "climax", "satire"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "metaphor",
+        "options": ["metaphor", "narrative", "memoir", "prologue"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "allegory",
+        "options": ["suspense", "foreshadow", "allegory", "epilogue"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "satire",
+        "options": ["irony", "satire", "antagonist", "climax"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "irony",
+        "options": ["metaphor", "memoir", "irony", "narrative"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "antagonist",
+        "options": ["antagonist", "prologue", "foreshadow", "suspense"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "epilogue",
+        "options": ["allegory", "satire", "climax", "epilogue"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "suspense",
+        "scale": ["Curiosity", "Tension", "Suspense"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "climax",
+        "scale": ["Introduction", "Rising action", "Climax"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "antagonist",
+        "scale": ["Rival", "Opponent", "Antagonist"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "irony",
+        "scale": ["Surprise", "Contradiction", "Irony"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "foreshadow",
+        "words": ["Hint", "Conceal", "Predict", "Suggest"],
+        "imposterIndex": 1,
+        "imposterWord": "Conceal"
+      },
+      {
+        "vocabWord": "memoir",
+        "words": ["Autobiography", "Fiction", "Recollection", "Journal"],
+        "imposterIndex": 1,
+        "imposterWord": "Fiction"
+      },
+      {
+        "vocabWord": "satire",
+        "words": ["Mockery", "Praise", "Parody", "Comedy"],
+        "imposterIndex": 1,
+        "imposterWord": "Praise"
+      },
+      {
+        "vocabWord": "metaphor",
+        "words": ["Comparison", "Symbol", "Imagery", "Literal"],
+        "imposterIndex": 3,
+        "imposterWord": "Literal"
+      },
+      {
+        "vocabWord": "prologue",
+        "words": ["Introduction", "Opening", "Preface", "Conclusion"],
+        "imposterIndex": 3,
+        "imposterWord": "Conclusion"
+      },
+      {
+        "vocabWord": "epilogue",
+        "words": ["Afterword", "Beginning", "Closing", "Finale"],
+        "imposterIndex": 1,
+        "imposterWord": "Beginning"
+      },
+      {
+        "vocabWord": "narrative",
+        "words": ["Story", "Account", "Silence", "Tale"],
+        "imposterIndex": 2,
+        "imposterWord": "Silence"
+      },
+      {
+        "vocabWord": "allegory",
+        "words": ["Parable", "Symbol", "Fable", "Fact"],
+        "imposterIndex": 3,
+        "imposterWord": "Fact"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

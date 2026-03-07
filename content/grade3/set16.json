@@ -1,0 +1,585 @@
+{
+  "grade": 3,
+  "setNumber": 16,
+  "words": [
+    "diagram",
+    "vibrant",
+    "description",
+    "incredible",
+    "logic",
+    "persist",
+    "positive",
+    "precious",
+    "numerous",
+    "tangled",
+    "cable",
+    "solve"
+  ],
+  "sources": [
+    "Australian Curriculum",
+    "CBSE India",
+    "Common Core Grade 3",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Flocabulary Grade 4",
+    "Flocabulary Grade 5",
+    "Tier 2 Academic",
+    "Wit & Wisdom Grade 3",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "mystery set in a school",
+  "story": {
+    "genre": "mystery set in a school",
+    "characters": [
+      "Isha",
+      "Lakshmi",
+      "Aarav"
+    ],
+    "parts": [
+      {
+        "title": "Something Strange",
+        "text": "It started when Isha spotted a **diagram** pinned inside the library's back door \u2014 a labeled drawing of hidden rooms beneath the school that no one had ever mentioned. The **description** scrawled beside it was detailed and strange, mentioning a locked door behind the oldest bookshelf. The ink was still **vibrant**, bright and unfaded, as if it had been drawn very recently."
+      },
+      {
+        "title": "The Investigation",
+        "text": "An **incredible** storm rattled the school windows that night, but Isha was too curious to sleep. She used **logic** to rule out a prank: the diagram was too accurate, too precise. She decided to **persist** in her search no matter what. She needed to convince Aarav to help, and Lakshmi was **positive** he would agree \u2014 three detectives were better than two, especially when the mystery involved something this **precious**."
+      },
+      {
+        "title": "The Hidden Clue",
+        "text": "Behind the bookshelf, they found **numerous** old maps \u2014 so many that they formed a **tangled** stack, each one folded inside the next. A thick **cable** of rope secured the entrance to a narrow passage below. \"We are going to **solve** this,\" Isha whispered, pulling the rope aside with both hands."
+      },
+      {
+        "title": "The Secret Revealed",
+        "text": "What they found was the school's original time capsule from 1923 \u2014 filled with letters, photographs, and a gold pocket watch. The principal was thrilled and announced that Isha, Lakshmi, and Aarav had made the most exciting discovery in the school's history. Their names were added to the school's Hall of Fame, and the time capsule went on permanent display in the library."
+      }
+    ],
+    "wordCount": 238
+  },
+  "definitions": [
+    {
+      "word": "diagram",
+      "partOfSpeech": "noun",
+      "meaning1": "A simple drawing that explains how something works or shows the parts of something. Example: The science book had a diagram of the human heart showing where blood flows in and out.",
+      "meaning2": "",
+      "studentChallenge": "The teacher drew a ___ on the board to show how the water cycle works.",
+      "sentence": ""
+    },
+    {
+      "word": "vibrant",
+      "partOfSpeech": "adjective",
+      "meaning1": "Full of energy and life; bright and colorful. Example: The vibrant flowers brightened the garden.",
+      "meaning2": "",
+      "studentChallenge": "The market was ___ with colors and sounds.",
+      "sentence": ""
+    },
+    {
+      "word": "description",
+      "partOfSpeech": "noun",
+      "meaning1": "A spoken or written account that tells what something or someone is like. Example: The author's description of the enchanted forest was so vivid that I felt like I was walking through it.",
+      "meaning2": "",
+      "studentChallenge": "The police officer asked for a ___ of the missing dog, including its size, color, and name.",
+      "sentence": ""
+    },
+    {
+      "word": "incredible",
+      "partOfSpeech": "adjective",
+      "meaning1": "Hard to believe; amazing. Example: The magician performed an incredible trick.",
+      "meaning2": "",
+      "studentChallenge": "The view from the mountain top was ___.",
+      "sentence": ""
+    },
+    {
+      "word": "logic",
+      "partOfSpeech": "noun",
+      "meaning1": "Clear and sensible thinking or reasoning. Example: He used logic to figure out that the answer had to be the only choice that made sense.",
+      "meaning2": "",
+      "studentChallenge": "She solved the brain teaser by using careful ___ instead of just guessing.",
+      "sentence": ""
+    },
+    {
+      "word": "persist",
+      "partOfSpeech": "verb",
+      "meaning1": "To continue doing something even though it is difficult or other people want you to stop. Example: The heavy rain continued to persist throughout the entire weekend.",
+      "meaning2": "",
+      "studentChallenge": "If you ___ in practising your handwriting every day, it will improve over time.",
+      "sentence": ""
+    },
+    {
+      "word": "positive",
+      "partOfSpeech": "adjective",
+      "meaning1": "Good, helpful, or full of hope. Example: The teacher gave positive feedback on the essay, saying it was well written and creative.",
+      "meaning2": "Completely sure or certain about something. Example: I am positive that I locked the front door before we left.",
+      "studentChallenge": "Keeping a ___ attitude helped the team stay motivated even when they were losing the game.",
+      "sentence": ""
+    },
+    {
+      "word": "precious",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very valuable or dear to someone. Example: The necklace was made of precious stones.",
+      "meaning2": "",
+      "studentChallenge": "Time is the most ___ gift you can give someone.",
+      "sentence": ""
+    },
+    {
+      "word": "numerous",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very many; a large number. Example: Numerous students signed up for the science club.",
+      "meaning2": "",
+      "studentChallenge": "There were ___ reasons to celebrate.",
+      "sentence": ""
+    },
+    {
+      "word": "tangled",
+      "partOfSpeech": "adjective/verb",
+      "meaning1": "Twisted together in a messy, knotted way. Example: Her long hair got tangled in the wind, and it took ten minutes to brush out all the knots.",
+      "meaning2": "",
+      "studentChallenge": "The fishing line got ___ around the rocks at the bottom of the creek.",
+      "sentence": ""
+    },
+    {
+      "word": "cable",
+      "partOfSpeech": "noun",
+      "meaning1": "A thick, strong rope or wire used to hold or connect things. Example: The workers stretched a heavy cable across the river to support the new bridge.",
+      "meaning2": "A bundle of wires that carries electricity or signals. Example: We plugged in the cable to connect the computer to the internet.",
+      "studentChallenge": "The construction crew used a steel ___ to lift the heavy beam into place.",
+      "sentence": ""
+    },
+    {
+      "word": "solve",
+      "partOfSpeech": "verb",
+      "meaning1": "To find the answer to a problem or mystery. Example: The detective worked all night to solve the mystery of the missing diamond ring.",
+      "meaning2": "",
+      "studentChallenge": "Can you ___ this riddle before the timer runs out?",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The science textbook had a detailed ___ of the human heart, with arrows showing how blood flows in and out.",
+      "sentence2": "The teacher sketched a labeled ___ on the board to explain exactly how the water cycle works.",
+      "options": [
+        "incredible",
+        "tangled",
+        "diagram",
+        "persist"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "diagram"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The ___ flowers \u2014 blazing red, electric yellow, and deep purple \u2014 brightened the whole garden.",
+      "sentence2": "The market was ___ with color and noise, bursting with life from every direction.",
+      "options": [
+        "incredible",
+        "description",
+        "diagram",
+        "vibrant"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "vibrant"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The author's ___ of the enchanted forest was so detailed and vivid that I felt as if I were walking through it.",
+      "sentence2": "The officer asked for a careful ___ of the missing dog \u2014 its size, color, and any markings.",
+      "options": [
+        "incredible",
+        "description",
+        "diagram",
+        "positive"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "description"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The magician performed an ___ trick \u2014 pulling a live rabbit out of a hat that looked completely empty.",
+      "sentence2": "The view from the mountaintop was ___, stretching for miles in every direction.",
+      "options": [
+        "incredible",
+        "logic",
+        "cable",
+        "positive"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "incredible"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "He used careful ___ to figure out the answer \u2014 reasoning step by step until only one choice made sense.",
+      "sentence2": "She solved the brain teaser using pure ___ instead of just guessing randomly.",
+      "options": [
+        "logic",
+        "diagram",
+        "description",
+        "persist"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "logic"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The heavy rain continued to ___ throughout the entire weekend, never letting up even for an hour.",
+      "sentence2": "If you ___ in practising your handwriting every single day, it will definitely improve over time.",
+      "options": [
+        "diagram",
+        "description",
+        "precious",
+        "persist"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "persist"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The teacher gave ___ feedback on the essay, pointing out all the things that were well written.",
+      "sentence2": "Keeping a ___ attitude helped the team stay hopeful and motivated even when they were losing.",
+      "options": [
+        "tangled",
+        "vibrant",
+        "positive",
+        "cable"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "positive"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The necklace was crafted from ___ stones \u2014 diamonds and rubies that were worth a small fortune.",
+      "sentence2": "Time is the most ___ gift you can give someone, because once it is gone, it cannot be returned.",
+      "options": [
+        "numerous",
+        "solve",
+        "precious",
+        "persist"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "precious"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "___ students signed up for the science club \u2014 so many that they had to open a second session.",
+      "sentence2": "There were ___ reasons to celebrate, too many to list on the banner.",
+      "options": [
+        "tangled",
+        "numerous",
+        "cable",
+        "vibrant"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "numerous"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Her long hair got ___ in the wind, knotted and twisted, and it took ten minutes to brush it out.",
+      "sentence2": "The fishing line got ___ around the rocks, twisted into a hopeless knot at the bottom of the creek.",
+      "options": [
+        "precious",
+        "numerous",
+        "incredible",
+        "tangled"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "tangled"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The workers stretched a heavy steel ___ across the river to hold the bridge in place.",
+      "sentence2": "The construction crew used a thick ___ to hoist the heavy beam up into position.",
+      "options": [
+        "cable",
+        "tangled",
+        "diagram",
+        "numerous"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "cable"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The detective worked all night to ___ the mystery of the missing diamond ring before morning.",
+      "sentence2": "Can you ___ this tricky riddle before the timer runs out and the buzzer sounds?",
+      "options": [
+        "logic",
+        "solve",
+        "precious",
+        "diagram"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "solve"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "diagram",
+      "vibrant",
+      "description",
+      "incredible",
+      "logic",
+      "persist",
+      "positive",
+      "precious",
+      "numerous",
+      "tangled",
+      "cable",
+      "solve"
+    ],
+    "passage": "Isha stared at the old _(1)_ pinned to the library wall \u2014 a drawing with labeled arrows showing every hidden room in the school building. The paper was _(2)_, covered in bright colors and bold ink that had not faded at all. Beside it, someone had written a _(3)_ of a secret door \u2014 a detailed account mentioning a loose brick and a rusted handle. The discovery was _(4)_, almost too amazing to believe. To find the door, Isha would need to use _(5)_, thinking carefully and ruling out the wrong paths one by one. She decided to _(6)_ in her search, refusing to quit even when the hallways led to dead ends. Aarav stayed _(7)_, encouraging her and insisting they would succeed. The old door, when they finally found it, was sealed shut with a _(8)_ lock \u2014 a thick iron wire twisted around the handle like a rope. The handle itself was wrapped in a _(9)_ knot, messy and nearly impossible to undo. Behind the door were _(10)_ shelves stacked with boxes, so many that they filled the entire room. Inside the first box lay a _(11)_ pocket watch that had belonged to the school's first principal \u2014 a treasure far too valuable to ignore. \"We are going to _(12)_ this mystery before the day is over,\" Isha whispered, her eyes shining.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "diagram",
+        "options": [
+          "diagram",
+          "vibrant",
+          "numerous",
+          "precious"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "vibrant",
+        "options": [
+          "vibrant",
+          "precious",
+          "tangled",
+          "numerous"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "description",
+        "options": [
+          "description",
+          "numerous",
+          "vibrant",
+          "cable"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "incredible",
+        "options": [
+          "incredible",
+          "positive",
+          "cable",
+          "tangled"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "logic",
+        "options": [
+          "logic",
+          "vibrant",
+          "description",
+          "persist"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "persist",
+        "options": [
+          "persist",
+          "cable",
+          "solve",
+          "tangled"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "positive",
+        "options": [
+          "positive",
+          "persist",
+          "precious",
+          "tangled"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "cable",
+        "options": [
+          "cable",
+          "logic",
+          "numerous",
+          "tangled"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "tangled",
+        "options": [
+          "tangled",
+          "vibrant",
+          "numerous",
+          "incredible"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "numerous",
+        "options": [
+          "numerous",
+          "cable",
+          "positive",
+          "vibrant"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "precious",
+        "options": [
+          "precious",
+          "positive",
+          "incredible",
+          "diagram"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "solve",
+        "options": [
+          "solve",
+          "positive",
+          "persist",
+          "precious"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "diagram",
+        "scale": [
+          "sketch",
+          "diagram",
+          "chart"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "vibrant",
+        "scale": [
+          "bright",
+          "vibrant",
+          "vivid"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "description",
+        "scale": [
+          "mention",
+          "description",
+          "account"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "incredible",
+        "scale": [
+          "interesting",
+          "incredible",
+          "astounding"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "logic",
+        "words": [
+          "irrationality",
+          "reason",
+          "rationale",
+          "sense"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "irrationality"
+      },
+      {
+        "vocabWord": "persist",
+        "words": [
+          "stop",
+          "continue",
+          "endure",
+          "remain"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "stop"
+      },
+      {
+        "vocabWord": "positive",
+        "words": [
+          "good",
+          "negative",
+          "happy",
+          "optimistic"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "negative"
+      },
+      {
+        "vocabWord": "precious",
+        "words": [
+          "worthless",
+          "valuable",
+          "special",
+          "dear"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "worthless"
+      },
+      {
+        "vocabWord": "numerous",
+        "words": [
+          "few",
+          "many",
+          "countless",
+          "abundant"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "few"
+      },
+      {
+        "vocabWord": "tangled",
+        "words": [
+          "untangled",
+          "twisted",
+          "knotted",
+          "snarled"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "untangled"
+      },
+      {
+        "vocabWord": "cable",
+        "words": [
+          "wire",
+          "cord",
+          "wireless",
+          "rope"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "wireless"
+      },
+      {
+        "vocabWord": "solve",
+        "words": [
+          "answer",
+          "complicate",
+          "fix",
+          "resolve"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "complicate"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

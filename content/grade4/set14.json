@@ -1,0 +1,401 @@
+{
+  "grade": 4,
+  "setNumber": 14,
+  "words": [
+    "barter",
+    "inventory",
+    "export",
+    "import",
+    "scarcity",
+    "surplus",
+    "demand",
+    "currency",
+    "revenue",
+    "negotiate",
+    "profit",
+    "enterprise"
+  ],
+  "sources": [
+    "Common Core Grade 4",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 4",
+    "CKLA Grade 4",
+    "Tier 2 Academic"
+  ],
+  "genre": "marketplace adventure",
+  "story": {
+    "genre": "marketplace adventure",
+    "characters": ["Mara", "Dev", "Yara"],
+    "parts": [
+      {
+        "title": "The Market Opens",
+        "text": "Mara and Dev arrived at the village marketplace just as the sun rose. Traders from faraway lands had come to **export** their finest goods — silk, spices, and pottery. Mara noticed the town needed to **import** wheat because there was a **scarcity** of grain after the dry season. Dev pulled out a list showing their **inventory** of items they had to sell: honey, woven baskets, and colorful beads."
+      },
+      {
+        "title": "The Trading Begins",
+        "text": "Yara joined them at their stall, holding a pouch of silver coins. She explained that this **currency** was accepted by every trader in the market. Mara wanted to **barter** instead, offering three jars of honey for a bundle of silk. The silk merchant said the **demand** for honey was high, so the trade seemed fair. After the exchange, Dev counted their **revenue** from the morning sales and smiled."
+      },
+      {
+        "title": "The Big Deal",
+        "text": "By midday, the friends had earned a small **profit** from selling baskets. Yara had an idea to **negotiate** a better price on a large shipment of spices they could resell later. Mara called it a bold **enterprise** because it would take all their savings. They discovered a **surplus** of cinnamon at one stall, which meant the price was low enough for them to afford a big purchase."
+      },
+      {
+        "title": "Lessons Learned",
+        "text": "As the market closed for the evening, Mara, Dev, and Yara sat under a tree and counted their earnings. They had started the day with a few baskets and some honey, and now they had spices, silk, and coins. Dev said the best part was learning how trading works and why every deal must be fair for both sides. The three friends agreed to return to the market the following week."
+      }
+    ],
+    "wordCount": 247
+  },
+  "definitions": [
+    {
+      "word": "barter",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To trade goods or services without using money. Example: The farmer decided to barter eggs for a bag of flour at the market.",
+      "meaning2": "",
+      "studentChallenge": "Long ago, people would ___ animal skins for tools and food instead of using money.",
+      "sentence": ""
+    },
+    {
+      "word": "inventory",
+      "partOfSpeech": "noun",
+      "meaning1": "A complete list of items or goods that a store or person has available. Example: The shop owner checked the inventory to see how many toys were left on the shelves.",
+      "meaning2": "",
+      "studentChallenge": "The store manager counted the ___ to make sure every item on the list was in stock.",
+      "sentence": ""
+    },
+    {
+      "word": "export",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To send goods to another country for sale. Example: Brazil exports coffee beans to countries all around the world.",
+      "meaning2": "",
+      "studentChallenge": "The factory will ___ cars to other countries by loading them onto huge cargo ships.",
+      "sentence": ""
+    },
+    {
+      "word": "import",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To bring goods into a country from another place for sale or use. Example: The United States imports bananas from Central America because they grow well there.",
+      "meaning2": "",
+      "studentChallenge": "Our country must ___ oil from other nations because we do not produce enough on our own.",
+      "sentence": ""
+    },
+    {
+      "word": "scarcity",
+      "partOfSpeech": "noun",
+      "meaning1": "A shortage or lack of something that is needed. Example: The scarcity of clean water in the village made life very difficult for the families who lived there.",
+      "meaning2": "",
+      "studentChallenge": "The ___ of fresh fruit during winter means prices at the grocery store go up.",
+      "sentence": ""
+    },
+    {
+      "word": "surplus",
+      "partOfSpeech": "noun, adjective",
+      "meaning1": "An extra amount of something that is more than what is needed. Example: The farm had a surplus of apples, so they donated the extras to a food bank.",
+      "meaning2": "",
+      "studentChallenge": "After the big harvest, the farmers had a ___ of corn and shared it with their neighbors.",
+      "sentence": ""
+    },
+    {
+      "word": "demand",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "The desire or need people have for a product or service. Example: The demand for warm coats goes up every winter when the weather turns cold.",
+      "meaning2": "To ask for something firmly or forcefully. Example: The angry customer demanded a refund for the broken toy.",
+      "studentChallenge": "The ___ for the new video game was so high that every store sold out on the first day.",
+      "sentence": ""
+    },
+    {
+      "word": "currency",
+      "partOfSpeech": "noun",
+      "meaning1": "The type of money used in a particular country. Example: The dollar is the currency used in the United States, while the euro is used in many European countries.",
+      "meaning2": "",
+      "studentChallenge": "When traveling to Japan, you need to exchange your dollars for the local ___.",
+      "sentence": ""
+    },
+    {
+      "word": "revenue",
+      "partOfSpeech": "noun",
+      "meaning1": "The total amount of money earned by a business or government. Example: The lemonade stand brought in enough revenue to buy supplies for next week.",
+      "meaning2": "",
+      "studentChallenge": "The school bake sale raised a lot of ___ that will be used to buy new library books.",
+      "sentence": ""
+    },
+    {
+      "word": "negotiate",
+      "partOfSpeech": "verb",
+      "meaning1": "To discuss something in order to reach an agreement that works for everyone. Example: The two teams had to negotiate the rules before the game could begin.",
+      "meaning2": "",
+      "studentChallenge": "Mom and Dad sat down to ___ a fair bedtime that everyone could agree on.",
+      "sentence": ""
+    },
+    {
+      "word": "profit",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "The money left over after all costs are paid. Example: The bakery made a nice profit after selling one hundred cupcakes at the fair.",
+      "meaning2": "",
+      "studentChallenge": "After paying for all the supplies, the car wash earned a ___ of fifty dollars.",
+      "sentence": ""
+    },
+    {
+      "word": "enterprise",
+      "partOfSpeech": "noun",
+      "meaning1": "A business or project, especially one that takes courage or effort to start. Example: Opening a pet-grooming shop was a fun enterprise that the whole family helped with.",
+      "meaning2": "",
+      "studentChallenge": "Starting a neighborhood lawn-mowing service was a brave ___ for the three young friends.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "In the old days, farmers would _______ vegetables for milk instead of paying with coins.",
+      "sentence2": "The children decided to _______ baseball cards at recess, swapping their doubles with friends.",
+      "options": ["negotiate", "barter", "export", "demand"],
+      "correctIndex": 1,
+      "correctAnswer": "barter"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The warehouse manager checked the _______ to see how many boxes of cereal were left in storage.",
+      "sentence2": "Before the yard sale, the family made an _______ of everything in the garage they wanted to sell.",
+      "options": ["inventory", "revenue", "profit", "currency"],
+      "correctIndex": 0,
+      "correctAnswer": "inventory"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The country decided to _______ its finest tea leaves to markets overseas.",
+      "sentence2": "Factories near the coast find it easy to _______ goods because ships can load at the harbor.",
+      "options": ["import", "barter", "export", "negotiate"],
+      "correctIndex": 2,
+      "correctAnswer": "export"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The store had to _______ special chocolate from Belgium because it was not made locally.",
+      "sentence2": "Many countries _______ oil because they do not have enough of their own supply.",
+      "options": ["export", "import", "demand", "enterprise"],
+      "correctIndex": 1,
+      "correctAnswer": "import"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The _______ of tickets meant that fans had to wait in line for hours just to get one.",
+      "sentence2": "During the drought, the _______ of water forced the town to limit how much each family could use.",
+      "options": ["surplus", "scarcity", "revenue", "profit"],
+      "correctIndex": 1,
+      "correctAnswer": "scarcity"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The garden produced a _______ of tomatoes, far more than the family could eat on their own.",
+      "sentence2": "Because there was a _______ of chairs, some students had to bring extras from other classrooms.",
+      "options": ["scarcity", "demand", "surplus", "inventory"],
+      "correctIndex": 2,
+      "correctAnswer": "surplus"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The _______ for the popular sneakers was so high that they sold out in just ten minutes.",
+      "sentence2": "The workers decided to _______ higher pay because they felt they deserved more.",
+      "options": ["demand", "profit", "enterprise", "currency"],
+      "correctIndex": 0,
+      "correctAnswer": "demand"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "When visiting Mexico, travelers exchange their dollars for the local _______ called pesos.",
+      "sentence2": "Before coins were invented, seashells were sometimes used as _______ for buying things.",
+      "options": ["revenue", "profit", "inventory", "currency"],
+      "correctIndex": 3,
+      "correctAnswer": "currency"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The school carnival brought in record _______ from ticket sales and food booths.",
+      "sentence2": "The city uses tax _______ to build roads, parks, and schools for its citizens.",
+      "options": ["profit", "revenue", "surplus", "enterprise"],
+      "correctIndex": 1,
+      "correctAnswer": "revenue"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The two countries had to _______ a peace agreement before the fighting could stop.",
+      "sentence2": "Mia tried to _______ a later bedtime by promising to finish all her homework first.",
+      "options": ["barter", "demand", "export", "negotiate"],
+      "correctIndex": 3,
+      "correctAnswer": "negotiate"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "After paying for ingredients, the lemonade stand made a _______ of twenty dollars.",
+      "sentence2": "The company's _______ grew because they found a way to make their product for less money.",
+      "options": ["revenue", "currency", "profit", "surplus"],
+      "correctIndex": 2,
+      "correctAnswer": "profit"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Starting a dog-walking business was a fun _______ that the siblings ran together after school.",
+      "sentence2": "The new recycling program was a bold _______ that the whole community supported.",
+      "options": ["enterprise", "inventory", "scarcity", "import"],
+      "correctIndex": 0,
+      "correctAnswer": "enterprise"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "barter",
+      "inventory",
+      "export",
+      "import",
+      "scarcity",
+      "surplus",
+      "demand",
+      "currency",
+      "revenue",
+      "negotiate",
+      "profit",
+      "enterprise"
+    ],
+    "passage": "Mara had always dreamed of starting her own _(1)_ — a small shop that sold handmade jewelry. She began by taking _(2)_ of all the beads, wire, and stones she had collected over the years. Her friend Dev offered to help, and together they decided to _(3)_ a fair deal with the craft store downtown for supplies at a lower price.\n\nAt first, there was a _(4)_ of customers because nobody knew about the shop yet. Mara put up signs and soon the _(5)_ for her bracelets grew quickly. Some customers wanted to _(6)_ instead of paying, offering homemade candles and drawings in trade. Mara accepted a few swaps but reminded everyone that she also needed _(7)_ — real coins and bills — to pay for new materials.\n\nWithin a month, the shop's _(8)_ from sales was enough to cover all expenses. After subtracting the cost of beads and wire, Mara was thrilled to see a real _(9)_ for the first time. She even had a _(10)_ of finished necklaces, more than she could display on the shelves. Dev suggested they _(11)_ some pieces to a gift shop in the next town and _(12)_ colorful glass beads from a seller overseas to make new designs.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "enterprise",
+        "options": ["enterprise", "inventory", "profit", "currency"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "inventory",
+        "options": ["inventory", "surplus", "revenue", "demand"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "negotiate",
+        "options": ["barter", "negotiate", "export", "demand"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "scarcity",
+        "options": ["surplus", "scarcity", "profit", "enterprise"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "demand",
+        "options": ["demand", "revenue", "scarcity", "inventory"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "barter",
+        "options": ["negotiate", "export", "barter", "import"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "currency",
+        "options": ["currency", "profit", "revenue", "surplus"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "revenue",
+        "options": ["revenue", "profit", "demand", "enterprise"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "profit",
+        "options": ["surplus", "currency", "profit", "inventory"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "surplus",
+        "options": ["scarcity", "surplus", "demand", "revenue"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "export",
+        "options": ["import", "barter", "export", "negotiate"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "import",
+        "options": ["export", "import", "enterprise", "currency"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "scarcity",
+        "scale": ["Scarcity", "Shortage", "Absence"],
+        "vocabPosition": 0
+      },
+      {
+        "vocabWord": "demand",
+        "scale": ["Request", "Desire", "Demand"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "profit",
+        "scale": ["Savings", "Earnings", "Profit"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "enterprise",
+        "scale": ["Task", "Project", "Enterprise"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "barter",
+        "words": ["Trade", "Swap", "Keep", "Exchange"],
+        "imposterIndex": 2,
+        "imposterWord": "Keep"
+      },
+      {
+        "vocabWord": "export",
+        "words": ["Send", "Ship", "Receive", "Deliver"],
+        "imposterIndex": 2,
+        "imposterWord": "Receive"
+      },
+      {
+        "vocabWord": "import",
+        "words": ["Bring in", "Export", "Receive", "Obtain"],
+        "imposterIndex": 1,
+        "imposterWord": "Export"
+      },
+      {
+        "vocabWord": "surplus",
+        "words": ["Excess", "Extra", "Shortage", "Overflow"],
+        "imposterIndex": 2,
+        "imposterWord": "Shortage"
+      },
+      {
+        "vocabWord": "currency",
+        "words": ["Money", "Coins", "Debt", "Cash"],
+        "imposterIndex": 2,
+        "imposterWord": "Debt"
+      },
+      {
+        "vocabWord": "revenue",
+        "words": ["Income", "Earnings", "Expense", "Proceeds"],
+        "imposterIndex": 2,
+        "imposterWord": "Expense"
+      },
+      {
+        "vocabWord": "negotiate",
+        "words": ["Discuss", "Bargain", "Refuse", "Compromise"],
+        "imposterIndex": 2,
+        "imposterWord": "Refuse"
+      },
+      {
+        "vocabWord": "inventory",
+        "words": ["Stockpile", "Supply", "Absence", "Collection"],
+        "imposterIndex": 2,
+        "imposterWord": "Absence"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

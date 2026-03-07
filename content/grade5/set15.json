@@ -1,0 +1,405 @@
+{
+  "grade": 5,
+  "setNumber": 15,
+  "words": [
+    "tenacious",
+    "scavenge",
+    "destitute",
+    "staunch",
+    "famished",
+    "impervious",
+    "predicament",
+    "undaunted",
+    "dire",
+    "makeshift",
+    "deplete",
+    "reprieve"
+  ],
+  "sources": [
+    "Common Core Grade 5",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 5",
+    "CKLA Grade 5",
+    "Tier 2 Academic"
+  ],
+  "genre": "wilderness survival",
+  "story": {
+    "genre": "wilderness survival",
+    "characters": [
+      "Bodhi",
+      "Safiya",
+      "Lars"
+    ],
+    "parts": [
+      {
+        "title": "Lost in the Canyon",
+        "text": "Bodhi, Safiya, and Lars had been hiking through the canyon for hours when the trail vanished beneath a rockslide. Their situation was **dire** — the sun was setting, and they had no way to call for help. They knew the desert heat would **deplete** their water supply fast. Safiya looked around and realized they were in a serious **predicament** with no clear path forward or back."
+      },
+      {
+        "title": "Finding Strength",
+        "text": "Despite the danger, Bodhi remained **undaunted** and began searching for a place to camp. Lars, who was **famished** after the long hike, volunteered to **scavenge** for food among the desert shrubs. He found prickly pear fruit and some wild berries. Safiya proved **tenacious**, refusing to quit as she climbed a tall boulder to scout the area around them."
+      },
+      {
+        "title": "Shelter and Hope",
+        "text": "Using branches and a tarp from Bodhi's pack, they built a **makeshift** shelter against the canyon wall. Lars was **staunch** in his belief that rescuers would find them by morning. Safiya worried they were **destitute**, with almost nothing left in their supplies. Then Bodhi spotted a spring trickling between the rocks — a welcome **reprieve** from their thirst. The canyon walls were **impervious** to the cold night wind, keeping their camp surprisingly warm."
+      },
+      {
+        "title": "Rescued at Dawn",
+        "text": "At sunrise, a helicopter echoed through the canyon. The three friends waved their arms until the pilot spotted them below. As they were lifted to safety, they looked down at the place that had tested them so completely. They had survived by working together and never losing hope."
+      }
+    ],
+    "wordCount": 243
+  },
+  "definitions": [
+    {
+      "word": "tenacious",
+      "partOfSpeech": "adjective",
+      "meaning1": "Holding on tightly and refusing to let go or give up. Example: The tenacious climber kept going even when the mountain got steeper.",
+      "meaning2": "",
+      "studentChallenge": "The ___ athlete trained every single day, even when she was tired.",
+      "sentence": ""
+    },
+    {
+      "word": "scavenge",
+      "partOfSpeech": "verb",
+      "meaning1": "To search for and collect useful things that others have thrown away or left behind. Example: The raccoons would scavenge through the campsite looking for scraps of food.",
+      "meaning2": "",
+      "studentChallenge": "After the storm, the birds began to ___ for food among the fallen branches.",
+      "sentence": ""
+    },
+    {
+      "word": "destitute",
+      "partOfSpeech": "adjective",
+      "meaning1": "Extremely poor and lacking the basic things needed to live. Example: After the flood destroyed their home, the family was left destitute.",
+      "meaning2": "Completely without something. Example: The desert was destitute of any shade or water.",
+      "studentChallenge": "The travelers were ___ after losing all of their supplies in the river.",
+      "sentence": ""
+    },
+    {
+      "word": "staunch",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very loyal and committed; firm in one's beliefs. Example: She was a staunch supporter of the school recycling program.",
+      "meaning2": "",
+      "studentChallenge": "He was a ___ defender of his little sister whenever someone teased her.",
+      "sentence": ""
+    },
+    {
+      "word": "famished",
+      "partOfSpeech": "adjective",
+      "meaning1": "Extremely hungry. Example: After playing soccer for two hours, the kids were absolutely famished.",
+      "meaning2": "",
+      "studentChallenge": "By lunchtime, she was so ___ that she could have eaten three sandwiches.",
+      "sentence": ""
+    },
+    {
+      "word": "impervious",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not affected or bothered by something. Example: He seemed impervious to the cold, walking outside without a jacket.",
+      "meaning2": "Not allowing something to pass through. Example: The thick rubber boots were impervious to water.",
+      "studentChallenge": "The raincoat was ___ to water, keeping her completely dry in the downpour.",
+      "sentence": ""
+    },
+    {
+      "word": "predicament",
+      "partOfSpeech": "noun",
+      "meaning1": "A difficult or unpleasant situation that is hard to get out of. Example: Forgetting her lines on stage put her in a real predicament.",
+      "meaning2": "",
+      "studentChallenge": "Losing the map left the hikers in a serious ___.",
+      "sentence": ""
+    },
+    {
+      "word": "undaunted",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not discouraged or frightened by difficulty or danger. Example: Undaunted by the rain, the team kept playing their hardest.",
+      "meaning2": "",
+      "studentChallenge": "The explorer was ___ by the steep mountain and began climbing with confidence.",
+      "sentence": ""
+    },
+    {
+      "word": "dire",
+      "partOfSpeech": "adjective",
+      "meaning1": "Extremely serious or urgent. Example: The town was in dire need of fresh water after the drought.",
+      "meaning2": "Warning of disaster. Example: The weather report gave a dire prediction about the approaching hurricane.",
+      "studentChallenge": "The situation became ___ when the bridge started to crack under the weight.",
+      "sentence": ""
+    },
+    {
+      "word": "makeshift",
+      "partOfSpeech": "adjective",
+      "meaning1": "Used as a temporary substitute because the real thing is not available. Example: They used a cardboard box as a makeshift table during the picnic.",
+      "meaning2": "",
+      "studentChallenge": "Without a real bandage, he used a ___ one made from a torn T-shirt.",
+      "sentence": ""
+    },
+    {
+      "word": "deplete",
+      "partOfSpeech": "verb",
+      "meaning1": "To use up or greatly reduce the amount of something. Example: Running the air conditioner all day will deplete the battery quickly.",
+      "meaning2": "",
+      "studentChallenge": "If we keep using water at this rate, we will ___ our supply before the week is over.",
+      "sentence": ""
+    },
+    {
+      "word": "reprieve",
+      "partOfSpeech": "noun",
+      "meaning1": "A temporary relief or escape from something unpleasant. Example: The snow day was a welcome reprieve from the difficult math test.",
+      "meaning2": "",
+      "studentChallenge": "The cool breeze was a ___ from the intense summer heat.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The _______ dog refused to let go of the rope, no matter how hard you pulled.",
+      "sentence2": "Her _______ effort to learn the piano paid off when she finally played the song perfectly.",
+      "options": ["staunch", "tenacious", "undaunted", "impervious"],
+      "correctIndex": 1,
+      "correctAnswer": "tenacious"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The squirrels would _______ for acorns buried under the fallen leaves.",
+      "sentence2": "After the shipwreck, the survivors had to _______ for food along the rocky shore.",
+      "options": ["deplete", "scavenge", "reprieve", "makeshift"],
+      "correctIndex": 1,
+      "correctAnswer": "scavenge"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The earthquake left hundreds of families completely _______.",
+      "sentence2": "Without a single coin in his pocket, the traveler felt utterly _______.",
+      "options": ["famished", "dire", "destitute", "undaunted"],
+      "correctIndex": 2,
+      "correctAnswer": "destitute"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "She was a _______ believer in always telling the truth, no matter what.",
+      "sentence2": "The _______ friends stood by each other through every challenge they faced.",
+      "options": ["staunch", "tenacious", "makeshift", "impervious"],
+      "correctIndex": 0,
+      "correctAnswer": "staunch"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "After skipping breakfast and lunch, the campers were absolutely _______.",
+      "sentence2": "The _______ hikers could barely walk another step until they finally found a place to eat.",
+      "options": ["destitute", "dire", "famished", "undaunted"],
+      "correctIndex": 2,
+      "correctAnswer": "famished"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The thick castle walls were _______ to the arrows fired by the enemy.",
+      "sentence2": "She seemed _______ to criticism and never let unkind words bother her.",
+      "options": ["impervious", "tenacious", "staunch", "undaunted"],
+      "correctIndex": 0,
+      "correctAnswer": "impervious"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Getting locked out of the house with dinner cooking on the stove was quite a _______.",
+      "sentence2": "The captain found herself in a _______ when the ship's engine failed during the storm.",
+      "options": ["reprieve", "predicament", "deplete", "makeshift"],
+      "correctIndex": 1,
+      "correctAnswer": "predicament"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "_______ by the long journey ahead, the explorers set out at dawn with big smiles.",
+      "sentence2": "The young inventor was _______ by her first failed experiment and immediately tried again.",
+      "options": ["famished", "destitute", "impervious", "undaunted"],
+      "correctIndex": 3,
+      "correctAnswer": "undaunted"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The hospital was in _______ need of medical supplies after the disaster.",
+      "sentence2": "The weather forecast painted a _______ picture of the approaching blizzard.",
+      "options": ["makeshift", "dire", "staunch", "tenacious"],
+      "correctIndex": 1,
+      "correctAnswer": "dire"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "They built a _______ raft out of logs and vines to cross the river.",
+      "sentence2": "The students used a _______ stage made of stacked crates for their talent show.",
+      "options": ["predicament", "reprieve", "makeshift", "scavenge"],
+      "correctIndex": 2,
+      "correctAnswer": "makeshift"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Running the heater all night would _______ the fuel supply before morning.",
+      "sentence2": "Overfishing can _______ the ocean's fish population and harm the ecosystem.",
+      "options": ["deplete", "scavenge", "reprieve", "famished"],
+      "correctIndex": 0,
+      "correctAnswer": "deplete"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The canceled test was a welcome _______ for students who had not studied yet.",
+      "sentence2": "After hours of hard work, the short break was a much-needed _______.",
+      "options": ["predicament", "dire", "deplete", "reprieve"],
+      "correctIndex": 3,
+      "correctAnswer": "reprieve"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "tenacious",
+      "scavenge",
+      "destitute",
+      "staunch",
+      "famished",
+      "impervious",
+      "predicament",
+      "undaunted",
+      "dire",
+      "makeshift",
+      "deplete",
+      "reprieve"
+    ],
+    "passage": "When the river flooded and washed away their campsite, the three scouts found themselves in a _(1)_ situation. They were soaking wet, their food was gone, and the temperature was dropping fast. The group was _(2)_ after not eating since breakfast, and they knew their _(3)_ was serious — they had to find shelter before nightfall.\n\nMaya, the most _(4)_ of the group, refused to give up. She led the others downstream to _(5)_ for useful materials among the driftwood. Using what they found, they built a _(6)_ lean-to against a large rock. Jalen was _(7)_ in his confidence that they would be rescued. He reminded everyone to stay calm so they would not _(8)_ their remaining energy.\n\nThough they were _(9)_ — left with almost nothing — the scouts remained _(10)_ by the challenge. The rock wall behind their shelter was _(11)_ to the wind, blocking the worst of the cold gusts. When the rain finally stopped around midnight, it felt like a _(12)_ from the misery of the storm.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "dire",
+        "options": ["dire", "makeshift", "staunch", "famished"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "famished",
+        "options": ["tenacious", "famished", "destitute", "undaunted"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "predicament",
+        "options": ["reprieve", "predicament", "dire", "impervious"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "tenacious",
+        "options": ["staunch", "tenacious", "famished", "undaunted"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "scavenge",
+        "options": ["deplete", "scavenge", "reprieve", "makeshift"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "makeshift",
+        "options": ["impervious", "destitute", "makeshift", "dire"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "staunch",
+        "options": ["staunch", "tenacious", "undaunted", "famished"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "deplete",
+        "options": ["scavenge", "deplete", "reprieve", "impervious"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "destitute",
+        "options": ["destitute", "famished", "dire", "makeshift"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "undaunted",
+        "options": ["tenacious", "staunch", "undaunted", "impervious"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "impervious",
+        "options": ["impervious", "makeshift", "reprieve", "deplete"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "reprieve",
+        "options": ["scavenge", "predicament", "reprieve", "destitute"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "famished",
+        "scale": ["Hungry", "Starving", "Famished"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "dire",
+        "scale": ["Concerning", "Serious", "Dire"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "tenacious",
+        "scale": ["Determined", "Persistent", "Tenacious"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "destitute",
+        "scale": ["Poor", "Impoverished", "Destitute"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "tenacious",
+        "words": ["Persistent", "Quitting", "Determined", "Stubborn"],
+        "imposterIndex": 1,
+        "imposterWord": "Quitting"
+      },
+      {
+        "vocabWord": "scavenge",
+        "words": ["Search", "Forage", "Discard", "Hunt"],
+        "imposterIndex": 2,
+        "imposterWord": "Discard"
+      },
+      {
+        "vocabWord": "staunch",
+        "words": ["Loyal", "Faithful", "Wavering", "Devoted"],
+        "imposterIndex": 2,
+        "imposterWord": "Wavering"
+      },
+      {
+        "vocabWord": "impervious",
+        "words": ["Vulnerable", "Resistant", "Protected", "Shielded"],
+        "imposterIndex": 0,
+        "imposterWord": "Vulnerable"
+      },
+      {
+        "vocabWord": "undaunted",
+        "words": ["Brave", "Fearless", "Courageous", "Frightened"],
+        "imposterIndex": 3,
+        "imposterWord": "Frightened"
+      },
+      {
+        "vocabWord": "deplete",
+        "words": ["Drain", "Exhaust", "Replenish", "Empty"],
+        "imposterIndex": 2,
+        "imposterWord": "Replenish"
+      },
+      {
+        "vocabWord": "reprieve",
+        "words": ["Relief", "Break", "Burden", "Pause"],
+        "imposterIndex": 2,
+        "imposterWord": "Burden"
+      },
+      {
+        "vocabWord": "makeshift",
+        "words": ["Temporary", "Improvised", "Permanent", "Substitute"],
+        "imposterIndex": 2,
+        "imposterWord": "Permanent"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

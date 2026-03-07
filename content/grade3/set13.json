@@ -1,0 +1,587 @@
+{
+  "grade": 3,
+  "setNumber": 13,
+  "words": [
+    "giant",
+    "prompt",
+    "risk",
+    "frequent",
+    "telescope",
+    "lodge",
+    "shipwreck",
+    "pursue",
+    "approve",
+    "threat",
+    "assembly",
+    "feast"
+  ],
+  "sources": [
+    "Australian Curriculum",
+    "CBSE India",
+    "Common Core Grade 3",
+    "Common Core Grade 4",
+    "Common Core Grade 5",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Flocabulary Grade 4",
+    "Flocabulary Grade 5",
+    "Tier 2 Academic",
+    "Wit & Wisdom Grade 3",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "Indian folktale",
+  "story": {
+    "genre": "Indian folktale",
+    "characters": [
+      "Leo",
+      "Sanjay",
+      "Aarav"
+    ],
+    "parts": [
+      {
+        "title": "The Village by the River",
+        "text": "Long ago, in a village nestled between green hills, lived a girl named Leo. She was **prompt** \u2014 always quick to help without delay. Every evening, her family shared a **feast** of rice and lentils. The elder Sanjay would **pursue** knowledge about nature, and Leo followed him everywhere. **Frequent** rains kept the river full."
+      },
+      {
+        "title": "The Gathering Storm",
+        "text": "One afternoon, dark clouds rolled in fast. Through his old **telescope**, Sanjay watched the sky turn iron-gray. \"This is a **threat**,\" he said, calling an **assembly** in the square. A **giant** gust struck first, toppling baskets and rattling shutters. Leo did not **approve** of her brother climbing the roof \u2014 she pulled him inside. There was real **risk** in the storm."
+      },
+      {
+        "title": "The Discovery",
+        "text": "After the storm, Leo found a tiny bird near the riverbank \u2014 broken and still, like a small **shipwreck**. A thorn had wedged in its leg, the way a stone can **lodge** in your shoe. She carried it home. Aarav, the healer's apprentice, came to help. \"This bird will fly again,\" Leo said, and wrapped its wing gently with cloth and leaves."
+      },
+      {
+        "title": "The Lesson",
+        "text": "Leo nursed the bird for seven days, following a careful schedule and using herbs her grandmother taught her about. When the bird finally spread its wings and soared into the sky, the whole village cheered. The elder Sanjay smiled and said, \"The greatest strength is gentleness. Even the most delicate creature can survive the worst storm if someone cares enough to help.\" Leo never forgot that lesson. She grew up to become the village healer, and people traveled from far away to seek her superb care."
+      }
+    ],
+    "wordCount": 263
+  },
+  "definitions": [
+    {
+      "word": "giant",
+      "partOfSpeech": "adjective",
+      "meaning1": "Extremely large; much bigger than usual. Example: The giant redwood tree was so wide that five kids holding hands could not reach around it.",
+      "meaning2": "An imaginary creature of great size in fairy tales (noun). Example: In the story, Jack climbed the beanstalk and met a fearsome giant.",
+      "studentChallenge": "A ___ tortoise at the zoo weighed over four hundred pounds and was more than a hundred years old.",
+      "sentence": ""
+    },
+    {
+      "word": "prompt",
+      "partOfSpeech": "adjective, verb",
+      "meaning1": "Done quickly without delay. Example: Thank you for your prompt reply.",
+      "meaning2": "To cause someone to do something. Example: The question prompted a lively discussion.",
+      "studentChallenge": "Please be ___ \u2014 arrive on time for class.",
+      "sentence": ""
+    },
+    {
+      "word": "risk",
+      "partOfSpeech": "noun",
+      "meaning1": "The chance that something bad or dangerous might happen. Example: There is a risk of falling if you climb the tree without being careful.",
+      "meaning2": "To do something even though something bad might happen. Example: She decided to risk running through the rain without an umbrella.",
+      "studentChallenge": "Wearing a seatbelt reduces the ___ of being hurt in a car accident.",
+      "sentence": ""
+    },
+    {
+      "word": "frequent",
+      "partOfSpeech": "adjective",
+      "meaning1": "Happening often. Example: Rain is frequent in the spring.",
+      "meaning2": "",
+      "studentChallenge": "There are ___ buses on this route.",
+      "sentence": ""
+    },
+    {
+      "word": "telescope",
+      "partOfSpeech": "noun",
+      "meaning1": "A tool with lenses or mirrors that makes faraway things look closer, especially stars and planets. Example: She looked through the telescope and saw the craters on the moon's surface for the first time.",
+      "meaning2": "",
+      "studentChallenge": "The scientist pointed the ___ toward the sky and discovered a new comet.",
+      "sentence": ""
+    },
+    {
+      "word": "lodge",
+      "partOfSpeech": "noun",
+      "meaning1": "A small house or cabin, often in the woods or mountains. Example: The family stayed in a cozy lodge near the ski slopes during winter break.",
+      "meaning2": "To become stuck in a place. Example: A small stone can lodge in your shoe and make it uncomfortable to walk.",
+      "studentChallenge": "We rented a wooden ___ by the lake for our summer vacation.",
+      "sentence": ""
+    },
+    {
+      "word": "shipwreck",
+      "partOfSpeech": "noun",
+      "meaning1": "A ship that has been destroyed or sunk, usually by a storm or hitting rocks. Example: Divers explored the old shipwreck at the bottom of the ocean and found ancient coins.",
+      "meaning2": "",
+      "studentChallenge": "The museum had an exhibit about a famous ___ that was discovered off the coast.",
+      "sentence": ""
+    },
+    {
+      "word": "pursue",
+      "partOfSpeech": "verb",
+      "meaning1": "To follow or chase after something; to try to achieve a goal. Example: She decided to pursue her dream of becoming a veterinarian by studying hard in science class.",
+      "meaning2": "",
+      "studentChallenge": "The detective continued to ___ the clues until the mystery was finally solved.",
+      "sentence": ""
+    },
+    {
+      "word": "approve",
+      "partOfSpeech": "verb",
+      "meaning1": "To agree with or accept something. Example: The committee approved the new playground plan.",
+      "meaning2": "",
+      "studentChallenge": "Did your parents ___ of your choice?",
+      "sentence": ""
+    },
+    {
+      "word": "threat",
+      "partOfSpeech": "noun",
+      "meaning1": "A warning that something bad or harmful might happen. Example: The dark clouds were a threat of a thunderstorm that could ruin the outdoor party.",
+      "meaning2": "",
+      "studentChallenge": "The weather forecast said there was a ___ of heavy snow later in the evening.",
+      "sentence": ""
+    },
+    {
+      "word": "assembly",
+      "partOfSpeech": "noun",
+      "meaning1": "A gathering of people in one place for a common purpose. Example: The whole school went to the assembly in the auditorium to hear the guest speaker.",
+      "meaning2": "The process of putting parts together to build something. Example: The assembly of the new bookshelf took Dad about an hour.",
+      "studentChallenge": "During the morning ___, the principal announced the winners of the reading contest.",
+      "sentence": ""
+    },
+    {
+      "word": "feast",
+      "partOfSpeech": "noun",
+      "meaning1": "A large, special meal prepared for a celebration. Example: The family prepared a wonderful feast for Thanksgiving with turkey, pie, and all the trimmings.",
+      "meaning2": "To eat a large amount of food with great enjoyment (verb). Example: After the game, the hungry players were ready to feast on pizza.",
+      "studentChallenge": "The king invited everyone in the village to a grand ___ at the castle.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The ___ redwood tree was so wide that five kids holding hands could not reach around it.",
+      "sentence2": "A ___ tortoise at the zoo weighed over four hundred pounds and was more than a hundred years old.",
+      "options": [
+        "giant",
+        "approve",
+        "shipwreck",
+        "telescope"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "giant"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Thank you for your ___ reply \u2014 you responded so quickly that we could act right away.",
+      "sentence2": "Please be ___ and arrive on time so the class can start without waiting.",
+      "options": [
+        "telescope",
+        "prompt",
+        "assembly",
+        "pursue"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "prompt"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "There is a ___ of falling if you climb the tree without being extremely careful.",
+      "sentence2": "Wearing a seatbelt every trip reduces the ___ of being seriously hurt in a car accident.",
+      "options": [
+        "telescope",
+        "risk",
+        "pursue",
+        "giant"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "risk"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Rain is ___ in the spring \u2014 it falls nearly every other day in some places.",
+      "sentence2": "There are ___ buses on this busy route, one arriving every ten minutes.",
+      "options": [
+        "frequent",
+        "shipwreck",
+        "approve",
+        "pursue"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "frequent"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "She looked through the ___ and saw the craters on the moon's surface for the very first time.",
+      "sentence2": "The scientist pointed the ___ toward the sky and discovered a brand-new comet.",
+      "options": [
+        "pursue",
+        "risk",
+        "telescope",
+        "approve"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "telescope"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The family stayed in a cozy ___ near the ski slopes, warming up by the fire each evening.",
+      "sentence2": "We rented a quiet wooden ___ by the lake for our whole summer vacation.",
+      "options": [
+        "giant",
+        "risk",
+        "lodge",
+        "threat"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "lodge"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Divers explored the old ___ at the bottom of the ocean and found ancient gold coins.",
+      "sentence2": "The museum had a fascinating exhibit about a famous ___ discovered off the rocky coast.",
+      "options": [
+        "assembly",
+        "lodge",
+        "prompt",
+        "shipwreck"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "shipwreck"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "She decided to ___ her dream of becoming a veterinarian by studying hard in science class.",
+      "sentence2": "The detective continued to ___ every clue carefully until the mystery was finally solved.",
+      "options": [
+        "approve",
+        "prompt",
+        "pursue",
+        "threat"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "pursue"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The committee voted to ___ the new playground plan after weeks of discussion.",
+      "sentence2": "Did your parents ___ of your choice to join the drama club after school?",
+      "options": [
+        "pursue",
+        "giant",
+        "risk",
+        "approve"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "approve"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The dark clouds were a clear ___ of a thunderstorm that could ruin the outdoor party.",
+      "sentence2": "The weather forecast warned of a ___ of heavy snow arriving later in the evening.",
+      "options": [
+        "shipwreck",
+        "threat",
+        "risk",
+        "prompt"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "threat"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The whole school gathered at the ___ in the auditorium to hear the visiting guest speaker.",
+      "sentence2": "During the morning ___, the principal announced the winners of the school reading contest.",
+      "options": [
+        "assembly",
+        "pursue",
+        "telescope",
+        "lodge"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "assembly"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The family prepared a wonderful ___ for Thanksgiving with turkey, pie, and all the trimmings.",
+      "sentence2": "The king invited every person in the village to a grand ___ at the castle to celebrate.",
+      "options": [
+        "threat",
+        "shipwreck",
+        "prompt",
+        "feast"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "feast"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "giant",
+      "prompt",
+      "risk",
+      "frequent",
+      "telescope",
+      "lodge",
+      "shipwreck",
+      "pursue",
+      "approve",
+      "threat",
+      "assembly",
+      "feast"
+    ],
+    "passage": "High in the mountains above the village stood a cozy _(1)_ \u2014 a small wooden cabin used by hikers and hunters who needed shelter for the night. Through a powerful _(2)_ set on the porch, a tool with lenses that made distant things look close, visitors could see all the way to the sunken _(3)_ in the harbor below \u2014 a broken old ship lying on its side in the shallow water. The harbor master called a community _(4)_, gathering every villager together in the square to discuss the danger. He warned that the storm season was a real _(5)_, that the heavy rains could wash out the mountain road and cut off the village. Rain was _(6)_ in these mountains \u2014 it arrived nearly every afternoon without fail. The council voted to _(7)_ a repair plan for the road without a single person disagreeing. To fund it, they planned a harvest _(8)_, a grand celebration meal with roasted vegetables, fresh bread, and honey, where every family would bring their best dish. Working at a _(9)_ pace \u2014 responding quickly and without delay \u2014 the villagers began repairs the very next morning. A _(10)_ oak tree had fallen across the path, so enormous that six people standing side by side could not see over it. Some said it was too much of a _(11)_ to move it by hand, that someone could get hurt trying. But the children dared each other to _(12)_ the challenge \u2014 to chase it down and not give up until the road was clear.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "lodge",
+        "options": [
+          "lodge",
+          "assembly",
+          "shipwreck",
+          "feast"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "telescope",
+        "options": [
+          "telescope",
+          "lodge",
+          "assembly",
+          "threat"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "shipwreck",
+        "options": [
+          "shipwreck",
+          "feast",
+          "assembly",
+          "lodge"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "assembly",
+        "options": [
+          "assembly",
+          "feast",
+          "threat",
+          "shipwreck"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "threat",
+        "options": [
+          "threat",
+          "risk",
+          "assembly",
+          "feast"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "frequent",
+        "options": [
+          "frequent",
+          "prompt",
+          "giant",
+          "approve"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "approve",
+        "options": [
+          "approve",
+          "pursue",
+          "prompt",
+          "risk"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "feast",
+        "options": [
+          "feast",
+          "assembly",
+          "lodge",
+          "shipwreck"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "prompt",
+        "options": [
+          "prompt",
+          "frequent",
+          "giant",
+          "approve"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "giant",
+        "options": [
+          "giant",
+          "frequent",
+          "prompt",
+          "risk"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "risk",
+        "options": [
+          "risk",
+          "threat",
+          "pursue",
+          "approve"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "pursue",
+        "options": [
+          "pursue",
+          "approve",
+          "risk",
+          "frequent"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "giant",
+        "scale": [
+          "big",
+          "giant",
+          "enormous"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "prompt",
+        "scale": [
+          "hesitant",
+          "prompt",
+          "fast"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "risk",
+        "scale": [
+          "unlikely",
+          "risk",
+          "danger"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "frequent",
+        "scale": [
+          "regular",
+          "frequent",
+          "habitual"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "telescope",
+        "words": [
+          "naked-eye",
+          "spyglass",
+          "viewer",
+          "scope"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "naked-eye"
+      },
+      {
+        "vocabWord": "lodge",
+        "words": [
+          "leave",
+          "cabin",
+          "shelter",
+          "stay"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "leave"
+      },
+      {
+        "vocabWord": "shipwreck",
+        "words": [
+          "wreck",
+          "safe harbor",
+          "disaster",
+          "sinking"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "safe harbor"
+      },
+      {
+        "vocabWord": "pursue",
+        "words": [
+          "flee",
+          "chase",
+          "follow",
+          "seek"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "flee"
+      },
+      {
+        "vocabWord": "approve",
+        "words": [
+          "reject",
+          "accept",
+          "agree",
+          "support"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "reject"
+      },
+      {
+        "vocabWord": "threat",
+        "words": [
+          "danger",
+          "risk",
+          "safety",
+          "menace"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "safety"
+      },
+      {
+        "vocabWord": "assembly",
+        "words": [
+          "dispersal",
+          "gathering",
+          "meeting",
+          "group"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "dispersal"
+      },
+      {
+        "vocabWord": "feast",
+        "words": [
+          "banquet",
+          "famine",
+          "meal",
+          "celebration"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "famine"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

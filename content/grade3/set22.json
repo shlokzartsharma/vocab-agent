@@ -1,0 +1,590 @@
+{
+  "grade": 3,
+  "setNumber": 22,
+  "words": [
+    "coach",
+    "feature",
+    "arctic",
+    "grasp",
+    "scatter",
+    "boast",
+    "parcel",
+    "bargain",
+    "site",
+    "transform",
+    "watchful",
+    "shift"
+  ],
+  "sources": [
+    "Australian Curriculum",
+    "British KS2",
+    "CBSE India",
+    "Cambridge Primary",
+    "Common Core Grade 3",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Flocabulary Grade 5",
+    "Singapore MOE/PSLE",
+    "Tier 2 Academic",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "space exploration with real NASA/ISRO facts",
+  "story": {
+    "genre": "space exploration with real NASA/ISRO facts",
+    "characters": [
+      "Nia",
+      "Fatima",
+      "Diya"
+    ],
+    "parts": [
+      {
+        "title": "Stargazer",
+        "text": "Every night, Nia would **watchful**ly scan the sky through her homemade telescope, never letting her gaze drift for a moment. Her science **coach**, Fatima, had taught her that the best **feature** of stargazing was patience \u2014 the ability to wait and look carefully. Nia kept a detailed notebook at the **site** by her bedroom window, recording every observation she made.",
+        "wordCount": 63
+      },
+      {
+        "title": "Mission Control",
+        "text": "When news came that a massive solar flare had begun to **scatter** satellite signals across the atmosphere, Nia paid close attention. Scientists said the flare could **transform** Earth's communication systems overnight. The temperature data from the polar regions showed readings as **arctic** as anything ever recorded. Fatima sent Nia a **parcel** of research papers wrapped in brown paper \u2014 it was a true **bargain** of knowledge, worth far more than its small cost.",
+        "wordCount": 79
+      },
+      {
+        "title": "The Discovery",
+        "text": "While analyzing the data, Nia tried to **grasp** a strange pattern \u2014 a rhythmic **shift** in the solar wave readings that no one else had noticed. She could not **boast** about it yet, but she compiled every piece of evidence carefully. \"This repeating pattern could mean something completely new,\" she told Diya excitedly.",
+        "wordCount": 55
+      },
+      {
+        "title": "A Star Is Born",
+        "text": "Nia submitted her findings to ISRO. Three weeks later, she received a letter \u2014 her discovery was real. A new solar wave pattern was named after her. She was invited to visit ISRO's Space Applications Centre in Ahmedabad. \"You have the mind of a true scientist,\" the director told her. Nia knew that this was just the beginning of her journey to the stars.",
+        "wordCount": 65
+      }
+    ],
+    "wordCount": 262
+  },
+  "definitions": [
+    {
+      "word": "coach",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who trains and teaches athletes or a team. Example: The soccer coach taught the players a new passing drill at practice.",
+      "meaning2": "A large bus used for long-distance travel. Example: We took a coach from the city to the countryside for our field trip.",
+      "studentChallenge": "Our basketball ___ showed us how to improve our free throws after school.",
+      "sentence": ""
+    },
+    {
+      "word": "feature",
+      "partOfSpeech": "noun",
+      "meaning1": "An important or noticeable part of something. Example: The best feature of the new playground is the giant climbing wall.",
+      "meaning2": "To include or highlight something special (verb). Example: The school newsletter will feature a story about the winning science project.",
+      "studentChallenge": "My favorite ___ of the new phone is the camera that takes amazing photos.",
+      "sentence": ""
+    },
+    {
+      "word": "arctic",
+      "partOfSpeech": "adjective, noun",
+      "meaning1": "Relating to the very cold region around the North Pole. Example: Polar bears live in the arctic.",
+      "meaning2": "",
+      "studentChallenge": "The ___ winds made the temperature drop below zero.",
+      "sentence": ""
+    },
+    {
+      "word": "grasp",
+      "partOfSpeech": "verb",
+      "meaning1": "To grab and hold something tightly. Example: She had to grasp the rope with both hands to keep from slipping.",
+      "meaning2": "To understand something. Example: After the teacher explained it again, he was finally able to grasp the math concept.",
+      "studentChallenge": "You need to ___ the handlebars firmly so you can steer the bicycle safely.",
+      "sentence": ""
+    },
+    {
+      "word": "scatter",
+      "partOfSpeech": "verb",
+      "meaning1": "To throw or spread things in different directions. Example: The wind began to scatter the autumn leaves all across the yard.",
+      "meaning2": "To move apart quickly in many directions. Example: The pigeons in the park scatter whenever a dog runs toward them.",
+      "studentChallenge": "Please don't ___ your crayons all over the table\u2014keep them in the box.",
+      "sentence": ""
+    },
+    {
+      "word": "boast",
+      "partOfSpeech": "verb",
+      "meaning1": "To talk proudly about yourself. Example: He boasted about his high test score.",
+      "meaning2": "",
+      "studentChallenge": "Don't ___ about winning \u2014 be a good sport.",
+      "sentence": ""
+    },
+    {
+      "word": "parcel",
+      "partOfSpeech": "noun",
+      "meaning1": "A package or bundle wrapped up for sending or carrying. Example: A large parcel arrived at the front door, and inside was a birthday gift from Grandma.",
+      "meaning2": "",
+      "studentChallenge": "The postman delivered a heavy ___ wrapped in brown paper and tied with string.",
+      "sentence": ""
+    },
+    {
+      "word": "bargain",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "Something bought for less than the usual price. Example: She got a great bargain at the sale.",
+      "meaning2": "An agreement between people. Example: They made a bargain to share the work.",
+      "studentChallenge": "The shoes were a real ___ at half price.",
+      "sentence": ""
+    },
+    {
+      "word": "site",
+      "partOfSpeech": "noun",
+      "meaning1": "A place where something is, was, or will be located. Example: The construction workers arrived at the building site early in the morning to start work.",
+      "meaning2": "A location on the internet; a website. Example: She found helpful information about dolphins on a science site.",
+      "studentChallenge": "The class visited the ___ where the old fort once stood hundreds of years ago.",
+      "sentence": ""
+    },
+    {
+      "word": "transform",
+      "partOfSpeech": "verb",
+      "meaning1": "To completely change the appearance or nature of something. Example: The caterpillar will transform into a beautiful butterfly over the next few weeks.",
+      "meaning2": "",
+      "studentChallenge": "A fresh coat of paint can ___ a dull room into a bright and cheerful space.",
+      "sentence": ""
+    },
+    {
+      "word": "watchful",
+      "partOfSpeech": "adjective",
+      "meaning1": "Carefully observing everything; alert. Example: The watchful mother kept an eye on her children.",
+      "meaning2": "",
+      "studentChallenge": "Stay ___ when walking through the woods.",
+      "sentence": ""
+    },
+    {
+      "word": "shift",
+      "partOfSpeech": "verb/noun",
+      "meaning1": "To move or change from one position or direction to another. Example: The wind began to shift from the north to the east as the storm moved away.",
+      "meaning2": "A scheduled period of work. Example: Dad works the night shift at the hospital from eight in the evening until six in the morning.",
+      "studentChallenge": "I felt the car ___ slightly as the strong gust of wind blew across the highway.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The tennis ___ trained her players every morning and showed them how to serve faster.",
+      "sentence2": "Our swim ___ cheered from the pool deck and gave tips between each race.",
+      "options": [
+        "bargain",
+        "site",
+        "watchful",
+        "coach"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "coach"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The most exciting ___ of the new aquarium is the giant shark tank you can walk under.",
+      "sentence2": "My favorite ___ of the science museum is the room where you can touch real fossils.",
+      "options": [
+        "feature",
+        "shift",
+        "bargain",
+        "parcel"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "feature"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Explorers who travel to the ___ must wear thick insulated suits to survive the extreme cold.",
+      "sentence2": "The ___ blast of wind during the blizzard froze everything it touched within seconds.",
+      "options": [
+        "arctic",
+        "watchful",
+        "coach",
+        "parcel"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "arctic"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "She had to ___ the rope with both hands to keep from slipping down the cliff.",
+      "sentence2": "You need to ___ the handlebars firmly so you can steer the bicycle safely around the bend.",
+      "options": [
+        "feature",
+        "scatter",
+        "grasp",
+        "boast"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "grasp"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The gust of wind began to ___ the autumn leaves in every direction across the yard.",
+      "sentence2": "Please don't ___ your pencils all over the table\u2014keep them in the case.",
+      "options": [
+        "shift",
+        "feature",
+        "transform",
+        "scatter"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "scatter"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "He liked to ___ about his perfect test score to anyone who would listen.",
+      "sentence2": "It's not kind to ___ about winning \u2014 a true champion stays humble.",
+      "options": [
+        "arctic",
+        "grasp",
+        "boast",
+        "parcel"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "boast"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "A large ___ arrived at the front door, wrapped in brown paper and tied with twine.",
+      "sentence2": "The postman left a heavy ___ on the porch \u2014 it was a birthday gift from Grandma.",
+      "options": [
+        "transform",
+        "parcel",
+        "bargain",
+        "site"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "parcel"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "She found the jacket on sale for half price \u2014 what an amazing ___ it was!",
+      "sentence2": "The whole family agreed it was a great ___ when they bought the used bike for far below its value.",
+      "options": [
+        "shift",
+        "site",
+        "bargain",
+        "watchful"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "bargain"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The construction workers arrived at the building ___ at dawn to pour the concrete foundation.",
+      "sentence2": "The class visited the ___ where the ancient Roman road had been buried underground for centuries.",
+      "options": [
+        "shift",
+        "arctic",
+        "watchful",
+        "site"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "site"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The caterpillar will ___ into a magnificent butterfly after spending weeks inside its cocoon.",
+      "sentence2": "A fresh coat of bright yellow paint can ___ a gloomy, dark room into a cheerful space.",
+      "options": [
+        "feature",
+        "transform",
+        "bargain",
+        "scatter"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "transform"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The ___ lifeguard scanned the water constantly, never letting her gaze rest for a moment.",
+      "sentence2": "Stay ___ on the hiking trail \u2014 wild animals can appear without warning.",
+      "options": [
+        "scatter",
+        "watchful",
+        "arctic",
+        "coach"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "watchful"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The wind began to ___ direction, swinging from the cold north to the warmer east.",
+      "sentence2": "I felt the heavy bag ___ on my shoulder as I adjusted the strap mid-walk.",
+      "options": [
+        "shift",
+        "grasp",
+        "boast",
+        "feature"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "shift"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "coach",
+      "feature",
+      "arctic",
+      "grasp",
+      "scatter",
+      "boast",
+      "parcel",
+      "bargain",
+      "site",
+      "transform",
+      "watchful",
+      "shift"
+    ],
+    "passage": "Every morning, the _(1)_ at the nature reserve arrived early to train young volunteers in wildlife skills. The standout _(2)_ of the reserve was a towering waterfall that crashed into a glittering pool below. The temperature near the mountain peaks was _(3)_ \u2014 so freezing cold that icicles hung from the rocks even in summer. To _(4)_ the slippery railing, visitors had to hold tight with both hands before taking a single step. A family of geese waddled past and began to _(5)_ across the path, spreading out in every direction like seeds thrown by the wind. Some tourists liked to _(6)_ about spotting rare eagles, bragging loudly to anyone nearby. A delivery drone dropped a neatly wrapped _(7)_ near the ranger station \u2014 it contained brand-new binoculars. Buying the used telescope for five dollars was a genuine _(8)_ \u2014 it was worth at least fifty. Researchers gathered at the _(9)_ where the ancient forest fire had occurred, studying what new plants were growing back. The slow drizzle would _(10)_ the dry meadow into a lush green carpet of wildflowers within days. A _(11)_ eagle perched high above, scanning the valley with sharp, alert eyes and missing nothing below. As the sun dipped lower, the light began to _(12)_ from golden yellow to deep orange along the hilltops.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "coach",
+        "options": [
+          "coach",
+          "boast",
+          "transform",
+          "bargain"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "feature",
+        "options": [
+          "feature",
+          "site",
+          "parcel",
+          "shift"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "arctic",
+        "options": [
+          "arctic",
+          "watchful",
+          "scatter",
+          "bargain"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "grasp",
+        "options": [
+          "grasp",
+          "scatter",
+          "shift",
+          "boast"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "scatter",
+        "options": [
+          "scatter",
+          "transform",
+          "shift",
+          "feature"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "boast",
+        "options": [
+          "boast",
+          "bargain",
+          "coach",
+          "grasp"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "parcel",
+        "options": [
+          "parcel",
+          "bargain",
+          "site",
+          "feature"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "bargain",
+        "options": [
+          "bargain",
+          "parcel",
+          "shift",
+          "boast"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "site",
+        "options": [
+          "site",
+          "feature",
+          "coach",
+          "scatter"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "transform",
+        "options": [
+          "transform",
+          "shift",
+          "grasp",
+          "feature"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "watchful",
+        "options": [
+          "watchful",
+          "arctic",
+          "bargain",
+          "coach"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "shift",
+        "options": [
+          "shift",
+          "scatter",
+          "boast",
+          "transform"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "coach",
+        "scale": [
+          "helper",
+          "coach",
+          "trainer"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "feature",
+        "scale": [
+          "aspect",
+          "feature",
+          "attribute"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "arctic",
+        "scale": [
+          "cold",
+          "arctic",
+          "frigid"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "grasp",
+        "scale": [
+          "grip",
+          "grasp",
+          "clutch"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "scatter",
+        "words": [
+          "spread",
+          "disperse",
+          "gather",
+          "throw"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "gather"
+      },
+      {
+        "vocabWord": "boast",
+        "words": [
+          "humble",
+          "brag",
+          "show off",
+          "flaunt"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "humble"
+      },
+      {
+        "vocabWord": "parcel",
+        "words": [
+          "emptiness",
+          "package",
+          "bundle",
+          "plot"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "emptiness"
+      },
+      {
+        "vocabWord": "bargain",
+        "words": [
+          "ripoff",
+          "deal",
+          "agreement",
+          "discount"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "ripoff"
+      },
+      {
+        "vocabWord": "site",
+        "words": [
+          "nowhere",
+          "location",
+          "place",
+          "spot"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "nowhere"
+      },
+      {
+        "vocabWord": "transform",
+        "words": [
+          "preserve",
+          "change",
+          "convert",
+          "alter"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "preserve"
+      },
+      {
+        "vocabWord": "watchful",
+        "words": [
+          "alert",
+          "vigilant",
+          "careless",
+          "observant"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "careless"
+      },
+      {
+        "vocabWord": "shift",
+        "words": [
+          "change",
+          "move",
+          "turn",
+          "stay"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "stay"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

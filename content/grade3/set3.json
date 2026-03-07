@@ -1,0 +1,408 @@
+{
+  "grade": 3,
+  "setNumber": 3,
+  "words": [
+    "process",
+    "glory",
+    "severe",
+    "exclaim",
+    "fasten",
+    "greed",
+    "elect",
+    "brook",
+    "decrepit",
+    "astronomer",
+    "ration",
+    "mature"
+  ],
+  "sources": [
+    "Australian Curriculum",
+    "CBSE India",
+    "Common Core Grade 3",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Flocabulary Grade 4",
+    "Tier 2 Academic",
+    "Wit & Wisdom Grade 3",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "true historical figure biography",
+  "story": {
+    "genre": "true historical figure biography",
+    "characters": [
+      "Amara",
+      "Mila",
+      "Sanjay"
+    ],
+    "parts": [
+      {
+        "title": "The Warning Signs",
+        "text": "Amara studied the data on her screen every morning. The **process** of tracking rising sea levels was slow, but the results were alarming. The situation was **severe**: the coastline was disappearing faster each year. \"We are running out of time!\" Sanjay would **exclaim** every time a new report landed on his desk."
+      },
+      {
+        "title": "The Crisis",
+        "text": "A massive storm hit the coastal town, flooding streets and destroying homes. Residents had to **fasten** plywood boards over their broken windows before the second wave of rain arrived. The town's small **brook** burst its banks, sweeping away the old footbridge. **Greed** had made things worse: developers had built too close to the water for years, ignoring every warning. Mila organized a vote to **elect** an emergency committee to lead the rebuilding effort."
+      },
+      {
+        "title": "Taking Action",
+        "text": "Amara, **mature** and steady under pressure, proposed planting mangrove forests along the coast. She had found the idea by reading how an **astronomer** friend tracked natural patterns \u2014 the same careful observation worked on land. The old seawall was **decrepit**, its stones crumbling, so she had to **ration** the repair budget carefully. \"This will be our town's **glory**,\" she told the council, \"a living wall the sea cannot break.\""
+      },
+      {
+        "title": "A Greener Future",
+        "text": "Three years later, the mangrove forest stretched along two miles of coastline. When the next big storm came, the town survived with minimal damage. Mila told the newspapers, \"Amara saved our town. She showed us that one person with a good idea can change everything.\" The town became a model for climate resilience, and Amara's story was taught in schools across the country."
+      }
+    ],
+    "wordCount": 254
+  },
+  "definitions": [
+    {
+      "word": "process",
+      "partOfSpeech": "noun",
+      "meaning1": "A series of actions or steps taken to achieve a particular result. Example: Making bread is a long process that involves mixing, kneading, and baking.",
+      "meaning2": "To deal with or prepare something using a set of steps. Example: The factory processes raw milk and turns it into cheese and butter.",
+      "studentChallenge": "The ___ of growing a plant from a seed takes patience and daily care.",
+      "sentence": ""
+    },
+    {
+      "word": "glory",
+      "partOfSpeech": "noun",
+      "meaning1": "Great honor and praise. Example: The team celebrated their glory after winning the championship.",
+      "meaning2": "Great beauty. Example: The garden was in its full glory in spring.",
+      "studentChallenge": "The soldier was honored for his ___ in battle.",
+      "sentence": ""
+    },
+    {
+      "word": "severe",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very serious, harsh, or extreme. Example: The severe thunderstorm knocked down power lines and flooded several streets.",
+      "meaning2": "",
+      "studentChallenge": "The town prepared for the ___ winter weather by stocking up on food and firewood.",
+      "sentence": ""
+    },
+    {
+      "word": "exclaim",
+      "partOfSpeech": "verb",
+      "meaning1": "To cry out suddenly with strong feeling. Example: 'Look at that!' she exclaimed.",
+      "meaning2": "",
+      "studentChallenge": "'What a beautiful rainbow!' he ___.",
+      "sentence": ""
+    },
+    {
+      "word": "fasten",
+      "partOfSpeech": "verb",
+      "meaning1": "To attach or close something securely. Example: Please fasten your seat belt before the car starts moving.",
+      "meaning2": "",
+      "studentChallenge": "She helped her little brother ___ the buttons on his coat before they went outside.",
+      "sentence": ""
+    },
+    {
+      "word": "greed",
+      "partOfSpeech": "noun",
+      "meaning1": "A selfish desire to have more than you need, especially money or possessions. Example: The villain's greed made him steal gold from everyone in the village.",
+      "meaning2": "",
+      "studentChallenge": "In the fable, the king's ___ caused him to lose everything he truly cared about.",
+      "sentence": ""
+    },
+    {
+      "word": "elect",
+      "partOfSpeech": "verb",
+      "meaning1": "To choose someone for a position by voting. Example: The students will elect a new class president next Friday.",
+      "meaning2": "",
+      "studentChallenge": "Every four years, citizens across the country ___ a new president.",
+      "sentence": ""
+    },
+    {
+      "word": "brook",
+      "partOfSpeech": "noun",
+      "meaning1": "A small, narrow stream of water. Example: We sat beside the brook and listened to the water trickle over the smooth stones.",
+      "meaning2": "",
+      "studentChallenge": "The little ___ behind our house is home to tadpoles and tiny fish.",
+      "sentence": ""
+    },
+    {
+      "word": "decrepit",
+      "partOfSpeech": "adjective",
+      "meaning1": "Old and in very poor condition. Example: The decrepit old barn leaned to one side, and its roof was full of holes.",
+      "meaning2": "",
+      "studentChallenge": "The ___ fence was falling apart, so the neighbors decided to build a new one together.",
+      "sentence": ""
+    },
+    {
+      "word": "astronomer",
+      "partOfSpeech": "noun",
+      "meaning1": "A scientist who studies stars, planets, and outer space. Example: The astronomer used a powerful telescope to observe the rings of Saturn.",
+      "meaning2": "",
+      "studentChallenge": "The ___ discovered a brand-new comet and got to name it after herself.",
+      "sentence": ""
+    },
+    {
+      "word": "ration",
+      "partOfSpeech": "noun",
+      "meaning1": "A fixed amount of something, especially food, that each person is allowed to have. Example: During the war, each family received a small ration of sugar, butter, and bread each week.",
+      "meaning2": "To limit the amount of something each person can have. Example: The camp leaders had to ration the water supply because the well was running low.",
+      "studentChallenge": "Each hiker was given a daily ___ of dried fruit and nuts for the three-day trek.",
+      "sentence": ""
+    },
+    {
+      "word": "mature",
+      "partOfSpeech": "adjective",
+      "meaning1": "Fully grown or behaving in a responsible, adult way. Example: She was very mature for her age and always handled problems calmly.",
+      "meaning2": "To grow or develop fully. Example: The tomatoes need a few more weeks to mature before we can pick them.",
+      "studentChallenge": "The teacher said our class was ___ enough to handle the responsibility of caring for the class pet.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Making cheese is a long _______ that involves heating milk, adding bacteria, and pressing the curds.",
+      "sentence2": "The factory will _______ the raw cotton into soft fabric using a series of machines.",
+      "options": ["greed", "brook", "process", "ration"],
+      "correctIndex": 2,
+      "correctAnswer": "process"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The athletes celebrated their _______ after winning the championship, waving flags and cheering.",
+      "sentence2": "The autumn forest was in its full _______, with brilliant reds, oranges, and golds stretching across the hills.",
+      "options": ["glory", "severe", "elect", "decrepit"],
+      "correctIndex": 0,
+      "correctAnswer": "glory"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The _______ winter storm buried the town in three feet of snow and knocked out the power for days.",
+      "sentence2": "Doctors warned that the child's ear infection was _______ and needed medicine right away.",
+      "options": ["mature", "fasten", "exclaim", "severe"],
+      "correctIndex": 3,
+      "correctAnswer": "severe"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "'Look at that shooting star!' she _______, jumping up from her chair and pointing at the sky.",
+      "sentence2": "'We actually won the whole tournament!' he _______, his eyes wide with surprise and joy.",
+      "options": ["exclaim", "elect", "fasten", "greed"],
+      "correctIndex": 0,
+      "correctAnswer": "exclaim"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Always _______ your helmet strap before you ride your bicycle so it stays on securely.",
+      "sentence2": "She helped her little brother _______ the buttons on his coat before they stepped into the cold wind.",
+      "options": ["ration", "brook", "fasten", "process"],
+      "correctIndex": 2,
+      "correctAnswer": "fasten"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The dragon's _______ knew no limits — he hoarded mountains of gold he could never spend.",
+      "sentence2": "In the fable, the farmer's _______ drove him to cut the golden goose open, and he lost everything.",
+      "options": ["glory", "greed", "mature", "astronomer"],
+      "correctIndex": 1,
+      "correctAnswer": "greed"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Every four years, citizens across the country _______ a new president by casting their votes.",
+      "sentence2": "The class will _______ a new student council leader on Friday, and every student gets one vote.",
+      "options": ["process", "fasten", "elect", "exclaim"],
+      "correctIndex": 2,
+      "correctAnswer": "elect"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "We sat beside the _______, listening to the cool water trickle over smooth pebbles.",
+      "sentence2": "The strict teacher would not _______ any misbehavior and sent students to the office immediately.",
+      "options": ["brook", "ration", "greed", "glory"],
+      "correctIndex": 0,
+      "correctAnswer": "brook"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The _______ old barn leaned to one side, its roof full of holes and its walls covered in moss.",
+      "sentence2": "The _______ playground equipment was rusty and broken, so the school raised money to replace it.",
+      "options": ["severe", "mature", "decrepit", "exclaim"],
+      "correctIndex": 2,
+      "correctAnswer": "decrepit"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The _______ used a powerful telescope to study the rings of Saturn late into the night.",
+      "sentence2": "A famous _______ announced the discovery of a new comet passing near Earth this summer.",
+      "options": ["decrepit", "astronomer", "ration", "brook"],
+      "correctIndex": 1,
+      "correctAnswer": "astronomer"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "During the long hike, each team member received a daily _______ of two water bottles and a bag of dried fruit.",
+      "sentence2": "Because the well was running low, the camp leaders had to _______ the drinking water carefully.",
+      "options": ["ration", "process", "glory", "elect"],
+      "correctIndex": 0,
+      "correctAnswer": "ration"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "She was remarkably _______ for a ten-year-old, always calm, patient, and willing to listen.",
+      "sentence2": "The green tomatoes need a few more weeks to _______ before we can pick and eat them.",
+      "options": ["severe", "greed", "brook", "mature"],
+      "correctIndex": 3,
+      "correctAnswer": "mature"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "process",
+      "glory",
+      "severe",
+      "exclaim",
+      "fasten",
+      "greed",
+      "elect",
+      "brook",
+      "decrepit",
+      "astronomer",
+      "ration",
+      "mature"
+    ],
+    "passage": "Last summer, our class visited the old Hilltop Science Center. The building looked _(1)_, with cracked walls and a sagging roof, but inside it held wonders. A famous _(2)_ was giving a talk about the stars she had studied for thirty years.\n\nBefore entering the dome, a guide told us to _(3)_ our name tags to our shirts. She explained the _(4)_ for viewing through the telescope: first, wait in line; second, look through the eyepiece; third, write down what you see. Because so many visitors came, the staff had to _(5)_ the viewing time to five minutes per person. \"That is not fair!\" one boy _(6)_, stomping his foot. His _(7)_ for more time annoyed the other visitors who waited patiently.\n\nOutside, a gentle _(8)_ ran along the hillside, and we could hear frogs singing in the dark. The night sky was in its full _(9)_, glittering with thousands of stars. Our teacher said we were _(10)_ enough to handle staying up so late. The group decided to _(11)_ a class reporter to write about the trip. Despite the _(12)_ cold that made our breath turn to fog, nobody wanted to leave.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "decrepit",
+        "options": ["decrepit", "severe", "mature", "glory"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "astronomer",
+        "options": ["brook", "astronomer", "process", "greed"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "fasten",
+        "options": ["elect", "ration", "fasten", "exclaim"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "process",
+        "options": ["process", "glory", "greed", "brook"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "ration",
+        "options": ["mature", "ration", "fasten", "elect"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "exclaim",
+        "options": ["exclaim", "elect", "process", "severe"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "greed",
+        "options": ["glory", "ration", "greed", "brook"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "brook",
+        "options": ["process", "brook", "astronomer", "greed"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "glory",
+        "options": ["severe", "decrepit", "glory", "fasten"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "mature",
+        "options": ["mature", "exclaim", "ration", "elect"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "elect",
+        "options": ["fasten", "process", "elect", "astronomer"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "severe",
+        "options": ["greed", "severe", "decrepit", "glory"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "severe",
+        "scale": ["Serious", "Severe", "Extreme"],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "exclaim",
+        "scale": ["Say", "Exclaim", "Scream"],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "glory",
+        "scale": ["Praise", "Honor", "Glory"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "mature",
+        "scale": ["Young", "Growing", "Mature"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "fasten",
+        "words": ["Attach", "Release", "Secure", "Buckle"],
+        "imposterIndex": 1,
+        "imposterWord": "Release"
+      },
+      {
+        "vocabWord": "greed",
+        "words": ["Selfishness", "Desire", "Generosity", "Want"],
+        "imposterIndex": 2,
+        "imposterWord": "Generosity"
+      },
+      {
+        "vocabWord": "elect",
+        "words": ["Choose", "Vote", "Select", "Reject"],
+        "imposterIndex": 3,
+        "imposterWord": "Reject"
+      },
+      {
+        "vocabWord": "brook",
+        "words": ["Ocean", "Stream", "Creek", "Rivulet"],
+        "imposterIndex": 0,
+        "imposterWord": "Ocean"
+      },
+      {
+        "vocabWord": "decrepit",
+        "words": ["Crumbling", "Worn", "Sturdy", "Rundown"],
+        "imposterIndex": 2,
+        "imposterWord": "Sturdy"
+      },
+      {
+        "vocabWord": "astronomer",
+        "words": ["Stargazer", "Ignorant", "Scientist", "Observer"],
+        "imposterIndex": 1,
+        "imposterWord": "Ignorant"
+      },
+      {
+        "vocabWord": "ration",
+        "words": ["Portion", "Share", "Allowance", "Excess"],
+        "imposterIndex": 3,
+        "imposterWord": "Excess"
+      },
+      {
+        "vocabWord": "process",
+        "words": ["Chaos", "Procedure", "Method", "System"],
+        "imposterIndex": 0,
+        "imposterWord": "Chaos"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

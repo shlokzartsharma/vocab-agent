@@ -1,0 +1,583 @@
+{
+  "grade": 3,
+  "setNumber": 34,
+  "words": [
+    "request",
+    "drought",
+    "hollow",
+    "imply",
+    "cycle",
+    "ignorant",
+    "recover",
+    "merchant",
+    "torrent",
+    "texture",
+    "chatter",
+    "vanish"
+  ],
+  "sources": [
+    "Australian Curriculum",
+    "CBSE India",
+    "Common Core Grade 3",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Tier 2 Academic",
+    "Wit & Wisdom Grade 3",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "space exploration with real NASA/ISRO facts",
+  "story": {
+    "genre": "space exploration with real NASA/ISRO facts",
+    "characters": [
+      "Leo",
+      "Zara",
+      "Tara"
+    ],
+    "parts": [
+      {
+        "title": "Stargazer",
+        "text": "Every night, Leo would make a polite **request** to stay up past her bedtime so she could stargaze from 8 to 9 PM. She was no longer **ignorant** about the night sky \u2014 she had studied it for two years. Her old telescope had a **hollow** tube, light as a feather, that she had repaired herself with tape and patience."
+      },
+      {
+        "title": "Mission Control",
+        "text": "One evening a **torrent** of alerts filled the science news sites \u2014 a massive solar storm had disrupted satellite signals around the world. After a **drought** of cloudy nights that had kept her from the telescope for two whole weeks, Leo finally had clear skies again. She began to **chatter** excitedly, explaining to Zara and Tara everything she knew about solar **cycle**s and how they repeat over roughly eleven years. A travelling science **merchant** had once sold Leo a used data-logging device, and now she used it to record every spike and dip in the readings."
+      },
+      {
+        "title": "The Discovery",
+        "text": "While analyzing the data, Leo noticed something unusual about the **texture** of the wave pattern \u2014 it was rougher and more layered than anything described in her books. The data seemed to **imply** that a new type of solar wave was occurring, one that scientists had not yet named. She hoped the signal would not **vanish** before she could save it, so she **recover**ed a backup copy from her cloud drive just in case."
+      },
+      {
+        "title": "A Star Is Born",
+        "text": "Leo submitted her findings to ISRO. Three weeks later, she received a letter \u2014 her discovery was real. A new solar wave pattern was named after her. She was invited to visit ISRO's Space Applications Centre in Ahmedabad. \"You have the mind of a true scientist,\" the director told her. Leo knew that this was just the beginning of her journey to the stars."
+      }
+    ],
+    "wordCount": 268
+  },
+  "definitions": [
+    {
+      "word": "request",
+      "partOfSpeech": "noun",
+      "meaning1": "The act of politely asking for something. Example: She made a request to the librarian for a book about dinosaurs.",
+      "meaning2": "To ask for something politely. Example: I would like to request a seat by the window, please.",
+      "studentChallenge": "The student wrote a ___ letter asking the head teacher for permission to start a gardening club.",
+      "sentence": ""
+    },
+    {
+      "word": "drought",
+      "partOfSpeech": "noun",
+      "meaning1": "A long period of time with very little rain. Example: The drought caused the crops to die.",
+      "meaning2": "",
+      "studentChallenge": "The ___ lasted for three months and the rivers dried up.",
+      "sentence": ""
+    },
+    {
+      "word": "hollow",
+      "partOfSpeech": "adjective",
+      "meaning1": "Having an empty space inside. Example: The squirrel stored acorns in the hollow tree trunk.",
+      "meaning2": "A small valley or dip in the land. Example: The deer gathered in the grassy hollow between the two hills.",
+      "studentChallenge": "When I knocked on the old log, it made a ___ sound because it was empty inside.",
+      "sentence": ""
+    },
+    {
+      "word": "imply",
+      "partOfSpeech": "verb",
+      "meaning1": "To suggest something without saying it directly. Example: Her smile implied that she was happy.",
+      "meaning2": "",
+      "studentChallenge": "His silence seemed to ___ that he agreed.",
+      "sentence": ""
+    },
+    {
+      "word": "cycle",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A series of events that repeat in the same order. Example: The water cycle includes evaporation and rain.",
+      "meaning2": "To ride a bicycle. Example: She cycles to school every day.",
+      "studentChallenge": "Spring, summer, fall, winter \u2014 the ___ of seasons repeats.",
+      "sentence": ""
+    },
+    {
+      "word": "ignorant",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not knowing about something or lacking knowledge. Example: Before studying the ocean, I was ignorant about how deep it really is.",
+      "meaning2": "",
+      "studentChallenge": "He was ___ of the rules because he had missed the first day of class.",
+      "sentence": ""
+    },
+    {
+      "word": "recover",
+      "partOfSpeech": "verb",
+      "meaning1": "To get better after being ill or hurt. Example: It took two weeks for him to fully recover from the flu and return to school.",
+      "meaning2": "To get something back that was lost. Example: The divers managed to recover the treasure chest from the bottom of the sea.",
+      "studentChallenge": "The doctor said she would ___ quickly if she rested and drank plenty of fluids.",
+      "sentence": ""
+    },
+    {
+      "word": "merchant",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who buys and sells goods for a living. Example: The merchant in the old town square sold beautiful handmade pottery.",
+      "meaning2": "",
+      "studentChallenge": "The silk ___ traveled from town to town selling his colorful fabrics.",
+      "sentence": ""
+    },
+    {
+      "word": "torrent",
+      "partOfSpeech": "noun",
+      "meaning1": "A strong, fast-moving stream of water or a heavy downpour of rain. Example: A torrent of rainwater rushed down the hillside and filled the creek in minutes.",
+      "meaning2": "",
+      "studentChallenge": "The ___ of water from the broken pipe flooded the basement in no time.",
+      "sentence": ""
+    },
+    {
+      "word": "texture",
+      "partOfSpeech": "noun",
+      "meaning1": "The way something feels when you touch it or how it looks like it would feel. Example: The texture of the tree bark was rough and bumpy under her fingertips.",
+      "meaning2": "",
+      "studentChallenge": "The ___ of the silk ribbon was smooth and soft compared to the scratchy wool.",
+      "sentence": ""
+    },
+    {
+      "word": "chatter",
+      "partOfSpeech": "verb",
+      "meaning1": "To talk quickly about things that are not very important. Example: The excited students began to chatter about their weekend plans as soon as the bell rang.",
+      "meaning2": "To make quick, short sounds. Example: The squirrel seemed to chatter angrily at us from the tree branch.",
+      "studentChallenge": "The monkeys would ___ loudly whenever visitors walked past their enclosure.",
+      "sentence": ""
+    },
+    {
+      "word": "vanish",
+      "partOfSpeech": "verb",
+      "meaning1": "To disappear suddenly and completely. Example: The magician waved his wand, and the rabbit seemed to vanish into thin air.",
+      "meaning2": "",
+      "studentChallenge": "The fog began to ___ as the morning sun rose higher in the sky.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "She made a ___ to the librarian for a book about dinosaurs.",
+      "sentence2": "The student wrote a ___ letter asking the head teacher for permission to start a gardening club.",
+      "options": [
+        "request",
+        "hollow",
+        "imply",
+        "merchant"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "request"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The long ___ caused the crops to die and the rivers to dry up.",
+      "sentence2": "The ___ lasted for three months without a single drop of rain.",
+      "options": [
+        "torrent",
+        "texture",
+        "drought",
+        "chatter"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "drought"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The squirrel stored acorns inside the ___ tree trunk, using the empty space as a pantry.",
+      "sentence2": "When I knocked on the old log, it made a ___ sound because it was completely empty inside.",
+      "options": [
+        "texture",
+        "merchant",
+        "drought",
+        "hollow"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "hollow"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Her smile seemed to ___ that she already knew the answer.",
+      "sentence2": "His silence seemed to ___ that he agreed with the plan.",
+      "options": [
+        "imply",
+        "request",
+        "drought",
+        "recover"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "imply"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The water ___ includes evaporation, clouds, and rain falling back to earth.",
+      "sentence2": "Spring, summer, fall, winter \u2014 the ___ of seasons repeats every year.",
+      "options": [
+        "texture",
+        "drought",
+        "cycle",
+        "recover"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "cycle"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Before studying the ocean, I was ___ about how deep and dark it really is.",
+      "sentence2": "He was ___ of the rules because he had missed the first day of class.",
+      "options": [
+        "merchant",
+        "request",
+        "cycle",
+        "ignorant"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ignorant"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "It took two weeks for him to fully ___ from the flu and return to school.",
+      "sentence2": "The doctor said she would ___ quickly if she rested and drank plenty of fluids.",
+      "options": [
+        "merchant",
+        "vanish",
+        "recover",
+        "drought"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "recover"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The ___ in the old town square sold beautiful handmade pottery to passing travelers.",
+      "sentence2": "The silk ___ traveled from town to town selling his colorful fabrics at every market.",
+      "options": [
+        "merchant",
+        "texture",
+        "imply",
+        "vanish"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "merchant"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "A ___ of rainwater rushed down the hillside and filled the creek in minutes.",
+      "sentence2": "The ___ of water from the broken pipe flooded the basement in no time.",
+      "options": [
+        "hollow",
+        "torrent",
+        "recover",
+        "vanish"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "torrent"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The ___ of the tree bark was rough and bumpy under her fingertips.",
+      "sentence2": "The ___ of the silk ribbon was smooth and soft compared to the scratchy wool.",
+      "options": [
+        "hollow",
+        "texture",
+        "cycle",
+        "chatter"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "texture"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The excited students began to ___ about their weekend plans as soon as the bell rang.",
+      "sentence2": "The monkeys would ___ loudly whenever visitors walked past their enclosure.",
+      "options": [
+        "cycle",
+        "merchant",
+        "hollow",
+        "chatter"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "chatter"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The magician waved his wand, and the rabbit seemed to ___ into thin air.",
+      "sentence2": "The fog began to ___ as the morning sun rose higher in the sky.",
+      "options": [
+        "drought",
+        "vanish",
+        "hollow",
+        "recover"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "vanish"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "request",
+      "drought",
+      "hollow",
+      "imply",
+      "cycle",
+      "ignorant",
+      "recover",
+      "merchant",
+      "torrent",
+      "texture",
+      "chatter",
+      "vanish"
+    ],
+    "passage": "Leo made a polite _(1)_ to her science teacher, asking for extra time in the lab after school. She wanted to study the _(2)_ \u2014 the repeating pattern of a certain star's brightness, which grew and faded over and over. She was no longer _(3)_ about stars \u2014 she had read every book she could find and knew the subject well. The old telescope she used had a _(4)_ tube, empty inside and light as a feather. Its metal surface had a rough _(5)_ \u2014 bumpy and uneven under her fingertips from years of use. After a long _(6)_ without clear skies, cloudy and dry for weeks, the stars finally appeared. A _(7)_ of light \u2014 a fast, powerful beam \u2014 shot across her lens from a passing satellite. She began to _(8)_ excitedly, talking quickly and barely stopping for breath as she described what she saw. The sight seemed to _(9)_ that something unusual was happening far out in space. She hoped the data would not _(10)_ before she could save it, disappearing from the screen without warning. A traveling _(11)_ of astronomy books had visited the school fair, and Leo had bought one that showed her how to _(12)_ data lost from a corrupted file.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "request",
+        "options": [
+          "request",
+          "merchant",
+          "torrent",
+          "chatter"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "cycle",
+        "options": [
+          "cycle",
+          "drought",
+          "hollow",
+          "texture"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "ignorant",
+        "options": [
+          "ignorant",
+          "hollow",
+          "vanish",
+          "recover"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "hollow",
+        "options": [
+          "hollow",
+          "ignorant",
+          "drought",
+          "cycle"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "texture",
+        "options": [
+          "texture",
+          "torrent",
+          "drought",
+          "cycle"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "drought",
+        "options": [
+          "drought",
+          "torrent",
+          "cycle",
+          "hollow"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "torrent",
+        "options": [
+          "torrent",
+          "drought",
+          "cycle",
+          "texture"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "chatter",
+        "options": [
+          "chatter",
+          "vanish",
+          "recover",
+          "imply"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "imply",
+        "options": [
+          "imply",
+          "chatter",
+          "vanish",
+          "recover"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "vanish",
+        "options": [
+          "vanish",
+          "recover",
+          "imply",
+          "chatter"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "merchant",
+        "options": [
+          "merchant",
+          "request",
+          "hollow",
+          "torrent"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "recover",
+        "options": [
+          "recover",
+          "vanish",
+          "imply",
+          "request"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "request",
+        "scale": [
+          "hint",
+          "request",
+          "ask"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "drought",
+        "scale": [
+          "dryness",
+          "drought",
+          "famine"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "hollow",
+        "scale": [
+          "empty",
+          "hollow",
+          "vacant"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "imply",
+        "scale": [
+          "whisper",
+          "imply",
+          "suggest"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "cycle",
+        "words": [
+          "rotation",
+          "sequence",
+          "end",
+          "loop"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "end"
+      },
+      {
+        "vocabWord": "ignorant",
+        "words": [
+          "knowledgeable",
+          "uninformed",
+          "unaware",
+          "clueless"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "knowledgeable"
+      },
+      {
+        "vocabWord": "recover",
+        "words": [
+          "heal",
+          "improve",
+          "worsen",
+          "regain"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "worsen"
+      },
+      {
+        "vocabWord": "merchant",
+        "words": [
+          "trader",
+          "vendor",
+          "customer",
+          "dealer"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "customer"
+      },
+      {
+        "vocabWord": "torrent",
+        "words": [
+          "trickle",
+          "flood",
+          "stream",
+          "downpour"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "trickle"
+      },
+      {
+        "vocabWord": "texture",
+        "words": [
+          "smoothness",
+          "feel",
+          "surface",
+          "quality"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "smoothness"
+      },
+      {
+        "vocabWord": "chatter",
+        "words": [
+          "silence",
+          "talk",
+          "gossip",
+          "babble"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "silence"
+      },
+      {
+        "vocabWord": "vanish",
+        "words": [
+          "disappear",
+          "fade",
+          "appear",
+          "evaporate"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "appear"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

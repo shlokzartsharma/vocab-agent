@@ -1,0 +1,401 @@
+{
+  "grade": 4,
+  "setNumber": 16,
+  "words": [
+    "verdict",
+    "testimony",
+    "injustice",
+    "condemn",
+    "defendant",
+    "uphold",
+    "privilege",
+    "abolish",
+    "decree",
+    "repeal",
+    "constitution",
+    "tribunal"
+  ],
+  "sources": [
+    "Common Core Grade 4",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 4",
+    "CKLA Grade 4",
+    "Tier 2 Academic"
+  ],
+  "genre": "student council justice",
+  "story": {
+    "genre": "student council justice",
+    "characters": ["Ava", "Jabari", "Luna"],
+    "parts": [
+      {
+        "title": "The Unfair Rule",
+        "text": "Ava, Jabari, and Luna served on the Maple Creek Elementary student council. One day, a new rule banned all recess games that used balls. Many students called this an **injustice** because they had done nothing wrong. Jabari said they should review the school's **constitution** — the set of written rules that guided how decisions were made. Luna agreed and suggested they form a **tribunal**, a special group to hear the case fairly."
+      },
+      {
+        "title": "Hearing the Case",
+        "text": "The next morning, the **defendant** — the student who had accidentally broken a window with a kickball — stood before the council. She gave her **testimony**, explaining exactly what had happened that day. Several classmates also spoke up to **uphold** her story, confirming every detail. Ava reminded everyone that it is wrong to **condemn** all students for one accident."
+      },
+      {
+        "title": "The Decision",
+        "text": "After careful discussion, the council reached a **verdict**: the ball ban was unfair. Luna wrote an official **decree** announcing that recess games with balls would be allowed again. Jabari made a motion to **abolish** the old rule completely, and the council voted to **repeal** it. Ava added that playing at recess was a **privilege** that came with being responsible and respectful."
+      },
+      {
+        "title": "A Fairer School",
+        "text": "The next day, students cheered as they ran outside with their kickballs and basketballs. The council had listened, asked questions, and made a fair choice. Ava, Jabari, and Luna felt proud knowing that every voice at Maple Creek mattered."
+      }
+    ],
+    "wordCount": 232
+  },
+  "definitions": [
+    {
+      "word": "verdict",
+      "partOfSpeech": "noun",
+      "meaning1": "The final decision made after hearing all the facts. Example: The jury announced its verdict after three hours of discussion.",
+      "meaning2": "",
+      "studentChallenge": "After listening to both sides, the judge gave her ___.",
+      "sentence": ""
+    },
+    {
+      "word": "testimony",
+      "partOfSpeech": "noun",
+      "meaning1": "A statement someone makes to tell what they saw or know, especially in a hearing or court. Example: The witness gave her testimony about what she saw at the park.",
+      "meaning2": "",
+      "studentChallenge": "The student gave his ___ about what really happened on the playground.",
+      "sentence": ""
+    },
+    {
+      "word": "injustice",
+      "partOfSpeech": "noun",
+      "meaning1": "Something that is very unfair or not right. Example: Making one person do all the work while others do nothing is an injustice.",
+      "meaning2": "",
+      "studentChallenge": "The students spoke up against the ___ of punishing the whole class for one person's mistake.",
+      "sentence": ""
+    },
+    {
+      "word": "condemn",
+      "partOfSpeech": "verb",
+      "meaning1": "To say strongly that something is wrong or to blame someone harshly. Example: The principal condemned the bullying and said it would never be allowed.",
+      "meaning2": "",
+      "studentChallenge": "It is not fair to ___ someone before hearing their side of the story.",
+      "sentence": ""
+    },
+    {
+      "word": "defendant",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who is accused of doing something wrong and must answer questions about it. Example: The defendant stood before the judge and promised to tell the truth.",
+      "meaning2": "",
+      "studentChallenge": "The ___ waited nervously while the council discussed what had happened.",
+      "sentence": ""
+    },
+    {
+      "word": "uphold",
+      "partOfSpeech": "verb",
+      "meaning1": "To support or agree with a decision, rule, or belief. Example: The council voted to uphold the rule that everyone must clean up after lunch.",
+      "meaning2": "",
+      "studentChallenge": "The judges decided to ___ the original decision because it was fair.",
+      "sentence": ""
+    },
+    {
+      "word": "privilege",
+      "partOfSpeech": "noun",
+      "meaning1": "A special right or advantage that is given to certain people or earned through good behavior. Example: Staying up late on weekends is a privilege, not a right.",
+      "meaning2": "",
+      "studentChallenge": "Extra recess time is a ___ that students earn by following the rules.",
+      "sentence": ""
+    },
+    {
+      "word": "abolish",
+      "partOfSpeech": "verb",
+      "meaning1": "To officially end or get rid of something, such as a law or practice. Example: The country voted to abolish the unfair tax that hurt poor families.",
+      "meaning2": "",
+      "studentChallenge": "The council voted to ___ the old dress code because nobody liked it.",
+      "sentence": ""
+    },
+    {
+      "word": "decree",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "An official order or announcement made by someone in charge. Example: The king issued a decree that all children must attend school.",
+      "meaning2": "To officially order something. Example: The mayor decreed that the park would stay open on holidays.",
+      "studentChallenge": "The principal issued a ___ that the school carnival would be held on Friday.",
+      "sentence": ""
+    },
+    {
+      "word": "repeal",
+      "partOfSpeech": "verb",
+      "meaning1": "To officially cancel or take back a law or rule. Example: The town voted to repeal the rule that banned skateboarding in the park.",
+      "meaning2": "",
+      "studentChallenge": "The student council voted to ___ the no-hats-indoors rule after students complained.",
+      "sentence": ""
+    },
+    {
+      "word": "constitution",
+      "partOfSpeech": "noun",
+      "meaning1": "A written set of rules and principles that a group or country follows. Example: The United States Constitution explains how the government should work.",
+      "meaning2": "",
+      "studentChallenge": "Our class wrote a ___ that listed the rights and responsibilities of every student.",
+      "sentence": ""
+    },
+    {
+      "word": "tribunal",
+      "partOfSpeech": "noun",
+      "meaning1": "A special court or group of people chosen to settle a disagreement or judge a case. Example: The tribunal listened to both sides before making its decision.",
+      "meaning2": "",
+      "studentChallenge": "A ___ of three teachers was formed to decide whether the science fair rules were fair.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "After hearing all the evidence, the jury reached a _______ of not guilty.",
+      "sentence2": "The student council announced its _______ — the lunch menu would stay the same.",
+      "options": ["decree", "verdict", "testimony", "tribunal"],
+      "correctIndex": 1,
+      "correctAnswer": "verdict"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The witness gave her _______ about what she saw happen at the park that afternoon.",
+      "sentence2": "Each student offered _______ describing how the food fight started in the cafeteria.",
+      "options": ["testimony", "injustice", "privilege", "constitution"],
+      "correctIndex": 0,
+      "correctAnswer": "testimony"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Punishing the whole team for one player's mistake felt like a terrible _______.",
+      "sentence2": "The book told the story of people who fought against _______ and won their freedom.",
+      "options": ["verdict", "decree", "injustice", "defendant"],
+      "correctIndex": 2,
+      "correctAnswer": "injustice"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The teacher said she would _______ cheating in any form — it was never acceptable.",
+      "sentence2": "It is unfair to _______ someone without first listening to their explanation.",
+      "options": ["uphold", "repeal", "condemn", "abolish"],
+      "correctIndex": 2,
+      "correctAnswer": "condemn"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The _______ stood before the council and explained her side of the story.",
+      "sentence2": "In the mock trial, Marcus played the _______ who was accused of stealing the class mascot.",
+      "options": ["tribunal", "defendant", "constitution", "privilege"],
+      "correctIndex": 1,
+      "correctAnswer": "defendant"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The judges voted to _______ the referee's call because it was the correct one.",
+      "sentence2": "Good citizens try to _______ the laws that protect everyone's rights.",
+      "options": ["condemn", "abolish", "uphold", "repeal"],
+      "correctIndex": 2,
+      "correctAnswer": "uphold"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Using the school computers is a _______ that can be taken away if misused.",
+      "sentence2": "Earning the _______ of leading the morning announcements made her feel proud.",
+      "options": ["privilege", "verdict", "testimony", "decree"],
+      "correctIndex": 0,
+      "correctAnswer": "privilege"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The leaders voted to _______ the unfair law that kept children out of the library.",
+      "sentence2": "Many brave people worked for years to _______ slavery in the United States.",
+      "options": ["uphold", "abolish", "condemn", "repeal"],
+      "correctIndex": 1,
+      "correctAnswer": "abolish"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The king issued a _______ that all villagers would receive free bread on market day.",
+      "sentence2": "The principal's _______ made it official — pajama day would happen every last Friday.",
+      "options": ["tribunal", "injustice", "constitution", "decree"],
+      "correctIndex": 3,
+      "correctAnswer": "decree"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The town voted to _______ the old parking rule because it no longer made sense.",
+      "sentence2": "When the student council decided to _______ the homework-on-weekends policy, everyone cheered.",
+      "options": ["repeal", "uphold", "verdict", "defendant"],
+      "correctIndex": 0,
+      "correctAnswer": "repeal"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The class spent a week writing their own _______ with rules about fairness and respect.",
+      "sentence2": "The _______ of the United States begins with the words \"We the People.\"",
+      "options": ["testimony", "privilege", "constitution", "tribunal"],
+      "correctIndex": 2,
+      "correctAnswer": "constitution"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "A _______ of three judges was formed to settle the argument between the two teams.",
+      "sentence2": "The school set up a _______ to decide whether the playground rules needed to change.",
+      "options": ["decree", "defendant", "tribunal", "injustice"],
+      "correctIndex": 2,
+      "correctAnswer": "tribunal"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "verdict",
+      "testimony",
+      "injustice",
+      "condemn",
+      "defendant",
+      "uphold",
+      "privilege",
+      "abolish",
+      "decree",
+      "repeal",
+      "constitution",
+      "tribunal"
+    ],
+    "passage": "At Riverside Elementary, the student council had a _(1)_ — a written set of rules that everyone agreed to follow. One day, the council passed a rule banning all trading cards at school. Many students thought this was an _(2)_ because trading cards had never caused any problems.\n\nA group of fourth graders asked the council to form a _(3)_ to hear their complaint. The _(4)_ in the case was a boy named Sam, who had been caught trading cards at lunch. Sam gave his _(5)_, explaining that he had not known about the new rule. Three of his friends spoke up to _(6)_ his story, saying he was telling the truth.\n\nSome council members wanted to _(7)_ Sam and take away his recess for a week. But Mia, the council president, reminded them that recess was a _(8)_ every student deserved as long as they followed the rules. After a long discussion, the council reached its _(9)_: Sam would not be punished.\n\nMia then wrote an official _(10)_ announcing the council's decision to the whole school. The council also voted to _(11)_ the trading-card ban and _(12)_ the rule entirely, so no one else would get in trouble for something that was harmless.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "constitution",
+        "options": ["constitution", "verdict", "tribunal", "decree"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "injustice",
+        "options": ["testimony", "injustice", "privilege", "defendant"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "tribunal",
+        "options": ["tribunal", "condemn", "repeal", "constitution"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "defendant",
+        "options": ["verdict", "uphold", "defendant", "abolish"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "testimony",
+        "options": ["decree", "testimony", "injustice", "privilege"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "uphold",
+        "options": ["condemn", "repeal", "uphold", "tribunal"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "condemn",
+        "options": ["abolish", "condemn", "constitution", "verdict"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "privilege",
+        "options": ["privilege", "testimony", "defendant", "decree"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "verdict",
+        "options": ["injustice", "tribunal", "verdict", "uphold"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "decree",
+        "options": ["decree", "condemn", "constitution", "repeal"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "repeal",
+        "options": ["verdict", "repeal", "privilege", "testimony"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "abolish",
+        "options": ["defendant", "uphold", "abolish", "injustice"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "condemn",
+        "scale": ["Disapprove", "Criticize", "Condemn"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "injustice",
+        "scale": ["Unfairness", "Wrong", "Injustice"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "decree",
+        "scale": ["Suggestion", "Order", "Decree"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "privilege",
+        "scale": ["Chance", "Benefit", "Privilege"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "verdict",
+        "words": ["Decision", "Judgment", "Ruling", "Question"],
+        "imposterIndex": 3,
+        "imposterWord": "Question"
+      },
+      {
+        "vocabWord": "testimony",
+        "words": ["Statement", "Silence", "Account", "Report"],
+        "imposterIndex": 1,
+        "imposterWord": "Silence"
+      },
+      {
+        "vocabWord": "condemn",
+        "words": ["Blame", "Praise", "Criticize", "Denounce"],
+        "imposterIndex": 1,
+        "imposterWord": "Praise"
+      },
+      {
+        "vocabWord": "uphold",
+        "words": ["Support", "Defend", "Maintain", "Undermine"],
+        "imposterIndex": 3,
+        "imposterWord": "Undermine"
+      },
+      {
+        "vocabWord": "abolish",
+        "words": ["Eliminate", "Remove", "Establish", "End"],
+        "imposterIndex": 2,
+        "imposterWord": "Establish"
+      },
+      {
+        "vocabWord": "repeal",
+        "words": ["Cancel", "Reverse", "Enforce", "Undo"],
+        "imposterIndex": 2,
+        "imposterWord": "Enforce"
+      },
+      {
+        "vocabWord": "injustice",
+        "words": ["Unfairness", "Fairness", "Wrongdoing", "Cruelty"],
+        "imposterIndex": 1,
+        "imposterWord": "Fairness"
+      },
+      {
+        "vocabWord": "privilege",
+        "words": ["Advantage", "Benefit", "Right", "Burden"],
+        "imposterIndex": 3,
+        "imposterWord": "Burden"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

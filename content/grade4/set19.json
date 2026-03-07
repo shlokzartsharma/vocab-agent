@@ -1,0 +1,405 @@
+{
+  "grade": 4,
+  "setNumber": 19,
+  "words": [
+    "rehearse",
+    "captivity",
+    "spectacle",
+    "applause",
+    "ambitious",
+    "composer",
+    "masterpiece",
+    "dedication",
+    "concentrate",
+    "depict",
+    "vivid",
+    "portrait"
+  ],
+  "sources": [
+    "Common Core Grade 4",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 4",
+    "CKLA Grade 4",
+    "Tier 2 Academic"
+  ],
+  "genre": "school play",
+  "story": {
+    "genre": "school play",
+    "characters": [
+      "Layla",
+      "Benny",
+      "Haruto"
+    ],
+    "parts": [
+      {
+        "title": "The Big Announcement",
+        "text": "Layla rushed into the classroom waving a bright orange flyer. The fourth grade was putting on a play about a parrot trapped in **captivity** who dreams of flying free. Benny grinned because he had always been **ambitious** about acting — he wanted every role to be perfect. Haruto, who loved music, offered to be the **composer** and write all the songs for the show."
+      },
+      {
+        "title": "Getting Ready",
+        "text": "Every afternoon the three friends would **rehearse** their scenes in the gym. Layla worked hard to **concentrate** on remembering her lines while Benny practiced his moves across the stage. Haruto showed great **dedication**, staying late each day to finish a song that would **depict** the parrot's longing for the open sky. Their teacher smiled and said the play was shaping up to be a true **masterpiece**."
+      },
+      {
+        "title": "Opening Night",
+        "text": "On opening night, the gym was packed with families. The bright, **vivid** costumes made the audience gasp. A large painted **portrait** of a jungle hung behind the stage, setting the scene. When the final curtain fell, the crowd leaped to their feet with roaring **applause**. Everyone agreed the show was quite a **spectacle** they would never forget."
+      },
+      {
+        "title": "Looking Back",
+        "text": "After the curtain fell, Layla, Benny, and Haruto sat together backstage, still in their costumes. They laughed about the moment Benny almost tripped over a vine prop. Haruto said the best part was hearing the audience hum along to his songs. Layla nodded and said that working as a team made the whole experience unforgettable."
+      }
+    ],
+    "wordCount": 242
+  },
+  "definitions": [
+    {
+      "word": "rehearse",
+      "partOfSpeech": "verb",
+      "meaning1": "To practice something, like a play or speech, before performing it. Example: The actors had to rehearse the scene five times before they got it right.",
+      "meaning2": "",
+      "studentChallenge": "We need to ___ our skit one more time before the talent show begins.",
+      "sentence": ""
+    },
+    {
+      "word": "captivity",
+      "partOfSpeech": "noun",
+      "meaning1": "The state of being kept in a place and not being free to leave. Example: The rescued bird had spent years in captivity before it was finally released.",
+      "meaning2": "",
+      "studentChallenge": "The zookeeper explained that the tiger had been born in ___.",
+      "sentence": ""
+    },
+    {
+      "word": "spectacle",
+      "partOfSpeech": "noun",
+      "meaning1": "An impressive or eye-catching sight or event. Example: The fireworks display was a grand spectacle that lit up the entire night sky.",
+      "meaning2": "",
+      "studentChallenge": "The parade with all its floats and dancers was quite a ___.",
+      "sentence": ""
+    },
+    {
+      "word": "applause",
+      "partOfSpeech": "noun",
+      "meaning1": "Clapping by a group of people to show they enjoyed something. Example: The singer smiled and bowed when she heard the loud applause from the crowd.",
+      "meaning2": "",
+      "studentChallenge": "The audience broke into ___ after the amazing magic trick.",
+      "sentence": ""
+    },
+    {
+      "word": "ambitious",
+      "partOfSpeech": "adjective",
+      "meaning1": "Having a strong desire to succeed or to do something great. Example: The ambitious student set a goal to read fifty books over the summer.",
+      "meaning2": "",
+      "studentChallenge": "She was ___ enough to try building a full robot for the science fair.",
+      "sentence": ""
+    },
+    {
+      "word": "composer",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who writes music. Example: The composer spent weeks writing a beautiful song for the orchestra to perform.",
+      "meaning2": "",
+      "studentChallenge": "Beethoven was a famous ___ who created many well-known symphonies.",
+      "sentence": ""
+    },
+    {
+      "word": "masterpiece",
+      "partOfSpeech": "noun",
+      "meaning1": "A work of art, music, or writing that is considered the best of its kind. Example: The painting in the museum was called a masterpiece because of its incredible detail.",
+      "meaning2": "",
+      "studentChallenge": "Everyone said the mural on the library wall was a true ___.",
+      "sentence": ""
+    },
+    {
+      "word": "dedication",
+      "partOfSpeech": "noun",
+      "meaning1": "The willingness to give a lot of time and effort to something important. Example: Her dedication to soccer practice helped her become the team captain.",
+      "meaning2": "A message at the beginning of a book or song honoring someone. Example: The author wrote a dedication to her grandmother on the first page of her novel.",
+      "studentChallenge": "His ___ to learning the piano was clear from the hours he spent practicing.",
+      "sentence": ""
+    },
+    {
+      "word": "concentrate",
+      "partOfSpeech": "verb",
+      "meaning1": "To focus all your attention on something. Example: It is hard to concentrate on homework when the TV is on.",
+      "meaning2": "",
+      "studentChallenge": "Please turn down the music so I can ___ on my reading.",
+      "sentence": ""
+    },
+    {
+      "word": "depict",
+      "partOfSpeech": "verb",
+      "meaning1": "To show or represent something in a picture, story, or other artwork. Example: The painting depicted a beautiful sunset over the mountains.",
+      "meaning2": "",
+      "studentChallenge": "The artist used bright colors to ___ a busy city street.",
+      "sentence": ""
+    },
+    {
+      "word": "vivid",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very bright, strong, and clear in color or detail. Example: The vivid rainbow stretched across the sky after the rain.",
+      "meaning2": "Producing strong, clear images in the mind. Example: She gave a vivid description of her trip that made everyone feel like they were there.",
+      "studentChallenge": "The sunset painted the sky in ___ shades of orange and pink.",
+      "sentence": ""
+    },
+    {
+      "word": "portrait",
+      "partOfSpeech": "noun",
+      "meaning1": "A painting, drawing, or photograph of a person, especially of the face. Example: The artist painted a portrait of the queen that hung in the palace.",
+      "meaning2": "",
+      "studentChallenge": "The photographer took a beautiful ___ of the family standing in the park.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The actors had to _______ their lines every day after school so they would be ready for the big show.",
+      "sentence2": "Before the talent show, the students decided to _______ one last time in the empty classroom.",
+      "options": ["concentrate", "rehearse", "depict", "composer"],
+      "correctIndex": 1,
+      "correctAnswer": "rehearse"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The rescued eagle had spent many years in _______ before it was finally set free.",
+      "sentence2": "The story was about a princess held in _______ in a tall tower, waiting for a chance to escape.",
+      "options": ["captivity", "spectacle", "dedication", "portrait"],
+      "correctIndex": 0,
+      "correctAnswer": "captivity"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The circus performers put on an amazing _______ with acrobats soaring through the air.",
+      "sentence2": "The giant ice sculpture in the town square was a _______ that drew visitors from miles away.",
+      "options": ["masterpiece", "applause", "spectacle", "vivid"],
+      "correctIndex": 2,
+      "correctAnswer": "spectacle"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The crowd burst into _______ when the gymnast landed her final flip perfectly.",
+      "sentence2": "Thunderous _______ filled the theater after the orchestra played its last note.",
+      "options": ["dedication", "applause", "captivity", "portrait"],
+      "correctIndex": 1,
+      "correctAnswer": "applause"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The _______ young inventor dreamed of building a machine that could clean the ocean.",
+      "sentence2": "Their plan to raise a thousand dollars for charity was _______, but they believed they could do it.",
+      "options": ["vivid", "ambitious", "rehearse", "concentrate"],
+      "correctIndex": 1,
+      "correctAnswer": "ambitious"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Mozart was a famous _______ who began writing music when he was only five years old.",
+      "sentence2": "The _______ played each note on the piano to make sure the new melody sounded just right.",
+      "options": ["portrait", "composer", "spectacle", "masterpiece"],
+      "correctIndex": 1,
+      "correctAnswer": "composer"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The enormous sand castle was a _______ that took the whole family three hours to build.",
+      "sentence2": "Critics called the new movie a _______ because the acting and music were both outstanding.",
+      "options": ["masterpiece", "dedication", "captivity", "applause"],
+      "correctIndex": 0,
+      "correctAnswer": "masterpiece"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Her _______ to volunteering at the animal shelter showed how much she cared about helping others.",
+      "sentence2": "The coach admired the player's _______ because she never missed a single practice all season.",
+      "options": ["ambitious", "depict", "dedication", "vivid"],
+      "correctIndex": 2,
+      "correctAnswer": "dedication"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "She had to _______ hard during the spelling bee so she would not make a mistake.",
+      "sentence2": "It was difficult to _______ on the math test because the hallway outside was so noisy.",
+      "options": ["concentrate", "rehearse", "depict", "captivity"],
+      "correctIndex": 0,
+      "correctAnswer": "concentrate"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The mural on the wall was meant to _______ the history of the town from its earliest days.",
+      "sentence2": "The author used detailed words to _______ the hero's journey through the enchanted forest.",
+      "options": ["applause", "portrait", "depict", "composer"],
+      "correctIndex": 2,
+      "correctAnswer": "depict"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The _______ colors of the parrot's feathers made it the most beautiful bird in the zoo.",
+      "sentence2": "He told such a _______ story about his camping trip that everyone could picture the starry sky.",
+      "options": ["ambitious", "vivid", "spectacle", "rehearse"],
+      "correctIndex": 1,
+      "correctAnswer": "vivid"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The artist spent weeks painting a detailed _______ of the mayor to hang in city hall.",
+      "sentence2": "She drew a _______ of her best friend using colored pencils, and it looked just like her.",
+      "options": ["masterpiece", "portrait", "dedication", "concentrate"],
+      "correctIndex": 1,
+      "correctAnswer": "portrait"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "rehearse",
+      "captivity",
+      "spectacle",
+      "applause",
+      "ambitious",
+      "composer",
+      "masterpiece",
+      "dedication",
+      "concentrate",
+      "depict",
+      "vivid",
+      "portrait"
+    ],
+    "passage": "Layla's class had an _(1)_ plan: they would create the greatest school play their town had ever seen. Their teacher asked Haruto, a talented young _(2)_, to write original music for every scene. The story would _(3)_ a magical bird trying to escape from _(4)_ and find its way home.\n\nEvery afternoon the students would _(5)_ in the gym, running through their lines again and again. Benny found it hard to _(6)_ at first because there was so much going on around him. But his _(7)_ paid off, and soon he knew every word by heart. Layla painted a giant _(8)_ of the bird's face to hang at the center of the stage.\n\nOn the night of the show, the _(9)_ costumes glowed under the bright lights. The audience watched in silence as the story unfolded into a true _(10)_. When the curtain fell, the gym shook with _(11)_. Everyone agreed the performance was the greatest _(12)_ the school had ever put on.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "ambitious",
+        "options": ["ambitious", "vivid", "captivity", "rehearse"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "composer",
+        "options": ["masterpiece", "composer", "portrait", "applause"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "depict",
+        "options": ["concentrate", "depict", "rehearse", "dedication"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "captivity",
+        "options": ["spectacle", "applause", "captivity", "ambitious"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "rehearse",
+        "options": ["rehearse", "depict", "composer", "vivid"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "concentrate",
+        "options": ["portrait", "masterpiece", "concentrate", "dedication"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "dedication",
+        "options": ["captivity", "dedication", "applause", "spectacle"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "portrait",
+        "options": ["portrait", "vivid", "rehearse", "ambitious"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "vivid",
+        "options": ["composer", "depict", "vivid", "masterpiece"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "masterpiece",
+        "options": ["masterpiece", "concentrate", "spectacle", "applause"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "applause",
+        "options": ["dedication", "applause", "portrait", "rehearse"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "spectacle",
+        "options": ["captivity", "ambitious", "spectacle", "vivid"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "applause",
+        "scale": ["Silence", "Clapping", "Applause"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "vivid",
+        "scale": ["Faded", "Bright", "Vivid"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "ambitious",
+        "scale": ["Lazy", "Motivated", "Ambitious"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "concentrate",
+        "scale": ["Concentrate", "Notice", "Ignore"],
+        "vocabPosition": 0
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "rehearse",
+        "words": ["Practice", "Prepare", "Neglect", "Train"],
+        "imposterIndex": 2,
+        "imposterWord": "Neglect"
+      },
+      {
+        "vocabWord": "captivity",
+        "words": ["Freedom", "Imprisonment", "Confinement", "Cage"],
+        "imposterIndex": 0,
+        "imposterWord": "Freedom"
+      },
+      {
+        "vocabWord": "spectacle",
+        "words": ["Show", "Display", "Wonder", "Bore"],
+        "imposterIndex": 3,
+        "imposterWord": "Bore"
+      },
+      {
+        "vocabWord": "composer",
+        "words": ["Musician", "Writer", "Listener", "Creator"],
+        "imposterIndex": 2,
+        "imposterWord": "Listener"
+      },
+      {
+        "vocabWord": "masterpiece",
+        "words": ["Failure", "Treasure", "Classic", "Gem"],
+        "imposterIndex": 0,
+        "imposterWord": "Failure"
+      },
+      {
+        "vocabWord": "dedication",
+        "words": ["Commitment", "Laziness", "Devotion", "Effort"],
+        "imposterIndex": 1,
+        "imposterWord": "Laziness"
+      },
+      {
+        "vocabWord": "depict",
+        "words": ["Show", "Illustrate", "Represent", "Hide"],
+        "imposterIndex": 3,
+        "imposterWord": "Hide"
+      },
+      {
+        "vocabWord": "portrait",
+        "words": ["Picture", "Sketch", "Photograph", "Blank"],
+        "imposterIndex": 3,
+        "imposterWord": "Blank"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

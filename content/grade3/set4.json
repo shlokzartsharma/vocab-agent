@@ -1,0 +1,407 @@
+{
+  "grade": 3,
+  "setNumber": 4,
+  "words": [
+    "mild",
+    "pause",
+    "refuse",
+    "route",
+    "ruin",
+    "solid",
+    "imitate",
+    "pierce",
+    "rare",
+    "symbol",
+    "triumph",
+    "prompt"
+  ],
+  "sources": [
+    "CBSE India",
+    "Cambridge Primary",
+    "Common Core Grade 3",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Tier 2 Academic",
+    "Wit & Wisdom Grade 3",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "mystery set in a school",
+  "story": {
+    "genre": "mystery set in a school",
+    "characters": [
+      "Aanya",
+      "Liam",
+      "Aarav"
+    ],
+    "parts": [
+      {
+        "title": "The Quiet Trail",
+        "text": "Aanya chose a **route** through the forest that she had never walked before. The morning air was **mild** — cool and calm, with a soft breeze and no clouds. Halfway up the trail, she spotted something **rare**: a golden fox standing between the trees, an animal almost never seen in these woods."
+      },
+      {
+        "title": "The Strange Discovery",
+        "text": "Aanya had to **pause** and hold her breath so she would not scare the fox away. The fox let out a sharp bark that seemed to **pierce** the quiet air like a blade. She tried to **imitate** the sound, but her attempt only made Liam laugh. Deeper in the woods, they discovered the **ruin** of an old watchtower — nothing but crumbling walls and fallen stones."
+      },
+      {
+        "title": "The Tower's Secret",
+        "text": "One **solid** block still stood upright, heavy and strong. Carved into its face was a sun — the **symbol** of the guardians who once protected the forest. A sign nearby read: Do not remove any stones. Aanya would always **refuse** to break that rule. When she reached the top of the hill, she felt a wave of **triumph**. Aarav appeared moments later, **prompt** as always, arriving right on schedule."
+      },
+      {
+        "title": "The Lesson",
+        "text": "Together, the three friends sat on the hilltop and looked out over the forest. Liam sketched the tower in his notebook while Aarav wrote down everything they had discovered. Aanya smiled and said, \"Some things are worth the effort of finding — even when the path is long and the treasure is just a pile of old stones.\" They decided to come back every month to check on the tower and make sure it was still standing."
+      }
+    ],
+    "wordCount": 252
+  },
+  "definitions": [
+    {
+      "word": "mild",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not severe or strong; gentle. Example: The mild weather made it a perfect day for a picnic.",
+      "meaning2": "Not sharp or strong in flavor. Example: This salsa is mild enough for kids to eat.",
+      "studentChallenge": "The teacher gave a ___ warning instead of sending anyone to the office.",
+      "sentence": ""
+    },
+    {
+      "word": "pause",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To stop briefly before continuing. Example: She paused before answering the difficult question.",
+      "meaning2": "A short stop or break. Example: After a brief pause, the music started again.",
+      "studentChallenge": "The speaker took a ___ to let the audience think about what she had said.",
+      "sentence": ""
+    },
+    {
+      "word": "refuse",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To say no to something; to decline. Example: The cat would refuse to come down from the tree.",
+      "meaning2": "Garbage or waste material. Example: The workers loaded the refuse into the truck.",
+      "studentChallenge": "Even though everyone begged, the stubborn dog would ___ to come inside.",
+      "sentence": ""
+    },
+    {
+      "word": "route",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A road or path taken to get from one place to another. Example: We took a different route to avoid traffic.",
+      "meaning2": "To send or direct along a particular path. Example: The airport had to route planes to a different runway.",
+      "studentChallenge": "The GPS showed us a faster ___ that avoided all the construction.",
+      "sentence": ""
+    },
+    {
+      "word": "ruin",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To damage something so badly it cannot be used or enjoyed. Example: The rain will ruin the paper decorations.",
+      "meaning2": "The remains of a building that has been destroyed. Example: They explored the ancient ruin at the edge of the village.",
+      "studentChallenge": "If it rains during the parade, it will ___ all the paper flowers.",
+      "sentence": ""
+    },
+    {
+      "word": "solid",
+      "partOfSpeech": "adjective",
+      "meaning1": "Firm, hard, and not hollow or liquid. Example: The lake froze into a solid sheet of ice.",
+      "meaning2": "Strong and reliable. Example: The detective had solid proof that the suspect was lying.",
+      "studentChallenge": "The ice on the pond was thick and ___ enough to walk on safely.",
+      "sentence": ""
+    },
+    {
+      "word": "imitate",
+      "partOfSpeech": "verb",
+      "meaning1": "To copy the actions or sounds of someone or something. Example: The parrot learned to imitate the sound of a ringing telephone.",
+      "meaning2": "",
+      "studentChallenge": "Young children often ___ their parents by pretending to cook or read.",
+      "sentence": ""
+    },
+    {
+      "word": "pierce",
+      "partOfSpeech": "verb",
+      "meaning1": "To make a hole through something with a sharp point. Example: The needle was thin enough to pierce through three layers of fabric.",
+      "meaning2": "To break through suddenly. Example: The whistle pierced through the roar of the crowd.",
+      "studentChallenge": "The thorn was sharp enough to ___ through his thick gloves.",
+      "sentence": ""
+    },
+    {
+      "word": "rare",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not found or seen very often; uncommon. Example: A white tiger is a rare animal.",
+      "meaning2": "Lightly cooked (for meat). Example: My dad orders his steak rare — barely cooked and still red inside.",
+      "studentChallenge": "Seeing a bald eagle in our town is very ___.",
+      "sentence": ""
+    },
+    {
+      "word": "symbol",
+      "partOfSpeech": "noun",
+      "meaning1": "A mark, sign, or object that represents something else. Example: The dove is used as a symbol of peace.",
+      "meaning2": "",
+      "studentChallenge": "In math, the ___ for 'greater than' looks like a small arrow pointing right.",
+      "sentence": ""
+    },
+    {
+      "word": "triumph",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A great victory or success. Example: Winning the spelling bee was her greatest triumph.",
+      "meaning2": "To win or succeed, especially after difficulty. Example: The underdog team managed to triumph over the champions.",
+      "studentChallenge": "After months of practice, finishing the piano piece was a real ___.",
+      "sentence": ""
+    },
+    {
+      "word": "prompt",
+      "partOfSpeech": "adjective, verb",
+      "meaning1": "Done quickly and without delay; on time. Example: Ms. Garcia is always prompt — she starts class at exactly 8:00.",
+      "meaning2": "To cause someone to do something. Example: The fire alarm prompted everyone to run outside.",
+      "studentChallenge": "The bus driver is always ___ — he arrives at 7:15 every single morning.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The salsa at the restaurant was so _______ that even the little kids could eat it without needing water.",
+      "sentence2": "The teacher gave a _______ warning instead of sending anyone to the principal's office.",
+      "options": ["solid", "mild", "rare", "prompt"],
+      "correctIndex": 1,
+      "correctAnswer": "mild"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The actor forgot his line and had to _______ in the middle of the scene.",
+      "sentence2": "After a long _______, the principal finally spoke and gave us the good news.",
+      "options": ["pause", "ruin", "triumph", "route"],
+      "correctIndex": 0,
+      "correctAnswer": "pause"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The workers loaded all the _______ into the truck and drove it to the city dump.",
+      "sentence2": "Even though everyone begged, the stubborn cat would _______ to come down from the tree.",
+      "options": ["imitate", "refuse", "pause", "symbol"],
+      "correctIndex": 1,
+      "correctAnswer": "refuse"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The GPS showed us a faster _______ that avoided all the construction on the highway.",
+      "sentence2": "The airport had to _______ all the planes to a different runway because of the fog.",
+      "options": ["triumph", "route", "ruin", "pause"],
+      "correctIndex": 1,
+      "correctAnswer": "route"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "If it rains during the parade, it will _______ the paper decorations.",
+      "sentence2": "Vines and moss covered every wall of the ancient _______ at the edge of the village.",
+      "options": ["ruin", "pause", "route", "imitate"],
+      "correctIndex": 0,
+      "correctAnswer": "ruin"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The lake froze into a _______ sheet of ice thick enough to walk on.",
+      "sentence2": "The detective had _______ proof that the suspect was lying.",
+      "options": ["rare", "mild", "solid", "prompt"],
+      "correctIndex": 2,
+      "correctAnswer": "solid"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The parrot learned to _______ the sound of a ringing telephone so well that it fooled everyone.",
+      "sentence2": "Young children often _______ their parents by pretending to cook dinner or read the newspaper.",
+      "options": ["imitate", "pierce", "refuse", "triumph"],
+      "correctIndex": 0,
+      "correctAnswer": "imitate"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The needle was thin enough to _______ through three layers of fabric at once.",
+      "sentence2": "The referee's whistle was sharp enough to _______ through the roar of the crowd.",
+      "options": ["pause", "ruin", "imitate", "pierce"],
+      "correctIndex": 3,
+      "correctAnswer": "pierce"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "A white tiger is a _______ animal — most people will never see one in the wild.",
+      "sentence2": "My dad always orders his steak _______ — he likes it barely cooked, still red and juicy inside.",
+      "options": ["mild", "rare", "solid", "prompt"],
+      "correctIndex": 1,
+      "correctAnswer": "rare"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The dove is used as a _______ of peace all around the world.",
+      "sentence2": "In math, the _______ for \"greater than\" looks like a small arrow pointing right.",
+      "options": ["symbol", "pause", "route", "ruin"],
+      "correctIndex": 0,
+      "correctAnswer": "symbol"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Winning the spelling bee was the greatest _______ of Maria's school year.",
+      "sentence2": "The underdog team managed to _______ over the undefeated champions in the final game.",
+      "options": ["pause", "refuse", "triumph", "imitate"],
+      "correctIndex": 2,
+      "correctAnswer": "triumph"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The fire alarm was enough to _______ everyone to run outside immediately.",
+      "sentence2": "Ms. Garcia is always _______ — she starts class at exactly 8:00, not a second late.",
+      "options": ["mild", "solid", "rare", "prompt"],
+      "correctIndex": 3,
+      "correctAnswer": "prompt"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "mild",
+      "pause",
+      "refuse",
+      "route",
+      "ruin",
+      "solid",
+      "imitate",
+      "pierce",
+      "rare",
+      "symbol",
+      "triumph",
+      "prompt"
+    ],
+    "passage": "One autumn morning, Mateo planned the _(1)_ he would take through the forest to reach the old stone tower. The weather was _(2)_ — cool and gentle, with a soft breeze and no clouds. Along the path, he spotted something _(3)_: a golden fox, an animal almost never seen in these woods.\n\nMateo had to _(4)_ and hold his breath so he would not scare it away. The fox let out a sharp bark that seemed to _(5)_ the quiet morning air like a blade. Mateo tried to _(6)_ the sound, but his attempt only made him laugh at himself.\n\nDeeper in the woods, he discovered the _(7)_ of an old watchtower — nothing but crumbling walls and fallen stones. One _(8)_ block still stood upright, heavy and strong. Carved into its face was a sun, the _(9)_ of the guardians who once protected the forest. A sign nearby read: Do not remove any stones. Mateo would always _(10)_ to break that rule — he believed in protecting the forest.\n\nWhen he reached the top of the hill, he felt a wave of _(11)_. He had made it. Moments later, a park ranger appeared, _(12)_ as always, arriving right on schedule to guide the hikers back down.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "route",
+        "options": ["symbol", "route", "ruin", "triumph"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "mild",
+        "options": ["rare", "mild", "solid", "prompt"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "rare",
+        "options": ["solid", "prompt", "rare", "mild"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "pause",
+        "options": ["imitate", "pause", "refuse", "pierce"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "pierce",
+        "options": ["pause", "refuse", "pierce", "imitate"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "imitate",
+        "options": ["imitate", "pierce", "pause", "refuse"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "ruin",
+        "options": ["route", "ruin", "symbol", "triumph"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "solid",
+        "options": ["rare", "prompt", "mild", "solid"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "symbol",
+        "options": ["triumph", "ruin", "symbol", "route"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "refuse",
+        "options": ["imitate", "refuse", "pause", "pierce"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "triumph",
+        "options": ["ruin", "triumph", "route", "symbol"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "prompt",
+        "options": ["mild", "rare", "solid", "prompt"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "triumph",
+        "scale": ["Win", "Victory", "Triumph"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "ruin",
+        "scale": ["Damage", "Wreck", "Ruin"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "pierce",
+        "scale": ["Prick", "Stab", "Pierce"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "rare",
+        "scale": ["Unusual", "Uncommon", "Rare"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "mild",
+        "words": ["Gentle", "Harsh", "Soft", "Calm"],
+        "imposterIndex": 1,
+        "imposterWord": "Harsh"
+      },
+      {
+        "vocabWord": "pause",
+        "words": ["Hesitate", "Continue", "Stop", "Wait"],
+        "imposterIndex": 1,
+        "imposterWord": "Continue"
+      },
+      {
+        "vocabWord": "refuse",
+        "words": ["Decline", "Accept", "Reject", "Deny"],
+        "imposterIndex": 1,
+        "imposterWord": "Accept"
+      },
+      {
+        "vocabWord": "solid",
+        "words": ["Firm", "Liquid", "Hard", "Sturdy"],
+        "imposterIndex": 1,
+        "imposterWord": "Liquid"
+      },
+      {
+        "vocabWord": "rare",
+        "words": ["Uncommon", "Common", "Scarce", "Unusual"],
+        "imposterIndex": 1,
+        "imposterWord": "Common"
+      },
+      {
+        "vocabWord": "triumph",
+        "words": ["Victory", "Defeat", "Win", "Success"],
+        "imposterIndex": 1,
+        "imposterWord": "Defeat"
+      },
+      {
+        "vocabWord": "pierce",
+        "words": ["Puncture", "Stab", "Mend", "Poke"],
+        "imposterIndex": 2,
+        "imposterWord": "Mend"
+      },
+      {
+        "vocabWord": "imitate",
+        "words": ["Copy", "Mimic", "Originate", "Mirror"],
+        "imposterIndex": 2,
+        "imposterWord": "Originate"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

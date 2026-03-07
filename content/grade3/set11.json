@@ -1,0 +1,405 @@
+{
+  "grade": 3,
+  "setNumber": 11,
+  "words": [
+    "brief",
+    "compete",
+    "consider",
+    "delightful",
+    "honor",
+    "remark",
+    "reflex",
+    "actual",
+    "brink",
+    "chill",
+    "conquer",
+    "fortunate"
+  ],
+  "sources": [
+    "Common Core Grade 3",
+    "CBSE India",
+    "Cambridge Primary",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Tier 2 Academic"
+  ],
+  "genre": "sports underdog",
+  "story": {
+    "genre": "sports underdog",
+    "characters": [
+      "Maya",
+      "Rowan",
+      "Priya"
+    ],
+    "parts": [
+      {
+        "title": "The Challenge",
+        "text": "Maya had always dreamed of climbing the tallest mountain in the region. She felt **fortunate** to have a skilled guide named Rowan leading the way. On the first morning, a sharp **chill** in the air made her zip her jacket up tight. Rowan gave a **brief** pep talk — just three sentences — before they began."
+      },
+      {
+        "title": "The Climb",
+        "text": "As they climbed higher, Maya stood on the **brink** of a narrow ledge and gasped at the drop below. She had to **conquer** her fear and keep moving. When a loose rock slid toward her foot, her **reflex** kicked in and she jumped back instantly. Priya, watching from base camp, made a **remark** over the radio that lifted Maya's spirits."
+      },
+      {
+        "title": "The Summit",
+        "text": "At the summit, Maya paused to **consider** how far she had come. It was an **actual** achievement — not a dream anymore, but real. The view was **delightful** — one that made her heart full. She knew she could **compete** with the best climbers now. It was an **honor** to stand where so few had stood before."
+      },
+      {
+        "title": "The Return",
+        "text": "When Maya returned to the village, the whole town gathered to celebrate. Rowan shook her hand and said she was the youngest climber he had ever guided to the top. Maya smiled and said the hardest part wasn't the mountain — it was believing she could do it in the first place."
+      }
+    ],
+    "wordCount": 230
+  },
+  "definitions": [
+    {
+      "word": "brief",
+      "partOfSpeech": "adjective",
+      "meaning1": "Lasting only a short time. Example: The doctor gave a brief explanation before the appointment ended.",
+      "meaning2": "Using few words. Example: Please keep your answer brief — we only have two minutes left.",
+      "studentChallenge": "The rain shower was ___ — it lasted only five minutes.",
+      "sentence": ""
+    },
+    {
+      "word": "compete",
+      "partOfSpeech": "verb",
+      "meaning1": "To try to win against others. Example: Both athletes trained hard to compete in the championship race.",
+      "meaning2": "",
+      "studentChallenge": "The coach watched the players ___ for a spot on the starting team.",
+      "sentence": ""
+    },
+    {
+      "word": "consider",
+      "partOfSpeech": "verb",
+      "meaning1": "To think carefully about something before deciding. Example: Please consider all your options before making a final decision.",
+      "meaning2": "",
+      "studentChallenge": "The judges had to ___ each painting carefully before choosing a winner.",
+      "sentence": ""
+    },
+    {
+      "word": "delightful",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very pleasant and enjoyable. Example: The park was filled with delightful smells from the flower garden.",
+      "meaning2": "",
+      "studentChallenge": "It was a ___ surprise to find fresh cookies waiting on the counter.",
+      "sentence": ""
+    },
+    {
+      "word": "honor",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "Great respect or a special privilege. Example: It was an honor to meet the president.",
+      "meaning2": "To show respect for someone. Example: The soldier received a medal to honor his bravery.",
+      "studentChallenge": "Winning the award was a great ___ for the whole school.",
+      "sentence": ""
+    },
+    {
+      "word": "remark",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A comment or something said. Example: She made a kind remark about how beautiful the garden looked.",
+      "meaning2": "To say something as a comment. Example: The teacher remarked that the class had improved a lot.",
+      "studentChallenge": "His funny ___ made everyone in the room laugh.",
+      "sentence": ""
+    },
+    {
+      "word": "reflex",
+      "partOfSpeech": "noun",
+      "meaning1": "An automatic movement that happens without thinking. Example: Catching the falling glass was pure reflex — she didn't even think.",
+      "meaning2": "",
+      "studentChallenge": "The doctor tapped her knee to test her ___.",
+      "sentence": ""
+    },
+    {
+      "word": "actual",
+      "partOfSpeech": "adjective",
+      "meaning1": "Real; existing in fact. Example: The dragon in the story was not real, but this fossil is actual proof of giant creatures.",
+      "meaning2": "True or exact. Example: The actual cost of the trip was much higher than they expected.",
+      "studentChallenge": "The ___ distance was ten miles, not five like we thought.",
+      "sentence": ""
+    },
+    {
+      "word": "brink",
+      "partOfSpeech": "noun",
+      "meaning1": "The very edge of something. Example: The mountain climber stood on the brink of the cliff, looking down.",
+      "meaning2": "The point at which something is about to happen. Example: Scientists warned the species was on the brink of extinction.",
+      "studentChallenge": "The glass wobbled on the ___ of the table before falling off.",
+      "sentence": ""
+    },
+    {
+      "word": "chill",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A feeling of cold. Example: A cold chill swept through the valley as the sun went down.",
+      "meaning2": "A feeling of fear or unease. Example: The scary movie gave everyone a chill down their spine.",
+      "studentChallenge": "There was a ___ in the air that told us winter was coming.",
+      "sentence": ""
+    },
+    {
+      "word": "conquer",
+      "partOfSpeech": "verb",
+      "meaning1": "To overcome or defeat something. Example: The hero worked hard to conquer his fear of the dark.",
+      "meaning2": "To take control of a place by force. Example: The army set out to conquer the distant kingdom.",
+      "studentChallenge": "She was determined to ___ her stage fright before the school play.",
+      "sentence": ""
+    },
+    {
+      "word": "fortunate",
+      "partOfSpeech": "adjective",
+      "meaning1": "Lucky; having good luck. Example: We felt fortunate to find shelter right before the storm hit.",
+      "meaning2": "",
+      "studentChallenge": "The ___ family had everything they needed and more.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The soldier received a medal to _______ his bravery in battle.",
+      "sentence2": "It was an _______ to be chosen to lead the school parade.",
+      "options": ["consider", "compete", "honor", "remark"],
+      "correctIndex": 2,
+      "correctAnswer": "honor"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The mountain climber stood on the _______ of the cliff, looking straight down.",
+      "sentence2": "Scientists warned the species was on the _______ of extinction.",
+      "options": ["chill", "brink", "reflex", "conquer"],
+      "correctIndex": 1,
+      "correctAnswer": "brink"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "A cold _______ swept through the valley as the sun went down behind the mountains.",
+      "sentence2": "The scary movie gave everyone a _______ down their spine.",
+      "options": ["remark", "honor", "chill", "brief"],
+      "correctIndex": 2,
+      "correctAnswer": "chill"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "She made a kind _______ about how beautiful the garden looked in the morning light.",
+      "sentence2": "The teacher asked us to _______ on what we learned during the field trip.",
+      "options": ["actual", "conquer", "delightful", "remark"],
+      "correctIndex": 3,
+      "correctAnswer": "remark"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The coach watched the players _______ for a spot on the starting team.",
+      "sentence2": "Both athletes trained hard to _______ in the championship race.",
+      "options": ["consider", "compete", "brink", "fortunate"],
+      "correctIndex": 1,
+      "correctAnswer": "compete"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "It was a _______ surprise to find fresh cookies waiting on the kitchen counter.",
+      "sentence2": "The park was filled with _______ smells from the spring flower garden.",
+      "options": ["actual", "brief", "delightful", "fortunate"],
+      "correctIndex": 2,
+      "correctAnswer": "delightful"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The doctor gave a _______ explanation before the appointment ended — only two sentences.",
+      "sentence2": "Please keep your answer _______ — we only have two minutes left on the clock.",
+      "options": ["conquer", "brief", "fortunate", "reflex"],
+      "correctIndex": 1,
+      "correctAnswer": "brief"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The hero worked hard to _______ his fear of the dark once and for all.",
+      "sentence2": "An army set out to _______ the distant kingdom across the mountains.",
+      "options": ["consider", "remark", "honor", "conquer"],
+      "correctIndex": 3,
+      "correctAnswer": "conquer"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Please _______ all your options before making a final decision on the project.",
+      "sentence2": "The judges had to _______ each painting carefully before choosing the winner.",
+      "options": ["compete", "brink", "consider", "chill"],
+      "correctIndex": 2,
+      "correctAnswer": "consider"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Catching the falling glass before it hit the floor was pure _______ — she didn't even think.",
+      "sentence2": "The doctor tapped her knee to test her _______ and watched her leg kick up.",
+      "options": ["honor", "reflex", "delightful", "brief"],
+      "correctIndex": 1,
+      "correctAnswer": "reflex"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "We felt _______ to find shelter right before the terrible storm hit our town.",
+      "sentence2": "The _______ family had everything they needed — food, warmth, and each other.",
+      "options": ["actual", "brink", "remark", "fortunate"],
+      "correctIndex": 3,
+      "correctAnswer": "fortunate"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The dragon in the story was not real, but this fossil is _______ proof of giant creatures.",
+      "sentence2": "The _______ cost of the trip was much higher than anyone had expected.",
+      "options": ["delightful", "compete", "actual", "conquer"],
+      "correctIndex": 2,
+      "correctAnswer": "actual"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "brief",
+      "compete",
+      "consider",
+      "delightful",
+      "honor",
+      "remark",
+      "reflex",
+      "actual",
+      "brink",
+      "chill",
+      "conquer",
+      "fortunate"
+    ],
+    "passage": "Maya had always dreamed of climbing the tallest mountain in the region. She felt _(1)_ to have a skilled guide named Rowan leading the way. On the first morning, a sharp _(2)_ in the air made her zip her jacket up tight. Rowan gave a _(3)_ pep talk — just three sentences — before they began.\n\nAs they climbed higher, Maya stood on the _(4)_ of a narrow ledge and gasped at the drop below. She had to _(5)_ her fear and keep moving. When a loose rock slid toward her foot, her _(6)_ kicked in and she jumped back instantly without thinking. Over the radio, Rowan made a _(7)_ that lifted her spirits completely.\n\nAt the summit, Maya paused to _(8)_ how far she had come. It was an _(9)_ achievement — not a dream anymore, but real. The view was _(10)_ — one that made her heart soar. She knew she could _(11)_ with the best climbers now. It was the greatest _(12)_ of her life to stand where so few had stood before.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "fortunate",
+        "options": ["brief", "conquer", "fortunate", "actual"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "chill",
+        "options": ["remark", "brink", "reflex", "chill"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "brief",
+        "options": ["delightful", "brief", "compete", "conquer"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "brink",
+        "options": ["honor", "reflex", "fortunate", "brink"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "conquer",
+        "options": ["consider", "remark", "conquer", "compete"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "reflex",
+        "options": ["chill", "actual", "reflex", "brief"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "remark",
+        "options": ["compete", "remark", "fortunate", "conquer"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "consider",
+        "options": ["compete", "consider", "chill", "brink"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "actual",
+        "options": ["delightful", "actual", "honor", "consider"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "delightful",
+        "options": ["fortunate", "brief", "delightful", "actual"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "compete",
+        "options": ["conquer", "remark", "compete", "chill"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "honor",
+        "options": ["brink", "reflex", "consider", "honor"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "chill",
+        "scale": ["Cool", "Chill", "Freezing"],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "consider",
+        "scale": ["Notice", "Consider", "Analyze"],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "brief",
+        "scale": ["Brief", "Moderate", "Extended"],
+        "vocabPosition": 0
+      },
+      {
+        "vocabWord": "conquer",
+        "scale": ["Try", "Compete", "Conquer"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "brief",
+        "words": ["Short", "Quick", "Fleeting", "Lengthy"],
+        "imposterIndex": 3,
+        "imposterWord": "Lengthy"
+      },
+      {
+        "vocabWord": "compete",
+        "words": ["Race", "Contest", "Rival", "Cooperate"],
+        "imposterIndex": 3,
+        "imposterWord": "Cooperate"
+      },
+      {
+        "vocabWord": "delightful",
+        "words": ["Charming", "Pleasant", "Dreadful", "Enjoyable"],
+        "imposterIndex": 2,
+        "imposterWord": "Dreadful"
+      },
+      {
+        "vocabWord": "honor",
+        "words": ["Respect", "Praise", "Shame", "Admire"],
+        "imposterIndex": 2,
+        "imposterWord": "Shame"
+      },
+      {
+        "vocabWord": "fortunate",
+        "words": ["Lucky", "Blessed", "Unfortunate", "Favored"],
+        "imposterIndex": 2,
+        "imposterWord": "Unfortunate"
+      },
+      {
+        "vocabWord": "conquer",
+        "words": ["Defeat", "Overcome", "Surrender", "Triumph"],
+        "imposterIndex": 2,
+        "imposterWord": "Surrender"
+      },
+      {
+        "vocabWord": "actual",
+        "words": ["Real", "True", "Imaginary", "Genuine"],
+        "imposterIndex": 2,
+        "imposterWord": "Imaginary"
+      },
+      {
+        "vocabWord": "consider",
+        "words": ["Think", "Reflect", "Ignore", "Ponder"],
+        "imposterIndex": 2,
+        "imposterWord": "Ignore"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

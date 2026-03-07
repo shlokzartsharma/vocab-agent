@@ -1,0 +1,586 @@
+{
+  "grade": 3,
+  "setNumber": 32,
+  "words": [
+    "version",
+    "examine",
+    "babble",
+    "grace",
+    "respond",
+    "trot",
+    "plunge",
+    "restore",
+    "wreckage",
+    "flood",
+    "stockade",
+    "minor"
+  ],
+  "sources": [
+    "Australian Curriculum",
+    "CBSE India",
+    "Cambridge Primary",
+    "Common Core Grade 3",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Flocabulary Grade 4",
+    "Flocabulary Grade 5",
+    "SSAT Elementary",
+    "Tier 2 Academic",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "climate and environment true story",
+  "story": {
+    "genre": "climate and environment true story",
+    "characters": [
+      "Kai",
+      "Nikhil",
+      "Kiran"
+    ],
+    "parts": [
+      {
+        "title": "The Warning Signs",
+        "text": "Every morning, Kai would **examine** the climate data on her screen, looking closely at each number for signs of change. Nikhil, her research partner, had developed a new **version** of the flood-risk model that predicted storms with greater accuracy. When the brook outside the lab began to **babble** louder than usual, Kai knew the rain upstream was heavier than expected."
+      },
+      {
+        "title": "The Crisis",
+        "text": "A massive **flood** hit the coastal town that night, pouring through streets and sweeping away fences. Kiran, the town engineer, watched a pony **trot** desperately through knee-deep water toward higher ground. The **wreckage** of garden sheds and broken fences floated past. Volunteers had to **plunge** into the water to pull a family to safety. It would take months of work to **restore** the town to how it had looked before."
+      },
+      {
+        "title": "Taking Action",
+        "text": "The damage looked **minor** at first glance, but Kai knew the real danger was the next storm. She built a **stockade** of sandbags along the river's lowest edge and helped Nikhil design a barrier using wooden posts. She moved with the **grace** of someone who had trained for exactly this moment. Kiran told the town council, \"We need to **respond** now, before the next storm arrives and finds us unprepared.\""
+      },
+      {
+        "title": "A Greener Future",
+        "text": "Three years later, the mangrove forest stretched along two miles of coastline. When the next big storm came, the town survived with minimal damage. Nikhil told the newspapers, \"Kai saved our town. She showed us that one person with a good idea can change everything.\" The town became a model for climate resilience, and Kai's story was taught in schools across the country."
+      }
+    ],
+    "wordCount": 258
+  },
+  "definitions": [
+    {
+      "word": "version",
+      "partOfSpeech": "noun",
+      "meaning1": "A particular form of something that is slightly different from other forms. Example: The movie was a new version of the classic fairy tale with a different ending.",
+      "meaning2": "",
+      "studentChallenge": "She liked the original ___ of the song better than the remake.",
+      "sentence": ""
+    },
+    {
+      "word": "examine",
+      "partOfSpeech": "verb",
+      "meaning1": "To look at something carefully and closely. Example: The doctor examined the patient.",
+      "meaning2": "",
+      "studentChallenge": "She ___ the fossil under a magnifying glass.",
+      "sentence": ""
+    },
+    {
+      "word": "babble",
+      "partOfSpeech": "verb",
+      "meaning1": "To talk quickly in a way that is hard to understand or that does not make sense. Example: The excited toddler would babble happily, mixing real words with silly sounds.",
+      "meaning2": "The soft sound of water flowing over rocks. Example: We could hear the brook babble as we walked along the forest trail.",
+      "studentChallenge": "The baby likes to ___ and coo while playing with her colorful toys.",
+      "sentence": ""
+    },
+    {
+      "word": "grace",
+      "partOfSpeech": "noun",
+      "meaning1": "Smooth, beautiful movement or manner. Example: The ballerina danced with such grace that she looked as if she were floating.",
+      "meaning2": "A short prayer of thanks before a meal. Example: The family held hands and said grace before eating dinner.",
+      "studentChallenge": "The deer leaped over the fence with natural ___ and landed softly on the other side.",
+      "sentence": ""
+    },
+    {
+      "word": "respond",
+      "partOfSpeech": "verb",
+      "meaning1": "To reply or answer. Example: When the teacher asked a question, several students raised their hands to respond.",
+      "meaning2": "",
+      "studentChallenge": "Please ___ to the invitation by Friday so we know how many people are coming.",
+      "sentence": ""
+    },
+    {
+      "word": "trot",
+      "partOfSpeech": "verb/noun",
+      "meaning1": "To move at a pace between a walk and a run, often used for horses. Example: The horse began to trot around the ring as the rider gently kicked its sides.",
+      "meaning2": "",
+      "studentChallenge": "The dog started to ___ alongside its owner during their morning jog in the park.",
+      "sentence": ""
+    },
+    {
+      "word": "plunge",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To jump or dive quickly into something. Example: She plunged into the cold swimming pool.",
+      "meaning2": "",
+      "studentChallenge": "The temperature ___ below freezing overnight.",
+      "sentence": ""
+    },
+    {
+      "word": "restore",
+      "partOfSpeech": "verb",
+      "meaning1": "To bring something back to its original condition. Example: Volunteers worked for months to restore the old painting to its former beauty.",
+      "meaning2": "",
+      "studentChallenge": "The team spent all summer working to ___ the crumbling castle walls to their former glory.",
+      "sentence": ""
+    },
+    {
+      "word": "wreckage",
+      "partOfSpeech": "noun",
+      "meaning1": "The broken pieces of something that has been destroyed. Example: The wreckage of the plane was found in the ocean.",
+      "meaning2": "",
+      "studentChallenge": "Rescue workers searched through the ___ for survivors.",
+      "sentence": ""
+    },
+    {
+      "word": "flood",
+      "partOfSpeech": "noun",
+      "meaning1": "A large amount of water covering land that is usually dry. Example: The flood after the hurricane damaged many homes near the river.",
+      "meaning2": "To fill or overflow with a large amount (verb). Example: Letters began to flood the mailbox after the newspaper printed her story.",
+      "studentChallenge": "Heavy rain for three days caused a ___ that turned the streets into rivers.",
+      "sentence": ""
+    },
+    {
+      "word": "stockade",
+      "partOfSpeech": "noun",
+      "meaning1": "A strong fence or wall made of wooden posts built for protection. Example: The settlers built a stockade around their village to keep out wild animals.",
+      "meaning2": "",
+      "studentChallenge": "The pioneers put up a tall ___ around their camp to stay safe during the night.",
+      "sentence": ""
+    },
+    {
+      "word": "minor",
+      "partOfSpeech": "adjective",
+      "meaning1": "Small and not very important or serious. Example: The scratch on his knee was only a minor injury that healed quickly.",
+      "meaning2": "A person who is not yet legally an adult. Example: As a minor, she needed a parent's permission to sign up for the program.",
+      "studentChallenge": "It was just a ___ mistake on her spelling test, and she still got a great score.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The movie was a new ___ of the classic fairy tale with a completely different ending.",
+      "sentence2": "She liked the original ___ of the song better than the remake.",
+      "options": [
+        "version",
+        "trot",
+        "wreckage",
+        "stockade"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "version"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The doctor carefully ___ the patient before writing a prescription.",
+      "sentence2": "She ___ the fossil under a magnifying glass, studying every tiny detail.",
+      "options": [
+        "examine",
+        "wreckage",
+        "grace",
+        "plunge"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "examine"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The excited toddler would ___ happily, mixing real words with silly sounds.",
+      "sentence2": "The baby likes to ___ and coo while playing with her colorful toys.",
+      "options": [
+        "grace",
+        "minor",
+        "babble",
+        "flood"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "babble"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The ballerina danced with such ___ that she looked as if she were floating on air.",
+      "sentence2": "The deer leaped over the fence with natural ___ and landed softly on the other side.",
+      "options": [
+        "wreckage",
+        "babble",
+        "grace",
+        "flood"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "grace"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "When the teacher asked a question, several students raised their hands to ___.",
+      "sentence2": "Please ___ to the invitation by Friday so we know how many people are coming.",
+      "options": [
+        "minor",
+        "respond",
+        "version",
+        "flood"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "respond"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The horse began to ___ around the ring as the rider gently pressed its sides.",
+      "sentence2": "The dog started to ___ alongside its owner during their morning jog in the park.",
+      "options": [
+        "version",
+        "examine",
+        "minor",
+        "trot"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "trot"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "She ___ into the cold swimming pool and gasped at the chill.",
+      "sentence2": "The temperature ___ below freezing overnight, turning puddles into ice.",
+      "options": [
+        "version",
+        "restore",
+        "babble",
+        "plunge"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "plunge"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Volunteers worked for months to ___ the old painting to its former beauty.",
+      "sentence2": "The team spent all summer working to ___ the crumbling castle walls to their former glory.",
+      "options": [
+        "minor",
+        "restore",
+        "grace",
+        "examine"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "restore"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The ___ of the plane was found scattered across the ocean floor.",
+      "sentence2": "Rescue workers carefully searched through the ___ for survivors.",
+      "options": [
+        "babble",
+        "wreckage",
+        "version",
+        "grace"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "wreckage"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The ___ after the hurricane damaged many homes near the river.",
+      "sentence2": "Heavy rain for three days caused a ___ that turned the streets into rivers.",
+      "options": [
+        "wreckage",
+        "restore",
+        "trot",
+        "flood"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "flood"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The settlers built a ___ around their village to keep out wild animals at night.",
+      "sentence2": "The pioneers put up a tall ___ around their camp to stay safe during the night.",
+      "options": [
+        "version",
+        "flood",
+        "stockade",
+        "restore"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "stockade"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The scratch on his knee was only a ___ injury that healed within a day.",
+      "sentence2": "It was just a ___ mistake on her spelling test, and she still got a great score.",
+      "options": [
+        "minor",
+        "stockade",
+        "restore",
+        "version"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "minor"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "version",
+      "examine",
+      "babble",
+      "grace",
+      "respond",
+      "trot",
+      "plunge",
+      "restore",
+      "wreckage",
+      "flood",
+      "stockade",
+      "minor"
+    ],
+    "passage": "Nikhil arrived at the old coastal fort to _(1)_ it carefully \u2014 looking at every stone and beam for damage. The fort was a newer _(2)_ of an ancient structure, rebuilt after a storm a hundred years ago. A brook nearby seemed to _(3)_ softly over the rocks, murmuring and bubbling without stopping. The deer that lived in the forest would _(4)_ lightly across the clearing \u2014 moving faster than a walk but slower than a run. Nikhil moved with the same quiet _(5)_ \u2014 smooth and careful so as not to disturb the animals. A heavy _(6)_ of rainwater had poured over the low walls last winter, soaking everything inside. He hoped to _(7)_ the fort fully, bringing it back to exactly the way it looked when first built. Rotten wood and broken stone made up the _(8)_ left by years of storms. The original _(9)_ \u2014 a thick wall of tall wooden posts \u2014 had protected the settlement long ago. The damage seemed _(10)_ at first glance, small and easy to fix. But when he called for helpers, many people were quick to _(11)_ and volunteer. Together they would _(12)_ into the work the very next morning, diving in with energy and determination.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "examine",
+        "options": [
+          "examine",
+          "restore",
+          "respond",
+          "babble"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "version",
+        "options": [
+          "version",
+          "wreckage",
+          "stockade",
+          "flood"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "babble",
+        "options": [
+          "babble",
+          "flood",
+          "trot",
+          "plunge"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "trot",
+        "options": [
+          "trot",
+          "plunge",
+          "restore",
+          "respond"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "grace",
+        "options": [
+          "grace",
+          "version",
+          "minor",
+          "wreckage"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "flood",
+        "options": [
+          "flood",
+          "wreckage",
+          "stockade",
+          "grace"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "restore",
+        "options": [
+          "restore",
+          "examine",
+          "plunge",
+          "flood"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "wreckage",
+        "options": [
+          "wreckage",
+          "stockade",
+          "version",
+          "grace"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "stockade",
+        "options": [
+          "stockade",
+          "wreckage",
+          "flood",
+          "version"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "minor",
+        "options": [
+          "minor",
+          "grace",
+          "babble",
+          "trot"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "respond",
+        "options": [
+          "respond",
+          "examine",
+          "restore",
+          "minor"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "plunge",
+        "options": [
+          "plunge",
+          "trot",
+          "respond",
+          "babble"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "version",
+        "scale": [
+          "form",
+          "version",
+          "variant"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "examine",
+        "scale": [
+          "glance",
+          "examine",
+          "inspect"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "babble",
+        "scale": [
+          "murmur",
+          "babble",
+          "chatter"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "grace",
+        "scale": [
+          "poise",
+          "grace",
+          "elegance"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "respond",
+        "words": [
+          "ignore",
+          "reply",
+          "answer",
+          "react"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "ignore"
+      },
+      {
+        "vocabWord": "trot",
+        "words": [
+          "stop",
+          "jog",
+          "run",
+          "pace"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "stop"
+      },
+      {
+        "vocabWord": "plunge",
+        "words": [
+          "rise",
+          "dive",
+          "jump",
+          "fall"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "rise"
+      },
+      {
+        "vocabWord": "restore",
+        "words": [
+          "destroy",
+          "repair",
+          "fix",
+          "rebuild"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "destroy"
+      },
+      {
+        "vocabWord": "wreckage",
+        "words": [
+          "wholeness",
+          "debris",
+          "remains",
+          "ruins"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "wholeness"
+      },
+      {
+        "vocabWord": "flood",
+        "words": [
+          "overflow",
+          "drought",
+          "inundation",
+          "deluge"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "drought"
+      },
+      {
+        "vocabWord": "stockade",
+        "words": [
+          "open",
+          "fence",
+          "fort",
+          "wall"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "open"
+      },
+      {
+        "vocabWord": "minor",
+        "words": [
+          "small",
+          "slight",
+          "lesser",
+          "major"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "major"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

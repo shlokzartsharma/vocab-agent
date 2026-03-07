@@ -1,0 +1,401 @@
+{
+  "grade": 5,
+  "setNumber": 17,
+  "words": [
+    "metamorphosis",
+    "upheaval",
+    "transfigure",
+    "transmute",
+    "revolutionize",
+    "modification",
+    "deteriorate",
+    "reconfigure",
+    "progression",
+    "overhaul",
+    "dismantle",
+    "consolidate"
+  ],
+  "sources": [
+    "Common Core Grade 5",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 5",
+    "CKLA Grade 5",
+    "Tier 2 Academic"
+  ],
+  "genre": "science transformation",
+  "story": {
+    "genre": "science transformation",
+    "characters": ["Orla", "Renzo", "Kenji"],
+    "parts": [
+      {
+        "title": "The Failing Greenhouse",
+        "text": "Orla stared at the crumbling greenhouse behind the school. The glass was cracked, the frame was rusting, and the plants had begun to **deteriorate** from weeks of neglect. She knew the place needed a complete **overhaul** if it was ever going to grow anything again. Renzo agreed that only a total **upheaval** of the old design would save it."
+      },
+      {
+        "title": "The Plan Takes Shape",
+        "text": "Kenji arrived with a notebook full of sketches. He wanted to **reconfigure** the layout so that sunlight could reach every corner. Orla suggested they **dismantle** the broken shelves and rebuild them from recycled wood. Renzo's idea was even bolder — he wanted to **revolutionize** the watering system by using a simple solar-powered pump. Each small **modification** they discussed brought the group closer to a real plan."
+      },
+      {
+        "title": "Transformation Begins",
+        "text": "Over the next two weeks, the trio watched an amazing **metamorphosis** unfold. They managed to **transmute** piles of scrap metal into sturdy plant racks. Kenji used colored glass to **transfigure** the dull walls into a rainbow of light. The slow **progression** from ruin to beauty amazed everyone who walked by. Finally, they decided to **consolidate** all their leftover supplies into one shared storage bin."
+      },
+      {
+        "title": "A Living Laboratory",
+        "text": "On reopening day, the whole school gathered around. Seedlings stretched toward the sunlight, and butterflies drifted through the open windows. The three friends realized the greenhouse was more than a building — it was proof that patience, teamwork, and a good plan could turn something broken into something extraordinary."
+      }
+    ],
+    "wordCount": 238
+  },
+  "definitions": [
+    {
+      "word": "metamorphosis",
+      "partOfSpeech": "noun",
+      "meaning1": "A complete change in form or structure. Example: The metamorphosis of a caterpillar into a butterfly is one of nature's greatest wonders.",
+      "meaning2": "",
+      "studentChallenge": "The tadpole went through a remarkable ___ before becoming a frog.",
+      "sentence": ""
+    },
+    {
+      "word": "upheaval",
+      "partOfSpeech": "noun",
+      "meaning1": "A sudden, violent change or disruption. Example: The earthquake caused an upheaval that cracked roads and toppled buildings.",
+      "meaning2": "A big change in the way things are done. Example: Moving to a new country was a major upheaval for the whole family.",
+      "studentChallenge": "The sudden ___ in the schedule left everyone confused about where to go.",
+      "sentence": ""
+    },
+    {
+      "word": "transfigure",
+      "partOfSpeech": "verb",
+      "meaning1": "To change the appearance or form of something, usually in a beautiful or dramatic way. Example: The artist managed to transfigure an old junkyard into a stunning sculpture garden.",
+      "meaning2": "",
+      "studentChallenge": "The stage crew used paint and fabric to ___ the gym into a magical forest.",
+      "sentence": ""
+    },
+    {
+      "word": "transmute",
+      "partOfSpeech": "verb",
+      "meaning1": "To change something into a different form or substance. Example: Ancient alchemists dreamed of being able to transmute lead into gold.",
+      "meaning2": "",
+      "studentChallenge": "The chef seemed to ___ simple ingredients into an incredible meal.",
+      "sentence": ""
+    },
+    {
+      "word": "revolutionize",
+      "partOfSpeech": "verb",
+      "meaning1": "To completely change the way something is done or thought about. Example: The invention of the internet helped revolutionize how people communicate around the world.",
+      "meaning2": "",
+      "studentChallenge": "New technology could ___ the way doctors treat patients in the future.",
+      "sentence": ""
+    },
+    {
+      "word": "modification",
+      "partOfSpeech": "noun",
+      "meaning1": "A small change or adjustment made to improve something. Example: The teacher made a modification to the test so students had more time to finish.",
+      "meaning2": "",
+      "studentChallenge": "With one simple ___ to the recipe, the cookies turned out perfectly.",
+      "sentence": ""
+    },
+    {
+      "word": "deteriorate",
+      "partOfSpeech": "verb",
+      "meaning1": "To become worse over time. Example: If you don't water a garden, the plants will slowly deteriorate and die.",
+      "meaning2": "",
+      "studentChallenge": "The old bridge began to ___ after years without repairs.",
+      "sentence": ""
+    },
+    {
+      "word": "reconfigure",
+      "partOfSpeech": "verb",
+      "meaning1": "To rearrange or set up something in a new way. Example: We had to reconfigure the classroom desks to make room for the science fair projects.",
+      "meaning2": "",
+      "studentChallenge": "The IT teacher helped us ___ the computers so they could connect to the new printer.",
+      "sentence": ""
+    },
+    {
+      "word": "progression",
+      "partOfSpeech": "noun",
+      "meaning1": "The process of developing or moving forward step by step. Example: The progression from beginner to expert takes years of practice.",
+      "meaning2": "",
+      "studentChallenge": "Her ___ in math this year has been remarkable — she went from struggling to excelling.",
+      "sentence": ""
+    },
+    {
+      "word": "overhaul",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A thorough examination and repair of something. Example: The mechanic gave the old car a complete overhaul so it would run like new.",
+      "meaning2": "To take apart and fix completely. Example: The city plans to overhaul the entire bus system next year.",
+      "studentChallenge": "The team decided to give the clubhouse a complete ___ before the new season.",
+      "sentence": ""
+    },
+    {
+      "word": "dismantle",
+      "partOfSpeech": "verb",
+      "meaning1": "To take something apart piece by piece. Example: The workers had to carefully dismantle the old playground before building the new one.",
+      "meaning2": "",
+      "studentChallenge": "Before moving, we had to ___ the bookshelf and pack each piece separately.",
+      "sentence": ""
+    },
+    {
+      "word": "consolidate",
+      "partOfSpeech": "verb",
+      "meaning1": "To combine several things into one single, stronger whole. Example: The teacher asked us to consolidate our notes into one neat study guide.",
+      "meaning2": "To strengthen or make more secure. Example: After the win, the team worked hard to consolidate their lead in the standings.",
+      "studentChallenge": "We decided to ___ all our supplies into one big box to save space.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The caterpillar underwent a stunning _______ as it slowly changed into a colorful butterfly.",
+      "sentence2": "The neighborhood went through a _______ when the empty lots were turned into beautiful community gardens.",
+      "options": ["upheaval", "metamorphosis", "modification", "progression"],
+      "correctIndex": 1,
+      "correctAnswer": "metamorphosis"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The sudden _______ in government leadership caused confusion across the entire country.",
+      "sentence2": "Moving to a different state was a major _______ for the family, changing everything about their daily routine.",
+      "options": ["overhaul", "upheaval", "consolidate", "reconfigure"],
+      "correctIndex": 1,
+      "correctAnswer": "upheaval"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The costume designer managed to _______ the plain dress into a glittering royal gown for the play.",
+      "sentence2": "A fresh coat of snow seemed to _______ the entire park into a winter wonderland overnight.",
+      "options": ["transfigure", "dismantle", "deteriorate", "transmute"],
+      "correctIndex": 0,
+      "correctAnswer": "transfigure"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Ancient alchemists spent years trying to _______ ordinary metals into pure gold.",
+      "sentence2": "The writer was able to _______ her sadness into a powerful poem that moved the whole audience.",
+      "options": ["revolutionize", "consolidate", "transmute", "reconfigure"],
+      "correctIndex": 2,
+      "correctAnswer": "transmute"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Electric cars could _______ the way people travel and reduce pollution around the world.",
+      "sentence2": "The new app promises to _______ how students study by making practice more interactive and fun.",
+      "options": ["deteriorate", "revolutionize", "dismantle", "modification"],
+      "correctIndex": 1,
+      "correctAnswer": "revolutionize"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The engineer made a small _______ to the bridge design to make it safer during storms.",
+      "sentence2": "With just one _______ to the recipe, the chef turned a good dish into a great one.",
+      "options": ["modification", "upheaval", "metamorphosis", "progression"],
+      "correctIndex": 0,
+      "correctAnswer": "modification"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "If the roof is not repaired soon, the entire building will continue to _______.",
+      "sentence2": "Without regular practice, a musician's skills can _______ over time.",
+      "options": ["consolidate", "overhaul", "transmute", "deteriorate"],
+      "correctIndex": 3,
+      "correctAnswer": "deteriorate"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The teacher decided to _______ the seating chart so students could work with new partners.",
+      "sentence2": "The IT team needed to _______ the network after adding twenty new computers to the lab.",
+      "options": ["reconfigure", "dismantle", "transfigure", "revolutionize"],
+      "correctIndex": 0,
+      "correctAnswer": "reconfigure"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The _______ from crawling to walking is an exciting milestone for every toddler.",
+      "sentence2": "Scientists tracked the _______ of the disease to understand how it spread from town to town.",
+      "options": ["modification", "upheaval", "progression", "overhaul"],
+      "correctIndex": 2,
+      "correctAnswer": "progression"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The mechanic gave the old truck a complete _______ so it could pass the safety inspection.",
+      "sentence2": "The school board voted to _______ the outdated science curriculum from top to bottom.",
+      "options": ["metamorphosis", "deteriorate", "overhaul", "consolidate"],
+      "correctIndex": 2,
+      "correctAnswer": "overhaul"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The crew began to _______ the old stage set, carefully removing each piece of scenery.",
+      "sentence2": "Before recycling the computer, the technician had to _______ it and sort the parts.",
+      "options": ["dismantle", "transmute", "reconfigure", "revolutionize"],
+      "correctIndex": 0,
+      "correctAnswer": "dismantle"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The two small libraries decided to _______ their book collections into one larger shared library.",
+      "sentence2": "After winning three games in a row, the team worked to _______ their position at the top of the league.",
+      "options": ["transfigure", "consolidate", "progression", "modification"],
+      "correctIndex": 1,
+      "correctAnswer": "consolidate"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "metamorphosis",
+      "upheaval",
+      "transfigure",
+      "transmute",
+      "revolutionize",
+      "modification",
+      "deteriorate",
+      "reconfigure",
+      "progression",
+      "overhaul",
+      "dismantle",
+      "consolidate"
+    ],
+    "passage": "When the old science museum began to _(1)_, the city council knew something had to change. Cracked walls and flickering lights were signs that a full _(2)_ was overdue. The first step was to _(3)_ the outdated exhibits piece by piece and haul them away.\n\nThe lead architect wanted to _(4)_ the floor plan so every hall connected to a central garden. Her team planned to _(5)_ recycled steel into gleaming new display frames — proof that old materials could have new life. A single _(6)_ to the lighting system filled every room with natural sunlight.\n\nAs construction continued, the _(7)_ from dusty ruin to shining museum amazed the whole neighborhood. Artists were invited to _(8)_ the bare concrete walls into colorful murals showing the history of science. The new interactive exhibits promised to _(9)_ how children learn about biology, chemistry, and physics.\n\nOn opening day, visitors gasped at the complete _(10)_ of the building. What had once been dull and forgotten now glowed with energy. The mayor said the project proved that even a great _(11)_ can lead to something wonderful. The city voted to _(12)_ all future museum funding into one dedicated budget to keep the building strong for generations.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "deteriorate",
+        "options": ["deteriorate", "transmute", "consolidate", "overhaul"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "overhaul",
+        "options": ["modification", "overhaul", "progression", "upheaval"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "dismantle",
+        "options": ["reconfigure", "dismantle", "transfigure", "revolutionize"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "reconfigure",
+        "options": ["reconfigure", "transmute", "consolidate", "metamorphosis"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "transmute",
+        "options": ["deteriorate", "dismantle", "transmute", "modification"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "modification",
+        "options": ["upheaval", "modification", "overhaul", "progression"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "progression",
+        "options": ["metamorphosis", "progression", "transfigure", "revolutionize"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "transfigure",
+        "options": ["transfigure", "deteriorate", "consolidate", "dismantle"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "revolutionize",
+        "options": ["reconfigure", "revolutionize", "upheaval", "transmute"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "metamorphosis",
+        "options": ["overhaul", "modification", "metamorphosis", "progression"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "upheaval",
+        "options": ["upheaval", "transfigure", "deteriorate", "dismantle"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "consolidate",
+        "options": ["revolutionize", "reconfigure", "consolidate", "metamorphosis"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "deteriorate",
+        "scale": ["Weaken", "Decline", "Deteriorate"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "modification",
+        "scale": ["Modification", "Renovation", "Overhaul"],
+        "vocabPosition": 0
+      },
+      {
+        "vocabWord": "upheaval",
+        "scale": ["Shift", "Disruption", "Upheaval"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "progression",
+        "scale": ["Step", "Advancement", "Progression"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "metamorphosis",
+        "words": ["Transformation", "Stagnation", "Change", "Evolution"],
+        "imposterIndex": 1,
+        "imposterWord": "Stagnation"
+      },
+      {
+        "vocabWord": "transfigure",
+        "words": ["Alter", "Transform", "Preserve", "Reshape"],
+        "imposterIndex": 2,
+        "imposterWord": "Preserve"
+      },
+      {
+        "vocabWord": "transmute",
+        "words": ["Convert", "Maintain", "Transform", "Reshape"],
+        "imposterIndex": 1,
+        "imposterWord": "Maintain"
+      },
+      {
+        "vocabWord": "revolutionize",
+        "words": ["Transform", "Innovate", "Modernize", "Stagnate"],
+        "imposterIndex": 3,
+        "imposterWord": "Stagnate"
+      },
+      {
+        "vocabWord": "deteriorate",
+        "words": ["Improve", "Decay", "Crumble", "Worsen"],
+        "imposterIndex": 0,
+        "imposterWord": "Improve"
+      },
+      {
+        "vocabWord": "reconfigure",
+        "words": ["Rearrange", "Reorganize", "Freeze", "Restructure"],
+        "imposterIndex": 2,
+        "imposterWord": "Freeze"
+      },
+      {
+        "vocabWord": "dismantle",
+        "words": ["Assemble", "Demolish", "Deconstruct", "Unbuild"],
+        "imposterIndex": 0,
+        "imposterWord": "Assemble"
+      },
+      {
+        "vocabWord": "consolidate",
+        "words": ["Scatter", "Combine", "Merge", "Unify"],
+        "imposterIndex": 0,
+        "imposterWord": "Scatter"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

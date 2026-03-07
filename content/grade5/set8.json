@@ -1,0 +1,405 @@
+{
+  "grade": 5,
+  "setNumber": 8,
+  "words": [
+    "phenomenon",
+    "combustion",
+    "catalyst",
+    "velocity",
+    "calibrate",
+    "condense",
+    "spectrum",
+    "theoretical",
+    "corrosion",
+    "contraption",
+    "irrigation",
+    "prototype"
+  ],
+  "sources": [
+    "Common Core Grade 5",
+    "Sadlier Vocabulary Workshop",
+    "Wordly Wise 3000",
+    "Flocabulary Grade 5",
+    "CKLA Grade 5",
+    "Tier 2 Academic"
+  ],
+  "genre": "inventor's workshop",
+  "story": {
+    "genre": "inventor's workshop",
+    "characters": [
+      "Ruben",
+      "Khadija",
+      "Hiro"
+    ],
+    "parts": [
+      {
+        "title": "The Workshop",
+        "text": "Ruben, Khadija, and Hiro spent every Saturday in their inventor's workshop, a cluttered garage filled with tools and wild ideas. Their latest project was a **prototype** of a machine that could water gardens using an **irrigation** system powered by sunlight. Khadija built a strange-looking **contraption** from old bicycle parts and copper pipes."
+      },
+      {
+        "title": "The Science Behind It",
+        "text": "Hiro explained that heat from the sun would cause water to **condense** inside a glass tube, creating droplets that dripped into the garden. Ruben studied the full **spectrum** of light with a prism to find which colors produced the most heat. He needed to **calibrate** the sensors so they turned on at exactly the right temperature. The idea was still **theoretical**, meaning it existed only on paper."
+      },
+      {
+        "title": "The First Test",
+        "text": "When they tested the machine, a spark caused a brief flash of **combustion** inside the fuel chamber. Khadija added a chemical **catalyst** to speed up the reaction and keep the engine running. Water shot through the pipes at surprising **velocity**, much faster than expected. They noticed brown **corrosion** forming on the metal joints where water had leaked. Hiro called it a remarkable **phenomenon** that none of them had witnessed before."
+      },
+      {
+        "title": "Back to the Drawing Board",
+        "text": "After the test, the three inventors reviewed their notes. Some parts worked perfectly, while others needed improvement. Ruben suggested replacing the rusted metal with plastic, and Khadija sketched a better pump design. They agreed that inventing was not about getting it right the first time — it was about learning and trying again."
+      }
+    ],
+    "wordCount": 242
+  },
+  "definitions": [
+    {
+      "word": "phenomenon",
+      "partOfSpeech": "noun",
+      "meaning1": "A fact, event, or situation that can be observed and studied. Example: A rainbow is a natural phenomenon caused by sunlight passing through raindrops.",
+      "meaning2": "A remarkable or extraordinary person or thing. Example: The young singer was considered a phenomenon after her first concert.",
+      "studentChallenge": "The northern lights are a beautiful natural ___ that lights up the sky.",
+      "sentence": ""
+    },
+    {
+      "word": "combustion",
+      "partOfSpeech": "noun",
+      "meaning1": "The process of burning, in which a substance reacts with oxygen and produces heat and light. Example: The combustion of wood in the fireplace kept the cabin warm all winter.",
+      "meaning2": "",
+      "studentChallenge": "The engine works by using ___ to burn fuel and create energy.",
+      "sentence": ""
+    },
+    {
+      "word": "catalyst",
+      "partOfSpeech": "noun",
+      "meaning1": "A substance that speeds up a chemical reaction without being used up itself. Example: The scientist added a catalyst to make the experiment finish faster.",
+      "meaning2": "Something that causes an important change or event to happen. Example: The new park became a catalyst for bringing the neighborhood together.",
+      "studentChallenge": "Adding the special powder acted as a ___ that made the reaction happen in seconds.",
+      "sentence": ""
+    },
+    {
+      "word": "velocity",
+      "partOfSpeech": "noun",
+      "meaning1": "The speed of something moving in a particular direction. Example: The velocity of the roller coaster increased as it raced down the steep hill.",
+      "meaning2": "",
+      "studentChallenge": "The rocket reached an incredible ___ as it blasted off into space.",
+      "sentence": ""
+    },
+    {
+      "word": "calibrate",
+      "partOfSpeech": "verb",
+      "meaning1": "To adjust an instrument or tool so it gives accurate measurements. Example: The scientist had to calibrate the thermometer before recording any temperatures.",
+      "meaning2": "",
+      "studentChallenge": "You need to ___ the scale before weighing the ingredients for the recipe.",
+      "sentence": ""
+    },
+    {
+      "word": "condense",
+      "partOfSpeech": "verb",
+      "meaning1": "To change from a gas or vapor into a liquid, usually by cooling. Example: Water droplets condense on the outside of a cold glass on a hot day.",
+      "meaning2": "To make something shorter or smaller. Example: The teacher asked us to condense our reports to one page.",
+      "studentChallenge": "On chilly mornings, you can see steam ___ into tiny water droplets on the window.",
+      "sentence": ""
+    },
+    {
+      "word": "spectrum",
+      "partOfSpeech": "noun",
+      "meaning1": "The band of colors produced when white light is separated, such as in a rainbow. Example: A prism splits light into every color of the spectrum.",
+      "meaning2": "A complete range of something. Example: The students shared a wide spectrum of opinions during the class debate.",
+      "studentChallenge": "When sunlight passes through a prism, it breaks into the full ___ of colors.",
+      "sentence": ""
+    },
+    {
+      "word": "theoretical",
+      "partOfSpeech": "adjective",
+      "meaning1": "Based on ideas or possibilities rather than actual experience or proof. Example: The plan was only theoretical because no one had tried it in real life yet.",
+      "meaning2": "",
+      "studentChallenge": "The idea sounds great, but it is still ___ and has never been tested.",
+      "sentence": ""
+    },
+    {
+      "word": "corrosion",
+      "partOfSpeech": "noun",
+      "meaning1": "The gradual destruction of metal or other material by a chemical reaction, such as rust. Example: Years of corrosion had turned the iron gate a reddish-brown color.",
+      "meaning2": "",
+      "studentChallenge": "The old bridge showed signs of ___ where the metal had rusted and weakened.",
+      "sentence": ""
+    },
+    {
+      "word": "contraption",
+      "partOfSpeech": "noun",
+      "meaning1": "A machine or device that looks strange or complicated. Example: The inventor built a wild contraption out of gears, springs, and rubber bands.",
+      "meaning2": "",
+      "studentChallenge": "He built a funny-looking ___ out of cardboard tubes and tape to launch paper airplanes.",
+      "sentence": ""
+    },
+    {
+      "word": "irrigation",
+      "partOfSpeech": "noun",
+      "meaning1": "The system or process of supplying water to land or crops through pipes, channels, or sprinklers. Example: Farmers use irrigation to keep their fields watered during the dry season.",
+      "meaning2": "",
+      "studentChallenge": "The ___ system delivered water to every row of crops in the field.",
+      "sentence": ""
+    },
+    {
+      "word": "prototype",
+      "partOfSpeech": "noun",
+      "meaning1": "The first model of something, built to test an idea before making the final version. Example: The engineer built a prototype of the new car before the factory started production.",
+      "meaning2": "",
+      "studentChallenge": "Before manufacturing the toy, the company tested a ___ to make sure it worked properly.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "A rainbow is a natural _______ caused by sunlight passing through tiny water droplets in the air.",
+      "sentence2": "The young gymnast was considered a _______ after winning three gold medals at just twelve years old.",
+      "options": ["spectrum", "phenomenon", "catalyst", "velocity"],
+      "correctIndex": 1,
+      "correctAnswer": "phenomenon"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The _______ of gasoline inside the engine is what makes a car move forward.",
+      "sentence2": "The campers watched the _______ of dry leaves as the fire crackled and grew in the fire pit.",
+      "options": ["corrosion", "combustion", "irrigation", "prototype"],
+      "correctIndex": 1,
+      "correctAnswer": "combustion"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The scientist added a _______ to the mixture to speed up the chemical reaction.",
+      "sentence2": "The new community garden became a _______ for bringing neighbors together for the first time.",
+      "options": ["catalyst", "contraption", "spectrum", "phenomenon"],
+      "correctIndex": 0,
+      "correctAnswer": "catalyst"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The _______ of the baseball increased as it flew off the bat and sailed over the fence.",
+      "sentence2": "Scientists measured the _______ of the wind during the hurricane to determine its strength.",
+      "options": ["combustion", "velocity", "calibrate", "corrosion"],
+      "correctIndex": 1,
+      "correctAnswer": "velocity"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The mechanic needed to _______ the speedometer so it would show the correct speed.",
+      "sentence2": "Before the experiment began, the students had to _______ the measuring tools for accurate results.",
+      "options": ["condense", "calibrate", "irrigation", "theoretical"],
+      "correctIndex": 1,
+      "correctAnswer": "calibrate"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "On cold mornings, water vapor will _______ on the inside of car windows, making them foggy.",
+      "sentence2": "The editor asked the writer to _______ the long article into a shorter summary for the newspaper.",
+      "options": ["condense", "combustion", "catalyst", "prototype"],
+      "correctIndex": 0,
+      "correctAnswer": "condense"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "A prism splits white light into the full _______ of colors from red to violet.",
+      "sentence2": "The art show featured a wide _______ of styles, from realistic paintings to abstract sculptures.",
+      "options": ["phenomenon", "contraption", "spectrum", "corrosion"],
+      "correctIndex": 2,
+      "correctAnswer": "spectrum"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The plan to build a city on Mars is still _______ because no one has actually tried it.",
+      "sentence2": "Her ideas about time travel were interesting but entirely _______, with no real proof behind them.",
+      "options": ["theoretical", "velocity", "irrigation", "calibrate"],
+      "correctIndex": 0,
+      "correctAnswer": "theoretical"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Years of _______ had eaten away at the ship's metal hull, leaving it weak and full of holes.",
+      "sentence2": "The plumber warned that _______ inside the old pipes could cause a leak if they were not replaced.",
+      "options": ["combustion", "prototype", "phenomenon", "corrosion"],
+      "correctIndex": 3,
+      "correctAnswer": "corrosion"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The inventor built a funny-looking _______ out of tin cans, wire, and rubber bands.",
+      "sentence2": "Nobody believed the odd _______ would actually work until it started pouring water perfectly.",
+      "options": ["contraption", "spectrum", "catalyst", "irrigation"],
+      "correctIndex": 0,
+      "correctAnswer": "contraption"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The farmers depended on an _______ system to water their crops during the long, dry summer.",
+      "sentence2": "Ancient civilizations built clever _______ channels to bring water from rivers to their farmland.",
+      "options": ["velocity", "theoretical", "irrigation", "condense"],
+      "correctIndex": 2,
+      "correctAnswer": "irrigation"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The engineer tested the _______ of the new airplane wing before building the full-size version.",
+      "sentence2": "The students presented a working _______ of their solar-powered fan at the science fair.",
+      "options": ["calibrate", "corrosion", "contraption", "prototype"],
+      "correctIndex": 3,
+      "correctAnswer": "prototype"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "phenomenon",
+      "combustion",
+      "catalyst",
+      "velocity",
+      "calibrate",
+      "condense",
+      "spectrum",
+      "theoretical",
+      "corrosion",
+      "contraption",
+      "irrigation",
+      "prototype"
+    ],
+    "passage": "Hiro had always dreamed of building machines, so when his school announced an invention fair, he knew exactly what to create. He wanted to build a _(1)_ of a device that could help farmers water their crops more easily. The idea was to create a solar-powered _(2)_ system that would deliver water straight to the roots of plants.\n\nFirst, Hiro assembled a strange-looking _(3)_ from old pipes, a small motor, and a glass tube. He used a prism to study the _(4)_ of light and figure out which colors carried the most energy. Then he had to _(5)_ the temperature sensor so it would activate at exactly the right moment. His plan was still _(6)_ — it looked great on paper, but he had not tested it yet.\n\nDuring his first test, a tiny spark caused a flash of _(7)_ inside the motor chamber. Hiro quickly added a chemical _(8)_ to keep the reaction going at a steady pace. Water shot through the tubes at high _(9)_, spraying across the table. He also spotted brown _(10)_ forming on the metal fittings where moisture had collected. Steam began to _(11)_ on the cool glass, forming tiny droplets that rolled down the side.\n\nThe judges called Hiro's invention a true _(12)_ — something remarkable that none of them had ever seen at a school fair before. He won first place and a chance to present his design at the city science museum.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "prototype",
+        "options": ["prototype", "contraption", "phenomenon", "catalyst"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "irrigation",
+        "options": ["combustion", "irrigation", "spectrum", "velocity"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "contraption",
+        "options": ["contraption", "prototype", "corrosion", "calibrate"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "spectrum",
+        "options": ["phenomenon", "theoretical", "spectrum", "irrigation"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "calibrate",
+        "options": ["condense", "calibrate", "combustion", "catalyst"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "theoretical",
+        "options": ["theoretical", "velocity", "corrosion", "prototype"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "combustion",
+        "options": ["irrigation", "phenomenon", "combustion", "spectrum"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "catalyst",
+        "options": ["catalyst", "contraption", "calibrate", "condense"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "velocity",
+        "options": ["corrosion", "velocity", "theoretical", "prototype"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "corrosion",
+        "options": ["combustion", "irrigation", "corrosion", "phenomenon"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "condense",
+        "options": ["condense", "spectrum", "catalyst", "velocity"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "phenomenon",
+        "options": ["calibrate", "phenomenon", "contraption", "theoretical"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "velocity",
+        "scale": ["Crawl", "Speed", "Velocity"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "combustion",
+        "scale": ["Spark", "Flame", "Combustion"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "condense",
+        "scale": ["Condense", "Reduce", "Expand"],
+        "vocabPosition": 0
+      },
+      {
+        "vocabWord": "prototype",
+        "scale": ["Prototype", "Draft", "Final"],
+        "vocabPosition": 0
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "phenomenon",
+        "words": ["Event", "Occurrence", "Wonder", "Ordinary"],
+        "imposterIndex": 3,
+        "imposterWord": "Ordinary"
+      },
+      {
+        "vocabWord": "velocity",
+        "words": ["Speed", "Pace", "Slowness", "Swiftness"],
+        "imposterIndex": 2,
+        "imposterWord": "Slowness"
+      },
+      {
+        "vocabWord": "theoretical",
+        "words": ["Proven", "Hypothetical", "Imagined", "Unproven"],
+        "imposterIndex": 0,
+        "imposterWord": "Proven"
+      },
+      {
+        "vocabWord": "corrosion",
+        "words": ["Decay", "Rust", "Erosion", "Preservation"],
+        "imposterIndex": 3,
+        "imposterWord": "Preservation"
+      },
+      {
+        "vocabWord": "catalyst",
+        "words": ["Trigger", "Spark", "Barrier", "Accelerator"],
+        "imposterIndex": 2,
+        "imposterWord": "Barrier"
+      },
+      {
+        "vocabWord": "calibrate",
+        "words": ["Adjust", "Fine-tune", "Set", "Disorder"],
+        "imposterIndex": 3,
+        "imposterWord": "Disorder"
+      },
+      {
+        "vocabWord": "contraption",
+        "words": ["Device", "Machine", "Gadget", "Nothing"],
+        "imposterIndex": 3,
+        "imposterWord": "Nothing"
+      },
+      {
+        "vocabWord": "irrigation",
+        "words": ["Watering", "Drainage", "Sprinkling", "Drought"],
+        "imposterIndex": 3,
+        "imposterWord": "Drought"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

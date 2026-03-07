@@ -1,0 +1,589 @@
+{
+  "grade": 3,
+  "setNumber": 26,
+  "words": [
+    "obscure",
+    "govern",
+    "ability",
+    "pedlar",
+    "permanent",
+    "customs",
+    "inform",
+    "remove",
+    "uproar",
+    "quantity",
+    "genre",
+    "chirp"
+  ],
+  "sources": [
+    "Australian Curriculum",
+    "CBSE India",
+    "Common Core Grade 3",
+    "Common Core Grade 4",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Scholastic",
+    "Tier 2 Academic",
+    "Wit & Wisdom Grade 3",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "real science discovery",
+  "story": {
+    "genre": "real science discovery",
+    "characters": [
+      "Aarav",
+      "Dev",
+      "Arnav"
+    ],
+    "parts": [
+      {
+        "title": "The Curious Mind",
+        "text": "Aarav loved science more than anything. Her favorite **genre** of reading was popular science books \u2014 she owned a large **quantity** of them, stacked to the ceiling. Her teacher, Mr. Dev, said her **ability** to understand difficult concepts was remarkable \u2014 far beyond what most students her age could **grasp**. Even **obscure** experiments that other students found confusing became clear to Aarav within minutes.",
+        "wordCount": 66
+      },
+      {
+        "title": "The Unexpected Challenge",
+        "text": "During the science fair, a sudden power cut hit the school and caused an **uproar** \u2014 students shouted and judges scrambled for candles. Mr. Dev rushed to **inform** the head teacher so she could decide whether to continue. Arnav helped **remove** the broken extension cable that had caused the problem. The school's **customs** for emergencies said all events must **govern**ed by the head teacher's decision alone.",
+        "wordCount": 68
+      },
+      {
+        "title": "The Breakthrough",
+        "text": "Using only candlelight, Aarav set up her crystal-growing experiment \u2014 the same **obscure** technique she had read about in a library book no one else had checked out. The results were **permanent**: once the crystals formed on the dish, they could not be dissolved. A visiting **pedlar** selling science kits happened to wander in and was so impressed he offered to stock her design. \"These crystals **chirp** with color in the light,\" Arnav whispered.",
+        "wordCount": 76
+      },
+      {
+        "title": "The Award",
+        "text": "The judges were amazed. Aarav not only won first place but also received a special award for creativity under pressure. Mr. Dev told the class, \"Science isn't just about fancy equipment. It's about curiosity, patience, and the courage to keep going when things get hard.\" Aarav held her trophy high and smiled \u2014 this was the best day of her life.",
+        "wordCount": 62
+      }
+    ],
+    "wordCount": 272
+  },
+  "definitions": [
+    {
+      "word": "obscure",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not well known or hard to understand. Example: The librarian helped us find an obscure book about ancient Egyptian toys that nobody had checked out in years.",
+      "meaning2": "To hide or cover something so it is hard to see. Example: Thick clouds obscured the mountaintop from view.",
+      "studentChallenge": "The meaning of the old poem was ___ and the students needed help to understand it.",
+      "sentence": ""
+    },
+    {
+      "word": "govern",
+      "partOfSpeech": "verb",
+      "meaning1": "To officially control and lead a country or state. Example: The president governs the nation.",
+      "meaning2": "",
+      "studentChallenge": "Rules ___ how we behave in school.",
+      "sentence": ""
+    },
+    {
+      "word": "ability",
+      "partOfSpeech": "noun",
+      "meaning1": "The power or skill to do something. Example: She has the ability to solve difficult math problems.",
+      "meaning2": "",
+      "studentChallenge": "His ___ to play the piano amazed everyone.",
+      "sentence": ""
+    },
+    {
+      "word": "pedlar",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who travels from place to place selling small goods. Example: The pedlar opened his cart and displayed colourful ribbons, buttons, and handmade jewellery.",
+      "meaning2": "",
+      "studentChallenge": "In the old story, a travelling ___ knocked on the cottage door selling pots and pans.",
+      "sentence": ""
+    },
+    {
+      "word": "permanent",
+      "partOfSpeech": "adjective",
+      "meaning1": "Lasting forever or for a very long time; not temporary. Example: The family moved to a permanent home after living in a caravan for two years.",
+      "meaning2": "",
+      "studentChallenge": "The ink stain on the carpet was ___ and could not be washed out no matter what we tried.",
+      "sentence": ""
+    },
+    {
+      "word": "customs",
+      "partOfSpeech": "noun",
+      "meaning1": "The traditional ways of behaving or doing things in a society. Example: Learning about the customs of other countries helps us understand and respect different people.",
+      "meaning2": "The place at an airport or border where officials check what people are bringing into a country. Example: We had to show our passports and bags at customs before entering the country.",
+      "studentChallenge": "Different countries have different holiday ___ that make celebrations unique and special.",
+      "sentence": ""
+    },
+    {
+      "word": "inform",
+      "partOfSpeech": "verb",
+      "meaning1": "To tell someone facts or give them information. Example: The teacher sent a letter home to inform parents about the upcoming field trip.",
+      "meaning2": "",
+      "studentChallenge": "Please ___ the office if you are going to be absent from school tomorrow.",
+      "sentence": ""
+    },
+    {
+      "word": "remove",
+      "partOfSpeech": "verb",
+      "meaning1": "To take something away from where it is. Example: Please remove your muddy boots before walking on the clean carpet.",
+      "meaning2": "",
+      "studentChallenge": "The dentist had to ___ the wobbly tooth so the new one could grow in straight.",
+      "sentence": ""
+    },
+    {
+      "word": "uproar",
+      "partOfSpeech": "noun",
+      "meaning1": "A situation of loud noise, confusion, or angry protest. Example: The announcement that recess would be canceled caused an uproar among all the students.",
+      "meaning2": "",
+      "studentChallenge": "The crowd was in an ___ when the referee made an unfair call during the game.",
+      "sentence": ""
+    },
+    {
+      "word": "quantity",
+      "partOfSpeech": "noun",
+      "meaning1": "The amount or number of something. Example: The recipe calls for a small quantity of salt and a large quantity of flour.",
+      "meaning2": "",
+      "studentChallenge": "We ordered a large ___ of art supplies so every student would have enough for the project.",
+      "sentence": ""
+    },
+    {
+      "word": "genre",
+      "partOfSpeech": "noun",
+      "meaning1": "A category or type of art, music, or literature. Example: Mystery is her favorite genre of books because she loves solving clues.",
+      "meaning2": "",
+      "studentChallenge": "Science fiction is a ___ that includes stories about space travel, robots, and the future.",
+      "sentence": ""
+    },
+    {
+      "word": "chirp",
+      "partOfSpeech": "verb",
+      "meaning1": "To make a short, high sound like a small bird or insect. Example: The baby birds began to chirp loudly when their mother returned to the nest with food.",
+      "meaning2": "",
+      "studentChallenge": "Every morning, the crickets ___ outside my window just before the sun comes up.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The librarian helped us track down an ___ book about ancient toys \u2014 so little-known that nobody had borrowed it in twenty years.",
+      "sentence2": "The meaning of the old poem was so ___ that the students needed the teacher's help to understand a single line.",
+      "options": [
+        "genre",
+        "permanent",
+        "obscure",
+        "ability"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "obscure"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Elected officials are chosen by the people to ___ the nation and make important decisions.",
+      "sentence2": "Clear rules ___ how students behave in school, keeping everyone safe and focused.",
+      "options": [
+        "pedlar",
+        "govern",
+        "inform",
+        "remove"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "govern"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "She has a natural ___ to solve difficult math problems that most students find impossible.",
+      "sentence2": "His ___ to play the piano with perfect timing amazed everyone who heard him perform.",
+      "options": [
+        "inform",
+        "quantity",
+        "ability",
+        "chirp"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "ability"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The ___ flung open his cart to show colourful ribbons, carved buttons, and glittering handmade jewellery.",
+      "sentence2": "In the old story, a travelling ___ knocked on every cottage door in the village, selling pots and pans.",
+      "options": [
+        "inform",
+        "ability",
+        "pedlar",
+        "chirp"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "pedlar"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "After years of moving, the family finally settled into a ___ home they would not have to leave.",
+      "sentence2": "The ink stain on the carpet was ___ \u2014 no cleaner or scrubbing could remove even a trace of it.",
+      "options": [
+        "genre",
+        "obscure",
+        "remove",
+        "permanent"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "permanent"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Learning about the ___ of other countries helps us understand and respect how different people live.",
+      "sentence2": "Different countries have their own holiday ___ \u2014 special ways of celebrating that make each culture unique.",
+      "options": [
+        "quantity",
+        "ability",
+        "genre",
+        "customs"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "customs"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The teacher sent a letter home to ___ parents about the upcoming field trip and its costs.",
+      "sentence2": "Please ___ the office by eight o'clock if you are going to be absent from school tomorrow.",
+      "options": [
+        "inform",
+        "obscure",
+        "govern",
+        "customs"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "inform"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Please ___ your muddy boots at the door before stepping onto the clean carpet inside.",
+      "sentence2": "The dentist had to carefully ___ the wobbly tooth so the new one could grow in straight.",
+      "options": [
+        "remove",
+        "uproar",
+        "inform",
+        "chirp"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "remove"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The announcement that recess was canceled caused an ___ \u2014 shouts and protests filled the corridor.",
+      "sentence2": "The crowd erupted into an ___ when the referee made a clearly unfair call at the end of the game.",
+      "options": [
+        "ability",
+        "uproar",
+        "genre",
+        "customs"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "uproar"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The recipe calls for a tiny ___ of salt and a large ___ of flour \u2014 measure carefully.",
+      "sentence2": "We ordered a large ___ of art supplies so that every student in the class would have plenty to work with.",
+      "options": [
+        "ability",
+        "customs",
+        "genre",
+        "quantity"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "quantity"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Mystery is her favorite ___ of book \u2014 she loves following the clues and solving the puzzle herself.",
+      "sentence2": "Science fiction is a ___ of storytelling that features space travel, robots, and worlds of the future.",
+      "options": [
+        "genre",
+        "ability",
+        "customs",
+        "permanent"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "genre"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The baby birds began to ___ loudly and hungrily the moment their mother returned to the nest.",
+      "sentence2": "Every morning, the crickets begin to ___ just before sunrise, filling the garden with tiny bright sounds.",
+      "options": [
+        "quantity",
+        "chirp",
+        "inform",
+        "uproar"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "chirp"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "obscure",
+      "govern",
+      "ability",
+      "pedlar",
+      "permanent",
+      "customs",
+      "inform",
+      "remove",
+      "uproar",
+      "quantity",
+      "genre",
+      "chirp"
+    ],
+    "passage": "The tiny island kingdom was so _(1)_ \u2014 so little-known and hidden away \u2014 that it did not appear on most maps. A council of five elders met each morning to _(2)_ the island, making all the laws and decisions that kept daily life running smoothly. The young girl had a remarkable _(3)_ for languages, picking up new words and phrases so easily that she seemed to learn a new tongue in days. A traveling _(4)_ arrived at the village square, pulling a cart piled high with ribbons, buttons, and handmade pots to sell. The carvings on the cliff were _(5)_ \u2014 etched so deeply into stone that not even the strongest storm could wash them away. The islanders had their own _(6)_ for greeting newcomers: they placed a garland of flowers around each visitor's neck and sang a welcome song. The council sent a messenger to _(7)_ the outer villages about the upcoming harvest festival so that everyone could prepare in time. Before the ceremony, each elder had to _(8)_ their sandals, placing them carefully outside the temple door before stepping inside. The announcement that fishing would be banned for a month caused an _(9)_ \u2014 shouts, protests, and arguments erupted from every corner of the market. The fishermen had brought in a record _(10)_ of fish \u2014 more than the village could eat in a month \u2014 and filled every basket to overflowing. Stories told around the evening fire belonged to a special _(11)_ of their own \u2014 part legend, part history, part dream. At dawn, the birds began to _(12)_ from the treetops, their quick bright calls filling the warm morning air.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "obscure",
+        "options": [
+          "obscure",
+          "quantity",
+          "permanent",
+          "uproar"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "govern",
+        "options": [
+          "govern",
+          "genre",
+          "customs",
+          "uproar"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "ability",
+        "options": [
+          "ability",
+          "obscure",
+          "inform",
+          "genre"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "pedlar",
+        "options": [
+          "pedlar",
+          "chirp",
+          "govern",
+          "remove"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "permanent",
+        "options": [
+          "permanent",
+          "genre",
+          "customs",
+          "obscure"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "customs",
+        "options": [
+          "customs",
+          "genre",
+          "uproar",
+          "permanent"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "inform",
+        "options": [
+          "inform",
+          "chirp",
+          "remove",
+          "pedlar"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "remove",
+        "options": [
+          "remove",
+          "obscure",
+          "genre",
+          "inform"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "uproar",
+        "options": [
+          "uproar",
+          "ability",
+          "quantity",
+          "chirp"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "quantity",
+        "options": [
+          "quantity",
+          "ability",
+          "pedlar",
+          "obscure"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "genre",
+        "options": [
+          "genre",
+          "quantity",
+          "govern",
+          "pedlar"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "chirp",
+        "options": [
+          "chirp",
+          "obscure",
+          "remove",
+          "customs"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "obscure",
+        "scale": [
+          "dim",
+          "obscure",
+          "hidden"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "govern",
+        "scale": [
+          "manage",
+          "govern",
+          "rule"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "ability",
+        "scale": [
+          "knack",
+          "ability",
+          "talent"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "pedlar",
+        "scale": [
+          "seller",
+          "pedlar",
+          "vendor"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "permanent",
+        "words": [
+          "lasting",
+          "temporary",
+          "fixed",
+          "eternal"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "temporary"
+      },
+      {
+        "vocabWord": "customs",
+        "words": [
+          "traditions",
+          "practices",
+          "habits",
+          "innovations"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "innovations"
+      },
+      {
+        "vocabWord": "inform",
+        "words": [
+          "tell",
+          "notify",
+          "advise",
+          "conceal"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "conceal"
+      },
+      {
+        "vocabWord": "remove",
+        "words": [
+          "add",
+          "take away",
+          "eliminate",
+          "extract"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "add"
+      },
+      {
+        "vocabWord": "uproar",
+        "words": [
+          "silence",
+          "noise",
+          "commotion",
+          "chaos"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "silence"
+      },
+      {
+        "vocabWord": "quantity",
+        "words": [
+          "amount",
+          "quality",
+          "number",
+          "measure"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "quality"
+      },
+      {
+        "vocabWord": "genre",
+        "words": [
+          "original",
+          "type",
+          "category",
+          "style"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "original"
+      },
+      {
+        "vocabWord": "chirp",
+        "words": [
+          "tweet",
+          "peep",
+          "sing",
+          "silence"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "silence"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

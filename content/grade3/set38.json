@@ -1,0 +1,585 @@
+{
+  "grade": 3,
+  "setNumber": 38,
+  "words": [
+    "tremendous",
+    "harbour",
+    "vessel",
+    "revolve",
+    "custom",
+    "style",
+    "shiver",
+    "active",
+    "tough",
+    "sufficient",
+    "force",
+    "produce"
+  ],
+  "sources": [
+    "Australian Curriculum",
+    "British KS2",
+    "CBSE India",
+    "Common Core Grade 3",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Flocabulary Grade 5",
+    "Tier 2 Academic",
+    "Wit & Wisdom Grade 3",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "real science discovery",
+  "story": {
+    "genre": "real science discovery",
+    "characters": [
+      "Priya",
+      "Ravi",
+      "Meera"
+    ],
+    "parts": [
+      {
+        "title": "The Curious Mind",
+        "text": "Priya loved science more than anything. All her experiment ideas seemed to **revolve** around one central question: what makes crystals grow faster? It was the **custom** in her science class to present findings to the group each Friday, a tradition Mr. Ravi had kept for years. Priya had her own **style** of presenting \u2014 calm, clear, and full of surprises."
+      },
+      {
+        "title": "The Unexpected Challenge",
+        "text": "During the science fair, the power cut out across the whole school. Priya felt a **shiver** run through her as the lights died and the hall went dark. She was **active** in her thinking, immediately checking what she could still do by candlelight. The judges worried that the storm outside would **force** them to cancel the fair entirely. But Priya was **tough** \u2014 she had worked too hard to give up now."
+      },
+      {
+        "title": "The Breakthrough",
+        "text": "Using candles, Priya set up her crystal-growing experiment at the edge of the table. She had **sufficient** materials in her kit to run the full demonstration without electricity. A large **vessel** of warm salt water sat at the centre of her display, and within minutes the crystals began forming. Meera and Ravi watched in silent wonder as the salt structures grew. Through the window, Priya could see the lights of the town **harbour**, ships docked safely in the calm water, and she thought how science felt exactly like that \u2014 a safe, sheltered place where ideas could always come home."
+      },
+      {
+        "title": "The Award",
+        "text": "The judges were amazed. Priya not only won first place but also received a special award for creativity under pressure. A **tremendous** cheer filled the hall when her name was called. Mr. Ravi told the class, \"Science isn't just about fancy equipment. It's about curiosity, patience, and the courage to keep going when things get hard.\" Priya watched the crystals catch the light and smiled \u2014 and she knew that every experiment she would ever **produce** in her life began with this moment."
+      }
+    ],
+    "wordCount": 271
+  },
+  "definitions": [
+    {
+      "word": "tremendous",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very large, great, or powerful. Example: The crowd gave a tremendous cheer.",
+      "meaning2": "",
+      "studentChallenge": "She put in a ___ amount of effort.",
+      "sentence": ""
+    },
+    {
+      "word": "harbour",
+      "partOfSpeech": "noun",
+      "meaning1": "A sheltered area of water where ships can dock safely (British spelling of harbor). Example: The sailboats rocked gently in the harbour on a calm morning.",
+      "meaning2": "To keep a thought or feeling hidden inside. Example: He did not want to harbour any bad feelings toward his teammate.",
+      "studentChallenge": "The lighthouse stood at the entrance of the ___ to guide ships safely home.",
+      "sentence": ""
+    },
+    {
+      "word": "vessel",
+      "partOfSpeech": "noun",
+      "meaning1": "A large ship or boat used for traveling on water. Example: The huge vessel sailed across the Atlantic Ocean carrying hundreds of passengers.",
+      "meaning2": "A container used for holding liquids. Example: She poured the juice into a glass vessel and set it on the table.",
+      "studentChallenge": "The old wooden ___ rocked back and forth on the gentle ocean waves.",
+      "sentence": ""
+    },
+    {
+      "word": "revolve",
+      "partOfSpeech": "verb",
+      "meaning1": "To move in a circle around a central point. Example: The Earth revolves around the Sun, which is why we have different seasons.",
+      "meaning2": "",
+      "studentChallenge": "The planets ___ around the Sun in orbits of different sizes.",
+      "sentence": ""
+    },
+    {
+      "word": "custom",
+      "partOfSpeech": "noun",
+      "meaning1": "A tradition or usual way of doing something. Example: It is a custom to shake hands when meeting someone.",
+      "meaning2": "",
+      "studentChallenge": "In many countries, removing shoes indoors is a ___.",
+      "sentence": ""
+    },
+    {
+      "word": "style",
+      "partOfSpeech": "noun",
+      "meaning1": "A particular way of doing, making, or presenting something. Example: The artist had a colorful style of painting that made every picture look bright and cheerful.",
+      "meaning2": "A fashionable way of dressing or looking. Example: Her style always included a fun hat and matching shoes.",
+      "studentChallenge": "Each author has a unique writing ___ that makes their books special and different.",
+      "sentence": ""
+    },
+    {
+      "word": "shiver",
+      "partOfSpeech": "verb/noun",
+      "meaning1": "To shake slightly because of cold, fear, or excitement. Example: Standing outside in the freezing rain made her shiver from head to toe.",
+      "meaning2": "",
+      "studentChallenge": "A ___ ran down his spine when he heard the creepy noise coming from the attic.",
+      "sentence": ""
+    },
+    {
+      "word": "active",
+      "partOfSpeech": "adjective",
+      "meaning1": "Always doing things; full of energy. Example: Dogs need to be active and play every day.",
+      "meaning2": "",
+      "studentChallenge": "Staying ___ helps you stay healthy.",
+      "sentence": ""
+    },
+    {
+      "word": "tough",
+      "partOfSpeech": "adjective",
+      "meaning1": "Strong and able to handle difficult situations without giving up. Example: The tough little plant survived the winter frost and bloomed again in the spring.",
+      "meaning2": "Difficult or hard to do. Example: The last question on the test was really tough, and only a few students got it right.",
+      "studentChallenge": "The hike up the steep mountain trail was ___, but the view from the top was worth it.",
+      "sentence": ""
+    },
+    {
+      "word": "sufficient",
+      "partOfSpeech": "adjective",
+      "meaning1": "Enough; as much as needed. Example: Do you have sufficient supplies for the trip?",
+      "meaning2": "",
+      "studentChallenge": "Make sure you have ___ sleep before the exam.",
+      "sentence": ""
+    },
+    {
+      "word": "force",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "Power or strength. Example: The force of the wind blew the door open.",
+      "meaning2": "To make someone do something. Example: No one should force you to eat something you don't like.",
+      "studentChallenge": "Gravity is the ___ that keeps us on the ground.",
+      "sentence": ""
+    },
+    {
+      "word": "produce",
+      "partOfSpeech": "verb",
+      "meaning1": "To make or create something. Example: The bakery can produce over five hundred loaves of bread in a single day.",
+      "meaning2": "Fresh fruits and vegetables. Example: The farmer's market sells fresh produce grown on nearby farms.",
+      "studentChallenge": "The art class worked hard to ___ paintings that were displayed at the school gallery.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The crowd gave a ___ cheer when the home team scored the winning goal in the final second.",
+      "sentence2": "She put in a ___ amount of effort, working harder than anyone else in the entire competition.",
+      "options": [
+        "style",
+        "tremendous",
+        "force",
+        "produce"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "tremendous"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The sailboats rocked gently in the calm, sheltered ___ where the water was protected from ocean winds.",
+      "sentence2": "The lighthouse stood at the entrance of the ___ to guide ships safely into dock after a long voyage.",
+      "options": [
+        "harbour",
+        "sufficient",
+        "vessel",
+        "revolve"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "harbour"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The huge ___ sailed across the Atlantic Ocean, carrying hundreds of passengers and tonnes of cargo.",
+      "sentence2": "The old wooden ___ rocked gently back and forth on the slow, rolling ocean waves.",
+      "options": [
+        "active",
+        "tremendous",
+        "vessel",
+        "style"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "vessel"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The Earth ___ around the Sun once every year, which is why we experience four different seasons.",
+      "sentence2": "All the planets ___ around the Sun in their own orbits, each one taking a different amount of time.",
+      "options": [
+        "produce",
+        "vessel",
+        "revolve",
+        "force"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "revolve"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "It is a ___ in this family to eat dinner together every Sunday \u2014 a tradition passed down for generations.",
+      "sentence2": "In many countries, removing your shoes before entering a home is a long-standing ___.",
+      "options": [
+        "revolve",
+        "custom",
+        "vessel",
+        "shiver"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "custom"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The artist had a bold, colorful ___ of painting that made every canvas look joyful and alive.",
+      "sentence2": "Each author has a unique writing ___ \u2014 the special way they choose words and build sentences.",
+      "options": [
+        "revolve",
+        "active",
+        "style",
+        "tough"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "style"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Standing outside in the freezing rain for an hour made her ___ from head to toe.",
+      "sentence2": "A cold ___ ran down his spine the moment he heard the strange, creaking noise from the attic.",
+      "options": [
+        "vessel",
+        "force",
+        "custom",
+        "shiver"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "shiver"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Dogs need to be ___ and run around each day \u2014 they get bored and unhappy if kept still for too long.",
+      "sentence2": "Staying ___ by walking, swimming, or playing sports every day helps keep your body strong and healthy.",
+      "options": [
+        "active",
+        "produce",
+        "shiver",
+        "force"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "active"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The ___ little plant survived the bitter winter frost and pushed up a new green shoot in spring.",
+      "sentence2": "The hike up the steep, rocky mountain trail was ___, but the breathtaking view from the top was worth it.",
+      "options": [
+        "active",
+        "tough",
+        "harbour",
+        "force"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "tough"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Do you have ___ supplies for the camping trip, or do we need to stop and buy more food?",
+      "sentence2": "Make sure you get ___ sleep the night before the exam \u2014 at least eight hours is best.",
+      "options": [
+        "sufficient",
+        "shiver",
+        "tough",
+        "custom"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "sufficient"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The tremendous ___ of the wind was so powerful it blew the heavy wooden door right off its hinges.",
+      "sentence2": "Gravity is the invisible ___ that pulls everything downward and keeps us firmly on the ground.",
+      "options": [
+        "style",
+        "active",
+        "sufficient",
+        "force"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "force"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The busy bakery can ___ over five hundred loaves of fresh bread in a single working day.",
+      "sentence2": "The art class worked all week to ___ paintings that were displayed proudly at the school gallery.",
+      "options": [
+        "style",
+        "sufficient",
+        "tremendous",
+        "produce"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "produce"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "tremendous",
+      "harbour",
+      "vessel",
+      "revolve",
+      "custom",
+      "style",
+      "shiver",
+      "active",
+      "tough",
+      "sufficient",
+      "force",
+      "produce"
+    ],
+    "passage": "Captain Mira stood at the wheel of her wooden _(1)_, guiding the ship carefully through choppy waters toward the sheltered _(2)_ ahead. The journey had been _(3)_ \u2014 an enormously long and difficult voyage across three different seas. It was the crew's _(4)_ to sing a sea shanty whenever a storm passed, a tradition stretching back a hundred years. The wind came with great _(5)_, its raw power shaking the masts and rattling every rope on board. Mira knew she had to stay _(6)_ and alert, always moving, always checking the sails and the compass. She could feel a _(7)_ creep through her the moment the icy spray hit her face \u2014 her whole body trembling with cold. The crossing had been _(8)_, demanding strength and stubbornness that most sailors would find nearly impossible. Yet her crew had _(9)_ food \u2014 enough biscuits, dried fruit, and salted fish to last two more weeks if needed. The planets _(10)_ around the sun, she thought, and sailors _(11)_ around the globe just the same \u2014 endlessly circling, always returning. Every captain had her own _(12)_ of leadership, but Mira's way was always the same: calm, steady, and kind.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "vessel",
+        "options": [
+          "vessel",
+          "harbour",
+          "force",
+          "style"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "harbour",
+        "options": [
+          "harbour",
+          "vessel",
+          "produce",
+          "custom"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "tremendous",
+        "options": [
+          "tremendous",
+          "sufficient",
+          "active",
+          "tough"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "custom",
+        "options": [
+          "custom",
+          "style",
+          "shiver",
+          "force"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "force",
+        "options": [
+          "force",
+          "custom",
+          "produce",
+          "revolve"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "active",
+        "options": [
+          "active",
+          "tough",
+          "sufficient",
+          "tremendous"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "shiver",
+        "options": [
+          "shiver",
+          "revolve",
+          "produce",
+          "force"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "tough",
+        "options": [
+          "tough",
+          "active",
+          "sufficient",
+          "tremendous"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "sufficient",
+        "options": [
+          "sufficient",
+          "tough",
+          "active",
+          "tremendous"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "revolve",
+        "options": [
+          "revolve",
+          "produce",
+          "shiver",
+          "force"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "produce",
+        "options": [
+          "produce",
+          "revolve",
+          "shiver",
+          "harbour"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "style",
+        "options": [
+          "style",
+          "custom",
+          "force",
+          "vessel"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "tremendous",
+        "scale": [
+          "large",
+          "tremendous",
+          "enormous"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "harbour",
+        "scale": [
+          "shelter",
+          "harbour",
+          "haven"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "vessel",
+        "scale": [
+          "container",
+          "vessel",
+          "ship"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "revolve",
+        "scale": [
+          "drift",
+          "revolve",
+          "spin"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "custom",
+        "words": [
+          "novelty",
+          "tradition",
+          "habit",
+          "practice"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "novelty"
+      },
+      {
+        "vocabWord": "style",
+        "words": [
+          "plainness",
+          "manner",
+          "fashion",
+          "way"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "plainness"
+      },
+      {
+        "vocabWord": "shiver",
+        "words": [
+          "shake",
+          "tremble",
+          "quiver",
+          "stillness"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "stillness"
+      },
+      {
+        "vocabWord": "active",
+        "words": [
+          "inactive",
+          "energetic",
+          "lively",
+          "busy"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "inactive"
+      },
+      {
+        "vocabWord": "tough",
+        "words": [
+          "weak",
+          "strong",
+          "hard",
+          "resilient"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "weak"
+      },
+      {
+        "vocabWord": "sufficient",
+        "words": [
+          "insufficient",
+          "enough",
+          "adequate",
+          "plenty"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "insufficient"
+      },
+      {
+        "vocabWord": "force",
+        "words": [
+          "weakness",
+          "strength",
+          "power",
+          "might"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "weakness"
+      },
+      {
+        "vocabWord": "produce",
+        "words": [
+          "make",
+          "create",
+          "destroy",
+          "grow"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "destroy"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

@@ -1,0 +1,408 @@
+{
+  "grade": 3,
+  "setNumber": 6,
+  "words": [
+    "loyal",
+    "resource",
+    "sensitive",
+    "struggle",
+    "value",
+    "vary",
+    "wander",
+    "capture",
+    "coward",
+    "exclaim",
+    "gloomy",
+    "insist"
+  ],
+  "sources": [
+    "Australian Curriculum",
+    "British KS2",
+    "CBSE India",
+    "Common Core Grade 3",
+    "Common Core Grade 4",
+    "Custom (Existing)",
+    "Flocabulary Grade 3",
+    "Tier 2 Academic",
+    "Wordly Wise Book 3"
+  ],
+  "genre": "Indian mythology retelling",
+  "story": {
+    "genre": "Indian mythology retelling",
+    "characters": [
+      "Aarav",
+      "Mila",
+      "Luna"
+    ],
+    "parts": [
+      {
+        "title": "The Hidden Pond",
+        "text": "Aarav and his **loyal** best friend Mila had been hiking partners for three years — they never missed a Saturday trail. One cloudy morning, the sky turned dark and **gloomy**, with thick gray clouds blocking every bit of sunlight. Aarav would **insist** that they keep going — he hated to quit."
+      },
+      {
+        "title": "The Discovery",
+        "text": "They began to **wander** off the main path, following a narrow trail they had never noticed before. The trail led to a hidden pond. Aarav tried to **capture** a photo of a heron standing perfectly still in the water. The bird was so **sensitive** to sound that even the click of the camera made it fly away. Mila noticed the plants around the pond **vary** in size — some were tiny, others taller than she was."
+      },
+      {
+        "title": "The Way Back",
+        "text": "\"This place is a natural **resource** for scientists!\" Mila said. \"Look at all these species in one spot!\" Suddenly they heard a rustling noise. Aarav did not want to be a **coward**, but his heart was pounding. \"Don't panic!\" Mila began to **exclaim**. It was only a deer. They had to **struggle** through thick bushes to get back to the main trail. That night, Aarav told his parents how much he would **value** that adventure — it was the best hike of his life."
+      },
+      {
+        "title": "The Promise",
+        "text": "From that day on, Aarav and Mila returned to the hidden pond every Saturday. They kept a journal of every bird, plant, and insect they found. By the end of the year, their notebook had over two hundred entries. Their science teacher used it as an example for the whole class, and the two friends promised each other they would never stop exploring."
+      }
+    ],
+    "wordCount": 252
+  },
+  "definitions": [
+    {
+      "word": "loyal",
+      "partOfSpeech": "adjective",
+      "meaning1": "Faithful and devoted to someone or something. Example: A loyal friend will stand by you even when things get difficult.",
+      "meaning2": "",
+      "studentChallenge": "The ___ dog waited at the front door every day until its owner came home.",
+      "sentence": ""
+    },
+    {
+      "word": "resource",
+      "partOfSpeech": "noun",
+      "meaning1": "Something that can be used for help or support. Example: The library is a great resource for students who need help with research.",
+      "meaning2": "A supply of something useful. Example: Water is our most precious natural resource.",
+      "studentChallenge": "The internet is a helpful ___ for finding information about almost any topic.",
+      "sentence": ""
+    },
+    {
+      "word": "sensitive",
+      "partOfSpeech": "adjective",
+      "meaning1": "Easily affected by something; quick to notice or react. Example: The baby's skin was so sensitive that only the softest lotion could be used.",
+      "meaning2": "Easily hurt emotionally. Example: Be careful what you say — he is very sensitive about his height.",
+      "studentChallenge": "The ___ smoke detector went off even when Mom was just making toast.",
+      "sentence": ""
+    },
+    {
+      "word": "struggle",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To try very hard to do something difficult. Example: The kitten had to struggle to climb out of the deep box.",
+      "meaning2": "A difficult effort or fight. Example: Learning a new language can be a real struggle at first.",
+      "studentChallenge": "The butterfly had to ___ to break free from its cocoon.",
+      "sentence": ""
+    },
+    {
+      "word": "value",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "How much something is worth. Example: The value of this old painting is over a million dollars.",
+      "meaning2": "To consider something important. Example: My parents value honesty above everything else.",
+      "studentChallenge": "She learned to ___ her friendships more than her toys.",
+      "sentence": ""
+    },
+    {
+      "word": "vary",
+      "partOfSpeech": "verb",
+      "meaning1": "To change or be different. Example: The prices at the market vary from week to week.",
+      "meaning2": "",
+      "studentChallenge": "The colors of the sunset ___ — sometimes pink, sometimes orange, sometimes deep red.",
+      "sentence": ""
+    },
+    {
+      "word": "wander",
+      "partOfSpeech": "verb",
+      "meaning1": "To walk slowly without a clear direction or purpose. Example: The lost puppy began to wander through the neighborhood.",
+      "meaning2": "",
+      "studentChallenge": "On rainy Sundays, I like to ___ through the bookstore with no plan at all.",
+      "sentence": ""
+    },
+    {
+      "word": "capture",
+      "partOfSpeech": "verb",
+      "meaning1": "To catch or take control of something. Example: The police worked for months to capture the art thief.",
+      "meaning2": "To record or preserve something. Example: The photographer wanted to capture the sunset before the colors faded.",
+      "studentChallenge": "She used her camera to ___ a picture of the rainbow before it disappeared.",
+      "sentence": ""
+    },
+    {
+      "word": "coward",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who is too afraid to do something brave or right. Example: The knight called the soldier a coward for running away from battle.",
+      "meaning2": "",
+      "studentChallenge": "It takes courage to admit you are scared — only a true ___ pretends danger does not exist.",
+      "sentence": ""
+    },
+    {
+      "word": "exclaim",
+      "partOfSpeech": "verb",
+      "meaning1": "To cry out suddenly with strong feeling. Example: \"I can't believe we won!\" she exclaimed as she jumped up and down.",
+      "meaning2": "",
+      "studentChallenge": "\"Watch out!\" the crossing guard would ___ whenever a car drove too fast.",
+      "sentence": ""
+    },
+    {
+      "word": "gloomy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Dark, dim, and depressing. Example: The gloomy weather made everyone feel tired and sad.",
+      "meaning2": "Feeling sad or without hope. Example: He felt gloomy after losing the championship game.",
+      "studentChallenge": "The abandoned house looked ___ with its broken windows and overgrown yard.",
+      "sentence": ""
+    },
+    {
+      "word": "insist",
+      "partOfSpeech": "verb",
+      "meaning1": "To demand something firmly and refuse to change your mind. Example: My mom would insist that we wear helmets every time we rode our bikes.",
+      "meaning2": "",
+      "studentChallenge": "Even though the soup was cold, the waiter would ___ that it had just been heated.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "A _______ friend will stand by you even when things get difficult.",
+      "sentence2": "The _______ dog waited at the front door every day until its owner came home from work.",
+      "options": ["gloomy", "sensitive", "loyal", "coward"],
+      "correctIndex": 2,
+      "correctAnswer": "loyal"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The library is a great _______ for students who need help with research.",
+      "sentence2": "Water is our most precious natural _______ — we must not waste it.",
+      "options": ["resource", "struggle", "value", "coward"],
+      "correctIndex": 0,
+      "correctAnswer": "resource"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The baby's skin was so _______ that only the softest lotion could be used on it.",
+      "sentence2": "Be careful what you say around Marcus — he is very _______ about his height.",
+      "options": ["loyal", "gloomy", "sensitive", "coward"],
+      "correctIndex": 2,
+      "correctAnswer": "sensitive"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The kitten had to _______ to climb out of the deep cardboard box.",
+      "sentence2": "Learning a new language can be a real _______ at first, but it gets easier with practice.",
+      "options": ["exclaim", "struggle", "wander", "capture"],
+      "correctIndex": 1,
+      "correctAnswer": "struggle"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "This old painting may not look like much, but its _______ is over a million dollars.",
+      "sentence2": "My parents _______ honesty above everything else.",
+      "options": ["value", "resource", "struggle", "coward"],
+      "correctIndex": 0,
+      "correctAnswer": "value"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The prices at the farmer's market _______ from week to week depending on the season.",
+      "sentence2": "The colors of the sunset _______ — sometimes pink, sometimes orange, sometimes deep red.",
+      "options": ["capture", "insist", "wander", "vary"],
+      "correctIndex": 3,
+      "correctAnswer": "vary"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The lost puppy began to _______ through the neighborhood looking for its owner.",
+      "sentence2": "On rainy Sundays, I like to _______ through the bookstore with no plan at all.",
+      "options": ["vary", "exclaim", "wander", "capture"],
+      "correctIndex": 2,
+      "correctAnswer": "wander"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The photographer wanted to _______ the sunset before the colors faded away.",
+      "sentence2": "The police worked for months to _______ the art thief who had stolen three paintings.",
+      "options": ["capture", "vary", "struggle", "insist"],
+      "correctIndex": 0,
+      "correctAnswer": "capture"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The knight called the soldier a _______ for running away from the battle.",
+      "sentence2": "It takes courage to admit you are scared — only a true _______ pretends danger does not exist.",
+      "options": ["resource", "value", "loyal", "coward"],
+      "correctIndex": 3,
+      "correctAnswer": "coward"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "\"I can't believe we won!\" she started to _______ as she jumped up and down.",
+      "sentence2": "\"Watch out!\" the crossing guard would _______ whenever a car drove too fast.",
+      "options": ["insist", "wander", "capture", "exclaim"],
+      "correctIndex": 3,
+      "correctAnswer": "exclaim"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The _______ weather made everyone feel tired and sad — gray skies and drizzle all week long.",
+      "sentence2": "The abandoned house on the hill looked _______ with its broken windows and overgrown yard.",
+      "options": ["gloomy", "loyal", "sensitive", "coward"],
+      "correctIndex": 0,
+      "correctAnswer": "gloomy"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "My mom would _______ that we wear helmets every time we rode our bikes.",
+      "sentence2": "Even though the soup was cold, the waiter would _______ that it had just been heated up.",
+      "options": ["vary", "capture", "exclaim", "insist"],
+      "correctIndex": 3,
+      "correctAnswer": "insist"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "loyal",
+      "resource",
+      "sensitive",
+      "struggle",
+      "value",
+      "vary",
+      "wander",
+      "capture",
+      "coward",
+      "exclaim",
+      "gloomy",
+      "insist"
+    ],
+    "passage": "Aarav and his _(1)_ best friend Mila had been hiking partners for three years — they never missed a Saturday trail. One cloudy morning, the sky turned dark and _(2)_, with thick gray clouds blocking every bit of sunlight.\n\n\"Let's go back,\" Mila said. But Aarav would _(3)_ that they keep going — he hated to quit. They began to _(4)_ off the main path, following a narrow trail they had never noticed before.\n\nThe trail led to a hidden pond. Aarav tried to _(5)_ a photo of a heron standing perfectly still in the water. The bird was so _(6)_ to sound that even the click of the camera made it fly away.\n\nMila noticed the plants around the pond _(7)_ in size — some were tiny, others taller than she was. \"This place is a natural _(8)_ for scientists!\" she said. \"Look at all these species in one spot!\"\n\nSuddenly they heard a rustling noise. Aarav did not want to be a _(9)_, but his heart was pounding. \"Don't panic!\" Mila began to _(10)_. It was only a deer.\n\nThey had to _(11)_ through thick bushes to get back to the main trail. That night, Aarav told his parents how much he would _(12)_ that adventure — it was the best hike of his life.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "loyal",
+        "options": ["gloomy", "sensitive", "loyal", "coward"]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "gloomy",
+        "options": ["loyal", "sensitive", "gloomy", "coward"]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "insist",
+        "options": ["exclaim", "insist", "wander", "capture"]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "wander",
+        "options": ["vary", "struggle", "insist", "wander"]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "capture",
+        "options": ["capture", "vary", "struggle", "exclaim"]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "sensitive",
+        "options": ["gloomy", "loyal", "sensitive", "coward"]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "vary",
+        "options": ["struggle", "capture", "vary", "insist"]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "resource",
+        "options": ["value", "resource", "coward", "struggle"]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "coward",
+        "options": ["resource", "coward", "value", "loyal"]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "exclaim",
+        "options": ["wander", "insist", "exclaim", "capture"]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "struggle",
+        "options": ["vary", "struggle", "wander", "capture"]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "value",
+        "options": ["resource", "value", "insist", "struggle"]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "loyal",
+        "scale": ["Like", "Trust", "Loyal"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "insist",
+        "scale": ["Disagree", "Argue", "Insist"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "gloomy",
+        "scale": ["Sad", "Dreary", "Gloomy"],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "wander",
+        "scale": ["Stroll", "Roam", "Wander"],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "loyal",
+        "words": ["Faithful", "Devoted", "Traitorous", "True"],
+        "imposterIndex": 2,
+        "imposterWord": "Traitorous"
+      },
+      {
+        "vocabWord": "sensitive",
+        "words": ["Delicate", "Tough", "Tender", "Fragile"],
+        "imposterIndex": 1,
+        "imposterWord": "Tough"
+      },
+      {
+        "vocabWord": "struggle",
+        "words": ["Fight", "Surrender", "Battle", "Strive"],
+        "imposterIndex": 1,
+        "imposterWord": "Surrender"
+      },
+      {
+        "vocabWord": "value",
+        "words": ["Worth", "Treasure", "Worthless", "Prize"],
+        "imposterIndex": 2,
+        "imposterWord": "Worthless"
+      },
+      {
+        "vocabWord": "capture",
+        "words": ["Seize", "Release", "Grab", "Trap"],
+        "imposterIndex": 1,
+        "imposterWord": "Release"
+      },
+      {
+        "vocabWord": "coward",
+        "words": ["Chicken", "Hero", "Wimp", "Scaredy-cat"],
+        "imposterIndex": 1,
+        "imposterWord": "Hero"
+      },
+      {
+        "vocabWord": "exclaim",
+        "words": ["Shout", "Whisper", "Cry", "Yell"],
+        "imposterIndex": 1,
+        "imposterWord": "Whisper"
+      },
+      {
+        "vocabWord": "gloomy",
+        "words": ["Dark", "Bright", "Dim", "Dreary"],
+        "imposterIndex": 1,
+        "imposterWord": "Bright"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}
