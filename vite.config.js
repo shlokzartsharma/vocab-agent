@@ -3,6 +3,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig(({ mode }) => ({
   plugins: [react()],
+  base: '/vocab-agent/',
   server: {
     port: 3001,
     open: true,
