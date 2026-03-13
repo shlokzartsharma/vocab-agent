@@ -30,16 +30,6 @@ function AppContent() {
 
   return (
     <div className="va-app">
-      <header className="va-header">
-        <div className="va-logo-group" onClick={goHome}>
-          <svg className="va-logo-icon" width="28" height="28" viewBox="0 0 28 28" fill="none">
-            <rect width="28" height="28" rx="6" fill="#6366F1"/>
-            <text x="14" y="19" textAnchor="middle" fill="white" fontSize="16" fontWeight="700" fontFamily="Inter, sans-serif">V</text>
-          </svg>
-          <span className="va-logo">Vocab Agent</span>
-        </div>
-        <span className="va-header-sub">FlyingMinds.org</span>
-      </header>
       <main className="va-main">
         <Screen />
       </main>

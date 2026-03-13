@@ -2,9 +2,9 @@ import React from 'react';
 import { useApp } from '../context/AppContext';
 
 const GRADE_COLORS = {
-  3: { bg: '#ECFDF5', border: '#10B981', text: '#065F46', label: 'Grade 3' },
-  4: { bg: '#EFF6FF', border: '#3B82F6', text: '#1E40AF', label: 'Grade 4' },
-  5: { bg: '#F5F3FF', border: '#8B5CF6', text: '#5B21B6', label: 'Grade 5' },
+  3: { bg: 'var(--cream-2)', border: 'var(--teal)', text: 'var(--ink)', label: 'Grade 3' },
+  4: { bg: 'var(--cream)', border: 'var(--magenta)', text: 'var(--ink)', label: 'Grade 4' },
+  5: { bg: 'var(--cream-2)', border: 'var(--gold)', text: 'var(--ink)', label: 'Grade 5' },
 };
 
 export default function HomeScreen() {
