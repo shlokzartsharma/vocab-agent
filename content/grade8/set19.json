@@ -1,0 +1,578 @@
+{
+  "grade": 8,
+  "setNumber": 19,
+  "words": [
+    "imperial",
+    "patrician",
+    "legion",
+    "corrupt",
+    "dominion",
+    "decadence",
+    "barbarian",
+    "plebeian",
+    "magistrate",
+    "province",
+    "tribune",
+    "consul"
+  ],
+  "sources": [
+    "Common Core Grade 8",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "rise and fall of Rome",
+  "story": {
+    "genre": "rise and fall of Rome",
+    "characters": [
+      "Livia",
+      "Marcos",
+      "Anouk"
+    ],
+    "parts": [
+      {
+        "title": "The Simulation",
+        "text": "In history class, the students were given roles in a model of the Roman Republic. Marcos drew the card of a **patrician**, a member of Rome's old and wealthy noble families, while Livia became a **plebeian**, one of the common citizens who farmed, worked and fought. Anouk was elected **consul**, one of the two leaders chosen each year to run the government."
+      },
+      {
+        "title": "Checks and Balances",
+        "text": "Livia cheered when she learned about the **tribune**, an official who could veto laws that harmed the common people. Anouk named a **magistrate** to settle disputes in the classroom court, since the Romans tried to stop any one person from gaining too much power. Meanwhile, the wall map showed Rome growing. Each **legion**, about five thousand soldiers, could win new land. Soon the republic governed its first **province**, a territory ruled from the capital, and its **dominion**, the lands under its rule, wrapped around the Mediterranean Sea."
+      },
+      {
+        "title": "The Slow Decline",
+        "text": "Next, the teacher changed the rules. Wealthy players began buying votes, and Anouk watched the game turn **corrupt**. In real history the republic gave way to an **imperial** system when Augustus became the first emperor in 27 BCE. Some writers blamed **decadence**, a decline into lazy luxury, for Rome's weakness, though historians now stress money troubles and civil wars. In 476 CE the last western emperor lost power to a Germanic general. Romans had long labeled such outsiders with the word **barbarian**, which said more about Roman pride than about the people themselves."
+      },
+      {
+        "title": "After the Bell",
+        "text": "When the bell rang, Marcos admitted that the patricians had held the best seats, but Livia pointed out that the republic had lasted nearly five centuries. The class agreed that no empire falls for a single reason. Livia decided that power, like a game piece, needs rules to stay fair, and people willing to defend them."
+      }
+    ],
+    "wordCount": 298
+  },
+  "definitions": [
+    {
+      "word": "imperial",
+      "partOfSpeech": "adjective",
+      "meaning1": "Relating to an empire or its ruler. Example: The imperial palace housed the emperor, his family and hundreds of servants.",
+      "meaning2": "Relating to an older system of measurement that uses inches, pounds and gallons. Example: The recipe lists imperial measurements, such as pounds and pints.",
+      "studentChallenge": "The ___ palace held the emperor, his family and hundreds of servants.",
+      "sentence": ""
+    },
+    {
+      "word": "patrician",
+      "partOfSpeech": "noun, adjective",
+      "meaning1": "A member of the old, powerful noble class in ancient Rome; more generally, an aristocrat. Example: The patrician owned vast estates just outside the city.",
+      "meaning2": "Having the manners or look of a high social class. Example: His patrician accent made it clear he had grown up among the wealthy.",
+      "studentChallenge": "In early Rome, each ___ belonged to one of the old noble families.",
+      "sentence": ""
+    },
+    {
+      "word": "legion",
+      "partOfSpeech": "noun",
+      "meaning1": "A large unit of the ancient Roman army, usually of about five thousand soldiers. Example: A legion marched north to defend the border.",
+      "meaning2": "A very large number of people or things. Example: A legion of fans packed the stadium hours before the concert.",
+      "studentChallenge": "Each ___ of Roman soldiers marched under its own banner.",
+      "sentence": ""
+    },
+    {
+      "word": "corrupt",
+      "partOfSpeech": "adjective, verb",
+      "meaning1": "Dishonest, especially by taking bribes or misusing power. Example: The corrupt official accepted money in exchange for favors.",
+      "meaning2": "To make someone or something dishonest or bad. Example: Too much power can corrupt even honest leaders.",
+      "studentChallenge": "The judge was ___, taking money to decide cases in favor of his friends.",
+      "sentence": ""
+    },
+    {
+      "word": "dominion",
+      "partOfSpeech": "noun",
+      "meaning1": "The power to rule or control. Example: In the old myth, humans were given dominion over every animal on Earth.",
+      "meaning2": "Land or territory under one ruler's control. Example: The king's dominion stretched from the northern coast to the southern mountains.",
+      "studentChallenge": "The emperor's ___ stretched across three continents.",
+      "sentence": ""
+    },
+    {
+      "word": "decadence",
+      "partOfSpeech": "noun",
+      "meaning1": "A decline in values or standards, marked by luxury and self-indulgence. Example: Critics saw the endless banquets as signs of decadence.",
+      "meaning2": "",
+      "studentChallenge": "Gold-covered furniture and endless feasts struck critics as signs of ___.",
+      "sentence": ""
+    },
+    {
+      "word": "barbarian",
+      "partOfSpeech": "noun",
+      "meaning1": "A person seen as uncivilized by another culture; in ancient Rome, a label for foreigners. Example: The Romans called many outside groups barbarians, though they often had rich cultures of their own.",
+      "meaning2": "A person who is rough or unrefined. Example: He felt like a barbarian eating pizza with his hands at the formal dinner.",
+      "studentChallenge": "The Romans used the word ___ for people whose languages they did not understand.",
+      "sentence": ""
+    },
+    {
+      "word": "plebeian",
+      "partOfSpeech": "noun, adjective",
+      "meaning1": "A common citizen of ancient Rome, as opposed to a noble. Example: The plebeian farmer was elected tribune to defend the rights of ordinary citizens.",
+      "meaning2": "Ordinary or lacking refinement. Example: The chef scorned plebeian food, but the crowd happily asked for seconds.",
+      "studentChallenge": "As a ___, she had no noble ancestors but still voted in the assembly.",
+      "sentence": ""
+    },
+    {
+      "word": "magistrate",
+      "partOfSpeech": "noun",
+      "meaning1": "A public official with the power to apply and enforce the law, such as a judge in a local court. Example: The magistrate listened to both sides before announcing a fair ruling.",
+      "meaning2": "In ancient Rome, an elected official who held a public office for a year. Example: Every Roman magistrate returned to private life after a single year.",
+      "studentChallenge": "The ___ listened carefully to both sides before issuing a ruling.",
+      "sentence": ""
+    },
+    {
+      "word": "province",
+      "partOfSpeech": "noun",
+      "meaning1": "A region of a country or empire with its own local government. Example: Sicily became Rome's first overseas province after the war with Carthage.",
+      "meaning2": "An area of knowledge or responsibility. Example: Cooking is his father's province, while his mother handles the garden.",
+      "studentChallenge": "Grain from each distant ___ was shipped to the capital.",
+      "sentence": ""
+    },
+    {
+      "word": "tribune",
+      "partOfSpeech": "noun",
+      "meaning1": "An official in ancient Rome elected to protect the rights of common citizens. Example: The tribune used his veto to block a law that would hurt ordinary families.",
+      "meaning2": "A military officer in a Roman legion. Example: A young tribune commanded part of the army and reported to his general.",
+      "studentChallenge": "The ___ stood in the forum and vetoed the unfair law.",
+      "sentence": ""
+    },
+    {
+      "word": "consul",
+      "partOfSpeech": "noun",
+      "meaning1": "One of the two chief officials elected each year to lead the Roman Republic. Example: The consul led the Senate and then rode out to command the army.",
+      "meaning2": "",
+      "studentChallenge": "Each year, Romans chose two men to share the office of ___.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The _______ palace held the emperor, his family and hundreds of servants.",
+      "sentence2": "The recipe lists _______ measurements, such as pounds and gallons.",
+      "options": [
+        "corrupt",
+        "imperial",
+        "patrician",
+        "plebeian"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "imperial"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The _______ owned vast estates and belonged to one of the oldest, wealthiest families in Rome.",
+      "sentence2": "His _______ accent made it clear he had grown up among the wealthy.",
+      "options": [
+        "patrician",
+        "plebeian",
+        "barbarian",
+        "imperial"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "patrician"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Each _______ of Roman soldiers had about five thousand men and marched under its own banner.",
+      "sentence2": "A _______ of fans packed the stadium hours before the concert began.",
+      "options": [
+        "province",
+        "tribune",
+        "consul",
+        "legion"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "legion"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The _______ official accepted bribes and let his friends skip the rules.",
+      "sentence2": "Too much power can _______ even the most honest leaders.",
+      "options": [
+        "imperial",
+        "patrician",
+        "corrupt",
+        "plebeian"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "corrupt"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The king's _______ stretched from the northern coast to the southern mountains.",
+      "sentence2": "In the old myth, humans were given _______ over every animal on Earth.",
+      "options": [
+        "decadence",
+        "dominion",
+        "legion",
+        "tribune"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "dominion"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Critics saw the endless banquets and gold-covered furniture as signs of _______.",
+      "sentence2": "Historians now doubt that moral _______ alone explains why the empire weakened.",
+      "options": [
+        "decadence",
+        "dominion",
+        "province",
+        "legion"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "decadence"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The Romans used the word _______ for foreigners whose languages they did not understand.",
+      "sentence2": "The rude guest ate like a _______, ignoring every rule of polite behavior.",
+      "options": [
+        "magistrate",
+        "tribune",
+        "consul",
+        "barbarian"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "barbarian"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The _______ farmer was elected tribune to defend the rights of ordinary citizens.",
+      "sentence2": "The chef scorned _______ food, but the crowd happily asked for seconds.",
+      "options": [
+        "patrician",
+        "barbarian",
+        "plebeian",
+        "magistrate"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "plebeian"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The _______ listened to both sides before announcing a fair ruling in court.",
+      "sentence2": "Every Roman _______ held office for a single year before returning to private life.",
+      "options": [
+        "legion",
+        "magistrate",
+        "province",
+        "dominion"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "magistrate"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Sicily became Rome's first overseas _______ after the war with Carthage.",
+      "sentence2": "Cooking is his father's _______, while his mother handles the garden.",
+      "options": [
+        "province",
+        "legion",
+        "consul",
+        "decadence"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "province"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The _______ used his veto to block a law that would hurt ordinary families.",
+      "sentence2": "A young _______ commanded part of the army and reported to his general.",
+      "options": [
+        "legion",
+        "province",
+        "plebeian",
+        "tribune"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "tribune"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Each year, Romans chose two men to share the office of _______, the republic's highest post.",
+      "sentence2": "The _______ led the Senate meeting and then rode out to command the army.",
+      "options": [
+        "tribune",
+        "decadence",
+        "consul",
+        "patrician"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "consul"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "imperial",
+      "patrician",
+      "legion",
+      "corrupt",
+      "dominion",
+      "decadence",
+      "barbarian",
+      "plebeian",
+      "magistrate",
+      "province",
+      "tribune",
+      "consul"
+    ],
+    "passage": "Livia's grandfather loved to tell stories about ancient Rome. He said the city began as a small town but grew until its _(1)_ stretched across three continents. Each _(2)_, a faraway territory, sent grain and taxes to the capital, and a disciplined _(3)_ of soldiers kept order along the roads.\n\nIn the early republic, the old noble families, the _(4)_ class, held most of the power, while ordinary citizens, the _(5)_ class, demanded a voice. They won the right to elect a _(6)_, an official who could block unfair laws. The highest office was _(7)_, a post shared by two leaders, and every _(8)_, whether a judge or a treasurer, served only for a year.\n\nBut over time, bribery spread and officials grew _(9)_. Ambitious generals built an _(10)_ system ruled by a single emperor. Some writers blamed the _(11)_ of wealthy Romans, with their feasts and idle luxury, for the decline. Romans also looked down on outsiders and used the word _(12)_ for them, a label that told more about Roman attitudes than about those neighbors.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "dominion",
+        "options": [
+          "decadence",
+          "magistrate",
+          "dominion",
+          "consul"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "province",
+        "options": [
+          "decadence",
+          "province",
+          "plebeian",
+          "consul"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "legion",
+        "options": [
+          "legion",
+          "tribune",
+          "decadence",
+          "barbarian"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "patrician",
+        "options": [
+          "plebeian",
+          "patrician",
+          "tribune",
+          "imperial"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "plebeian",
+        "options": [
+          "patrician",
+          "imperial",
+          "corrupt",
+          "plebeian"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "tribune",
+        "options": [
+          "tribune",
+          "province",
+          "decadence",
+          "legion"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "consul",
+        "options": [
+          "province",
+          "legion",
+          "decadence",
+          "consul"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "magistrate",
+        "options": [
+          "legion",
+          "province",
+          "magistrate",
+          "dominion"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "corrupt",
+        "options": [
+          "imperial",
+          "plebeian",
+          "patrician",
+          "corrupt"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "imperial",
+        "options": [
+          "corrupt",
+          "plebeian",
+          "imperial",
+          "patrician"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "decadence",
+        "options": [
+          "province",
+          "decadence",
+          "legion",
+          "magistrate"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "barbarian",
+        "options": [
+          "barbarian",
+          "consul",
+          "tribune",
+          "dominion"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "corrupt",
+        "scale": [
+          "Unfair",
+          "Dishonest",
+          "Corrupt"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "dominion",
+        "scale": [
+          "Influence",
+          "Control",
+          "Dominion"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "decadence",
+        "scale": [
+          "Comfort",
+          "Luxury",
+          "Decadence"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "legion",
+        "scale": [
+          "Patrol",
+          "Legion",
+          "Army"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "imperial",
+        "words": [
+          "Royal",
+          "Humble",
+          "Regal",
+          "Majestic"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Humble"
+      },
+      {
+        "vocabWord": "patrician",
+        "words": [
+          "Peasant",
+          "Aristocrat",
+          "Noble",
+          "Blue blood"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Peasant"
+      },
+      {
+        "vocabWord": "plebeian",
+        "words": [
+          "Commoner",
+          "Ordinary",
+          "Everyday",
+          "Noble"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Noble"
+      },
+      {
+        "vocabWord": "corrupt",
+        "words": [
+          "Dishonest",
+          "Crooked",
+          "Honorable",
+          "Bribable"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Honorable"
+      },
+      {
+        "vocabWord": "dominion",
+        "words": [
+          "Rule",
+          "Subjection",
+          "Sovereignty",
+          "Authority"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Subjection"
+      },
+      {
+        "vocabWord": "decadence",
+        "words": [
+          "Restraint",
+          "Indulgence",
+          "Excess",
+          "Overindulgence"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Restraint"
+      },
+      {
+        "vocabWord": "province",
+        "words": [
+          "Region",
+          "Territory",
+          "District",
+          "Capital"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Capital"
+      },
+      {
+        "vocabWord": "legion",
+        "words": [
+          "Army",
+          "Troop",
+          "Civilian",
+          "Regiment"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Civilian"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

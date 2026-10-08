@@ -1,0 +1,578 @@
+{
+  "grade": 7,
+  "setNumber": 13,
+  "words": [
+    "urgent",
+    "composure",
+    "stabilize",
+    "trauma",
+    "crucial",
+    "summon",
+    "expedite",
+    "paramedic",
+    "imminent",
+    "jeopardy",
+    "hysteria",
+    "casualty"
+  ],
+  "sources": [
+    "Common Core Grade 7",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "emergency rescue",
+  "story": {
+    "genre": "emergency rescue",
+    "characters": [
+      "Dalia",
+      "Everett",
+      "Soren"
+    ],
+    "parts": [
+      {
+        "title": "The Rockslide",
+        "text": "Halfway up the mountain trail, a loud crack echoed across the cliffs, and a wave of loose rock and mud swept over the path ahead. Dalia's classmates began to scream, and **hysteria** spread through the group faster than the dust. Their guide, Mr. Quill, lay on the ground clutching his ankle. Everett glanced at the dark clouds and realized the situation was **urgent**. Another slide looked **imminent**."
+      },
+      {
+        "title": "Taking Charge",
+        "text": "Dalia took one slow breath and kept her **composure**. \"Everyone sit down and listen,\" she said firmly. At summer camp she had learned first aid, and she knew what was **crucial**: keep the guide still and warm. Soren scrambled up a boulder where his phone found one weak bar of signal and used it to **summon** a rescue team. Everett's job was to count heads and keep everyone talking quietly."
+      },
+      {
+        "title": "Help from Above",
+        "text": "The operator promised to **expedite** a helicopter because the weather was turning. Within forty minutes a **paramedic** swung down on a cable and moved to **stabilize** Mr. Quill's ankle with a splint. Every student had been in **jeopardy**, she said, yet the only **casualty** was the guide's broken bone. She also warned that the emotional **trauma** of a frightening event can leave people shaky for days, so no one should feel embarrassed to talk about it."
+      },
+      {
+        "title": "Back on Solid Ground",
+        "text": "That night, Dalia's hands finally began to shake. Her teacher told her that being brave never means feeling no fear. It means doing the next right thing anyway. Soren and Everett nodded. Each of them had done something small, and together those small jobs had kept a frightening afternoon from becoming a tragedy. Dalia decided to take another first-aid course the very next summer."
+      }
+    ],
+    "wordCount": 277
+  },
+  "definitions": [
+    {
+      "word": "urgent",
+      "partOfSpeech": "adjective",
+      "meaning1": "Needing action or attention right away. Example: The urgent message said the bridge was about to close.",
+      "meaning2": "",
+      "studentChallenge": "The doctor ran down the hall because the patient needed ___ care.",
+      "sentence": ""
+    },
+    {
+      "word": "composure",
+      "partOfSpeech": "noun",
+      "meaning1": "A calm, controlled state of mind, especially in a stressful moment. Example: She kept her composure even when the audience began to laugh.",
+      "meaning2": "",
+      "studentChallenge": "The pilot spoke with steady ___ even as the plane shook.",
+      "sentence": ""
+    },
+    {
+      "word": "stabilize",
+      "partOfSpeech": "verb",
+      "meaning1": "To make something steady, safe, or less likely to get worse. Example: Doctors worked to stabilize the patient before the long drive to the hospital.",
+      "meaning2": "To keep something from changing wildly. Example: The government acted to stabilize food prices.",
+      "studentChallenge": "She slid a folded paper under the leg to ___ the wobbly table.",
+      "sentence": ""
+    },
+    {
+      "word": "trauma",
+      "partOfSpeech": "noun",
+      "meaning1": "A deeply upsetting experience that leaves lasting emotional distress. Example: It took months for the family to recover from the trauma of the flood.",
+      "meaning2": "A serious physical injury. Example: The doctor treated a head trauma that the soccer player suffered in the collision.",
+      "studentChallenge": "Talking to a counselor helped him recover from the ___ of the accident.",
+      "sentence": ""
+    },
+    {
+      "word": "crucial",
+      "partOfSpeech": "adjective",
+      "meaning1": "Extremely important and necessary for success. Example: Sleep is crucial for athletes who want to perform well.",
+      "meaning2": "",
+      "studentChallenge": "Wearing a helmet is ___ when riding a bike downhill.",
+      "sentence": ""
+    },
+    {
+      "word": "summon",
+      "partOfSpeech": "verb",
+      "meaning1": "To order or ask someone to come to you. Example: The principal will summon the students to the auditorium.",
+      "meaning2": "To gather up a feeling or strength, such as courage. Example: He tried to summon the courage to speak.",
+      "studentChallenge": "The queen sent a messenger to ___ her advisers to the castle.",
+      "sentence": ""
+    },
+    {
+      "word": "expedite",
+      "partOfSpeech": "verb",
+      "meaning1": "To make a process happen faster. Example: The clerk agreed to expedite the paperwork so the family could travel on time.",
+      "meaning2": "",
+      "studentChallenge": "Extra workers were hired to ___ the delivery of packages before the holiday.",
+      "sentence": ""
+    },
+    {
+      "word": "paramedic",
+      "partOfSpeech": "noun",
+      "meaning1": "A trained health worker who gives emergency medical care at the scene of an accident or in an ambulance. Example: The paramedic checked his pulse and wrapped the sprained wrist.",
+      "meaning2": "",
+      "studentChallenge": "The ___ arrived with a first-aid kit and went straight to the injured cyclist.",
+      "sentence": ""
+    },
+    {
+      "word": "imminent",
+      "partOfSpeech": "adjective",
+      "meaning1": "About to happen very soon. Example: Dark clouds and a sudden chill warned that a storm was imminent.",
+      "meaning2": "",
+      "studentChallenge": "With the finish line in sight, her victory was ___.",
+      "sentence": ""
+    },
+    {
+      "word": "jeopardy",
+      "partOfSpeech": "noun",
+      "meaning1": "Danger of harm, loss, or failure. Example: The long drought put the farmer's whole harvest in jeopardy.",
+      "meaning2": "",
+      "studentChallenge": "Her place on the team was in ___ after she missed three practices.",
+      "sentence": ""
+    },
+    {
+      "word": "hysteria",
+      "partOfSpeech": "noun",
+      "meaning1": "Wild, uncontrolled panic or excitement. Example: Hysteria spread through the crowd when the lights suddenly went out.",
+      "meaning2": "",
+      "studentChallenge": "The rumor of a fire caused ___ in the crowded hallway.",
+      "sentence": ""
+    },
+    {
+      "word": "casualty",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who is hurt or killed in an accident, disaster, or war. Example: After the crash, the hospital counted only one casualty, a driver with a broken arm.",
+      "meaning2": "A thing that is lost or destroyed because of an event. Example: The old bridge was a casualty of the flood.",
+      "studentChallenge": "The fire drill ended with no ___, because everyone had left the building safely.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The doctor ran down the hall because the patient needed _______ care.",
+      "sentence2": "Her _______ text said, \"Call me back right now, it can't wait!\"",
+      "options": [
+        "composure",
+        "summon",
+        "urgent",
+        "jeopardy"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "urgent"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The pilot kept her _______ as the plane shook, speaking in a slow, steady voice.",
+      "sentence2": "It took all of his _______ not to laugh when the principal's chair collapsed.",
+      "options": [
+        "composure",
+        "hysteria",
+        "casualty",
+        "trauma"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "composure"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "She slid a folded paper under the table leg to _______ the wobbly table.",
+      "sentence2": "Doctors worked quickly to _______ the patient before the long ambulance ride.",
+      "options": [
+        "summon",
+        "expedite",
+        "crucial",
+        "stabilize"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "stabilize"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Talking to a counselor helped him recover from the _______ of the car accident.",
+      "sentence2": "The doctor treated the head _______ the soccer player suffered in the collision.",
+      "options": [
+        "casualty",
+        "trauma",
+        "composure",
+        "jeopardy"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "trauma"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Wearing a helmet is _______ when riding a bike downhill.",
+      "sentence2": "Her answer to the last question was _______ to winning the debate.",
+      "options": [
+        "paramedic",
+        "summon",
+        "crucial",
+        "hysteria"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "crucial"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The queen sent a messenger to _______ her advisers to the castle at once.",
+      "sentence2": "Before the race, he tried to _______ the courage to step up to the starting line.",
+      "options": [
+        "summon",
+        "expedite",
+        "stabilize",
+        "urgent"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "summon"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Extra workers were hired to _______ the delivery of packages before the holiday.",
+      "sentence2": "The clerk agreed to _______ the paperwork so the family could travel on time.",
+      "options": [
+        "summon",
+        "stabilize",
+        "composure",
+        "expedite"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "expedite"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The _______ arrived with a first-aid kit and went straight to the injured cyclist.",
+      "sentence2": "Riding in the ambulance, the _______ checked the boy's pulse and kept talking to him calmly.",
+      "options": [
+        "paramedic",
+        "casualty",
+        "composure",
+        "trauma"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "paramedic"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Dark clouds and a sudden chill warned that a storm was _______.",
+      "sentence2": "With the finish line in sight, her victory was _______.",
+      "options": [
+        "urgent",
+        "imminent",
+        "trauma",
+        "summon"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "imminent"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The long drought put the farmer's whole harvest in _______.",
+      "sentence2": "Her place on the team was in _______ after she missed three practices.",
+      "options": [
+        "composure",
+        "paramedic",
+        "expedite",
+        "jeopardy"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "jeopardy"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "_______ spread through the crowd when the lights suddenly went out.",
+      "sentence2": "The rumor of a fire caused _______ in the crowded hallway.",
+      "options": [
+        "casualty",
+        "composure",
+        "hysteria",
+        "paramedic"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "hysteria"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "After the crash, the hospital counted only one _______, a driver with a broken arm.",
+      "sentence2": "The old bridge was a _______ of the flood, swept away in a single night.",
+      "options": [
+        "casualty",
+        "composure",
+        "jeopardy",
+        "hysteria"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "casualty"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "urgent",
+      "composure",
+      "stabilize",
+      "trauma",
+      "crucial",
+      "summon",
+      "expedite",
+      "paramedic",
+      "imminent",
+      "jeopardy",
+      "hysteria",
+      "casualty"
+    ],
+    "passage": "Soren's grandmother volunteered at a river rescue station, and she loved telling the story of her busiest night. The call that came in was _(1)_: two kayakers were stuck on a rock as the water rose. She had to _(2)_ every volunteer in town with a single phone message, because the flood was _(3)_. Standing on the bank, she kept her _(4)_ even though the frightened onlookers were close to _(5)_. \"The most _(6)_ thing,\" she says, \"is to speak slowly and give each person one job.\"\n\nA _(7)_ waited in the boat, ready to _(8)_ anyone who was hurt. The mayor promised to _(9)_ the arrival of a second boat. Both kayakers had been in serious _(10)_, yet they stepped ashore shivering and smiling, wrapped in blankets. Their only lasting _(11)_ was a fear of deep water. Thanks to the quick work of the whole town, the night ended without a single _(12)_.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "urgent",
+        "options": [
+          "composure",
+          "summon",
+          "urgent",
+          "jeopardy"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "summon",
+        "options": [
+          "summon",
+          "stabilize",
+          "trauma",
+          "imminent"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "imminent",
+        "options": [
+          "composure",
+          "expedite",
+          "casualty",
+          "imminent"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "composure",
+        "options": [
+          "casualty",
+          "composure",
+          "paramedic",
+          "crucial"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "hysteria",
+        "options": [
+          "hysteria",
+          "paramedic",
+          "summon",
+          "imminent"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "crucial",
+        "options": [
+          "hysteria",
+          "summon",
+          "crucial",
+          "paramedic"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "paramedic",
+        "options": [
+          "trauma",
+          "paramedic",
+          "jeopardy",
+          "expedite"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "stabilize",
+        "options": [
+          "hysteria",
+          "composure",
+          "jeopardy",
+          "stabilize"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "expedite",
+        "options": [
+          "expedite",
+          "casualty",
+          "imminent",
+          "trauma"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "jeopardy",
+        "options": [
+          "composure",
+          "paramedic",
+          "jeopardy",
+          "expedite"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "trauma",
+        "options": [
+          "composure",
+          "trauma",
+          "urgent",
+          "summon"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "casualty",
+        "options": [
+          "crucial",
+          "expedite",
+          "jeopardy",
+          "casualty"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "urgent",
+        "scale": [
+          "Important",
+          "Urgent",
+          "Critical"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "imminent",
+        "scale": [
+          "Possible",
+          "Likely",
+          "Imminent"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "hysteria",
+        "scale": [
+          "Worry",
+          "Panic",
+          "Hysteria"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "crucial",
+        "scale": [
+          "Helpful",
+          "Important",
+          "Crucial"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "urgent",
+        "words": [
+          "Pressing",
+          "Trivial",
+          "Critical",
+          "Immediate"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Trivial"
+      },
+      {
+        "vocabWord": "composure",
+        "words": [
+          "Calmness",
+          "Poise",
+          "Self-control",
+          "Panic"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Panic"
+      },
+      {
+        "vocabWord": "stabilize",
+        "words": [
+          "Unsettle",
+          "Steady",
+          "Secure",
+          "Strengthen"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Unsettle"
+      },
+      {
+        "vocabWord": "crucial",
+        "words": [
+          "Vital",
+          "Essential",
+          "Unimportant",
+          "Critical"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Unimportant"
+      },
+      {
+        "vocabWord": "summon",
+        "words": [
+          "Call",
+          "Invite",
+          "Beckon",
+          "Dismiss"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Dismiss"
+      },
+      {
+        "vocabWord": "expedite",
+        "words": [
+          "Hasten",
+          "Delay",
+          "Speed up",
+          "Accelerate"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Delay"
+      },
+      {
+        "vocabWord": "imminent",
+        "words": [
+          "Distant",
+          "Looming",
+          "Approaching",
+          "Coming"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Distant"
+      },
+      {
+        "vocabWord": "trauma",
+        "words": [
+          "Shock",
+          "Distress",
+          "Comfort",
+          "Wound"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Comfort"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

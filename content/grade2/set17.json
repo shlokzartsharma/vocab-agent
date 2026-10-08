@@ -1,0 +1,578 @@
+{
+  "grade": 2,
+  "setNumber": 17,
+  "words": [
+    "dangle",
+    "lure",
+    "bait",
+    "cast",
+    "reel",
+    "minnow",
+    "plop",
+    "bobber",
+    "twitch",
+    "glassy",
+    "snag",
+    "reflection"
+  ],
+  "sources": [
+    "Common Core Grade 2",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "fishing at the lake",
+  "story": {
+    "genre": "fishing at the lake",
+    "characters": [
+      "Mabel",
+      "Dario",
+      "Keiko"
+    ],
+    "parts": [
+      {
+        "title": "Morning at the Lake",
+        "text": "Mabel, Dario, and Keiko went to the lake with Grandpa. The water was **glassy**, as smooth as a mirror. Mabel leaned over the dock and saw her **reflection** smiling back. Grandpa gave each child a fishing rod and a small box."
+      },
+      {
+        "title": "Getting Ready",
+        "text": "Dario picked a shiny **lure** that looked like a tiny fish. Keiko put a wiggly worm on her hook as **bait**. Grandpa showed them how to **cast**. “Pull back, then swing forward,” he said. Keiko's red **bobber** landed with a **plop**. She let her feet **dangle** over the edge of the dock and waited."
+      },
+      {
+        "title": "A Little Surprise",
+        "text": "Suddenly the bobber gave a **twitch**. “I think I have a fish!” Keiko shouted, and she began to **reel** in her line. Out came a tiny **minnow**, no bigger than a finger. She smiled and set it back in the water. Then Dario's line got a **snag** on an old log, and Grandpa helped him pull it free."
+      },
+      {
+        "title": "Golden Evening",
+        "text": "The sun began to sink, and the lake turned gold. They had not caught a big fish, but they had laughed all day. Grandpa said the best part of fishing is the quiet time together."
+      }
+    ],
+    "wordCount": 188
+  },
+  "definitions": [
+    {
+      "word": "dangle",
+      "partOfSpeech": "verb",
+      "meaning1": "To hang down and swing loosely. Example: Let your legs dangle from the end of the dock.",
+      "meaning2": "",
+      "studentChallenge": "A long ribbon will ___ from the kite.",
+      "sentence": ""
+    },
+    {
+      "word": "lure",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A fake bug or fish used to trick a fish into biting. Example: He tied a shiny lure to the end of his line.",
+      "meaning2": "To attract someone or something by offering a treat. Example: The smell of warm bread can lure me into the kitchen.",
+      "studentChallenge": "The fish swam up to the colorful ___.",
+      "sentence": ""
+    },
+    {
+      "word": "bait",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "Food put on a hook to attract fish. Example: We used a worm as bait.",
+      "meaning2": "To put food on a hook. Example: Dad will bait my hook for me.",
+      "studentChallenge": "Keiko put a worm on the hook as ___.",
+      "sentence": ""
+    },
+    {
+      "word": "cast",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To throw something out, such as a fishing line. Example: She learned to cast her line far across the pond.",
+      "meaning2": "All the actors in a play. Example: The cast of the play took a bow.",
+      "studentChallenge": "Please ___ your line near the lily pads.",
+      "sentence": ""
+    },
+    {
+      "word": "reel",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To wind in a fishing line by turning a handle. Example: I felt a tug and began to reel in my line.",
+      "meaning2": "The round part of a fishing rod that holds the line. Example: The line is wound around the reel.",
+      "studentChallenge": "Turn the handle to ___ in the line.",
+      "sentence": ""
+    },
+    {
+      "word": "minnow",
+      "partOfSpeech": "noun",
+      "meaning1": "A very small fish. Example: A silver minnow darted between the rocks.",
+      "meaning2": "",
+      "studentChallenge": "The tiny ___ swam in the shallow water.",
+      "sentence": ""
+    },
+    {
+      "word": "plop",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "The soft sound of something falling into water. Example: We heard a plop as the frog jumped in.",
+      "meaning2": "To fall into water with a soft sound. Example: The pebbles plop into the pond one by one.",
+      "studentChallenge": "A stone fell into the pond with a soft ___.",
+      "sentence": ""
+    },
+    {
+      "word": "bobber",
+      "partOfSpeech": "noun",
+      "meaning1": "A small floating ball on a fishing line that jiggles when a fish bites. Example: The red bobber floated on the water.",
+      "meaning2": "",
+      "studentChallenge": "When the ___ went under, she knew a fish had taken the hook.",
+      "sentence": ""
+    },
+    {
+      "word": "twitch",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To move with a small, quick jerk. Example: The rabbit's nose began to twitch.",
+      "meaning2": "A small, quick jerk. Example: I saw a twitch in the line.",
+      "studentChallenge": "My eye might ___ when I am tired.",
+      "sentence": ""
+    },
+    {
+      "word": "glassy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Smooth and shiny like glass. Example: The glassy lake showed the whole sky.",
+      "meaning2": "",
+      "studentChallenge": "The pond was so ___ that it looked like a mirror.",
+      "sentence": ""
+    },
+    {
+      "word": "snag",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A hidden thing that catches or stops something. Example: The line hit a snag under the water.",
+      "meaning2": "To catch on something rough. Example: Be careful not to snag your sleeve on the fence.",
+      "studentChallenge": "The kite string got a ___ on a branch.",
+      "sentence": ""
+    },
+    {
+      "word": "reflection",
+      "partOfSpeech": "noun",
+      "meaning1": "An image you see in a mirror or on smooth water. Example: I saw my reflection in the still pond.",
+      "meaning2": "",
+      "studentChallenge": "She waved at her ___ in the window.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Let your legs _______ over the edge of the dock.",
+      "sentence2": "A long ribbon will _______ from the end of the kite.",
+      "options": [
+        "cast",
+        "dangle",
+        "bobber",
+        "minnow"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "dangle"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The shiny _______ looked like a tiny silver fish.",
+      "sentence2": "A fisher tied a bright _______ to the end of her line.",
+      "options": [
+        "lure",
+        "reel",
+        "glassy",
+        "snag"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "lure"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Keiko put a wiggly worm on her hook as _______.",
+      "sentence2": "Fish will not bite without _______ on the hook.",
+      "options": [
+        "snag",
+        "reel",
+        "reflection",
+        "bait"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "bait"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Grandpa showed us how to _______ the line far out into the lake.",
+      "sentence2": "She pulled back her rod and began to _______ toward the deep water.",
+      "options": [
+        "bobber",
+        "minnow",
+        "cast",
+        "glassy"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "cast"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Turn the handle to _______ in your line.",
+      "sentence2": "I felt a tug, so I began to _______ in the fish slowly.",
+      "options": [
+        "plop",
+        "reel",
+        "dangle",
+        "bait"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "reel"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "A tiny _______ darted through the shallow water.",
+      "sentence2": "The _______ was no bigger than my finger.",
+      "options": [
+        "minnow",
+        "bobber",
+        "glassy",
+        "twitch"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "minnow"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "A pebble fell into the pond with a soft _______.",
+      "sentence2": "I heard a _______ as the frog jumped in.",
+      "options": [
+        "reflection",
+        "lure",
+        "glassy",
+        "plop"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "plop"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The red _______ floated on top of the water.",
+      "sentence2": "When the _______ went under, Keiko knew a fish was biting.",
+      "options": [
+        "glassy",
+        "dangle",
+        "bobber",
+        "twitch"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "bobber"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The rabbit's nose began to _______ when it smelled the carrot.",
+      "sentence2": "My eye might _______ when I am very tired.",
+      "options": [
+        "plop",
+        "twitch",
+        "dangle",
+        "cast"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "twitch"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The lake was _______ and smooth, with no waves at all.",
+      "sentence2": "The ice on the puddle looked _______ and shiny.",
+      "options": [
+        "glassy",
+        "bait",
+        "reel",
+        "snag"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "glassy"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Be careful not to _______ your sweater on the rough fence.",
+      "sentence2": "The hook might _______ on a log under the water.",
+      "options": [
+        "minnow",
+        "reflection",
+        "bait",
+        "snag"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "snag"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "I saw my _______ in the still water.",
+      "sentence2": "The mirror showed her _______ clearly.",
+      "options": [
+        "lure",
+        "bobber",
+        "reflection",
+        "minnow"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "reflection"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "dangle",
+      "lure",
+      "bait",
+      "cast",
+      "reel",
+      "minnow",
+      "plop",
+      "bobber",
+      "twitch",
+      "glassy",
+      "snag",
+      "reflection"
+    ],
+    "passage": "On Saturday, Hugo and his dad walked to the pond. The water was _(1)_, and the trees stood upside down in it. Hugo smiled at his _(2)_ and then opened the tackle box.\nFirst he chose a bright _(3)_ with a blue stripe. His dad showed him how to _(4)_ the line. Hugo flicked his rod, and the red _(5)_ landed with a soft _(6)_. Then he sat on the dock and let his legs _(7)_.\nA few minutes later, the bobber began to _(8)_. Hugo held his breath and started to _(9)_. At the end of the line was a tiny _(10)_ and a bit of _(11)_ still on the hook. He laughed and let the little fish swim away. Later his line caught on a _(12)_, and his dad helped him free it.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "glassy",
+        "options": [
+          "dangle",
+          "bobber",
+          "glassy",
+          "minnow"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "reflection",
+        "options": [
+          "glassy",
+          "dangle",
+          "reflection",
+          "plop"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "lure",
+        "options": [
+          "dangle",
+          "lure",
+          "glassy",
+          "twitch"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "cast",
+        "options": [
+          "reflection",
+          "glassy",
+          "cast",
+          "minnow"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "bobber",
+        "options": [
+          "glassy",
+          "dangle",
+          "plop",
+          "bobber"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "plop",
+        "options": [
+          "plop",
+          "glassy",
+          "dangle",
+          "snag"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "dangle",
+        "options": [
+          "glassy",
+          "minnow",
+          "bobber",
+          "dangle"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "twitch",
+        "options": [
+          "reflection",
+          "twitch",
+          "glassy",
+          "minnow"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "reel",
+        "options": [
+          "reel",
+          "reflection",
+          "bobber",
+          "minnow"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "minnow",
+        "options": [
+          "dangle",
+          "glassy",
+          "minnow",
+          "bait"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "bait",
+        "options": [
+          "bait",
+          "dangle",
+          "glassy",
+          "bobber"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "snag",
+        "options": [
+          "dangle",
+          "snag",
+          "glassy",
+          "twitch"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "glassy",
+        "scale": [
+          "Rough",
+          "Smooth",
+          "Glassy"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "plop",
+        "scale": [
+          "Drip",
+          "Plop",
+          "Splash"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "minnow",
+        "scale": [
+          "Minnow",
+          "Trout",
+          "Whale"
+        ],
+        "vocabPosition": 0
+      },
+      {
+        "vocabWord": "twitch",
+        "scale": [
+          "Shiver",
+          "Twitch",
+          "Jerk"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "dangle",
+        "words": [
+          "Hang",
+          "Swing",
+          "Droop",
+          "Stand"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Stand"
+      },
+      {
+        "vocabWord": "lure",
+        "words": [
+          "Tempt",
+          "Attract",
+          "Repel",
+          "Entice"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Repel"
+      },
+      {
+        "vocabWord": "cast",
+        "words": [
+          "Throw",
+          "Toss",
+          "Hold",
+          "Fling"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Hold"
+      },
+      {
+        "vocabWord": "reel",
+        "words": [
+          "Wind",
+          "Release",
+          "Crank",
+          "Haul"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Release"
+      },
+      {
+        "vocabWord": "glassy",
+        "words": [
+          "Smooth",
+          "Shiny",
+          "Bumpy",
+          "Slick"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Bumpy"
+      },
+      {
+        "vocabWord": "snag",
+        "words": [
+          "Catch",
+          "Free",
+          "Hook",
+          "Tangle"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Free"
+      },
+      {
+        "vocabWord": "twitch",
+        "words": [
+          "Jerk",
+          "Jump",
+          "Freeze",
+          "Flick"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Freeze"
+      },
+      {
+        "vocabWord": "plop",
+        "words": [
+          "Splash",
+          "Drop",
+          "Fall",
+          "Float"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Float"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

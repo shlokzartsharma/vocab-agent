@@ -1,0 +1,578 @@
+{
+  "grade": 2,
+  "setNumber": 15,
+  "words": [
+    "palette",
+    "mural",
+    "smudge",
+    "sculpt",
+    "messy",
+    "creative",
+    "paintbrush",
+    "tint",
+    "easel",
+    "dab",
+    "collage",
+    "mold"
+  ],
+  "sources": [
+    "Common Core Grade 2",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "art class",
+  "story": {
+    "genre": "art class",
+    "characters": [
+      "Gabi",
+      "Noel",
+      "Fatou"
+    ],
+    "parts": [
+      {
+        "title": "Art Day",
+        "text": "Gabi, Noel, and Fatou loved art class. Today they would help paint a big **mural** for the hallway. First, each child set up an **easel** and picked up a **paintbrush**. Gabi squeezed bright colors onto her **palette**."
+      },
+      {
+        "title": "Mixing Colors",
+        "text": "Noel wanted a lighter blue, so he mixed in some white paint. It made the blue a soft **tint**. He used the tip of his brush to **dab** tiny dots of yellow on the sky. Then his elbow bumped the paper and made a **smudge**. “Oops!” he said. The table was getting **messy**, but Fatou only laughed. “Art can be like that,” she said."
+      },
+      {
+        "title": "Clay and Paper",
+        "text": "Next, the teacher handed out clay. Fatou tried to **sculpt** a little bird. Gabi pressed her clay into a **mold** shaped like a star. Noel glued bits of colored paper onto a card to make a **collage**. He felt very **creative**."
+      },
+      {
+        "title": "Show Time",
+        "text": "At the end of class, the children set their work on a long table. Parents and friends came to look. Everyone had made something different, and every piece was special. Gabi smiled. Art could look any way you wanted it to look."
+      }
+    ],
+    "wordCount": 184
+  },
+  "definitions": [
+    {
+      "word": "palette",
+      "partOfSpeech": "noun",
+      "meaning1": "A flat board or tray where an artist mixes paint colors. Example: She mixed red and yellow on her palette.",
+      "meaning2": "",
+      "studentChallenge": "The artist squeezed blue paint onto her ___.",
+      "sentence": ""
+    },
+    {
+      "word": "mural",
+      "partOfSpeech": "noun",
+      "meaning1": "A large painting made right on a wall. Example: The mural showed children playing in a park.",
+      "meaning2": "",
+      "studentChallenge": "Our class painted a big ___ on the school wall.",
+      "sentence": ""
+    },
+    {
+      "word": "smudge",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A dirty or blurry mark. Example: There was a smudge of ink on my paper.",
+      "meaning2": "To rub something so that it makes a blurry mark. Example: Do not smudge the wet paint.",
+      "studentChallenge": "I left a ___ of chalk on my sleeve.",
+      "sentence": ""
+    },
+    {
+      "word": "sculpt",
+      "partOfSpeech": "verb",
+      "meaning1": "To make a shape or figure out of clay, stone, or wood. Example: She will sculpt a horse from clay.",
+      "meaning2": "",
+      "studentChallenge": "He used soft clay to ___ a small turtle.",
+      "sentence": ""
+    },
+    {
+      "word": "messy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Dirty or not neat. Example: My desk is messy after art class.",
+      "meaning2": "",
+      "studentChallenge": "My room was ___, with toys all over the floor.",
+      "sentence": ""
+    },
+    {
+      "word": "creative",
+      "partOfSpeech": "adjective",
+      "meaning1": "Good at coming up with new ideas. Example: The creative girl made a hat out of paper.",
+      "meaning2": "",
+      "studentChallenge": "Mia is very ___ and makes up new games.",
+      "sentence": ""
+    },
+    {
+      "word": "paintbrush",
+      "partOfSpeech": "noun",
+      "meaning1": "A brush used to put paint on paper or a wall. Example: I washed my paintbrush in water.",
+      "meaning2": "",
+      "studentChallenge": "Dip your ___ in the red paint.",
+      "sentence": ""
+    },
+    {
+      "word": "tint",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A light shade of a color. Example: The white paint gave the blue a soft tint.",
+      "meaning2": "To add a little color to something. Example: A drop of red will tint the paint pink.",
+      "studentChallenge": "Adding white made a pale ___ of green.",
+      "sentence": ""
+    },
+    {
+      "word": "easel",
+      "partOfSpeech": "noun",
+      "meaning1": "A stand that holds a painting or canvas up. Example: The painting sat on an easel.",
+      "meaning2": "",
+      "studentChallenge": "The artist set her painting on the ___.",
+      "sentence": ""
+    },
+    {
+      "word": "dab",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To touch lightly with quick little pats. Example: I dab a little paint on the paper.",
+      "meaning2": "A small touch or amount. Example: Put a dab of glue on the card.",
+      "studentChallenge": "Use your brush to ___ small dots on the page.",
+      "sentence": ""
+    },
+    {
+      "word": "collage",
+      "partOfSpeech": "noun",
+      "meaning1": "A picture made by gluing paper, cloth, or other things onto a surface. Example: We made a collage with bits of colored paper.",
+      "meaning2": "",
+      "studentChallenge": "She glued paper shapes onto a card to make a ___.",
+      "sentence": ""
+    },
+    {
+      "word": "mold",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A shape you press things into to make a form. Example: She pressed the clay into the star mold.",
+      "meaning2": "To shape something with your hands. Example: Please mold the clay into a ball.",
+      "studentChallenge": "We pressed the clay into a star-shaped ___.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "She mixed yellow and red on her _______ to make orange.",
+      "sentence2": "The painter mixed colors on a wooden _______ before painting.",
+      "options": [
+        "easel",
+        "mural",
+        "collage",
+        "palette"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "palette"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Our class painted a big _______ on the school wall.",
+      "sentence2": "The _______ across the whole side of the building showed children playing.",
+      "options": [
+        "mural",
+        "palette",
+        "easel",
+        "collage"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "mural"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "There was a _______ of ink on my paper.",
+      "sentence2": "Careful, do not _______ the wet paint with your sleeve.",
+      "options": [
+        "palette",
+        "smudge",
+        "sculpt",
+        "easel"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "smudge"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "He used soft clay to _______ a small turtle.",
+      "sentence2": "The artist will _______ a horse from a block of stone.",
+      "options": [
+        "dab",
+        "smudge",
+        "sculpt",
+        "collage"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "sculpt"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "My desk was _______ after art class, with paint everywhere.",
+      "sentence2": "Her room was _______, with toys all over the floor.",
+      "options": [
+        "creative",
+        "easel",
+        "mural",
+        "messy"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "messy"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "She is so _______ that she can turn a paper cup into a puppet.",
+      "sentence2": "He is very _______ and always thinks of new ideas for games.",
+      "options": [
+        "creative",
+        "messy",
+        "easel",
+        "tint"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "creative"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "She held the thin _______ by its wooden handle and painted a line.",
+      "sentence2": "The soft hairs on the _______ were wet with paint.",
+      "options": [
+        "palette",
+        "paintbrush",
+        "collage",
+        "tint"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "paintbrush"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Adding white gave the blue a pale _______.",
+      "sentence2": "A drop of red can _______ the white paint pink.",
+      "options": [
+        "mold",
+        "sculpt",
+        "tint",
+        "easel"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "tint"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The artist set her painting on the _______ and stepped back to look.",
+      "sentence2": "A wooden _______ held the big canvas upright.",
+      "options": [
+        "palette",
+        "paintbrush",
+        "mural",
+        "easel"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "easel"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Use your brush to _______ small dots of paint on the page.",
+      "sentence2": "Put just a _______ of glue on the card.",
+      "options": [
+        "dab",
+        "sculpt",
+        "mold",
+        "creative"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "dab"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "She glued paper shapes onto a card to make a _______.",
+      "sentence2": "We made a _______ with bits of colored paper and old magazines.",
+      "options": [
+        "mural",
+        "collage",
+        "palette",
+        "easel"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "collage"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "We pressed the clay into a star-shaped _______.",
+      "sentence2": "Please _______ the clay into a round ball with your hands.",
+      "options": [
+        "palette",
+        "easel",
+        "mold",
+        "tint"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "mold"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "palette",
+      "mural",
+      "smudge",
+      "sculpt",
+      "messy",
+      "creative",
+      "paintbrush",
+      "tint",
+      "easel",
+      "dab",
+      "collage",
+      "mold"
+    ],
+    "passage": "On Friday, Gabi’s art class got ready to make something special. Everyone set up a tall _(1)_ and picked up a _(2)_. Gabi put red, blue, and yellow paint on her _(3)_. She was feeling very _(4)_.\nHer class would paint a bright _(5)_ on the hallway wall. Gabi mixed white into the red to make a pink _(6)_. She used the tip of her brush to _(7)_ tiny dots on the petals. Then her sleeve touched the paint and left a _(8)_. The table became _(9)_, but Gabi did not mind.\nAfter that, the class played with clay. Some children tried to _(10)_ animals. Gabi pressed hers into a _(11)_. Last, she glued scraps of paper to make a _(12)_.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "easel",
+        "options": [
+          "easel",
+          "sculpt",
+          "creative",
+          "smudge"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "paintbrush",
+        "options": [
+          "creative",
+          "messy",
+          "sculpt",
+          "paintbrush"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "palette",
+        "options": [
+          "smudge",
+          "mold",
+          "palette",
+          "sculpt"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "creative",
+        "options": [
+          "easel",
+          "creative",
+          "mold",
+          "mural"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "mural",
+        "options": [
+          "mural",
+          "dab",
+          "sculpt",
+          "palette"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "tint",
+        "options": [
+          "creative",
+          "easel",
+          "sculpt",
+          "tint"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "dab",
+        "options": [
+          "mural",
+          "paintbrush",
+          "dab",
+          "palette"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "smudge",
+        "options": [
+          "palette",
+          "smudge",
+          "easel",
+          "creative"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "messy",
+        "options": [
+          "messy",
+          "tint",
+          "collage",
+          "palette"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "sculpt",
+        "options": [
+          "palette",
+          "messy",
+          "easel",
+          "sculpt"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "mold",
+        "options": [
+          "dab",
+          "messy",
+          "mold",
+          "mural"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "collage",
+        "options": [
+          "sculpt",
+          "collage",
+          "palette",
+          "paintbrush"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "messy",
+        "scale": [
+          "Untidy",
+          "Messy",
+          "Filthy"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "creative",
+        "scale": [
+          "Ordinary",
+          "Creative",
+          "Inventive"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "smudge",
+        "scale": [
+          "Speck",
+          "Smudge",
+          "Stain"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "dab",
+        "scale": [
+          "Touch",
+          "Dab",
+          "Splash"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "messy",
+        "words": [
+          "Untidy",
+          "Neat",
+          "Sloppy",
+          "Cluttered"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Neat"
+      },
+      {
+        "vocabWord": "creative",
+        "words": [
+          "Dull",
+          "Inventive",
+          "Original",
+          "Artistic"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Dull"
+      },
+      {
+        "vocabWord": "smudge",
+        "words": [
+          "Smear",
+          "Blot",
+          "Stain",
+          "Polish"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Polish"
+      },
+      {
+        "vocabWord": "sculpt",
+        "words": [
+          "Carve",
+          "Shape",
+          "Smash",
+          "Form"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Smash"
+      },
+      {
+        "vocabWord": "dab",
+        "words": [
+          "Pat",
+          "Slam",
+          "Tap",
+          "Touch"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Slam"
+      },
+      {
+        "vocabWord": "tint",
+        "words": [
+          "Clear",
+          "Shade",
+          "Hue",
+          "Tone"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Clear"
+      },
+      {
+        "vocabWord": "mold",
+        "words": [
+          "Shape",
+          "Form",
+          "Press",
+          "Break"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Break"
+      },
+      {
+        "vocabWord": "mural",
+        "words": [
+          "Fresco",
+          "Wall art",
+          "Tiny doodle",
+          "Big painting"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Tiny doodle"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

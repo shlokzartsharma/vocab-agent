@@ -1,0 +1,578 @@
+{
+  "grade": 1,
+  "setNumber": 18,
+  "words": [
+    "hoard",
+    "rake",
+    "golden",
+    "crinkle",
+    "withered",
+    "pumpkin",
+    "bare",
+    "brisk",
+    "shuffle",
+    "bushy",
+    "fade",
+    "sweep"
+  ],
+  "sources": [
+    "Common Core Grade 1",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "autumn leaves",
+  "story": {
+    "genre": "autumn leaves",
+    "characters": [
+      "Sasha",
+      "Ollie",
+      "Mina"
+    ],
+    "parts": [
+      {
+        "title": "Leaf Day",
+        "text": "It was a **brisk** autumn morning. Sasha, Ollie, and Mina put on warm coats. The old maple tree was almost **bare**. Its **golden** leaves lay all over the grass."
+      },
+      {
+        "title": "The Big Pile",
+        "text": "Sasha used a **rake** to pull the leaves into a pile. Some leaves were brown and **withered**. Ollie walked in his boots and began to **shuffle** his feet. The dry leaves went **crinkle** under each step."
+      },
+      {
+        "title": "Busy Visitors",
+        "text": "A squirrel ran by with a **bushy** tail. It wanted to **hoard** acorns for winter. Mina set a **pumpkin** on the porch. As evening came, the light began to **fade**. Sasha and Ollie used a broom to **sweep** the porch."
+      },
+      {
+        "title": "A Cozy End",
+        "text": "The yard was neat again. The friends jumped into the pile one last time. They laughed until it was time for hot cocoa."
+      }
+    ],
+    "wordCount": 128
+  },
+  "definitions": [
+    {
+      "word": "hoard",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To save up and keep a lot of something. Example: Squirrels hoard nuts for winter.",
+      "meaning2": "A big pile of saved things. Example: The pirate story had a hoard of coins.",
+      "studentChallenge": "Chipmunks ___ seeds in their burrow for the cold months.",
+      "sentence": ""
+    },
+    {
+      "word": "rake",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A tool with long teeth for pulling leaves together. Example: I used a rake to clean the yard.",
+      "meaning2": "To pull things together with that tool. Example: We rake leaves into a pile.",
+      "studentChallenge": "Dad will ___ the leaves on the lawn.",
+      "sentence": ""
+    },
+    {
+      "word": "golden",
+      "partOfSpeech": "adjective",
+      "meaning1": "Shiny yellow, like gold. Example: The golden sun set behind the hills.",
+      "meaning2": "",
+      "studentChallenge": "The ___ wheat field shone in the sun.",
+      "sentence": ""
+    },
+    {
+      "word": "crinkle",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To make a crackly sound or small folds. Example: The paper will crinkle when I squeeze it.",
+      "meaning2": "A small fold or wrinkle. Example: There is a crinkle in my paper.",
+      "studentChallenge": "Dry leaves ___ when you step on them.",
+      "sentence": ""
+    },
+    {
+      "word": "withered",
+      "partOfSpeech": "adjective",
+      "meaning1": "Dried up and weak, like a plant with no water. Example: The withered flowers drooped in the vase.",
+      "meaning2": "",
+      "studentChallenge": "The ___ plant needed a drink of water.",
+      "sentence": ""
+    },
+    {
+      "word": "pumpkin",
+      "partOfSpeech": "noun",
+      "meaning1": "A big, round, orange fruit that grows on a vine. Example: We made soup from a pumpkin.",
+      "meaning2": "",
+      "studentChallenge": "We carved a face on a big orange ___.",
+      "sentence": ""
+    },
+    {
+      "word": "bare",
+      "partOfSpeech": "adjective",
+      "meaning1": "Empty, with nothing on it. Example: The tree was bare in winter.",
+      "meaning2": "",
+      "studentChallenge": "In winter, the ___ tree had no leaves.",
+      "sentence": ""
+    },
+    {
+      "word": "brisk",
+      "partOfSpeech": "adjective",
+      "meaning1": "Cool and fresh, or quick and lively. Example: We took a brisk walk on a chilly day.",
+      "meaning2": "",
+      "studentChallenge": "A ___ wind made me pull up my hood.",
+      "sentence": ""
+    },
+    {
+      "word": "shuffle",
+      "partOfSpeech": "verb",
+      "meaning1": "To slide your feet without lifting them. Example: I shuffle my feet in my big slippers.",
+      "meaning2": "To mix up cards. Example: Please shuffle the cards before we play.",
+      "studentChallenge": "He began to ___ across the room in his big socks.",
+      "sentence": ""
+    },
+    {
+      "word": "bushy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Thick and full. Example: The fox has a bushy tail.",
+      "meaning2": "",
+      "studentChallenge": "The squirrel’s ___ tail swished back and forth.",
+      "sentence": ""
+    },
+    {
+      "word": "fade",
+      "partOfSpeech": "verb",
+      "meaning1": "To lose color or get dim slowly. Example: The light will fade as night comes.",
+      "meaning2": "",
+      "studentChallenge": "My red shirt began to ___ after many washes.",
+      "sentence": ""
+    },
+    {
+      "word": "sweep",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To clean with a broom. Example: I sweep the kitchen floor.",
+      "meaning2": "To move across quickly. Example: The wind can sweep across the field.",
+      "studentChallenge": "Please ___ the dust off the porch with a broom.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Squirrels _______ nuts for the long winter.",
+      "sentence2": "Some birds _______ seeds in hidden places.",
+      "options": [
+        "golden",
+        "bushy",
+        "hoard",
+        "pumpkin"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "hoard"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Dad will _______ the leaves into a pile.",
+      "sentence2": "I use a _______ to clean the yard.",
+      "options": [
+        "rake",
+        "bare",
+        "brisk",
+        "bushy"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "rake"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The _______ sun sank behind the hills.",
+      "sentence2": "The wheat field looked _______ in the light.",
+      "options": [
+        "hoard",
+        "fade",
+        "shuffle",
+        "golden"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "golden"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Dry leaves _______ when you step on them.",
+      "sentence2": "The paper will _______ when I squeeze it.",
+      "options": [
+        "golden",
+        "crinkle",
+        "pumpkin",
+        "brisk"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "crinkle"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The _______ flowers drooped in the vase.",
+      "sentence2": "Without water, the plant turned brown and _______.",
+      "options": [
+        "brisk",
+        "pumpkin",
+        "withered",
+        "hoard"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "withered"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "We carved a face on the big orange _______.",
+      "sentence2": "Mom made soup from a ripe _______.",
+      "options": [
+        "pumpkin",
+        "rake",
+        "hoard",
+        "fade"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "pumpkin"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "In winter, the tree was _______ and had no leaves.",
+      "sentence2": "The room was _______, with no rugs or pictures.",
+      "options": [
+        "withered",
+        "bushy",
+        "golden",
+        "bare"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "bare"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "A _______ wind made me zip my coat.",
+      "sentence2": "We took a _______ walk on the cool day.",
+      "options": [
+        "bare",
+        "brisk",
+        "golden",
+        "bushy"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "brisk"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "I _______ my feet in my big, soft slippers.",
+      "sentence2": "Please _______ the cards before we play.",
+      "options": [
+        "hoard",
+        "crinkle",
+        "shuffle",
+        "pumpkin"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "shuffle"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The squirrel has a big, _______ tail.",
+      "sentence2": "He had _______ eyebrows that went up and down.",
+      "options": [
+        "bushy",
+        "pumpkin",
+        "brisk",
+        "withered"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "bushy"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "My red shirt will _______ after many washes.",
+      "sentence2": "The light will _______ when the sun goes down.",
+      "options": [
+        "bare",
+        "bushy",
+        "pumpkin",
+        "fade"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "fade"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Please _______ the porch with a broom.",
+      "sentence2": "The wind can _______ across the open field.",
+      "options": [
+        "golden",
+        "sweep",
+        "pumpkin",
+        "bare"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "sweep"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "hoard",
+      "rake",
+      "golden",
+      "crinkle",
+      "withered",
+      "pumpkin",
+      "bare",
+      "brisk",
+      "shuffle",
+      "bushy",
+      "fade",
+      "sweep"
+    ],
+    "passage": "Grandpa’s farm was quiet on a _(1)_ October day. The apple trees were nearly _(2)_, and their leaves lay on the ground, red and _(3)_. Mina grabbed a _(4)_ and made a huge pile.\n\nShe heard the leaves _(5)_ under her boots. Ollie liked to _(6)_ through the pile with his feet. A squirrel with a _(7)_ tail ran past. It wanted to _(8)_ acorns in a hole.\n\nGrandpa’s garden had a few _(9)_ plants. But a big orange _(10)_ still sat by the fence. In the evening, the light began to _(11)_. Before dinner, Mina helped _(12)_ the porch clean.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "brisk",
+        "options": [
+          "brisk",
+          "pumpkin",
+          "hoard",
+          "sweep"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "bare",
+        "options": [
+          "hoard",
+          "crinkle",
+          "rake",
+          "bare"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "golden",
+        "options": [
+          "pumpkin",
+          "golden",
+          "hoard",
+          "shuffle"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "rake",
+        "options": [
+          "golden",
+          "bare",
+          "rake",
+          "bushy"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "crinkle",
+        "options": [
+          "crinkle",
+          "bushy",
+          "golden",
+          "withered"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "shuffle",
+        "options": [
+          "pumpkin",
+          "golden",
+          "brisk",
+          "shuffle"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "bushy",
+        "options": [
+          "hoard",
+          "bushy",
+          "fade",
+          "sweep"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "hoard",
+        "options": [
+          "golden",
+          "bushy",
+          "hoard",
+          "brisk"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "withered",
+        "options": [
+          "withered",
+          "hoard",
+          "shuffle",
+          "sweep"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "pumpkin",
+        "options": [
+          "shuffle",
+          "brisk",
+          "bare",
+          "pumpkin"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "fade",
+        "options": [
+          "golden",
+          "fade",
+          "pumpkin",
+          "bushy"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "sweep",
+        "options": [
+          "golden",
+          "bare",
+          "sweep",
+          "pumpkin"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "brisk",
+        "scale": [
+          "Mild",
+          "Brisk",
+          "Frosty"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "fade",
+        "scale": [
+          "Dim",
+          "Fade",
+          "Vanish"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "golden",
+        "scale": [
+          "Pale",
+          "Yellow",
+          "Golden"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "bushy",
+        "scale": [
+          "Thin",
+          "Fluffy",
+          "Bushy"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "hoard",
+        "words": [
+          "Save",
+          "Store",
+          "Stash",
+          "Give away"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Give away"
+      },
+      {
+        "vocabWord": "bare",
+        "words": [
+          "Empty",
+          "Plain",
+          "Open",
+          "Covered"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Covered"
+      },
+      {
+        "vocabWord": "withered",
+        "words": [
+          "Dried",
+          "Wilted",
+          "Droopy",
+          "Fresh"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Fresh"
+      },
+      {
+        "vocabWord": "brisk",
+        "words": [
+          "Warm",
+          "Chilly",
+          "Cool",
+          "Crisp"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Warm"
+      },
+      {
+        "vocabWord": "bushy",
+        "words": [
+          "Thick",
+          "Fluffy",
+          "Full",
+          "Thin"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Thin"
+      },
+      {
+        "vocabWord": "shuffle",
+        "words": [
+          "Drag",
+          "Slide",
+          "Scuff",
+          "Leap"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Leap"
+      },
+      {
+        "vocabWord": "fade",
+        "words": [
+          "Dim",
+          "Weaken",
+          "Brighten",
+          "Pale"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Brighten"
+      },
+      {
+        "vocabWord": "sweep",
+        "words": [
+          "Brush",
+          "Clean",
+          "Wipe",
+          "Litter"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Litter"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

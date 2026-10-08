@@ -1,0 +1,578 @@
+{
+  "grade": 2,
+  "setNumber": 14,
+  "words": [
+    "caterpillar",
+    "cocoon",
+    "nectar",
+    "flit",
+    "graceful",
+    "chrysalis",
+    "sip",
+    "antenna",
+    "unfurl",
+    "monarch",
+    "bud",
+    "dew"
+  ],
+  "sources": [
+    "Common Core Grade 2",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "butterfly garden",
+  "story": {
+    "genre": "butterfly garden",
+    "characters": [
+      "Lucia",
+      "Remy",
+      "Hiro"
+    ],
+    "parts": [
+      {
+        "title": "The Garden",
+        "text": "Lucia, Remy, and Hiro helped their teacher plant a butterfly garden at school. Each morning, tiny drops of **dew** sparkled on the leaves. One day, Remy found a green **caterpillar** munching on a leaf. “What will it become?” he asked."
+      },
+      {
+        "title": "A Big Change",
+        "text": "The caterpillar ate and ate. Then it hung from a twig and made a green **chrysalis**. Their teacher said a moth would spin a silky **cocoon** instead. Every day the children checked on it."
+      },
+      {
+        "title": "Wings in the Sun",
+        "text": "One sunny morning, the shell cracked open. A **monarch** butterfly crawled out with wet, folded wings. Slowly, it began to **unfurl** them in the sun, and bright orange wings opened wide. It twitched one thin **antenna**, then the other. Soon it began to **flit** from flower to flower. It was **graceful**, like a tiny dancer. It landed on a **bud** that was about to open and used its long tongue to **sip** sweet **nectar**."
+      },
+      {
+        "title": "Letting Go",
+        "text": "The children watched the butterfly rise over the fence and fly away. Lucia felt a little sad, but Remy smiled. “It is free now,” he said. They had waited and watched, and they had seen something amazing."
+      }
+    ],
+    "wordCount": 185
+  },
+  "definitions": [
+    {
+      "word": "caterpillar",
+      "partOfSpeech": "noun",
+      "meaning1": "A small, wormlike animal that will turn into a butterfly or moth. Example: The caterpillar ate a green leaf.",
+      "meaning2": "",
+      "studentChallenge": "A fuzzy ___ crawled slowly along the branch.",
+      "sentence": ""
+    },
+    {
+      "word": "cocoon",
+      "partOfSpeech": "noun",
+      "meaning1": "A silky case that some insects, like moths, spin around themselves while they change. Example: The moth stayed safe inside its cocoon.",
+      "meaning2": "",
+      "studentChallenge": "The silky ___ hung from the branch.",
+      "sentence": ""
+    },
+    {
+      "word": "nectar",
+      "partOfSpeech": "noun",
+      "meaning1": "The sweet liquid inside flowers. Example: Bees and butterflies drink nectar.",
+      "meaning2": "",
+      "studentChallenge": "Hummingbirds drink sweet ___ from flowers.",
+      "sentence": ""
+    },
+    {
+      "word": "flit",
+      "partOfSpeech": "verb",
+      "meaning1": "To fly or move quickly and lightly from place to place. Example: Little birds flit from branch to branch.",
+      "meaning2": "",
+      "studentChallenge": "Butterflies ___ from flower to flower all day.",
+      "sentence": ""
+    },
+    {
+      "word": "graceful",
+      "partOfSpeech": "adjective",
+      "meaning1": "Moving in a smooth, lovely way. Example: The graceful dancer spun across the stage.",
+      "meaning2": "",
+      "studentChallenge": "The swan was ___ as it glided across the lake.",
+      "sentence": ""
+    },
+    {
+      "word": "chrysalis",
+      "partOfSpeech": "noun",
+      "meaning1": "The hard shell a caterpillar makes around itself before it becomes a butterfly. Example: A green chrysalis hung from the twig.",
+      "meaning2": "",
+      "studentChallenge": "Inside the ___, the caterpillar was slowly turning into a butterfly.",
+      "sentence": ""
+    },
+    {
+      "word": "sip",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To drink a little at a time. Example: The butterfly will sip nectar from a flower.",
+      "meaning2": "A small drink. Example: I took a sip of water.",
+      "studentChallenge": "I like to ___ my warm milk slowly.",
+      "sentence": ""
+    },
+    {
+      "word": "antenna",
+      "partOfSpeech": "noun",
+      "meaning1": "One of two thin feelers on an insect’s head. Example: The ant waved its antenna.",
+      "meaning2": "",
+      "studentChallenge": "The butterfly used its ___ to feel the air.",
+      "sentence": ""
+    },
+    {
+      "word": "unfurl",
+      "partOfSpeech": "verb",
+      "meaning1": "To open up or spread out. Example: The fern will unfurl its leaves in spring.",
+      "meaning2": "",
+      "studentChallenge": "The flag began to ___ in the wind.",
+      "sentence": ""
+    },
+    {
+      "word": "monarch",
+      "partOfSpeech": "noun",
+      "meaning1": "A large orange and black butterfly. Example: A monarch landed on the flower.",
+      "meaning2": "A king or queen. Example: The monarch wore a golden crown.",
+      "studentChallenge": "The orange and black ___ landed on the milkweed.",
+      "sentence": ""
+    },
+    {
+      "word": "bud",
+      "partOfSpeech": "noun",
+      "meaning1": "A small part of a plant that will grow into a flower or leaf. Example: The rose bud will open soon.",
+      "meaning2": "",
+      "studentChallenge": "A tiny green ___ will soon become a flower.",
+      "sentence": ""
+    },
+    {
+      "word": "dew",
+      "partOfSpeech": "noun",
+      "meaning1": "Tiny drops of water on grass and leaves in the morning. Example: The dew made my shoes wet.",
+      "meaning2": "",
+      "studentChallenge": "Drops of ___ sparkled on the grass at sunrise.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "A fuzzy _______ crawled slowly along the branch eating leaves.",
+      "sentence2": "The hungry _______ will turn into a butterfly one day.",
+      "options": [
+        "antenna",
+        "dew",
+        "caterpillar",
+        "bud"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "caterpillar"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The moth stayed safe and warm inside its silky _______.",
+      "sentence2": "A _______ made of silk hung from the branch.",
+      "options": [
+        "bud",
+        "nectar",
+        "dew",
+        "cocoon"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "cocoon"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Bees and butterflies drink the sweet _______ inside flowers.",
+      "sentence2": "Bees use the _______ they find to make honey.",
+      "options": [
+        "nectar",
+        "dew",
+        "bud",
+        "antenna"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "nectar"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Butterflies _______ from flower to flower all day.",
+      "sentence2": "Little birds _______ from branch to branch in the tree.",
+      "options": [
+        "unfurl",
+        "flit",
+        "sip",
+        "dew"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "flit"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The swan was _______ as it glided across the lake.",
+      "sentence2": "The _______ dancer spun across the stage like a leaf in the wind.",
+      "options": [
+        "nectar",
+        "antenna",
+        "graceful",
+        "caterpillar"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "graceful"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Inside the green _______, the caterpillar was slowly turning into a butterfly.",
+      "sentence2": "A hard, jade-colored _______ hung from the twig.",
+      "options": [
+        "dew",
+        "bud",
+        "antenna",
+        "chrysalis"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "chrysalis"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "I like to _______ my warm milk slowly.",
+      "sentence2": "The butterfly will _______ nectar from a flower.",
+      "options": [
+        "sip",
+        "flit",
+        "unfurl",
+        "caterpillar"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "sip"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The butterfly used its thin _______ to feel the air.",
+      "sentence2": "The ant waved one _______ to find its way.",
+      "options": [
+        "bud",
+        "antenna",
+        "dew",
+        "nectar"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "antenna"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The flag began to _______ in the wind.",
+      "sentence2": "The fern will _______ its leaves in the spring.",
+      "options": [
+        "flit",
+        "sip",
+        "unfurl",
+        "dew"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "unfurl"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "A large orange and black _______ landed on the milkweed.",
+      "sentence2": "The wise old _______ sat on the throne and wore a golden crown.",
+      "options": [
+        "bud",
+        "dew",
+        "nectar",
+        "monarch"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "monarch"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "A tiny green _______ will soon open into a flower.",
+      "sentence2": "The rose _______ was tight and closed, waiting for the sun.",
+      "options": [
+        "bud",
+        "dew",
+        "nectar",
+        "antenna"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "bud"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Drops of _______ sparkled on the grass at sunrise.",
+      "sentence2": "The morning _______ made my shoes wet as I walked across the lawn.",
+      "options": [
+        "bud",
+        "dew",
+        "antenna",
+        "monarch"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "dew"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "caterpillar",
+      "cocoon",
+      "nectar",
+      "flit",
+      "graceful",
+      "chrysalis",
+      "sip",
+      "antenna",
+      "unfurl",
+      "monarch",
+      "bud",
+      "dew"
+    ],
+    "passage": "Mia’s class kept a butterfly garden by the school. Every morning, _(1)_ shone on the leaves. One day, a hungry _(2)_ hung from a twig and made a green _(3)_. Nearby, a moth had spun a soft _(4)_ in the grass.\nTwo weeks later, a _(5)_ came out. It began to _(6)_ its wings. It waved one thin _(7)_ to feel the air. Then it began to _(8)_ around the garden. Its dance in the air was _(9)_.\nIt stopped on a tight _(10)_ and began to _(11)_ some sweet _(12)_. The children cheered and clapped.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "dew",
+        "options": [
+          "dew",
+          "flit",
+          "caterpillar",
+          "chrysalis"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "caterpillar",
+        "options": [
+          "unfurl",
+          "dew",
+          "antenna",
+          "caterpillar"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "chrysalis",
+        "options": [
+          "antenna",
+          "dew",
+          "chrysalis",
+          "nectar"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "cocoon",
+        "options": [
+          "sip",
+          "cocoon",
+          "bud",
+          "graceful"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "monarch",
+        "options": [
+          "monarch",
+          "flit",
+          "bud",
+          "dew"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "unfurl",
+        "options": [
+          "sip",
+          "nectar",
+          "antenna",
+          "unfurl"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "antenna",
+        "options": [
+          "graceful",
+          "cocoon",
+          "antenna",
+          "sip"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "flit",
+        "options": [
+          "graceful",
+          "flit",
+          "monarch",
+          "sip"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "graceful",
+        "options": [
+          "graceful",
+          "sip",
+          "monarch",
+          "caterpillar"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "bud",
+        "options": [
+          "sip",
+          "dew",
+          "unfurl",
+          "bud"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "sip",
+        "options": [
+          "flit",
+          "cocoon",
+          "sip",
+          "chrysalis"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "nectar",
+        "options": [
+          "flit",
+          "nectar",
+          "caterpillar",
+          "sip"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "flit",
+        "scale": [
+          "Crawl",
+          "Flit",
+          "Dart"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "graceful",
+        "scale": [
+          "Smooth",
+          "Graceful",
+          "Elegant"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "sip",
+        "scale": [
+          "Taste",
+          "Sip",
+          "Gulp"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "unfurl",
+        "scale": [
+          "Twitch",
+          "Unfurl",
+          "Stretch"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "graceful",
+        "words": [
+          "Smooth",
+          "Clumsy",
+          "Elegant",
+          "Lovely"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Clumsy"
+      },
+      {
+        "vocabWord": "flit",
+        "words": [
+          "Plod",
+          "Dart",
+          "Flutter",
+          "Hover"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Plod"
+      },
+      {
+        "vocabWord": "sip",
+        "words": [
+          "Taste",
+          "Sample",
+          "Lap",
+          "Gulp"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Gulp"
+      },
+      {
+        "vocabWord": "unfurl",
+        "words": [
+          "Open",
+          "Spread",
+          "Fold",
+          "Stretch"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Fold"
+      },
+      {
+        "vocabWord": "dew",
+        "words": [
+          "Droplets",
+          "Dust",
+          "Moisture",
+          "Mist"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Dust"
+      },
+      {
+        "vocabWord": "caterpillar",
+        "words": [
+          "Butterfly",
+          "Larva",
+          "Grub",
+          "Worm"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Butterfly"
+      },
+      {
+        "vocabWord": "monarch",
+        "words": [
+          "King",
+          "Queen",
+          "Ruler",
+          "Subject"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Subject"
+      },
+      {
+        "vocabWord": "nectar",
+        "words": [
+          "Syrup",
+          "Honey",
+          "Vinegar",
+          "Juice"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Vinegar"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

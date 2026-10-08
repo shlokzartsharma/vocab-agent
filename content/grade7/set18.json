@@ -1,0 +1,578 @@
+{
+  "grade": 7,
+  "setNumber": 18,
+  "words": [
+    "slogan",
+    "endorse",
+    "pledge",
+    "canvass",
+    "nominate",
+    "partisan",
+    "constituent",
+    "turnout",
+    "propose",
+    "opponent",
+    "oration",
+    "tally"
+  ],
+  "sources": [
+    "Common Core Grade 7",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "school election",
+  "story": {
+    "genre": "school election",
+    "characters": [
+      "Beatriz",
+      "Kamal",
+      "Hazel"
+    ],
+    "parts": [
+      {
+        "title": "A Surprise Nomination",
+        "text": "Beatriz was stunned when three classmates chose to **nominate** her for student council president. Kamal, her best friend, volunteered to run her campaign. \"Every winner needs a **slogan**,\" he said, and they settled on \"Every Voice Counts.\" Beatriz decided to **propose** a plan to repaint the gym and keep the library open until six o'clock. She also made a **pledge** to the whole school: one open meeting each month where anyone could speak."
+      },
+      {
+        "title": "Knocking on Tables",
+        "text": "For two weeks the team set out to **canvass** the school, going table to table at lunch and asking each **constituent**, meaning every student Beatriz hoped to represent, what mattered most. The robotics coach agreed to **endorse** her, announcing his support over the loudspeaker. Not everyone was thrilled. Some fans of both candidates grew so **partisan** that lunchtime debates turned into shouting matches, and Kamal worried the campaign was losing its heart."
+      },
+      {
+        "title": "Election Day",
+        "text": "Beatriz's **opponent**, Hazel, was no villain. She was a thoughtful speaker whose **oration** in the auditorium earned a standing ovation, and Beatriz clapped along with everyone else. When the polls closed, the **turnout** surprised the whole school: nearly four out of five students had voted, the highest number ever. Volunteers sat in the library counting ballots, and the **tally** swung back and forth until the very last paper was read."
+      },
+      {
+        "title": "Winning Together",
+        "text": "Beatriz won by just eleven votes. The next morning she asked Hazel to lead the new gym committee, and Hazel said yes. Kamal grinned. \"That,\" he said, \"is what Every Voice Counts really means.\" Beatriz learned that winning an election is only the beginning of the job."
+      }
+    ],
+    "wordCount": 262
+  },
+  "definitions": [
+    {
+      "word": "slogan",
+      "partOfSpeech": "noun",
+      "meaning1": "A short, catchy phrase used to promote a cause, a product or a campaign. Example: The recycling club's slogan, \"Give Trash a Second Life,\" appeared on every poster.",
+      "meaning2": "",
+      "studentChallenge": "The team printed its new ___ on posters and buttons.",
+      "sentence": ""
+    },
+    {
+      "word": "endorse",
+      "partOfSpeech": "verb",
+      "meaning1": "To publicly say that you support a person or an idea. Example: Several local doctors endorse the new bike-to-school program.",
+      "meaning2": "To sign the back of a check so that it can be cashed. Example: You must endorse the check before the bank will accept it.",
+      "studentChallenge": "A famous chef agreed to ___ the new restaurant in its advertisements.",
+      "sentence": ""
+    },
+    {
+      "word": "pledge",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A serious promise. Example: The scouts took a pledge to help others at all times.",
+      "meaning2": "To promise to give something, such as money. Example: The club pledged fifty dollars to the animal shelter.",
+      "studentChallenge": "At the rally, every candidate made a ___ to keep lunch prices low.",
+      "sentence": ""
+    },
+    {
+      "word": "canvass",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To go door to door or person to person asking for votes, support or opinions. Example: Volunteers will canvass the neighborhood on Saturday before the vote.",
+      "meaning2": "To examine or discuss something carefully. Example: The committee canvassed every option before choosing a location.",
+      "studentChallenge": "Students will ___ the whole town to learn what people think of the new park.",
+      "sentence": ""
+    },
+    {
+      "word": "nominate",
+      "partOfSpeech": "verb",
+      "meaning1": "To formally suggest someone for an honor, an office or a position. Example: Classmates chose to nominate Sam for team captain.",
+      "meaning2": "",
+      "studentChallenge": "The film academy will ___ five actors for its top award.",
+      "sentence": ""
+    },
+    {
+      "word": "partisan",
+      "partOfSpeech": "adjective, noun",
+      "meaning1": "Strongly loyal to one side or group, often in a way that is not fair to others. Example: The partisan crowd booed every call that went against its team.",
+      "meaning2": "A strong supporter of a party, a cause or a leader. Example: Partisans of both teams lined the streets before the parade.",
+      "studentChallenge": "A judge should never be ___; both sides deserve fair treatment.",
+      "sentence": ""
+    },
+    {
+      "word": "constituent",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who lives in an area and is represented by an elected official. Example: The senator held a town meeting so that each constituent could ask a question.",
+      "meaning2": "One of the parts that make up a whole. Example: Hydrogen is a constituent of water.",
+      "studentChallenge": "Every ___ in the district received a letter about the new road.",
+      "sentence": ""
+    },
+    {
+      "word": "turnout",
+      "partOfSpeech": "noun",
+      "meaning1": "The number of people who come to or take part in an event, such as an election. Example: Heavy rain kept voter turnout low.",
+      "meaning2": "",
+      "studentChallenge": "The concert drew a huge ___, with every seat and aisle packed.",
+      "sentence": ""
+    },
+    {
+      "word": "propose",
+      "partOfSpeech": "verb",
+      "meaning1": "To suggest a plan or idea for others to consider. Example: Dana plans to propose a new rule that lets students bring water bottles to class.",
+      "meaning2": "To ask someone to marry you. Example: He planned to propose on the beach at sunset.",
+      "studentChallenge": "I would like to ___ a change to the school schedule.",
+      "sentence": ""
+    },
+    {
+      "word": "opponent",
+      "partOfSpeech": "noun",
+      "meaning1": "A person or team that competes against or disagrees with another. Example: The chess champion shook hands with her opponent before the first move.",
+      "meaning2": "",
+      "studentChallenge": "The senator's ___ accused her of ignoring small towns.",
+      "sentence": ""
+    },
+    {
+      "word": "oration",
+      "partOfSpeech": "noun",
+      "meaning1": "A formal, powerful speech, usually given on a special occasion. Example: The mayor's oration at the memorial moved the entire crowd.",
+      "meaning2": "",
+      "studentChallenge": "Her stirring ___ about courage left the auditorium silent.",
+      "sentence": ""
+    },
+    {
+      "word": "tally",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A count or total, such as the votes or points collected so far. Example: By midnight, the tally showed the race was nearly tied.",
+      "meaning2": "To count up a total. Example: A teacher will tally the scores after the quiz.",
+      "studentChallenge": "The scorekeeper kept a running ___ of every goal.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The cereal company's new _______ was so catchy that children chanted it in the grocery aisles.",
+      "sentence2": "Every poster for the recycling drive carried the same bold _______ across the top.",
+      "options": [
+        "turnout",
+        "partisan",
+        "slogan",
+        "canvass"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "slogan"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "A famous chef agreed to _______ the new restaurant by appearing in its ads.",
+      "sentence2": "You must sign the back of the check to _______ it before the bank will cash it.",
+      "options": [
+        "endorse",
+        "canvass",
+        "tally",
+        "oration"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "endorse"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "At the rally, every candidate made a _______ to keep lunch prices low.",
+      "sentence2": "At the ceremony, the new scouts took a solemn _______ to help others at all times.",
+      "options": [
+        "tally",
+        "turnout",
+        "slogan",
+        "pledge"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "pledge"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Volunteers will _______ the neighborhood on Saturday, knocking on every door.",
+      "sentence2": "Before the vote, the committee decided to _______ the town for opinions on the new park.",
+      "options": [
+        "endorse",
+        "canvass",
+        "nominate",
+        "propose"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "canvass"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Classmates chose to _______ Sam for team captain because everyone trusted him.",
+      "sentence2": "The film academy will _______ five actors for its top award.",
+      "options": [
+        "canvass",
+        "tally",
+        "oration",
+        "nominate"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "nominate"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The _______ crowd cheered only for its own team and booed every call by the referee.",
+      "sentence2": "A judge should never be _______; both sides deserve fair treatment.",
+      "options": [
+        "tally",
+        "partisan",
+        "slogan",
+        "endorse"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "partisan"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The senator held a town meeting so that each _______ could ask a question.",
+      "sentence2": "Every _______ in the district received a letter about the new road.",
+      "options": [
+        "constituent",
+        "oration",
+        "slogan",
+        "tally"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "constituent"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Heavy rain kept voter _______ low, with fewer than half of residents casting ballots.",
+      "sentence2": "The concert drew a huge _______; every seat and aisle was packed.",
+      "options": [
+        "oration",
+        "pledge",
+        "turnout",
+        "partisan"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "turnout"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Dana plans to _______ a new rule that lets students bring water bottles to class.",
+      "sentence2": "I would like to _______ a toast to the team that worked so hard.",
+      "options": [
+        "tally",
+        "propose",
+        "partisan",
+        "canvass"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "propose"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The chess champion shook hands with her _______ before the first move.",
+      "sentence2": "The senator's _______ accused her of ignoring small towns.",
+      "options": [
+        "oration",
+        "turnout",
+        "slogan",
+        "opponent"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "opponent"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Her stirring _______ about courage left the entire auditorium silent.",
+      "sentence2": "The mayor delivered a formal _______ at the memorial ceremony.",
+      "options": [
+        "tally",
+        "turnout",
+        "oration",
+        "opponent"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "oration"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "By midnight, volunteers had finished the _______ and announced the winner.",
+      "sentence2": "The scorekeeper kept a running _______ of every goal.",
+      "options": [
+        "tally",
+        "turnout",
+        "slogan",
+        "pledge"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "tally"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "slogan",
+      "endorse",
+      "pledge",
+      "canvass",
+      "nominate",
+      "partisan",
+      "constituent",
+      "turnout",
+      "propose",
+      "opponent",
+      "oration",
+      "tally"
+    ],
+    "passage": "Kamal wrote about the school election for the yearbook. It began when classmates chose to _(1)_ Hazel for treasurer. She picked a short _(2)_, \"Count on Hazel,\" and printed it on buttons. Kamal offered to _(3)_ the hallways, stopping each _(4)_ to ask what the school needed. A popular coach agreed to _(5)_ her publicly, which thrilled her fans. A few supporters became so _(6)_ that they refused to listen to the other side.\n\nHazel made a firm _(7)_ to share the budget with everyone, and she planned to _(8)_ a monthly open meeting. Her _(9)_ gave a lively _(10)_ in the auditorium that made the crowd cheer. On election day the _(11)_ was huge, with almost every student voting, and by evening the final _(12)_ showed the closest race the school had ever seen.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "nominate",
+        "options": [
+          "tally",
+          "oration",
+          "slogan",
+          "nominate"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "slogan",
+        "options": [
+          "slogan",
+          "opponent",
+          "turnout",
+          "endorse"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "canvass",
+        "options": [
+          "slogan",
+          "oration",
+          "canvass",
+          "partisan"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "constituent",
+        "options": [
+          "tally",
+          "constituent",
+          "slogan",
+          "oration"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "endorse",
+        "options": [
+          "tally",
+          "endorse",
+          "turnout",
+          "partisan"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "partisan",
+        "options": [
+          "slogan",
+          "turnout",
+          "tally",
+          "partisan"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "pledge",
+        "options": [
+          "pledge",
+          "oration",
+          "tally",
+          "opponent"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "propose",
+        "options": [
+          "tally",
+          "constituent",
+          "propose",
+          "partisan"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "opponent",
+        "options": [
+          "slogan",
+          "turnout",
+          "tally",
+          "opponent"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "oration",
+        "options": [
+          "oration",
+          "turnout",
+          "tally",
+          "partisan"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "turnout",
+        "options": [
+          "pledge",
+          "turnout",
+          "canvass",
+          "slogan"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "tally",
+        "options": [
+          "oration",
+          "constituent",
+          "tally",
+          "endorse"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "endorse",
+        "scale": [
+          "Accept",
+          "Endorse",
+          "Champion"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "pledge",
+        "scale": [
+          "Intend",
+          "Pledge",
+          "Vow"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "oration",
+        "scale": [
+          "Comment",
+          "Speech",
+          "Oration"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "opponent",
+        "scale": [
+          "Competitor",
+          "Opponent",
+          "Enemy"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "partisan",
+        "words": [
+          "Biased",
+          "One-sided",
+          "Impartial",
+          "Loyal"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Impartial"
+      },
+      {
+        "vocabWord": "endorse",
+        "words": [
+          "Support",
+          "Back",
+          "Condemn",
+          "Approve"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Condemn"
+      },
+      {
+        "vocabWord": "pledge",
+        "words": [
+          "Promise",
+          "Vow",
+          "Oath",
+          "Betrayal"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Betrayal"
+      },
+      {
+        "vocabWord": "opponent",
+        "words": [
+          "Rival",
+          "Foe",
+          "Ally",
+          "Competitor"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Ally"
+      },
+      {
+        "vocabWord": "oration",
+        "words": [
+          "Speech",
+          "Address",
+          "Silence",
+          "Lecture"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Silence"
+      },
+      {
+        "vocabWord": "turnout",
+        "words": [
+          "Attendance",
+          "Absence",
+          "Showing",
+          "Participation"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Absence"
+      },
+      {
+        "vocabWord": "canvass",
+        "words": [
+          "Survey",
+          "Poll",
+          "Ignore",
+          "Question"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Ignore"
+      },
+      {
+        "vocabWord": "propose",
+        "words": [
+          "Suggest",
+          "Offer",
+          "Recommend",
+          "Withdraw"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Withdraw"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

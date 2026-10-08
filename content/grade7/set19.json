@@ -1,0 +1,578 @@
+{
+  "grade": 7,
+  "setNumber": 19,
+  "words": [
+    "iceberg",
+    "permafrost",
+    "insulate",
+    "frostbite",
+    "aurora",
+    "polar",
+    "navigator",
+    "crevasse",
+    "floe",
+    "whiteout",
+    "stark",
+    "inhospitable"
+  ],
+  "sources": [
+    "Common Core Grade 7",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "Arctic expedition",
+  "story": {
+    "genre": "Arctic expedition",
+    "characters": [
+      "Freya",
+      "Tariq",
+      "Dominic"
+    ],
+    "parts": [
+      {
+        "title": "The Top of the World",
+        "text": "The research plane touched down on the ice of the **polar** north, and Freya felt her breath freeze before it left her scarf. The view was **stark**: no trees, no buildings, only an endless white plain meeting a pale sky. Tariq, the team's **navigator**, studied his compass and shook his head. \"This place is **inhospitable**,\" he warned. \"The land does not care whether we survive, so we must never take chances.\""
+      },
+      {
+        "title": "Camp Life",
+        "text": "Dominic, the team's medic, drilled into the **permafrost**, ground that stays frozen all year long, to collect samples. He made everyone wear layers of wool and down to **insulate** their bodies, because bare skin could suffer **frostbite** in minutes. That night, ribbons of green light, the **aurora**, rippled across the black sky, and for a while nobody noticed the cold."
+      },
+      {
+        "title": "A Dangerous Morning",
+        "text": "The next day the team crossed a **floe**, a flat sheet of sea ice, to reach the huge **iceberg** they had traveled so far to measure. Halfway across, Tariq froze and raised his fist. A hidden **crevasse**, a deep crack covered by thin snow, lay inches from Freya's boot. Before anyone could speak, a **whiteout** swallowed the world, with snow so thick that she could not see her own hands. They tied themselves to one rope and crept along, one slow step at a time."
+      },
+      {
+        "title": "Back to Camp",
+        "text": "Hours later, the wind finally dropped and the camp lights appeared ahead. Freya understood the Arctic's only rule: plan carefully, listen to your teammates, and never stop paying attention. She fell asleep that night grateful for every one of them."
+      }
+    ],
+    "wordCount": 256
+  },
+  "definitions": [
+    {
+      "word": "iceberg",
+      "partOfSpeech": "noun",
+      "meaning1": "A huge mass of ice that has broken off a glacier and floats in the sea. Example: Most of the iceberg hides below the surface of the water.",
+      "meaning2": "",
+      "studentChallenge": "The captain steered carefully to avoid the drifting ___ that loomed in the fog.",
+      "sentence": ""
+    },
+    {
+      "word": "permafrost",
+      "partOfSpeech": "noun",
+      "meaning1": "Ground that stays frozen all year, sometimes for thousands of years. Example: Builders had to dig through permafrost to lay the pipeline.",
+      "meaning2": "",
+      "studentChallenge": "As the climate warms, melting ___ is releasing gases that were trapped underground.",
+      "sentence": ""
+    },
+    {
+      "word": "insulate",
+      "partOfSpeech": "verb",
+      "meaning1": "To cover or protect something so that heat, cold or sound cannot easily pass through. Example: Thick foam helps insulate the walls so the house stays warm all winter.",
+      "meaning2": "To protect someone from unpleasant experiences. Example: Parents cannot always insulate their children from disappointment.",
+      "studentChallenge": "Thick wool socks ___ your feet from the freezing ground.",
+      "sentence": ""
+    },
+    {
+      "word": "frostbite",
+      "partOfSpeech": "noun",
+      "meaning1": "Damage to the skin and body tissue caused by extreme cold. Example: Without gloves, she risked frostbite in her fingers after only a few minutes outside.",
+      "meaning2": "",
+      "studentChallenge": "The hiker lost two toes to ___ after being stranded on the mountain.",
+      "sentence": ""
+    },
+    {
+      "word": "aurora",
+      "partOfSpeech": "noun",
+      "meaning1": "Colorful lights that glow and ripple in the sky near the North and South Poles. Example: Travelers book trips to Iceland each winter hoping to see the aurora dance overhead.",
+      "meaning2": "",
+      "studentChallenge": "Green and violet light rippled across the night sky in a glowing ___.",
+      "sentence": ""
+    },
+    {
+      "word": "polar",
+      "partOfSpeech": "adjective",
+      "meaning1": "Of or near the North Pole or the South Pole. Example: Penguins and seals thrive in the polar regions at the bottom of the world.",
+      "meaning2": "Completely opposite, as in polar opposites. Example: The twins have polar opposite tastes in music.",
+      "studentChallenge": "Scientists wore heavy parkas to study the ___ ice cap.",
+      "sentence": ""
+    },
+    {
+      "word": "navigator",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who plans and directs the route of a ship, plane or vehicle. Example: The ship's navigator studied the stars and charts to plot a safe course.",
+      "meaning2": "",
+      "studentChallenge": "The ___ called out each turn while the driver steered through the storm.",
+      "sentence": ""
+    },
+    {
+      "word": "crevasse",
+      "partOfSpeech": "noun",
+      "meaning1": "A deep, narrow crack in a glacier or ice sheet. Example: Rescuers lowered a rope into the narrow crevasse where the explorer had fallen.",
+      "meaning2": "",
+      "studentChallenge": "A hidden ___ lay under the snow, so the climbers tested every step.",
+      "sentence": ""
+    },
+    {
+      "word": "floe",
+      "partOfSpeech": "noun",
+      "meaning1": "A large, flat sheet of ice floating on the sea. Example: The seal rested on a flat floe drifting slowly past the ship.",
+      "meaning2": "",
+      "studentChallenge": "Researchers pitched their tents on a thick ___ that floated in the bay.",
+      "sentence": ""
+    },
+    {
+      "word": "whiteout",
+      "partOfSpeech": "noun",
+      "meaning1": "A snowstorm or thick fog in which everything looks white and nothing else can be seen. Example: In the whiteout, the hikers could not see their own boots.",
+      "meaning2": "",
+      "studentChallenge": "A sudden ___ swallowed the road, so the driver pulled over until it passed.",
+      "sentence": ""
+    },
+    {
+      "word": "stark",
+      "partOfSpeech": "adjective",
+      "meaning1": "Plain, bare and harsh. Example: The desert was a stark landscape with no trees, water or shade.",
+      "meaning2": "Sharp and impossible to miss. Example: There was a stark difference between how the two teams played.",
+      "studentChallenge": "The ___ white plain stretched to the horizon with nothing on it.",
+      "sentence": ""
+    },
+    {
+      "word": "inhospitable",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not welcoming; hard to live in or visit because conditions are harsh. Example: Few animals can survive in the inhospitable desert, where the sun is brutal.",
+      "meaning2": "Unfriendly toward visitors. Example: The innkeeper's cold, inhospitable manner made guests want to leave.",
+      "studentChallenge": "The mountain's thin air and freezing wind made it ___ to travelers.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Most of the _______ hides below the surface, which makes it a danger to passing ships.",
+      "sentence2": "The captain steered carefully to avoid the drifting _______ that loomed in the fog.",
+      "options": [
+        "permafrost",
+        "aurora",
+        "iceberg",
+        "whiteout"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "iceberg"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Builders had to dig through layers of _______ that had not thawed in ten thousand years.",
+      "sentence2": "As the climate warms, melting _______ is releasing gases that were trapped underground.",
+      "options": [
+        "permafrost",
+        "frostbite",
+        "aurora",
+        "floe"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "permafrost"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Thick foam helps _______ the walls so the house stays warm all winter.",
+      "sentence2": "Parents cannot always _______ their children from every disappointment.",
+      "options": [
+        "polar",
+        "stark",
+        "floe",
+        "insulate"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "insulate"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Without gloves, she risked _______ in her fingers after only a few minutes in the cold.",
+      "sentence2": "The hiker lost two toes to _______ after being stranded on the mountain.",
+      "options": [
+        "crevasse",
+        "frostbite",
+        "aurora",
+        "navigator"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "frostbite"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Green and violet light rippled across the night sky in a glowing _______.",
+      "sentence2": "Travelers book trips to Iceland each winter hoping to see the _______ dance overhead.",
+      "options": [
+        "whiteout",
+        "iceberg",
+        "stark",
+        "aurora"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "aurora"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Penguins and seals thrive in the _______ regions at the bottom of the world.",
+      "sentence2": "The two friends are _______ opposites: one is loud and the other is quiet.",
+      "options": [
+        "whiteout",
+        "polar",
+        "iceberg",
+        "crevasse"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "polar"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The ship's _______ studied the stars and charts to plot a safe course.",
+      "sentence2": "In the rally race, the _______ calls out each turn while the driver steers.",
+      "options": [
+        "navigator",
+        "crevasse",
+        "aurora",
+        "frostbite"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "navigator"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "A deep _______ opened across the glacier, and the climbers stepped carefully around it.",
+      "sentence2": "Rescuers lowered a rope into the narrow _______ where the explorer had fallen.",
+      "options": [
+        "floe",
+        "iceberg",
+        "crevasse",
+        "whiteout"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "crevasse"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The seal rested on a flat _______ drifting slowly past the ship.",
+      "sentence2": "Researchers pitched their tents on a thick _______ that floated in the bay.",
+      "options": [
+        "permafrost",
+        "floe",
+        "crevasse",
+        "aurora"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "floe"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "In the _______, the hikers could not see their own boots, so they stopped and waited.",
+      "sentence2": "A sudden _______ swallowed the road, and the driver pulled over until the blizzard passed.",
+      "options": [
+        "aurora",
+        "frostbite",
+        "permafrost",
+        "whiteout"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "whiteout"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The desert was a _______ landscape with no trees, water or shade.",
+      "sentence2": "There was a _______ difference between how the two teams played.",
+      "options": [
+        "inhospitable",
+        "insulate",
+        "stark",
+        "whiteout"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "stark"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Few animals can survive in the _______ desert, where the sun is brutal and water is nearly gone.",
+      "sentence2": "The innkeeper's cold, _______ manner made every guest want to leave.",
+      "options": [
+        "inhospitable",
+        "polar",
+        "navigator",
+        "frostbite"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "inhospitable"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "iceberg",
+      "permafrost",
+      "insulate",
+      "frostbite",
+      "aurora",
+      "polar",
+      "navigator",
+      "crevasse",
+      "floe",
+      "whiteout",
+      "stark",
+      "inhospitable"
+    ],
+    "passage": "Dominic kept a journal during the expedition. \"The _(1)_ landscape is _(2)_ and empty,\" he wrote on the first day, \"and the land is truly _(3)_ to visitors. Our _(4)_ plotted a careful route past a drifting _(5)_ the size of a city block. We camped on a flat _(6)_ and slept in thick bags that _(7)_ us from the cold.\"\n\nOn day three, they drilled into _(8)_, ground that had been frozen for thousands of years. Tariq nearly lost a finger to _(9)_ after removing his glove. That night, the _(10)_ lit the sky with waves of green. On the last day, a sudden _(11)_ hid the camp, and Freya almost stepped into a hidden _(12)_.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "polar",
+        "options": [
+          "navigator",
+          "floe",
+          "aurora",
+          "polar"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "stark",
+        "options": [
+          "stark",
+          "whiteout",
+          "permafrost",
+          "iceberg"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "inhospitable",
+        "options": [
+          "insulate",
+          "crevasse",
+          "inhospitable",
+          "frostbite"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "navigator",
+        "options": [
+          "aurora",
+          "navigator",
+          "floe",
+          "crevasse"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "iceberg",
+        "options": [
+          "permafrost",
+          "iceberg",
+          "frostbite",
+          "aurora"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "floe",
+        "options": [
+          "crevasse",
+          "whiteout",
+          "frostbite",
+          "floe"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "insulate",
+        "options": [
+          "insulate",
+          "polar",
+          "stark",
+          "inhospitable"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "permafrost",
+        "options": [
+          "aurora",
+          "whiteout",
+          "permafrost",
+          "navigator"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "frostbite",
+        "options": [
+          "crevasse",
+          "aurora",
+          "floe",
+          "frostbite"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "aurora",
+        "options": [
+          "aurora",
+          "whiteout",
+          "iceberg",
+          "navigator"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "whiteout",
+        "options": [
+          "crevasse",
+          "whiteout",
+          "permafrost",
+          "iceberg"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "crevasse",
+        "options": [
+          "polar",
+          "insulate",
+          "crevasse",
+          "stark"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "stark",
+        "scale": [
+          "Plain",
+          "Stark",
+          "Barren"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "inhospitable",
+        "scale": [
+          "Chilly",
+          "Harsh",
+          "Inhospitable"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "whiteout",
+        "scale": [
+          "Flurry",
+          "Snowstorm",
+          "Whiteout"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "crevasse",
+        "scale": [
+          "Crack",
+          "Crevasse",
+          "Canyon"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "stark",
+        "words": [
+          "Bare",
+          "Barren",
+          "Plain",
+          "Lush"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Lush"
+      },
+      {
+        "vocabWord": "inhospitable",
+        "words": [
+          "Harsh",
+          "Unwelcoming",
+          "Welcoming",
+          "Hostile"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Welcoming"
+      },
+      {
+        "vocabWord": "insulate",
+        "words": [
+          "Protect",
+          "Shield",
+          "Expose",
+          "Cover"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Expose"
+      },
+      {
+        "vocabWord": "polar",
+        "words": [
+          "Arctic",
+          "Frozen",
+          "Tropical",
+          "Icy"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Tropical"
+      },
+      {
+        "vocabWord": "navigator",
+        "words": [
+          "Guide",
+          "Pilot",
+          "Pathfinder",
+          "Wanderer"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Wanderer"
+      },
+      {
+        "vocabWord": "whiteout",
+        "words": [
+          "Blizzard",
+          "Snowstorm",
+          "Clear skies",
+          "Flurry"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Clear skies"
+      },
+      {
+        "vocabWord": "crevasse",
+        "words": [
+          "Chasm",
+          "Fissure",
+          "Gap",
+          "Mound"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Mound"
+      },
+      {
+        "vocabWord": "permafrost",
+        "words": [
+          "Frozen ground",
+          "Tundra",
+          "Icy soil",
+          "Thawed earth"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Thawed earth"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

@@ -1,0 +1,578 @@
+{
+  "grade": 8,
+  "setNumber": 17,
+  "words": [
+    "conformity",
+    "maturity",
+    "insecure",
+    "introspective",
+    "ambivalent",
+    "epiphany",
+    "resentment",
+    "alienate",
+    "disillusioned",
+    "adolescent",
+    "solitude",
+    "bittersweet"
+  ],
+  "sources": [
+    "Common Core Grade 8",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "coming-of-age novel",
+  "story": {
+    "genre": "coming-of-age novel",
+    "characters": [
+      "Margot",
+      "Idowu",
+      "Pascal"
+    ],
+    "parts": [
+      {
+        "title": "The New Hallway",
+        "text": "When Margot moved to a new town before eighth grade, she felt like an **adolescent** caught between two worlds, too old for her childhood bedroom and too young for the car keys. On the first day she felt **insecure**, sure that everyone else had already formed friendships. The hallway ran on unwritten rules: the same sneakers, jokes and opinions. Margot saw that **conformity** was the price of being noticed, and she was not sure she wanted to pay it."
+      },
+      {
+        "title": "The Quiet Table",
+        "text": "At lunch she met Idowu, who ate beside the library window and kept a notebook. He was **introspective**, always examining his own thoughts, and he rarely spoke. Then Pascal, a popular boy in her homeroom, invited her to join his crowd. Margot felt **ambivalent**, torn between longing to belong and wanting to stay at the quiet table. She chose the crowd. Within weeks she began to **alienate** Idowu, ignoring his messages, and she hid a growing **resentment** whenever Pascal's friends teased others."
+      },
+      {
+        "title": "The Turning Point",
+        "text": "One rainy afternoon Margot walked home alone and enjoyed the **solitude**. In the quiet she had an **epiphany**: she had been trading her real self for approval. She felt **disillusioned**, because the friendship she had worked to win asked her to become someone else. The realization brought a new **maturity**, and the next morning she apologized to Idowu. His forgiveness felt **bittersweet**, warm but tinged with sadness over the lost weeks."
+      },
+      {
+        "title": "Her Own Pace",
+        "text": "Margot did not abandon Pascal, because he was not cruel, only afraid, like everyone else. But she began choosing her seats, clothes and opinions for herself. Some days that meant eating alone with a book, and some days it meant sharing a table with both boys. Growing up, she decided, was less about becoming someone new and more about noticing who she already was."
+      }
+    ],
+    "wordCount": 296
+  },
+  "definitions": [
+    {
+      "word": "conformity",
+      "partOfSpeech": "noun",
+      "meaning1": "The act of following the accepted rules, styles or behavior of a group. Example: The school's strict dress code encouraged conformity rather than creativity.",
+      "meaning2": "Agreement with a rule or standard. Example: The bridge was built in conformity with the city's safety code.",
+      "studentChallenge": "Wearing the exact same jacket as everyone else was a sign of ___ at the school.",
+      "sentence": ""
+    },
+    {
+      "word": "maturity",
+      "partOfSpeech": "noun",
+      "meaning1": "The quality of thinking and acting in a sensible, responsible way. Example: She showed real maturity when she admitted her mistake.",
+      "meaning2": "The state of being fully grown or developed. Example: Oak trees need many decades to reach maturity.",
+      "studentChallenge": "He handled the disagreement with ___ instead of storming out of the room.",
+      "sentence": ""
+    },
+    {
+      "word": "insecure",
+      "partOfSpeech": "adjective",
+      "meaning1": "Lacking confidence; worried about your own worth or abilities. Example: He felt insecure about reading his poem aloud to the class.",
+      "meaning2": "Not safe or firmly fixed in place. Example: The insecure ladder wobbled whenever he climbed higher.",
+      "studentChallenge": "She felt ___ about her singing voice, so she only hummed when alone.",
+      "sentence": ""
+    },
+    {
+      "word": "introspective",
+      "partOfSpeech": "adjective",
+      "meaning1": "Inclined to examine your own thoughts and feelings. Example: The introspective poet spent hours writing in her journal about her fears.",
+      "meaning2": "",
+      "studentChallenge": "After the argument he grew quiet and ___, asking himself why he had reacted so angrily.",
+      "sentence": ""
+    },
+    {
+      "word": "ambivalent",
+      "partOfSpeech": "adjective",
+      "meaning1": "Having mixed or conflicting feelings about something. Example: She was ambivalent about changing schools, excited by the chance yet afraid to leave her friends.",
+      "meaning2": "",
+      "studentChallenge": "Torn between two choices, he felt ___ and could not make up his mind.",
+      "sentence": ""
+    },
+    {
+      "word": "epiphany",
+      "partOfSpeech": "noun",
+      "meaning1": "A sudden moment of understanding or realization. Example: While washing dishes, he had an epiphany about how to fix his essay.",
+      "meaning2": "",
+      "studentChallenge": "The sudden ___ came to her on the hike: she wanted to study the stars.",
+      "sentence": ""
+    },
+    {
+      "word": "resentment",
+      "partOfSpeech": "noun",
+      "meaning1": "A bitter feeling of anger about being treated unfairly. Example: Her resentment grew each time her brother took credit for her work.",
+      "meaning2": "",
+      "studentChallenge": "Years of unfair treatment left him with a quiet ___ toward his old boss.",
+      "sentence": ""
+    },
+    {
+      "word": "alienate",
+      "partOfSpeech": "verb",
+      "meaning1": "To make someone feel unwelcome or distant; to turn people away. Example: Constant bragging can alienate your teammates.",
+      "meaning2": "To make someone feel like a stranger to a group or place. Example: The harsh new rules threatened to alienate the very students they were meant to help.",
+      "studentChallenge": "Bragging all the time will ___ the friends who want to support you.",
+      "sentence": ""
+    },
+    {
+      "word": "disillusioned",
+      "partOfSpeech": "adjective",
+      "meaning1": "Disappointed to learn that something is not as good as you believed. Example: The volunteers grew disillusioned when the club ignored its own promises.",
+      "meaning2": "",
+      "studentChallenge": "The young fan became ___ after learning that his hero had cheated.",
+      "sentence": ""
+    },
+    {
+      "word": "adolescent",
+      "partOfSpeech": "noun, adjective",
+      "meaning1": "A young person who is no longer a child but not yet an adult. Example: The library has a shelf of novels written for the adolescent who feels misunderstood.",
+      "meaning2": "Of or like a young person at that stage of life. Example: His adolescent humor, full of pranks and loud jokes, made the teachers sigh.",
+      "studentChallenge": "Every ___ must learn how to balance independence with responsibility.",
+      "sentence": ""
+    },
+    {
+      "word": "solitude",
+      "partOfSpeech": "noun",
+      "meaning1": "The state of being alone, especially in a peaceful way. Example: The hiker enjoyed the solitude of the mountain trail.",
+      "meaning2": "",
+      "studentChallenge": "After a noisy week, she craved an hour of peaceful ___ with her book.",
+      "sentence": ""
+    },
+    {
+      "word": "bittersweet",
+      "partOfSpeech": "adjective",
+      "meaning1": "Pleasant but mixed with sadness. Example: Graduation day was bittersweet for the whole class.",
+      "meaning2": "Both sweet and slightly bitter in taste. Example: The bittersweet chocolate balanced the sugary frosting.",
+      "studentChallenge": "Saying goodbye to her old house was ___: she felt sad to leave and glad for what came next.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The school's strict dress code encouraged _______ rather than creativity.",
+      "sentence2": "The new bridge was built in _______ with every safety rule in the city code.",
+      "options": [
+        "maturity",
+        "conformity",
+        "solitude",
+        "resentment"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "conformity"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "She showed great _______ when she calmly admitted her mistake.",
+      "sentence2": "Oak trees need many decades to reach full _______.",
+      "options": [
+        "maturity",
+        "conformity",
+        "epiphany",
+        "solitude"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "maturity"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "He felt _______ about reading his poem aloud in front of the entire class.",
+      "sentence2": "The _______ ladder wobbled dangerously whenever he climbed higher.",
+      "options": [
+        "bittersweet",
+        "ambivalent",
+        "disillusioned",
+        "insecure"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "insecure"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The _______ poet spent whole afternoons examining her own thoughts in a journal.",
+      "sentence2": "Her _______ nature led her to question why she reacted the way she did.",
+      "options": [
+        "insecure",
+        "ambivalent",
+        "introspective",
+        "bittersweet"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "introspective"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "She was _______ about moving, excited by the adventure yet afraid of leaving her friends.",
+      "sentence2": "Voters remained _______ about the proposal, unable to decide whether to support it.",
+      "options": [
+        "insecure",
+        "ambivalent",
+        "introspective",
+        "disillusioned"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "ambivalent"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The sudden _______ came to him while he washed dishes: his essay needed a new opening.",
+      "sentence2": "Her _______ arrived halfway through the hike: she wanted to study the stars.",
+      "options": [
+        "epiphany",
+        "resentment",
+        "solitude",
+        "maturity"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "epiphany"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Her _______ grew each time her brother took credit for her work.",
+      "sentence2": "Years of unfair treatment left him with a quiet _______ toward his old boss.",
+      "options": [
+        "maturity",
+        "conformity",
+        "solitude",
+        "resentment"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "resentment"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Constant bragging can _______ your teammates and leave you without support.",
+      "sentence2": "Harsh new rules may _______ the very students they hope to protect.",
+      "options": [
+        "conformity",
+        "resentment",
+        "alienate",
+        "solitude"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "alienate"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The volunteers grew _______ when they saw how little the club's promises really meant.",
+      "sentence2": "The young fan became _______ after learning that the hero he admired had cheated.",
+      "options": [
+        "insecure",
+        "disillusioned",
+        "introspective",
+        "bittersweet"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "disillusioned"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The library has a shelf of novels written for every _______ who feels misunderstood.",
+      "sentence2": "His _______ humor, full of pranks and loud jokes, made the teachers sigh.",
+      "options": [
+        "adolescent",
+        "maturity",
+        "conformity",
+        "epiphany"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "adolescent"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The hiker enjoyed the _______ of the mountain trail, where no one else was in sight.",
+      "sentence2": "After a noisy week, she craved an hour of peaceful _______ with her book.",
+      "options": [
+        "conformity",
+        "resentment",
+        "maturity",
+        "solitude"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "solitude"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Graduation day felt _______, joyful for the future and sad about leaving friends.",
+      "sentence2": "The _______ chocolate balanced the sweet frosting on the cake.",
+      "options": [
+        "insecure",
+        "ambivalent",
+        "bittersweet",
+        "introspective"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "bittersweet"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "conformity",
+      "maturity",
+      "insecure",
+      "introspective",
+      "ambivalent",
+      "epiphany",
+      "resentment",
+      "alienate",
+      "disillusioned",
+      "adolescent",
+      "solitude",
+      "bittersweet"
+    ],
+    "passage": "Idowu's sister told him that every _(1)_ feels pulled in two directions: toward the comfort of the crowd and toward the freedom of being different. At first Idowu felt _(2)_ about speaking up in class, certain that his ideas were not good enough. Then, after a long weekend of quiet _(3)_ at his grandmother's farm, he began writing in a journal, and he became more _(4)_, studying his own habits and fears.\n\nOne morning, while feeding the chickens, he had a sudden _(5)_: the people he admired most were never the ones who copied everyone else. He realized that _(6)_ might keep him safe, but it could never make him happy. When his new friend Margot began to _(7)_ him by skipping lunch together, he felt a flash of _(8)_, but he did not let it harden. He was _(9)_ about forgiving her, torn between hurt and hope.\n\nWhen she finally apologized, the moment was _(10)_, sweet because they were friends again and sad because of the lost weeks. By then Idowu had reached a new kind of _(11)_: he no longer needed everyone's approval. Margot, who had grown _(12)_ with the popular crowd, understood him better than ever.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "adolescent",
+        "options": [
+          "epiphany",
+          "adolescent",
+          "solitude",
+          "resentment"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "insecure",
+        "options": [
+          "insecure",
+          "bittersweet",
+          "introspective",
+          "disillusioned"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "solitude",
+        "options": [
+          "solitude",
+          "maturity",
+          "resentment",
+          "conformity"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "introspective",
+        "options": [
+          "bittersweet",
+          "disillusioned",
+          "ambivalent",
+          "introspective"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "epiphany",
+        "options": [
+          "maturity",
+          "epiphany",
+          "resentment",
+          "conformity"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "conformity",
+        "options": [
+          "maturity",
+          "epiphany",
+          "conformity",
+          "solitude"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "alienate",
+        "options": [
+          "conformity",
+          "epiphany",
+          "adolescent",
+          "alienate"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "resentment",
+        "options": [
+          "resentment",
+          "solitude",
+          "maturity",
+          "epiphany"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "ambivalent",
+        "options": [
+          "insecure",
+          "disillusioned",
+          "ambivalent",
+          "introspective"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "bittersweet",
+        "options": [
+          "insecure",
+          "introspective",
+          "disillusioned",
+          "bittersweet"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "maturity",
+        "options": [
+          "conformity",
+          "maturity",
+          "epiphany",
+          "resentment"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "disillusioned",
+        "options": [
+          "insecure",
+          "introspective",
+          "disillusioned",
+          "bittersweet"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "resentment",
+        "scale": [
+          "Annoyance",
+          "Resentment",
+          "Fury"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "insecure",
+        "scale": [
+          "Hesitant",
+          "Insecure",
+          "Fearful"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "disillusioned",
+        "scale": [
+          "Disappointed",
+          "Disillusioned",
+          "Heartbroken"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "solitude",
+        "scale": [
+          "Privacy",
+          "Solitude",
+          "Isolation"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "conformity",
+        "words": [
+          "Compliance",
+          "Rebellion",
+          "Obedience",
+          "Uniformity"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Rebellion"
+      },
+      {
+        "vocabWord": "maturity",
+        "words": [
+          "Childishness",
+          "Wisdom",
+          "Adulthood",
+          "Responsibility"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Childishness"
+      },
+      {
+        "vocabWord": "alienate",
+        "words": [
+          "Estrange",
+          "Isolate",
+          "Repel",
+          "Befriend"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Befriend"
+      },
+      {
+        "vocabWord": "epiphany",
+        "words": [
+          "Revelation",
+          "Realization",
+          "Confusion",
+          "Insight"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Confusion"
+      },
+      {
+        "vocabWord": "resentment",
+        "words": [
+          "Bitterness",
+          "Gratitude",
+          "Grudge",
+          "Spite"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Gratitude"
+      },
+      {
+        "vocabWord": "disillusioned",
+        "words": [
+          "Hopeful",
+          "Disenchanted",
+          "Let down",
+          "Dismayed"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Hopeful"
+      },
+      {
+        "vocabWord": "solitude",
+        "words": [
+          "Seclusion",
+          "Isolation",
+          "Loneliness",
+          "Company"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Company"
+      },
+      {
+        "vocabWord": "introspective",
+        "words": [
+          "Reflective",
+          "Thoughtful",
+          "Unthinking",
+          "Pensive"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Unthinking"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

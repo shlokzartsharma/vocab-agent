@@ -1,0 +1,578 @@
+{
+  "grade": 1,
+  "setNumber": 15,
+  "words": [
+    "tender",
+    "knit",
+    "quilt",
+    "porch",
+    "swing",
+    "lemonade",
+    "chuckle",
+    "pamper",
+    "savor",
+    "doting",
+    "fond",
+    "comfy"
+  ],
+  "sources": [
+    "Common Core Grade 1",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "grandma's house",
+  "story": {
+    "genre": "grandma's house",
+    "characters": [
+      "Camila",
+      "Ravi",
+      "Poppy"
+    ],
+    "parts": [
+      {
+        "title": "Welcome",
+        "text": "Camila, Ravi, and Poppy visited Grandma’s house. She waved from the **porch** and gave each child a **tender** hug. “I am so **fond** of you three,” she said. The whole house smelled like fresh bread."
+      },
+      {
+        "title": "Cozy Inside",
+        "text": "Grandma was **doting**, and she liked to **pamper** her visitors. She sat in her **comfy** chair and began to **knit** a hat. A bright **quilt** lay over the sofa."
+      },
+      {
+        "title": "Treats and Fun",
+        "text": "Ravi poured cold **lemonade** for everyone. Poppy told a silly joke, and Grandma gave a soft **chuckle**. Camila ate a slice of cake and tried to **savor** every bite. Later, Ravi went out to the **swing** under the old tree."
+      },
+      {
+        "title": "Goodbye Hugs",
+        "text": "The sun began to set. The children said goodbye with big hugs. Grandma waved until the car was out of sight. They could not wait to visit again."
+      }
+    ],
+    "wordCount": 132
+  },
+  "definitions": [
+    {
+      "word": "tender",
+      "partOfSpeech": "adjective",
+      "meaning1": "Soft and gentle; kind and loving. Example: Grandma gave me a tender hug.",
+      "meaning2": "Soft and easy to chew. Example: The chicken was so tender.",
+      "studentChallenge": "Mom gave the baby a ___ kiss.",
+      "sentence": ""
+    },
+    {
+      "word": "knit",
+      "partOfSpeech": "verb",
+      "meaning1": "To make cloth by looping yarn with long needles. Example: Grandma will knit me a scarf.",
+      "meaning2": "",
+      "studentChallenge": "Grandma will ___ me a warm scarf.",
+      "sentence": ""
+    },
+    {
+      "word": "quilt",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A warm bed cover made of many small pieces of cloth sewn together. Example: The quilt on my bed has stars.",
+      "meaning2": "To sew small pieces of cloth into a bed cover. Example: Aunt Rosa likes to quilt on rainy days.",
+      "studentChallenge": "Grandma pulled a warm ___ up to my chin.",
+      "sentence": ""
+    },
+    {
+      "word": "porch",
+      "partOfSpeech": "noun",
+      "meaning1": "A covered place with a floor at the front of a house. Example: We sat on the porch and watched the rain.",
+      "meaning2": "",
+      "studentChallenge": "The cat naps on the front ___ of the house.",
+      "sentence": ""
+    },
+    {
+      "word": "swing",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A seat that hangs from ropes and moves back and forth. Example: I sit on the swing and go high.",
+      "meaning2": "To move back and forth. Example: I swing my legs under the table.",
+      "studentChallenge": "Dad hung a ___ from the big tree.",
+      "sentence": ""
+    },
+    {
+      "word": "lemonade",
+      "partOfSpeech": "noun",
+      "meaning1": "A sweet drink made from lemons, water, and sugar. Example: We drink cold lemonade on hot days.",
+      "meaning2": "",
+      "studentChallenge": "We drank cold ___ on the hot afternoon.",
+      "sentence": ""
+    },
+    {
+      "word": "chuckle",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To laugh softly. Example: Grandpa will chuckle at the funny joke.",
+      "meaning2": "A soft laugh. Example: He gave a happy chuckle.",
+      "studentChallenge": "Grandpa will ___ when he hears a funny joke.",
+      "sentence": ""
+    },
+    {
+      "word": "pamper",
+      "partOfSpeech": "verb",
+      "meaning1": "To take extra good care of someone and be extra kind. Example: Mom likes to pamper me on my birthday.",
+      "meaning2": "",
+      "studentChallenge": "Mom likes to ___ me with treats on my birthday.",
+      "sentence": ""
+    },
+    {
+      "word": "savor",
+      "partOfSpeech": "verb",
+      "meaning1": "To enjoy something slowly, so it lasts. Example: I savor each bite of my cookie.",
+      "meaning2": "",
+      "studentChallenge": "I like to ___ each bite of my cookie slowly.",
+      "sentence": ""
+    },
+    {
+      "word": "doting",
+      "partOfSpeech": "adjective",
+      "meaning1": "Showing lots of love and care. Example: My doting grandmother always has a hug for me.",
+      "meaning2": "",
+      "studentChallenge": "My ___ grandpa always has a snack for me.",
+      "sentence": ""
+    },
+    {
+      "word": "fond",
+      "partOfSpeech": "adjective",
+      "meaning1": "Liking someone or something very much. Example: I am fond of my cat.",
+      "meaning2": "",
+      "studentChallenge": "I am very ___ of my cat, and I love her.",
+      "sentence": ""
+    },
+    {
+      "word": "comfy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Soft and cozy; it makes you feel good and relaxed. Example: This comfy chair is the best spot to read.",
+      "meaning2": "",
+      "studentChallenge": "I wore my ___ pajamas because they were so cozy.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Grandma gave me a _______ hug and a kiss on the head.",
+      "sentence2": "The soup had _______ pieces of carrot that melted in my mouth.",
+      "options": [
+        "knit",
+        "tender",
+        "porch",
+        "lemonade"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "tender"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Grandma will _______ me a warm scarf with her long needles.",
+      "sentence2": "I want to learn to _______ a hat from soft blue yarn.",
+      "options": [
+        "knit",
+        "chuckle",
+        "savor",
+        "tender"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "knit"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The _______ on my bed has stars sewn from tiny pieces of cloth.",
+      "sentence2": "Grandma pulled a warm _______ up to my chin.",
+      "options": [
+        "porch",
+        "swing",
+        "lemonade",
+        "quilt"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "quilt"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "We sat on the _______ and watched the rain fall.",
+      "sentence2": "The cat naps on the front _______ of the house.",
+      "options": [
+        "lemonade",
+        "knit",
+        "porch",
+        "comfy"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "porch"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "I sit on the _______ and kick my feet to go high.",
+      "sentence2": "Dad hung a _______ from the big tree.",
+      "options": [
+        "lemonade",
+        "swing",
+        "porch",
+        "chuckle"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "swing"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "We drank cold _______ on the hot afternoon.",
+      "sentence2": "She stirred sugar into the pitcher of _______.",
+      "options": [
+        "lemonade",
+        "quilt",
+        "porch",
+        "tender"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "lemonade"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Grandpa will _______ when he hears a funny joke.",
+      "sentence2": "I heard a soft _______ from behind the newspaper.",
+      "options": [
+        "porch",
+        "quilt",
+        "comfy",
+        "chuckle"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "chuckle"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Mom likes to _______ me on my birthday with treats.",
+      "sentence2": "Grandma will _______ us with warm cookies and a story.",
+      "options": [
+        "knit",
+        "savor",
+        "pamper",
+        "swing"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "pamper"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "I like to _______ each bite of my cookie slowly.",
+      "sentence2": "Close your eyes and _______ the sweet taste of the peach.",
+      "options": [
+        "knit",
+        "savor",
+        "chuckle",
+        "porch"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "savor"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "My _______ grandmother always has a hug and a snack for me.",
+      "sentence2": "The _______ dad looked at the baby with love every minute.",
+      "options": [
+        "doting",
+        "porch",
+        "quilt",
+        "knit"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "doting"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "I am very _______ of my cat, and I love her.",
+      "sentence2": "Grandpa is _______ of telling jokes about the moon.",
+      "options": [
+        "swing",
+        "porch",
+        "pamper",
+        "fond"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "fond"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "This soft, _______ chair is the best spot to read.",
+      "sentence2": "I wore my _______ pajamas because they were so cozy.",
+      "options": [
+        "swing",
+        "savor",
+        "comfy",
+        "knit"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "comfy"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "tender",
+      "knit",
+      "quilt",
+      "porch",
+      "swing",
+      "lemonade",
+      "chuckle",
+      "pamper",
+      "savor",
+      "doting",
+      "fond",
+      "comfy"
+    ],
+    "passage": "On Sunday, Mei went to Nana’s house. Nana waited on the _(1)_ with a big smile. She gave Mei a _(2)_ hug. Mei was happy because Nana was so _(3)_ and always gave her extra care. Inside, Nana loved to _(4)_ her with treats.\n\nNana sat in her _(5)_ chair and began to _(6)_ a scarf. Mei lay under a warm _(7)_ and listened. Then they drank cold _(8)_ in the sun. Nana told a story, and Mei began to _(9)_ at the funny parts.\n\nLater, Mei sat on the _(10)_ and let her feet fly. She was _(11)_ of Nana’s house, and she wanted to _(12)_ every minute.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "porch",
+        "options": [
+          "tender",
+          "knit",
+          "porch",
+          "savor"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "tender",
+        "options": [
+          "knit",
+          "lemonade",
+          "porch",
+          "tender"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "doting",
+        "options": [
+          "doting",
+          "porch",
+          "quilt",
+          "lemonade"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "pamper",
+        "options": [
+          "quilt",
+          "pamper",
+          "porch",
+          "lemonade"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "comfy",
+        "options": [
+          "swing",
+          "knit",
+          "comfy",
+          "savor"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "knit",
+        "options": [
+          "porch",
+          "comfy",
+          "fond",
+          "knit"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "quilt",
+        "options": [
+          "quilt",
+          "porch",
+          "swing",
+          "savor"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "lemonade",
+        "options": [
+          "comfy",
+          "lemonade",
+          "knit",
+          "porch"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "chuckle",
+        "options": [
+          "quilt",
+          "porch",
+          "chuckle",
+          "tender"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "swing",
+        "options": [
+          "lemonade",
+          "doting",
+          "knit",
+          "swing"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "fond",
+        "options": [
+          "fond",
+          "porch",
+          "quilt",
+          "knit"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "savor",
+        "options": [
+          "doting",
+          "savor",
+          "quilt",
+          "porch"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "chuckle",
+        "scale": [
+          "Smile",
+          "Chuckle",
+          "Laugh"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "fond",
+        "scale": [
+          "Like",
+          "Fond",
+          "Adore"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "pamper",
+        "scale": [
+          "Help",
+          "Pamper",
+          "Spoil"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "comfy",
+        "scale": [
+          "Itchy",
+          "Comfy",
+          "Snug"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "tender",
+        "words": [
+          "Gentle",
+          "Soft",
+          "Harsh",
+          "Kind"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Harsh"
+      },
+      {
+        "vocabWord": "comfy",
+        "words": [
+          "Cozy",
+          "Snug",
+          "Itchy",
+          "Soft"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Itchy"
+      },
+      {
+        "vocabWord": "chuckle",
+        "words": [
+          "Giggle",
+          "Laugh",
+          "Cry",
+          "Snicker"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Cry"
+      },
+      {
+        "vocabWord": "fond",
+        "words": [
+          "Loving",
+          "Dislike",
+          "Caring",
+          "Warm"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Dislike"
+      },
+      {
+        "vocabWord": "pamper",
+        "words": [
+          "Spoil",
+          "Treat",
+          "Ignore",
+          "Cuddle"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Ignore"
+      },
+      {
+        "vocabWord": "savor",
+        "words": [
+          "Enjoy",
+          "Relish",
+          "Rush through",
+          "Treasure"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Rush through"
+      },
+      {
+        "vocabWord": "doting",
+        "words": [
+          "Loving",
+          "Caring",
+          "Cold",
+          "Devoted"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Cold"
+      },
+      {
+        "vocabWord": "knit",
+        "words": [
+          "Weave",
+          "Stitch",
+          "Unravel",
+          "Sew"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Unravel"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

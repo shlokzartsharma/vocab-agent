@@ -1,0 +1,578 @@
+{
+  "grade": 2,
+  "setNumber": 20,
+  "words": [
+    "nervous",
+    "midnight",
+    "spooky",
+    "shadow",
+    "startle",
+    "creepy",
+    "sleepover",
+    "muffle",
+    "stifle",
+    "moonlight",
+    "creak",
+    "prank"
+  ],
+  "sources": [
+    "Common Core Grade 2",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "sleepover night",
+  "story": {
+    "genre": "sleepover night",
+    "characters": [
+      "Odette",
+      "Rishi",
+      "Cleo"
+    ],
+    "parts": [
+      {
+        "title": "Sleepover at Odette's",
+        "text": "Odette invited Rishi and Cleo to a **sleepover**. They built a blanket fort in the living room and shared a big bowl of popcorn. Cleo felt a little **nervous** because it was her first night away from home."
+      },
+      {
+        "title": "Story Time",
+        "text": "Rishi turned off the lamp and held a flashlight under his chin. He told a silly, **spooky** story about a ghost who was afraid of the dark. He used a **creepy** voice, and all three friends giggled. On the wall, the **shadow** of Odette's teddy bear looked as big as a bear in the woods."
+      },
+      {
+        "title": "The Midnight Sound",
+        "text": "At **midnight**, a floorboard gave a long **creak**. The sound made Cleo **startle**, but it was only Odette's dad bringing warm cocoa. “Let's play a **prank** on him tomorrow,” whispered Odette. Cleo had to **stifle** her giggles, and Rishi pulled a pillow over his face to **muffle** his laughter. Soft **moonlight** poured through the window and made the fort glow silver."
+      },
+      {
+        "title": "Sweet Dreams",
+        "text": "Soon everyone was snug and sleepy. Cleo smiled in the dark, glad that she had come. Nothing had been scary at all, only silly and warm."
+      }
+    ],
+    "wordCount": 180
+  },
+  "definitions": [
+    {
+      "word": "nervous",
+      "partOfSpeech": "adjective",
+      "meaning1": "A little afraid or worried about something. Example: I felt nervous before I sang on stage.",
+      "meaning2": "",
+      "studentChallenge": "He was ___ on the first day at his new school.",
+      "sentence": ""
+    },
+    {
+      "word": "midnight",
+      "partOfSpeech": "noun",
+      "meaning1": "Twelve o'clock at night. Example: The clock struck twelve at midnight.",
+      "meaning2": "",
+      "studentChallenge": "The owl hooted at ___, when the town was quiet.",
+      "sentence": ""
+    },
+    {
+      "word": "spooky",
+      "partOfSpeech": "adjective",
+      "meaning1": "Strange and a little scary in a fun way. Example: We told spooky stories with a flashlight.",
+      "meaning2": "",
+      "studentChallenge": "The old house looked ___ in the dark.",
+      "sentence": ""
+    },
+    {
+      "word": "shadow",
+      "partOfSpeech": "noun",
+      "meaning1": "A dark shape made when something blocks the light. Example: My shadow grew long when the sun was low.",
+      "meaning2": "",
+      "studentChallenge": "A dark ___ of the tree fell across the grass.",
+      "sentence": ""
+    },
+    {
+      "word": "startle",
+      "partOfSpeech": "verb",
+      "meaning1": "To surprise someone suddenly so that they jump. Example: A loud pop will startle the sleeping cat.",
+      "meaning2": "",
+      "studentChallenge": "I did not mean to ___ you when I came up behind you.",
+      "sentence": ""
+    },
+    {
+      "word": "creepy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Strange in a way that gives you shivers. Example: The creepy old doll seemed to stare at me.",
+      "meaning2": "",
+      "studentChallenge": "The dark, empty hallway felt ___.",
+      "sentence": ""
+    },
+    {
+      "word": "sleepover",
+      "partOfSpeech": "noun",
+      "meaning1": "A night when a friend sleeps at your house. Example: My cousin is coming for a sleepover on Friday.",
+      "meaning2": "",
+      "studentChallenge": "We watched a movie and ate popcorn at the ___.",
+      "sentence": ""
+    },
+    {
+      "word": "muffle",
+      "partOfSpeech": "verb",
+      "meaning1": "To make a sound quieter, often by covering it. Example: A thick pillow can muffle the sound of your laughter.",
+      "meaning2": "",
+      "studentChallenge": "Snow seems to ___ the noise of the street.",
+      "sentence": ""
+    },
+    {
+      "word": "stifle",
+      "partOfSpeech": "verb",
+      "meaning1": "To hold back a sound or feeling. Example: She tried to stifle a yawn during the long speech.",
+      "meaning2": "",
+      "studentChallenge": "He had to ___ his giggles when the teacher looked his way.",
+      "sentence": ""
+    },
+    {
+      "word": "moonlight",
+      "partOfSpeech": "noun",
+      "meaning1": "The light that shines from the moon. Example: The garden glowed silver in the moonlight.",
+      "meaning2": "",
+      "studentChallenge": "We walked home by ___ because the streetlamp was out.",
+      "sentence": ""
+    },
+    {
+      "word": "creak",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A long, squeaky sound, like an old door makes. Example: The old stairs gave a loud creak with every step.",
+      "meaning2": "To make a long, squeaky sound. Example: The rocking chair will creak when you sit in it.",
+      "studentChallenge": "I heard the ___ of the rocking chair.",
+      "sentence": ""
+    },
+    {
+      "word": "prank",
+      "partOfSpeech": "noun",
+      "meaning1": "A playful trick that is meant to get a laugh. Example: My brother played a prank on me by hiding my shoe.",
+      "meaning2": "",
+      "studentChallenge": "The silly ___ made everyone laugh, and no one got hurt.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "I felt _______ before I sang on stage.",
+      "sentence2": "He was _______ on the first day at a new school.",
+      "options": [
+        "spooky",
+        "nervous",
+        "prank",
+        "moonlight"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "nervous"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The clock struck twelve at _______.",
+      "sentence2": "The owl hooted at _______, when the whole town was quiet.",
+      "options": [
+        "midnight",
+        "creak",
+        "prank",
+        "nervous"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "midnight"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "We told _______ stories around the campfire.",
+      "sentence2": "The old house looked _______ with its dark windows.",
+      "options": [
+        "nervous",
+        "muffle",
+        "stifle",
+        "spooky"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "spooky"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "My _______ grew long when the sun was low in the sky.",
+      "sentence2": "A dark _______ of the tree fell across the grass.",
+      "options": [
+        "moonlight",
+        "midnight",
+        "shadow",
+        "prank"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "shadow"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "A loud pop will _______ the sleeping cat.",
+      "sentence2": "I did not mean to _______ you when I came up behind you.",
+      "options": [
+        "muffle",
+        "startle",
+        "creak",
+        "midnight"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "startle"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The dark, empty hallway felt _______.",
+      "sentence2": "That _______ old doll seemed to stare at me.",
+      "options": [
+        "creepy",
+        "midnight",
+        "shadow",
+        "moonlight"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "creepy"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "My cousin is coming for a _______ on Friday night.",
+      "sentence2": "We watched a movie and ate popcorn at the _______.",
+      "options": [
+        "shadow",
+        "creak",
+        "stifle",
+        "sleepover"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "sleepover"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "A thick pillow can _______ the sound of a loud drum.",
+      "sentence2": "Snow seems to _______ the noise of the street.",
+      "options": [
+        "startle",
+        "prank",
+        "muffle",
+        "nervous"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "muffle"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "She tried to _______ a yawn during the long speech.",
+      "sentence2": "He had to _______ his giggles when the teacher looked his way.",
+      "options": [
+        "creak",
+        "stifle",
+        "startle",
+        "prank"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "stifle"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The garden glowed silver in the _______.",
+      "sentence2": "We walked home by _______ because the streetlamp was out.",
+      "options": [
+        "moonlight",
+        "creak",
+        "startle",
+        "spooky"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "moonlight"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The old stairs gave a loud _______ with every step.",
+      "sentence2": "I heard the _______ of the rocking chair.",
+      "options": [
+        "shadow",
+        "prank",
+        "moonlight",
+        "creak"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "creak"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "My brother played a _______ on me by hiding my shoe.",
+      "sentence2": "The silly _______ made everyone laugh, and no one got hurt.",
+      "options": [
+        "creak",
+        "midnight",
+        "prank",
+        "sleepover"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "prank"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "nervous",
+      "midnight",
+      "spooky",
+      "shadow",
+      "startle",
+      "creepy",
+      "sleepover",
+      "muffle",
+      "stifle",
+      "moonlight",
+      "creak",
+      "prank"
+    ],
+    "passage": "Wren was _(1)_ about her first _(2)_, but her friend Juno had a plan. They hung a blanket over two chairs to make a cozy fort. Juno told a _(3)_ story about a ghost who was afraid of the dark, and she used a silly _(4)_ voice. Wren giggled so hard that she forgot to be afraid.\nA big _(5)_ on the wall turned out to be Juno's teddy bear. At _(6)_, a floorboard gave a long _(7)_, and the girls heard slow footsteps. The sound did _(8)_ Wren at first, but it was only Juno's dad checking on them.\nJuno pulled a pillow over her face to _(9)_ her laughter, and Wren had to _(10)_ a giggle too. “Tomorrow we will play a _(11)_ on Dad,” Juno whispered. Silver _(12)_ slipped through the window, and soon both girls were fast asleep.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "nervous",
+        "options": [
+          "muffle",
+          "midnight",
+          "nervous",
+          "sleepover"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "sleepover",
+        "options": [
+          "sleepover",
+          "creepy",
+          "startle",
+          "stifle"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "spooky",
+        "options": [
+          "moonlight",
+          "stifle",
+          "muffle",
+          "spooky"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "creepy",
+        "options": [
+          "creepy",
+          "midnight",
+          "sleepover",
+          "stifle"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "shadow",
+        "options": [
+          "startle",
+          "shadow",
+          "nervous",
+          "spooky"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "midnight",
+        "options": [
+          "midnight",
+          "stifle",
+          "startle",
+          "creepy"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "creak",
+        "options": [
+          "nervous",
+          "creak",
+          "creepy",
+          "stifle"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "startle",
+        "options": [
+          "midnight",
+          "startle",
+          "moonlight",
+          "shadow"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "muffle",
+        "options": [
+          "shadow",
+          "sleepover",
+          "muffle",
+          "spooky"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "stifle",
+        "options": [
+          "creepy",
+          "moonlight",
+          "nervous",
+          "stifle"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "prank",
+        "options": [
+          "muffle",
+          "prank",
+          "nervous",
+          "startle"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "moonlight",
+        "options": [
+          "moonlight",
+          "spooky",
+          "stifle",
+          "nervous"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "nervous",
+        "scale": [
+          "Calm",
+          "Nervous",
+          "Jumpy"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "creepy",
+        "scale": [
+          "Odd",
+          "Strange",
+          "Creepy"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "muffle",
+        "scale": [
+          "Soften",
+          "Muffle",
+          "Silence"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "startle",
+        "scale": [
+          "Surprise",
+          "Startle",
+          "Shock"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "nervous",
+        "words": [
+          "Anxious",
+          "Jittery",
+          "Calm",
+          "Uneasy"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Calm"
+      },
+      {
+        "vocabWord": "spooky",
+        "words": [
+          "Eerie",
+          "Ghostly",
+          "Cheerful",
+          "Haunted"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Cheerful"
+      },
+      {
+        "vocabWord": "startle",
+        "words": [
+          "Surprise",
+          "Soothe",
+          "Jolt",
+          "Shock"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Soothe"
+      },
+      {
+        "vocabWord": "creepy",
+        "words": [
+          "Eerie",
+          "Strange",
+          "Cozy",
+          "Weird"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Cozy"
+      },
+      {
+        "vocabWord": "muffle",
+        "words": [
+          "Soften",
+          "Dampen",
+          "Amplify",
+          "Quiet"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Amplify"
+      },
+      {
+        "vocabWord": "stifle",
+        "words": [
+          "Suppress",
+          "Smother",
+          "Release",
+          "Restrain"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Release"
+      },
+      {
+        "vocabWord": "creak",
+        "words": [
+          "Squeak",
+          "Groan",
+          "Squeal",
+          "Silence"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Silence"
+      },
+      {
+        "vocabWord": "prank",
+        "words": [
+          "Trick",
+          "Joke",
+          "Gag",
+          "Seriousness"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Seriousness"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

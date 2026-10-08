@@ -1,0 +1,578 @@
+{
+  "grade": 2,
+  "setNumber": 12,
+  "words": [
+    "shudder",
+    "whistle",
+    "conductor",
+    "blur",
+    "tunnel",
+    "chug",
+    "countryside",
+    "whiz",
+    "clack",
+    "carriage",
+    "caboose",
+    "idle"
+  ],
+  "sources": [
+    "Common Core Grade 2",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "train journey",
+  "story": {
+    "genre": "train journey",
+    "characters": [
+      "Ines",
+      "Kofi",
+      "Wendy"
+    ],
+    "parts": [
+      {
+        "title": "All Aboard",
+        "text": "Ines, Kofi, and Wendy stood on the platform with Grandpa. A loud **whistle** blew, and the long train rolled in. The **conductor** smiled and checked their tickets. “All aboard!” he called. The children climbed into a **carriage** and found seats by the window."
+      },
+      {
+        "title": "Down the Tracks",
+        "text": "The train began to **shudder**, and then it began to **chug** out of the station. The wheels began to **clack** on the tracks. Soon the houses outside were just a **blur**. A bird seemed to **whiz** past the window."
+      },
+      {
+        "title": "Through the Hills",
+        "text": "The train dove into a dark **tunnel**, and Wendy held her breath. Then the light came back, and they saw the green **countryside**, with farms, cows, and a red barn. Kofi looked back and saw a little red **caboose** at the end of the train. Later, the train stopped for a signal, and the engine sat **idle** for a few minutes."
+      },
+      {
+        "title": "The Last Stop",
+        "text": "At the last stop, the children thanked the kind man in the blue hat. They had seen so much on one trip. Grandpa said a journey can be as fun as the place you are going."
+      }
+    ],
+    "wordCount": 179
+  },
+  "definitions": [
+    {
+      "word": "shudder",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To shake suddenly because of cold, fear, or a bump. Example: The old bus began to shudder when it started.",
+      "meaning2": "A sudden shake. Example: A shudder ran through the train.",
+      "studentChallenge": "I felt myself ___ when the cold wind hit me.",
+      "sentence": ""
+    },
+    {
+      "word": "whistle",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A high, sharp sound made by blowing. Example: We heard the whistle of the train.",
+      "meaning2": "To make a high sound by blowing air through your lips. Example: I like to whistle a happy song.",
+      "studentChallenge": "Dad will ___ to call the dog.",
+      "sentence": ""
+    },
+    {
+      "word": "conductor",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who checks tickets and helps riders on a train. Example: The conductor said, “All aboard!”",
+      "meaning2": "A person who leads a band. Example: The conductor lifted her arms and the band began to play.",
+      "studentChallenge": "The ___ checked each ticket on the train.",
+      "sentence": ""
+    },
+    {
+      "word": "blur",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "Something that looks smudged or too fast to see clearly. Example: The trees were a blur from the car window.",
+      "meaning2": "To make something hard to see clearly. Example: Tears can blur your eyes.",
+      "studentChallenge": "The runners went by so fast they looked like a ___.",
+      "sentence": ""
+    },
+    {
+      "word": "tunnel",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A long path that goes under the ground or through a hill. Example: The train rushed into the dark tunnel.",
+      "meaning2": "To dig a path under the ground. Example: A mole can tunnel under the garden.",
+      "studentChallenge": "The cars drove through the long, dark ___ under the mountain.",
+      "sentence": ""
+    },
+    {
+      "word": "chug",
+      "partOfSpeech": "verb",
+      "meaning1": "To move slowly with a low, puffing sound. Example: The little boat began to chug up the river.",
+      "meaning2": "",
+      "studentChallenge": "The old truck began to ___ up the steep hill.",
+      "sentence": ""
+    },
+    {
+      "word": "countryside",
+      "partOfSpeech": "noun",
+      "meaning1": "Land outside of towns and cities, with farms and fields. Example: We rode our bikes through the quiet countryside.",
+      "meaning2": "",
+      "studentChallenge": "Cows and green fields filled the ___.",
+      "sentence": ""
+    },
+    {
+      "word": "whiz",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To move very fast with a buzzing sound. Example: The race cars whiz by.",
+      "meaning2": "A person who is very good at something. Example: My sister is a math whiz.",
+      "studentChallenge": "Watch the rocket ___ past us!",
+      "sentence": ""
+    },
+    {
+      "word": "clack",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To make a short, hard, knocking sound. Example: His shoes clack on the hard floor.",
+      "meaning2": "A short, hard sound. Example: We heard the clack of the keys.",
+      "studentChallenge": "The wooden blocks ___ when they bump together.",
+      "sentence": ""
+    },
+    {
+      "word": "carriage",
+      "partOfSpeech": "noun",
+      "meaning1": "A car of a train where people sit. Example: We sat in the third carriage.",
+      "meaning2": "A vehicle with wheels that a horse pulls. Example: The horse pulled the carriage down the road.",
+      "studentChallenge": "We found our seats in the last ___ of the train.",
+      "sentence": ""
+    },
+    {
+      "word": "caboose",
+      "partOfSpeech": "noun",
+      "meaning1": "The little car at the very end of a long train. Example: The red caboose was the last car on the train.",
+      "meaning2": "",
+      "studentChallenge": "We waved to the worker in the ___ at the back of the train.",
+      "sentence": ""
+    },
+    {
+      "word": "idle",
+      "partOfSpeech": "adjective, verb",
+      "meaning1": "Not moving or not being used. Example: The bus sat idle in the parking lot.",
+      "meaning2": "To run slowly without going anywhere. Example: The car will idle at the red light.",
+      "studentChallenge": "The swings were ___ because the park was empty.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "I felt myself _______ when the cold wind hit my face.",
+      "sentence2": "A _______ ran down my back when I heard the loud noise.",
+      "options": [
+        "shudder",
+        "whistle",
+        "clack",
+        "tunnel"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "shudder"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "We heard the high, sharp _______ of the train from far away.",
+      "sentence2": "Dad will _______ to call the dog back to the yard.",
+      "options": [
+        "tunnel",
+        "whistle",
+        "blur",
+        "carriage"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "whistle"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The _______ checked each ticket as we sat down.",
+      "sentence2": "The _______ raised her arms, and the band began to play.",
+      "options": [
+        "carriage",
+        "caboose",
+        "conductor",
+        "tunnel"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "conductor"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The trees were a _______ from the fast window.",
+      "sentence2": "Tears can _______ your eyes so you cannot see well.",
+      "options": [
+        "caboose",
+        "countryside",
+        "carriage",
+        "blur"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "blur"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The train rushed into the dark _______ under the mountain.",
+      "sentence2": "A mole can _______ under the garden to make a home.",
+      "options": [
+        "tunnel",
+        "carriage",
+        "conductor",
+        "countryside"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "tunnel"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The old truck began to _______ up the steep hill.",
+      "sentence2": "The little boat will _______ slowly along the river.",
+      "options": [
+        "whiz",
+        "chug",
+        "shudder",
+        "idle"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "chug"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Cows and green fields filled the _______.",
+      "sentence2": "We rode our bikes through the quiet _______ far from the city.",
+      "options": [
+        "carriage",
+        "caboose",
+        "countryside",
+        "conductor"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "countryside"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Watch the rocket _______ past us!",
+      "sentence2": "The race cars _______ by so fast we could hardly see them.",
+      "options": [
+        "idle",
+        "shudder",
+        "clack",
+        "whiz"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "whiz"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The wooden blocks _______ when they bump together.",
+      "sentence2": "His shoes _______ on the hard floor as he walked.",
+      "options": [
+        "clack",
+        "whiz",
+        "chug",
+        "idle"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "clack"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "We found our seats in the last _______ of the train.",
+      "sentence2": "The horse pulled the _______ down the road.",
+      "options": [
+        "conductor",
+        "carriage",
+        "tunnel",
+        "countryside"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "carriage"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The little red _______ was the very last car at the end of the train.",
+      "sentence2": "We waved to the worker sitting in the _______ at the back.",
+      "options": [
+        "conductor",
+        "tunnel",
+        "caboose",
+        "countryside"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "caboose"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The swings were _______ because the park was empty.",
+      "sentence2": "The bus sat _______ in the parking lot with no one inside.",
+      "options": [
+        "carriage",
+        "tunnel",
+        "countryside",
+        "idle"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "idle"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "shudder",
+      "whistle",
+      "conductor",
+      "blur",
+      "tunnel",
+      "chug",
+      "countryside",
+      "whiz",
+      "clack",
+      "carriage",
+      "caboose",
+      "idle"
+    ],
+    "passage": "On Sunday, Kofi rode a train to see his aunt. He showed his ticket to the _(1)_. Then he sat in a _(2)_ near the front. Outside, the engine let out a loud _(3)_. The train began to _(4)_ away from the station, and the floor gave a small _(5)_.\nSoon the wheels began to _(6)_ on the tracks. A bird seemed to _(7)_ past the window, and the fields became a _(8)_. Kofi loved the green _(9)_ with its farms and hills. The train rushed through a long _(10)_, and it was dark for a moment.\nLater, the train stopped, and the engine sat _(11)_ while a cow crossed the tracks. Kofi looked back and saw the red _(12)_ at the very end of the train.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "conductor",
+        "options": [
+          "conductor",
+          "chug",
+          "whistle",
+          "countryside"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "carriage",
+        "options": [
+          "shudder",
+          "blur",
+          "whiz",
+          "carriage"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "whistle",
+        "options": [
+          "blur",
+          "whiz",
+          "whistle",
+          "caboose"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "chug",
+        "options": [
+          "countryside",
+          "chug",
+          "caboose",
+          "carriage"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "shudder",
+        "options": [
+          "shudder",
+          "chug",
+          "conductor",
+          "carriage"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "clack",
+        "options": [
+          "carriage",
+          "caboose",
+          "countryside",
+          "clack"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "whiz",
+        "options": [
+          "countryside",
+          "shudder",
+          "whiz",
+          "tunnel"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "blur",
+        "options": [
+          "whistle",
+          "blur",
+          "countryside",
+          "carriage"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "countryside",
+        "options": [
+          "countryside",
+          "blur",
+          "clack",
+          "chug"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "tunnel",
+        "options": [
+          "whiz",
+          "caboose",
+          "shudder",
+          "tunnel"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "idle",
+        "options": [
+          "carriage",
+          "whistle",
+          "idle",
+          "tunnel"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "caboose",
+        "options": [
+          "chug",
+          "caboose",
+          "whistle",
+          "tunnel"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "shudder",
+        "scale": [
+          "Shiver",
+          "Shudder",
+          "Quake"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "whiz",
+        "scale": [
+          "Stroll",
+          "Whiz",
+          "Zoom"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "chug",
+        "scale": [
+          "Crawl",
+          "Chug",
+          "Rush"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "clack",
+        "scale": [
+          "Tap",
+          "Clack",
+          "Bang"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "idle",
+        "words": [
+          "Still",
+          "Busy",
+          "Resting",
+          "Unused"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Busy"
+      },
+      {
+        "vocabWord": "chug",
+        "words": [
+          "Dash",
+          "Plod",
+          "Trudge",
+          "Putter"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Dash"
+      },
+      {
+        "vocabWord": "whiz",
+        "words": [
+          "Zoom",
+          "Speed",
+          "Zip",
+          "Crawl"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Crawl"
+      },
+      {
+        "vocabWord": "blur",
+        "words": [
+          "Smear",
+          "Haze",
+          "Clarity",
+          "Fog"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Clarity"
+      },
+      {
+        "vocabWord": "shudder",
+        "words": [
+          "Tremble",
+          "Steady",
+          "Shiver",
+          "Quiver"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Steady"
+      },
+      {
+        "vocabWord": "clack",
+        "words": [
+          "Hush",
+          "Rattle",
+          "Clatter",
+          "Knock"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Hush"
+      },
+      {
+        "vocabWord": "whistle",
+        "words": [
+          "Chirp",
+          "Toot",
+          "Pipe",
+          "Silence"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Silence"
+      },
+      {
+        "vocabWord": "countryside",
+        "words": [
+          "Farmland",
+          "Fields",
+          "City",
+          "Meadow"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "City"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

@@ -1,0 +1,577 @@
+{
+  "grade": 6,
+  "setNumber": 14,
+  "words": [
+    "erupt",
+    "magma",
+    "molten",
+    "tremor",
+    "cataclysm",
+    "seismic",
+    "smolder",
+    "devastation",
+    "emit",
+    "incinerate",
+    "fissure",
+    "plume"
+  ],
+  "sources": [
+    "Common Core Grade 6",
+    "Tier 2 Academic"
+  ],
+  "genre": "volcano island",
+  "story": {
+    "genre": "volcano island",
+    "characters": [
+      "Talia",
+      "Ravi",
+      "Bruno"
+    ],
+    "parts": [
+      {
+        "title": "Rumbles Below",
+        "text": "Talia, Ravi, and Bruno were spending the summer on a small volcanic island, where Talia's mother worked as a geologist. One morning a gentle **tremor** rattled the cups in the research station. \"The mountain is waking up,\" she said, tapping her screen. Her **seismic** sensors, which measure vibrations in the ground, were scribbling wildly. Deep beneath the island, hot **magma** was pushing its way upward."
+      },
+      {
+        "title": "Signs of Danger",
+        "text": "By afternoon, a long **fissure** had split the mountainside, and the crack began to **emit** hissing clouds of steam that smelled like rotten eggs. A gray **plume** of smoke rose from the crater and leaned across the sky. Near the rim, the ground began to **smolder**, glowing dull red without any flame. Talia's mother explained that **molten** rock, hot enough to flow like syrup, might soon pour out."
+      },
+      {
+        "title": "The Evacuation",
+        "text": "She radioed the harbor, and within hours every family on the island was boarding boats for the mainland. From the deck, the three friends watched the mountain **erupt**, flinging glowing sparks into the dark. Bruno whispered that a **cataclysm** like this had once changed the shape of an entire island. The lava would **incinerate** the forests on the slopes, and the **devastation** would take decades to heal. Yet no one had been left behind."
+      },
+      {
+        "title": "Listening to the Earth",
+        "text": "Weeks later, scientists confirmed that the early warnings had kept every islander safe. Talia understood that nature could not be stopped, only understood. She promised herself that someday she would become a volcano scientist and listen closely to the quiet signals of the Earth."
+      }
+    ],
+    "wordCount": 251
+  },
+  "definitions": [
+    {
+      "word": "erupt",
+      "partOfSpeech": "verb",
+      "meaning1": "To burst out suddenly with great force, as a volcano does. Example: The volcano began to erupt, sending ash high into the sky.",
+      "meaning2": "To break out suddenly with feeling or noise. Example: The crowd erupted in cheers when the winning goal was scored.",
+      "studentChallenge": "Scientists feared the mountain would soon ___ and send ash into the sky.",
+      "sentence": ""
+    },
+    {
+      "word": "magma",
+      "partOfSpeech": "noun",
+      "meaning1": "Hot, melted rock that lies beneath the Earth's surface. Example: Magma collects in a chamber deep under the volcano.",
+      "meaning2": "",
+      "studentChallenge": "Rock melts into ___ far below the crust, where the temperature is extreme.",
+      "sentence": ""
+    },
+    {
+      "word": "molten",
+      "partOfSpeech": "adjective",
+      "meaning1": "Melted into liquid form by very high heat. Example: Workers poured molten steel into the giant mold.",
+      "meaning2": "",
+      "studentChallenge": "The candle's ___ wax pooled at the base of the holder.",
+      "sentence": ""
+    },
+    {
+      "word": "tremor",
+      "partOfSpeech": "noun",
+      "meaning1": "A small, shaking movement of the ground. Example: A tremor rattled the dishes in the cupboard.",
+      "meaning2": "A shaking of the body or voice from fear or nerves. Example: A tremor in her voice showed how nervous she felt.",
+      "studentChallenge": "A small ___ made the pictures on the wall swing back and forth.",
+      "sentence": ""
+    },
+    {
+      "word": "cataclysm",
+      "partOfSpeech": "noun",
+      "meaning1": "A sudden, violent disaster that changes everything. Example: The great flood was a cataclysm for the towns along the river.",
+      "meaning2": "A huge and violent change in society. Example: The war was a cataclysm that reshaped the entire nation.",
+      "studentChallenge": "The sudden, violent ___ left the whole valley changed forever.",
+      "sentence": ""
+    },
+    {
+      "word": "seismic",
+      "partOfSpeech": "adjective",
+      "meaning1": "Having to do with earthquakes or the shaking of the Earth. Example: Seismic sensors recorded the earthquake from miles away.",
+      "meaning2": "Very large and powerful in effect. Example: The invention brought a seismic shift in how people communicate.",
+      "studentChallenge": "Scientists use ___ instruments to record vibrations in the ground.",
+      "sentence": ""
+    },
+    {
+      "word": "smolder",
+      "partOfSpeech": "verb",
+      "meaning1": "To burn slowly, with smoke but no flame. Example: The campfire logs continued to smolder long after midnight.",
+      "meaning2": "To feel a strong emotion that stays hidden. Example: Resentment continued to smolder inside her for years.",
+      "studentChallenge": "After the rain, the logs began to ___ without any flame.",
+      "sentence": ""
+    },
+    {
+      "word": "devastation",
+      "partOfSpeech": "noun",
+      "meaning1": "Widespread destruction or ruin. Example: The hurricane left devastation all along the coast.",
+      "meaning2": "Overwhelming shock and sorrow. Example: She felt devastation when her best friend moved away.",
+      "studentChallenge": "The storm left total ___ across the town, flattening homes and fields.",
+      "sentence": ""
+    },
+    {
+      "word": "emit",
+      "partOfSpeech": "verb",
+      "meaning1": "To send out or give off something such as light, sound, heat, or a smell. Example: The old lamp could still emit a soft yellow glow.",
+      "meaning2": "",
+      "studentChallenge": "Some insects ___ a loud, buzzing sound to attract a mate.",
+      "sentence": ""
+    },
+    {
+      "word": "incinerate",
+      "partOfSpeech": "verb",
+      "meaning1": "To burn something completely until only ash is left. Example: The factory uses a giant furnace to incinerate its waste.",
+      "meaning2": "",
+      "studentChallenge": "The hot lava could ___ everything in its path.",
+      "sentence": ""
+    },
+    {
+      "word": "fissure",
+      "partOfSpeech": "noun",
+      "meaning1": "A long, narrow crack or opening in rock or ground. Example: Steam hissed from a fissure in the cliff.",
+      "meaning2": "A split or division between people. Example: A fissure grew between the two friends after their argument.",
+      "studentChallenge": "Tourists were warned not to step near the deep ___ in the glacier.",
+      "sentence": ""
+    },
+    {
+      "word": "plume",
+      "partOfSpeech": "noun",
+      "meaning1": "A tall column of smoke, steam, or gas that rises into the air. Example: A plume of smoke rose from the chimney.",
+      "meaning2": "A long, soft feather. Example: The knight's helmet was topped with a bright blue plume.",
+      "studentChallenge": "A tall ___ of steam rose from the geyser.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Scientists feared the mountain would soon _______ and send ash high into the sky.",
+      "sentence2": "The crowd was ready to _______ in cheers the moment the final whistle blew.",
+      "options": [
+        "emit",
+        "erupt",
+        "smolder",
+        "incinerate"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "erupt"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Deep underground, hot _______ collects in a chamber beneath the volcano.",
+      "sentence2": "Rock melts into _______ far below the crust, where the temperature is extreme.",
+      "options": [
+        "plume",
+        "fissure",
+        "magma",
+        "tremor"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "magma"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Workers poured _______ steel, glowing orange, into the giant mold.",
+      "sentence2": "The candle's _______ wax pooled at the base of the holder.",
+      "options": [
+        "seismic",
+        "tremor",
+        "cataclysm",
+        "molten"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "molten"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "A small _______ rattled the dishes in the cupboard, then stopped.",
+      "sentence2": "You could hear a _______ in her voice as she walked up to give her speech.",
+      "options": [
+        "tremor",
+        "fissure",
+        "plume",
+        "magma"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "tremor"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The flood was a sudden, violent _______ for the valley, washing away roads and bridges.",
+      "sentence2": "Historians call the war a _______ that changed the whole world.",
+      "options": [
+        "tremor",
+        "cataclysm",
+        "plume",
+        "fissure"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "cataclysm"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Scientists use _______ sensors to detect tiny movements in the ground.",
+      "sentence2": "The new law caused a _______ shift in how the country does business.",
+      "options": [
+        "molten",
+        "devastation",
+        "seismic",
+        "magma"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "seismic"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "After the rain, the campfire logs continued to _______ without a single flame.",
+      "sentence2": "Resentment continued to _______ quietly inside her, hidden from everyone.",
+      "options": [
+        "emit",
+        "erupt",
+        "incinerate",
+        "smolder"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "smolder"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The hurricane left behind total _______ along the coast.",
+      "sentence2": "She felt complete _______ when she learned her best friend was moving away.",
+      "options": [
+        "devastation",
+        "cataclysm",
+        "plume",
+        "fissure"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "devastation"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The old lamp could still _______ a soft yellow glow.",
+      "sentence2": "Some insects _______ a loud, buzzing sound to attract a mate.",
+      "options": [
+        "erupt",
+        "emit",
+        "incinerate",
+        "smolder"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "emit"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The factory uses a giant furnace to _______ its waste until only ash remains.",
+      "sentence2": "The hot lava would _______ everything in its path.",
+      "options": [
+        "emit",
+        "erupt",
+        "incinerate",
+        "smolder"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "incinerate"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Steam hissed from a long, narrow _______ in the rock.",
+      "sentence2": "Tourists were warned not to step near the deep _______ that split the glacier.",
+      "options": [
+        "plume",
+        "magma",
+        "tremor",
+        "fissure"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "fissure"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "A tall _______ of smoke rose from the chimney.",
+      "sentence2": "The knight's helmet was topped with a bright blue _______.",
+      "options": [
+        "plume",
+        "tremor",
+        "magma",
+        "fissure"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "plume"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "erupt",
+      "magma",
+      "molten",
+      "tremor",
+      "cataclysm",
+      "seismic",
+      "smolder",
+      "devastation",
+      "emit",
+      "incinerate",
+      "fissure",
+      "plume"
+    ],
+    "passage": "Ms. Park's class studied how a volcano comes to life. First, hot _(1)_ builds up in a chamber under the mountain. Instruments that measure _(2)_ activity may detect a small _(3)_ in the ground. Soon a long _(4)_ can open in the slope.\n\nThe volcano may begin to _(5)_ gas and steam, and a tall _(6)_ of ash can climb into the sky. When it finally does _(7)_, _(8)_ rock spills down the sides. Long ago, a huge _(9)_ buried an entire city on another coast.\n\nAfter the lava stops flowing, the ground can _(10)_ for days. Lava can _(11)_ a forest in minutes, and the _(12)_ may take years to heal. Ms. Park told the class that watching the signs early can save many lives.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "magma",
+        "options": [
+          "plume",
+          "magma",
+          "fissure",
+          "tremor"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "seismic",
+        "options": [
+          "seismic",
+          "molten",
+          "cataclysm",
+          "devastation"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "tremor",
+        "options": [
+          "devastation",
+          "molten",
+          "incinerate",
+          "tremor"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "fissure",
+        "options": [
+          "tremor",
+          "plume",
+          "fissure",
+          "magma"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "emit",
+        "options": [
+          "smolder",
+          "emit",
+          "incinerate",
+          "molten"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "plume",
+        "options": [
+          "plume",
+          "tremor",
+          "fissure",
+          "magma"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "erupt",
+        "options": [
+          "emit",
+          "smolder",
+          "cataclysm",
+          "erupt"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "molten",
+        "options": [
+          "seismic",
+          "devastation",
+          "molten",
+          "cataclysm"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "cataclysm",
+        "options": [
+          "tremor",
+          "cataclysm",
+          "molten",
+          "fissure"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "smolder",
+        "options": [
+          "smolder",
+          "emit",
+          "magma",
+          "plume"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "incinerate",
+        "options": [
+          "erupt",
+          "emit",
+          "smolder",
+          "incinerate"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "devastation",
+        "options": [
+          "seismic",
+          "molten",
+          "devastation",
+          "emit"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "smolder",
+        "scale": [
+          "Glow",
+          "Smolder",
+          "Blaze"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "incinerate",
+        "scale": [
+          "Singe",
+          "Burn",
+          "Incinerate"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "plume",
+        "scale": [
+          "Puff",
+          "Plume",
+          "Cloud"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "tremor",
+        "scale": [
+          "Shiver",
+          "Tremor",
+          "Quake"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "erupt",
+        "words": [
+          "Burst",
+          "Subside",
+          "Explode",
+          "Blast"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Subside"
+      },
+      {
+        "vocabWord": "molten",
+        "words": [
+          "Frozen",
+          "Melted",
+          "Liquid",
+          "Fluid"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Frozen"
+      },
+      {
+        "vocabWord": "cataclysm",
+        "words": [
+          "Disaster",
+          "Calamity",
+          "Catastrophe",
+          "Blessing"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Blessing"
+      },
+      {
+        "vocabWord": "emit",
+        "words": [
+          "Release",
+          "Discharge",
+          "Absorb",
+          "Radiate"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Absorb"
+      },
+      {
+        "vocabWord": "fissure",
+        "words": [
+          "Crack",
+          "Seal",
+          "Split",
+          "Rift"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Seal"
+      },
+      {
+        "vocabWord": "devastation",
+        "words": [
+          "Creation",
+          "Ruin",
+          "Destruction",
+          "Havoc"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Creation"
+      },
+      {
+        "vocabWord": "tremor",
+        "words": [
+          "Quiver",
+          "Shudder",
+          "Shake",
+          "Stillness"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Stillness"
+      },
+      {
+        "vocabWord": "smolder",
+        "words": [
+          "Glow",
+          "Burn",
+          "Extinguish",
+          "Simmer"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Extinguish"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

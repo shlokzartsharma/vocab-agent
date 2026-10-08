@@ -1,0 +1,578 @@
+{
+  "grade": 1,
+  "setNumber": 13,
+  "words": [
+    "romp",
+    "fetch",
+    "rascal",
+    "mischief",
+    "frisky",
+    "floppy",
+    "cuddly",
+    "whine",
+    "sniff",
+    "scold",
+    "playful",
+    "snooze"
+  ],
+  "sources": [
+    "Common Core Grade 1",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "new puppy",
+  "story": {
+    "genre": "new puppy",
+    "characters": [
+      "Ruth",
+      "Kai",
+      "Nadia"
+    ],
+    "parts": [
+      {
+        "title": "Meet Pip",
+        "text": "Ruth, Kai, and Nadia got a new puppy named Pip. He was soft and **cuddly**, with **floppy** ears. Pip began to **sniff** every corner of the house."
+      },
+      {
+        "title": "Pip Plays",
+        "text": "Pip was **frisky** and ready to **romp**. Kai threw a ball, and Pip ran to **fetch** it. Nadia laughed. “What a **playful** pup!” she said."
+      },
+      {
+        "title": "A Bit of Trouble",
+        "text": "Then Pip got into **mischief**. He grabbed a sock and hid under a chair. “You little **rascal**!” said Ruth. She tried to **scold** him in a cross voice, but he looked too sweet. Pip began to **whine** with a small, sad sound. He was tired and ready to **snooze**."
+      },
+      {
+        "title": "Sweet Dreams",
+        "text": "Soon Pip was fast asleep. Nadia put him in a warm bed. The three friends smiled. They loved their new pup. Pip dreamed of balls and bones. It was the best day ever."
+      }
+    ],
+    "wordCount": 134
+  },
+  "definitions": [
+    {
+      "word": "romp",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To play in a happy, lively way. Example: The puppies romp in the grass.",
+      "meaning2": "A fun, lively time of play. Example: We had a romp in the yard.",
+      "studentChallenge": "The kittens love to ___ in the yard.",
+      "sentence": ""
+    },
+    {
+      "word": "fetch",
+      "partOfSpeech": "verb",
+      "meaning1": "To go get something and bring it back. Example: The dog will fetch the stick.",
+      "meaning2": "To get something for someone. Example: Please fetch my shoes.",
+      "studentChallenge": "Throw the ball, and my dog will ___ it.",
+      "sentence": ""
+    },
+    {
+      "word": "rascal",
+      "partOfSpeech": "noun",
+      "meaning1": "A playful, naughty one, but not mean. Example: Our puppy is a little rascal who hides my socks.",
+      "meaning2": "",
+      "studentChallenge": "That little ___ hid my slipper again.",
+      "sentence": ""
+    },
+    {
+      "word": "mischief",
+      "partOfSpeech": "noun",
+      "meaning1": "Playful trouble that is not really harmful. Example: The kitten got into mischief and pulled the yarn.",
+      "meaning2": "",
+      "studentChallenge": "The twins got into ___ and hid the keys.",
+      "sentence": ""
+    },
+    {
+      "word": "frisky",
+      "partOfSpeech": "adjective",
+      "meaning1": "Full of energy and ready to jump and run. Example: The frisky pony ran around the field.",
+      "meaning2": "",
+      "studentChallenge": "After his nap, the ___ pup ran in circles.",
+      "sentence": ""
+    },
+    {
+      "word": "floppy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Soft and hanging down, not stiff. Example: The bunny has floppy ears.",
+      "meaning2": "",
+      "studentChallenge": "My doll has a ___ hat that droops over her eyes.",
+      "sentence": ""
+    },
+    {
+      "word": "cuddly",
+      "partOfSpeech": "adjective",
+      "meaning1": "Soft and nice to hug. Example: I hug my cuddly bear at bedtime.",
+      "meaning2": "",
+      "studentChallenge": "The fluffy kitten was so ___ that I hugged it.",
+      "sentence": ""
+    },
+    {
+      "word": "whine",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To make a long, sad, high sound. Example: The puppy will whine at the door.",
+      "meaning2": "To complain in a sad voice. Example: Please do not whine about bedtime.",
+      "studentChallenge": "The puppy will ___ when he wants to go out.",
+      "sentence": ""
+    },
+    {
+      "word": "sniff",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To smell something with short breaths. Example: The dog likes to sniff the flowers.",
+      "meaning2": "A quick smell. Example: Take a sniff of the soup.",
+      "studentChallenge": "The dog likes to ___ the grass.",
+      "sentence": ""
+    },
+    {
+      "word": "scold",
+      "partOfSpeech": "verb",
+      "meaning1": "To tell someone in a cross voice that they did something wrong. Example: Mom will scold me if I draw on the wall.",
+      "meaning2": "",
+      "studentChallenge": "Dad will ___ us if we run in the house.",
+      "sentence": ""
+    },
+    {
+      "word": "playful",
+      "partOfSpeech": "adjective",
+      "meaning1": "Full of fun and ready to play or joke. Example: The playful kitten chased a ball of yarn.",
+      "meaning2": "",
+      "studentChallenge": "The ___ kitten batted the ball of yarn.",
+      "sentence": ""
+    },
+    {
+      "word": "snooze",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To take a short, light nap. Example: Grandpa likes to snooze on the sofa.",
+      "meaning2": "A short nap. Example: The cat had a snooze in the sun.",
+      "studentChallenge": "The cat will ___ in the warm sun.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The puppies like to _______ in the grass all afternoon.",
+      "sentence2": "We had a happy _______ in the yard with the dog.",
+      "options": [
+        "floppy",
+        "romp",
+        "cuddly",
+        "scold"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "romp"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Throw the stick, and my dog will _______ it back to me.",
+      "sentence2": "Please _______ my shoes from the porch.",
+      "options": [
+        "fetch",
+        "snooze",
+        "whine",
+        "floppy"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "fetch"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Our puppy is a little _______ who hides my socks.",
+      "sentence2": "That _______ chewed my slipper again, but he looks so sweet.",
+      "options": [
+        "snooze",
+        "floppy",
+        "sniff",
+        "rascal"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "rascal"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The puppy got into _______ and pulled the towel off the line.",
+      "sentence2": "There was a twinkle of _______ in her eyes.",
+      "options": [
+        "cuddly",
+        "whine",
+        "mischief",
+        "sniff"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "mischief"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "After his nap, the _______ puppy ran in circles around the room.",
+      "sentence2": "The _______ pony kicked up its heels and ran around the field.",
+      "options": [
+        "scold",
+        "frisky",
+        "snooze",
+        "fetch"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "frisky"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The bunny has long, _______ ears that hang down.",
+      "sentence2": "My doll has a _______ hat that droops over her eyes.",
+      "options": [
+        "floppy",
+        "sniff",
+        "romp",
+        "rascal"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "floppy"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "I hug my soft, _______ bear every night at bedtime.",
+      "sentence2": "The baby kitten was so small and _______ that we wanted to hug it.",
+      "options": [
+        "romp",
+        "scold",
+        "mischief",
+        "cuddly"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "cuddly"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The puppy will _______ at the door to be let out.",
+      "sentence2": "Please do not _______ about going to bed.",
+      "options": [
+        "scold",
+        "cuddly",
+        "whine",
+        "mischief"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "whine"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The dog likes to _______ the flowers in the garden.",
+      "sentence2": "I took a big _______ of the warm bread.",
+      "options": [
+        "whine",
+        "sniff",
+        "floppy",
+        "rascal"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "sniff"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Mom will _______ me if I draw on the wall.",
+      "sentence2": "Please do not _______ the puppy; he did not know.",
+      "options": [
+        "scold",
+        "cuddly",
+        "floppy",
+        "rascal"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "scold"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The _______ kitten chased a ball of yarn across the floor.",
+      "sentence2": "She gave a _______ wink and began to laugh.",
+      "options": [
+        "scold",
+        "snooze",
+        "fetch",
+        "playful"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "playful"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Grandpa likes to _______ on the sofa after lunch.",
+      "sentence2": "The cat had a short _______ in the warm sun.",
+      "options": [
+        "cuddly",
+        "floppy",
+        "snooze",
+        "rascal"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "snooze"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "romp",
+      "fetch",
+      "rascal",
+      "mischief",
+      "frisky",
+      "floppy",
+      "cuddly",
+      "whine",
+      "sniff",
+      "scold",
+      "playful",
+      "snooze"
+    ],
+    "passage": "Last week, Max got a puppy. The puppy was small and _(1)_, and Max loved to hug him. His ears were long and _(2)_. Every morning the puppy ran to _(3)_ the garden flowers. He was so _(4)_ that he ran circles around the porch. Max would throw a stick, and the puppy would _(5)_ it right back.\n\nOne day the puppy got into _(6)_ and chewed a shoe. “You little _(7)_!” Max said with a laugh. His mom had to _(8)_ him a little, but she smiled too. The puppy began to _(9)_ with a sad, high sound. Then the _(10)_ pup climbed into a basket to _(11)_ in the sun. He loved to _(12)_ with Max in the yard.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "cuddly",
+        "options": [
+          "scold",
+          "romp",
+          "cuddly",
+          "mischief"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "floppy",
+        "options": [
+          "sniff",
+          "rascal",
+          "snooze",
+          "floppy"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "sniff",
+        "options": [
+          "sniff",
+          "cuddly",
+          "rascal",
+          "mischief"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "frisky",
+        "options": [
+          "scold",
+          "frisky",
+          "whine",
+          "snooze"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "fetch",
+        "options": [
+          "cuddly",
+          "rascal",
+          "fetch",
+          "mischief"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "mischief",
+        "options": [
+          "cuddly",
+          "floppy",
+          "sniff",
+          "mischief"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "rascal",
+        "options": [
+          "rascal",
+          "floppy",
+          "sniff",
+          "whine"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "scold",
+        "options": [
+          "floppy",
+          "scold",
+          "cuddly",
+          "rascal"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "whine",
+        "options": [
+          "cuddly",
+          "rascal",
+          "whine",
+          "mischief"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "playful",
+        "options": [
+          "scold",
+          "fetch",
+          "romp",
+          "playful"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "snooze",
+        "options": [
+          "snooze",
+          "cuddly",
+          "floppy",
+          "rascal"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "romp",
+        "options": [
+          "floppy",
+          "romp",
+          "rascal",
+          "cuddly"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "frisky",
+        "scale": [
+          "Calm",
+          "Playful",
+          "Frisky"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "mischief",
+        "scale": [
+          "Fun",
+          "Mischief",
+          "Trouble"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "scold",
+        "scale": [
+          "Remind",
+          "Scold",
+          "Shout"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "snooze",
+        "scale": [
+          "Doze",
+          "Snooze",
+          "Sleep"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "frisky",
+        "words": [
+          "Lively",
+          "Energetic",
+          "Tired",
+          "Bouncy"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Tired"
+      },
+      {
+        "vocabWord": "floppy",
+        "words": [
+          "Droopy",
+          "Limp",
+          "Stiff",
+          "Soft"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Stiff"
+      },
+      {
+        "vocabWord": "cuddly",
+        "words": [
+          "Snuggly",
+          "Soft",
+          "Huggable",
+          "Prickly"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Prickly"
+      },
+      {
+        "vocabWord": "whine",
+        "words": [
+          "Cry",
+          "Moan",
+          "Whimper",
+          "Cheer"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Cheer"
+      },
+      {
+        "vocabWord": "scold",
+        "words": [
+          "Blame",
+          "Warn",
+          "Praise",
+          "Lecture"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Praise"
+      },
+      {
+        "vocabWord": "snooze",
+        "words": [
+          "Nap",
+          "Doze",
+          "Wake up",
+          "Rest"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Wake up"
+      },
+      {
+        "vocabWord": "playful",
+        "words": [
+          "Merry",
+          "Fun",
+          "Silly",
+          "Serious"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Serious"
+      },
+      {
+        "vocabWord": "romp",
+        "words": [
+          "Play",
+          "Frolic",
+          "Sit still",
+          "Skip"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Sit still"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

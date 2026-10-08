@@ -1,0 +1,577 @@
+{
+  "grade": 6,
+  "setNumber": 11,
+  "words": [
+    "ruins",
+    "decipher",
+    "unearth",
+    "vestige",
+    "trowel",
+    "sift",
+    "brittle",
+    "hieroglyph",
+    "excavation",
+    "cache",
+    "burial",
+    "crumble"
+  ],
+  "sources": [
+    "Common Core Grade 6",
+    "Tier 2 Academic"
+  ],
+  "genre": "archaeological dig",
+  "story": {
+    "genre": "archaeological dig",
+    "characters": [
+      "Noor",
+      "Caleb",
+      "Imelda"
+    ],
+    "parts": [
+      {
+        "title": "Summer on the Dig",
+        "text": "Noor had waited all year for this day. Her aunt, an archaeologist, had invited Noor and her friends Caleb and Imelda to join a summer **excavation** at the edge of a dry riverbed. Under the sand, the team believed, lay the **ruins** of a trading town forgotten for three thousand years. Each volunteer received a bucket, a soft brush, and a small digging **trowel** with a pointed blade."
+      },
+      {
+        "title": "Slow and Careful",
+        "text": "Caleb tipped each scoop of soil into a mesh screen to **sift** out beads, bone chips, and bits of pottery. By noon he had found only one faint **vestige** of the town, a stripe of red paint on a lump of clay. Then Imelda's blade scraped something hard, and all three friends knelt to **unearth** a wide, flat stone. Carved into its surface was a single **hieroglyph**, a tiny picture of a bird."
+      },
+      {
+        "title": "Beneath the Stone",
+        "text": "Under the stone, a narrow stairway led down to a **burial** chamber where an ancient family had been laid to rest. Noor's aunt warned them to move slowly, because the clay jars inside were **brittle** and might **crumble** at the slightest bump. In one corner sat a **cache** of tiny oil lamps, stored away and forgotten for centuries. Rows of carved symbols covered the wall, and Imelda copied them into her notebook so the team could **decipher** their message later."
+      },
+      {
+        "title": "Stories in the Dust",
+        "text": "That night the friends sat around the campfire, sunburned and covered in dust. Noor realized that archaeology was not really about treasure. It was about listening to people from long ago and noticing the small things they left behind. She fell asleep wondering what tomorrow's digging would reveal."
+      }
+    ],
+    "wordCount": 269
+  },
+  "definitions": [
+    {
+      "word": "ruins",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "The broken remains of a building or town that has fallen apart over time. Example: Tourists wandered through the ruins of the ancient castle.",
+      "meaning2": "To spoil or destroy something completely. Example: A sudden storm ruins many a picnic.",
+      "studentChallenge": "Tourists climbed over the ___ of the ancient fortress to take photos.",
+      "sentence": ""
+    },
+    {
+      "word": "decipher",
+      "partOfSpeech": "verb",
+      "meaning1": "To work out the meaning of a code or writing that is hard to understand. Example: It took the class an hour to decipher the secret message.",
+      "meaning2": "To make out something that is messy or unclear. Example: I can barely decipher the doctor's handwriting.",
+      "studentChallenge": "Only an expert could ___ the strange code scratched into the wall.",
+      "sentence": ""
+    },
+    {
+      "word": "unearth",
+      "partOfSpeech": "verb",
+      "meaning1": "To dig something up out of the ground. Example: Workers building the new road managed to unearth a bronze helmet.",
+      "meaning2": "To discover something that was hidden or forgotten. Example: The reporter hoped to unearth the truth about the missing money.",
+      "studentChallenge": "Archaeologists hoped to ___ pottery buried beneath the sand.",
+      "sentence": ""
+    },
+    {
+      "word": "vestige",
+      "partOfSpeech": "noun",
+      "meaning1": "A small trace or leftover sign of something that once existed. Example: The crumbling wall was the last vestige of the old fort.",
+      "meaning2": "",
+      "studentChallenge": "The crumbling chimney was the last ___ of the old farmhouse.",
+      "sentence": ""
+    },
+    {
+      "word": "trowel",
+      "partOfSpeech": "noun",
+      "meaning1": "A small hand tool with a flat, pointed blade, used for digging. Example: She planted the seedling with a garden trowel.",
+      "meaning2": "A flat tool that builders use to spread cement or plaster. Example: The mason smoothed the wet cement with a trowel.",
+      "studentChallenge": "The gardener scooped out a hole with a small metal ___.",
+      "sentence": ""
+    },
+    {
+      "word": "sift",
+      "partOfSpeech": "verb",
+      "meaning1": "To pass loose material through a screen to separate large pieces from fine ones. Example: Bakers sift flour to remove any lumps.",
+      "meaning2": "To search carefully through something, piece by piece. Example: Detectives sift through piles of evidence to find clues.",
+      "studentChallenge": "Bakers ___ flour through a screen to remove the lumps.",
+      "sentence": ""
+    },
+    {
+      "word": "brittle",
+      "partOfSpeech": "adjective",
+      "meaning1": "Hard, but likely to snap or break easily. Example: The brittle twig snapped under his boot.",
+      "meaning2": "",
+      "studentChallenge": "The ancient paper was so ___ that it cracked when she touched it.",
+      "sentence": ""
+    },
+    {
+      "word": "hieroglyph",
+      "partOfSpeech": "noun",
+      "meaning1": "A picture or symbol used as a letter or word in some ancient writing systems. Example: Each hieroglyph on the temple wall showed a bird, a boat, or an eye.",
+      "meaning2": "",
+      "studentChallenge": "Each carved ___ on the temple wall showed a bird or an eye.",
+      "sentence": ""
+    },
+    {
+      "word": "excavation",
+      "partOfSpeech": "noun",
+      "meaning1": "The careful digging of a site to uncover buried objects. Example: The excavation of the ancient village took three summers.",
+      "meaning2": "A hole or hollow made by digging. Example: A fence surrounded the deep excavation behind the library.",
+      "studentChallenge": "The team spent the whole summer on the ___ of the buried village.",
+      "sentence": ""
+    },
+    {
+      "word": "cache",
+      "partOfSpeech": "noun",
+      "meaning1": "A hidden collection of things stored for later. Example: Squirrels keep a cache of acorns for the winter.",
+      "meaning2": "In computers, a place that saves data so it can load again quickly. Example: Clearing your browser's cache can fix a slow website.",
+      "studentChallenge": "The explorers stumbled upon a secret ___ of food supplies.",
+      "sentence": ""
+    },
+    {
+      "word": "burial",
+      "partOfSpeech": "noun",
+      "meaning1": "The act of placing a dead person in a grave or tomb. Example: The pharaoh's burial was followed by many days of ceremony.",
+      "meaning2": "",
+      "studentChallenge": "The tomb held jewelry placed there for the king's ___.",
+      "sentence": ""
+    },
+    {
+      "word": "crumble",
+      "partOfSpeech": "verb",
+      "meaning1": "To break into small pieces. Example: The old cookie began to crumble in my hand.",
+      "meaning2": "To fall apart or fail slowly. Example: The empire began to crumble after years of war.",
+      "studentChallenge": "The sandcastle began to ___ as the waves rolled in.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Tourists wandered through the _______ of the ancient city, climbing over its fallen walls.",
+      "sentence2": "After the earthquake, the family returned to find their old barn in _______.",
+      "options": [
+        "vestige",
+        "ruins",
+        "cache",
+        "trowel"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "ruins"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Only a trained expert could _______ the strange code carved into the wall.",
+      "sentence2": "I can barely _______ your handwriting when you write so fast.",
+      "options": [
+        "unearth",
+        "sift",
+        "decipher",
+        "crumble"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "decipher"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Workers digging the new road managed to _______ a bronze helmet buried for centuries.",
+      "sentence2": "The curious reporter hoped to _______ the truth about the missing money.",
+      "options": [
+        "sift",
+        "decipher",
+        "crumble",
+        "unearth"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "unearth"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The crumbling wall was the last _______ of a castle that once ruled the valley.",
+      "sentence2": "Not a single _______ of the storm remained once the sun came out.",
+      "options": [
+        "vestige",
+        "cache",
+        "trowel",
+        "burial"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "vestige"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "She dug a small hole for the seedling with a garden _______.",
+      "sentence2": "The mason spread wet cement along the brick wall with a flat _______.",
+      "options": [
+        "hieroglyph",
+        "trowel",
+        "excavation",
+        "cache"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "trowel"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Bakers _______ flour so that no lumps end up in the cake.",
+      "sentence2": "The detective had to _______ through hundreds of emails to find a single clue.",
+      "options": [
+        "crumble",
+        "decipher",
+        "sift",
+        "unearth"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "sift"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The ancient paper was so _______ that it cracked when the scientist turned the page.",
+      "sentence2": "Cold, dry air turned the twigs hard and _______, so they snapped under every step.",
+      "options": [
+        "crumble",
+        "ruins",
+        "trowel",
+        "brittle"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "brittle"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Each carved _______ on the temple wall showed a bird, a boat, or an eye.",
+      "sentence2": "Scholars spent years learning to read every _______ in the ancient writing system.",
+      "options": [
+        "hieroglyph",
+        "vestige",
+        "excavation",
+        "cache"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "hieroglyph"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The team spent three summers on the _______ of the buried village.",
+      "sentence2": "Fences surrounded the deep _______ behind the library so no one would fall in.",
+      "options": [
+        "burial",
+        "excavation",
+        "trowel",
+        "ruins"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "excavation"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Squirrels hide a _______ of acorns to eat during the winter.",
+      "sentence2": "Clearing your browser's _______ can fix a website that loads slowly.",
+      "options": [
+        "vestige",
+        "hieroglyph",
+        "cache",
+        "ruins"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "cache"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The tomb held jewelry and pottery placed there for the king's _______.",
+      "sentence2": "The pharaoh's _______ was followed by many days of ceremony.",
+      "options": [
+        "vestige",
+        "cache",
+        "trowel",
+        "burial"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "burial"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The old sandcastle began to _______ as the tide came in.",
+      "sentence2": "Without money or allies, the once-mighty empire began to _______.",
+      "options": [
+        "crumble",
+        "sift",
+        "decipher",
+        "unearth"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "crumble"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "ruins",
+      "decipher",
+      "unearth",
+      "vestige",
+      "trowel",
+      "sift",
+      "brittle",
+      "hieroglyph",
+      "excavation",
+      "cache",
+      "burial",
+      "crumble"
+    ],
+    "passage": "Leila's class visited the _(1)_ at the edge of town, where archaeologists were studying a lost village. Only the _(2)_ of its stone walls were left, and the guide said that in a few more winters they would _(3)_ into dust. Leila knelt beside the dig and picked up a _(4)_, a tiny shovel with a flat, pointed blade.\n\nHer partner used a screen to _(5)_ the dirt, catching beads and chips of pottery. Near the bottom, a student shouted that she had found a _(6)_ of clay lamps hidden in a pit. Another team had begun to _(7)_ a long-buried statue, working with soft brushes because the stone was _(8)_.\n\nOn its base was a single _(9)_ shaped like an eye, and experts hoped to _(10)_ what the markings said. The statue guarded a _(11)_ chamber where a family had been laid to rest. Leila left with dirty hands and a new respect for even the smallest _(12)_ of the past.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "excavation",
+        "options": [
+          "trowel",
+          "excavation",
+          "vestige",
+          "hieroglyph"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "ruins",
+        "options": [
+          "ruins",
+          "trowel",
+          "cache",
+          "brittle"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "crumble",
+        "options": [
+          "sift",
+          "decipher",
+          "unearth",
+          "crumble"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "trowel",
+        "options": [
+          "hieroglyph",
+          "vestige",
+          "trowel",
+          "cache"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "sift",
+        "options": [
+          "unearth",
+          "sift",
+          "decipher",
+          "crumble"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "cache",
+        "options": [
+          "cache",
+          "trowel",
+          "brittle",
+          "hieroglyph"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "unearth",
+        "options": [
+          "sift",
+          "crumble",
+          "decipher",
+          "unearth"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "brittle",
+        "options": [
+          "excavation",
+          "burial",
+          "brittle",
+          "cache"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "hieroglyph",
+        "options": [
+          "burial",
+          "hieroglyph",
+          "ruins",
+          "excavation"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "decipher",
+        "options": [
+          "decipher",
+          "sift",
+          "crumble",
+          "unearth"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "burial",
+        "options": [
+          "cache",
+          "ruins",
+          "excavation",
+          "burial"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "vestige",
+        "options": [
+          "excavation",
+          "cache",
+          "vestige",
+          "brittle"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "crumble",
+        "scale": [
+          "Crack",
+          "Crumble",
+          "Collapse"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "brittle",
+        "scale": [
+          "Delicate",
+          "Fragile",
+          "Brittle"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "sift",
+        "scale": [
+          "Skim",
+          "Sift",
+          "Scour"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "excavation",
+        "scale": [
+          "Scoop",
+          "Dig",
+          "Excavation"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "unearth",
+        "words": [
+          "Uncover",
+          "Bury",
+          "Dig up",
+          "Expose"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Bury"
+      },
+      {
+        "vocabWord": "decipher",
+        "words": [
+          "Obscure",
+          "Decode",
+          "Interpret",
+          "Translate"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Obscure"
+      },
+      {
+        "vocabWord": "vestige",
+        "words": [
+          "Trace",
+          "Remnant",
+          "Hint",
+          "Entirety"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Entirety"
+      },
+      {
+        "vocabWord": "brittle",
+        "words": [
+          "Fragile",
+          "Breakable",
+          "Flexible",
+          "Crisp"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Flexible"
+      },
+      {
+        "vocabWord": "crumble",
+        "words": [
+          "Disintegrate",
+          "Strengthen",
+          "Collapse",
+          "Decay"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Strengthen"
+      },
+      {
+        "vocabWord": "cache",
+        "words": [
+          "Scatter",
+          "Stash",
+          "Hoard",
+          "Reserve"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Scatter"
+      },
+      {
+        "vocabWord": "excavation",
+        "words": [
+          "Digging",
+          "Mining",
+          "Unearthing",
+          "Burying"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Burying"
+      },
+      {
+        "vocabWord": "sift",
+        "words": [
+          "Strain",
+          "Filter",
+          "Overlook",
+          "Comb"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Overlook"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

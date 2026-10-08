@@ -1,0 +1,578 @@
+{
+  "grade": 8,
+  "setNumber": 15,
+  "words": [
+    "bipartisan",
+    "impeach",
+    "legislation",
+    "referendum",
+    "autonomy",
+    "caucus",
+    "coalition",
+    "abstain",
+    "electorate",
+    "precedent",
+    "filibuster",
+    "oversight"
+  ],
+  "sources": [
+    "Common Core Grade 8",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "how democracy works",
+  "story": {
+    "genre": "how democracy works",
+    "characters": [
+      "Henrik",
+      "Layne",
+      "Ismail"
+    ],
+    "parts": [
+      {
+        "title": "Model Government Day",
+        "text": "The civics class held its annual model government day, and Henrik, Layne, and Ismail landed in a mock legislature. Their task was to pass **legislation** creating a recycling program for the school. Layne urged both parties in the room to cooperate, since a **bipartisan** bill backed by members of each side would last longer than one squeaking by on a single vote. Before debate began, every party held a **caucus**, a private meeting to settle on a strategy."
+      },
+      {
+        "title": "Debate and Delay",
+        "text": "The opposition party formed a **coalition** with a small group of independents, hoping to win a majority. Ismail, one of those independents, chose to **abstain** on the first vote, refusing to take a side until he understood the costs. Another member tried a **filibuster**, speaking about lunch trays for twenty minutes to delay the vote, until the teacher pointed to the time limit in the rules."
+      },
+      {
+        "title": "Checks and Balances",
+        "text": "A student panel provided **oversight**, making sure the legislature followed its own rules. Layne explained that a real legislature can **impeach** an official accused of serious wrongdoing, though removal is rare and requires a formal trial. The class also studied an old court case that set a **precedent** later judges followed. Finally, the legislature let each grade keep its **autonomy** over its own recycling bins and sent the plan to a **referendum**, so the whole **electorate** of students could vote directly."
+      },
+      {
+        "title": "A Long Conversation",
+        "text": "The plan passed, though not by much. Henrik noticed that no single speech had decided everything; the process asked for patience, cooperation, and respect for the rules. Ismail said democracy felt less like a contest and more like a long conversation in which every voice gets a chance to be heard."
+      }
+    ],
+    "wordCount": 276
+  },
+  "definitions": [
+    {
+      "word": "bipartisan",
+      "partOfSpeech": "adjective",
+      "meaning1": "Supported by members of two political parties. Example: The bridge repair bill was bipartisan, passing with votes from both parties.",
+      "meaning2": "",
+      "studentChallenge": "The ___ committee had equal numbers of members from each party.",
+      "sentence": ""
+    },
+    {
+      "word": "impeach",
+      "partOfSpeech": "verb",
+      "meaning1": "To formally charge a public official with serious wrongdoing. Example: The legislature voted to impeach the governor over the accusations.",
+      "meaning2": "To question the honesty of a witness. Example: The lawyer tried to impeach the witness by pointing out earlier contradictions.",
+      "studentChallenge": "A legislature may vote to ___ an official accused of misusing public money.",
+      "sentence": ""
+    },
+    {
+      "word": "legislation",
+      "partOfSpeech": "noun",
+      "meaning1": "Laws, or a proposed law, made by a governing body. Example: New legislation requires every bicycle sold in the state to have lights.",
+      "meaning2": "The process of making laws. Example: Legislation can take months of research, debate, and compromise.",
+      "studentChallenge": "The council passed new ___ to protect the town's river from pollution.",
+      "sentence": ""
+    },
+    {
+      "word": "referendum",
+      "partOfSpeech": "noun",
+      "meaning1": "A direct vote by all the people on a single question. Example: The town held a referendum to decide whether to build a new library.",
+      "meaning2": "",
+      "studentChallenge": "Voters will decide the question of the new stadium in this month's ___.",
+      "sentence": ""
+    },
+    {
+      "word": "autonomy",
+      "partOfSpeech": "noun",
+      "meaning1": "The freedom to govern or make decisions for oneself. Example: The club had the autonomy to choose its own projects.",
+      "meaning2": "",
+      "studentChallenge": "Teenagers often crave more ___ as they grow older, wanting to make their own choices.",
+      "sentence": ""
+    },
+    {
+      "word": "caucus",
+      "partOfSpeech": "noun",
+      "meaning1": "A meeting of members of a political party or group to choose a strategy or candidate. Example: The party held a caucus to choose its nominee.",
+      "meaning2": "A group within a legislature united by a shared interest. Example: The environmental caucus pushed for cleaner rivers.",
+      "studentChallenge": "Before the debate, the party members met in a private ___ to agree on a plan.",
+      "sentence": ""
+    },
+    {
+      "word": "coalition",
+      "partOfSpeech": "noun",
+      "meaning1": "An alliance of groups or parties joining together for a common goal. Example: Several small parties formed a coalition to win a majority.",
+      "meaning2": "",
+      "studentChallenge": "Local groups built a broad ___ to push for cleaner rivers.",
+      "sentence": ""
+    },
+    {
+      "word": "abstain",
+      "partOfSpeech": "verb",
+      "meaning1": "To choose not to vote or take part. Example: She decided to abstain because she had not studied both candidates.",
+      "meaning2": "To hold back from something, such as a food or habit. Example: He chose to abstain from sugar for a month.",
+      "studentChallenge": "If you do not know enough about an issue, it may be wiser to ___ from voting.",
+      "sentence": ""
+    },
+    {
+      "word": "electorate",
+      "partOfSpeech": "noun",
+      "meaning1": "All the people who are eligible to vote in an election. Example: The electorate turned out in record numbers on election day.",
+      "meaning2": "",
+      "studentChallenge": "Candidates spend months trying to win the trust of the ___.",
+      "sentence": ""
+    },
+    {
+      "word": "precedent",
+      "partOfSpeech": "noun",
+      "meaning1": "An earlier action or decision that serves as an example or guide for later ones. Example: The court's ruling set a precedent that later judges followed.",
+      "meaning2": "",
+      "studentChallenge": "The committee had no ___ to follow, so it created its own procedure.",
+      "sentence": ""
+    },
+    {
+      "word": "filibuster",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A long speech or other tactic used to delay a vote in a legislature. Example: The senator launched a filibuster to delay the final vote.",
+      "meaning2": "To delay a vote by making long speeches. Example: Senators may filibuster by talking for hours.",
+      "studentChallenge": "The minority party used a ___ to keep the bill from reaching a vote.",
+      "sentence": ""
+    },
+    {
+      "word": "oversight",
+      "partOfSpeech": "noun",
+      "meaning1": "The act of watching over an activity or organization to make sure it is run properly. Example: An independent board provides oversight of the city's spending.",
+      "meaning2": "A mistake made by failing to notice something. Example: Leaving her name off the list was an oversight.",
+      "studentChallenge": "Without proper ___, the agency could waste public money.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The bill passed easily because it earned _______ support from both major parties.",
+      "sentence2": "The _______ committee, with equal members from each party, drafted the compromise.",
+      "options": [
+        "precedent",
+        "bipartisan",
+        "referendum",
+        "oversight"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "bipartisan"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The legislature may vote to _______ an official accused of serious wrongdoing.",
+      "sentence2": "The attorney tried to _______ the witness by revealing earlier contradictions in her story.",
+      "options": [
+        "impeach",
+        "abstain",
+        "filibuster",
+        "caucus"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "impeach"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "New _______ will require every bicycle sold in the state to include lights.",
+      "sentence2": "Writing effective _______ takes months of research, debate, and compromise.",
+      "options": [
+        "autonomy",
+        "electorate",
+        "coalition",
+        "legislation"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "legislation"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Voters will decide the library's fate in this month's _______.",
+      "sentence2": "The country held its first national _______ on whether to join the trade union.",
+      "options": [
+        "caucus",
+        "precedent",
+        "referendum",
+        "autonomy"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "referendum"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The club earned the _______ to manage its own budget without asking permission.",
+      "sentence2": "Teenagers often crave more _______ as they grow older, wanting to make their own choices.",
+      "options": [
+        "oversight",
+        "autonomy",
+        "coalition",
+        "caucus"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "autonomy"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Before the debate, party members gathered for their _______ to agree on a strategy.",
+      "sentence2": "The environmental _______ in the legislature brings together members who share a concern for nature.",
+      "options": [
+        "caucus",
+        "referendum",
+        "precedent",
+        "legislation"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "caucus"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "To win a majority in the assembly, three small parties built a governing _______.",
+      "sentence2": "Local groups built a broad _______ to push for cleaner rivers.",
+      "options": [
+        "electorate",
+        "precedent",
+        "referendum",
+        "coalition"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "coalition"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "She chose to _______ from voting because she had not studied both candidates.",
+      "sentence2": "He decided to _______ from sugar for the entire month.",
+      "options": [
+        "impeach",
+        "filibuster",
+        "abstain",
+        "legislation"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "abstain"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The entire _______ turned out in record numbers on election day.",
+      "sentence2": "Candidates spend months trying to win the trust of the _______.",
+      "options": [
+        "precedent",
+        "electorate",
+        "oversight",
+        "legislation"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "electorate"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Lawyers argued that the earlier verdict should serve as _______ for the new case.",
+      "sentence2": "There was no _______ for such a decision, so the committee had no earlier example to guide it.",
+      "options": [
+        "precedent",
+        "coalition",
+        "caucus",
+        "referendum"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "precedent"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The senator planned to _______ by reading aloud for hours to delay the final vote.",
+      "sentence2": "Opponents resorted to the _______, talking nonstop until the clock ran out.",
+      "options": [
+        "impeach",
+        "abstain",
+        "caucus",
+        "filibuster"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "filibuster"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "An independent committee provides _______ to make sure the agency follows the rules.",
+      "sentence2": "Leaving her name off the list was just a careless _______, not an attempt to exclude her.",
+      "options": [
+        "precedent",
+        "referendum",
+        "oversight",
+        "filibuster"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "oversight"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "bipartisan",
+      "impeach",
+      "legislation",
+      "referendum",
+      "autonomy",
+      "caucus",
+      "coalition",
+      "abstain",
+      "electorate",
+      "precedent",
+      "filibuster",
+      "oversight"
+    ],
+    "passage": "Henrik's report followed an imaginary bill through the town of Riverbend. The proposed _(1)_ would pay for repairs to three old bridges. Members of the mayor's party first met in a _(2)_ to choose their strategy. Because they lacked a majority, they negotiated a _(3)_ deal that members of the opposing party could also support. A small group of independents agreed to join them in a _(4)_, and together they had enough votes.\n\nOne council member tried a _(5)_ by reading old budget reports aloud for hours, hoping to delay the vote. Another chose to _(6)_, declining to vote either way because of a conflict of interest. After the bill passed, a citizens' board provided _(7)_ to make sure the money was spent properly. If an official misused the funds, the council could _(8)_ that person and begin removal proceedings.\n\nHenrik noted that an earlier decision to rebuild the library had created a _(9)_ that guided the council this time. He also found that each neighborhood kept its _(10)_, the freedom to choose its own small projects like parks. Finally, the largest cost would be settled in a _(11)_, a direct vote, so the whole _(12)_ of Riverbend could decide.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "legislation",
+        "options": [
+          "autonomy",
+          "electorate",
+          "legislation",
+          "coalition"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "caucus",
+        "options": [
+          "referendum",
+          "filibuster",
+          "precedent",
+          "caucus"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "bipartisan",
+        "options": [
+          "bipartisan",
+          "precedent",
+          "referendum",
+          "caucus"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "coalition",
+        "options": [
+          "referendum",
+          "coalition",
+          "precedent",
+          "legislation"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "filibuster",
+        "options": [
+          "referendum",
+          "caucus",
+          "filibuster",
+          "coalition"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "abstain",
+        "options": [
+          "impeach",
+          "filibuster",
+          "legislation",
+          "abstain"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "oversight",
+        "options": [
+          "oversight",
+          "autonomy",
+          "electorate",
+          "precedent"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "impeach",
+        "options": [
+          "abstain",
+          "impeach",
+          "filibuster",
+          "caucus"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "precedent",
+        "options": [
+          "referendum",
+          "caucus",
+          "precedent",
+          "coalition"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "autonomy",
+        "options": [
+          "electorate",
+          "precedent",
+          "legislation",
+          "autonomy"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "referendum",
+        "options": [
+          "referendum",
+          "caucus",
+          "filibuster",
+          "coalition"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "electorate",
+        "options": [
+          "legislation",
+          "electorate",
+          "oversight",
+          "autonomy"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "legislation",
+        "scale": [
+          "Suggestion",
+          "Proposal",
+          "Legislation"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "filibuster",
+        "scale": [
+          "Pause",
+          "Delay",
+          "Filibuster"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "impeach",
+        "scale": [
+          "Question",
+          "Accuse",
+          "Impeach"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "oversight",
+        "scale": [
+          "Glance",
+          "Review",
+          "Oversight"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "bipartisan",
+        "words": [
+          "Cooperative",
+          "Joint",
+          "Partisan",
+          "Shared"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Partisan"
+      },
+      {
+        "vocabWord": "abstain",
+        "words": [
+          "Refrain",
+          "Decline",
+          "Participate",
+          "Withhold"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Participate"
+      },
+      {
+        "vocabWord": "coalition",
+        "words": [
+          "Alliance",
+          "Union",
+          "Rivalry",
+          "Partnership"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Rivalry"
+      },
+      {
+        "vocabWord": "autonomy",
+        "words": [
+          "Independence",
+          "Self-rule",
+          "Dependence",
+          "Freedom"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Dependence"
+      },
+      {
+        "vocabWord": "precedent",
+        "words": [
+          "Example",
+          "Model",
+          "Novelty",
+          "Guideline"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Novelty"
+      },
+      {
+        "vocabWord": "referendum",
+        "words": [
+          "Public vote",
+          "Ballot",
+          "Decree",
+          "Plebiscite"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Decree"
+      },
+      {
+        "vocabWord": "electorate",
+        "words": [
+          "Voters",
+          "Citizens",
+          "Rulers",
+          "Constituents"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Rulers"
+      },
+      {
+        "vocabWord": "caucus",
+        "words": [
+          "Meeting",
+          "Gathering",
+          "Dispersal",
+          "Assembly"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Dispersal"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

@@ -1,0 +1,578 @@
+{
+  "grade": 8,
+  "setNumber": 11,
+  "words": [
+    "segregation",
+    "discriminate",
+    "activist",
+    "unjust",
+    "tolerance",
+    "marginalize",
+    "inequality",
+    "dignity",
+    "nonviolent",
+    "persecute",
+    "bigotry",
+    "testify"
+  ],
+  "sources": [
+    "Common Core Grade 8",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "civil rights movement",
+  "story": {
+    "genre": "civil rights movement",
+    "characters": [
+      "Josephine",
+      "Amir",
+      "Cecily"
+    ],
+    "parts": [
+      {
+        "title": "The Porch Interview",
+        "text": "Josephine and Amir climbed the steps of Cecily's porch with a notebook and a recorder. For their history project, they wanted to understand life under **segregation**, when laws in many states kept Black and white Americans apart in schools, buses, and restaurants. Cecily, a retired librarian, set down her tea. \"Those rules did more than separate us,\" she said. \"They allowed people to **discriminate** openly, treating us as lesser because of our skin.\""
+      },
+      {
+        "title": "A Teenager's Choice",
+        "text": "At sixteen, Cecily became an **activist** in her town. She and her classmates thought it **unjust** that their school received worn-out textbooks while the white school across town got new ones. That **inequality** showed up everywhere, from paychecks to hospitals. Amir asked how the movement answered it. Cecily said its leaders urged Americans to practice **tolerance**, accepting neighbors who looked different, yet they demanded more than polite patience: equal rights under the law."
+      },
+      {
+        "title": "Courage Without Fists",
+        "text": "Her group trained for peaceful sit-ins in church workshops. The movement was **nonviolent**, so volunteers rehearsed staying calm no matter what was said to them. People in power often tried to **marginalize** young protesters, dismissing them as troublemakers. Some employers tried to **persecute** families who joined by firing the parents. \"The **bigotry** was loud,\" Cecily said, \"but we held on to our **dignity**.\" Years later, she was invited to **testify** at a public hearing and described her school's conditions in a steady voice."
+      },
+      {
+        "title": "What They Learned",
+        "text": "Josephine stopped the recorder and realized the story was not only history. Cecily's courage had helped change the law, yet fairness still needed protecting every day. Amir wrote one line at the top of his page: change happens when ordinary people refuse to look away. They thanked Cecily and promised to share her words with their class."
+      }
+    ],
+    "wordCount": 286
+  },
+  "definitions": [
+    {
+      "word": "segregation",
+      "partOfSpeech": "noun",
+      "meaning1": "The forced separation of people into groups, especially by race. Example: Laws that required segregation kept children of different races in separate schools.",
+      "meaning2": "",
+      "studentChallenge": "Courts eventually ruled that racial ___ in public schools was against the law.",
+      "sentence": ""
+    },
+    {
+      "word": "discriminate",
+      "partOfSpeech": "verb",
+      "meaning1": "To treat people unfairly because of their race, religion, age, or another group they belong to. Example: It is illegal for a business to discriminate against workers because of their background.",
+      "meaning2": "To notice a difference between things. Example: A trained musician can discriminate between two notes that sound almost the same.",
+      "studentChallenge": "It is illegal for a landlord to ___ against renters because of their religion.",
+      "sentence": ""
+    },
+    {
+      "word": "activist",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who takes action, such as organizing or protesting, to bring about social or political change. Example: The young activist collected signatures to save the neighborhood park.",
+      "meaning2": "",
+      "studentChallenge": "The ___ spent every weekend collecting signatures for the petition.",
+      "sentence": ""
+    },
+    {
+      "word": "unjust",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not fair or right. Example: Punishing the whole class for one student's mistake seemed unjust.",
+      "meaning2": "",
+      "studentChallenge": "Everyone felt the penalty was ___ because the rule had never been explained.",
+      "sentence": ""
+    },
+    {
+      "word": "tolerance",
+      "partOfSpeech": "noun",
+      "meaning1": "Willingness to accept people and beliefs that differ from your own. Example: The school's motto encouraged tolerance and respect for every classmate.",
+      "meaning2": "The ability to endure something difficult or harmful. Example: Cacti have a high tolerance for heat and drought.",
+      "studentChallenge": "Showing ___ means respecting people even when you disagree with them.",
+      "sentence": ""
+    },
+    {
+      "word": "marginalize",
+      "partOfSpeech": "verb",
+      "meaning1": "To treat a person or group as unimportant by pushing them to the edges of society or a conversation. Example: Policies that marginalize new students can leave them feeling invisible.",
+      "meaning2": "",
+      "studentChallenge": "A thoughtful leader will not ___ the newest members of the team.",
+      "sentence": ""
+    },
+    {
+      "word": "inequality",
+      "partOfSpeech": "noun",
+      "meaning1": "An unfair difference in rights, opportunities, or resources between groups. Example: The report showed a wide inequality in school funding between neighboring districts.",
+      "meaning2": "A statement that two values are not equal, written with symbols such as < or >. Example: In math class, we solved the inequality x + 3 > 7.",
+      "studentChallenge": "Teachers noticed a growing ___ in how much homework help families could afford.",
+      "sentence": ""
+    },
+    {
+      "word": "dignity",
+      "partOfSpeech": "noun",
+      "meaning1": "The quality of being worthy of respect, shown through a calm, self-respecting manner. Example: She accepted the loss with dignity and congratulated the winner.",
+      "meaning2": "",
+      "studentChallenge": "He faced the cruel comments with calm ___ and did not shout back.",
+      "sentence": ""
+    },
+    {
+      "word": "nonviolent",
+      "partOfSpeech": "adjective",
+      "meaning1": "Using peaceful methods rather than force or harm to bring about change. Example: The nonviolent march ended with speeches and songs.",
+      "meaning2": "",
+      "studentChallenge": "The marchers promised to keep their protest ___ no matter what happened.",
+      "sentence": ""
+    },
+    {
+      "word": "persecute",
+      "partOfSpeech": "verb",
+      "meaning1": "To treat someone cruelly or unfairly over a long period, usually because of who they are or what they believe. Example: Rulers in that era would persecute anyone who practiced a different religion.",
+      "meaning2": "",
+      "studentChallenge": "No government should be allowed to ___ people for their religious beliefs.",
+      "sentence": ""
+    },
+    {
+      "word": "bigotry",
+      "partOfSpeech": "noun",
+      "meaning1": "Stubborn, unfair hatred or intolerance of people who are different from you. Example: The mayor spoke out against bigotry in every form.",
+      "meaning2": "",
+      "studentChallenge": "The principal said that ___ has no place in our school.",
+      "sentence": ""
+    },
+    {
+      "word": "testify",
+      "partOfSpeech": "verb",
+      "meaning1": "To give a formal statement about what you know or have seen, especially in a court or hearing. Example: The neighbor agreed to testify about what she had seen that night.",
+      "meaning2": "To serve as proof of something. Example: The worn steps testify to the thousands of students who have passed through the school.",
+      "studentChallenge": "The witness was asked to ___ about what she had seen at the corner.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Under racial _______, children of different races were required to attend separate schools.",
+      "sentence2": "The museum exhibit showed how _______ shaped the seating on buses and the entrances to theaters.",
+      "options": [
+        "dignity",
+        "segregation",
+        "testify",
+        "unjust"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "segregation"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Federal law says an employer may not _______ against a worker because of religion or race.",
+      "sentence2": "A trained listener can _______ between two sounds that seem identical to most people.",
+      "options": [
+        "discriminate",
+        "persecute",
+        "testify",
+        "marginalize"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "discriminate"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The young _______ gathered hundreds of signatures to save the neighborhood library.",
+      "sentence2": "As an environmental _______, she spent weekends organizing river cleanups and speaking at city hall.",
+      "options": [
+        "bigotry",
+        "dignity",
+        "inequality",
+        "activist"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "activist"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Everyone in the room agreed it was _______ to punish the whole team for one player's mistake.",
+      "sentence2": "The judge overturned the _______ law that had treated one group more harshly than another.",
+      "options": [
+        "dignity",
+        "nonviolent",
+        "unjust",
+        "persecute"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "unjust"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The class pledge promised kindness and _______ toward classmates with different beliefs.",
+      "sentence2": "Desert plants have a remarkable _______ for heat and long periods without water.",
+      "options": [
+        "bigotry",
+        "tolerance",
+        "discriminate",
+        "segregation"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "tolerance"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "A good leader will not _______ quiet team members; she invites everyone to speak.",
+      "sentence2": "Cutting the arts budget again could _______ students whose talents lie outside of sports.",
+      "options": [
+        "marginalize",
+        "testify",
+        "activist",
+        "nonviolent"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "marginalize"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The graph revealed a growing _______ between the richest and poorest neighborhoods.",
+      "sentence2": "The student solved the _______ 2x + 1 > 9 and graphed the answer on a number line.",
+      "options": [
+        "segregation",
+        "bigotry",
+        "tolerance",
+        "inequality"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "inequality"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Even after a hard loss, the captain walked off the field with quiet _______.",
+      "sentence2": "Every patient in the hospital deserves to be treated with respect and _______.",
+      "options": [
+        "bigotry",
+        "persecute",
+        "dignity",
+        "activist"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "dignity"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The students chose a _______ protest: a silent walk with signs and no shouting.",
+      "sentence2": "Her _______ approach to the dispute relied on talks, not threats or force.",
+      "options": [
+        "marginalize",
+        "nonviolent",
+        "segregation",
+        "testify"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "nonviolent"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Rulers in that era would _______ anyone who practiced the wrong religion.",
+      "sentence2": "No government should be allowed to _______ citizens simply for speaking their minds.",
+      "options": [
+        "persecute",
+        "testify",
+        "tolerance",
+        "inequality"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "persecute"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The principal condemned the _______ in the hurtful graffiti and promised an investigation.",
+      "sentence2": "Blind _______ against newcomers kept the town divided for decades.",
+      "options": [
+        "inequality",
+        "dignity",
+        "unjust",
+        "bigotry"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "bigotry"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The witness agreed to _______ at the trial about what she saw that night.",
+      "sentence2": "The faded photographs _______ to how much the old neighborhood has changed.",
+      "options": [
+        "discriminate",
+        "persecute",
+        "testify",
+        "marginalize"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "testify"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "segregation",
+      "discriminate",
+      "activist",
+      "unjust",
+      "tolerance",
+      "marginalize",
+      "inequality",
+      "dignity",
+      "nonviolent",
+      "persecute",
+      "bigotry",
+      "testify"
+    ],
+    "passage": "Amir's essay began with an old photograph of students walking calmly toward a school that had refused them for years. Under _(1)_, the schools set aside for Black children often had fewer books and older buildings, a plain example of _(2)_. Families found the arrangement deeply _(3)_, and a young _(4)_ in town began organizing meetings in church basements.\n\nThe group's rules were strict. Every protest had to be _(5)_, with no shouting back and no fighting, because the leaders wanted to keep their _(6)_ intact. Some neighbors tried to _(7)_ the group by ignoring its requests and leaving its members out of town decisions, and others responded with open _(8)_. A few even tried to _(9)_ families by threatening their jobs. Still, one brave mother agreed to _(10)_ before the school board, and her honest account helped change the policy.\n\nAmir ended his essay by calling for _(11)_ toward people who are different, and for laws that never again _(12)_ against anyone for who they are.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "segregation",
+        "options": [
+          "dignity",
+          "activist",
+          "segregation",
+          "testify"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "inequality",
+        "options": [
+          "tolerance",
+          "nonviolent",
+          "testify",
+          "inequality"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "unjust",
+        "options": [
+          "unjust",
+          "nonviolent",
+          "inequality",
+          "dignity"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "activist",
+        "options": [
+          "bigotry",
+          "activist",
+          "dignity",
+          "tolerance"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "nonviolent",
+        "options": [
+          "unjust",
+          "segregation",
+          "nonviolent",
+          "testify"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "dignity",
+        "options": [
+          "bigotry",
+          "inequality",
+          "activist",
+          "dignity"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "marginalize",
+        "options": [
+          "marginalize",
+          "testify",
+          "discriminate",
+          "tolerance"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "bigotry",
+        "options": [
+          "activist",
+          "bigotry",
+          "nonviolent",
+          "marginalize"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "persecute",
+        "options": [
+          "testify",
+          "discriminate",
+          "persecute",
+          "segregation"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "testify",
+        "options": [
+          "discriminate",
+          "marginalize",
+          "persecute",
+          "testify"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "tolerance",
+        "options": [
+          "tolerance",
+          "inequality",
+          "segregation",
+          "activist"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "discriminate",
+        "options": [
+          "persecute",
+          "discriminate",
+          "marginalize",
+          "testify"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "bigotry",
+        "scale": [
+          "Bias",
+          "Prejudice",
+          "Bigotry"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "unjust",
+        "scale": [
+          "Unfair",
+          "Unjust",
+          "Outrageous"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "persecute",
+        "scale": [
+          "Tease",
+          "Harass",
+          "Persecute"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "tolerance",
+        "scale": [
+          "Patience",
+          "Tolerance",
+          "Acceptance"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "segregation",
+        "words": [
+          "Separation",
+          "Integration",
+          "Division",
+          "Isolation"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Integration"
+      },
+      {
+        "vocabWord": "unjust",
+        "words": [
+          "Unfair",
+          "Biased",
+          "Fair",
+          "One-sided"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Fair"
+      },
+      {
+        "vocabWord": "activist",
+        "words": [
+          "Campaigner",
+          "Crusader",
+          "Bystander",
+          "Advocate"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Bystander"
+      },
+      {
+        "vocabWord": "tolerance",
+        "words": [
+          "Acceptance",
+          "Open-mindedness",
+          "Intolerance",
+          "Patience"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Intolerance"
+      },
+      {
+        "vocabWord": "inequality",
+        "words": [
+          "Imbalance",
+          "Disparity",
+          "Fairness",
+          "Gap"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Fairness"
+      },
+      {
+        "vocabWord": "dignity",
+        "words": [
+          "Honor",
+          "Self-respect",
+          "Disgrace",
+          "Poise"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Disgrace"
+      },
+      {
+        "vocabWord": "nonviolent",
+        "words": [
+          "Peaceful",
+          "Gentle",
+          "Aggressive",
+          "Calm"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Aggressive"
+      },
+      {
+        "vocabWord": "marginalize",
+        "words": [
+          "Sideline",
+          "Exclude",
+          "Include",
+          "Overlook"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Include"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

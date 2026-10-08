@@ -1,0 +1,577 @@
+{
+  "grade": 6,
+  "setNumber": 12,
+  "words": [
+    "simmer",
+    "savory",
+    "garnish",
+    "concoct",
+    "scorch",
+    "zest",
+    "culinary",
+    "pungent",
+    "succulent",
+    "marinate",
+    "whisk",
+    "knead"
+  ],
+  "sources": [
+    "Common Core Grade 6",
+    "Tier 2 Academic"
+  ],
+  "genre": "cooking competition",
+  "story": {
+    "genre": "cooking competition",
+    "characters": [
+      "Marco",
+      "Aisha",
+      "Wren"
+    ],
+    "parts": [
+      {
+        "title": "Ninety Minutes on the Clock",
+        "text": "Marco, Aisha, and Wren had trained for weeks for the city's junior **culinary** contest, where teams had ninety minutes to cook a three-course dinner. The theme was announced as the clock started: a feast fit for a king. The judges wanted every dish to be **savory**, rich with salt and spice rather than sugar. Marco poured lemon juice, garlic, and herbs over his chicken so it could **marinate** while the others got to work."
+      },
+      {
+        "title": "Heat and Hurry",
+        "text": "Aisha poured tomatoes and broth into a pot and turned the flame low, letting her soup **simmer** gently. Beside her, Wren pressed and folded her bread dough, working hard to **knead** it smooth. Aisha beat cream and egg yolks with a **whisk** until her sauce turned silky. Suddenly a **pungent** smell of burning garlic drifted across the kitchen. Marco's pan was far too hot, and his sauce began to **scorch**."
+      },
+      {
+        "title": "The Final Plate",
+        "text": "With ten minutes left, Marco did not panic. He had to **concoct** a new sauce from honey, mustard, and cream, stirring until it shimmered. Then he grated **zest** from a lemon over the chicken, adding a bright, tangy flavor. When the judges cut into the meat, it was **succulent**, tender and full of juice. Wren finished the plate with a sprig of parsley as a **garnish**, and the team stepped back, breathing hard."
+      },
+      {
+        "title": "Taste of Teamwork",
+        "text": "The trio did not win first place, but the judges praised their courage. Marco learned that a mistake is not the end of a recipe. Aisha and Wren learned that a team can fix almost anything together. They left the kitchen tired, proud, and already planning next year's menu."
+      }
+    ],
+    "wordCount": 266
+  },
+  "definitions": [
+    {
+      "word": "simmer",
+      "partOfSpeech": "verb",
+      "meaning1": "To cook gently in liquid just below the boiling point. Example: Let the soup simmer for twenty minutes.",
+      "meaning2": "To be filled with a strong feeling that is not yet shown. Example: Anger began to simmer inside him as he waited his turn.",
+      "studentChallenge": "Turn the stove down low and let the sauce ___ for an hour.",
+      "sentence": ""
+    },
+    {
+      "word": "savory",
+      "partOfSpeech": "adjective",
+      "meaning1": "Salty or spicy in flavor, rather than sweet. Example: Popcorn with butter and salt is my favorite savory snack.",
+      "meaning2": "",
+      "studentChallenge": "Cheese crackers and salted nuts are ___ treats, not sweet ones.",
+      "sentence": ""
+    },
+    {
+      "word": "garnish",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A small decoration added to a dish of food. Example: A single lemon slice was the only garnish on the plate.",
+      "meaning2": "To decorate food with a small extra touch. Example: She likes to garnish the soup with fresh herbs.",
+      "studentChallenge": "The chef placed a sprig of mint on the cake as a ___.",
+      "sentence": ""
+    },
+    {
+      "word": "concoct",
+      "partOfSpeech": "verb",
+      "meaning1": "To make something by mixing different ingredients together. Example: He concocted a smoothie from spinach, mango, and yogurt.",
+      "meaning2": "To invent a story or plan. Example: The twins tried to concoct an excuse for being late.",
+      "studentChallenge": "With only eggs and flour left, she tried to ___ a dessert.",
+      "sentence": ""
+    },
+    {
+      "word": "scorch",
+      "partOfSpeech": "verb",
+      "meaning1": "To burn the surface of something so that it turns brown or black. Example: A hot iron can scorch a shirt if you leave it too long.",
+      "meaning2": "To dry up with heat. Example: The summer sun began to scorch the lawn.",
+      "studentChallenge": "If the pan gets too hot, the sauce will ___ and taste bitter.",
+      "sentence": ""
+    },
+    {
+      "word": "zest",
+      "partOfSpeech": "noun",
+      "meaning1": "The thin, colorful outer skin of a lemon, orange, or lime, used to add flavor. Example: A pinch of orange zest made the muffins smell wonderful.",
+      "meaning2": "Great energy and enthusiasm. Example: She tackled every new project with zest.",
+      "studentChallenge": "Grate a little lemon ___ over the cake for a bright, tangy flavor.",
+      "sentence": ""
+    },
+    {
+      "word": "culinary",
+      "partOfSpeech": "adjective",
+      "meaning1": "Having to do with cooking or kitchens. Example: Her culinary skills include baking bread and making pasta from scratch.",
+      "meaning2": "",
+      "studentChallenge": "The school offers ___ classes for students who dream of running a restaurant.",
+      "sentence": ""
+    },
+    {
+      "word": "pungent",
+      "partOfSpeech": "adjective",
+      "meaning1": "Having a sharp, strong smell or taste. Example: The pungent smell of raw onions filled the kitchen.",
+      "meaning2": "",
+      "studentChallenge": "The ___ odor of blue cheese lingered in the refrigerator for days.",
+      "sentence": ""
+    },
+    {
+      "word": "succulent",
+      "partOfSpeech": "adjective",
+      "meaning1": "Full of juice, tender, and delicious. Example: We bit into succulent peaches that were ripe and sweet.",
+      "meaning2": "Describing a plant with thick, fleshy leaves that store water. Example: The cactus is a succulent plant that thrives in the desert.",
+      "studentChallenge": "The steak was so ___ that juice ran down the plate when the knife went in.",
+      "sentence": ""
+    },
+    {
+      "word": "marinate",
+      "partOfSpeech": "verb",
+      "meaning1": "To soak food in a flavorful liquid before cooking it. Example: We marinate the chicken overnight in lemon juice and garlic.",
+      "meaning2": "",
+      "studentChallenge": "Let the tofu soak in soy sauce for an hour so it can ___ before grilling.",
+      "sentence": ""
+    },
+    {
+      "word": "whisk",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To beat or stir quickly, usually to mix ingredients or add air. Example: Whisk the eggs and milk until the mixture is foamy.",
+      "meaning2": "A kitchen tool made of looped wires, used for beating. Example: She grabbed a whisk from the drawer to mix the batter.",
+      "studentChallenge": "She used a wire ___ to beat the cream until it was thick and fluffy.",
+      "sentence": ""
+    },
+    {
+      "word": "knead",
+      "partOfSpeech": "verb",
+      "meaning1": "To press and fold dough with your hands to make it smooth. Example: Knead the dough for ten minutes before letting it rise.",
+      "meaning2": "To rub or squeeze with the hands, as in a massage. Example: The coach began to knead the sore muscle in his leg.",
+      "studentChallenge": "Fold and press the dough for ten minutes to ___ it until smooth.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Turn the heat low and let the soup _______ gently for twenty minutes.",
+      "sentence2": "Anger began to _______ inside him as he waited for his turn, though he said nothing.",
+      "options": [
+        "whisk",
+        "simmer",
+        "scorch",
+        "knead"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "simmer"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "She wanted something _______ instead of dessert, like salted nuts.",
+      "sentence2": "Popcorn with butter and salt is a _______ snack, not a sweet one.",
+      "options": [
+        "pungent",
+        "succulent",
+        "savory",
+        "culinary"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "savory"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The chef placed a sprig of mint on the cake as a _______.",
+      "sentence2": "Just before serving, _______ each bowl with a sprig of fresh parsley.",
+      "options": [
+        "zest",
+        "whisk",
+        "knead",
+        "garnish"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "garnish"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "With only eggs, flour, and berries left, Dana tried to _______ a dessert.",
+      "sentence2": "The twins tried to _______ a believable excuse for being late.",
+      "options": [
+        "concoct",
+        "scorch",
+        "marinate",
+        "simmer"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "concoct"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "If the pan gets too hot, the sauce will _______ and taste bitter.",
+      "sentence2": "The desert sun can _______ the grass until it turns brown and dry.",
+      "options": [
+        "knead",
+        "scorch",
+        "whisk",
+        "marinate"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "scorch"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Grate a little lemon _______ over the cake for a bright, tangy flavor.",
+      "sentence2": "She tackled every new project with such _______ that her whole team caught her excitement.",
+      "options": [
+        "garnish",
+        "whisk",
+        "zest",
+        "succulent"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "zest"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Chef Rivera teaches a _______ class on baking bread and making soup.",
+      "sentence2": "The school offers _______ training for students who dream of running a restaurant.",
+      "options": [
+        "savory",
+        "pungent",
+        "succulent",
+        "culinary"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "culinary"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The _______ smell of raw onions made everyone's eyes water.",
+      "sentence2": "Garlic and strong blue cheese have a sharp, _______ odor that lingers for hours.",
+      "options": [
+        "pungent",
+        "savory",
+        "succulent",
+        "culinary"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "pungent"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The steak was so _______ that juice ran down the plate when the knife went in.",
+      "sentence2": "She bit into a _______ peach, and sweet juice ran down her chin.",
+      "options": [
+        "savory",
+        "succulent",
+        "pungent",
+        "culinary"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "succulent"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Let the chicken _______ in lemon juice and garlic overnight.",
+      "sentence2": "Cooks often _______ tofu in soy sauce so it absorbs the flavor.",
+      "options": [
+        "whisk",
+        "knead",
+        "marinate",
+        "garnish"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "marinate"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "_______ the eggs and milk until the mixture is smooth and foamy.",
+      "sentence2": "The cook grabbed a wire _______ from the drawer and beat the cream until it thickened.",
+      "options": [
+        "garnish",
+        "scorch",
+        "zest",
+        "whisk"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "whisk"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Fold and press the dough for ten minutes to _______ it until smooth.",
+      "sentence2": "The massage therapist began to _______ the sore muscles in my shoulder.",
+      "options": [
+        "knead",
+        "concoct",
+        "simmer",
+        "marinate"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "knead"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "simmer",
+      "savory",
+      "garnish",
+      "concoct",
+      "scorch",
+      "zest",
+      "culinary",
+      "pungent",
+      "succulent",
+      "marinate",
+      "whisk",
+      "knead"
+    ],
+    "passage": "Last weekend my cousin Dev entered a _(1)_ fair at the community center. He decided to _(2)_ a brand-new stew from whatever vegetables he found in the fridge. First he had to _(3)_ the beef in vinegar and spices. Then he poured broth into the pot and let it _(4)_ for an hour.\n\nThe kitchen filled with a _(5)_ aroma of garlic and pepper that made the neighbors knock on the door to ask what was cooking. Meanwhile, his sister had to _(6)_ dough for rolls and then _(7)_ butter and honey into a glaze. A dark smell warned them that the rolls were starting to _(8)_ in the too-hot oven, so they pulled them out just in time.\n\nDev grated orange _(9)_ into the stew, then scattered parsley on top as a _(10)_. The judges found the beef so tender and juicy, so _(11)_, that they asked for a second bowl. They also loved the flavor, which was rich and _(12)_ rather than sweet.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "culinary",
+        "options": [
+          "succulent",
+          "culinary",
+          "pungent",
+          "savory"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "concoct",
+        "options": [
+          "concoct",
+          "whisk",
+          "knead",
+          "garnish"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "marinate",
+        "options": [
+          "knead",
+          "garnish",
+          "concoct",
+          "marinate"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "simmer",
+        "options": [
+          "whisk",
+          "knead",
+          "simmer",
+          "garnish"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "pungent",
+        "options": [
+          "succulent",
+          "pungent",
+          "culinary",
+          "zest"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "knead",
+        "options": [
+          "knead",
+          "simmer",
+          "garnish",
+          "scorch"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "whisk",
+        "options": [
+          "scorch",
+          "marinate",
+          "garnish",
+          "whisk"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "scorch",
+        "options": [
+          "whisk",
+          "concoct",
+          "scorch",
+          "marinate"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "zest",
+        "options": [
+          "pungent",
+          "zest",
+          "simmer",
+          "knead"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "garnish",
+        "options": [
+          "garnish",
+          "culinary",
+          "savory",
+          "whisk"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "succulent",
+        "options": [
+          "culinary",
+          "simmer",
+          "whisk",
+          "succulent"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "savory",
+        "options": [
+          "culinary",
+          "scorch",
+          "savory",
+          "marinate"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "simmer",
+        "scale": [
+          "Warm",
+          "Simmer",
+          "Boil"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "scorch",
+        "scale": [
+          "Toast",
+          "Singe",
+          "Scorch"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "whisk",
+        "scale": [
+          "Stir",
+          "Whisk",
+          "Beat"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "succulent",
+        "scale": [
+          "Moist",
+          "Juicy",
+          "Succulent"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "savory",
+        "words": [
+          "Salty",
+          "Sugary",
+          "Spicy",
+          "Tasty"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Sugary"
+      },
+      {
+        "vocabWord": "pungent",
+        "words": [
+          "Bland",
+          "Sharp",
+          "Strong",
+          "Biting"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Bland"
+      },
+      {
+        "vocabWord": "succulent",
+        "words": [
+          "Juicy",
+          "Tender",
+          "Moist",
+          "Dry"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Dry"
+      },
+      {
+        "vocabWord": "concoct",
+        "words": [
+          "Invent",
+          "Brew",
+          "Dismantle",
+          "Devise"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Dismantle"
+      },
+      {
+        "vocabWord": "marinate",
+        "words": [
+          "Soak",
+          "Drain",
+          "Steep",
+          "Infuse"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Drain"
+      },
+      {
+        "vocabWord": "garnish",
+        "words": [
+          "Strip",
+          "Decorate",
+          "Trim",
+          "Adorn"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Strip"
+      },
+      {
+        "vocabWord": "zest",
+        "words": [
+          "Enthusiasm",
+          "Energy",
+          "Vigor",
+          "Apathy"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Apathy"
+      },
+      {
+        "vocabWord": "scorch",
+        "words": [
+          "Burn",
+          "Singe",
+          "Cool",
+          "Char"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Cool"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

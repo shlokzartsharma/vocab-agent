@@ -1,0 +1,578 @@
+{
+  "grade": 7,
+  "setNumber": 12,
+  "words": [
+    "colonize",
+    "innovate",
+    "habitable",
+    "interstellar",
+    "propulsion",
+    "module",
+    "hydroponic",
+    "gravity",
+    "confinement",
+    "airlock",
+    "settler",
+    "shortage"
+  ],
+  "sources": [
+    "Common Core Grade 7",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "space colony",
+  "story": {
+    "genre": "space colony",
+    "characters": [
+      "Zora",
+      "Matteo",
+      "Nkechi"
+    ],
+    "parts": [
+      {
+        "title": "The Last Stretch",
+        "text": "After eleven years aboard the starship Meridian, Zora finally saw the planet her people hoped to **colonize**. Scientists had searched for centuries before finding a world that was **habitable**: not too hot, not too cold, and rich with liquid water. The ship had crossed an **interstellar** gulf so wide that even light needed four years to cross it. Now its **propulsion** engines fired in long bursts, slowing the great vessel for landing."
+      },
+      {
+        "title": "Life Aboard",
+        "text": "Zora's best friend Matteo worked in the garden **module**, a round chamber glowing with purple lamps. His crops grew in water instead of soil, a **hydroponic** system that fed three hundred people. Nkechi, the ship's mechanic, explained that the spinning ring created artificial **gravity**, which kept everyone's feet on the floor. Still, years of **confinement** inside metal walls had made the passengers restless and short-tempered."
+      },
+      {
+        "title": "A Test of Courage",
+        "text": "Two days before landing, a **shortage** of spare filters threatened the water system. \"We must **innovate**,\" Nkechi told the friends, \"because nobody can send help.\" Together they built a replacement from scrap mesh and a cooking pot. Then Matteo, wearing a bulky suit, had to step through the **airlock** to reach the outer pipe, his heart pounding as the door sealed behind him. When clear water finally flowed, every hopeful **settler** aboard cheered."
+      },
+      {
+        "title": "Touchdown",
+        "text": "The Meridian settled onto the new world with a gentle shudder. Zora pressed her hand against the window and watched red dust drift past. She thought about the people who had built the ship, none of whom would ever see this sky. The journey had taught her that a home is something people make together, one careful decision at a time."
+      }
+    ],
+    "wordCount": 271
+  },
+  "definitions": [
+    {
+      "word": "colonize",
+      "partOfSpeech": "verb",
+      "meaning1": "To settle in a new place and make it a home for your people. Example: Explorers hoped to colonize the island and build farms along its coast.",
+      "meaning2": "(Of plants or animals) to spread into and live in a new area. Example: Tiny mosses began to colonize the bare rocks after the flood.",
+      "studentChallenge": "Humans may someday ___ Mars and build cities beneath glass domes.",
+      "sentence": ""
+    },
+    {
+      "word": "innovate",
+      "partOfSpeech": "verb",
+      "meaning1": "To create new ideas or new ways of doing something. Example: Engineers must innovate when the old tools no longer solve a problem.",
+      "meaning2": "",
+      "studentChallenge": "The company hired young designers who could ___ and invent better bicycles.",
+      "sentence": ""
+    },
+    {
+      "word": "habitable",
+      "partOfSpeech": "adjective",
+      "meaning1": "Safe and suitable to live in. Example: After the repairs, the damaged cabin was habitable again.",
+      "meaning2": "",
+      "studentChallenge": "Scientists search for planets that are ___ for humans.",
+      "sentence": ""
+    },
+    {
+      "word": "interstellar",
+      "partOfSpeech": "adjective",
+      "meaning1": "Happening or traveling between the stars. Example: An interstellar voyage would take longer than a human lifetime.",
+      "meaning2": "",
+      "studentChallenge": "Writers love to imagine ___ travel between distant star systems.",
+      "sentence": ""
+    },
+    {
+      "word": "propulsion",
+      "partOfSpeech": "noun",
+      "meaning1": "The force or system that pushes a vehicle forward. Example: The rocket's propulsion system burned fuel to lift it off the pad.",
+      "meaning2": "",
+      "studentChallenge": "The submarine's ___ comes from a large spinning propeller.",
+      "sentence": ""
+    },
+    {
+      "word": "module",
+      "partOfSpeech": "noun",
+      "meaning1": "A separate, self-contained unit that forms part of a larger structure. Example: The astronauts slept in a small module attached to the main station.",
+      "meaning2": "A unit of study within a course. Example: Our science class ends with a module on volcanoes.",
+      "studentChallenge": "The crew connected the sleeping ___ to the rest of the station.",
+      "sentence": ""
+    },
+    {
+      "word": "hydroponic",
+      "partOfSpeech": "adjective",
+      "meaning1": "Growing plants in water filled with nutrients instead of in soil. Example: The school's hydroponic garden grew lettuce on shelves in the science lab.",
+      "meaning2": "",
+      "studentChallenge": "Without any soil, the ___ farm grew tomatoes in trays of nutrient-rich water.",
+      "sentence": ""
+    },
+    {
+      "word": "gravity",
+      "partOfSpeech": "noun",
+      "meaning1": "The force that pulls objects toward each other, such as pulling things toward the ground. Example: Gravity keeps the moon circling Earth.",
+      "meaning2": "Seriousness or great importance. Example: The judge spoke about the gravity of the crime.",
+      "studentChallenge": "On the moon, ___ is weaker, so astronauts can leap high.",
+      "sentence": ""
+    },
+    {
+      "word": "confinement",
+      "partOfSpeech": "noun",
+      "meaning1": "The state of being kept inside a small or enclosed space. Example: After days of confinement in the tent, the campers were desperate to go outside.",
+      "meaning2": "",
+      "studentChallenge": "Long ___ in the tiny cabin made the sailors restless.",
+      "sentence": ""
+    },
+    {
+      "word": "airlock",
+      "partOfSpeech": "noun",
+      "meaning1": "A small sealed room with two doors that lets people pass between places with different air pressure. Example: Astronauts wait in the airlock before they step out into space.",
+      "meaning2": "",
+      "studentChallenge": "The astronaut sealed the inner door of the ___ before opening the outer one.",
+      "sentence": ""
+    },
+    {
+      "word": "settler",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who moves to a new place to make a home there. Example: Early settlers built their houses from the trees they cleared.",
+      "meaning2": "",
+      "studentChallenge": "The first ___ planted crops and built cabins beside the river.",
+      "sentence": ""
+    },
+    {
+      "word": "shortage",
+      "partOfSpeech": "noun",
+      "meaning1": "A situation in which there is not enough of something. Example: A shortage of rain left the farmers' fields dry and cracked.",
+      "meaning2": "",
+      "studentChallenge": "A ___ of bread at the store left the shelves empty by noon.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Explorers hoped to _______ the distant island and build farms along its coast.",
+      "sentence2": "After the flood, tiny mosses began to _______ the bare rocks.",
+      "options": [
+        "innovate",
+        "colonize",
+        "settler",
+        "module"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "colonize"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "When the old tools stopped working, the engineers had to _______ and invent a better method.",
+      "sentence2": "Companies that never _______ often lose customers to those with fresh ideas.",
+      "options": [
+        "colonize",
+        "shortage",
+        "gravity",
+        "innovate"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "innovate"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "After the repairs, the damaged cabin was _______ again, with a dry roof and a working stove.",
+      "sentence2": "Scientists search for planets that are _______ for humans.",
+      "options": [
+        "habitable",
+        "hydroponic",
+        "interstellar",
+        "confinement"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "habitable"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Writers love imagining _______ travel between distant star systems.",
+      "sentence2": "The probe's _______ journey would take longer than any human life.",
+      "options": [
+        "habitable",
+        "hydroponic",
+        "interstellar",
+        "propulsion"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "interstellar"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The rocket's _______ system burned fuel to push it away from the launch pad.",
+      "sentence2": "A giant spinning propeller provides the submarine's _______ through the water.",
+      "options": [
+        "propulsion",
+        "gravity",
+        "module",
+        "airlock"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "propulsion"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The astronauts slept in a small _______ attached to the main station.",
+      "sentence2": "Our science course ends with a _______ on volcanoes and earthquakes.",
+      "options": [
+        "airlock",
+        "shortage",
+        "settler",
+        "module"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "module"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Without any soil, the _______ farm grew tomatoes in trays of nutrient-rich water.",
+      "sentence2": "The school's _______ garden produced fresh lettuce on shelves in the science lab all winter.",
+      "options": [
+        "habitable",
+        "hydroponic",
+        "interstellar",
+        "colonize"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "hydroponic"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "On the moon, _______ is weaker, so astronauts can leap higher than they can on Earth.",
+      "sentence2": "The judge spoke about the _______ of the crime and how seriously it must be treated.",
+      "options": [
+        "gravity",
+        "propulsion",
+        "shortage",
+        "confinement"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "gravity"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "After days of _______ inside the tent during the storm, the campers were desperate to go outside.",
+      "sentence2": "Long _______ in the tiny cabin made the sailors restless and short-tempered.",
+      "options": [
+        "settler",
+        "gravity",
+        "confinement",
+        "module"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "confinement"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The astronaut sealed the inner door of the _______ before opening the outer one.",
+      "sentence2": "Before stepping into space, the crew waited in the _______ while the air was pumped out.",
+      "options": [
+        "settler",
+        "airlock",
+        "shortage",
+        "propulsion"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "airlock"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The first _______ planted crops and built cabins beside the river.",
+      "sentence2": "Every _______ on the ship had trained for years to build a home on the new world.",
+      "options": [
+        "settler",
+        "shortage",
+        "confinement",
+        "hydroponic"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "settler"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "A _______ of rain left the farmers' fields dry and cracked.",
+      "sentence2": "Because of a _______ of bread, the shelves at the store were empty by noon.",
+      "options": [
+        "gravity",
+        "confinement",
+        "shortage",
+        "module"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "shortage"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "colonize",
+      "innovate",
+      "habitable",
+      "interstellar",
+      "propulsion",
+      "module",
+      "hydroponic",
+      "gravity",
+      "confinement",
+      "airlock",
+      "settler",
+      "shortage"
+    ],
+    "passage": "Nkechi kept a journal about the long trip. The first _(1)_ families boarded the ship on a cold spring morning, ready for an _(2)_ voyage that no human had ever finished. The ship's _(3)_ engines hummed for months, pushing them steadily toward a distant star. Each family lived in a small sleeping _(4)_ with a window facing the darkness. The spinning ring made artificial _(5)_, so nothing floated away.\n\nMeals came from the _(6)_ garden, where lettuce grew in trays of water. When a _(7)_ of clean water struck in year six, everyone had to share carefully. Years of _(8)_ inside the ship made people restless, but a walk to the observation deck always helped. Before every repair outside the hull, the crew waited in the _(9)_ until the air pressure matched.\n\nAt last the scanners found a world that was _(10)_, with air and water waiting. \"We are about to _(11)_ it,\" the captain said, \"and we must never stop learning to _(12)_ when the old solutions run out.\"",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "settler",
+        "options": [
+          "airlock",
+          "gravity",
+          "settler",
+          "colonize"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "interstellar",
+        "options": [
+          "interstellar",
+          "confinement",
+          "shortage",
+          "hydroponic"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "propulsion",
+        "options": [
+          "settler",
+          "propulsion",
+          "shortage",
+          "airlock"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "module",
+        "options": [
+          "shortage",
+          "airlock",
+          "innovate",
+          "module"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "gravity",
+        "options": [
+          "confinement",
+          "gravity",
+          "settler",
+          "module"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "hydroponic",
+        "options": [
+          "habitable",
+          "propulsion",
+          "hydroponic",
+          "confinement"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "shortage",
+        "options": [
+          "shortage",
+          "gravity",
+          "module",
+          "airlock"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "confinement",
+        "options": [
+          "airlock",
+          "module",
+          "settler",
+          "confinement"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "airlock",
+        "options": [
+          "settler",
+          "airlock",
+          "shortage",
+          "gravity"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "habitable",
+        "options": [
+          "interstellar",
+          "hydroponic",
+          "habitable",
+          "shortage"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "colonize",
+        "options": [
+          "colonize",
+          "settler",
+          "gravity",
+          "propulsion"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "innovate",
+        "options": [
+          "colonize",
+          "innovate",
+          "airlock",
+          "hydroponic"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "confinement",
+        "scale": [
+          "Restriction",
+          "Confinement",
+          "Imprisonment"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "interstellar",
+        "scale": [
+          "Planetary",
+          "Interstellar",
+          "Intergalactic"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "innovate",
+        "scale": [
+          "Adjust",
+          "Improve",
+          "Innovate"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "colonize",
+        "scale": [
+          "Visit",
+          "Settle",
+          "Colonize"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "colonize",
+        "words": [
+          "Settle",
+          "Inhabit",
+          "Occupy",
+          "Abandon"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Abandon"
+      },
+      {
+        "vocabWord": "innovate",
+        "words": [
+          "Invent",
+          "Imitate",
+          "Pioneer",
+          "Create"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Imitate"
+      },
+      {
+        "vocabWord": "habitable",
+        "words": [
+          "Livable",
+          "Suitable",
+          "Uninhabitable",
+          "Hospitable"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Uninhabitable"
+      },
+      {
+        "vocabWord": "confinement",
+        "words": [
+          "Captivity",
+          "Restriction",
+          "Imprisonment",
+          "Freedom"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Freedom"
+      },
+      {
+        "vocabWord": "shortage",
+        "words": [
+          "Surplus",
+          "Scarcity",
+          "Lack",
+          "Deficit"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Surplus"
+      },
+      {
+        "vocabWord": "settler",
+        "words": [
+          "Pioneer",
+          "Colonist",
+          "Nomad",
+          "Homesteader"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Nomad"
+      },
+      {
+        "vocabWord": "propulsion",
+        "words": [
+          "Thrust",
+          "Drag",
+          "Drive",
+          "Power"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Drag"
+      },
+      {
+        "vocabWord": "interstellar",
+        "words": [
+          "Cosmic",
+          "Galactic",
+          "Stellar",
+          "Earthly"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Earthly"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

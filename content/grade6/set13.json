@@ -1,0 +1,577 @@
+{
+  "grade": 6,
+  "setNumber": 13,
+  "words": [
+    "rapids",
+    "portage",
+    "steer",
+    "hazardous",
+    "untamed",
+    "lurch",
+    "whitewater",
+    "strenuous",
+    "exertion",
+    "sodden",
+    "bedraggled",
+    "laden"
+  ],
+  "sources": [
+    "Common Core Grade 6",
+    "Tier 2 Academic"
+  ],
+  "genre": "canoe expedition",
+  "story": {
+    "genre": "canoe expedition",
+    "characters": [
+      "Jasper",
+      "Luz",
+      "Kenji"
+    ],
+    "parts": [
+      {
+        "title": "Into the Wilderness",
+        "text": "Jasper, Luz, and Kenji had planned their canoe trip for months, and now their long red canoe sat **laden** with tents, food, and rope beside a quiet northern lake. The river they would follow was famous for its **untamed** beauty, with no towns, roads, or bridges for fifty miles. Jasper, sitting in the back, would **steer**, while Luz and Kenji paddled in front."
+      },
+      {
+        "title": "The Roar Ahead",
+        "text": "On the second morning the river began to murmur, then roar. Ahead, **rapids** foamed over jagged rocks. Kenji studied the map and frowned. \"The guidebook calls this stretch **hazardous**,\" he said. \"Fast **whitewater** like this has flipped stronger paddlers than us.\" They decided to **portage**, hauling the canoe and every pack along a narrow forest trail. It was a **strenuous** hike, and sweat dripped from their chins."
+      },
+      {
+        "title": "Soaked",
+        "text": "Below the worst of the rapids, they launched again, but a hidden current caught the bow. The canoe gave a violent **lurch**, and a wave slapped over the side. For ten minutes they paddled with all the **exertion** they had left, until the water finally calmed. By sunset the three friends were **sodden** from head to toe, shivering and **bedraggled**, with hair plastered to their foreheads and mud caked on their boots."
+      },
+      {
+        "title": "Around the Fire",
+        "text": "That night, they laughed about the day. Luz said the river had taught them to respect what they could not control. Kenji promised to check the map twice from now on. Jasper looked up at the stars and decided that being tired and wet was a fair price for such an adventure."
+      }
+    ],
+    "wordCount": 254
+  },
+  "definitions": [
+    {
+      "word": "rapids",
+      "partOfSpeech": "noun",
+      "meaning1": "A fast, rough part of a river where water rushes over rocks. Example: The kayakers shouted as they crashed through the rapids.",
+      "meaning2": "",
+      "studentChallenge": "The guide counted six ___ that the group would need to pass before camp.",
+      "sentence": ""
+    },
+    {
+      "word": "portage",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To carry a boat and supplies over land to get around an obstacle in a waterway. Example: We had to portage around the waterfall.",
+      "meaning2": "The land route used for carrying a boat. Example: The portage was a muddy half-mile trail through the woods.",
+      "studentChallenge": "The canoeists had to ___ their boat on their shoulders around the dam.",
+      "sentence": ""
+    },
+    {
+      "word": "steer",
+      "partOfSpeech": "verb",
+      "meaning1": "To guide the direction of a boat, car, or other vehicle. Example: She used the rudder to steer the sailboat toward the dock.",
+      "meaning2": "To guide the course of a conversation or events. Example: The teacher tried to steer the discussion back to the topic.",
+      "studentChallenge": "With one strong paddle, Jasper could ___ the canoe around the fallen log.",
+      "sentence": ""
+    },
+    {
+      "word": "hazardous",
+      "partOfSpeech": "adjective",
+      "meaning1": "Dangerous; full of risk. Example: Icy roads make driving hazardous.",
+      "meaning2": "",
+      "studentChallenge": "The sign warned that the cracked bridge was ___ and closed to everyone.",
+      "sentence": ""
+    },
+    {
+      "word": "untamed",
+      "partOfSpeech": "adjective",
+      "meaning1": "Wild and not controlled by people. Example: Untamed horses ran across the open plain.",
+      "meaning2": "Not held back, as feelings can be. Example: Her untamed excitement made her jump around the room.",
+      "studentChallenge": "Wolves and elk roamed the ___ forest, free of roads, fences, and people.",
+      "sentence": ""
+    },
+    {
+      "word": "lurch",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To move forward or sideways with a sudden, unsteady motion. Example: The old bus began to lurch as it left the station.",
+      "meaning2": "A sudden jerking movement. Example: With a lurch, the elevator started to rise.",
+      "studentChallenge": "I felt my stomach ___ when the elevator dropped.",
+      "sentence": ""
+    },
+    {
+      "word": "whitewater",
+      "partOfSpeech": "noun",
+      "meaning1": "Fast, foamy water in a river, usually found in rapids. Example: Rafters in helmets paddled hard through the whitewater.",
+      "meaning2": "",
+      "studentChallenge": "Spray from the roaring ___ soaked everyone in the front of the raft.",
+      "sentence": ""
+    },
+    {
+      "word": "strenuous",
+      "partOfSpeech": "adjective",
+      "meaning1": "Needing a great deal of effort or strength. Example: Climbing the steep mountain was a strenuous workout.",
+      "meaning2": "",
+      "studentChallenge": "The doctor advised against ___ exercise until his ankle healed.",
+      "sentence": ""
+    },
+    {
+      "word": "exertion",
+      "partOfSpeech": "noun",
+      "meaning1": "Hard physical or mental effort. Example: After the exertion of the race, he needed a long rest.",
+      "meaning2": "",
+      "studentChallenge": "Solving the giant puzzle took so much mental ___ that his head ached.",
+      "sentence": ""
+    },
+    {
+      "word": "sodden",
+      "partOfSpeech": "adjective",
+      "meaning1": "Soaked all the way through with water. Example: Her sodden shoes squished with every step.",
+      "meaning2": "",
+      "studentChallenge": "After days of rain, the soil was heavy and ___.",
+      "sentence": ""
+    },
+    {
+      "word": "bedraggled",
+      "partOfSpeech": "adjective",
+      "meaning1": "Wet, dirty, and messy looking. Example: The bedraggled puppy shook mud everywhere after the rainy walk.",
+      "meaning2": "",
+      "studentChallenge": "The ___ scarecrow had a torn hat and sagging sleeves.",
+      "sentence": ""
+    },
+    {
+      "word": "laden",
+      "partOfSpeech": "adjective",
+      "meaning1": "Heavily loaded or weighed down. Example: The laden donkey moved slowly up the hill.",
+      "meaning2": "Burdened with a worry or feeling. Example: He was laden with guilt after forgetting his promise.",
+      "studentChallenge": "The apple tree was ___ with fruit, and its branches bent low.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The river ran smoothly for miles, then broke into a series of rough _______ over sharp rocks.",
+      "sentence2": "The guide counted six _______ that we would need to pass before we reached camp.",
+      "options": [
+        "portage",
+        "rapids",
+        "exertion",
+        "steer"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "rapids"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Because the waterfall was too steep to paddle, the group had to _______ their canoe on their shoulders along the forest trail.",
+      "sentence2": "To avoid the dam, paddlers must _______ their boats over the hill to the river below.",
+      "options": [
+        "steer",
+        "lurch",
+        "portage",
+        "exertion"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "portage"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "With one steady paddle, Jasper could _______ the canoe around the fallen log.",
+      "sentence2": "A good teacher knows how to _______ a discussion back on topic.",
+      "options": [
+        "lurch",
+        "portage",
+        "exertion",
+        "steer"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "steer"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The sign said to keep out because the cracked bridge was _______.",
+      "sentence2": "The icy road was so _______ that the school closed for the day.",
+      "options": [
+        "hazardous",
+        "untamed",
+        "strenuous",
+        "bedraggled"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "hazardous"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Wolves and elk roamed the _______ forest, free of roads, fences, and people.",
+      "sentence2": "The farmer admired the _______ stallion that no one had ever managed to ride.",
+      "options": [
+        "hazardous",
+        "untamed",
+        "laden",
+        "sodden"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "untamed"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The old bus began to _______ forward as the driver pressed the pedal.",
+      "sentence2": "I felt my stomach _______ when the elevator suddenly dropped.",
+      "options": [
+        "steer",
+        "portage",
+        "lurch",
+        "rapids"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "lurch"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Rafters in helmets paddled hard through the foaming _______.",
+      "sentence2": "Spray from the roaring _______ soaked everyone in the front of the raft.",
+      "options": [
+        "exertion",
+        "portage",
+        "steer",
+        "whitewater"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "whitewater"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Carrying a heavy pack up the mountain was a long, _______ climb.",
+      "sentence2": "The doctor advised against _______ exercise until his ankle healed.",
+      "options": [
+        "strenuous",
+        "laden",
+        "untamed",
+        "sodden"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "strenuous"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "After the _______ of the long race, she collapsed on the grass.",
+      "sentence2": "Solving the giant puzzle took so much mental _______ that his head ached.",
+      "options": [
+        "rapids",
+        "exertion",
+        "portage",
+        "whitewater"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "exertion"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Her _______ socks squished with every step she took after crossing the creek.",
+      "sentence2": "After days of rain, the soil was heavy and _______.",
+      "options": [
+        "bedraggled",
+        "laden",
+        "sodden",
+        "hazardous"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "sodden"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The _______ hikers staggered into camp, their hair plastered flat and their jackets torn.",
+      "sentence2": "The _______ scarecrow, with its torn hat and sagging sleeves, flapped in the wind.",
+      "options": [
+        "sodden",
+        "laden",
+        "untamed",
+        "bedraggled"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "bedraggled"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The donkey, _______ with sacks of grain, walked slowly up the path.",
+      "sentence2": "The apple tree was _______ with fruit, and its branches bent low.",
+      "options": [
+        "laden",
+        "untamed",
+        "strenuous",
+        "hazardous"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "laden"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "rapids",
+      "portage",
+      "steer",
+      "hazardous",
+      "untamed",
+      "lurch",
+      "whitewater",
+      "strenuous",
+      "exertion",
+      "sodden",
+      "bedraggled",
+      "laden"
+    ],
+    "passage": "Priya's school trip down the Maple River started calmly. The rafts were _(1)_ with food, helmets, and tents. A guide named Mr. Okafor showed everyone how to _(2)_ with a long paddle. \"This stretch is wild and _(3)_,\" he said, \"and two sets of _(4)_ lie ahead.\"\n\nThe first was _(5)_ enough that the group had to _(6)_ the rafts on their shoulders along a rocky trail. Later, one raft gave a sudden _(7)_ as it slipped past a boulder, and spray from the foaming _(8)_ soaked the front row.\n\nPaddling upstream to the camp was _(9)_ work. After so much _(10)_, every arm ached. By evening the students sat _(11)_ and shivering by the fire, looking thoroughly _(12)_, but not one of them wanted to go home.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "laden",
+        "options": [
+          "sodden",
+          "laden",
+          "untamed",
+          "strenuous"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "steer",
+        "options": [
+          "steer",
+          "lurch",
+          "portage",
+          "exertion"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "untamed",
+        "options": [
+          "strenuous",
+          "bedraggled",
+          "laden",
+          "untamed"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "rapids",
+        "options": [
+          "exertion",
+          "portage",
+          "rapids",
+          "steer"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "hazardous",
+        "options": [
+          "bedraggled",
+          "hazardous",
+          "sodden",
+          "laden"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "portage",
+        "options": [
+          "portage",
+          "steer",
+          "lurch",
+          "exertion"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "lurch",
+        "options": [
+          "exertion",
+          "portage",
+          "rapids",
+          "lurch"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "whitewater",
+        "options": [
+          "lurch",
+          "exertion",
+          "whitewater",
+          "steer"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "strenuous",
+        "options": [
+          "untamed",
+          "strenuous",
+          "sodden",
+          "laden"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "exertion",
+        "options": [
+          "exertion",
+          "lurch",
+          "steer",
+          "hazardous"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "sodden",
+        "options": [
+          "strenuous",
+          "hazardous",
+          "untamed",
+          "sodden"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "bedraggled",
+        "options": [
+          "strenuous",
+          "untamed",
+          "bedraggled",
+          "hazardous"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "strenuous",
+        "scale": [
+          "Tiring",
+          "Strenuous",
+          "Exhausting"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "hazardous",
+        "scale": [
+          "Risky",
+          "Hazardous",
+          "Deadly"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "sodden",
+        "scale": [
+          "Damp",
+          "Wet",
+          "Sodden"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "rapids",
+        "scale": [
+          "Ripples",
+          "Rapids",
+          "Torrent"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "hazardous",
+        "words": [
+          "Dangerous",
+          "Safe",
+          "Risky",
+          "Perilous"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Safe"
+      },
+      {
+        "vocabWord": "untamed",
+        "words": [
+          "Tame",
+          "Wild",
+          "Savage",
+          "Feral"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Tame"
+      },
+      {
+        "vocabWord": "strenuous",
+        "words": [
+          "Tiring",
+          "Demanding",
+          "Grueling",
+          "Effortless"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Effortless"
+      },
+      {
+        "vocabWord": "exertion",
+        "words": [
+          "Effort",
+          "Labor",
+          "Rest",
+          "Toil"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Rest"
+      },
+      {
+        "vocabWord": "sodden",
+        "words": [
+          "Soaked",
+          "Dry",
+          "Drenched",
+          "Saturated"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Dry"
+      },
+      {
+        "vocabWord": "bedraggled",
+        "words": [
+          "Neat",
+          "Messy",
+          "Disheveled",
+          "Scruffy"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Neat"
+      },
+      {
+        "vocabWord": "laden",
+        "words": [
+          "Loaded",
+          "Burdened",
+          "Weighed down",
+          "Empty"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Empty"
+      },
+      {
+        "vocabWord": "steer",
+        "words": [
+          "Guide",
+          "Direct",
+          "Drift",
+          "Pilot"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Drift"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

@@ -1,0 +1,578 @@
+{
+  "grade": 2,
+  "setNumber": 13,
+  "words": [
+    "fireplace",
+    "cocoa",
+    "frosty",
+    "chimney",
+    "icicle",
+    "stormy",
+    "muffler",
+    "hearth",
+    "sheltered",
+    "howl",
+    "woolly",
+    "snowdrift"
+  ],
+  "sources": [
+    "Common Core Grade 2",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "snowed-in cabin",
+  "story": {
+    "genre": "snowed-in cabin",
+    "characters": [
+      "Anya",
+      "Theo",
+      "Bashir"
+    ],
+    "parts": [
+      {
+        "title": "Snowed In",
+        "text": "Anya, Theo, and Bashir were at Grandma’s cabin in the mountains. The sky turned gray, and the weather grew **stormy**. Snow fell all day and all night. In the morning, a tall **snowdrift** covered the front door. The children could not go outside."
+      },
+      {
+        "title": "A Cold Morning",
+        "text": "Bashir looked out the window. The glass was **frosty**, and a long **icicle** hung from the roof. The wind began to **howl** around the cabin. “Put on your **muffler** and your **woolly** socks,” said Grandma. Theo wrapped the warm scarf around his neck."
+      },
+      {
+        "title": "A Warm Corner",
+        "text": "Grandpa lit a fire in the **fireplace**. Smoke rose up the **chimney**. The children sat on the rug by the **hearth**, where the stones were warm. Grandma made hot **cocoa** with a pinch of cinnamon. The cabin was **sheltered** by tall pine trees, so they felt safe and cozy."
+      },
+      {
+        "title": "Cozy Night",
+        "text": "That night, the storm finally stopped. The children played a board game and told funny stories. They did not mind being stuck inside. Staying together by the fire was the best part of the whole trip."
+      }
+    ],
+    "wordCount": 171
+  },
+  "definitions": [
+    {
+      "word": "fireplace",
+      "partOfSpeech": "noun",
+      "meaning1": "A place in a wall or floor where a fire can burn safely. Example: We sat near the fireplace to stay warm.",
+      "meaning2": "",
+      "studentChallenge": "Dad put a log in the ___ to keep the room warm.",
+      "sentence": ""
+    },
+    {
+      "word": "cocoa",
+      "partOfSpeech": "noun",
+      "meaning1": "A warm chocolate drink. Example: I drank hot cocoa after we played in the snow.",
+      "meaning2": "",
+      "studentChallenge": "She stirred her hot ___ with a spoon.",
+      "sentence": ""
+    },
+    {
+      "word": "frosty",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very cold, or covered with a thin layer of ice. Example: The frosty window looked like white lace.",
+      "meaning2": "",
+      "studentChallenge": "We could see our breath on the ___ morning.",
+      "sentence": ""
+    },
+    {
+      "word": "chimney",
+      "partOfSpeech": "noun",
+      "meaning1": "A tall pipe that carries smoke out of a house. Example: Smoke curled out of the chimney.",
+      "meaning2": "",
+      "studentChallenge": "Gray smoke floated out of the ___ on the roof.",
+      "sentence": ""
+    },
+    {
+      "word": "icicle",
+      "partOfSpeech": "noun",
+      "meaning1": "A long, pointed piece of ice hanging down. Example: An icicle hung from the edge of the roof.",
+      "meaning2": "",
+      "studentChallenge": "The sun made the ___ drip, drip, drip.",
+      "sentence": ""
+    },
+    {
+      "word": "stormy",
+      "partOfSpeech": "adjective",
+      "meaning1": "With strong wind, rain, or snow. Example: We stayed inside on the stormy night.",
+      "meaning2": "",
+      "studentChallenge": "The ___ weather kept us in the house all day.",
+      "sentence": ""
+    },
+    {
+      "word": "muffler",
+      "partOfSpeech": "noun",
+      "meaning1": "A warm scarf worn around the neck. Example: I wrapped my muffler twice around my neck.",
+      "meaning2": "",
+      "studentChallenge": "She wore a long, soft ___ to keep her neck warm.",
+      "sentence": ""
+    },
+    {
+      "word": "hearth",
+      "partOfSpeech": "noun",
+      "meaning1": "The stone floor in front of a fireplace. Example: The cat slept on the warm hearth.",
+      "meaning2": "",
+      "studentChallenge": "We toasted our toes on the stone ___.",
+      "sentence": ""
+    },
+    {
+      "word": "sheltered",
+      "partOfSpeech": "adjective",
+      "meaning1": "Protected from wind, rain, or danger. Example: The sheltered garden stayed warm all winter.",
+      "meaning2": "",
+      "studentChallenge": "The boat was ___ from the wind inside the bay.",
+      "sentence": ""
+    },
+    {
+      "word": "howl",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To make a long, loud, sad sound. Example: The wolf will howl at the moon.",
+      "meaning2": "A long, loud cry or sound. Example: We heard the howl of the wind.",
+      "studentChallenge": "The wind began to ___ outside our window.",
+      "sentence": ""
+    },
+    {
+      "word": "woolly",
+      "partOfSpeech": "adjective",
+      "meaning1": "Made of wool, or soft and fluffy like wool. Example: The woolly sheep had thick, soft fur.",
+      "meaning2": "",
+      "studentChallenge": "I wore my ___ hat to keep my ears warm.",
+      "sentence": ""
+    },
+    {
+      "word": "snowdrift",
+      "partOfSpeech": "noun",
+      "meaning1": "A deep pile of snow blown together by the wind. Example: The snowdrift was taller than the dog.",
+      "meaning2": "",
+      "studentChallenge": "The wind pushed the snow into a big ___ by the fence.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "We sat near the _______ to stay warm and watch the flames.",
+      "sentence2": "Dad put a log in the _______ to keep the room cozy.",
+      "options": [
+        "chimney",
+        "fireplace",
+        "icicle",
+        "muffler"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "fireplace"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "She stirred her hot _______ with a spoon.",
+      "sentence2": "After sledding, I drank warm _______ with tiny marshmallows.",
+      "options": [
+        "muffler",
+        "hearth",
+        "cocoa",
+        "snowdrift"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "cocoa"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "We could see our breath on the _______ morning.",
+      "sentence2": "The _______ window looked like white lace.",
+      "options": [
+        "woolly",
+        "sheltered",
+        "hearth",
+        "frosty"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "frosty"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Gray smoke floated out of the _______ on the roof.",
+      "sentence2": "A bird built a nest on top of the tall _______.",
+      "options": [
+        "chimney",
+        "fireplace",
+        "icicle",
+        "muffler"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "chimney"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "A long _______ hung from the edge of the roof.",
+      "sentence2": "The sun made the pointed _______ drip, drip, drip.",
+      "options": [
+        "snowdrift",
+        "icicle",
+        "muffler",
+        "chimney"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "icicle"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The _______ sky was full of dark clouds and flashing lightning.",
+      "sentence2": "We stayed home on the _______ night while the wind shook the trees.",
+      "options": [
+        "frosty",
+        "woolly",
+        "stormy",
+        "sheltered"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "stormy"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "She wore a long, soft _______ around her neck.",
+      "sentence2": "I wrapped my _______ twice around my neck before going out.",
+      "options": [
+        "chimney",
+        "cocoa",
+        "icicle",
+        "muffler"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "muffler"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The cat curled up on the warm stone _______ in front of the fire.",
+      "sentence2": "We toasted our toes on the _______ after coming in from the snow.",
+      "options": [
+        "hearth",
+        "chimney",
+        "icicle",
+        "snowdrift"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "hearth"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The boat was _______ from the wind inside the bay.",
+      "sentence2": "The _______ garden stayed warm all winter.",
+      "options": [
+        "frosty",
+        "sheltered",
+        "stormy",
+        "woolly"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "sheltered"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The wind began to _______ around the cabin.",
+      "sentence2": "The wolf will _______ at the moon.",
+      "options": [
+        "cocoa",
+        "hearth",
+        "howl",
+        "icicle"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "howl"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The _______ sheep had thick, soft fur.",
+      "sentence2": "I wore my _______ hat to keep my ears warm.",
+      "options": [
+        "frosty",
+        "stormy",
+        "sheltered",
+        "woolly"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "woolly"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The wind pushed the snow into a big _______ by the fence.",
+      "sentence2": "The _______ was taller than our dog.",
+      "options": [
+        "snowdrift",
+        "cocoa",
+        "muffler",
+        "hearth"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "snowdrift"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "fireplace",
+      "cocoa",
+      "frosty",
+      "chimney",
+      "icicle",
+      "stormy",
+      "muffler",
+      "hearth",
+      "sheltered",
+      "howl",
+      "woolly",
+      "snowdrift"
+    ],
+    "passage": "Last winter, a big snowstorm hit our town. The weather was _(1)_, and the wind began to _(2)_ outside. By morning, a deep _(3)_ blocked our back door.\nMy brother and I put on our _(4)_ socks and wrapped a long _(5)_ around our necks. The window was _(6)_, and a sharp _(7)_ hung from the roof. Our house was _(8)_ by big trees, so it was not too cold inside.\nDad lit a fire in the _(9)_, and smoke rose up the _(10)_. We sat on the stone _(11)_ to warm our hands. Mom handed each of us a cup of hot _(12)_.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "stormy",
+        "options": [
+          "stormy",
+          "fireplace",
+          "icicle",
+          "howl"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "howl",
+        "options": [
+          "frosty",
+          "stormy",
+          "sheltered",
+          "howl"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "snowdrift",
+        "options": [
+          "fireplace",
+          "icicle",
+          "snowdrift",
+          "howl"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "woolly",
+        "options": [
+          "howl",
+          "woolly",
+          "stormy",
+          "cocoa"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "muffler",
+        "options": [
+          "muffler",
+          "hearth",
+          "frosty",
+          "woolly"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "frosty",
+        "options": [
+          "woolly",
+          "chimney",
+          "hearth",
+          "frosty"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "icicle",
+        "options": [
+          "stormy",
+          "fireplace",
+          "icicle",
+          "muffler"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "sheltered",
+        "options": [
+          "icicle",
+          "sheltered",
+          "howl",
+          "stormy"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "fireplace",
+        "options": [
+          "fireplace",
+          "icicle",
+          "muffler",
+          "cocoa"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "chimney",
+        "options": [
+          "muffler",
+          "snowdrift",
+          "sheltered",
+          "chimney"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "hearth",
+        "options": [
+          "howl",
+          "stormy",
+          "hearth",
+          "snowdrift"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "cocoa",
+        "options": [
+          "frosty",
+          "cocoa",
+          "woolly",
+          "icicle"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "stormy",
+        "scale": [
+          "Breezy",
+          "Windy",
+          "Stormy"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "frosty",
+        "scale": [
+          "Cool",
+          "Chilly",
+          "Frosty"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "howl",
+        "scale": [
+          "Whisper",
+          "Whistle",
+          "Howl"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "sheltered",
+        "scale": [
+          "Exposed",
+          "Sheltered",
+          "Snug"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "frosty",
+        "words": [
+          "Icy",
+          "Toasty",
+          "Chilly",
+          "Freezing"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Toasty"
+      },
+      {
+        "vocabWord": "stormy",
+        "words": [
+          "Calm",
+          "Windy",
+          "Rainy",
+          "Wild"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Calm"
+      },
+      {
+        "vocabWord": "howl",
+        "words": [
+          "Wail",
+          "Roar",
+          "Cry",
+          "Whisper"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Whisper"
+      },
+      {
+        "vocabWord": "woolly",
+        "words": [
+          "Fuzzy",
+          "Fluffy",
+          "Bald",
+          "Soft"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Bald"
+      },
+      {
+        "vocabWord": "sheltered",
+        "words": [
+          "Protected",
+          "Exposed",
+          "Safe",
+          "Covered"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Exposed"
+      },
+      {
+        "vocabWord": "snowdrift",
+        "words": [
+          "Hole",
+          "Heap",
+          "Mound",
+          "Pile"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Hole"
+      },
+      {
+        "vocabWord": "icicle",
+        "words": [
+          "Frozen",
+          "Pointed",
+          "Chilly",
+          "Melted"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Melted"
+      },
+      {
+        "vocabWord": "cocoa",
+        "words": [
+          "Warm",
+          "Cozy",
+          "Icy",
+          "Toasty"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Icy"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

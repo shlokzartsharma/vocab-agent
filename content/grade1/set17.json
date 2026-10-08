@@ -1,0 +1,578 @@
+{
+  "grade": 1,
+  "setNumber": 17,
+  "words": [
+    "dainty",
+    "puzzle",
+    "magical",
+    "marble",
+    "rickety",
+    "chime",
+    "rattle",
+    "whir",
+    "swap",
+    "plush",
+    "jingle",
+    "tattered"
+  ],
+  "sources": [
+    "Common Core Grade 1",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "toy shop",
+  "story": {
+    "genre": "toy shop",
+    "characters": [
+      "Bo",
+      "Amara",
+      "Felix"
+    ],
+    "parts": [
+      {
+        "title": "The Little Shop",
+        "text": "Bo, Amara, and Felix stepped into a toy shop. A bell began to **jingle** over the door. The shop smelled like wood and paint. “This place feels **magical**,” said Amara."
+      },
+      {
+        "title": "Treasures",
+        "text": "Bo found a **plush** bear with soft, fuzzy fur. Amara picked up a **dainty** doll in a tiny lace dress. Felix held a glass **marble**, round and shiny. A **rickety** shelf began to shake. On the wall, a clock began to **chime**."
+      },
+      {
+        "title": "Busy Toys",
+        "text": "On the table, a wind-up robot began to **whir**. Its parts would **rattle** as it walked. Felix wanted a **puzzle** with a hundred pieces. But the box was **tattered**. “Let’s **swap** it for a new one,” said the shopkeeper."
+      },
+      {
+        "title": "A Happy Trip",
+        "text": "The friends left with a bear, a doll, and a game. They waved goodbye to the shop. It was a special day."
+      }
+    ],
+    "wordCount": 133
+  },
+  "definitions": [
+    {
+      "word": "dainty",
+      "partOfSpeech": "adjective",
+      "meaning1": "Small, pretty, and delicate. Example: She wore a dainty ring.",
+      "meaning2": "",
+      "studentChallenge": "The ___ teacup was small and had tiny flowers.",
+      "sentence": ""
+    },
+    {
+      "word": "puzzle",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A game with pieces you put together. Example: We finished the puzzle on the table.",
+      "meaning2": "To make someone think hard because it is hard to understand. Example: The riddle may puzzle me.",
+      "studentChallenge": "We put the last piece in the ___ and smiled.",
+      "sentence": ""
+    },
+    {
+      "word": "magical",
+      "partOfSpeech": "adjective",
+      "meaning1": "Full of wonder, as if made by magic. Example: The garden looked magical in the moonlight.",
+      "meaning2": "",
+      "studentChallenge": "The wizard in the story had a ___ wand.",
+      "sentence": ""
+    },
+    {
+      "word": "marble",
+      "partOfSpeech": "noun",
+      "meaning1": "A small, round glass ball for playing games. Example: I rolled a blue marble across the floor.",
+      "meaning2": "A hard, smooth stone used for statues. Example: The statue is made of white marble.",
+      "studentChallenge": "She won the game and kept the blue ___.",
+      "sentence": ""
+    },
+    {
+      "word": "rickety",
+      "partOfSpeech": "adjective",
+      "meaning1": "Old and shaky, and ready to fall apart. Example: The rickety bridge shook when we walked.",
+      "meaning2": "",
+      "studentChallenge": "The ___ chair wobbled when I sat on it.",
+      "sentence": ""
+    },
+    {
+      "word": "chime",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "The ringing sound of a bell. Example: We heard the chime of the clock.",
+      "meaning2": "To make a bell ring. Example: The clock will chime at noon.",
+      "studentChallenge": "The clock will ___ at three o’clock.",
+      "sentence": ""
+    },
+    {
+      "word": "rattle",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To make quick, knocking sounds. Example: The toys rattle in the box.",
+      "meaning2": "A baby toy that makes noise when shaken. Example: The baby shook the rattle.",
+      "studentChallenge": "The coins will ___ in my pocket.",
+      "sentence": ""
+    },
+    {
+      "word": "whir",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To make a soft, steady buzzing sound. Example: The fan will whir all night.",
+      "meaning2": "A buzzing sound. Example: I heard the whir of the machine.",
+      "studentChallenge": "The little fan began to ___ when I turned it on.",
+      "sentence": ""
+    },
+    {
+      "word": "swap",
+      "partOfSpeech": "verb",
+      "meaning1": "To trade one thing for another. Example: Let’s swap snacks at lunch.",
+      "meaning2": "",
+      "studentChallenge": "Can we ___ seats so I can see the board?",
+      "sentence": ""
+    },
+    {
+      "word": "plush",
+      "partOfSpeech": "adjective",
+      "meaning1": "Soft and fuzzy. Example: I hug my plush bunny at night.",
+      "meaning2": "",
+      "studentChallenge": "The ___ blanket felt soft and warm.",
+      "sentence": ""
+    },
+    {
+      "word": "jingle",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To make a light, ringing sound like small bells. Example: Keys jingle in my pocket.",
+      "meaning2": "A light ringing sound. Example: I heard the jingle of the bells.",
+      "studentChallenge": "The bells on the sled ___ as it moves.",
+      "sentence": ""
+    },
+    {
+      "word": "tattered",
+      "partOfSpeech": "adjective",
+      "meaning1": "Old, worn, and torn. Example: He wore a tattered coat.",
+      "meaning2": "",
+      "studentChallenge": "The old flag was ___ at the edges.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "She drank from a _______ cup with tiny flowers.",
+      "sentence2": "The fairy had _______ wings that were thin and light.",
+      "options": [
+        "swap",
+        "marble",
+        "dainty",
+        "whir"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "dainty"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "We put the last piece in the _______ and cheered.",
+      "sentence2": "The hard riddle may _______ me.",
+      "options": [
+        "puzzle",
+        "marble",
+        "magical",
+        "tattered"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "puzzle"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The garden looked _______ under the moon.",
+      "sentence2": "The wizard waved a _______ wand.",
+      "options": [
+        "swap",
+        "whir",
+        "chime",
+        "magical"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "magical"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "I rolled a blue _______ across the floor.",
+      "sentence2": "The statue was carved from white _______.",
+      "options": [
+        "dainty",
+        "marble",
+        "rickety",
+        "swap"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "marble"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The _______ bridge shook when we walked on it.",
+      "sentence2": "Do not sit on that _______ old chair.",
+      "options": [
+        "swap",
+        "whir",
+        "rickety",
+        "puzzle"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "rickety"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "We heard the _______ of the school bell.",
+      "sentence2": "The clock will _______ at noon.",
+      "options": [
+        "chime",
+        "dainty",
+        "plush",
+        "tattered"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "chime"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The coins _______ in my pocket.",
+      "sentence2": "The baby shook the _______ and smiled.",
+      "options": [
+        "dainty",
+        "magical",
+        "swap",
+        "rattle"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "rattle"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The little fan began to _______ when I turned it on.",
+      "sentence2": "I heard the _______ of the machine.",
+      "options": [
+        "tattered",
+        "whir",
+        "plush",
+        "magical"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "whir"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Can we _______ seats so I can see better?",
+      "sentence2": "Let’s _______ snacks at lunch.",
+      "options": [
+        "plush",
+        "marble",
+        "swap",
+        "tattered"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "swap"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "I hug my _______ bunny at night.",
+      "sentence2": "The _______ blanket felt soft and warm.",
+      "options": [
+        "plush",
+        "rickety",
+        "swap",
+        "chime"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "plush"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The keys _______ in my pocket.",
+      "sentence2": "I heard the _______ of the sleigh bells.",
+      "options": [
+        "rickety",
+        "magical",
+        "tattered",
+        "jingle"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "jingle"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The old flag was _______ at the edges.",
+      "sentence2": "His coat was _______, with holes in the sleeves.",
+      "options": [
+        "magical",
+        "tattered",
+        "swap",
+        "marble"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "tattered"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "dainty",
+      "puzzle",
+      "magical",
+      "marble",
+      "rickety",
+      "chime",
+      "rattle",
+      "whir",
+      "swap",
+      "plush",
+      "jingle",
+      "tattered"
+    ],
+    "passage": "In the attic, Bo found a _(1)_ old box with a torn lid. He climbed a _(2)_ ladder to reach it. Inside was a _(3)_ lion with a soft mane. Something else began to _(4)_ in the box. It was a glass _(5)_ with a blue swirl.\n\nUnder it lay a _(6)_ music box with tiny roses. When Bo opened it, a gentle _(7)_ floated out. Little bells on the lid began to _(8)_. Bo thought the whole attic felt _(9)_.\n\nThe tiny dancer inside spun with a soft _(10)_. At the bottom was a wooden _(11)_ with fifty pieces. His sister Amara asked to _(12)_ her old doll for the lion. Bo laughed and said no.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "tattered",
+        "options": [
+          "tattered",
+          "marble",
+          "whir",
+          "swap"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "rickety",
+        "options": [
+          "swap",
+          "chime",
+          "puzzle",
+          "rickety"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "plush",
+        "options": [
+          "whir",
+          "plush",
+          "swap",
+          "rattle"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "rattle",
+        "options": [
+          "dainty",
+          "plush",
+          "rattle",
+          "marble"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "marble",
+        "options": [
+          "marble",
+          "swap",
+          "whir",
+          "tattered"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "dainty",
+        "options": [
+          "swap",
+          "whir",
+          "rattle",
+          "dainty"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "chime",
+        "options": [
+          "dainty",
+          "chime",
+          "tattered",
+          "swap"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "jingle",
+        "options": [
+          "dainty",
+          "tattered",
+          "jingle",
+          "magical"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "magical",
+        "options": [
+          "magical",
+          "swap",
+          "whir",
+          "marble"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "whir",
+        "options": [
+          "tattered",
+          "swap",
+          "rickety",
+          "whir"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "puzzle",
+        "options": [
+          "rickety",
+          "puzzle",
+          "plush",
+          "tattered"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "swap",
+        "options": [
+          "plush",
+          "tattered",
+          "swap",
+          "marble"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "tattered",
+        "scale": [
+          "Worn",
+          "Tattered",
+          "Ruined"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "plush",
+        "scale": [
+          "Smooth",
+          "Soft",
+          "Plush"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "rattle",
+        "scale": [
+          "Tap",
+          "Rattle",
+          "Crash"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "magical",
+        "scale": [
+          "Ordinary",
+          "Special",
+          "Magical"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "dainty",
+        "words": [
+          "Delicate",
+          "Fine",
+          "Petite",
+          "Clumsy"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Clumsy"
+      },
+      {
+        "vocabWord": "magical",
+        "words": [
+          "Wondrous",
+          "Enchanted",
+          "Marvelous",
+          "Boring"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Boring"
+      },
+      {
+        "vocabWord": "rickety",
+        "words": [
+          "Sturdy",
+          "Shaky",
+          "Wobbly",
+          "Creaky"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Sturdy"
+      },
+      {
+        "vocabWord": "swap",
+        "words": [
+          "Trade",
+          "Switch",
+          "Exchange",
+          "Keep"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Keep"
+      },
+      {
+        "vocabWord": "plush",
+        "words": [
+          "Soft",
+          "Fluffy",
+          "Scratchy",
+          "Fuzzy"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Scratchy"
+      },
+      {
+        "vocabWord": "tattered",
+        "words": [
+          "Torn",
+          "Worn",
+          "Ragged",
+          "Brand new"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Brand new"
+      },
+      {
+        "vocabWord": "whir",
+        "words": [
+          "Hum",
+          "Silence",
+          "Buzz",
+          "Purr"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Silence"
+      },
+      {
+        "vocabWord": "jingle",
+        "words": [
+          "Tinkle",
+          "Ring",
+          "Clink",
+          "Hush"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Hush"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

@@ -1,0 +1,578 @@
+{
+  "grade": 7,
+  "setNumber": 20,
+  "words": [
+    "patent",
+    "breakthrough",
+    "flaw",
+    "ingenuity",
+    "mechanical",
+    "modify",
+    "troubleshoot",
+    "setback",
+    "persistence",
+    "streamline",
+    "schematic",
+    "assemble"
+  ],
+  "sources": [
+    "Common Core Grade 7",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "inventor's workshop",
+  "story": {
+    "genre": "inventor's workshop",
+    "characters": [
+      "Ayesha",
+      "Gustav",
+      "Mei"
+    ],
+    "parts": [
+      {
+        "title": "The Plan",
+        "text": "Ayesha unrolled a **schematic** across the workbench, a detailed diagram of the pedal-powered water pump she hoped would save the community garden. Gustav, who loved anything **mechanical**, traced the gears with his finger. Mei admired the **ingenuity** of using an old bicycle chain to drive the pump. \"It will take all weekend to **assemble**,\" Ayesha said, tying back her hair."
+      },
+      {
+        "title": "When Things Break",
+        "text": "The first test was a disaster. Water sprayed everywhere except into the bucket. Mei discovered a **flaw** in one pipe joint, and the group had to **troubleshoot** every connection, checking one after another. The leak was a big **setback**, and Gustav groaned that the garden would be brown by the time they finished. \"Then let's **modify** the joint with a rubber seal,\" Mei suggested, digging through the toolbox."
+      },
+      {
+        "title": "The Spark",
+        "text": "It took three weeks of **persistence**, and many ruined seals, before the pump finally pushed a steady stream into the bucket. It was a true **breakthrough**, and the three of them shouted so loudly that a neighbor knocked on the door. Ayesha also decided to **streamline** the design by removing two gears they did not need. The neighbor, a retired engineer, told them to file for a **patent**, the legal paper that protects an inventor's idea from being copied."
+      },
+      {
+        "title": "The First Drawing",
+        "text": "That evening the pump watered the garden for the first time. Ayesha realized that inventing is mostly fixing, again and again, until something finally works. Gustav pinned the first drawing on the wall, not because it was perfect, but because it showed where the journey began."
+      }
+    ],
+    "wordCount": 253
+  },
+  "definitions": [
+    {
+      "word": "patent",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A legal document that gives an inventor the sole right to make and sell an invention for a set time. Example: The inventor filed for a patent so that no one could copy her design.",
+      "meaning2": "To get this legal right for an invention. Example: She patented her design before showing it to investors.",
+      "studentChallenge": "Without a ___, another company could sell your idea and keep the profit.",
+      "sentence": ""
+    },
+    {
+      "word": "breakthrough",
+      "partOfSpeech": "noun",
+      "meaning1": "An important discovery or achievement that solves a long-standing problem. Example: After years of testing, doctors celebrated a breakthrough in treating the disease.",
+      "meaning2": "",
+      "studentChallenge": "The team's big ___ came when they found a metal that was both light and strong.",
+      "sentence": ""
+    },
+    {
+      "word": "flaw",
+      "partOfSpeech": "noun",
+      "meaning1": "A mistake, weakness or imperfection that spoils something. Example: A tiny flaw in the glass caused the vase to crack.",
+      "meaning2": "",
+      "studentChallenge": "The engineer found a hidden ___ in the bridge design before it was built.",
+      "sentence": ""
+    },
+    {
+      "word": "ingenuity",
+      "partOfSpeech": "noun",
+      "meaning1": "Cleverness and creativity in solving problems or making things. Example: With great ingenuity, the campers built a stove out of an old coffee can.",
+      "meaning2": "",
+      "studentChallenge": "It takes real ___ to turn scrap metal into a working radio.",
+      "sentence": ""
+    },
+    {
+      "word": "mechanical",
+      "partOfSpeech": "adjective",
+      "meaning1": "Having to do with machines or their moving parts. Example: The old clock is purely mechanical, run by springs and gears instead of batteries.",
+      "meaning2": "Done without thought or feeling, like a machine. Example: Her smile looked mechanical, as if she had practiced it in the mirror.",
+      "studentChallenge": "The toy robot had a ___ arm that lifted and lowered with a click.",
+      "sentence": ""
+    },
+    {
+      "word": "modify",
+      "partOfSpeech": "verb",
+      "meaning1": "To change something slightly in order to improve it or make it fit. Example: Engineers will modify the wing design to make the plane quieter.",
+      "meaning2": "",
+      "studentChallenge": "You may need to ___ the recipe if you are out of eggs.",
+      "sentence": ""
+    },
+    {
+      "word": "troubleshoot",
+      "partOfSpeech": "verb",
+      "meaning1": "To search step by step for the cause of a problem and fix it. Example: When the computer froze, Dad began to troubleshoot the problem one step at a time.",
+      "meaning2": "",
+      "studentChallenge": "Technicians had to ___ the machine for hours before they found the loose wire.",
+      "sentence": ""
+    },
+    {
+      "word": "setback",
+      "partOfSpeech": "noun",
+      "meaning1": "A problem that delays or reverses progress. Example: Losing the battery was a serious setback, but the team kept working.",
+      "meaning2": "",
+      "studentChallenge": "A week of rain was a major ___ for the building project.",
+      "sentence": ""
+    },
+    {
+      "word": "persistence",
+      "partOfSpeech": "noun",
+      "meaning1": "The quality of continuing to try, even when something is difficult or you have failed. Example: Through sheer persistence, the climber reached the summit on her fourth attempt.",
+      "meaning2": "",
+      "studentChallenge": "Her ___ paid off when she finally solved the puzzle after months of trying.",
+      "sentence": ""
+    },
+    {
+      "word": "streamline",
+      "partOfSpeech": "verb",
+      "meaning1": "To make a process or design simpler and more efficient. Example: The company decided to streamline its paperwork so orders could be filled faster.",
+      "meaning2": "To give something a smooth shape that moves easily through air or water. Example: Designers streamlined the train's nose to reduce wind drag.",
+      "studentChallenge": "The cafeteria hoped to ___ its lunch line so that students waited less.",
+      "sentence": ""
+    },
+    {
+      "word": "schematic",
+      "partOfSpeech": "noun, adjective",
+      "meaning1": "A diagram that shows how the parts of a system are connected. Example: Mei studied the schematic to see how each wire connected to the battery.",
+      "meaning2": "",
+      "studentChallenge": "The electrician's ___ showed where every switch and outlet belonged.",
+      "sentence": ""
+    },
+    {
+      "word": "assemble",
+      "partOfSpeech": "verb",
+      "meaning1": "To put the parts of something together. Example: It took two hours to assemble the bookshelf from a box of flat boards.",
+      "meaning2": "To gather a group of people together. Example: The coach asked the players to assemble at the center of the field.",
+      "studentChallenge": "The kit has all the pieces you need to ___ a working model rocket.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The inventor filed for a _______ so no one could copy her design.",
+      "sentence2": "Without a _______, a company could sell your idea and keep all the profit.",
+      "options": [
+        "flaw",
+        "setback",
+        "patent",
+        "breakthrough"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "patent"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "After years of testing, doctors celebrated a _______ in treating the disease.",
+      "sentence2": "The team's big _______ came when they finally found a lightweight metal strong enough to use.",
+      "options": [
+        "breakthrough",
+        "setback",
+        "flaw",
+        "patent"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "breakthrough"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "A tiny _______ in the glass caused the vase to crack under pressure.",
+      "sentence2": "Her only _______ as a leader was that she tried to do everything herself.",
+      "options": [
+        "setback",
+        "schematic",
+        "patent",
+        "flaw"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "flaw"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "With great _______, the campers built a stove out of an old coffee can.",
+      "sentence2": "It takes real _______ to turn scrap metal into a working radio.",
+      "options": [
+        "flaw",
+        "ingenuity",
+        "schematic",
+        "setback"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "ingenuity"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The old clock is purely _______, run by springs and gears instead of batteries.",
+      "sentence2": "Her smile looked _______, as if she had practiced it in the mirror.",
+      "options": [
+        "assemble",
+        "modify",
+        "schematic",
+        "mechanical"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "mechanical"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Mei decided to _______ the recipe by using less sugar.",
+      "sentence2": "Engineers will _______ the wing design to make the plane quieter.",
+      "options": [
+        "patent",
+        "modify",
+        "flaw",
+        "mechanical"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "modify"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "When the computer froze, Dad began to _______ the problem one step at a time.",
+      "sentence2": "Technicians had to _______ the machine for hours before they found the loose wire.",
+      "options": [
+        "troubleshoot",
+        "modify",
+        "assemble",
+        "streamline"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "troubleshoot"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Losing the battery was a serious _______, but the team kept working.",
+      "sentence2": "A week of rain was a major _______ for the building project.",
+      "options": [
+        "breakthrough",
+        "patent",
+        "setback",
+        "ingenuity"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "setback"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Through sheer _______, the climber reached the summit after three failed tries.",
+      "sentence2": "Her _______ paid off when the judges finally approved her proposal after months of trying.",
+      "options": [
+        "patent",
+        "persistence",
+        "schematic",
+        "setback"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "persistence"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The company decided to _______ its paperwork so orders could be filled faster.",
+      "sentence2": "Designers will _______ the car's shape to cut down on wind resistance.",
+      "options": [
+        "patent",
+        "flaw",
+        "schematic",
+        "streamline"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "streamline"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Mei studied the _______ to see how each wire connected to the battery.",
+      "sentence2": "The electrician's _______ showed where every switch and outlet belonged.",
+      "options": [
+        "setback",
+        "ingenuity",
+        "schematic",
+        "persistence"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "schematic"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "It took two hours to _______ the bookshelf from a box of flat boards.",
+      "sentence2": "The coach asked the players to _______ at the center of the field.",
+      "options": [
+        "assemble",
+        "troubleshoot",
+        "modify",
+        "setback"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "assemble"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "patent",
+      "breakthrough",
+      "flaw",
+      "ingenuity",
+      "mechanical",
+      "modify",
+      "troubleshoot",
+      "setback",
+      "persistence",
+      "streamline",
+      "schematic",
+      "assemble"
+    ],
+    "passage": "Gustav's grandfather spent forty years in a cluttered workshop. He kept a drawer full of every _(1)_ he had ever drawn, each one showing how the parts of a machine linked together. He loved anything _(2)_, from pocket watches to steam engines, and he said true _(3)_ meant solving a problem with simple, clever tools.\n\nWhen a new design failed, he would _(4)_ the machine, checking every gear for a hidden _(5)_. Each _(6)_ taught him something, and he never quit; his _(7)_ was legendary. He would _(8)_ his plans, then _(9)_ the whole machine again, then _(10)_ it to remove the parts it did not need. At last came the _(11)_ he had dreamed of, a pump that ran without fuel, and he applied for a _(12)_ to protect it.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "schematic",
+        "options": [
+          "patent",
+          "flaw",
+          "setback",
+          "schematic"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "mechanical",
+        "options": [
+          "mechanical",
+          "schematic",
+          "patent",
+          "flaw"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "ingenuity",
+        "options": [
+          "flaw",
+          "setback",
+          "ingenuity",
+          "schematic"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "troubleshoot",
+        "options": [
+          "setback",
+          "troubleshoot",
+          "patent",
+          "ingenuity"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "flaw",
+        "options": [
+          "assemble",
+          "flaw",
+          "modify",
+          "mechanical"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "setback",
+        "options": [
+          "breakthrough",
+          "schematic",
+          "ingenuity",
+          "setback"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "persistence",
+        "options": [
+          "persistence",
+          "flaw",
+          "patent",
+          "schematic"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "modify",
+        "options": [
+          "setback",
+          "persistence",
+          "modify",
+          "patent"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "assemble",
+        "options": [
+          "breakthrough",
+          "mechanical",
+          "ingenuity",
+          "assemble"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "streamline",
+        "options": [
+          "streamline",
+          "schematic",
+          "patent",
+          "flaw"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "breakthrough",
+        "options": [
+          "setback",
+          "breakthrough",
+          "flaw",
+          "modify"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "patent",
+        "options": [
+          "assemble",
+          "troubleshoot",
+          "patent",
+          "mechanical"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "breakthrough",
+        "scale": [
+          "Improvement",
+          "Advance",
+          "Breakthrough"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "setback",
+        "scale": [
+          "Delay",
+          "Setback",
+          "Disaster"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "modify",
+        "scale": [
+          "Adjust",
+          "Modify",
+          "Overhaul"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "persistence",
+        "scale": [
+          "Effort",
+          "Persistence",
+          "Obsession"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "flaw",
+        "words": [
+          "Defect",
+          "Fault",
+          "Imperfection",
+          "Perfection"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Perfection"
+      },
+      {
+        "vocabWord": "ingenuity",
+        "words": [
+          "Cleverness",
+          "Creativity",
+          "Dullness",
+          "Inventiveness"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Dullness"
+      },
+      {
+        "vocabWord": "breakthrough",
+        "words": [
+          "Discovery",
+          "Failure",
+          "Advance",
+          "Leap"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Failure"
+      },
+      {
+        "vocabWord": "setback",
+        "words": [
+          "Delay",
+          "Obstacle",
+          "Progress",
+          "Hurdle"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Progress"
+      },
+      {
+        "vocabWord": "persistence",
+        "words": [
+          "Perseverance",
+          "Determination",
+          "Giving up",
+          "Tenacity"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Giving up"
+      },
+      {
+        "vocabWord": "assemble",
+        "words": [
+          "Build",
+          "Construct",
+          "Dismantle",
+          "Put together"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Dismantle"
+      },
+      {
+        "vocabWord": "modify",
+        "words": [
+          "Alter",
+          "Adjust",
+          "Preserve",
+          "Revise"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Preserve"
+      },
+      {
+        "vocabWord": "streamline",
+        "words": [
+          "Simplify",
+          "Complicate",
+          "Tidy",
+          "Refine"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Complicate"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

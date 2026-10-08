@@ -1,0 +1,577 @@
+{
+  "grade": 6,
+  "setNumber": 17,
+  "words": [
+    "tornado",
+    "funnel",
+    "brace",
+    "havoc",
+    "unleash",
+    "thunderous",
+    "barometer",
+    "squall",
+    "deluge",
+    "meteorologist",
+    "torrential",
+    "onslaught"
+  ],
+  "sources": [
+    "Common Core Grade 6",
+    "Tier 2 Academic"
+  ],
+  "genre": "storm chasers",
+  "story": {
+    "genre": "storm chasers",
+    "characters": [
+      "Delphine",
+      "Owen",
+      "Priyanka"
+    ],
+    "parts": [
+      {
+        "title": "Dawn on the Plains",
+        "text": "Before sunrise, Delphine tapped the **barometer** in the van and frowned. The needle was sinking fast, a sure sign of trouble. Priyanka's aunt, a **meteorologist**, had invited the three friends to join her storm-spotting team for a day, and she had warned them that the plains could turn dangerous in minutes. By noon the sky had turned the color of a bruise, and a fierce **squall** slammed into the van, rocking it on its tires."
+      },
+      {
+        "title": "The Dark Cloud",
+        "text": "Owen spotted it first: a gray **funnel** dropping from the clouds like a finger pointing at the earth. \"Stay in the van,\" Priyanka's aunt radioed, steering them to a safe distance. When the cloud touched the ground, it became a **tornado**, and Owen watched it **unleash** its power on an empty field, tossing hay bales like toys. The **thunderous** roar rattled every window."
+      },
+      {
+        "title": "Taking Shelter",
+        "text": "The team raced to a farmer's storm cellar, and Priyanka told everyone to **brace** for impact. Above them, an **onslaught** of hail hammered the door, followed by **torrential** rain, a **deluge** that turned the dirt road into a creek. When it finally ended, they climbed out to see the **havoc** left behind: fallen fences, scattered roof tiles, and one very confused cow."
+      },
+      {
+        "title": "What They Learned",
+        "text": "Back home, Delphine wrote in her notebook that storm chasing was less about thrills and more about warning people. Their notes would help neighbors reach shelter sooner. Owen had learned to respect the power of nature, and all three friends promised to keep studying the sky."
+      }
+    ],
+    "wordCount": 246
+  },
+  "definitions": [
+    {
+      "word": "tornado",
+      "partOfSpeech": "noun",
+      "meaning1": "A violently spinning column of air that stretches from a storm cloud to the ground. Example: The tornado tore the roof off the old barn.",
+      "meaning2": "",
+      "studentChallenge": "Sirens warned the town that a ___ was heading toward the farms.",
+      "sentence": ""
+    },
+    {
+      "word": "funnel",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A cone-shaped object or shape that is wide at the top and narrow at the bottom. Example: He used a funnel to pour the oil into the narrow bottle.",
+      "meaning2": "To move or pour through a narrow space or path. Example: The crowd began to funnel through the single open gate.",
+      "studentChallenge": "The cook placed a ___ in the jar so the sauce would not spill.",
+      "sentence": ""
+    },
+    {
+      "word": "brace",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To get ready for something hard or unpleasant by steadying yourself. Example: Passengers gripped their seats to brace for the bumpy landing.",
+      "meaning2": "A support that holds something firmly in place. Example: She wore a brace on her wrist after the fall.",
+      "studentChallenge": "Skaters learn to ___ themselves before they hit the ice.",
+      "sentence": ""
+    },
+    {
+      "word": "havoc",
+      "partOfSpeech": "noun",
+      "meaning1": "Widespread destruction or great confusion. Example: The runaway puppy wreaked havoc in the kitchen, knocking over pots and flour.",
+      "meaning2": "",
+      "studentChallenge": "The flood caused ___ across the valley, closing roads and schools.",
+      "sentence": ""
+    },
+    {
+      "word": "unleash",
+      "partOfSpeech": "verb",
+      "meaning1": "To set free or let loose something powerful. Example: The broken dam began to unleash a wall of water.",
+      "meaning2": "",
+      "studentChallenge": "The coach told the team to ___ all their energy in the final minutes.",
+      "sentence": ""
+    },
+    {
+      "word": "thunderous",
+      "partOfSpeech": "adjective",
+      "meaning1": "Extremely loud, like thunder. Example: The thunderous applause shook the concert hall.",
+      "meaning2": "",
+      "studentChallenge": "The ___ roar of the waterfall could be heard a mile away.",
+      "sentence": ""
+    },
+    {
+      "word": "barometer",
+      "partOfSpeech": "noun",
+      "meaning1": "An instrument that measures air pressure to help predict the weather. Example: When the barometer dropped quickly, the sailor knew rain was near.",
+      "meaning2": "Something that shows changes in a situation. Example: Test scores can be a barometer of how well a new teaching method works.",
+      "studentChallenge": "The ___ on the wall showed that the air pressure was falling.",
+      "sentence": ""
+    },
+    {
+      "word": "squall",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A sudden, violent burst of wind, often with rain or snow. Example: A sudden squall tipped over the little sailboat.",
+      "meaning2": "To cry out loudly and harshly. Example: The baby began to squall when the lights went out.",
+      "studentChallenge": "A brief ___ rattled the windows and then passed.",
+      "sentence": ""
+    },
+    {
+      "word": "deluge",
+      "partOfSpeech": "noun",
+      "meaning1": "A heavy flood or downpour. Example: A sudden deluge filled the streets with water.",
+      "meaning2": "An overwhelming amount of things arriving all at once. Example: The new bakery received a deluge of phone calls on opening day.",
+      "studentChallenge": "After the dry summer, the ___ of rain made the creek overflow.",
+      "sentence": ""
+    },
+    {
+      "word": "meteorologist",
+      "partOfSpeech": "noun",
+      "meaning1": "A scientist who studies weather and makes forecasts. Example: The meteorologist predicted snow by Friday.",
+      "meaning2": "",
+      "studentChallenge": "A ___ studied satellite maps to track the hurricane's path.",
+      "sentence": ""
+    },
+    {
+      "word": "torrential",
+      "partOfSpeech": "adjective",
+      "meaning1": "Falling or flowing fast and heavily, especially rain. Example: Torrential rain washed out the bridge.",
+      "meaning2": "",
+      "studentChallenge": "The ___ downpour flooded the soccer field in minutes.",
+      "sentence": ""
+    },
+    {
+      "word": "onslaught",
+      "partOfSpeech": "noun",
+      "meaning1": "A fierce attack, or a heavy rush that does not stop. Example: The fort held out against the onslaught of the invading army.",
+      "meaning2": "",
+      "studentChallenge": "The goalie faced a nonstop ___ of shots in the second half.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Sirens warned the town to take shelter from the _______ spinning toward the farms.",
+      "sentence2": "The twisting _______ cut a narrow path through one field and left the neighboring farm untouched.",
+      "options": [
+        "squall",
+        "deluge",
+        "tornado",
+        "onslaught"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "tornado"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "He placed a _______ in the narrow bottle so the oil would not spill.",
+      "sentence2": "A dark _______ of cloud dropped from the sky and twisted above the field.",
+      "options": [
+        "funnel",
+        "tornado",
+        "barometer",
+        "deluge"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "funnel"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The pilot told the passengers to _______ themselves for a bumpy landing.",
+      "sentence2": "Workers used a long beam to _______ the sagging wall before it could fall.",
+      "options": [
+        "unleash",
+        "funnel",
+        "havoc",
+        "brace"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "brace"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The runaway puppy wreaked _______ in the kitchen, knocking over pots and flour.",
+      "sentence2": "The flood caused _______ across the valley, closing roads and schools for a week.",
+      "options": [
+        "onslaught",
+        "havoc",
+        "deluge",
+        "tornado"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "havoc"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The coach told the team to _______ all their energy in the last five minutes.",
+      "sentence2": "With one flip of the switch, the engineer would _______ the full power of the giant engine.",
+      "options": [
+        "brace",
+        "unleash",
+        "barometer",
+        "squall"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "unleash"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The drummer's _______ beat shook the floor and rattled the windows.",
+      "sentence2": "A _______ roar from the waterfall could be heard a mile away.",
+      "options": [
+        "torrential",
+        "squall",
+        "havoc",
+        "thunderous"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "thunderous"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The sailor tapped the _______ and saw that the air pressure was dropping fast.",
+      "sentence2": "Test scores can be a _______ of how well a new teaching method is working.",
+      "options": [
+        "barometer",
+        "meteorologist",
+        "funnel",
+        "tornado"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "barometer"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "A sudden _______ tipped over the little sailboat and vanished as quickly as it came.",
+      "sentence2": "A brief _______ rattled the tent, and ten minutes later the sky was clear again.",
+      "options": [
+        "barometer",
+        "meteorologist",
+        "squall",
+        "havoc"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "squall"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "A sudden _______ filled the streets with water in less than an hour.",
+      "sentence2": "The new bakery received a _______ of phone calls on opening day.",
+      "options": [
+        "tornado",
+        "barometer",
+        "meteorologist",
+        "deluge"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "deluge"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The _______ studied satellite maps to predict the hurricane's path.",
+      "sentence2": "Priya dreams of becoming a _______ so she can warn people before storms hit.",
+      "options": [
+        "barometer",
+        "meteorologist",
+        "tornado",
+        "deluge"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "meteorologist"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "_______ rain fell so hard and so fast that the streets were underwater in minutes.",
+      "sentence2": "The _______ downpour drenched every hiker on the trail within seconds.",
+      "options": [
+        "barometer",
+        "funnel",
+        "torrential",
+        "havoc"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "torrential"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The little fort could not survive the _______ of cannon fire.",
+      "sentence2": "The goalie faced a nonstop _______ of shots in the second half.",
+      "options": [
+        "onslaught",
+        "barometer",
+        "havoc",
+        "tornado"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "onslaught"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "tornado",
+      "funnel",
+      "brace",
+      "havoc",
+      "unleash",
+      "thunderous",
+      "barometer",
+      "squall",
+      "deluge",
+      "meteorologist",
+      "torrential",
+      "onslaught"
+    ],
+    "passage": "On a hot August afternoon, the town's _(1)_ visited Ms. Ortega's class to explain how forecasts work. She held up a _(2)_ and showed how a falling needle means the air pressure is dropping and a storm may be near.\n\nHer warning came true that very day. At four o'clock a sudden _(3)_ swept across the lake and rocked the boats tied to the dock. Dark clouds piled up, and a thin gray _(4)_ began to twist downward from them. Everyone hurried to the basement as the _(5)_ tore across the soccer fields. The _(6)_ roar of the wind shook the walls of the school, and teachers told the students to _(7)_ for the worst and cover their heads.\n\nFor ten minutes, a _(8)_ filled the gutters and streets with rushing water, and the _(9)_ downpour made the creek spill over its banks. The storm seemed to _(10)_ all its fury at once. The class survived the nonstop _(11)_ of hail that hammered every roof. When the sky cleared, the storm had left _(12)_ in its path: bent signs, broken fences, and branches scattered across the playground.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "meteorologist",
+        "options": [
+          "tornado",
+          "squall",
+          "havoc",
+          "meteorologist"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "barometer",
+        "options": [
+          "barometer",
+          "funnel",
+          "tornado",
+          "meteorologist"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "squall",
+        "options": [
+          "barometer",
+          "meteorologist",
+          "squall",
+          "havoc"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "funnel",
+        "options": [
+          "barometer",
+          "onslaught",
+          "havoc",
+          "funnel"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "tornado",
+        "options": [
+          "barometer",
+          "tornado",
+          "meteorologist",
+          "brace"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "thunderous",
+        "options": [
+          "torrential",
+          "funnel",
+          "thunderous",
+          "havoc"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "brace",
+        "options": [
+          "brace",
+          "unleash",
+          "funnel",
+          "squall"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "deluge",
+        "options": [
+          "tornado",
+          "barometer",
+          "deluge",
+          "meteorologist"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "torrential",
+        "options": [
+          "torrential",
+          "tornado",
+          "funnel",
+          "brace"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "unleash",
+        "options": [
+          "brace",
+          "funnel",
+          "havoc",
+          "unleash"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "onslaught",
+        "options": [
+          "barometer",
+          "onslaught",
+          "meteorologist",
+          "funnel"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "havoc",
+        "options": [
+          "brace",
+          "havoc",
+          "squall",
+          "barometer"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "squall",
+        "scale": [
+          "Breeze",
+          "Gust",
+          "Squall"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "torrential",
+        "scale": [
+          "Steady",
+          "Heavy",
+          "Torrential"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "thunderous",
+        "scale": [
+          "Noisy",
+          "Loud",
+          "Thunderous"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "havoc",
+        "scale": [
+          "Mess",
+          "Disorder",
+          "Havoc"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "tornado",
+        "words": [
+          "Twister",
+          "Whirlwind",
+          "Calm",
+          "Cyclone"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Calm"
+      },
+      {
+        "vocabWord": "brace",
+        "words": [
+          "Prepare",
+          "Relax",
+          "Steady",
+          "Ready"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Relax"
+      },
+      {
+        "vocabWord": "unleash",
+        "words": [
+          "Release",
+          "Restrain",
+          "Free",
+          "Launch"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Restrain"
+      },
+      {
+        "vocabWord": "deluge",
+        "words": [
+          "Flood",
+          "Downpour",
+          "Drought",
+          "Torrent"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Drought"
+      },
+      {
+        "vocabWord": "onslaught",
+        "words": [
+          "Assault",
+          "Attack",
+          "Retreat",
+          "Barrage"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Retreat"
+      },
+      {
+        "vocabWord": "havoc",
+        "words": [
+          "Chaos",
+          "Mayhem",
+          "Order",
+          "Ruin"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Order"
+      },
+      {
+        "vocabWord": "thunderous",
+        "words": [
+          "Booming",
+          "Deafening",
+          "Silent",
+          "Roaring"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Silent"
+      },
+      {
+        "vocabWord": "torrential",
+        "words": [
+          "Heavy",
+          "Pouring",
+          "Light",
+          "Drenching"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Light"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

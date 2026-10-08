@@ -1,0 +1,578 @@
+{
+  "grade": 8,
+  "setNumber": 16,
+  "words": [
+    "genetic",
+    "mutation",
+    "hereditary",
+    "organism",
+    "dominant",
+    "progeny",
+    "synthesize",
+    "recessive",
+    "allele",
+    "chromosome",
+    "heredity",
+    "susceptible"
+  ],
+  "sources": [
+    "Common Core Grade 8",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "genetics and medicine",
+  "story": {
+    "genre": "genetics and medicine",
+    "characters": [
+      "Rhea",
+      "Jonah",
+      "Takumi"
+    ],
+    "parts": [
+      {
+        "title": "A Photo and a Question",
+        "text": "Rhea's science fair project began with a family photograph. In every generation, someone had the same dimple and dark, curly hair. Her teacher suggested that she study **heredity**, the passing of traits from parents to children. \"Start with a simple **organism**,\" she advised, \"such as the fruit flies in our lab. They breed quickly, so you will see results in days.\" Jonah offered to count flies, and Takumi would photograph them."
+      },
+      {
+        "title": "Inside the Flies",
+        "text": "Under the microscope, the friends learned that each cell stores its instructions on a **chromosome**, a coiled strand of DNA. A gene can come in different versions, and each version is called an **allele**. A fly inherits one from each parent. When the two differ, the **dominant** one decides how the fly looks, while the **recessive** one stays hidden. That solved a puzzle: two red-eyed flies had produced white-eyed **progeny**, because each parent quietly carried the hidden version."
+      },
+      {
+        "title": "Medicine Joins In",
+        "text": "Takumi said the same rules matter in hospitals. Doctors trace a **hereditary** illness through a family tree to see who may carry it. Sometimes a **mutation**, a random change in DNA, appears for the first time in a child whose parents are healthy. A **genetic** test can show whether someone is **susceptible** to a condition, meaning more easily affected by it. Researchers even **synthesize** insulin with engineered bacteria, building the medicine instead of collecting it from animals."
+      },
+      {
+        "title": "The Results",
+        "text": "At the fair, their charts showed a pattern. About three of every four baby flies matched the stronger trait, just as the rules predicted. The judges asked tough questions, and the friends answered with data. Rhea left with a new view of her dimple: it was a small message passed down through generations. She also understood that genes are only part of the story, because choices write the rest."
+      }
+    ],
+    "wordCount": 295
+  },
+  "definitions": [
+    {
+      "word": "genetic",
+      "partOfSpeech": "adjective",
+      "meaning1": "Relating to genes, the units of DNA that carry traits from parents to children. Example: A genetic test showed which traits the puppy had inherited from its mother.",
+      "meaning2": "",
+      "studentChallenge": "A ___ test can reveal which traits a baby has inherited from its parents.",
+      "sentence": ""
+    },
+    {
+      "word": "mutation",
+      "partOfSpeech": "noun",
+      "meaning1": "A change in the DNA of a living thing. Example: A single mutation turned the flower's petals from red to white.",
+      "meaning2": "A sudden change or new version of something. Example: The old folk song went through a mutation as each generation added new lyrics.",
+      "studentChallenge": "A tiny ___ in the plant's DNA turned its red flowers white.",
+      "sentence": ""
+    },
+    {
+      "word": "hereditary",
+      "partOfSpeech": "adjective",
+      "meaning1": "Passed from parents to children through genes. Example: Her hereditary heart condition was caught early thanks to her family history.",
+      "meaning2": "Passed down from one generation to the next as a title or right. Example: In the old monarchy, the crown was hereditary and passed from parent to child.",
+      "studentChallenge": "Curly hair is a ___ trait that runs in her family.",
+      "sentence": ""
+    },
+    {
+      "word": "organism",
+      "partOfSpeech": "noun",
+      "meaning1": "Any living thing, such as a plant, an animal or a bacterium. Example: A one-celled organism drifted across the microscope slide.",
+      "meaning2": "A complex system whose parts depend on one another. Example: A school is a kind of organism, with every club and class relying on the others.",
+      "studentChallenge": "Even a one-celled ___ too small to see is a living thing.",
+      "sentence": ""
+    },
+    {
+      "word": "dominant",
+      "partOfSpeech": "adjective",
+      "meaning1": "In genetics, describing a trait that shows up even when the organism carries a different version of the gene. Example: Brown eyes are dominant over blue in many families.",
+      "meaning2": "Most powerful or most noticeable. Example: The dominant wolf led the pack across the frozen ridge.",
+      "studentChallenge": "Because the brown-eye allele is ___, one copy is enough to give a child brown eyes.",
+      "sentence": ""
+    },
+    {
+      "word": "progeny",
+      "partOfSpeech": "noun",
+      "meaning1": "The young or offspring of a person, animal or plant. Example: The oak dropped thousands of acorns, and its progeny soon covered the hillside.",
+      "meaning2": "",
+      "studentChallenge": "The breeder kept careful notes on the ___ of each pair of rabbits.",
+      "sentence": ""
+    },
+    {
+      "word": "synthesize",
+      "partOfSpeech": "verb",
+      "meaning1": "To combine simpler parts or substances to make something new. Example: Plants synthesize sugar from sunlight, water and carbon dioxide.",
+      "meaning2": "To blend ideas from several sources into one whole. Example: Her essay manages to synthesize three articles into a single clear argument.",
+      "studentChallenge": "Chemists can ___ new medicines by combining simple ingredients.",
+      "sentence": ""
+    },
+    {
+      "word": "recessive",
+      "partOfSpeech": "adjective",
+      "meaning1": "In genetics, describing a trait that appears only when an organism inherits the same version of the gene from both parents. Example: Blue eyes are recessive, so a child needs two copies of that version.",
+      "meaning2": "",
+      "studentChallenge": "A ___ trait stays hidden unless a child receives the same allele from both parents.",
+      "sentence": ""
+    },
+    {
+      "word": "allele",
+      "partOfSpeech": "noun",
+      "meaning1": "One of the different versions of a gene. Example: One allele for pea color makes seeds green, and another makes them yellow.",
+      "meaning2": "",
+      "studentChallenge": "Each parent passes on just one ___ for every gene.",
+      "sentence": ""
+    },
+    {
+      "word": "chromosome",
+      "partOfSpeech": "noun",
+      "meaning1": "A thread-like structure in a cell that carries genes. Example: Humans normally have twenty-three pairs of chromosomes in each cell.",
+      "meaning2": "",
+      "studentChallenge": "Under the microscope, each coiled ___ looked like a tiny knotted thread.",
+      "sentence": ""
+    },
+    {
+      "word": "heredity",
+      "partOfSpeech": "noun",
+      "meaning1": "The passing of traits from parents to their children through genes. Example: Heredity explains why siblings so often share the same smile.",
+      "meaning2": "",
+      "studentChallenge": "___ is the reason you might laugh just like your grandmother.",
+      "sentence": ""
+    },
+    {
+      "word": "susceptible",
+      "partOfSpeech": "adjective",
+      "meaning1": "Easily affected or harmed by something. Example: Young seedlings are susceptible to frost.",
+      "meaning2": "Easily influenced or moved. Example: Tired and hungry, he was susceptible to every sales pitch.",
+      "studentChallenge": "Without a coat, the seedlings were ___ to frost damage.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Doctors ordered a _______ test to learn which conditions ran in the family.",
+      "sentence2": "The _______ code inside every cell works like a long instruction manual.",
+      "options": [
+        "dominant",
+        "genetic",
+        "susceptible",
+        "recessive"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "genetic"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "A single _______ in one gene changed the color of the beetle's shell.",
+      "sentence2": "Scientists studied the _______ that had made the bacteria resistant to the drug.",
+      "options": [
+        "mutation",
+        "progeny",
+        "organism",
+        "heredity"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "mutation"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Her _______ condition appeared in her mother, her grandfather and two cousins.",
+      "sentence2": "In the old monarchy, the crown was _______ and passed from parent to child.",
+      "options": [
+        "genetic",
+        "recessive",
+        "susceptible",
+        "hereditary"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "hereditary"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "A single-celled _______ drifted across the microscope slide.",
+      "sentence2": "Every _______ in the pond, from algae to frogs, depends on clean water.",
+      "options": [
+        "allele",
+        "chromosome",
+        "organism",
+        "mutation"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "organism"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "In many families, brown eyes are _______ over blue, so one brown allele is enough.",
+      "sentence2": "The _______ wolf led the pack across the frozen ridge.",
+      "options": [
+        "recessive",
+        "dominant",
+        "susceptible",
+        "hereditary"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "dominant"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The oak dropped thousands of acorns, and its _______ soon covered the hillside.",
+      "sentence2": "The breeder kept careful records of each pair of rabbits and their _______.",
+      "options": [
+        "progeny",
+        "organism",
+        "heredity",
+        "allele"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "progeny"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Green plants _______ sugar from sunlight, water and carbon dioxide.",
+      "sentence2": "Her assignment was to _______ three articles into one clear argument.",
+      "options": [
+        "mutation",
+        "progeny",
+        "heredity",
+        "synthesize"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "synthesize"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "A _______ trait stays hidden unless a child receives the same allele from both parents.",
+      "sentence2": "Two brown-haired parents can have a red-haired child if each carries a _______ version for red hair.",
+      "options": [
+        "dominant",
+        "susceptible",
+        "recessive",
+        "organism"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "recessive"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "One _______ for pea color makes seeds green, and another makes them yellow.",
+      "sentence2": "Each parent passes down just one _______ for every gene.",
+      "options": [
+        "chromosome",
+        "allele",
+        "mutation",
+        "organism"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "allele"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Under the microscope, the coiled _______ looked like a tiny knotted thread.",
+      "sentence2": "Each human cell holds twenty-three pairs of the structure called a _______.",
+      "options": [
+        "chromosome",
+        "allele",
+        "organism",
+        "progeny"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "chromosome"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "_______ explains why siblings so often share the same smile.",
+      "sentence2": "Scientists once argued over whether environment or _______ matters more in shaping a person.",
+      "options": [
+        "progeny",
+        "chromosome",
+        "organism",
+        "heredity"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "heredity"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Young seedlings are especially _______ to frost.",
+      "sentence2": "A person with a certain gene may be more _______ to some illnesses.",
+      "options": [
+        "hereditary",
+        "dominant",
+        "susceptible",
+        "genetic"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "susceptible"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "genetic",
+      "mutation",
+      "hereditary",
+      "organism",
+      "dominant",
+      "progeny",
+      "synthesize",
+      "recessive",
+      "allele",
+      "chromosome",
+      "heredity",
+      "susceptible"
+    ],
+    "passage": "Jonah's older cousin works in a hospital laboratory, and she loves explaining her job. \"Every living _(1)_ begins with a set of instructions,\" she says, \"and those instructions are packed onto each _(2)_ inside the nucleus of a cell.\" Last month she studied a family with an eye disease that was clearly _(3)_, because it passed from parent to child and appeared in the grandmother, the mother and two cousins. Tests showed that a tiny _(4)_, a random change in DNA, had altered one gene long ago, and the change had been handed down ever since.\n\nBoth parents carried one hidden, _(5)_ copy of the gene, so neither had symptoms. Their _(6)_ included a young girl who received two copies and developed the disease. \"Each gene comes in versions,\" her cousin explained, \"and the name for each version is _(7)_. When a _(8)_ version is present, it overrules a quiet partner, but the quiet partner can still be passed on.\"\n\nThat is why _(9)_ is such a powerful topic: it shows how traits travel through families. People with certain genes are more _(10)_ to some illnesses, and a _(11)_ test can warn them early. Researchers can even _(12)_ some medicines in the lab, building them from simpler ingredients, to help the people who need them.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "organism",
+        "options": [
+          "progeny",
+          "allele",
+          "heredity",
+          "organism"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "chromosome",
+        "options": [
+          "allele",
+          "chromosome",
+          "heredity",
+          "mutation"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "hereditary",
+        "options": [
+          "hereditary",
+          "recessive",
+          "dominant",
+          "susceptible"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "mutation",
+        "options": [
+          "allele",
+          "mutation",
+          "chromosome",
+          "heredity"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "recessive",
+        "options": [
+          "dominant",
+          "susceptible",
+          "genetic",
+          "recessive"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "progeny",
+        "options": [
+          "mutation",
+          "progeny",
+          "organism",
+          "allele"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "allele",
+        "options": [
+          "organism",
+          "progeny",
+          "allele",
+          "chromosome"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "dominant",
+        "options": [
+          "genetic",
+          "hereditary",
+          "dominant",
+          "recessive"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "heredity",
+        "options": [
+          "heredity",
+          "mutation",
+          "organism",
+          "progeny"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "susceptible",
+        "options": [
+          "dominant",
+          "recessive",
+          "hereditary",
+          "susceptible"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "genetic",
+        "options": [
+          "dominant",
+          "recessive",
+          "genetic",
+          "susceptible"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "synthesize",
+        "options": [
+          "synthesize",
+          "recessive",
+          "allele",
+          "chromosome"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "susceptible",
+        "scale": [
+          "Exposed",
+          "Susceptible",
+          "Defenseless"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "mutation",
+        "scale": [
+          "Variation",
+          "Mutation",
+          "Transformation"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "dominant",
+        "scale": [
+          "Noticeable",
+          "Dominant",
+          "Overpowering"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "synthesize",
+        "scale": [
+          "Mix",
+          "Combine",
+          "Synthesize"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "genetic",
+        "words": [
+          "Inherited",
+          "Learned",
+          "Inborn",
+          "Innate"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Learned"
+      },
+      {
+        "vocabWord": "mutation",
+        "words": [
+          "Stability",
+          "Alteration",
+          "Variation",
+          "Shift"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Stability"
+      },
+      {
+        "vocabWord": "organism",
+        "words": [
+          "Creature",
+          "Being",
+          "Living thing",
+          "Mineral"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Mineral"
+      },
+      {
+        "vocabWord": "dominant",
+        "words": [
+          "Ruling",
+          "Controlling",
+          "Submissive",
+          "Leading"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Submissive"
+      },
+      {
+        "vocabWord": "progeny",
+        "words": [
+          "Offspring",
+          "Ancestors",
+          "Descendants",
+          "Young"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Ancestors"
+      },
+      {
+        "vocabWord": "recessive",
+        "words": [
+          "Obvious",
+          "Hidden",
+          "Masked",
+          "Latent"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Obvious"
+      },
+      {
+        "vocabWord": "synthesize",
+        "words": [
+          "Combine",
+          "Assemble",
+          "Construct",
+          "Dismantle"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Dismantle"
+      },
+      {
+        "vocabWord": "susceptible",
+        "words": [
+          "Vulnerable",
+          "Prone",
+          "Immune",
+          "Open"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Immune"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

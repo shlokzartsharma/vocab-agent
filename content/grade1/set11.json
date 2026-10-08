@@ -1,0 +1,578 @@
+{
+  "grade": 1,
+  "setNumber": 11,
+  "words": [
+    "hushed",
+    "enchanted",
+    "captivated",
+    "riddle",
+    "quest",
+    "marvelous",
+    "brave",
+    "bookworm",
+    "browse",
+    "nook",
+    "absorbed",
+    "tale"
+  ],
+  "sources": [
+    "Common Core Grade 1",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "library visit",
+  "story": {
+    "genre": "library visit",
+    "characters": [
+      "Hana",
+      "Dylan",
+      "Esi"
+    ],
+    "parts": [
+      {
+        "title": "Into the Library",
+        "text": "Hana, Dylan, and Esi walked into the library. It was **hushed**, so they used soft voices. Hana was a **bookworm** who read every day. “Let’s **browse** the shelves,” she whispered."
+      },
+      {
+        "title": "A Cozy Nook",
+        "text": "Esi found a **nook** with a round rug and a big pillow. She opened a book with **marvelous** pictures of the sea. They were so wonderful that she gasped. Dylan read a **riddle** out loud. “What has hands but cannot clap?” he asked. “A clock!” said Hana."
+      },
+      {
+        "title": "Story Time",
+        "text": "Then the librarian read a **tale** about a **brave** little mouse. The mouse went on a **quest** to find a lost key. The librarian’s squeaky mouse voice left the children **enchanted**, as if by magic. Esi was **captivated** and could not look away. Dylan was so **absorbed** that he forgot his snack."
+      },
+      {
+        "title": "Time to Go",
+        "text": "The story ended, and everyone clapped. Each child picked a book to take home. “We will come back soon,” said Hana."
+      }
+    ],
+    "wordCount": 150
+  },
+  "definitions": [
+    {
+      "word": "hushed",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very quiet. Example: The room was hushed when the baby fell asleep.",
+      "meaning2": "",
+      "studentChallenge": "The ___ room made everyone whisper.",
+      "sentence": ""
+    },
+    {
+      "word": "enchanted",
+      "partOfSpeech": "adjective",
+      "meaning1": "Filled with joy, as if by magic. Example: The girl felt enchanted by the fairy lights.",
+      "meaning2": "Under a magic spell. Example: The enchanted frog was really a prince.",
+      "studentChallenge": "The kids felt ___ by the magic show.",
+      "sentence": ""
+    },
+    {
+      "word": "captivated",
+      "partOfSpeech": "adjective, verb",
+      "meaning1": "Held your attention so well that you cannot look away. Example: The baby was captivated by the bright toy.",
+      "meaning2": "",
+      "studentChallenge": "I was ___ by the fireworks and could not look away.",
+      "sentence": ""
+    },
+    {
+      "word": "riddle",
+      "partOfSpeech": "noun",
+      "meaning1": "A puzzle in words that you try to guess. Example: I told a riddle, and my friends tried to guess it.",
+      "meaning2": "",
+      "studentChallenge": "Mia asked me a ___, and I tried to guess the answer.",
+      "sentence": ""
+    },
+    {
+      "word": "quest",
+      "partOfSpeech": "noun",
+      "meaning1": "A long trip to find something special. Example: The knight went on a quest to find a golden cup.",
+      "meaning2": "",
+      "studentChallenge": "The little pup went on a ___ to find his ball.",
+      "sentence": ""
+    },
+    {
+      "word": "marvelous",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very, very good; wonderful. Example: We had a marvelous day at the zoo.",
+      "meaning2": "",
+      "studentChallenge": "We saw a ___ rainbow after the rain.",
+      "sentence": ""
+    },
+    {
+      "word": "brave",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not afraid to do something hard or new. Example: The brave girl jumped into the deep pool.",
+      "meaning2": "",
+      "studentChallenge": "The ___ boy was not afraid to jump in the pool.",
+      "sentence": ""
+    },
+    {
+      "word": "bookworm",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who loves to read. Example: My sister is a bookworm and reads every night.",
+      "meaning2": "",
+      "studentChallenge": "My sister is a ___ and reads every night.",
+      "sentence": ""
+    },
+    {
+      "word": "browse",
+      "partOfSpeech": "verb",
+      "meaning1": "To look at things slowly, with no hurry. Example: We browse the shelves to find a book.",
+      "meaning2": "",
+      "studentChallenge": "I like to ___ the shelves before I pick a book.",
+      "sentence": ""
+    },
+    {
+      "word": "nook",
+      "partOfSpeech": "noun",
+      "meaning1": "A small, cozy corner. Example: I read in a nook by the window.",
+      "meaning2": "",
+      "studentChallenge": "The cat found a cozy ___ to nap in.",
+      "sentence": ""
+    },
+    {
+      "word": "absorbed",
+      "partOfSpeech": "adjective",
+      "meaning1": "So busy with something that you forget everything else. Example: Ben was absorbed in his puzzle and did not hear the bell.",
+      "meaning2": "",
+      "studentChallenge": "Mia was so ___ in her drawing that she forgot to eat.",
+      "sentence": ""
+    },
+    {
+      "word": "tale",
+      "partOfSpeech": "noun",
+      "meaning1": "A story. Example: Grandpa told a tale about a talking fox.",
+      "meaning2": "",
+      "studentChallenge": "Grandpa told a funny ___ about a fox.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The room grew _______ when the teacher began to read.",
+      "sentence2": "Everyone was _______ as the baby slept.",
+      "options": [
+        "riddle",
+        "hushed",
+        "quest",
+        "bookworm"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "hushed"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The _______ forest in the story had talking trees.",
+      "sentence2": "She felt _______ by the sparkling snow globe.",
+      "options": [
+        "enchanted",
+        "tale",
+        "quest",
+        "browse"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "enchanted"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The baby was _______ by the bright, spinning toy.",
+      "sentence2": "We watched, _______, as the magician pulled out a rabbit.",
+      "options": [
+        "brave",
+        "marvelous",
+        "nook",
+        "captivated"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "captivated"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "I asked my mom a funny _______, and she tried to guess the answer.",
+      "sentence2": "Can you solve this _______ about the moon?",
+      "options": [
+        "nook",
+        "quest",
+        "riddle",
+        "bookworm"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "riddle"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The children set off on a _______ to find the hidden treasure.",
+      "sentence2": "In the story, a fox goes on a _______ to find a lost star.",
+      "options": [
+        "nook",
+        "quest",
+        "bookworm",
+        "riddle"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "quest"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The magic show was _______, and we clapped loudly.",
+      "sentence2": "She baked a _______ cake with pink icing.",
+      "options": [
+        "marvelous",
+        "brave",
+        "nook",
+        "riddle"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "marvelous"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The _______ little mouse was not afraid of the big cat.",
+      "sentence2": "The _______ firefighter climbed the tall ladder.",
+      "options": [
+        "nook",
+        "tale",
+        "browse",
+        "brave"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "brave"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "My big sister is a _______; she reads every night.",
+      "sentence2": "The _______ carried six books home from the library.",
+      "options": [
+        "riddle",
+        "quest",
+        "bookworm",
+        "nook"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "bookworm"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Mom likes to _______ the shelves before she picks a book.",
+      "sentence2": "We will _______ the shop and look at all the toys.",
+      "options": [
+        "bookworm",
+        "browse",
+        "riddle",
+        "tale"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "browse"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The cat curled up in a cozy _______ by the window.",
+      "sentence2": "Dad made a reading _______ in the corner with a pillow.",
+      "options": [
+        "nook",
+        "quest",
+        "riddle",
+        "browse"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "nook"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Ben was so _______ in his puzzle that he did not hear the bell.",
+      "sentence2": "She sat _______ in her book and forgot about lunch.",
+      "options": [
+        "brave",
+        "nook",
+        "riddle",
+        "absorbed"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "absorbed"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Grandpa told us a funny _______ about a talking fox.",
+      "sentence2": "The librarian read a _______ about a sleepy dragon.",
+      "options": [
+        "nook",
+        "quest",
+        "tale",
+        "bookworm"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "tale"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "hushed",
+      "enchanted",
+      "captivated",
+      "riddle",
+      "quest",
+      "marvelous",
+      "brave",
+      "bookworm",
+      "browse",
+      "nook",
+      "absorbed",
+      "tale"
+    ],
+    "passage": "On Saturday, Hana went to the library with Dad. The room was _(1)_, so she walked on tiptoe. Hana was a _(2)_ and always took home a stack of books. First she liked to _(3)_ the picture shelves. Then she found a cozy _(4)_ under the window.\n\nIn her book, a _(5)_ little knight went on a _(6)_ to find a silver bell. The pictures were _(7)_, with gold and blue everywhere. Hana was so _(8)_ in the book that she forgot the time. A boy asked her a _(9)_: “What has a face but no eyes?” Hana thought hard. “A clock!” she said.\n\nThe librarian told a _(10)_ about a dancing bear. The story left the children _(11)_, as if by magic. Dad was _(12)_ too and watched without a word.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "hushed",
+        "options": [
+          "tale",
+          "quest",
+          "hushed",
+          "browse"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "bookworm",
+        "options": [
+          "riddle",
+          "nook",
+          "tale",
+          "bookworm"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "browse",
+        "options": [
+          "browse",
+          "nook",
+          "riddle",
+          "bookworm"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "nook",
+        "options": [
+          "quest",
+          "nook",
+          "riddle",
+          "browse"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "brave",
+        "options": [
+          "nook",
+          "tale",
+          "brave",
+          "browse"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "quest",
+        "options": [
+          "nook",
+          "riddle",
+          "bookworm",
+          "quest"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "marvelous",
+        "options": [
+          "marvelous",
+          "nook",
+          "quest",
+          "browse"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "absorbed",
+        "options": [
+          "nook",
+          "absorbed",
+          "riddle",
+          "quest"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "riddle",
+        "options": [
+          "nook",
+          "quest",
+          "riddle",
+          "bookworm"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "tale",
+        "options": [
+          "nook",
+          "quest",
+          "browse",
+          "tale"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "enchanted",
+        "options": [
+          "enchanted",
+          "nook",
+          "quest",
+          "riddle"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "captivated",
+        "options": [
+          "brave",
+          "captivated",
+          "nook",
+          "riddle"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "hushed",
+        "scale": [
+          "Quiet",
+          "Hushed",
+          "Silent"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "brave",
+        "scale": [
+          "Careful",
+          "Brave",
+          "Fearless"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "marvelous",
+        "scale": [
+          "Good",
+          "Great",
+          "Marvelous"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "absorbed",
+        "scale": [
+          "Curious",
+          "Interested",
+          "Absorbed"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "hushed",
+        "words": [
+          "Quiet",
+          "Silent",
+          "Loud",
+          "Still"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Loud"
+      },
+      {
+        "vocabWord": "enchanted",
+        "words": [
+          "Charmed",
+          "Delighted",
+          "Bored",
+          "Spellbound"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Bored"
+      },
+      {
+        "vocabWord": "captivated",
+        "words": [
+          "Fascinated",
+          "Uninterested",
+          "Thrilled",
+          "Charmed"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Uninterested"
+      },
+      {
+        "vocabWord": "marvelous",
+        "words": [
+          "Wonderful",
+          "Awful",
+          "Great",
+          "Splendid"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Awful"
+      },
+      {
+        "vocabWord": "brave",
+        "words": [
+          "Bold",
+          "Fearless",
+          "Scared",
+          "Daring"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Scared"
+      },
+      {
+        "vocabWord": "absorbed",
+        "words": [
+          "Focused",
+          "Busy",
+          "Distracted",
+          "Engrossed"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Distracted"
+      },
+      {
+        "vocabWord": "quest",
+        "words": [
+          "Search",
+          "Hunt",
+          "Mission",
+          "Giving up"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Giving up"
+      },
+      {
+        "vocabWord": "riddle",
+        "words": [
+          "Puzzle",
+          "Mystery",
+          "Brainteaser",
+          "Answer"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Answer"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

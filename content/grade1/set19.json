@@ -1,0 +1,578 @@
+{
+  "grade": 1,
+  "setNumber": 19,
+  "words": [
+    "bubble",
+    "slosh",
+    "scrub",
+    "rinse",
+    "frothy",
+    "lather",
+    "steam",
+    "wrinkle",
+    "drain",
+    "spotless",
+    "squeaky",
+    "sponge"
+  ],
+  "sources": [
+    "Common Core Grade 1",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "bath time",
+  "story": {
+    "genre": "bath time",
+    "characters": [
+      "Tess",
+      "Hugo",
+      "Layla"
+    ],
+    "parts": [
+      {
+        "title": "Muddy Kids",
+        "text": "Tess, Hugo, and Layla had a muddy day at the park. Mom filled the tub with warm water. A cloud of **steam** rose up. Layla poured in soap, and the water turned **frothy**. A big **bubble** floated to the ceiling."
+      },
+      {
+        "title": "Scrub-a-Dub",
+        "text": "Hugo took a **sponge** and made a thick **lather** on his arms. Tess began to **scrub** the mud off her knees. The water started to **slosh** over the side."
+      },
+      {
+        "title": "All Clean",
+        "text": "Layla used a cup to **rinse** the soap from her hair. Her fingers began to **wrinkle**. Mom pulled the plug to **drain** the tub. Hugo’s knees were **spotless**! Layla squeezed her rubber duck, and it gave a **squeaky** quack."
+      },
+      {
+        "title": "Cozy and Warm",
+        "text": "The children dried off with fluffy towels. They put on warm pajamas. Mom read them a story, and soon they were fast asleep."
+      }
+    ],
+    "wordCount": 131
+  },
+  "definitions": [
+    {
+      "word": "bubble",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A thin ball of soap or water filled with air. Example: I blew a bubble and it floated away.",
+      "meaning2": "To make small, round balls of air in a liquid. Example: The soup began to bubble in the pot.",
+      "studentChallenge": "The kids chased the shiny ___ across the yard.",
+      "sentence": ""
+    },
+    {
+      "word": "slosh",
+      "partOfSpeech": "verb",
+      "meaning1": "To splash around in water or mud. Example: I slosh through the puddle in my boots.",
+      "meaning2": "",
+      "studentChallenge": "The water began to ___ in the full bucket.",
+      "sentence": ""
+    },
+    {
+      "word": "scrub",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To rub hard to get something clean. Example: I scrub the pot with a brush.",
+      "meaning2": "A hard rub to clean something. Example: Give the pan a good scrub.",
+      "studentChallenge": "I ___ my hands with soap after I play outside.",
+      "sentence": ""
+    },
+    {
+      "word": "rinse",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To wash soap off with clean water. Example: Rinse your hands after you wash them.",
+      "meaning2": "A quick wash with clean water. Example: Give the cup a rinse.",
+      "studentChallenge": "Please ___ the soap off your face.",
+      "sentence": ""
+    },
+    {
+      "word": "frothy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Covered with little bubbles; foamy. Example: The milk was frothy on top.",
+      "meaning2": "",
+      "studentChallenge": "The ___ waves left white foam on the sand.",
+      "sentence": ""
+    },
+    {
+      "word": "lather",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A thick foam made by soap and water. Example: Soap makes a lather on my hands.",
+      "meaning2": "To cover with soap foam. Example: I lather my hair with shampoo.",
+      "studentChallenge": "Soap and water make a thick white ___.",
+      "sentence": ""
+    },
+    {
+      "word": "steam",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "The warm mist that rises from hot water. Example: Steam rose from the hot cocoa.",
+      "meaning2": "To give off warm mist. Example: The soup will steam in the bowl.",
+      "studentChallenge": "Hot ___ rose from the bowl of soup.",
+      "sentence": ""
+    },
+    {
+      "word": "wrinkle",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A small fold or line in skin or cloth. Example: There is a wrinkle in my shirt.",
+      "meaning2": "To make small folds or lines. Example: My fingers wrinkle in the bath.",
+      "studentChallenge": "Please iron the ___ out of your shirt.",
+      "sentence": ""
+    },
+    {
+      "word": "drain",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To let water flow out. Example: We drain the sink when we are done.",
+      "meaning2": "A hole where water flows out. Example: The water goes down the drain.",
+      "studentChallenge": "Pull the plug to let the tub ___.",
+      "sentence": ""
+    },
+    {
+      "word": "spotless",
+      "partOfSpeech": "adjective",
+      "meaning1": "Perfectly clean, with no spots. Example: The kitchen was spotless after we cleaned.",
+      "meaning2": "",
+      "studentChallenge": "Her white shoes were ___ and had no marks.",
+      "sentence": ""
+    },
+    {
+      "word": "squeaky",
+      "partOfSpeech": "adjective",
+      "meaning1": "Making a high, thin sound. Example: The old door is squeaky when it opens.",
+      "meaning2": "",
+      "studentChallenge": "My new shoes are ___ on the shiny floor.",
+      "sentence": ""
+    },
+    {
+      "word": "sponge",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A soft thing that soaks up water. Example: I wipe the table with a sponge.",
+      "meaning2": "To wipe with a sponge. Example: Please sponge the spill off the counter.",
+      "studentChallenge": "Mom used a wet ___ to wipe the table.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "I blew a soap _______ and it floated away.",
+      "sentence2": "The kids chased every _______ across the yard.",
+      "options": [
+        "spotless",
+        "squeaky",
+        "bubble",
+        "slosh"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "bubble"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The water began to _______ in the full bucket.",
+      "sentence2": "I like to _______ through puddles in my boots.",
+      "options": [
+        "slosh",
+        "frothy",
+        "spotless",
+        "sponge"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "slosh"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Please _______ the muddy pot until it shines.",
+      "sentence2": "I _______ my hands with soap after I play.",
+      "options": [
+        "squeaky",
+        "frothy",
+        "wrinkle",
+        "scrub"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "scrub"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Please _______ the soap off your face.",
+      "sentence2": "We _______ the dishes with clean water.",
+      "options": [
+        "bubble",
+        "rinse",
+        "squeaky",
+        "wrinkle"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "rinse"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The milk was _______ on top.",
+      "sentence2": "Waves left a _______ white line on the sand.",
+      "options": [
+        "drain",
+        "slosh",
+        "frothy",
+        "rinse"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "frothy"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Soap and water make a thick _______.",
+      "sentence2": "I will _______ my hair with shampoo.",
+      "options": [
+        "lather",
+        "spotless",
+        "squeaky",
+        "drain"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "lather"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Warm _______ rose from the hot bath.",
+      "sentence2": "Soup will _______ in the cold air.",
+      "options": [
+        "spotless",
+        "squeaky",
+        "frothy",
+        "steam"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "steam"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "There is a _______ in my shirt.",
+      "sentence2": "My fingers _______ if I stay in the bath too long.",
+      "options": [
+        "spotless",
+        "wrinkle",
+        "rinse",
+        "slosh"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "wrinkle"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Pull the plug to let the tub _______.",
+      "sentence2": "The water goes down the _______.",
+      "options": [
+        "frothy",
+        "squeaky",
+        "drain",
+        "sponge"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "drain"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Her white shoes were _______ and had no marks.",
+      "sentence2": "The kitchen was _______ after we cleaned it.",
+      "options": [
+        "spotless",
+        "lather",
+        "bubble",
+        "scrub"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "spotless"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "My new shoes are _______ on the shiny floor.",
+      "sentence2": "The _______ door needs a drop of oil.",
+      "options": [
+        "frothy",
+        "wrinkle",
+        "rinse",
+        "squeaky"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "squeaky"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Mom wiped the table with a wet _______.",
+      "sentence2": "A _______ soaks up water.",
+      "options": [
+        "steam",
+        "sponge",
+        "spotless",
+        "slosh"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "sponge"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "bubble",
+      "slosh",
+      "scrub",
+      "rinse",
+      "frothy",
+      "lather",
+      "steam",
+      "wrinkle",
+      "drain",
+      "spotless",
+      "squeaky",
+      "sponge"
+    ],
+    "passage": "On Saturday, Hugo gave his dog a bath in the yard. He filled a tub, and the water began to _(1)_ over the sides. Layla rubbed the soap to make a thick _(2)_. She used a big yellow _(3)_ on the dog’s back. Tess helped him _(4)_ the muddy paws.\n\nA round _(5)_ landed on the dog’s nose and popped. Soon the dog was all white and _(6)_. Next, they had to _(7)_ off the soap. The water was warm, and a little _(8)_ rose from the tub.\n\nWhen they were done, Hugo pulled the plug to let the tub _(9)_. His boots were _(10)_ on the wet porch. His fingers began to _(11)_ from the water. At last the dog was clean and _(12)_.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "slosh",
+        "options": [
+          "slosh",
+          "frothy",
+          "spotless",
+          "sponge"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "lather",
+        "options": [
+          "squeaky",
+          "spotless",
+          "drain",
+          "lather"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "sponge",
+        "options": [
+          "frothy",
+          "sponge",
+          "squeaky",
+          "spotless"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "scrub",
+        "options": [
+          "squeaky",
+          "frothy",
+          "scrub",
+          "bubble"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "bubble",
+        "options": [
+          "bubble",
+          "squeaky",
+          "rinse",
+          "drain"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "frothy",
+        "options": [
+          "slosh",
+          "drain",
+          "steam",
+          "frothy"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "rinse",
+        "options": [
+          "squeaky",
+          "rinse",
+          "spotless",
+          "frothy"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "steam",
+        "options": [
+          "spotless",
+          "squeaky",
+          "steam",
+          "rinse"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "drain",
+        "options": [
+          "drain",
+          "spotless",
+          "frothy",
+          "squeaky"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "squeaky",
+        "options": [
+          "bubble",
+          "lather",
+          "sponge",
+          "squeaky"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "wrinkle",
+        "options": [
+          "spotless",
+          "wrinkle",
+          "frothy",
+          "squeaky"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "spotless",
+        "options": [
+          "slosh",
+          "scrub",
+          "spotless",
+          "lather"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "spotless",
+        "scale": [
+          "Dirty",
+          "Clean",
+          "Spotless"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "frothy",
+        "scale": [
+          "Flat",
+          "Bubbly",
+          "Frothy"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "squeaky",
+        "scale": [
+          "Quiet",
+          "Squeaky",
+          "Screechy"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "scrub",
+        "scale": [
+          "Pat",
+          "Rub",
+          "Scrub"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "slosh",
+        "words": [
+          "Splash",
+          "Spill",
+          "Swish",
+          "Stay still"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Stay still"
+      },
+      {
+        "vocabWord": "rinse",
+        "words": [
+          "Wash",
+          "Flush",
+          "Clean",
+          "Smear"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Smear"
+      },
+      {
+        "vocabWord": "frothy",
+        "words": [
+          "Foamy",
+          "Bubbly",
+          "Fizzy",
+          "Flat"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Flat"
+      },
+      {
+        "vocabWord": "wrinkle",
+        "words": [
+          "Crease",
+          "Smooth",
+          "Fold",
+          "Crumple"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Smooth"
+      },
+      {
+        "vocabWord": "drain",
+        "words": [
+          "Empty",
+          "Release",
+          "Pour out",
+          "Fill"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Fill"
+      },
+      {
+        "vocabWord": "spotless",
+        "words": [
+          "Clean",
+          "Neat",
+          "Gleaming",
+          "Dirty"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Dirty"
+      },
+      {
+        "vocabWord": "squeaky",
+        "words": [
+          "Creaky",
+          "Shrill",
+          "Piping",
+          "Silent"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Silent"
+      },
+      {
+        "vocabWord": "scrub",
+        "words": [
+          "Ignore",
+          "Rub",
+          "Scour",
+          "Polish"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Ignore"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}
