@@ -6,8 +6,15 @@ const AppContext = createContext();
 
 // Screens: home, grade, set, story, definitions, quiz, passage, wordscale, imposter
 export function AppProvider({ children }) {
-  const [screen, setScreen] = useState('home');
-  const [selectedGrade, setSelectedGrade] = useState(null);
+  // /vocab-agent?grade=N opens straight at that grade's sets when the grade has content.
+  const startGrade = (() => {
+    try {
+      const g = Number(new URLSearchParams(window.location.search).get('grade'));
+      return getGrades().includes(g) ? g : null;
+    } catch (e) { return null; }
+  })();
+  const [screen, setScreen] = useState(startGrade ? 'grade' : 'home');
+  const [selectedGrade, setSelectedGrade] = useState(startGrade);
   const [selectedSet, setSelectedSet] = useState(null);
   const [content, setContent] = useState(null);
   const [progress, setProgress] = useState(null);

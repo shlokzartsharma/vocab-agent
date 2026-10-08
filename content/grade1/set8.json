@@ -1,0 +1,578 @@
+{
+  "grade": 1,
+  "setNumber": 8,
+  "words": [
+    "yawn",
+    "cuddle",
+    "lullaby",
+    "snore",
+    "twinkle",
+    "hush",
+    "cradle",
+    "dim",
+    "tuck",
+    "nap",
+    "silent",
+    "peaceful"
+  ],
+  "sources": [
+    "Common Core Grade 1",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "bedtime story",
+  "story": {
+    "genre": "bedtime story",
+    "characters": [
+      "Elena",
+      "Jamal",
+      "Ivy"
+    ],
+    "parts": [
+      {
+        "title": "Getting Ready",
+        "text": "It was bedtime at Grandma’s house. Elena let out a big **yawn**. Jamal brushed his teeth. Ivy put on her soft pajamas. Grandma turned the lamp low to make the room **dim**."
+      },
+      {
+        "title": "Tucked In",
+        "text": "Grandma began to **tuck** the blankets around each child. Elena wanted to **cuddle** her teddy bear. Outside, the stars began to **twinkle**. Grandma sang a **lullaby** in her soft voice. “**Hush** now, my little ones,” she said."
+      },
+      {
+        "title": "Sleepy Sounds",
+        "text": "The house grew **silent**. Elena had taken a **nap** that afternoon, but now she felt sleepy again. Down the hall, Grandpa began to **snore**, and the children giggled. Ivy’s bed felt like a **cradle** that rocked her. Everything was **peaceful**."
+      },
+      {
+        "title": "Good Night",
+        "text": "Grandma kissed each child on the head. The room was quiet. Morning would come soon, bright and warm."
+      }
+    ],
+    "wordCount": 127
+  },
+  "definitions": [
+    {
+      "word": "yawn",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To open your mouth wide when you are tired. Example: I yawn when I am sleepy.",
+      "meaning2": "A big breath with an open mouth when you are tired. Example: He let out a big yawn.",
+      "studentChallenge": "Dad began to ___ and rub his eyes.",
+      "sentence": ""
+    },
+    {
+      "word": "cuddle",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To hold someone close in a warm, loving way. Example: I cuddle my cat on the couch.",
+      "meaning2": "A warm hug. Example: Give me a cuddle.",
+      "studentChallenge": "The baby loves to ___ with her mom.",
+      "sentence": ""
+    },
+    {
+      "word": "lullaby",
+      "partOfSpeech": "noun",
+      "meaning1": "A soft song that helps a baby fall asleep. Example: Mom sang a lullaby to the baby.",
+      "meaning2": "",
+      "studentChallenge": "Grandpa hummed a ___ at bedtime.",
+      "sentence": ""
+    },
+    {
+      "word": "snore",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To make a loud sound when you breathe in your sleep. Example: My dad can snore very loudly.",
+      "meaning2": "The sound of breathing in sleep. Example: We heard a snore from the next room.",
+      "studentChallenge": "The big dog will ___ in his sleep.",
+      "sentence": ""
+    },
+    {
+      "word": "twinkle",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To shine with little blinking lights. Example: The stars twinkle at night.",
+      "meaning2": "A small, blinking light. Example: I saw a twinkle in the sky.",
+      "studentChallenge": "Little lights ___ on the tree.",
+      "sentence": ""
+    },
+    {
+      "word": "hush",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To be quiet, or to tell someone to be quiet. Example: Hush, the baby is sleeping.",
+      "meaning2": "A time of quiet. Example: A hush fell over the room.",
+      "studentChallenge": "Please ___ so the baby can sleep.",
+      "sentence": ""
+    },
+    {
+      "word": "cradle",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A small bed for a baby that rocks. Example: The baby slept in the cradle.",
+      "meaning2": "To hold gently in your arms. Example: I cradle my teddy bear.",
+      "studentChallenge": "The baby slept in a rocking ___.",
+      "sentence": ""
+    },
+    {
+      "word": "dim",
+      "partOfSpeech": "adjective, verb",
+      "meaning1": "Not very bright. Example: The room was dim at night.",
+      "meaning2": "To make less bright. Example: Please dim the lights.",
+      "studentChallenge": "A ___ light helps me fall asleep.",
+      "sentence": ""
+    },
+    {
+      "word": "tuck",
+      "partOfSpeech": "verb",
+      "meaning1": "To fold in the edges of a blanket so someone is snug. Example: Mom will tuck me in bed.",
+      "meaning2": "To put something in neatly. Example: I tuck my shirt into my pants.",
+      "studentChallenge": "Please ___ the blanket under your feet.",
+      "sentence": ""
+    },
+    {
+      "word": "nap",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A short sleep in the day. Example: The baby takes a nap after lunch.",
+      "meaning2": "To sleep for a short time. Example: I will nap on the couch.",
+      "studentChallenge": "My little brother takes a ___ after lunch.",
+      "sentence": ""
+    },
+    {
+      "word": "silent",
+      "partOfSpeech": "adjective",
+      "meaning1": "Making no sound at all. Example: The room was silent.",
+      "meaning2": "",
+      "studentChallenge": "The empty library was ___.",
+      "sentence": ""
+    },
+    {
+      "word": "peaceful",
+      "partOfSpeech": "adjective",
+      "meaning1": "Calm and quiet, with no worry. Example: The lake was peaceful at sunset.",
+      "meaning2": "",
+      "studentChallenge": "It was a ___ night.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "When I am tired, I _______ and rub my eyes.",
+      "sentence2": "The sleepy kitten gave a big _______.",
+      "options": [
+        "dim",
+        "yawn",
+        "silent",
+        "cradle"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "yawn"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "I like to _______ with my teddy bear.",
+      "sentence2": "The kittens _______ together to stay warm.",
+      "options": [
+        "dim",
+        "silent",
+        "lullaby",
+        "cuddle"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "cuddle"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Mom sang a soft _______ to the baby.",
+      "sentence2": "A gentle _______ helped the little one fall asleep.",
+      "options": [
+        "lullaby",
+        "snore",
+        "dim",
+        "silent"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "lullaby"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Grandpa began to _______ loudly in his chair.",
+      "sentence2": "The sound of a _______ came from the next room.",
+      "options": [
+        "dim",
+        "tuck",
+        "snore",
+        "peaceful"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "snore"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Stars _______ in the dark sky.",
+      "sentence2": "Tiny lights _______ on the tree.",
+      "options": [
+        "hush",
+        "tuck",
+        "nap",
+        "twinkle"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "twinkle"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Please _______, the baby is sleeping.",
+      "sentence2": "Mom will _______ the baby with soft pats.",
+      "options": [
+        "dim",
+        "hush",
+        "twinkle",
+        "silent"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "hush"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The baby slept in a rocking _______.",
+      "sentence2": "She will _______ the kitten in her arms.",
+      "options": [
+        "dim",
+        "silent",
+        "cradle",
+        "snore"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "cradle"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Please _______ the lights so we can sleep.",
+      "sentence2": "The night light is _______ and soft.",
+      "options": [
+        "dim",
+        "hush",
+        "tuck",
+        "nap"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "dim"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Dad will _______ the blanket around me.",
+      "sentence2": "Please _______ in your shirt before dinner.",
+      "options": [
+        "dim",
+        "tuck",
+        "hush",
+        "snore"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "tuck"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The baby takes a _______ after lunch.",
+      "sentence2": "I will _______ on the couch for a little while.",
+      "options": [
+        "lullaby",
+        "dim",
+        "silent",
+        "nap"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "nap"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The empty house was _______.",
+      "sentence2": "Everyone stayed _______ while the baby slept.",
+      "options": [
+        "silent",
+        "dim",
+        "nap",
+        "cradle"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "silent"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The lake looked calm and _______ at night.",
+      "sentence2": "She had a quiet, _______ sleep.",
+      "options": [
+        "tuck",
+        "nap",
+        "peaceful",
+        "lullaby"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "peaceful"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "yawn",
+      "cuddle",
+      "lullaby",
+      "snore",
+      "twinkle",
+      "hush",
+      "cradle",
+      "dim",
+      "tuck",
+      "nap",
+      "silent",
+      "peaceful"
+    ],
+    "passage": "Elena was ready for bed. She let out a big _(1)_ and rubbed her eyes. Mom turned down the light so the room was _(2)_. Dad came in to _(3)_ the blanket around her. Elena loved to _(4)_ with her soft bunny.\n\nOutside, the stars began to _(5)_. Dad sang a soft _(6)_. The baby in the next room slept in a _(7)_. The house was _(8)_, and no one made a sound. Elena could hear her grandpa _(9)_ down the hall. She had a long _(10)_ that afternoon, but now she was ready again. Mom said, “_(11)_, it is time to sleep.” The night was warm and _(12)_.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "yawn",
+        "options": [
+          "lullaby",
+          "cradle",
+          "yawn",
+          "dim"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "dim",
+        "options": [
+          "dim",
+          "hush",
+          "yawn",
+          "tuck"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "tuck",
+        "options": [
+          "dim",
+          "hush",
+          "twinkle",
+          "tuck"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "cuddle",
+        "options": [
+          "twinkle",
+          "cuddle",
+          "dim",
+          "yawn"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "twinkle",
+        "options": [
+          "cuddle",
+          "twinkle",
+          "snore",
+          "yawn"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "lullaby",
+        "options": [
+          "nap",
+          "cradle",
+          "dim",
+          "lullaby"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "cradle",
+        "options": [
+          "cradle",
+          "nap",
+          "lullaby",
+          "dim"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "silent",
+        "options": [
+          "dim",
+          "hush",
+          "silent",
+          "nap"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "snore",
+        "options": [
+          "hush",
+          "twinkle",
+          "tuck",
+          "snore"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "nap",
+        "options": [
+          "lullaby",
+          "nap",
+          "cradle",
+          "dim"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "hush",
+        "options": [
+          "dim",
+          "nap",
+          "hush",
+          "cradle"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "peaceful",
+        "options": [
+          "peaceful",
+          "yawn",
+          "snore",
+          "tuck"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "dim",
+        "scale": [
+          "Dark",
+          "Dim",
+          "Bright"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "silent",
+        "scale": [
+          "Loud",
+          "Quiet",
+          "Silent"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "cuddle",
+        "scale": [
+          "Pat",
+          "Hug",
+          "Cuddle"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "twinkle",
+        "scale": [
+          "Glow",
+          "Twinkle",
+          "Blaze"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "hush",
+        "words": [
+          "Quiet",
+          "Calm",
+          "Shout",
+          "Shush"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Shout"
+      },
+      {
+        "vocabWord": "nap",
+        "words": [
+          "Stay awake",
+          "Doze",
+          "Rest",
+          "Snooze"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Stay awake"
+      },
+      {
+        "vocabWord": "peaceful",
+        "words": [
+          "Calm",
+          "Quiet",
+          "Gentle",
+          "Noisy"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Noisy"
+      },
+      {
+        "vocabWord": "cradle",
+        "words": [
+          "Hold",
+          "Drop",
+          "Rock",
+          "Hug"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Drop"
+      },
+      {
+        "vocabWord": "tuck",
+        "words": [
+          "Cover",
+          "Wrap",
+          "Fold in",
+          "Uncover"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Uncover"
+      },
+      {
+        "vocabWord": "cuddle",
+        "words": [
+          "Hug",
+          "Push away",
+          "Snuggle",
+          "Hold"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Push away"
+      },
+      {
+        "vocabWord": "dim",
+        "words": [
+          "Bright",
+          "Faint",
+          "Dull",
+          "Weak"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Bright"
+      },
+      {
+        "vocabWord": "twinkle",
+        "words": [
+          "Sparkle",
+          "Shine",
+          "Go dark",
+          "Glimmer"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Go dark"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

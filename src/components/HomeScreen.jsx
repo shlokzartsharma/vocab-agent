@@ -1,29 +1,30 @@
 import React from 'react';
 import { useApp } from '../context/AppContext';
 
-const GRADE_COLORS = {
-  3: { bg: 'var(--cream-2)', border: 'var(--teal)', text: 'var(--ink)', label: 'Grade 3' },
-  4: { bg: 'var(--cream)', border: 'var(--magenta)', text: 'var(--ink)', label: 'Grade 4' },
-  5: { bg: 'var(--cream-2)', border: 'var(--gold)', text: 'var(--ink)', label: 'Grade 5' },
-};
+import { getTotals } from '../data/content';
+
+// Card colours cycle through the brand palette so any grade that has content gets a card.
+const PALETTE = ['var(--teal)', 'var(--magenta)', 'var(--gold)'];
+const gradeColors = (grade, i) => ({ bg: i % 2 ? 'var(--cream)' : 'var(--cream-2)', border: PALETTE[i % PALETTE.length], text: 'var(--ink)', label: `Grade ${grade}` });
 
 export default function HomeScreen() {
-  const { selectGrade, getGradeInfo, getGradeProgress } = useApp();
+  const { selectGrade, getGradeInfo, getGradeProgress, getGrades } = useApp();
+  const totals = getTotals();
 
   return (
     <div className="va-home">
       <div className="va-home-hero">
         <h1 className="va-home-title">Vocab Agent</h1>
         <p className="va-home-subtitle">
-          Master 1,344 vocabulary words across Grades 3–5 with stories, quizzes, and interactive activities.
+          Master {totals.words.toLocaleString()} vocabulary words across {totals.range} with stories, quizzes, and interactive activities.
         </p>
       </div>
 
       <div className="va-grade-cards">
-        {[3, 4, 5].map((grade) => {
+        {getGrades().map((grade, i) => {
           const info = getGradeInfo(grade);
           const prog = getGradeProgress(grade, info.totalSets);
-          const colors = GRADE_COLORS[grade];
+          const colors = gradeColors(grade, i);
           return (
             <button
               key={grade}

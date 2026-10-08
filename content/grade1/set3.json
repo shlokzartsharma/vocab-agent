@@ -1,0 +1,578 @@
+{
+  "grade": 1,
+  "setNumber": 3,
+  "words": [
+    "splash",
+    "paddle",
+    "float",
+    "slippery",
+    "squirm",
+    "calm",
+    "swish",
+    "tadpole",
+    "dive",
+    "stretch",
+    "soak",
+    "swirl"
+  ],
+  "sources": [
+    "Common Core Grade 1",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "pond animals",
+  "story": {
+    "genre": "pond animals",
+    "characters": [
+      "Ava",
+      "Kofi",
+      "Lily"
+    ],
+    "parts": [
+      {
+        "title": "The Quiet Pond",
+        "text": "Ava, Kofi, and Lily sat by the pond. The water was **calm** and clear. A green frog sat on a **slippery** rock. Suddenly it took a big **dive** and went under. Up went a big **splash**!"
+      },
+      {
+        "title": "Small Swimmers",
+        "text": "Kofi looked into the water. He saw a **tadpole** with a long tail. It began to **squirm** and **swish** its tail from side to side. A duck came to **paddle** by. A leaf began to **float** near it."
+      },
+      {
+        "title": "Wet Hands",
+        "text": "Lily put her hand in the water and made a small **swirl**. The leaf drifted away. Ava had to **stretch** to reach it. Her sleeve fell in and began to **soak** up the water."
+      },
+      {
+        "title": "Time to Go",
+        "text": "The children dried off in the sun. They watched the pond until the frog came back. It was the best day by the water."
+      }
+    ],
+    "wordCount": 132
+  },
+  "definitions": [
+    {
+      "word": "splash",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To make water fly up in drops. Example: I splash in the puddle with my boots.",
+      "meaning2": "The sound or drops of water that fly up. Example: The big splash made us all giggle.",
+      "studentChallenge": "The kids like to ___ in the pool.",
+      "sentence": ""
+    },
+    {
+      "word": "paddle",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To move through water using a flat oar or your hands and feet. Example: We paddle our canoe across the lake.",
+      "meaning2": "A flat oar. Example: She held the paddle with both hands.",
+      "studentChallenge": "Let us ___ the boat to the other side of the lake.",
+      "sentence": ""
+    },
+    {
+      "word": "float",
+      "partOfSpeech": "verb",
+      "meaning1": "To stay on top of water or in the air. Example: A leaf can float on the pond.",
+      "meaning2": "",
+      "studentChallenge": "A rubber duck will ___ in the bath.",
+      "sentence": ""
+    },
+    {
+      "word": "slippery",
+      "partOfSpeech": "adjective",
+      "meaning1": "So smooth or wet that it is hard to hold or stand on. Example: The wet soap is slippery.",
+      "meaning2": "",
+      "studentChallenge": "Be careful, the icy step is ___.",
+      "sentence": ""
+    },
+    {
+      "word": "squirm",
+      "partOfSpeech": "verb",
+      "meaning1": "To twist and wiggle your body. Example: The puppy will squirm when I hold it.",
+      "meaning2": "",
+      "studentChallenge": "The little fish began to ___ in my hands.",
+      "sentence": ""
+    },
+    {
+      "word": "calm",
+      "partOfSpeech": "adjective",
+      "meaning1": "Quiet and still, not wild. Example: The lake was calm in the morning.",
+      "meaning2": "Not upset or worried. Example: She stayed calm when the lights went out.",
+      "studentChallenge": "The sea was flat and ___, with no waves.",
+      "sentence": ""
+    },
+    {
+      "word": "swish",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To move with a soft, quick sound. Example: I hear the horse swish its tail.",
+      "meaning2": "A soft, quick sound. Example: The broom made a swish on the floor.",
+      "studentChallenge": "The broom will ___ across the floor.",
+      "sentence": ""
+    },
+    {
+      "word": "tadpole",
+      "partOfSpeech": "noun",
+      "meaning1": "A baby frog that lives in water and has a tail. Example: The tadpole will grow legs and become a frog.",
+      "meaning2": "",
+      "studentChallenge": "A baby frog with a tail is called a ___.",
+      "sentence": ""
+    },
+    {
+      "word": "dive",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To jump into water head first. Example: I like to dive into the pool.",
+      "meaning2": "To go down fast. Example: The bird will dive to catch a fish.",
+      "studentChallenge": "She stood on the edge and got ready to ___.",
+      "sentence": ""
+    },
+    {
+      "word": "stretch",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To pull your body or arms out long. Example: I stretch my arms when I wake up.",
+      "meaning2": "To make something longer. Example: You can stretch a rubber band.",
+      "studentChallenge": "The cat will ___ its legs after a nap.",
+      "sentence": ""
+    },
+    {
+      "word": "soak",
+      "partOfSpeech": "verb",
+      "meaning1": "To make something very wet, or to stay in water. Example: I soak my feet in warm water.",
+      "meaning2": "",
+      "studentChallenge": "Rain will ___ the ground and make mud.",
+      "sentence": ""
+    },
+    {
+      "word": "swirl",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To move around and around in a circle. Example: The leaves swirl in the wind.",
+      "meaning2": "A curl or twist. Example: The ice cream had a pink swirl.",
+      "studentChallenge": "I watched the water ___ down the drain.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The kids love to _______ in the pool.",
+      "sentence2": "The frog made a loud _______ when it jumped in.",
+      "options": [
+        "slippery",
+        "tadpole",
+        "calm",
+        "splash"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "splash"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "We will _______ our canoe across the lake.",
+      "sentence2": "She held the _______ with both hands and pulled hard.",
+      "options": [
+        "calm",
+        "tadpole",
+        "paddle",
+        "squirm"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "paddle"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "A leaf can _______ on top of the pond.",
+      "sentence2": "My rubber duck will _______ in the bath.",
+      "options": [
+        "slippery",
+        "float",
+        "calm",
+        "tadpole"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "float"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Be careful, the icy step is _______.",
+      "sentence2": "The wet soap was so _______ that it fell out of my hand.",
+      "options": [
+        "slippery",
+        "squirm",
+        "tadpole",
+        "swish"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "slippery"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The little fish began to _______ in my hands.",
+      "sentence2": "Please do not _______ while I brush your hair.",
+      "options": [
+        "calm",
+        "tadpole",
+        "slippery",
+        "squirm"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "squirm"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The sea was flat and _______, with no waves at all.",
+      "sentence2": "She stayed _______ when the lights went out.",
+      "options": [
+        "soak",
+        "swish",
+        "calm",
+        "dive"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "calm"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "I hear the horse _______ its tail.",
+      "sentence2": "The broom will _______ across the floor.",
+      "options": [
+        "tadpole",
+        "swish",
+        "slippery",
+        "calm"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "swish"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "A baby frog with a tail is called a _______.",
+      "sentence2": "The _______ will grow legs and turn into a frog.",
+      "options": [
+        "tadpole",
+        "slippery",
+        "calm",
+        "squirm"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "tadpole"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "She stood on the edge and got ready to _______.",
+      "sentence2": "The bird will _______ down to catch a fish.",
+      "options": [
+        "tadpole",
+        "slippery",
+        "calm",
+        "dive"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "dive"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The cat will _______ its legs after a long nap.",
+      "sentence2": "I _______ my arms up high when I wake up.",
+      "options": [
+        "tadpole",
+        "calm",
+        "stretch",
+        "slippery"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "stretch"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Rain will _______ the ground and make mud.",
+      "sentence2": "I like to _______ my feet in warm water.",
+      "options": [
+        "slippery",
+        "soak",
+        "tadpole",
+        "calm"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "soak"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "I watched the water _______ down the drain.",
+      "sentence2": "The ice cream had a pink _______ on top.",
+      "options": [
+        "swirl",
+        "slippery",
+        "tadpole",
+        "calm"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "swirl"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "splash",
+      "paddle",
+      "float",
+      "slippery",
+      "squirm",
+      "calm",
+      "swish",
+      "tadpole",
+      "dive",
+      "stretch",
+      "soak",
+      "swirl"
+    ],
+    "passage": "On Saturday, Kofi and Ava took a small boat to the pond. They had to _(1)_ slowly. The water was _(2)_, so the boat did not rock. Ava saw a _(3)_ near the weeds. It gave a quick _(4)_ of its tail and was gone.\n\nA green frog sat on a log. Then it began to _(5)_ off the end, and the water went up in a big _(6)_. Kofi laughed so hard that he began to _(7)_ in his seat. “Careful, the log is _(8)_,” said Ava.\n\nLater, Ava put her hat on the water and watched it _(9)_. Then she tried to _(10)_ her arm out to get it back. Her sleeve began to _(11)_ up the pond water. Her hat turned in a slow _(12)_ and drifted away.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "paddle",
+        "options": [
+          "calm",
+          "tadpole",
+          "slippery",
+          "paddle"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "calm",
+        "options": [
+          "swish",
+          "dive",
+          "calm",
+          "squirm"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "tadpole",
+        "options": [
+          "slippery",
+          "tadpole",
+          "calm",
+          "soak"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "swish",
+        "options": [
+          "swish",
+          "slippery",
+          "calm",
+          "tadpole"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "dive",
+        "options": [
+          "tadpole",
+          "calm",
+          "slippery",
+          "dive"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "splash",
+        "options": [
+          "slippery",
+          "calm",
+          "splash",
+          "squirm"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "squirm",
+        "options": [
+          "tadpole",
+          "squirm",
+          "slippery",
+          "calm"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "slippery",
+        "options": [
+          "slippery",
+          "paddle",
+          "dive",
+          "soak"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "float",
+        "options": [
+          "slippery",
+          "tadpole",
+          "calm",
+          "float"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "stretch",
+        "options": [
+          "slippery",
+          "tadpole",
+          "stretch",
+          "calm"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "soak",
+        "options": [
+          "slippery",
+          "soak",
+          "tadpole",
+          "calm"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "swirl",
+        "options": [
+          "swirl",
+          "slippery",
+          "tadpole",
+          "squirm"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "calm",
+        "scale": [
+          "Calm",
+          "Choppy",
+          "Stormy"
+        ],
+        "vocabPosition": 0
+      },
+      {
+        "vocabWord": "splash",
+        "scale": [
+          "Drip",
+          "Splash",
+          "Gush"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "slippery",
+        "scale": [
+          "Dry",
+          "Wet",
+          "Slippery"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "dive",
+        "scale": [
+          "Step",
+          "Jump",
+          "Dive"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "calm",
+        "words": [
+          "Quiet",
+          "Still",
+          "Peaceful",
+          "Wild"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Wild"
+      },
+      {
+        "vocabWord": "slippery",
+        "words": [
+          "Rough",
+          "Slick",
+          "Slimy",
+          "Greasy"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Rough"
+      },
+      {
+        "vocabWord": "squirm",
+        "words": [
+          "Wiggle",
+          "Twist",
+          "Freeze",
+          "Wriggle"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Freeze"
+      },
+      {
+        "vocabWord": "float",
+        "words": [
+          "Drift",
+          "Sink",
+          "Bob",
+          "Glide"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Sink"
+      },
+      {
+        "vocabWord": "dive",
+        "words": [
+          "Plunge",
+          "Dunk",
+          "Jump in",
+          "Climb out"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Climb out"
+      },
+      {
+        "vocabWord": "stretch",
+        "words": [
+          "Reach",
+          "Squeeze",
+          "Extend",
+          "Pull"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Squeeze"
+      },
+      {
+        "vocabWord": "soak",
+        "words": [
+          "Drench",
+          "Wet",
+          "Dry",
+          "Dunk"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Dry"
+      },
+      {
+        "vocabWord": "swish",
+        "words": [
+          "Freeze",
+          "Sweep",
+          "Whoosh",
+          "Wave"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Freeze"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

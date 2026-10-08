@@ -1,0 +1,578 @@
+{
+  "grade": 8,
+  "setNumber": 2,
+  "words": [
+    "adversity",
+    "forlorn",
+    "stoic",
+    "austere",
+    "tenement",
+    "plight",
+    "solace",
+    "squalor",
+    "futile",
+    "prudent",
+    "relinquish",
+    "stalwart"
+  ],
+  "sources": [
+    "Common Core Grade 8",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "Great Depression family",
+  "story": {
+    "genre": "Great Depression family",
+    "characters": [
+      "Clara",
+      "Walter",
+      "Odessa"
+    ],
+    "parts": [
+      {
+        "title": "A Smaller Home",
+        "text": "When the factory closed in 1931, Clara's family learned what **adversity** truly meant. Her father could no longer pay the rent on their house, so they moved into a cramped **tenement**. The stairwell smelled of damp wood, and the single bathroom down the hall was shared by six families. Clara's mother tried to hide her worry, but anyone could see the **plight** of parents with three children and no steady wages."
+      },
+      {
+        "title": "Making Do",
+        "text": "Clara's brother Walter, only ten, grew **forlorn** when he had to **relinquish** his bicycle to a pawnbroker for grocery money. Their father, a **stoic** man who rarely complained, simply patted the boy's shoulder. Some families in the neighborhood lived in real **squalor**, with broken windows and rats in the halls, and Clara felt thankful for what little her own family had. Meals became **austere**: bread, beans and one pot of soup stretched across three days."
+      },
+      {
+        "title": "The Neighbor Downstairs",
+        "text": "Odessa, the elderly woman on the first floor, was a **stalwart** friend to everyone in the building, always ready to lend a cup of flour or a warm coat. Clara's mother taught the children to be **prudent**, saving every button, scrap of string and penny in a tin. When a letter finally confirmed that the factory would not reopen, Walter muttered that all his hoping had been **futile**. Odessa found **solace** in her old hymns, and that evening she began to sing in the stairwell until the whole building hummed along."
+      },
+      {
+        "title": "What Remained",
+        "text": "Their troubles did not end quickly. Work returned slowly, a day here and a week there, and money stayed scarce for years. Still, Clara noticed that the hardest season had taught her something no classroom could. People survive difficult times by leaning on one another. Decades later, she kept one button from that old tin on her desk as a reminder."
+      }
+    ],
+    "wordCount": 298
+  },
+  "definitions": [
+    {
+      "word": "adversity",
+      "partOfSpeech": "noun",
+      "meaning1": "Hardship or serious misfortune. Example: The team showed great courage in the face of adversity.",
+      "meaning2": "",
+      "studentChallenge": "Learning to stay calm in the face of ___ can make people stronger.",
+      "sentence": ""
+    },
+    {
+      "word": "forlorn",
+      "partOfSpeech": "adjective",
+      "meaning1": "Sad and lonely, as if abandoned. Example: The forlorn puppy waited by the door for its owner.",
+      "meaning2": "",
+      "studentChallenge": "The ___ child sat alone at the empty bus stop.",
+      "sentence": ""
+    },
+    {
+      "word": "stoic",
+      "partOfSpeech": "adjective, noun",
+      "meaning1": "Bearing pain or hardship calmly, without showing emotion or complaining. Example: The stoic hiker kept walking despite her blisters.",
+      "meaning2": "A person who endures hardship without complaint. Example: As a stoic, he never mentioned his sore ankle.",
+      "studentChallenge": "Even after the bad news, she stayed ___ and said nothing about her disappointment.",
+      "sentence": ""
+    },
+    {
+      "word": "austere",
+      "partOfSpeech": "adjective",
+      "meaning1": "Plain and simple, without comforts or decoration; also strict and serious in manner. Example: The monk lived in an austere room with only a cot and a lamp.",
+      "meaning2": "Strict and stern in manner. Example: The austere headmaster rarely smiled.",
+      "studentChallenge": "The ___ cabin had no rugs, no pictures and only one chair.",
+      "sentence": ""
+    },
+    {
+      "word": "tenement",
+      "partOfSpeech": "noun",
+      "meaning1": "A crowded, run-down apartment building, especially in a poor part of a city. Example: Dozens of families shared the old tenement near the docks.",
+      "meaning2": "",
+      "studentChallenge": "Six families squeezed into the narrow ___ beside the railroad.",
+      "sentence": ""
+    },
+    {
+      "word": "plight",
+      "partOfSpeech": "noun",
+      "meaning1": "A difficult, sad or dangerous situation. Example: Volunteers worked to improve the plight of families who had lost their homes.",
+      "meaning2": "",
+      "studentChallenge": "The newspaper article described the ___ of workers who had lost their jobs.",
+      "sentence": ""
+    },
+    {
+      "word": "solace",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "Comfort during a time of sadness or disappointment. Example: Reading gave her solace after a long, hard day.",
+      "meaning2": "To comfort someone in distress. Example: A close friend came to solace her after the loss.",
+      "studentChallenge": "He found ___ in the quiet of the garden after hearing the sad news.",
+      "sentence": ""
+    },
+    {
+      "word": "squalor",
+      "partOfSpeech": "noun",
+      "meaning1": "Filthy, wretched living conditions, usually caused by poverty or neglect. Example: Reformers worked to end the squalor of the crowded slums.",
+      "meaning2": "",
+      "studentChallenge": "Photographs revealed the ___ in which many families were forced to live.",
+      "sentence": ""
+    },
+    {
+      "word": "futile",
+      "partOfSpeech": "adjective",
+      "meaning1": "Having no chance of success; pointless. Example: Trying to bail out the boat with a spoon was futile.",
+      "meaning2": "",
+      "studentChallenge": "It was ___ to argue with the storm, because the picnic was already ruined.",
+      "sentence": ""
+    },
+    {
+      "word": "prudent",
+      "partOfSpeech": "adjective",
+      "meaning1": "Wise and careful, thinking ahead to avoid problems. Example: It is prudent to check the weather before a long hike.",
+      "meaning2": "",
+      "studentChallenge": "A ___ shopper compares prices before spending any money.",
+      "sentence": ""
+    },
+    {
+      "word": "relinquish",
+      "partOfSpeech": "verb",
+      "meaning1": "To give up or let go of something, often unwillingly. Example: The champion had to relinquish her title after the injury.",
+      "meaning2": "",
+      "studentChallenge": "The king chose to ___ his crown rather than start a war.",
+      "sentence": ""
+    },
+    {
+      "word": "stalwart",
+      "partOfSpeech": "adjective, noun",
+      "meaning1": "Loyal, strong and dependable. Example: The stalwart volunteer worked every Saturday for ten years.",
+      "meaning2": "A loyal and hardworking supporter. Example: The stalwarts of the club attended every meeting.",
+      "studentChallenge": "Our ___ goalkeeper never missed a practice, no matter the weather.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Her courage in the face of _______ inspired everyone who knew her.",
+      "sentence2": "Many heroes in stories are shaped by early _______, such as poverty or loss.",
+      "options": [
+        "solace",
+        "tenement",
+        "adversity",
+        "squalor"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "adversity"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The _______ puppy sat by the empty bowl, whimpering at the door.",
+      "sentence2": "She felt _______ after all her friends moved away.",
+      "options": [
+        "forlorn",
+        "stoic",
+        "austere",
+        "prudent"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "forlorn"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The _______ soldier never complained, even when the long march grew painful.",
+      "sentence2": "Facing the bad news without a single tear, she was calm and _______ as a statue.",
+      "options": [
+        "forlorn",
+        "futile",
+        "prudent",
+        "stoic"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "stoic"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The monk's _______ room held only a narrow cot and a single candle.",
+      "sentence2": "The headmaster's _______ manner made students sit up straight.",
+      "options": [
+        "forlorn",
+        "austere",
+        "prudent",
+        "stalwart"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "austere"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Six families shared the crowded, run-down _______ near the rail yard.",
+      "sentence2": "The reporter described the narrow stairs of the _______ where she grew up.",
+      "options": [
+        "plight",
+        "tenement",
+        "squalor",
+        "solace"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "tenement"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The documentary drew attention to the _______ of families left homeless by the flood.",
+      "sentence2": "Nobody could ignore the sad _______ of the stray animals in the storm.",
+      "options": [
+        "solace",
+        "squalor",
+        "tenement",
+        "plight"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "plight"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The lonely boy found _______ in his grandmother's gentle stories.",
+      "sentence2": "Music brought her _______ after the long, sad winter.",
+      "options": [
+        "solace",
+        "plight",
+        "adversity",
+        "squalor"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "solace"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The inspector was shocked by the filth and _______ in the abandoned building.",
+      "sentence2": "No child should grow up in such _______, with rats and broken pipes.",
+      "options": [
+        "solace",
+        "tenement",
+        "squalor",
+        "plight"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "squalor"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "It was _______ to argue with the umpire after the final call.",
+      "sentence2": "Their _______ efforts to push the stuck car only left them tired.",
+      "options": [
+        "prudent",
+        "stoic",
+        "futile",
+        "stalwart"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "futile"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "It is _______ to save a little money from every paycheck.",
+      "sentence2": "A _______ traveler checks the forecast and packs an extra coat.",
+      "options": [
+        "prudent",
+        "futile",
+        "forlorn",
+        "stoic"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "prudent"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The champion had to _______ her title after the injury.",
+      "sentence2": "Neither side was willing to _______ the land they had fought for.",
+      "options": [
+        "solace",
+        "squalor",
+        "tenement",
+        "relinquish"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "relinquish"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The _______ volunteer could always be counted on to unload the trucks, rain or shine.",
+      "sentence2": "She was a _______ supporter of the team, loyal through every losing season.",
+      "options": [
+        "forlorn",
+        "stalwart",
+        "austere",
+        "futile"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "stalwart"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "adversity",
+      "forlorn",
+      "stoic",
+      "austere",
+      "tenement",
+      "plight",
+      "solace",
+      "squalor",
+      "futile",
+      "prudent",
+      "relinquish",
+      "stalwart"
+    ],
+    "passage": "Odessa's grandson often asked her about the Depression years. She told him her family had lived in a cramped _(1)_ where six families shared a single bathroom down the hall. Sometimes the halls sank into _(2)_, with trash piling up when the landlord stopped caring. “We lived through great _(3)_,” she said, “but we never lost our spirit.”\n\nHer father was a _(4)_ man who bore every hardship without a word, yet she remembered how _(5)_ he looked the day he had to _(6)_ his tools to pay the rent. Their meals were _(7)_, mostly bread and beans. The family learned to be _(8)_ with money, never spending a penny without thinking. Looking for steady work in those years was often _(9)_, yet her mother remained a _(10)_ source of strength. Odessa found _(11)_ in her mother's lullabies, and she never forgot the _(12)_ of those who had less.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "tenement",
+        "options": [
+          "plight",
+          "solace",
+          "adversity",
+          "tenement"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "squalor",
+        "options": [
+          "squalor",
+          "solace",
+          "plight",
+          "stoic"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "adversity",
+        "options": [
+          "solace",
+          "tenement",
+          "adversity",
+          "prudent"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "stoic",
+        "options": [
+          "forlorn",
+          "stoic",
+          "futile",
+          "tenement"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "forlorn",
+        "options": [
+          "stoic",
+          "prudent",
+          "stalwart",
+          "forlorn"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "relinquish",
+        "options": [
+          "relinquish",
+          "solace",
+          "squalor",
+          "adversity"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "austere",
+        "options": [
+          "futile",
+          "forlorn",
+          "austere",
+          "prudent"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "prudent",
+        "options": [
+          "forlorn",
+          "prudent",
+          "futile",
+          "stalwart"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "futile",
+        "options": [
+          "prudent",
+          "austere",
+          "forlorn",
+          "futile"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "stalwart",
+        "options": [
+          "stalwart",
+          "futile",
+          "forlorn",
+          "austere"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "solace",
+        "options": [
+          "plight",
+          "squalor",
+          "solace",
+          "tenement"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "plight",
+        "options": [
+          "solace",
+          "plight",
+          "tenement",
+          "relinquish"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "forlorn",
+        "scale": [
+          "Blue",
+          "Gloomy",
+          "Forlorn"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "squalor",
+        "scale": [
+          "Mess",
+          "Filth",
+          "Squalor"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "futile",
+        "scale": [
+          "Unlikely",
+          "Hopeless",
+          "Futile"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "adversity",
+        "scale": [
+          "Setback",
+          "Hardship",
+          "Adversity"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "stoic",
+        "words": [
+          "Calm",
+          "Unflinching",
+          "Hysterical",
+          "Composed"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Hysterical"
+      },
+      {
+        "vocabWord": "austere",
+        "words": [
+          "Plain",
+          "Severe",
+          "Spartan",
+          "Luxurious"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Luxurious"
+      },
+      {
+        "vocabWord": "plight",
+        "words": [
+          "Triumph",
+          "Predicament",
+          "Dilemma",
+          "Crisis"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Triumph"
+      },
+      {
+        "vocabWord": "solace",
+        "words": [
+          "Comfort",
+          "Misery",
+          "Relief",
+          "Consolation"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Misery"
+      },
+      {
+        "vocabWord": "prudent",
+        "words": [
+          "Wise",
+          "Careful",
+          "Sensible",
+          "Reckless"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Reckless"
+      },
+      {
+        "vocabWord": "relinquish",
+        "words": [
+          "Surrender",
+          "Yield",
+          "Keep",
+          "Abandon"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Keep"
+      },
+      {
+        "vocabWord": "stalwart",
+        "words": [
+          "Loyal",
+          "Unreliable",
+          "Dependable",
+          "Steadfast"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Unreliable"
+      },
+      {
+        "vocabWord": "forlorn",
+        "words": [
+          "Cheerful",
+          "Lonely",
+          "Dejected",
+          "Despondent"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Cheerful"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

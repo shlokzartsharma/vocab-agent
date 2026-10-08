@@ -1,0 +1,578 @@
+{
+  "grade": 7,
+  "setNumber": 4,
+  "words": [
+    "siege",
+    "fortress",
+    "moat",
+    "vassal",
+    "garrison",
+    "bolster",
+    "tapestry",
+    "banquet",
+    "jester",
+    "feud",
+    "heed",
+    "peasant"
+  ],
+  "sources": [
+    "Common Core Grade 7",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "medieval castle siege",
+  "story": {
+    "genre": "medieval castle siege",
+    "characters": [
+      "Gwen",
+      "Rodrigo",
+      "Aiyana"
+    ],
+    "parts": [
+      {
+        "title": "The Gates Close",
+        "text": "When the army of Lord Harrow surrounded Stonehaven, the **siege** began. Gwen, the steward's daughter, watched from the tower as enemy tents rose beyond the walls. The **fortress** had never fallen, protected by thick stone and a deep **moat** filled with dark water. Her father, a loyal **vassal** who had sworn to serve the castle's lord, ordered the gates barred. \"Our **garrison** has only sixty soldiers,\" he said, \"so we must **bolster** the walls with timber.\""
+      },
+      {
+        "title": "Behind the Tapestry",
+        "text": "By the second week, food was scarce. Hundreds of **peasant** families had fled inside the walls, and the great hall, once the scene of a glittering **banquet**, was now crowded with sleeping children. Aiyana, the castle's **jester**, still juggled for the little ones, but her eyes were serious. One morning she lifted a faded **tapestry** and showed Gwen and Rodrigo a narrow door hidden in the stone."
+      },
+      {
+        "title": "The Dark Passage",
+        "text": "The old **feud** between the two lords had begun over a stream on their border, and neither would give in. Aiyana warned that the tunnel led far beyond the enemy lines, so Gwen begged her father to **heed** her advice instead of waiting for starvation. At dawn, the three friends crept through the passage carrying a white flag and a letter offering to share the stream."
+      },
+      {
+        "title": "Peace at Last",
+        "text": "Lord Harrow, startled to see children outside his tent, read the letter twice. By evening, both lords had agreed to talk, and the heavy gates opened so hungry families could share a meal with both camps. Gwen learned that courage sometimes means walking toward an enemy with open hands."
+      }
+    ],
+    "wordCount": 258
+  },
+  "definitions": [
+    {
+      "word": "siege",
+      "partOfSpeech": "noun",
+      "meaning1": "A long attempt to capture a place by surrounding it and cutting off its supplies. Example: The siege lasted six months before the town finally surrendered.",
+      "meaning2": "",
+      "studentChallenge": "The army camped around the walls to begin a ___ of the city.",
+      "sentence": ""
+    },
+    {
+      "word": "fortress",
+      "partOfSpeech": "noun",
+      "meaning1": "A strong, heavily guarded building or town built to withstand attack. Example: The stone fortress stood on a cliff above the sea.",
+      "meaning2": "",
+      "studentChallenge": "Soldiers at the mountain ___ watched the road for enemies.",
+      "sentence": ""
+    },
+    {
+      "word": "moat",
+      "partOfSpeech": "noun",
+      "meaning1": "A deep, wide ditch, usually filled with water, dug around a castle for defense. Example: A drawbridge crossed the moat so visitors could enter the castle.",
+      "meaning2": "",
+      "studentChallenge": "Attackers could not reach the walls because a wide, deep ___ surrounded the castle.",
+      "sentence": ""
+    },
+    {
+      "word": "vassal",
+      "partOfSpeech": "noun",
+      "meaning1": "In the Middle Ages, a person who promised loyalty and service to a lord in return for land and protection. Example: The vassal swore to fight for his lord in times of war.",
+      "meaning2": "A person or country that depends on a stronger one. Example: The small kingdom became a vassal of its powerful neighbor.",
+      "studentChallenge": "A loyal ___ pledged to serve his lord in return for protection.",
+      "sentence": ""
+    },
+    {
+      "word": "garrison",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A group of soldiers stationed in a fort or town to defend it. Example: The garrison guarded the border castle all winter.",
+      "meaning2": "To station troops in a place to defend it. Example: The king chose to garrison the tower with archers.",
+      "studentChallenge": "A small ___ of soldiers guarded the gate day and night.",
+      "sentence": ""
+    },
+    {
+      "word": "bolster",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To strengthen or support something. Example: Extra practice helped bolster the team's confidence.",
+      "meaning2": "A long, narrow pillow or cushion. Example: A soft bolster rested at the head of the bed.",
+      "studentChallenge": "The coach hoped a pep talk would ___ the players' courage.",
+      "sentence": ""
+    },
+    {
+      "word": "tapestry",
+      "partOfSpeech": "noun",
+      "meaning1": "A heavy cloth with pictures or patterns woven into it, often hung on a wall. Example: A tapestry of a hunting scene covered the stone wall.",
+      "meaning2": "A rich mixture of many different things. Example: The city is a tapestry of cultures, languages and foods.",
+      "studentChallenge": "A colorful woven ___ hung on the castle wall to keep out the cold.",
+      "sentence": ""
+    },
+    {
+      "word": "banquet",
+      "partOfSpeech": "noun",
+      "meaning1": "A large, formal meal for many guests, often held to celebrate something. Example: The king hosted a banquet to honor the returning knights.",
+      "meaning2": "",
+      "studentChallenge": "Hundreds of guests attended the royal ___ in the great hall.",
+      "sentence": ""
+    },
+    {
+      "word": "jester",
+      "partOfSpeech": "noun",
+      "meaning1": "A performer in a royal court who told jokes, sang and played tricks to entertain. Example: The jester juggled apples and sang silly songs for the king.",
+      "meaning2": "",
+      "studentChallenge": "The court ___ wore a hat with bells and made everyone laugh.",
+      "sentence": ""
+    },
+    {
+      "word": "feud",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A long, bitter quarrel between people or families. Example: The feud between the two neighbors began over a fence.",
+      "meaning2": "To carry on such a quarrel. Example: The two families would feud for generations.",
+      "studentChallenge": "An old ___ over land kept the two families from speaking.",
+      "sentence": ""
+    },
+    {
+      "word": "heed",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To pay careful attention to advice or a warning. Example: Hikers who heed the weather report stay safe.",
+      "meaning2": "Careful attention. Example: Give heed to the warning signs.",
+      "studentChallenge": "Smart travelers ___ the guide's warning about the storm.",
+      "sentence": ""
+    },
+    {
+      "word": "peasant",
+      "partOfSpeech": "noun",
+      "meaning1": "In the past, a poor farm worker who lived and worked on the land of a lord. Example: A peasant planted wheat in the fields outside the castle.",
+      "meaning2": "",
+      "studentChallenge": "The ___ carried a basket of turnips to the village market.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The enemy army began a _______ and cut off all food from outside.",
+      "sentence2": "After a three-month _______, the starving city finally opened its gates.",
+      "options": [
+        "feud",
+        "banquet",
+        "siege",
+        "garrison"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "siege"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "No army had ever captured the mighty mountain _______.",
+      "sentence2": "Their snowy _______ had thick walls and a tower at every corner.",
+      "options": [
+        "fortress",
+        "tapestry",
+        "moat",
+        "banquet"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "fortress"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The drawbridge was lowered so riders could cross the water-filled _______.",
+      "sentence2": "Enemy soldiers could not climb the walls without first crossing the wide, deep _______.",
+      "options": [
+        "fortress",
+        "siege",
+        "banquet",
+        "moat"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "moat"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The knight, a loyal _______, swore to serve his lord in battle.",
+      "sentence2": "As a _______ of the king, the duke owed him soldiers and loyalty.",
+      "options": [
+        "peasant",
+        "vassal",
+        "jester",
+        "garrison"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "vassal"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "A _______ of fifty soldiers defended the border tower.",
+      "sentence2": "The general ordered his troops to _______ the old fort through the winter.",
+      "options": [
+        "siege",
+        "garrison",
+        "vassal",
+        "jester"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "garrison"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The captain tried to _______ the walls with extra stones and wooden beams.",
+      "sentence2": "A heartfelt speech helped _______ the weary soldiers' courage.",
+      "options": [
+        "heed",
+        "feud",
+        "garrison",
+        "bolster"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "bolster"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "A woven _______ showing a unicorn hung beside the fireplace.",
+      "sentence2": "The festival was a rich _______ of music, dance and food from many cultures.",
+      "options": [
+        "tapestry",
+        "banquet",
+        "fortress",
+        "moat"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "tapestry"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Roast swans and honey cakes were served at the royal _______.",
+      "sentence2": "The school held an awards _______ with speeches and a three-course dinner.",
+      "options": [
+        "tapestry",
+        "siege",
+        "banquet",
+        "jester"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "banquet"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The _______ juggled three flaming torches to make the court laugh.",
+      "sentence2": "Wearing a hat with tiny bells, the king's _______ told riddles and silly jokes.",
+      "options": [
+        "peasant",
+        "vassal",
+        "jester",
+        "garrison"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "jester"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "A bitter _______ over land kept the two families from speaking for generations.",
+      "sentence2": "The brothers would _______ for years, each refusing to say sorry.",
+      "options": [
+        "feud",
+        "siege",
+        "heed",
+        "bolster"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "feud"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "She chose to _______ her mother's advice and wear a warm coat.",
+      "sentence2": "Travelers who _______ the warning signs stay out of danger.",
+      "options": [
+        "bolster",
+        "heed",
+        "feud",
+        "garrison"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "heed"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The poor _______ spent every day plowing the lord's fields.",
+      "sentence2": "A _______ in the village traded eggs for a loaf of bread.",
+      "options": [
+        "jester",
+        "garrison",
+        "banquet",
+        "peasant"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "peasant"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "siege",
+      "fortress",
+      "moat",
+      "vassal",
+      "garrison",
+      "bolster",
+      "tapestry",
+      "banquet",
+      "jester",
+      "feud",
+      "heed",
+      "peasant"
+    ],
+    "passage": "Aiyana loved the stories her grandmother told about Stonehaven, a famous _(1)_ built on a rocky hill. A deep _(2)_ circled its walls, and a _(3)_ of sixty soldiers guarded the gate. Every spring, the lord held a grand _(4)_ where the court _(5)_ juggled and sang. A colorful _(6)_ hung in the great hall, telling tales of old heroes. A loyal _(7)_ promised to defend the lord, and a poor _(8)_ brought grain to the kitchen.\n\nOne year, a bitter _(9)_ between two lords led to a _(10)_ that lasted all winter. The castle's defenders worked to _(11)_ the walls with timber, and the steward begged the lord to _(12)_ his advice and make peace.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "fortress",
+        "options": [
+          "tapestry",
+          "banquet",
+          "jester",
+          "fortress"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "moat",
+        "options": [
+          "moat",
+          "siege",
+          "feud",
+          "banquet"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "garrison",
+        "options": [
+          "tapestry",
+          "feud",
+          "garrison",
+          "banquet"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "banquet",
+        "options": [
+          "siege",
+          "feud",
+          "banquet",
+          "moat"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "jester",
+        "options": [
+          "jester",
+          "moat",
+          "siege",
+          "tapestry"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "tapestry",
+        "options": [
+          "moat",
+          "tapestry",
+          "siege",
+          "vassal"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "vassal",
+        "options": [
+          "fortress",
+          "tapestry",
+          "moat",
+          "vassal"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "peasant",
+        "options": [
+          "moat",
+          "banquet",
+          "peasant",
+          "tapestry"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "feud",
+        "options": [
+          "feud",
+          "moat",
+          "banquet",
+          "tapestry"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "siege",
+        "options": [
+          "moat",
+          "tapestry",
+          "vassal",
+          "siege"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "bolster",
+        "options": [
+          "heed",
+          "bolster",
+          "feud",
+          "garrison"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "heed",
+        "options": [
+          "garrison",
+          "heed",
+          "feud",
+          "tapestry"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "bolster",
+        "scale": [
+          "Help",
+          "Bolster",
+          "Reinforce"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "feud",
+        "scale": [
+          "Disagreement",
+          "Quarrel",
+          "Feud"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "heed",
+        "scale": [
+          "Notice",
+          "Heed",
+          "Obey"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "banquet",
+        "scale": [
+          "Snack",
+          "Meal",
+          "Banquet"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "siege",
+        "words": [
+          "Blockade",
+          "Assault",
+          "Encirclement",
+          "Release"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Release"
+      },
+      {
+        "vocabWord": "fortress",
+        "words": [
+          "Stronghold",
+          "Shack",
+          "Citadel",
+          "Castle"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Shack"
+      },
+      {
+        "vocabWord": "vassal",
+        "words": [
+          "Ruler",
+          "Servant",
+          "Subject",
+          "Follower"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Ruler"
+      },
+      {
+        "vocabWord": "jester",
+        "words": [
+          "Clown",
+          "Comedian",
+          "Grump",
+          "Entertainer"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Grump"
+      },
+      {
+        "vocabWord": "peasant",
+        "words": [
+          "Farmer",
+          "Laborer",
+          "Noble",
+          "Villager"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Noble"
+      },
+      {
+        "vocabWord": "feud",
+        "words": [
+          "Friendship",
+          "Quarrel",
+          "Conflict",
+          "Rivalry"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Friendship"
+      },
+      {
+        "vocabWord": "bolster",
+        "words": [
+          "Strengthen",
+          "Support",
+          "Reinforce",
+          "Weaken"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Weaken"
+      },
+      {
+        "vocabWord": "heed",
+        "words": [
+          "Obey",
+          "Ignore",
+          "Follow",
+          "Mind"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Ignore"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

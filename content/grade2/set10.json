@@ -1,0 +1,578 @@
+{
+  "grade": 2,
+  "setNumber": 10,
+  "words": [
+    "surprise",
+    "secret",
+    "decorate",
+    "balloon",
+    "celebrate",
+    "delight",
+    "banner",
+    "candle",
+    "streamer",
+    "unwrap",
+    "merry",
+    "invitation"
+  ],
+  "sources": [
+    "Common Core Grade 2",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "birthday surprise",
+  "story": {
+    "genre": "birthday surprise",
+    "characters": [
+      "Lola",
+      "Andre",
+      "Sana"
+    ],
+    "parts": [
+      {
+        "title": "A Big Plan",
+        "text": "Lola, Andre, and Sana wanted to plan a **surprise** party for their friend Mia. “It has to be a **secret**,” whispered Lola. Andre drew a bright **invitation** with stars on it, and Sana handed one to every classmate."
+      },
+      {
+        "title": "Getting Ready",
+        "text": "On Saturday, everyone came early to **decorate** the backyard. Sana blew up a red **balloon** and tied it to the fence. Andre hung a long **banner** that said “Happy Birthday!” Lola taped a rainbow **streamer** across the doorway."
+      },
+      {
+        "title": "The Big Moment",
+        "text": "When Mia walked in, everyone jumped out and shouted, “Happy birthday!” Her face filled with **delight**. Everyone began to **celebrate** with music and games. Lola lit the **candle** on the cake, and Mia made a wish. Then she began to **unwrap** her presents, and the whole yard felt **merry**."
+      },
+      {
+        "title": "The Best Day",
+        "text": "Later, Mia hugged her three friends and said it was the best birthday ever. She said she had not guessed a thing. Lola, Andre, and Sana smiled. Planning a happy day for someone else felt wonderful, and they could not wait to do it again."
+      }
+    ],
+    "wordCount": 170
+  },
+  "definitions": [
+    {
+      "word": "surprise",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "Something that you did not expect. Example: The party was a big surprise.",
+      "meaning2": "To make someone feel wonder by doing something unexpected. Example: We want to surprise Dad with a cake.",
+      "studentChallenge": "We hid in the dark to ___ Dad when he walked in.",
+      "sentence": ""
+    },
+    {
+      "word": "secret",
+      "partOfSpeech": "noun, adjective",
+      "meaning1": "Something you keep to yourself and do not tell. Example: I promised to keep the gift a secret.",
+      "meaning2": "Hidden from other people. Example: We found a secret door behind the shelf.",
+      "studentChallenge": "Please don’t tell anyone; it’s a ___.",
+      "sentence": ""
+    },
+    {
+      "word": "decorate",
+      "partOfSpeech": "verb",
+      "meaning1": "To make something look nice by adding things to it. Example: We will decorate the room with paper stars.",
+      "meaning2": "",
+      "studentChallenge": "Let’s ___ the cookies with sprinkles.",
+      "sentence": ""
+    },
+    {
+      "word": "balloon",
+      "partOfSpeech": "noun",
+      "meaning1": "A rubber bag that you fill with air. Example: My balloon floated up to the ceiling.",
+      "meaning2": "",
+      "studentChallenge": "The child held a red ___ by its string.",
+      "sentence": ""
+    },
+    {
+      "word": "celebrate",
+      "partOfSpeech": "verb",
+      "meaning1": "To do something fun for a special day or good news. Example: We celebrate the new year with a big dinner.",
+      "meaning2": "",
+      "studentChallenge": "Our family will ___ with cake and games.",
+      "sentence": ""
+    },
+    {
+      "word": "delight",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "Great happiness and joy. Example: The puppy brought delight to the whole family.",
+      "meaning2": "To please someone very much. Example: Magic tricks delight little kids.",
+      "studentChallenge": "The baby squealed with ___ at the bubbles.",
+      "sentence": ""
+    },
+    {
+      "word": "banner",
+      "partOfSpeech": "noun",
+      "meaning1": "A long piece of cloth or paper with words or a picture on it. Example: The banner said, “Welcome Home!”",
+      "meaning2": "",
+      "studentChallenge": "The students hung a ___ that said “Welcome!”",
+      "sentence": ""
+    },
+    {
+      "word": "candle",
+      "partOfSpeech": "noun",
+      "meaning1": "A stick of wax with a string in the middle that you burn for light. Example: She blew out the candle on her cake.",
+      "meaning2": "",
+      "studentChallenge": "He made a wish and blew out the ___.",
+      "sentence": ""
+    },
+    {
+      "word": "streamer",
+      "partOfSpeech": "noun",
+      "meaning1": "A long, thin strip of paper used to decorate. Example: A pink streamer hung from the ceiling.",
+      "meaning2": "",
+      "studentChallenge": "We twisted a long paper ___ across the room.",
+      "sentence": ""
+    },
+    {
+      "word": "unwrap",
+      "partOfSpeech": "verb",
+      "meaning1": "To take off the paper or cover from something. Example: I can’t wait to unwrap my present.",
+      "meaning2": "",
+      "studentChallenge": "Please ___ the gift carefully.",
+      "sentence": ""
+    },
+    {
+      "word": "merry",
+      "partOfSpeech": "adjective",
+      "meaning1": "Cheerful and full of fun. Example: The merry crowd sang songs and danced.",
+      "meaning2": "",
+      "studentChallenge": "The ___ band played songs all evening.",
+      "sentence": ""
+    },
+    {
+      "word": "invitation",
+      "partOfSpeech": "noun",
+      "meaning1": "A note that asks you to come to a party or event. Example: I got an invitation to my cousin’s party.",
+      "meaning2": "",
+      "studentChallenge": "She mailed an ___ to each guest.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The party was a big _______ because nobody had told her.",
+      "sentence2": "Dad wants to _______ Mom with flowers when she gets home.",
+      "options": [
+        "balloon",
+        "surprise",
+        "banner",
+        "unwrap"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "surprise"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "I promised not to tell anyone the _______ about the gift.",
+      "sentence2": "We found a _______ door hidden behind the bookshelf.",
+      "options": [
+        "secret",
+        "surprise",
+        "merry",
+        "streamer"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "secret"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Let’s _______ the cookies with colorful sprinkles.",
+      "sentence2": "We will _______ the classroom with paper stars for the party.",
+      "options": [
+        "celebrate",
+        "unwrap",
+        "surprise",
+        "decorate"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "decorate"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The little girl held a red _______ by its long string.",
+      "sentence2": "My _______ floated up and stuck to the ceiling.",
+      "options": [
+        "candle",
+        "banner",
+        "balloon",
+        "invitation"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "balloon"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Our family will _______ with cake and games on Saturday.",
+      "sentence2": "We _______ the new year with a big dinner.",
+      "options": [
+        "decorate",
+        "celebrate",
+        "unwrap",
+        "surprise"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "celebrate"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The baby squealed with _______ when she saw the bubbles.",
+      "sentence2": "Her face lit up with _______ when she opened the box.",
+      "options": [
+        "delight",
+        "banner",
+        "candle",
+        "secret"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "delight"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "A long _______ that said “Welcome Home!” hung over the door.",
+      "sentence2": "The students painted a _______ with bright letters for the parade.",
+      "options": [
+        "candle",
+        "balloon",
+        "invitation",
+        "banner"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "banner"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "He made a wish and blew out the _______ on his cake.",
+      "sentence2": "Mom lit a _______ and set it on the table when the lights went out.",
+      "options": [
+        "balloon",
+        "streamer",
+        "candle",
+        "banner"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "candle"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "We twisted a long paper _______ across the room.",
+      "sentence2": "A pink _______ hung down from the ceiling fan.",
+      "options": [
+        "balloon",
+        "streamer",
+        "candle",
+        "invitation"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "streamer"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Please _______ the gift slowly so you don’t tear the paper.",
+      "sentence2": "I can’t wait to _______ my new toy and play with it.",
+      "options": [
+        "unwrap",
+        "celebrate",
+        "surprise",
+        "delight"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "unwrap"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The _______ crowd sang songs and danced all night.",
+      "sentence2": "She had a _______ laugh that made everyone smile.",
+      "options": [
+        "balloon",
+        "candle",
+        "banner",
+        "merry"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "merry"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "She mailed an _______ to every guest.",
+      "sentence2": "I got an _______ to my cousin’s party.",
+      "options": [
+        "balloon",
+        "banner",
+        "invitation",
+        "candle"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "invitation"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "surprise",
+      "secret",
+      "decorate",
+      "balloon",
+      "celebrate",
+      "delight",
+      "banner",
+      "candle",
+      "streamer",
+      "unwrap",
+      "merry",
+      "invitation"
+    ],
+    "passage": "Ben was turning eight, and his family wanted to _(1)_ him with a party. Mom said it must stay a _(2)_ until Saturday. She wrote an _(3)_ for each of his friends and mailed them.\nOn Saturday morning, they began to _(4)_ the living room. Dad blew up a blue _(5)_, and Grandma hung a _(6)_ across the wall that said “Happy Birthday, Ben!” A shiny _(7)_ curled down from the lamp.\nWhen Ben came home, everyone cheered. His face filled with _(8)_. It was a _(9)_ afternoon, with songs, laughter, and games. They all gathered to _(10)_ his big day. Ben made a wish and blew out the _(11)_ on his cake. Then he began to _(12)_ his presents.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "surprise",
+        "options": [
+          "unwrap",
+          "decorate",
+          "surprise",
+          "balloon"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "secret",
+        "options": [
+          "merry",
+          "secret",
+          "banner",
+          "candle"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "invitation",
+        "options": [
+          "invitation",
+          "secret",
+          "streamer",
+          "candle"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "decorate",
+        "options": [
+          "unwrap",
+          "celebrate",
+          "surprise",
+          "decorate"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "balloon",
+        "options": [
+          "banner",
+          "candle",
+          "balloon",
+          "invitation"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "banner",
+        "options": [
+          "balloon",
+          "banner",
+          "candle",
+          "merry"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "streamer",
+        "options": [
+          "streamer",
+          "balloon",
+          "invitation",
+          "secret"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "delight",
+        "options": [
+          "banner",
+          "streamer",
+          "invitation",
+          "delight"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "merry",
+        "options": [
+          "delight",
+          "balloon",
+          "merry",
+          "banner"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "celebrate",
+        "options": [
+          "decorate",
+          "celebrate",
+          "unwrap",
+          "surprise"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "candle",
+        "options": [
+          "candle",
+          "balloon",
+          "banner",
+          "streamer"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "unwrap",
+        "options": [
+          "merry",
+          "secret",
+          "candle",
+          "unwrap"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "delight",
+        "scale": [
+          "Pleasure",
+          "Joy",
+          "Delight"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "surprise",
+        "scale": [
+          "Hint",
+          "Surprise",
+          "Shock"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "merry",
+        "scale": [
+          "Content",
+          "Merry",
+          "Joyful"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "decorate",
+        "scale": [
+          "Tidy",
+          "Decorate",
+          "Transform"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "surprise",
+        "words": [
+          "Shock",
+          "Boredom",
+          "Wonder",
+          "Amazement"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Boredom"
+      },
+      {
+        "vocabWord": "secret",
+        "words": [
+          "Public",
+          "Hidden",
+          "Private",
+          "Unknown"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Public"
+      },
+      {
+        "vocabWord": "decorate",
+        "words": [
+          "Beautify",
+          "Trim",
+          "Dress up",
+          "Ruin"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Ruin"
+      },
+      {
+        "vocabWord": "celebrate",
+        "words": [
+          "Cheer",
+          "Party",
+          "Mourn",
+          "Rejoice"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Mourn"
+      },
+      {
+        "vocabWord": "delight",
+        "words": [
+          "Joy",
+          "Sadness",
+          "Pleasure",
+          "Glee"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Sadness"
+      },
+      {
+        "vocabWord": "merry",
+        "words": [
+          "Gloomy",
+          "Cheerful",
+          "Jolly",
+          "Happy"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Gloomy"
+      },
+      {
+        "vocabWord": "unwrap",
+        "words": [
+          "Open",
+          "Uncover",
+          "Unpack",
+          "Cover up"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Cover up"
+      },
+      {
+        "vocabWord": "invitation",
+        "words": [
+          "Request",
+          "Welcome",
+          "Refusal",
+          "Offer"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Refusal"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

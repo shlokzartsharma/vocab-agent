@@ -1,0 +1,578 @@
+{
+  "grade": 1,
+  "setNumber": 9,
+  "words": [
+    "acorn",
+    "rustle",
+    "branch",
+    "nest",
+    "hidden",
+    "whisker",
+    "scurry",
+    "creep",
+    "den",
+    "trail",
+    "lonely",
+    "shade"
+  ],
+  "sources": [
+    "Common Core Grade 1",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "forest friends",
+  "story": {
+    "genre": "forest friends",
+    "characters": [
+      "Finn",
+      "Maya",
+      "Diego"
+    ],
+    "parts": [
+      {
+        "title": "Into the Woods",
+        "text": "Finn, Maya, and Diego walked on a **trail** in the woods. The air felt cool in the **shade**. Maya found a round **acorn** and put it in her pocket. Dry leaves began to **rustle** by a log."
+      },
+      {
+        "title": "Little Homes",
+        "text": "Diego looked up and saw a **nest** on a high **branch**. Three small eggs sat inside. Then Finn saw a **hidden** hole under a tree. One long **whisker** poked out of it. It was the **den** of a little chipmunk."
+      },
+      {
+        "title": "A Lonely Friend",
+        "text": "The chipmunk came out and looked **lonely**. The children sat very still. The chipmunk began to **creep** closer. Maya gave it a bit of her snack. The chipmunk took it and began to **scurry** home."
+      },
+      {
+        "title": "Goodbye, Friend",
+        "text": "The friends waved goodbye. They had made a new friend in the woods. They walked home with happy smiles."
+      }
+    ],
+    "wordCount": 131
+  },
+  "definitions": [
+    {
+      "word": "acorn",
+      "partOfSpeech": "noun",
+      "meaning1": "The nut of an oak tree. Example: A squirrel hid an acorn in the ground.",
+      "meaning2": "",
+      "studentChallenge": "The squirrel buried an ___ under the oak tree.",
+      "sentence": ""
+    },
+    {
+      "word": "rustle",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To make a soft sound like dry leaves moving. Example: Leaves rustle when the wind blows.",
+      "meaning2": "A soft sound of things moving. Example: I heard a rustle in the bushes.",
+      "studentChallenge": "Dry leaves ___ when you walk on them.",
+      "sentence": ""
+    },
+    {
+      "word": "branch",
+      "partOfSpeech": "noun",
+      "meaning1": "A part of a tree that grows out from the trunk. Example: A bird sat on the branch.",
+      "meaning2": "A smaller part that comes off a bigger part. Example: The road has a branch that goes to the lake.",
+      "studentChallenge": "The bird sat on a high ___.",
+      "sentence": ""
+    },
+    {
+      "word": "nest",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A home that birds make for their eggs. Example: The robin built a nest.",
+      "meaning2": "To make or settle in a home. Example: Birds nest in the tall tree.",
+      "studentChallenge": "The mother bird sat in her ___.",
+      "sentence": ""
+    },
+    {
+      "word": "hidden",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not easy to see. Example: The treasure was hidden under the rock.",
+      "meaning2": "",
+      "studentChallenge": "The cat was ___ behind the couch.",
+      "sentence": ""
+    },
+    {
+      "word": "whisker",
+      "partOfSpeech": "noun",
+      "meaning1": "One of the long, stiff hairs near the nose of a cat or mouse. Example: The cat has a long whisker.",
+      "meaning2": "",
+      "studentChallenge": "The mouse twitched its ___.",
+      "sentence": ""
+    },
+    {
+      "word": "scurry",
+      "partOfSpeech": "verb",
+      "meaning1": "To run fast with little steps. Example: Ants scurry across the ground.",
+      "meaning2": "",
+      "studentChallenge": "The mice ___ into their hole.",
+      "sentence": ""
+    },
+    {
+      "word": "creep",
+      "partOfSpeech": "verb",
+      "meaning1": "To move slowly and quietly, low to the ground. Example: The cat will creep up to the toy.",
+      "meaning2": "",
+      "studentChallenge": "The baby will ___ across the rug.",
+      "sentence": ""
+    },
+    {
+      "word": "den",
+      "partOfSpeech": "noun",
+      "meaning1": "A safe home of a wild animal. Example: The bear sleeps in its den.",
+      "meaning2": "A cozy room in a house. Example: Dad reads in the den.",
+      "studentChallenge": "The fox went into its ___ to rest.",
+      "sentence": ""
+    },
+    {
+      "word": "trail",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A path through the woods or hills. Example: We hiked on a trail in the forest.",
+      "meaning2": "To follow slowly behind. Example: The ducklings trail behind their mother.",
+      "studentChallenge": "We walked along the ___ in the woods.",
+      "sentence": ""
+    },
+    {
+      "word": "lonely",
+      "partOfSpeech": "adjective",
+      "meaning1": "Sad because you are alone. Example: The lonely kitten wanted a friend.",
+      "meaning2": "",
+      "studentChallenge": "The new girl felt ___ at first.",
+      "sentence": ""
+    },
+    {
+      "word": "shade",
+      "partOfSpeech": "noun",
+      "meaning1": "A cool spot where the sun does not shine. Example: We sat in the shade of a big tree.",
+      "meaning2": "A cover for a lamp or window. Example: Pull down the shade.",
+      "studentChallenge": "We rested in the ___ of a tree.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The squirrel hid the _______ under a leaf.",
+      "sentence2": "A tall oak tree grows from one tiny _______.",
+      "options": [
+        "trail",
+        "acorn",
+        "shade",
+        "whisker"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "acorn"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "I heard a _______ in the dry leaves.",
+      "sentence2": "Dry leaves _______ when the wind blows.",
+      "options": [
+        "branch",
+        "hidden",
+        "lonely",
+        "rustle"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "rustle"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The bird sat on a high _______ of the tree.",
+      "sentence2": "A small stick broke off the big _______.",
+      "options": [
+        "branch",
+        "acorn",
+        "whisker",
+        "shade"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "branch"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The mother bird sat in her _______.",
+      "sentence2": "Birds build a _______ to hold their eggs.",
+      "options": [
+        "trail",
+        "whisker",
+        "nest",
+        "lonely"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "nest"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The treasure was _______ under a rock.",
+      "sentence2": "A _______ door was behind the shelf.",
+      "options": [
+        "lonely",
+        "rustle",
+        "whisker",
+        "hidden"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "hidden"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The cat has one long white _______.",
+      "sentence2": "The mouse twitched its tiny _______.",
+      "options": [
+        "acorn",
+        "whisker",
+        "den",
+        "lonely"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "whisker"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Little ants _______ across the ground.",
+      "sentence2": "The mice _______ into their hole when they hear a noise.",
+      "options": [
+        "lonely",
+        "hidden",
+        "scurry",
+        "shade"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "scurry"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The cat will _______ slowly toward the toy.",
+      "sentence2": "The baby began to _______ across the rug.",
+      "options": [
+        "creep",
+        "shade",
+        "lonely",
+        "whisker"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "creep"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The fox went into its _______ to rest.",
+      "sentence2": "Dad reads books in the _______ at home.",
+      "options": [
+        "acorn",
+        "den",
+        "trail",
+        "lonely"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "den"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "We hiked along a _______ in the woods.",
+      "sentence2": "The little ducks _______ behind their mother.",
+      "options": [
+        "den",
+        "acorn",
+        "lonely",
+        "trail"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "trail"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The new kitten felt _______ without friends.",
+      "sentence2": "She was sad and _______ with no one to play with.",
+      "options": [
+        "lonely",
+        "whisker",
+        "acorn",
+        "rustle"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "lonely"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "We sat in the cool _______ of the big tree.",
+      "sentence2": "Pull down the _______ to keep the sun out.",
+      "options": [
+        "trail",
+        "acorn",
+        "shade",
+        "hidden"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "shade"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "acorn",
+      "rustle",
+      "branch",
+      "nest",
+      "hidden",
+      "whisker",
+      "scurry",
+      "creep",
+      "den",
+      "trail",
+      "lonely",
+      "shade"
+    ],
+    "passage": "Finn went for a walk on a _(1)_ in the woods. He sat in the cool _(2)_ of an old tree. A squirrel dug a hole and hid a round _(3)_. Above him, a robin sat on a _(4)_ near her _(5)_.\n\nSoon the dry leaves began to _(6)_. A mouse with a tiny _(7)_ came out of a _(8)_ hole. It looked _(9)_ because no one was there to play. Finn tried to _(10)_ closer without a sound. The mouse saw him and began to _(11)_ away. It ran back to its _(12)_ under the log.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "trail",
+        "options": [
+          "den",
+          "branch",
+          "trail",
+          "whisker"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "shade",
+        "options": [
+          "shade",
+          "trail",
+          "lonely",
+          "branch"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "acorn",
+        "options": [
+          "trail",
+          "shade",
+          "nest",
+          "acorn"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "branch",
+        "options": [
+          "trail",
+          "branch",
+          "shade",
+          "den"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "nest",
+        "options": [
+          "acorn",
+          "nest",
+          "whisker",
+          "trail"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "rustle",
+        "options": [
+          "hidden",
+          "shade",
+          "trail",
+          "rustle"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "whisker",
+        "options": [
+          "whisker",
+          "acorn",
+          "branch",
+          "trail"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "hidden",
+        "options": [
+          "lonely",
+          "rustle",
+          "hidden",
+          "creep"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "lonely",
+        "options": [
+          "scurry",
+          "shade",
+          "nest",
+          "lonely"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "creep",
+        "options": [
+          "rustle",
+          "creep",
+          "hidden",
+          "acorn"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "scurry",
+        "options": [
+          "rustle",
+          "lonely",
+          "scurry",
+          "shade"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "den",
+        "options": [
+          "den",
+          "trail",
+          "acorn",
+          "whisker"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "scurry",
+        "scale": [
+          "Walk",
+          "Scurry",
+          "Dash"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "creep",
+        "scale": [
+          "Stand still",
+          "Creep",
+          "Walk"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "shade",
+        "scale": [
+          "Sun",
+          "Shade",
+          "Dark"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "rustle",
+        "scale": [
+          "Silence",
+          "Rustle",
+          "Crash"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "hidden",
+        "words": [
+          "Secret",
+          "Unseen",
+          "Open",
+          "Covered"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Open"
+      },
+      {
+        "vocabWord": "lonely",
+        "words": [
+          "Cheerful",
+          "Alone",
+          "Sad",
+          "Left out"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Cheerful"
+      },
+      {
+        "vocabWord": "den",
+        "words": [
+          "Home",
+          "Lair",
+          "Burrow",
+          "Open field"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Open field"
+      },
+      {
+        "vocabWord": "nest",
+        "words": [
+          "Home",
+          "Open sky",
+          "Bed",
+          "Hideaway"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Open sky"
+      },
+      {
+        "vocabWord": "branch",
+        "words": [
+          "Limb",
+          "Twig",
+          "Bough",
+          "Root"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Root"
+      },
+      {
+        "vocabWord": "scurry",
+        "words": [
+          "Dash",
+          "Dawdle",
+          "Hurry",
+          "Scamper"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Dawdle"
+      },
+      {
+        "vocabWord": "creep",
+        "words": [
+          "Race",
+          "Sneak",
+          "Tiptoe",
+          "Crawl"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Race"
+      },
+      {
+        "vocabWord": "rustle",
+        "words": [
+          "Swish",
+          "Crackle",
+          "Silence",
+          "Murmur"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Silence"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

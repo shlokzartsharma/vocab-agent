@@ -1,0 +1,578 @@
+{
+  "grade": 1,
+  "setNumber": 10,
+  "words": [
+    "picnic",
+    "sandy",
+    "seashell",
+    "pebble",
+    "bucket",
+    "breeze",
+    "towel",
+    "tide",
+    "shore",
+    "tickle",
+    "spill",
+    "dune"
+  ],
+  "sources": [
+    "Common Core Grade 1",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "family beach picnic",
+  "story": {
+    "genre": "family beach picnic",
+    "characters": [
+      "Nia",
+      "Carlos",
+      "Ella"
+    ],
+    "parts": [
+      {
+        "title": "Off to the Beach",
+        "text": "Nia, Carlos, and Ella went to the beach for a **picnic**. They walked over a tall sand **dune**. Ella laid out a big **towel** for the food. A cool **breeze** blew over the water, and the sun felt warm."
+      },
+      {
+        "title": "Treasure Hunt",
+        "text": "Their feet got **sandy**. Carlos took his **bucket** down to the **shore** to look for treasure. He found a pink **seashell**. Nia found a smooth gray **pebble**. They put them in a pile to show Mom."
+      },
+      {
+        "title": "Waves",
+        "text": "The **tide** came in, and a little wave began to **tickle** their toes. Ella laughed and splashed. Carlos tried not to **spill** his water."
+      },
+      {
+        "title": "A Sweet Ending",
+        "text": "They ate their sandwiches and watched the waves. Then the sun went low. They packed up and went home with full hearts."
+      }
+    ],
+    "wordCount": 121
+  },
+  "definitions": [
+    {
+      "word": "picnic",
+      "partOfSpeech": "noun",
+      "meaning1": "A meal eaten outside. Example: We ate sandwiches at the picnic.",
+      "meaning2": "",
+      "studentChallenge": "We packed a basket for our ___ in the park.",
+      "sentence": ""
+    },
+    {
+      "word": "sandy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Covered with sand, or like sand. Example: My toes were sandy after the beach.",
+      "meaning2": "",
+      "studentChallenge": "Her shoes were ___ after the beach.",
+      "sentence": ""
+    },
+    {
+      "word": "seashell",
+      "partOfSpeech": "noun",
+      "meaning1": "The hard outside of a small sea animal, found on the beach. Example: I found a pretty seashell.",
+      "meaning2": "",
+      "studentChallenge": "She held the ___ to her ear.",
+      "sentence": ""
+    },
+    {
+      "word": "pebble",
+      "partOfSpeech": "noun",
+      "meaning1": "A small, smooth stone. Example: He tossed a pebble into the pond.",
+      "meaning2": "",
+      "studentChallenge": "I found a smooth ___ by the stream.",
+      "sentence": ""
+    },
+    {
+      "word": "bucket",
+      "partOfSpeech": "noun",
+      "meaning1": "A round container with a handle. Example: She filled the bucket with sand.",
+      "meaning2": "",
+      "studentChallenge": "I carried water in a ___.",
+      "sentence": ""
+    },
+    {
+      "word": "breeze",
+      "partOfSpeech": "noun",
+      "meaning1": "A light, gentle wind. Example: A cool breeze came off the lake.",
+      "meaning2": "",
+      "studentChallenge": "The ___ made the kite fly high.",
+      "sentence": ""
+    },
+    {
+      "word": "towel",
+      "partOfSpeech": "noun",
+      "meaning1": "A soft cloth used to dry things. Example: I dry my hands with a towel.",
+      "meaning2": "",
+      "studentChallenge": "After swimming, I wrapped up in a big ___.",
+      "sentence": ""
+    },
+    {
+      "word": "tide",
+      "partOfSpeech": "noun",
+      "meaning1": "The way the sea comes up and goes back down on the shore. Example: The tide came in and covered the sand.",
+      "meaning2": "",
+      "studentChallenge": "At high ___, the water comes up the beach.",
+      "sentence": ""
+    },
+    {
+      "word": "shore",
+      "partOfSpeech": "noun",
+      "meaning1": "The land along the edge of the sea or a lake. Example: We walked along the shore.",
+      "meaning2": "",
+      "studentChallenge": "The boat sailed back to the ___.",
+      "sentence": ""
+    },
+    {
+      "word": "tickle",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To touch lightly so that it makes you giggle. Example: A feather can tickle your nose.",
+      "meaning2": "A light touch that makes you laugh. Example: I felt a tickle on my foot.",
+      "studentChallenge": "Do not ___ me, or I will laugh!",
+      "sentence": ""
+    },
+    {
+      "word": "spill",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To let something run out by accident. Example: Be careful not to spill the milk.",
+      "meaning2": "Something that ran out by accident. Example: Mom cleaned up the spill.",
+      "studentChallenge": "Be careful not to ___ the juice.",
+      "sentence": ""
+    },
+    {
+      "word": "dune",
+      "partOfSpeech": "noun",
+      "meaning1": "A hill of sand made by the wind. Example: We slid down the sand dune.",
+      "meaning2": "",
+      "studentChallenge": "The sand ___ was as tall as a house.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "We ate sandwiches at the park for our _______.",
+      "sentence2": "Mom packed a basket for the family _______.",
+      "options": [
+        "tide",
+        "picnic",
+        "dune",
+        "pebble"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "picnic"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "My shoes got _______ at the beach.",
+      "sentence2": "The _______ path led to the water.",
+      "options": [
+        "tickle",
+        "spill",
+        "shore",
+        "sandy"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "sandy"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "She found a pink _______ on the beach.",
+      "sentence2": "Hold the _______ to your ear to hear a soft sound.",
+      "options": [
+        "seashell",
+        "dune",
+        "tide",
+        "spill"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "seashell"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "He skipped a flat _______ across the pond.",
+      "sentence2": "I found a smooth _______ in the stream.",
+      "options": [
+        "bucket",
+        "towel",
+        "pebble",
+        "breeze"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "pebble"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "She filled the _______ with wet sand.",
+      "sentence2": "We carried water in a _______.",
+      "options": [
+        "dune",
+        "tide",
+        "tickle",
+        "bucket"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "bucket"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "A cool _______ made the kite fly.",
+      "sentence2": "A gentle _______ blew through the window.",
+      "options": [
+        "tide",
+        "breeze",
+        "pebble",
+        "sandy"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "breeze"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "I dried my wet hair with a _______.",
+      "sentence2": "Lay a big _______ on the sand to sit on.",
+      "options": [
+        "shore",
+        "dune",
+        "towel",
+        "breeze"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "towel"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The _______ came in and covered the sand.",
+      "sentence2": "At low _______, the water goes far out.",
+      "options": [
+        "tide",
+        "dune",
+        "sandy",
+        "seashell"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "tide"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "We walked along the _______ and watched the waves.",
+      "sentence2": "The little boat sailed back to the _______.",
+      "options": [
+        "picnic",
+        "shore",
+        "bucket",
+        "tickle"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "shore"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "A feather can _______ your nose.",
+      "sentence2": "Please do not _______ me, or I will giggle.",
+      "options": [
+        "spill",
+        "sandy",
+        "towel",
+        "tickle"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "tickle"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Be careful not to _______ your juice.",
+      "sentence2": "The cup fell, and the milk began to _______ on the table.",
+      "options": [
+        "spill",
+        "tickle",
+        "towel",
+        "breeze"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "spill"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "We slid down the tall sand _______.",
+      "sentence2": "The wind made a high _______ of sand.",
+      "options": [
+        "bucket",
+        "tide",
+        "dune",
+        "sandy"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "dune"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "picnic",
+      "sandy",
+      "seashell",
+      "pebble",
+      "bucket",
+      "breeze",
+      "towel",
+      "tide",
+      "shore",
+      "tickle",
+      "spill",
+      "dune"
+    ],
+    "passage": "On Saturday, Nia went to the beach for a family _(1)_. She climbed a tall sand _(2)_ to see the water. Dad spread a big _(3)_ on the ground for them to sit on. A cool _(4)_ blew her hair around.\n\nNia took her _(5)_ down to the _(6)_. Her feet got very _(7)_. She found a pink _(8)_ and a smooth gray _(9)_. The _(10)_ was coming in, and a little wave began to _(11)_ her toes. She laughed and was careful not to _(12)_ her water.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "picnic",
+        "options": [
+          "shore",
+          "spill",
+          "picnic",
+          "sandy"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "dune",
+        "options": [
+          "dune",
+          "picnic",
+          "tickle",
+          "seashell"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "towel",
+        "options": [
+          "dune",
+          "pebble",
+          "breeze",
+          "towel"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "breeze",
+        "options": [
+          "tide",
+          "breeze",
+          "bucket",
+          "spill"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "bucket",
+        "options": [
+          "breeze",
+          "bucket",
+          "tide",
+          "dune"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "shore",
+        "options": [
+          "picnic",
+          "pebble",
+          "tickle",
+          "shore"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "sandy",
+        "options": [
+          "sandy",
+          "tickle",
+          "shore",
+          "picnic"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "seashell",
+        "options": [
+          "breeze",
+          "tide",
+          "seashell",
+          "tickle"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "pebble",
+        "options": [
+          "breeze",
+          "tide",
+          "spill",
+          "pebble"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "tide",
+        "options": [
+          "sandy",
+          "tide",
+          "tickle",
+          "bucket"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "tickle",
+        "options": [
+          "sandy",
+          "tide",
+          "tickle",
+          "towel"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "spill",
+        "options": [
+          "spill",
+          "tickle",
+          "dune",
+          "shore"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "breeze",
+        "scale": [
+          "Still",
+          "Breeze",
+          "Gust"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "pebble",
+        "scale": [
+          "Sand",
+          "Pebble",
+          "Rock"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "dune",
+        "scale": [
+          "Bump",
+          "Dune",
+          "Mountain"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "spill",
+        "scale": [
+          "Drip",
+          "Spill",
+          "Flood"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "shore",
+        "words": [
+          "Beach",
+          "Coast",
+          "Deep sea",
+          "Seaside"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Deep sea"
+      },
+      {
+        "vocabWord": "tickle",
+        "words": [
+          "Hurt",
+          "Tease",
+          "Touch",
+          "Wiggle"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Hurt"
+      },
+      {
+        "vocabWord": "spill",
+        "words": [
+          "Pour",
+          "Drop",
+          "Splash",
+          "Catch"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Catch"
+      },
+      {
+        "vocabWord": "breeze",
+        "words": [
+          "Wind",
+          "Calm",
+          "Puff",
+          "Draft"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Calm"
+      },
+      {
+        "vocabWord": "dune",
+        "words": [
+          "Hill",
+          "Mound",
+          "Heap",
+          "Hole"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Hole"
+      },
+      {
+        "vocabWord": "pebble",
+        "words": [
+          "Stone",
+          "Boulder",
+          "Rock",
+          "Gravel"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Boulder"
+      },
+      {
+        "vocabWord": "tide",
+        "words": [
+          "Dry land",
+          "Flow",
+          "Wave",
+          "Current"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Dry land"
+      },
+      {
+        "vocabWord": "sandy",
+        "words": [
+          "Gritty",
+          "Grainy",
+          "Smooth",
+          "Dusty"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Smooth"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

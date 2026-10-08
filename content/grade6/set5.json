@@ -1,0 +1,577 @@
+{
+  "grade": 6,
+  "setNumber": 5,
+  "words": [
+    "nurture",
+    "sparse",
+    "bountiful",
+    "prune",
+    "blight",
+    "trellis",
+    "pollinate",
+    "sprawl",
+    "wither",
+    "neglect",
+    "reap",
+    "thrifty"
+  ],
+  "sources": [
+    "Common Core Grade 6",
+    "Tier 2 Academic"
+  ],
+  "genre": "community garden",
+  "story": {
+    "genre": "community garden",
+    "characters": [
+      "Rosa",
+      "Tariq",
+      "Hannah"
+    ],
+    "parts": [
+      {
+        "title": "A Garden Begins",
+        "text": "Rosa convinced the neighborhood to turn a trash-filled lot into a community garden. At first the soil was dry, and the few seedlings looked **sparse** in the long beds. Tariq, who was **thrifty**, collected scrap wood and old buckets instead of buying supplies. He built a **trellis** from boards and string so the bean vines could climb. Hannah's job was to **nurture** every tiny seedling with water, sunlight, and patience."
+      },
+      {
+        "title": "Midsummer Work",
+        "text": "By midsummer, bees buzzed through the garden to **pollinate** the squash flowers, and the plants began to **sprawl** across the paths in every direction. Rosa showed the group how to **prune** extra branches so the tomatoes would grow bigger fruit instead of more leaves. But one plot, belonging to a family that had traveled for weeks, suffered from **neglect**; weeds crowded it, and nobody watered it."
+      },
+      {
+        "title": "The Harvest",
+        "text": "Soon a spotted **blight** crept from that plot toward the rest of the garden. Leaves began to **wither**, curling brown at the edges. Tariq and Hannah pulled the sick plants and bagged them, and Rosa organized neighbors to check every bed daily. The effort worked, and weeks later the surviving plants gave a **bountiful** crop. Neighbors gathered to **reap** baskets of tomatoes, beans, and squash."
+      },
+      {
+        "title": "Growing Together",
+        "text": "That evening, the whole block shared a picnic dinner made from the garden's vegetables. Rosa noticed that the garden had grown a community along with the plants. Even the family who had been away planted new seeds in the cleared plot, promising to ask for help next time they traveled."
+      }
+    ],
+    "wordCount": 251
+  },
+  "definitions": [
+    {
+      "word": "nurture",
+      "partOfSpeech": "verb",
+      "meaning1": "To care for and help something grow and develop. Example: Gardeners nurture tiny seedlings with water and sunlight.",
+      "meaning2": "To help an idea or feeling grow. Example: Good teachers nurture a love of reading in their students.",
+      "studentChallenge": "A good teacher will ___ every student's curiosity.",
+      "sentence": ""
+    },
+    {
+      "word": "sparse",
+      "partOfSpeech": "adjective",
+      "meaning1": "Thinly spread; not crowded or thick. Example: The sparse grass on the hill left bare patches of dirt.",
+      "meaning2": "",
+      "studentChallenge": "The ___ trees on the hillside left plenty of open sky.",
+      "sentence": ""
+    },
+    {
+      "word": "bountiful",
+      "partOfSpeech": "adjective",
+      "meaning1": "Plentiful; producing or giving a large amount. Example: Farmers celebrated a bountiful harvest of corn and pumpkins.",
+      "meaning2": "",
+      "studentChallenge": "The orchard gave a ___ crop of apples this autumn.",
+      "sentence": ""
+    },
+    {
+      "word": "prune",
+      "partOfSpeech": "verb",
+      "meaning1": "To trim branches or stems from a plant to help it grow better. Example: In late winter, the gardener will prune the rose bushes.",
+      "meaning2": "To cut down by removing parts that are not needed. Example: The editor asked me to prune my story and cut every unnecessary sentence.",
+      "studentChallenge": "Gardeners ___ the apple tree so it will produce bigger fruit.",
+      "sentence": ""
+    },
+    {
+      "word": "blight",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A plant disease that causes leaves and stems to wither and die. Example: A fast-spreading blight turned the potato leaves black.",
+      "meaning2": "Something that spoils or harms. Example: The abandoned factory was a blight on the neighborhood.",
+      "studentChallenge": "The farmer lost half her tomato crop to a spreading ___.",
+      "sentence": ""
+    },
+    {
+      "word": "trellis",
+      "partOfSpeech": "noun",
+      "meaning1": "A frame of crossing wood or wire that supports climbing plants. Example: The sweet-pea vines climbed up the wooden trellis beside the fence.",
+      "meaning2": "",
+      "studentChallenge": "The morning glories curled up the wooden ___ beside the porch.",
+      "sentence": ""
+    },
+    {
+      "word": "pollinate",
+      "partOfSpeech": "verb",
+      "meaning1": "To carry pollen from one flower to another so that seeds and fruit can form. Example: Honeybees pollinate flowers as they carry pollen from bloom to bloom.",
+      "meaning2": "",
+      "studentChallenge": "Butterflies and bees ___ the garden as they move from flower to flower.",
+      "sentence": ""
+    },
+    {
+      "word": "sprawl",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To spread out in a wide, untidy way. Example: The vines will sprawl across the whole yard if no one trims them.",
+      "meaning2": "To sit or lie with arms and legs stretched out carelessly. Example: After the long hike, he let himself sprawl on the couch.",
+      "studentChallenge": "The pumpkin vines began to ___ across the lawn.",
+      "sentence": ""
+    },
+    {
+      "word": "wither",
+      "partOfSpeech": "verb",
+      "meaning1": "To dry up, shrink, and lose freshness. Example: Without water, the flowers will wither and turn brown.",
+      "meaning2": "To fade away or weaken. Example: His confidence began to wither under the harsh criticism.",
+      "studentChallenge": "Without sunlight, the lettuce will ___ and droop.",
+      "sentence": ""
+    },
+    {
+      "word": "neglect",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To fail to take care of something. Example: If you neglect your plants, they will not survive the summer.",
+      "meaning2": "The state of being uncared for. Example: The old house fell into neglect after the owners moved away.",
+      "studentChallenge": "If you ___ the lawn all summer, it will turn into a weed patch.",
+      "sentence": ""
+    },
+    {
+      "word": "reap",
+      "partOfSpeech": "verb",
+      "meaning1": "To cut and gather a crop. Example: Farmers reap the wheat when the stalks turn golden.",
+      "meaning2": "To receive as a result of effort. Example: Students who practice daily reap the rewards at the recital.",
+      "studentChallenge": "After months of hard work, the farmers were ready to ___ their crops.",
+      "sentence": ""
+    },
+    {
+      "word": "thrifty",
+      "partOfSpeech": "adjective",
+      "meaning1": "Careful about spending money and using things wisely. Example: Her thrifty habits helped her save money for college.",
+      "meaning2": "",
+      "studentChallenge": "The ___ family reused jars and mended clothes to save money.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Parents work to _______ their children with love and patience.",
+      "sentence2": "Gardeners _______ tiny seedlings with water and sunlight.",
+      "options": [
+        "neglect",
+        "nurture",
+        "prune",
+        "wither"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "nurture"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The _______ grass on the hill left bare patches of dirt.",
+      "sentence2": "The audience was so _______ that the empty seats outnumbered the guests.",
+      "options": [
+        "bountiful",
+        "thrifty",
+        "sparse",
+        "trellis"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "sparse"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Farmers celebrated a _______ harvest of corn and pumpkins.",
+      "sentence2": "The king was known for his _______ gifts to every village.",
+      "options": [
+        "bountiful",
+        "sparse",
+        "thrifty",
+        "blight"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "bountiful"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "In late winter, the gardener will _______ the rose bushes.",
+      "sentence2": "The editor asked me to _______ my story, cutting every unnecessary sentence.",
+      "options": [
+        "pollinate",
+        "wither",
+        "reap",
+        "prune"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "prune"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "A fast-spreading _______ turned the potato leaves black.",
+      "sentence2": "The abandoned factory was a _______ on the neighborhood, attracting trash and trouble.",
+      "options": [
+        "trellis",
+        "blight",
+        "sprawl",
+        "reap"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "blight"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The sweet-pea vines climbed up the wooden _______ beside the fence.",
+      "sentence2": "Dad built a tall _______ so the cucumber plants could climb toward the sun.",
+      "options": [
+        "blight",
+        "neglect",
+        "trellis",
+        "prune"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "trellis"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Honeybees _______ flowers as they carry grains of pollen from bloom to bloom.",
+      "sentence2": "Farmers rent hives so that bees will _______ the apple orchard.",
+      "options": [
+        "pollinate",
+        "wither",
+        "sprawl",
+        "reap"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "pollinate"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Vines will _______ across the whole yard if no one trims them.",
+      "sentence2": "After the long hike, he let himself _______ on the couch.",
+      "options": [
+        "wither",
+        "prune",
+        "nurture",
+        "sprawl"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "sprawl"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Without water, the flowers will _______ and turn brown.",
+      "sentence2": "His confidence began to _______ under the harsh criticism.",
+      "options": [
+        "nurture",
+        "wither",
+        "pollinate",
+        "reap"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "wither"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "If you _______ your plants, they will not survive the summer.",
+      "sentence2": "Don't _______ your homework, or your grades will drop.",
+      "options": [
+        "nurture",
+        "prune",
+        "neglect",
+        "reap"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "neglect"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Farmers _______ the wheat when the stalks turn golden.",
+      "sentence2": "Students who practice daily _______ the rewards at the recital.",
+      "options": [
+        "reap",
+        "prune",
+        "pollinate",
+        "wither"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "reap"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Her _______ habits helped her save money for college.",
+      "sentence2": "The _______ shopper compared prices at three stores before buying.",
+      "options": [
+        "sparse",
+        "thrifty",
+        "bountiful",
+        "trellis"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "thrifty"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "nurture",
+      "sparse",
+      "bountiful",
+      "prune",
+      "blight",
+      "trellis",
+      "pollinate",
+      "sprawl",
+      "wither",
+      "neglect",
+      "reap",
+      "thrifty"
+    ],
+    "passage": "Mina's grandmother loved to _(1)_ her vegetable garden, checking every plant each morning. In early spring the rows looked _(2)_, with only a few green shoots poking through the soil, but Mina built a wooden _(3)_ so the peas could climb. Soon the bees arrived to _(4)_ the blossoms, and the squash vines began to _(5)_ across the grass.\n\nMina learned to _(6)_ the extra stems so the plants could focus on growing fruit. One week, a busy neighbor let his plot suffer from _(7)_, and a dark _(8)_ spread through his tomatoes. Their leaves began to _(9)_, curling into brown crisps.\n\nMina and her grandmother cleaned the beds together, and by autumn the garden was strong again. They were able to _(10)_ a _(11)_ harvest of squash and beans. Since they were _(12)_, they saved the seeds for next year instead of buying new ones.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "nurture",
+        "options": [
+          "neglect",
+          "nurture",
+          "wither",
+          "sprawl"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "sparse",
+        "options": [
+          "bountiful",
+          "thrifty",
+          "sparse",
+          "blight"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "trellis",
+        "options": [
+          "trellis",
+          "blight",
+          "neglect",
+          "reap"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "pollinate",
+        "options": [
+          "prune",
+          "wither",
+          "reap",
+          "pollinate"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "sprawl",
+        "options": [
+          "wither",
+          "sprawl",
+          "prune",
+          "nurture"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "prune",
+        "options": [
+          "pollinate",
+          "wither",
+          "prune",
+          "reap"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "neglect",
+        "options": [
+          "neglect",
+          "nurture",
+          "prune",
+          "reap"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "blight",
+        "options": [
+          "trellis",
+          "sprawl",
+          "reap",
+          "blight"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "wither",
+        "options": [
+          "nurture",
+          "wither",
+          "pollinate",
+          "reap"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "reap",
+        "options": [
+          "prune",
+          "pollinate",
+          "reap",
+          "wither"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "bountiful",
+        "options": [
+          "bountiful",
+          "sparse",
+          "thrifty",
+          "trellis"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "thrifty",
+        "options": [
+          "sparse",
+          "bountiful",
+          "trellis",
+          "thrifty"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "bountiful",
+        "scale": [
+          "Adequate",
+          "Plentiful",
+          "Bountiful"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "wither",
+        "scale": [
+          "Droop",
+          "Wilt",
+          "Wither"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "sparse",
+        "scale": [
+          "Thin",
+          "Sparse",
+          "Barren"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "neglect",
+        "scale": [
+          "Overlook",
+          "Neglect",
+          "Abandon"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "nurture",
+        "words": [
+          "Tend",
+          "Foster",
+          "Cultivate",
+          "Neglect"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Neglect"
+      },
+      {
+        "vocabWord": "prune",
+        "words": [
+          "Trim",
+          "Extend",
+          "Clip",
+          "Snip"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Extend"
+      },
+      {
+        "vocabWord": "blight",
+        "words": [
+          "Disease",
+          "Plague",
+          "Blessing",
+          "Curse"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Blessing"
+      },
+      {
+        "vocabWord": "sprawl",
+        "words": [
+          "Shrink",
+          "Spread",
+          "Stretch",
+          "Expand"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Shrink"
+      },
+      {
+        "vocabWord": "thrifty",
+        "words": [
+          "Frugal",
+          "Economical",
+          "Careful",
+          "Wasteful"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Wasteful"
+      },
+      {
+        "vocabWord": "reap",
+        "words": [
+          "Harvest",
+          "Sow",
+          "Gather",
+          "Collect"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Sow"
+      },
+      {
+        "vocabWord": "wither",
+        "words": [
+          "Shrivel",
+          "Wilt",
+          "Flourish",
+          "Fade"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Flourish"
+      },
+      {
+        "vocabWord": "bountiful",
+        "words": [
+          "Meager",
+          "Plentiful",
+          "Abundant",
+          "Generous"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Meager"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

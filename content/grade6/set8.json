@@ -1,0 +1,577 @@
+{
+  "grade": 6,
+  "setNumber": 8,
+  "words": [
+    "audition",
+    "cue",
+    "flustered",
+    "ensemble",
+    "understudy",
+    "costume",
+    "applaud",
+    "mishap",
+    "flair",
+    "poise",
+    "scenery",
+    "prop"
+  ],
+  "sources": [
+    "Common Core Grade 6",
+    "Tier 2 Academic"
+  ],
+  "genre": "school theater production",
+  "story": {
+    "genre": "school theater production",
+    "characters": [
+      "Felix",
+      "Amina",
+      "Brooke"
+    ],
+    "parts": [
+      {
+        "title": "Sign-Ups",
+        "text": "When the sign-up sheet for the spring musical appeared outside the gym, Amina stared at it for a full minute before writing her name. At her **audition**, she forgot the second verse, yet the director, Ms. Delgado, smiled and named her the **understudy** for the lead role. Brooke, a confident senior, won the part itself, and her **poise** onstage made every song look effortless."
+      },
+      {
+        "title": "Rehearsal Weeks",
+        "text": "Weeks of rehearsal filled the auditorium with noise. The **ensemble** practiced its dance numbers until everyone moved in perfect unison. Felix, who ran the backstage crew, painted the **scenery**, a village of cardboard cottages, and guarded every **prop**, from the fake teapot to the wooden sword. Amina watched from the wings and silently learned every line Brooke sang."
+      },
+      {
+        "title": "Opening Night",
+        "text": "Just before curtain on opening night, Brooke lost her voice. Amina, suddenly **flustered**, hurried into the sparkling **costume** while her heart thumped. Then came a **mishap**: a painted tree toppled over during the first scene, and the audience gasped. Amina took a deep breath and sang with **flair**, adding a playful twirl that turned the mistake into part of the show. Felix, listening for his **cue**, closed the curtain at exactly the right moment, and the crowd rose to **applaud**."
+      },
+      {
+        "title": "After the Curtain",
+        "text": "Later, Brooke hugged Amina and croaked a thank-you through her sore throat. Amina realized that being ready for a chance is worth every nervous minute. Ms. Delgado told the cast that theater is a team effort, where the people in the spotlight and the people in the shadows matter equally."
+      }
+    ],
+    "wordCount": 252
+  },
+  "definitions": [
+    {
+      "word": "audition",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A short performance that shows a director whether you are right for a part. Example: Her audition included a song and a short scene.",
+      "meaning2": "To try out for a role. Example: Dozens of students will audition for the school play.",
+      "studentChallenge": "Jai practiced his monologue for hours before his big ___.",
+      "sentence": ""
+    },
+    {
+      "word": "cue",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A signal that tells a performer or crew member when to begin. Example: The final chord was the drummer's cue to start his solo.",
+      "meaning2": "A long, straight stick used to hit the ball in pool. Example: He chalked the tip of his cue before taking the shot.",
+      "studentChallenge": "The actor waited for his ___ before stepping onto the stage.",
+      "sentence": ""
+    },
+    {
+      "word": "flustered",
+      "partOfSpeech": "adjective",
+      "meaning1": "Nervous and confused, unable to think clearly. Example: The sudden question left the speaker flustered, and she lost her place.",
+      "meaning2": "",
+      "studentChallenge": "Losing his notes left the speaker so ___ that he forgot his opening line.",
+      "sentence": ""
+    },
+    {
+      "word": "ensemble",
+      "partOfSpeech": "noun",
+      "meaning1": "A group of performers who sing, dance, or act together. Example: The school's dance ensemble moved together as if they were one body.",
+      "meaning2": "A set of clothes worn together as an outfit. Example: She chose a matching skirt-and-jacket ensemble for the interview.",
+      "studentChallenge": "The singing ___ practiced in perfect harmony.",
+      "sentence": ""
+    },
+    {
+      "word": "understudy",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A performer who learns another actor's part so they can fill in if needed. Example: Because the star was ill, the understudy took the stage.",
+      "meaning2": "To learn a part so you can replace the person who plays it. Example: Jonah will understudy the lead role this season.",
+      "studentChallenge": "Rosa knew every line, so she became the ___ for the main character.",
+      "sentence": ""
+    },
+    {
+      "word": "costume",
+      "partOfSpeech": "noun",
+      "meaning1": "Clothing worn by an actor to look like a character. Example: The tailor stitched a sparkling costume for the queen in the play.",
+      "meaning2": "The style of dress of a particular time or country. Example: The museum displayed the traditional costume of Peru.",
+      "studentChallenge": "The actor wore a green ___ and a pointed hat to play the elf.",
+      "sentence": ""
+    },
+    {
+      "word": "applaud",
+      "partOfSpeech": "verb",
+      "meaning1": "To clap your hands to show approval. Example: The audience rose to applaud when the final curtain fell.",
+      "meaning2": "To praise or approve of. Example: I applaud your decision to apologize; it took courage.",
+      "studentChallenge": "The crowd will ___ when the runners cross the finish line.",
+      "sentence": ""
+    },
+    {
+      "word": "mishap",
+      "partOfSpeech": "noun",
+      "meaning1": "An unlucky accident, usually a small one. Example: A mishap with a spilled paint can delayed rehearsal by ten minutes.",
+      "meaning2": "",
+      "studentChallenge": "The camping trip had one funny ___ when the tent collapsed in the night.",
+      "sentence": ""
+    },
+    {
+      "word": "flair",
+      "partOfSpeech": "noun",
+      "meaning1": "A natural talent or stylish way of doing something. Example: She decorates birthday cakes with real artistic flair.",
+      "meaning2": "A special skill for something. Example: Her brother has a flair for learning languages quickly.",
+      "studentChallenge": "The chef added a dash of ___ by arranging the food like a painting.",
+      "sentence": ""
+    },
+    {
+      "word": "poise",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "Calm, graceful confidence. Example: Even with a thousand people watching, the speaker kept her poise.",
+      "meaning2": "To hold steady and ready for action. Example: The diver will poise at the edge of the board before leaping.",
+      "studentChallenge": "The dancer moved across the stage with calm and graceful ___.",
+      "sentence": ""
+    },
+    {
+      "word": "scenery",
+      "partOfSpeech": "noun",
+      "meaning1": "Painted backgrounds and structures used on a stage. Example: The crew spent a week building scenery for the play.",
+      "meaning2": "The natural features of a landscape. Example: The train ride offered gorgeous mountain scenery outside every window.",
+      "studentChallenge": "The painted forest ___ made the stage feel like a real woodland.",
+      "sentence": ""
+    },
+    {
+      "word": "prop",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "An object that actors use during a performance. Example: The wooden sword was the only prop the actor carried onstage.",
+      "meaning2": "To hold something up so it does not fall or move. Example: He used a thick book to prop the window open.",
+      "studentChallenge": "The pirate's treasure chest was the most important ___ in the play.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Dozens of students lined up to _______ for the lead role in the play.",
+      "sentence2": "Her singing _______ lasted only two minutes, but the director clapped when it ended.",
+      "options": [
+        "applaud",
+        "audition",
+        "prop",
+        "poise"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "audition"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "When she heard the final chord, that was her _______ to walk onto the stage.",
+      "sentence2": "He chalked the tip of his _______ before taking the shot at the pool table.",
+      "options": [
+        "cue",
+        "prop",
+        "costume",
+        "flair"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "cue"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Losing his notes left the speaker so _______ that he forgot his opening line.",
+      "sentence2": "The sudden question made Marcus feel _______, and his cheeks turned red.",
+      "options": [
+        "mishap",
+        "costume",
+        "scenery",
+        "flustered"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "flustered"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The school's dance _______ moved together so well they looked like one body.",
+      "sentence2": "She chose a matching skirt-and-jacket _______ for the job interview.",
+      "options": [
+        "costume",
+        "scenery",
+        "ensemble",
+        "prop"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "ensemble"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Because she knew every line, Rosa was the perfect _______ for the lead.",
+      "sentence2": "Jonah will _______ the lead role this season in case the star gets sick.",
+      "options": [
+        "audition",
+        "understudy",
+        "applaud",
+        "prop"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "understudy"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The tailor stitched a sparkling _______ for the queen in the play.",
+      "sentence2": "At the festival, the dancers proudly wore the traditional national _______ of Peru.",
+      "options": [
+        "costume",
+        "scenery",
+        "prop",
+        "mishap"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "costume"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The audience rose to _______ when the final curtain fell.",
+      "sentence2": "I _______ your decision to apologize; it took courage.",
+      "options": [
+        "audition",
+        "prop",
+        "poise",
+        "applaud"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "applaud"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "A small _______ with a spilled paint can delayed rehearsal by ten minutes.",
+      "sentence2": "The camping trip had one funny _______ when the tent collapsed in the night.",
+      "options": [
+        "flair",
+        "poise",
+        "mishap",
+        "cue"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "mishap"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "She decorates birthday cakes with real artistic _______.",
+      "sentence2": "Her brother has a _______ for learning languages quickly.",
+      "options": [
+        "poise",
+        "flair",
+        "cue",
+        "scenery"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "flair"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Even with a thousand people staring, the speaker kept her calm _______.",
+      "sentence2": "The diver will _______ at the edge of the board before leaping into the pool.",
+      "options": [
+        "poise",
+        "flair",
+        "mishap",
+        "cue"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "poise"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Felix painted the stage _______, a village of cardboard cottages.",
+      "sentence2": "The train ride offered gorgeous mountain _______ outside every window.",
+      "options": [
+        "prop",
+        "costume",
+        "ensemble",
+        "scenery"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "scenery"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The wooden sword was the only _______ the actor carried onstage.",
+      "sentence2": "He used a thick book to _______ the window open.",
+      "options": [
+        "cue",
+        "audition",
+        "prop",
+        "applaud"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "prop"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "audition",
+      "cue",
+      "flustered",
+      "ensemble",
+      "understudy",
+      "costume",
+      "applaud",
+      "mishap",
+      "flair",
+      "poise",
+      "scenery",
+      "prop"
+    ],
+    "passage": "On the first day of drama club, Jonah took a deep breath and walked into the room for his _(1)_. He read a monologue, hoping to win a role in the _(2)_ that sang and danced in the background. Instead, the director named him the _(3)_ for the lead, which meant he had to learn the whole part just in case.\n\nFor weeks, Jonah studied the script. The crew painted _(4)_ of a harbor town, and a seamstress sewed a long blue coat as his _(5)_. Each day he carried a brass lantern, the key _(6)_ of the play, so his hands would know it.\n\nOn opening night, the lead actor lost his voice, and Jonah felt _(7)_ at first. Then he found his _(8)_ and walked onstage with calm confidence. He hit every _(9)_ perfectly. When the lantern slipped from his hand, a small _(10)_, he spun and caught it with a bit of _(11)_, and the crowd rose to _(12)_ his performance.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "audition",
+        "options": [
+          "applaud",
+          "prop",
+          "audition",
+          "poise"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "ensemble",
+        "options": [
+          "costume",
+          "ensemble",
+          "scenery",
+          "mishap"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "understudy",
+        "options": [
+          "understudy",
+          "audition",
+          "ensemble",
+          "costume"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "scenery",
+        "options": [
+          "mishap",
+          "ensemble",
+          "cue",
+          "scenery"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "costume",
+        "options": [
+          "scenery",
+          "audition",
+          "costume",
+          "ensemble"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "prop",
+        "options": [
+          "cue",
+          "prop",
+          "mishap",
+          "flair"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "flustered",
+        "options": [
+          "flustered",
+          "costume",
+          "scenery",
+          "mishap"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "poise",
+        "options": [
+          "audition",
+          "scenery",
+          "mishap",
+          "poise"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "cue",
+        "options": [
+          "audition",
+          "costume",
+          "cue",
+          "scenery"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "mishap",
+        "options": [
+          "prop",
+          "mishap",
+          "costume",
+          "ensemble"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "flair",
+        "options": [
+          "flair",
+          "scenery",
+          "audition",
+          "cue"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "applaud",
+        "options": [
+          "audition",
+          "prop",
+          "poise",
+          "applaud"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "flustered",
+        "scale": [
+          "Uneasy",
+          "Flustered",
+          "Panicked"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "mishap",
+        "scale": [
+          "Slip",
+          "Mishap",
+          "Disaster"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "flair",
+        "scale": [
+          "Skill",
+          "Flair",
+          "Genius"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "applaud",
+        "scale": [
+          "Approve",
+          "Applaud",
+          "Cheer"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "flustered",
+        "words": [
+          "Nervous",
+          "Rattled",
+          "Calm",
+          "Anxious"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Calm"
+      },
+      {
+        "vocabWord": "poise",
+        "words": [
+          "Grace",
+          "Composure",
+          "Clumsiness",
+          "Dignity"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Clumsiness"
+      },
+      {
+        "vocabWord": "applaud",
+        "words": [
+          "Cheer",
+          "Praise",
+          "Boo",
+          "Commend"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Boo"
+      },
+      {
+        "vocabWord": "mishap",
+        "words": [
+          "Accident",
+          "Blunder",
+          "Success",
+          "Slip"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Success"
+      },
+      {
+        "vocabWord": "flair",
+        "words": [
+          "Talent",
+          "Clumsiness",
+          "Gift",
+          "Knack"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Clumsiness"
+      },
+      {
+        "vocabWord": "ensemble",
+        "words": [
+          "Group",
+          "Troupe",
+          "Soloist",
+          "Company"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Soloist"
+      },
+      {
+        "vocabWord": "prop",
+        "words": [
+          "Support",
+          "Topple",
+          "Brace",
+          "Hold up"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Topple"
+      },
+      {
+        "vocabWord": "understudy",
+        "words": [
+          "Substitute",
+          "Replacement",
+          "Lead",
+          "Backup"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Lead"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

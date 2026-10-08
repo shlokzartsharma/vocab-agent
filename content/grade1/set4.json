@@ -1,0 +1,578 @@
+{
+  "grade": 1,
+  "setNumber": 4,
+  "words": [
+    "chilly",
+    "mitten",
+    "slide",
+    "crunch",
+    "flurry",
+    "melt",
+    "toasty",
+    "sled",
+    "tumble",
+    "pile",
+    "icy",
+    "huff"
+  ],
+  "sources": [
+    "Common Core Grade 1",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "snowy day",
+  "story": {
+    "genre": "snowy day",
+    "characters": [
+      "Noah",
+      "Yuki",
+      "Rosa"
+    ],
+    "parts": [
+      {
+        "title": "Snow Morning",
+        "text": "Noah woke up and looked out the window. It was a **chilly** morning, and a **flurry** of snow was falling. “Snow!” he shouted. Soon Yuki and Rosa came over. Yuki pulled on one red **mitten**, and then the other."
+      },
+      {
+        "title": "Sled Time",
+        "text": "They pulled a **sled** up the hill. The snow went **crunch** under their boots. Rosa sat in front, and Noah gave a push. They began to **slide**! At the bottom, they all took a **tumble** into the soft snow."
+      },
+      {
+        "title": "Warm Again",
+        "text": "Their noses were red, and the ground was **icy**. Yuki gave a big **huff** and white breath floated up. Back home, they made a **pile** of wet boots by the door. The kitchen was **toasty**, and the snow on their coats began to **melt**."
+      },
+      {
+        "title": "A Perfect Day",
+        "text": "They drank hot cocoa and watched more snow fall. It was a perfect snow day. They hoped to play outside again tomorrow."
+      }
+    ],
+    "wordCount": 144
+  },
+  "definitions": [
+    {
+      "word": "chilly",
+      "partOfSpeech": "adjective",
+      "meaning1": "Cold enough to make you shiver. Example: It is chilly outside, so I wear a coat.",
+      "meaning2": "",
+      "studentChallenge": "The morning air was ___, so I zipped my jacket.",
+      "sentence": ""
+    },
+    {
+      "word": "mitten",
+      "partOfSpeech": "noun",
+      "meaning1": "A warm cover for your hand with one space for your thumb. Example: I lost one mitten in the snow.",
+      "meaning2": "",
+      "studentChallenge": "I put my hand in a warm ___ before I went out.",
+      "sentence": ""
+    },
+    {
+      "word": "slide",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To move smoothly over a surface. Example: I slide on the ice in my socks.",
+      "meaning2": "A playground ride you go down. Example: We climbed the ladder to the slide.",
+      "studentChallenge": "Watch me ___ down the snowy hill.",
+      "sentence": ""
+    },
+    {
+      "word": "crunch",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To make a loud, crisp sound when you chew or step on something. Example: I crunch an apple.",
+      "meaning2": "A loud, crisp sound. Example: We heard the crunch of snow under our boots.",
+      "studentChallenge": "The dry leaves will ___ when we walk on them.",
+      "sentence": ""
+    },
+    {
+      "word": "flurry",
+      "partOfSpeech": "noun",
+      "meaning1": "A short burst of light snow. Example: A flurry of snow fell on the roof.",
+      "meaning2": "",
+      "studentChallenge": "A light ___ of snow fell this morning.",
+      "sentence": ""
+    },
+    {
+      "word": "melt",
+      "partOfSpeech": "verb",
+      "meaning1": "To change from hard ice to water because of heat. Example: Ice cream will melt in the sun.",
+      "meaning2": "",
+      "studentChallenge": "The snowman will ___ when the sun comes out.",
+      "sentence": ""
+    },
+    {
+      "word": "toasty",
+      "partOfSpeech": "adjective",
+      "meaning1": "Warm and cozy. Example: The room felt toasty by the fire.",
+      "meaning2": "",
+      "studentChallenge": "My blanket kept me ___ all night.",
+      "sentence": ""
+    },
+    {
+      "word": "sled",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A small seat that slides over snow. Example: We pulled the sled up the hill.",
+      "meaning2": "To ride on a sled. Example: We sled down the hill every winter.",
+      "studentChallenge": "Let us pull the ___ up the snowy hill.",
+      "sentence": ""
+    },
+    {
+      "word": "tumble",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To fall and roll over. Example: The puppy might tumble down the stairs.",
+      "meaning2": "A fall. Example: He took a tumble in the snow.",
+      "studentChallenge": "Careful, you might ___ on the wet steps.",
+      "sentence": ""
+    },
+    {
+      "word": "pile",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A lot of things stacked up in a heap. Example: There is a pile of leaves in the yard.",
+      "meaning2": "To put things in a heap. Example: Please pile the books on the desk.",
+      "studentChallenge": "He made a big ___ of toys in the corner.",
+      "sentence": ""
+    },
+    {
+      "word": "icy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Covered with ice, or very cold. Example: The icy road was hard to walk on.",
+      "meaning2": "",
+      "studentChallenge": "Be careful on the ___ sidewalk.",
+      "sentence": ""
+    },
+    {
+      "word": "huff",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To blow out air loudly. Example: I huff on my cold hands to warm them.",
+      "meaning2": "A loud puff of breath. Example: He let out a huff and sat down.",
+      "studentChallenge": "On cold days I ___ on my fingers to warm them.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "It was a _______ morning, so I zipped my coat.",
+      "sentence2": "The _______ wind made me shiver.",
+      "options": [
+        "chilly",
+        "mitten",
+        "melt",
+        "huff"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "chilly"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "I lost one red _______ in the snow.",
+      "sentence2": "Put your hand in a warm _______ before you go out.",
+      "options": [
+        "chilly",
+        "melt",
+        "toasty",
+        "mitten"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "mitten"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Watch me _______ down the snowy hill.",
+      "sentence2": "We climbed the ladder to the _______ at the park.",
+      "options": [
+        "chilly",
+        "icy",
+        "slide",
+        "toasty"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "slide"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The dry leaves will _______ when we walk on them.",
+      "sentence2": "We heard the _______ of snow under our boots.",
+      "options": [
+        "chilly",
+        "crunch",
+        "mitten",
+        "toasty"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "crunch"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "A light _______ of snow fell this morning.",
+      "sentence2": "A sudden _______ of snowflakes blew past the window.",
+      "options": [
+        "flurry",
+        "mitten",
+        "chilly",
+        "melt"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "flurry"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The snowman will _______ when the sun comes out.",
+      "sentence2": "Ice cream will _______ in the hot sun.",
+      "options": [
+        "chilly",
+        "mitten",
+        "toasty",
+        "melt"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "melt"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The room felt _______ by the warm fire.",
+      "sentence2": "My blanket kept me nice and _______ all night.",
+      "options": [
+        "sled",
+        "pile",
+        "toasty",
+        "huff"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "toasty"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Let us pull the _______ up the snowy hill.",
+      "sentence2": "We ride a _______ down the hill every winter.",
+      "options": [
+        "chilly",
+        "sled",
+        "toasty",
+        "icy"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "sled"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Careful, you might _______ on the wet steps.",
+      "sentence2": "The puppy took a funny _______ in the snow.",
+      "options": [
+        "tumble",
+        "chilly",
+        "toasty",
+        "mitten"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "tumble"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "He made a big _______ of toys in the corner.",
+      "sentence2": "There is a _______ of leaves in the yard.",
+      "options": [
+        "chilly",
+        "icy",
+        "mitten",
+        "pile"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "pile"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Be careful on the _______ sidewalk.",
+      "sentence2": "The pond froze, and the water was cold and _______.",
+      "options": [
+        "huff",
+        "mitten",
+        "icy",
+        "melt"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "icy"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "On cold days I _______ on my fingers to warm them.",
+      "sentence2": "Dad gave a big _______ when the car would not start.",
+      "options": [
+        "chilly",
+        "huff",
+        "icy",
+        "mitten"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "huff"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "chilly",
+      "mitten",
+      "slide",
+      "crunch",
+      "flurry",
+      "melt",
+      "toasty",
+      "sled",
+      "tumble",
+      "pile",
+      "icy",
+      "huff"
+    ],
+    "passage": "Rosa woke up to a _(1)_ Saturday. Outside, a _(2)_ of snow whirled past the window. She found one red _(3)_ under her bed and hunted for the other.\n\nYuki came over with her _(4)_. The two girls pulled it up a hill. The new snow made a loud _(5)_ under their boots. They sat down and began to _(6)_ down the hill. Halfway, the sled hit a bump. Rosa took a _(7)_ into the snow. It was _(8)_ and cold on her face.\n\nSoon their hands were numb. Rosa began to _(9)_ on hers to warm them up. They ran home. A _(10)_ of wet coats and boots grew by the door. Inside, the kitchen was warm and _(11)_. Rosa held her hands near the stove and let the snow _(12)_ from her sleeves.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "chilly",
+        "options": [
+          "chilly",
+          "sled",
+          "melt",
+          "huff"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "flurry",
+        "options": [
+          "chilly",
+          "toasty",
+          "icy",
+          "flurry"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "mitten",
+        "options": [
+          "melt",
+          "toasty",
+          "mitten",
+          "huff"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "sled",
+        "options": [
+          "chilly",
+          "sled",
+          "icy",
+          "toasty"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "crunch",
+        "options": [
+          "crunch",
+          "mitten",
+          "chilly",
+          "melt"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "slide",
+        "options": [
+          "chilly",
+          "toasty",
+          "mitten",
+          "slide"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "tumble",
+        "options": [
+          "icy",
+          "toasty",
+          "tumble",
+          "mitten"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "icy",
+        "options": [
+          "mitten",
+          "icy",
+          "huff",
+          "melt"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "huff",
+        "options": [
+          "huff",
+          "chilly",
+          "toasty",
+          "icy"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "pile",
+        "options": [
+          "chilly",
+          "toasty",
+          "melt",
+          "pile"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "toasty",
+        "options": [
+          "pile",
+          "sled",
+          "toasty",
+          "slide"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "melt",
+        "options": [
+          "chilly",
+          "melt",
+          "toasty",
+          "mitten"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "chilly",
+        "scale": [
+          "Cool",
+          "Chilly",
+          "Freezing"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "toasty",
+        "scale": [
+          "Cool",
+          "Warm",
+          "Toasty"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "flurry",
+        "scale": [
+          "Flake",
+          "Flurry",
+          "Blizzard"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "tumble",
+        "scale": [
+          "Trip",
+          "Tumble",
+          "Crash"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "chilly",
+        "words": [
+          "Cold",
+          "Cool",
+          "Frosty",
+          "Hot"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Hot"
+      },
+      {
+        "vocabWord": "toasty",
+        "words": [
+          "Warm",
+          "Cold",
+          "Cozy",
+          "Snug"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Cold"
+      },
+      {
+        "vocabWord": "icy",
+        "words": [
+          "Frozen",
+          "Frosty",
+          "Hot",
+          "Slick"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Hot"
+      },
+      {
+        "vocabWord": "melt",
+        "words": [
+          "Freeze",
+          "Thaw",
+          "Soften",
+          "Dissolve"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Freeze"
+      },
+      {
+        "vocabWord": "slide",
+        "words": [
+          "Glide",
+          "Skate",
+          "Stick",
+          "Slip"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Stick"
+      },
+      {
+        "vocabWord": "pile",
+        "words": [
+          "Heap",
+          "Stack",
+          "Mound",
+          "Scatter"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Scatter"
+      },
+      {
+        "vocabWord": "tumble",
+        "words": [
+          "Fall",
+          "Stand",
+          "Topple",
+          "Roll"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Stand"
+      },
+      {
+        "vocabWord": "flurry",
+        "words": [
+          "Shower",
+          "Sprinkle",
+          "Burst",
+          "Clear sky"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Clear sky"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

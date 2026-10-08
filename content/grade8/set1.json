@@ -1,0 +1,578 @@
+{
+  "grade": 8,
+  "setNumber": 1,
+  "words": [
+    "cogent",
+    "concise",
+    "tirade",
+    "oratory",
+    "vehement",
+    "discredit",
+    "bombastic",
+    "rapport",
+    "cynical",
+    "inflection",
+    "moderator",
+    "stance"
+  ],
+  "sources": [
+    "Common Core Grade 8",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "debate team tournament",
+  "story": {
+    "genre": "debate team tournament",
+    "characters": [
+      "Alicia",
+      "Rohan",
+      "Simone"
+    ],
+    "parts": [
+      {
+        "title": "Rules of the Room",
+        "text": "The regional debate tournament began on a gray Saturday, and Alicia felt her stomach tighten as the **moderator** tapped the microphone and explained the rules. Each team would defend a **stance** on whether every student should perform community service. Her partner, Rohan, whispered that judges rewarded speeches that were **concise**, so they had trimmed their notes down to a single page."
+      },
+      {
+        "title": "The Showman",
+        "text": "Their first opponent was Simone, who was famous for her **oratory**. She spoke with perfect **inflection**, lifting her voice on key facts and dropping it for warnings, and the audience leaned forward. Her teammate was the opposite. He opened with a **bombastic** flourish, all thunder and sweeping gestures, then slid into a **tirade** that mocked the whole idea of service without offering a single fact."
+      },
+      {
+        "title": "The Answer",
+        "text": "When Alicia rose, she did not shout. She built a **cogent** case, linking each statistic to a clear conclusion. Her rivals tried to **discredit** her sources by calling them biased, but she calmly produced the originals. Rohan, who was usually **cynical** about judges, was startled by how closely the room listened. He grew **vehement** only once, during the rebuttal, insisting that learning to help strangers was worth more than any trophy. At lunch, Alicia and Simone discovered an easy **rapport**, trading tips about nerves and note cards."
+      },
+      {
+        "title": "After the Final",
+        "text": "Their team did not take home the trophy, but the score sheets told a different story. The judges had praised honest evidence over loud theatrics. Alicia realized that persuasion works best when people feel respected instead of attacked. On the ride home, Rohan admitted that he wanted to keep debating, not to beat anyone, but to learn how to disagree well."
+      }
+    ],
+    "wordCount": 274
+  },
+  "definitions": [
+    {
+      "word": "cogent",
+      "partOfSpeech": "adjective",
+      "meaning1": "Clear, logical and convincing. Example: The lawyer made a cogent argument that persuaded the jury.",
+      "meaning2": "",
+      "studentChallenge": "Her ___ explanation convinced even the skeptics in the room.",
+      "sentence": ""
+    },
+    {
+      "word": "concise",
+      "partOfSpeech": "adjective",
+      "meaning1": "Giving a lot of information in few words. Example: Keep your summary concise; one paragraph is enough.",
+      "meaning2": "",
+      "studentChallenge": "The coach's ___ instructions fit on a single index card.",
+      "sentence": ""
+    },
+    {
+      "word": "tirade",
+      "partOfSpeech": "noun",
+      "meaning1": "A long, angry speech that harshly criticizes someone or something. Example: He launched into a tirade about the late bus.",
+      "meaning2": "",
+      "studentChallenge": "After losing the game, the coach went on a ___ about lazy effort.",
+      "sentence": ""
+    },
+    {
+      "word": "oratory",
+      "partOfSpeech": "noun",
+      "meaning1": "The art of speaking in public in a skillful and powerful way. Example: The student council president was admired for her oratory.",
+      "meaning2": "",
+      "studentChallenge": "The senator's powerful ___ moved the crowd to tears.",
+      "sentence": ""
+    },
+    {
+      "word": "vehement",
+      "partOfSpeech": "adjective",
+      "meaning1": "Showing strong, intense feeling; forceful. Example: She gave a vehement denial when she was accused of cheating.",
+      "meaning2": "",
+      "studentChallenge": "His ___ protest echoed down the hallway.",
+      "sentence": ""
+    },
+    {
+      "word": "discredit",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To damage the reputation of someone, or to make something seem untrue or unreliable. Example: The scientist tried to discredit the rumor with clear evidence.",
+      "meaning2": "Loss of respect or good reputation. Example: His careless behavior brought discredit on the whole team.",
+      "studentChallenge": "The rival candidate tried to ___ her by spreading rumors.",
+      "sentence": ""
+    },
+    {
+      "word": "bombastic",
+      "partOfSpeech": "adjective",
+      "meaning1": "Using grand, showy words that sound important but mean very little. Example: The bombastic announcer promised the greatest show in the history of the universe.",
+      "meaning2": "",
+      "studentChallenge": "His ___ speech was full of loud words but few ideas.",
+      "sentence": ""
+    },
+    {
+      "word": "rapport",
+      "partOfSpeech": "noun",
+      "meaning1": "A friendly, understanding relationship in which people communicate easily. Example: The new teacher quickly built rapport with her class.",
+      "meaning2": "",
+      "studentChallenge": "The two partners developed an easy ___ after months of working together.",
+      "sentence": ""
+    },
+    {
+      "word": "cynical",
+      "partOfSpeech": "adjective",
+      "meaning1": "Distrustful of people's motives; believing that people act only out of selfishness. Example: Cynical about advertising, he assumed every claim was a trick.",
+      "meaning2": "",
+      "studentChallenge": "She grew ___ about promises after being let down so many times.",
+      "sentence": ""
+    },
+    {
+      "word": "inflection",
+      "partOfSpeech": "noun",
+      "meaning1": "A change in the pitch or tone of the voice while speaking. Example: The question was clear from the rising inflection in her voice.",
+      "meaning2": "A change in the form of a word to show tense, number or other meaning. Example: The ending -ed is an inflection that shows past tense in English.",
+      "studentChallenge": "You could hear the excitement in the ___ of her voice.",
+      "sentence": ""
+    },
+    {
+      "word": "moderator",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who leads a discussion or debate, keeping order and making sure the rules are followed. Example: The moderator reminded each speaker to stay within the time limit.",
+      "meaning2": "",
+      "studentChallenge": "The ___ asked the audience to hold their questions until the end.",
+      "sentence": ""
+    },
+    {
+      "word": "stance",
+      "partOfSpeech": "noun",
+      "meaning1": "A person's stated position or opinion on an issue. Example: The mayor took a firm stance against closing the library.",
+      "meaning2": "The way a person stands, especially in sports. Example: The batter shifted into a wide stance and waited for the pitch.",
+      "studentChallenge": "The senator explained her ___ on the new environmental law.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The lawyer's _______ argument left the jury with no reasonable doubt.",
+      "sentence2": "Her essay was so _______ that even its critics admitted it made sense.",
+      "options": [
+        "bombastic",
+        "cynical",
+        "cogent",
+        "concise"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "cogent"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Please keep your summary _______; two sentences should be plenty.",
+      "sentence2": "The coach gave a _______ speech that lasted only thirty seconds.",
+      "options": [
+        "concise",
+        "bombastic",
+        "cogent",
+        "vehement"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "concise"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Dad let loose a furious _______ about the muddy footprints on the new rug.",
+      "sentence2": "The critic's long and bitter _______ against the film went on for twenty minutes.",
+      "options": [
+        "oratory",
+        "moderator",
+        "rapport",
+        "tirade"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "tirade"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The class sat spellbound through two hours of stirring _______ at the rally.",
+      "sentence2": "The mayor was admired for the grace and power of his _______.",
+      "options": [
+        "inflection",
+        "oratory",
+        "rapport",
+        "moderator"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "oratory"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The mayor gave a _______ denial of the charges, his voice shaking with anger.",
+      "sentence2": "Neighbors voiced _______ objections to the plan, shouting across the meeting hall.",
+      "options": [
+        "cynical",
+        "vehement",
+        "concise",
+        "cogent"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "vehement"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Lawyers tried to _______ the witness by pointing out his earlier lies.",
+      "sentence2": "Spreading false rumors would only _______ the campaign in the end.",
+      "options": [
+        "oratory",
+        "stance",
+        "tirade",
+        "discredit"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "discredit"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The candidate's _______ promises filled the hall with noise but no substance.",
+      "sentence2": "His _______ style, full of grand words and booming gestures, made the class giggle.",
+      "options": [
+        "bombastic",
+        "cogent",
+        "concise",
+        "cynical"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "bombastic"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Within a week, the new coach had built a strong _______ with the whole team.",
+      "sentence2": "Good friends share an easy _______ that needs very few words.",
+      "options": [
+        "stance",
+        "inflection",
+        "rapport",
+        "tirade"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "rapport"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "After being fooled twice, he became _______ and assumed every free offer was a trap.",
+      "sentence2": "Her _______ smile showed she believed nobody did favors without a catch.",
+      "options": [
+        "vehement",
+        "bombastic",
+        "cynical",
+        "cogent"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "cynical"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Her rising _______ at the end of the sentence turned it into a question.",
+      "sentence2": "A teacher can change the meaning of a line just by changing its _______.",
+      "options": [
+        "inflection",
+        "oratory",
+        "stance",
+        "tirade"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "inflection"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The _______ cut off the speaker when the timer rang.",
+      "sentence2": "As the forum's _______, Ms. Ortiz kept the debate fair and on schedule.",
+      "options": [
+        "rapport",
+        "tirade",
+        "stance",
+        "moderator"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "moderator"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The senator explained her _______ on the new school lunch rule.",
+      "sentence2": "The boxer lowered into a wide, steady _______ before the bell.",
+      "options": [
+        "oratory",
+        "stance",
+        "inflection",
+        "rapport"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "stance"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "cogent",
+      "concise",
+      "tirade",
+      "oratory",
+      "vehement",
+      "discredit",
+      "bombastic",
+      "rapport",
+      "cynical",
+      "inflection",
+      "moderator",
+      "stance"
+    ],
+    "passage": "Rohan's cousin Maya once judged a regional final, and she loves to describe it. The _(1)_ tapped his gavel and reminded both teams that each speaker had two minutes. The first debater tried to _(2)_ his opponent's evidence by calling every source biased, and when that failed, his speech sank into a _(3)_ of complaints about the rules.\n\nThen the second debater stood. She spoke with a careful _(4)_ that rose at questions and softened at warnings. Her case was _(5)_, with each reason leading neatly to the next, and _(6)_, finishing well before the buzzer. Even one _(7)_ judge, who doubted that anyone ever changed their mind, nodded along. Her _(8)_ on school uniforms, that they should be optional, was easy to summarize.\n\nAfterward, Maya said that fine _(9)_ is not about volume. A _(10)_ speaker may fill a room with noise, but a speaker who is honest and _(11)_ about a cause can move it. The two debaters even built a friendly _(12)_ over lunch and swapped notes.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "moderator",
+        "options": [
+          "stance",
+          "rapport",
+          "tirade",
+          "moderator"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "discredit",
+        "options": [
+          "discredit",
+          "oratory",
+          "rapport",
+          "stance"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "tirade",
+        "options": [
+          "stance",
+          "rapport",
+          "tirade",
+          "moderator"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "inflection",
+        "options": [
+          "stance",
+          "inflection",
+          "rapport",
+          "tirade"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "cogent",
+        "options": [
+          "bombastic",
+          "cynical",
+          "vehement",
+          "cogent"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "concise",
+        "options": [
+          "concise",
+          "bombastic",
+          "cynical",
+          "vehement"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "cynical",
+        "options": [
+          "cogent",
+          "concise",
+          "cynical",
+          "bombastic"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "stance",
+        "options": [
+          "oratory",
+          "stance",
+          "rapport",
+          "tirade"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "oratory",
+        "options": [
+          "moderator",
+          "stance",
+          "discredit",
+          "oratory"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "bombastic",
+        "options": [
+          "bombastic",
+          "cogent",
+          "concise",
+          "cynical"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "vehement",
+        "options": [
+          "bombastic",
+          "moderator",
+          "vehement",
+          "discredit"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "rapport",
+        "options": [
+          "stance",
+          "rapport",
+          "tirade",
+          "moderator"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "vehement",
+        "scale": [
+          "Firm",
+          "Forceful",
+          "Vehement"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "tirade",
+        "scale": [
+          "Complaint",
+          "Rant",
+          "Tirade"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "cynical",
+        "scale": [
+          "Doubtful",
+          "Skeptical",
+          "Cynical"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "bombastic",
+        "scale": [
+          "Wordy",
+          "Pompous",
+          "Bombastic"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "cogent",
+        "words": [
+          "Convincing",
+          "Logical",
+          "Confusing",
+          "Persuasive"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Confusing"
+      },
+      {
+        "vocabWord": "concise",
+        "words": [
+          "Brief",
+          "Succinct",
+          "Compact",
+          "Wordy"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Wordy"
+      },
+      {
+        "vocabWord": "discredit",
+        "words": [
+          "Honor",
+          "Undermine",
+          "Smear",
+          "Disgrace"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Honor"
+      },
+      {
+        "vocabWord": "rapport",
+        "words": [
+          "Bond",
+          "Hostility",
+          "Connection",
+          "Harmony"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Hostility"
+      },
+      {
+        "vocabWord": "oratory",
+        "words": [
+          "Eloquence",
+          "Speechmaking",
+          "Rhetoric",
+          "Silence"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Silence"
+      },
+      {
+        "vocabWord": "bombastic",
+        "words": [
+          "Pompous",
+          "Inflated",
+          "Humble",
+          "Grandiose"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Humble"
+      },
+      {
+        "vocabWord": "vehement",
+        "words": [
+          "Fierce",
+          "Mild",
+          "Passionate",
+          "Intense"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Mild"
+      },
+      {
+        "vocabWord": "cynical",
+        "words": [
+          "Trusting",
+          "Distrustful",
+          "Skeptical",
+          "Doubtful"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Trusting"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

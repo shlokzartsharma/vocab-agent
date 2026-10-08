@@ -1,0 +1,577 @@
+{
+  "grade": 6,
+  "setNumber": 3,
+  "words": [
+    "eerie",
+    "lurk",
+    "sinister",
+    "suspicious",
+    "barnacle",
+    "cove",
+    "wade",
+    "vigil",
+    "trespass",
+    "ransack",
+    "fathom",
+    "inlet"
+  ],
+  "sources": [
+    "Common Core Grade 6",
+    "Tier 2 Academic"
+  ],
+  "genre": "seaside mystery",
+  "story": {
+    "genre": "seaside mystery",
+    "characters": [
+      "Lena",
+      "Omar",
+      "Josie"
+    ],
+    "parts": [
+      {
+        "title": "The Green Light",
+        "text": "Each summer, Lena stayed at her grandmother's cottage above a rocky shore. This year, an **eerie** green light flickered over the **inlet** every night, a narrow arm of the sea tucked between the cliffs. At low tide, Lena, her cousin Omar, and their neighbor Josie climbed down to a hidden **cove** where the sand sparkled with shells. Every rock wore a rough gray crust, and each tiny **barnacle** clamped on as tightly as a button."
+      },
+      {
+        "title": "Footprints in the Sand",
+        "text": "The tide was low enough for the three friends to **wade** through knee-deep water toward a dark opening in the cliff. Fresh, deep boot prints crossed the wet sand, a **suspicious** sign, since no fisherman used this beach. Omar whispered that smugglers might **lurk** in the shadows. Josie counted dozens of prints, but they ended suddenly at the rocks, as if the walkers had vanished."
+      },
+      {
+        "title": "Midnight Visitors",
+        "text": "That night, the friends kept a **vigil** at the cottage window. Near midnight, a small boat slid out of the fog, and two strangers climbed ashore. \"They **trespass** on Grandma's land!\" Lena hissed. By lantern light, their grins looked **sinister** as they began to **ransack** the old boathouse, hurling out ropes and crates. Lena could not **fathom** what they hoped to find among rotting nets."
+      },
+      {
+        "title": "Morning Light",
+        "text": "Lena rang the old bell, and the strangers fled into the fog. By morning, the coast guard had found their boat, empty and abandoned. Her grandmother laughed and said legends of lost silver had lured treasure hunters to the shore for years. Lena smiled, proud that careful watching had protected her family's land, and the green glow no longer felt frightening."
+      }
+    ],
+    "wordCount": 266
+  },
+  "definitions": [
+    {
+      "word": "eerie",
+      "partOfSpeech": "adjective",
+      "meaning1": "Strange and frightening in a quiet, spooky way. Example: An eerie silence settled over the empty beach after the sun went down.",
+      "meaning2": "",
+      "studentChallenge": "The ___ fog made the empty pier feel as if something might step out of it.",
+      "sentence": ""
+    },
+    {
+      "word": "lurk",
+      "partOfSpeech": "verb",
+      "meaning1": "To wait or hide quietly, especially in order to ambush someone or do something wrong. Example: Sharks may lurk in the deep water beyond the reef.",
+      "meaning2": "To be present but hidden, as a danger or feeling. Example: Doubt can lurk behind a confident smile.",
+      "studentChallenge": "Burglars may ___ in the alley, waiting for the shop to close.",
+      "sentence": ""
+    },
+    {
+      "word": "sinister",
+      "partOfSpeech": "adjective",
+      "meaning1": "Seeming evil or harmful; threatening. Example: The villain's sinister laugh sent a chill through the audience.",
+      "meaning2": "",
+      "studentChallenge": "The villain's ___ laugh made everyone in the theater shiver.",
+      "sentence": ""
+    },
+    {
+      "word": "suspicious",
+      "partOfSpeech": "adjective",
+      "meaning1": "Causing a feeling that something is wrong or dishonest. Example: A suspicious package sat unattended near the school gate.",
+      "meaning2": "Feeling or showing distrust. Example: The shopkeeper gave the stranger a suspicious look.",
+      "studentChallenge": "The guard grew ___ when the visitor kept avoiding his questions.",
+      "sentence": ""
+    },
+    {
+      "word": "barnacle",
+      "partOfSpeech": "noun",
+      "meaning1": "A small sea animal with a hard shell that sticks tightly to rocks, boats, and docks. Example: A single barnacle clung to the bottom of the boat.",
+      "meaning2": "",
+      "studentChallenge": "The sailor scraped a stubborn ___ off the hull of the boat.",
+      "sentence": ""
+    },
+    {
+      "word": "cove",
+      "partOfSpeech": "noun",
+      "meaning1": "A small, sheltered bay along a coast. Example: Pirates once hid their ship in a quiet cove with steep cliffs on three sides.",
+      "meaning2": "",
+      "studentChallenge": "The fishing boats gathered in a quiet ___ to wait out the storm.",
+      "sentence": ""
+    },
+    {
+      "word": "wade",
+      "partOfSpeech": "verb",
+      "meaning1": "To walk through water or something else that slows your steps. Example: The children took off their shoes to wade into the cool stream.",
+      "meaning2": "To work through something slowly and with effort. Example: I had to wade through a stack of homework before dinner.",
+      "studentChallenge": "We rolled up our pants to ___ across the shallow creek.",
+      "sentence": ""
+    },
+    {
+      "word": "vigil",
+      "partOfSpeech": "noun",
+      "meaning1": "A time of staying awake to watch, wait, or guard. Example: The family kept a candlelit vigil outside the hospital all night.",
+      "meaning2": "",
+      "studentChallenge": "The students held a quiet ___ with candles to honor their friend.",
+      "sentence": ""
+    },
+    {
+      "word": "trespass",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To enter someone's land or property without permission. Example: Signs warned hikers not to trespass on the private farm.",
+      "meaning2": "",
+      "studentChallenge": "The sign warned: do not ___ on the farmer's land.",
+      "sentence": ""
+    },
+    {
+      "word": "ransack",
+      "partOfSpeech": "verb",
+      "meaning1": "To search a place roughly, leaving it messy or damaged, often in order to steal. Example: Burglars began to ransack the apartment, pulling clothes from every drawer.",
+      "meaning2": "",
+      "studentChallenge": "Thieves can ___ a house in minutes, leaving drawers open and papers scattered.",
+      "sentence": ""
+    },
+    {
+      "word": "fathom",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To understand something after thinking about it hard. Example: I cannot fathom why anyone would leave such a valuable painting behind.",
+      "meaning2": "A unit for measuring the depth of water, equal to six feet. Example: The old anchor rested at a depth of ten fathoms.",
+      "studentChallenge": "Scientists still cannot ___ how the ancient builders moved such heavy stones.",
+      "sentence": ""
+    },
+    {
+      "word": "inlet",
+      "partOfSpeech": "noun",
+      "meaning1": "A narrow strip of water reaching into the land from a sea or lake. Example: The sailboat slipped into the narrow inlet between the cliffs.",
+      "meaning2": "An opening through which air or liquid enters something. Example: Leaves clogged the inlet of the pool's pump.",
+      "studentChallenge": "Fishing boats rested in the quiet ___ until the storm passed.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The _______ glow of the moon on the still, empty harbor made the night feel like a dream.",
+      "sentence2": "The wind's _______ moan drifted through the empty lighthouse.",
+      "options": [
+        "suspicious",
+        "eerie",
+        "vigil",
+        "cove"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "eerie"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Sharks may _______ in the deep water beyond the reef.",
+      "sentence2": "A cat will _______ behind the bush, waiting for a bird to land.",
+      "options": [
+        "wade",
+        "ransack",
+        "lurk",
+        "trespass"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "lurk"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The villain's _______ grin sent a chill through the audience.",
+      "sentence2": "The detectives uncovered a _______ plan to hurt the town's water supply.",
+      "options": [
+        "sinister",
+        "eerie",
+        "suspicious",
+        "fathom"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "sinister"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The guard gave the stranger a _______ look and asked to see his ticket.",
+      "sentence2": "The sailor grew _______ when the old map did not match the coastline.",
+      "options": [
+        "eerie",
+        "vigil",
+        "cove",
+        "suspicious"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "suspicious"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "A single _______ clung stubbornly to the bottom of the boat.",
+      "sentence2": "Scientists study how each _______ glues itself to a rock.",
+      "options": [
+        "cove",
+        "barnacle",
+        "inlet",
+        "vigil"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "barnacle"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Pirates once hid their ship in a small, sheltered _______ with cliffs on three sides.",
+      "sentence2": "We swam in a calm _______ where the waves barely reached the sand.",
+      "options": [
+        "barnacle",
+        "vigil",
+        "cove",
+        "fathom"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "cove"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The children took off their shoes to _______ into the cool stream.",
+      "sentence2": "I had to _______ through a stack of homework before dinner.",
+      "options": [
+        "wade",
+        "lurk",
+        "trespass",
+        "ransack"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "wade"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The family kept a candlelit _______ outside the hospital all night.",
+      "sentence2": "Sailors' families held a long _______ on the cliffs, hoping to spot returning ships.",
+      "options": [
+        "cove",
+        "vigil",
+        "barnacle",
+        "inlet"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "vigil"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Signs warned hikers not to _______ on the private farm.",
+      "sentence2": "It is against the law to _______ on railroad property.",
+      "options": [
+        "wade",
+        "fathom",
+        "ransack",
+        "trespass"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "trespass"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The burglars began to _______ the apartment, pulling clothes from every drawer.",
+      "sentence2": "My little brother likes to _______ the toy chest looking for one tiny car.",
+      "options": [
+        "lurk",
+        "wade",
+        "ransack",
+        "trespass"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "ransack"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "I cannot _______ why anyone would leave such a valuable painting behind.",
+      "sentence2": "It is hard to _______ how far the universe stretches.",
+      "options": [
+        "fathom",
+        "wade",
+        "lurk",
+        "ransack"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "fathom"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The sailboat slipped into the narrow _______ between the cliffs.",
+      "sentence2": "Leaves clogged the _______ where water enters the pool's pump.",
+      "options": [
+        "cove",
+        "barnacle",
+        "vigil",
+        "inlet"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "inlet"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "eerie",
+      "lurk",
+      "sinister",
+      "suspicious",
+      "barnacle",
+      "cove",
+      "wade",
+      "vigil",
+      "trespass",
+      "ransack",
+      "fathom",
+      "inlet"
+    ],
+    "passage": "Nina's grandfather had kept the lighthouse for forty years, and he often told her that fog rolled into the narrow _(1)_ below the cliffs every evening. When it did, the whole shore turned strangely _(2)_, and the foghorn sounded like a lonely whale.\n\nOne night Nina saw a shape _(3)_ near the rocks, hiding just beyond the lamp's glow. She thought it looked _(4)_, and she wondered if a stranger planned to _(5)_ on the lighthouse grounds. At dawn she hurried down to the shore. Each rock was crusted with a hard gray _(6)_, and in a hidden _(7)_ nearby, she had to _(8)_ through cold, shin-deep water to reach the sand.\n\nThe next night, she kept a long _(9)_ at the window. A figure with a _(10)_ grin crept across the lawn and began to _(11)_ the tool shed. Nina rang the bell, and the figure ran off. In the morning the coast guard found only boot prints. Nina still could not _(12)_ what he had hoped to find.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "inlet",
+        "options": [
+          "barnacle",
+          "vigil",
+          "inlet",
+          "fathom"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "eerie",
+        "options": [
+          "lurk",
+          "eerie",
+          "wade",
+          "vigil"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "lurk",
+        "options": [
+          "wade",
+          "trespass",
+          "ransack",
+          "lurk"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "suspicious",
+        "options": [
+          "suspicious",
+          "barnacle",
+          "cove",
+          "vigil"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "trespass",
+        "options": [
+          "wade",
+          "trespass",
+          "ransack",
+          "fathom"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "barnacle",
+        "options": [
+          "cove",
+          "inlet",
+          "barnacle",
+          "vigil"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "cove",
+        "options": [
+          "cove",
+          "barnacle",
+          "vigil",
+          "fathom"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "wade",
+        "options": [
+          "lurk",
+          "trespass",
+          "ransack",
+          "wade"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "vigil",
+        "options": [
+          "cove",
+          "vigil",
+          "inlet",
+          "barnacle"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "sinister",
+        "options": [
+          "barnacle",
+          "fathom",
+          "sinister",
+          "vigil"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "ransack",
+        "options": [
+          "ransack",
+          "lurk",
+          "wade",
+          "trespass"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "fathom",
+        "options": [
+          "wade",
+          "lurk",
+          "ransack",
+          "fathom"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "eerie",
+        "scale": [
+          "Strange",
+          "Eerie",
+          "Terrifying"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "sinister",
+        "scale": [
+          "Unfriendly",
+          "Threatening",
+          "Sinister"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "trespass",
+        "scale": [
+          "Wander",
+          "Trespass",
+          "Invade"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "ransack",
+        "scale": [
+          "Search",
+          "Rummage",
+          "Ransack"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "eerie",
+        "words": [
+          "Spooky",
+          "Creepy",
+          "Haunting",
+          "Cheerful"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Cheerful"
+      },
+      {
+        "vocabWord": "lurk",
+        "words": [
+          "Skulk",
+          "Parade",
+          "Hide",
+          "Prowl"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Parade"
+      },
+      {
+        "vocabWord": "sinister",
+        "words": [
+          "Menacing",
+          "Evil",
+          "Friendly",
+          "Threatening"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Friendly"
+      },
+      {
+        "vocabWord": "suspicious",
+        "words": [
+          "Trusting",
+          "Doubtful",
+          "Wary",
+          "Distrustful"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Trusting"
+      },
+      {
+        "vocabWord": "vigil",
+        "words": [
+          "Watch",
+          "Lookout",
+          "Guard",
+          "Neglect"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Neglect"
+      },
+      {
+        "vocabWord": "trespass",
+        "words": [
+          "Intrude",
+          "Respect",
+          "Invade",
+          "Encroach"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Respect"
+      },
+      {
+        "vocabWord": "ransack",
+        "words": [
+          "Plunder",
+          "Pillage",
+          "Tidy",
+          "Rummage"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Tidy"
+      },
+      {
+        "vocabWord": "fathom",
+        "words": [
+          "Misunderstand",
+          "Understand",
+          "Grasp",
+          "Comprehend"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Misunderstand"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

@@ -1,0 +1,578 @@
+{
+  "grade": 8,
+  "setNumber": 9,
+  "words": [
+    "nuance",
+    "allusion",
+    "motif",
+    "subtle",
+    "evocative",
+    "whimsical",
+    "lyrical",
+    "poignant",
+    "somber",
+    "pensive",
+    "nostalgia",
+    "paradox"
+  ],
+  "sources": [
+    "Common Core Grade 8",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "poetry and literature club",
+  "story": {
+    "genre": "poetry and literature club",
+    "characters": [
+      "Isolde",
+      "Kareem",
+      "Penny"
+    ],
+    "parts": [
+      {
+        "title": "Thursday Meeting",
+        "text": "The poetry club met every Thursday in the library, and this week Isolde had brought a poem about an old lighthouse. Kareem read it aloud in a **somber** voice, and the room went quiet. Penny, who loved to study the **nuance** of every word, noticed that the poet never called the light lonely. The feeling was **subtle**, hidden in small details like a chipped lamp and an empty chair."
+      },
+      {
+        "title": "Digging In",
+        "text": "Isolde pointed out an **allusion** in the second stanza, a quiet nod to an ancient myth about a sailor returning home. \"The poet expects us to know the story,\" she said. Kareem found a **motif** too: water appeared in nearly every verse, as rain, as tide, as tears. The imagery was **evocative**, and Penny could almost smell the salt and hear the foghorn. The words had a **lyrical** rhythm that made the poem feel like a song, even without music."
+      },
+      {
+        "title": "A Silly Turn",
+        "text": "Then Penny shared her own poem, a **whimsical** piece about a cat who ran a post office. Everyone laughed, but the last stanza turned **poignant**: the cat mailed a letter to a friend who had moved away. \"That is a **paradox**,\" Kareem said. \"It is silly and sad at once.\" Isolde grew **pensive**, staring out the window. \"It reminds me of my old neighborhood,\" she admitted, and a wave of **nostalgia** washed over her for the street where she had grown up."
+      },
+      {
+        "title": "Reading Between the Lines",
+        "text": "Before they left, the club decided to make a booklet of their favorite poems. Isolde realized that poets do not hide their meaning to be difficult. They invite readers to slow down and notice what lies beneath the surface. Walking home, the three friends promised to bring a poem about their own hometowns next week."
+      }
+    ],
+    "wordCount": 286
+  },
+  "definitions": [
+    {
+      "word": "nuance",
+      "partOfSpeech": "noun",
+      "meaning1": "A very small difference in meaning, tone or feeling. Example: The translator captured every nuance of the original speech.",
+      "meaning2": "",
+      "studentChallenge": "A good actor can show a ___ of emotion with just a raised eyebrow.",
+      "sentence": ""
+    },
+    {
+      "word": "allusion",
+      "partOfSpeech": "noun",
+      "meaning1": "An indirect reference to a person, event or work of literature. Example: His joke about meeting his Waterloo was an allusion to a famous military defeat.",
+      "meaning2": "",
+      "studentChallenge": "The title was an ___ to an old fairy tale, though it never named the story.",
+      "sentence": ""
+    },
+    {
+      "word": "motif",
+      "partOfSpeech": "noun",
+      "meaning1": "A repeated image, idea or pattern that helps develop a theme in a work. Example: Broken mirrors are a motif throughout the novel.",
+      "meaning2": "A repeated decorative design. Example: The wallpaper had a leaf motif.",
+      "studentChallenge": "Water appears again and again as a ___ in the poems of the collection.",
+      "sentence": ""
+    },
+    {
+      "word": "subtle",
+      "partOfSpeech": "adjective",
+      "meaning1": "Delicate or indirect, so that it is not obvious. Example: The author gave a subtle hint about the ending.",
+      "meaning2": "",
+      "studentChallenge": "Her disappointment was ___, shown only in a small sigh.",
+      "sentence": ""
+    },
+    {
+      "word": "evocative",
+      "partOfSpeech": "adjective",
+      "meaning1": "Bringing strong images, memories or feelings to mind. Example: The evocative smell of baking bread reminded him of his grandmother's kitchen.",
+      "meaning2": "",
+      "studentChallenge": "The poem's ___ description of the harbor made readers feel they were there.",
+      "sentence": ""
+    },
+    {
+      "word": "whimsical",
+      "partOfSpeech": "adjective",
+      "meaning1": "Playful and imaginative in a quirky, unusual way. Example: The whimsical painting showed fish riding bicycles.",
+      "meaning2": "",
+      "studentChallenge": "Her ___ stories about talking teapots made the children giggle.",
+      "sentence": ""
+    },
+    {
+      "word": "lyrical",
+      "partOfSpeech": "adjective",
+      "meaning1": "Expressing emotion in a beautiful, musical way. Example: The lyrical language of the poem flowed like a song.",
+      "meaning2": "",
+      "studentChallenge": "The poet's ___ style made her verses sound like music.",
+      "sentence": ""
+    },
+    {
+      "word": "poignant",
+      "partOfSpeech": "adjective",
+      "meaning1": "Causing a deep feeling of sadness or sympathy. Example: The poignant letter from a soldier brought tears to the audience.",
+      "meaning2": "",
+      "studentChallenge": "The ___ final scene, with the old dog waiting at the door, moved everyone.",
+      "sentence": ""
+    },
+    {
+      "word": "somber",
+      "partOfSpeech": "adjective",
+      "meaning1": "Serious, sad and gloomy. Example: A somber mood filled the room at the memorial.",
+      "meaning2": "Dark or dull in color. Example: She wore a somber gray coat.",
+      "studentChallenge": "The ___ music made the funeral scene feel even heavier.",
+      "sentence": ""
+    },
+    {
+      "word": "pensive",
+      "partOfSpeech": "adjective",
+      "meaning1": "Deep in thought, often in a quiet or slightly sad way. Example: He sat pensive by the window, thinking about his move.",
+      "meaning2": "",
+      "studentChallenge": "She grew ___ as she watched the rain and wondered about her future.",
+      "sentence": ""
+    },
+    {
+      "word": "nostalgia",
+      "partOfSpeech": "noun",
+      "meaning1": "A wistful longing for the past. Example: Old photographs filled her with nostalgia for summers at the lake.",
+      "meaning2": "",
+      "studentChallenge": "Hearing the old song brought a wave of ___ for his childhood.",
+      "sentence": ""
+    },
+    {
+      "word": "paradox",
+      "partOfSpeech": "noun",
+      "meaning1": "A statement or situation that seems to contradict itself but may still be true. Example: It is a paradox that the more you share knowledge, the more you have.",
+      "meaning2": "A person or thing with seemingly contradictory qualities. Example: The shy comedian was a paradox.",
+      "studentChallenge": "\"Less is more\" is a famous ___ that sounds false but holds some truth.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "A skilled translator captures every _______ of the original speech.",
+      "sentence2": "The actor conveyed a _______ of sadness with only a slight smile.",
+      "options": [
+        "paradox",
+        "nostalgia",
+        "nuance",
+        "somber"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "nuance"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The title contains a quiet _______ to an old myth, though it never names the story.",
+      "sentence2": "His joke about 'meeting his Waterloo' was a clear _______ to Napoleon's defeat.",
+      "options": [
+        "allusion",
+        "nuance",
+        "motif",
+        "paradox"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "allusion"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The recurring _______ of broken mirrors ties the whole novel together.",
+      "sentence2": "The wallpaper in the nursery had a leaf _______ repeated along every wall.",
+      "options": [
+        "nuance",
+        "allusion",
+        "nostalgia",
+        "motif"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "motif"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The author left a _______ hint about the ending, easy to miss on a first read.",
+      "sentence2": "Her disappointment was _______, shown only in a small sigh.",
+      "options": [
+        "lyrical",
+        "subtle",
+        "whimsical",
+        "pensive"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "subtle"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The _______ smell of fresh bread brought back memories of his grandmother's kitchen.",
+      "sentence2": "Her _______ description of the harbor made readers feel they were standing on the dock.",
+      "options": [
+        "whimsical",
+        "evocative",
+        "somber",
+        "pensive"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "evocative"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The _______ painting showed fish riding bicycles through the clouds.",
+      "sentence2": "Her _______ stories about talking teapots made the children giggle.",
+      "options": [
+        "somber",
+        "pensive",
+        "poignant",
+        "whimsical"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "whimsical"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The poet's _______ language flowed so smoothly that it sounded like a song.",
+      "sentence2": "Critics praised the _______ prose of the novel, as musical as any poem.",
+      "options": [
+        "lyrical",
+        "somber",
+        "pensive",
+        "poignant"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "lyrical"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The _______ letter from the soldier brought tears to the audience.",
+      "sentence2": "It was a _______ moment when the old friends hugged goodbye at the station.",
+      "options": [
+        "whimsical",
+        "lyrical",
+        "poignant",
+        "subtle"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "poignant"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "A _______ mood settled over the room as the names were read at the memorial.",
+      "sentence2": "She wore a _______ gray coat to the funeral.",
+      "options": [
+        "whimsical",
+        "subtle",
+        "lyrical",
+        "somber"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "somber"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "He sat _______ by the window, lost in thought about his move to a new city.",
+      "sentence2": "Her _______ expression showed she was weighing a difficult choice.",
+      "options": [
+        "whimsical",
+        "pensive",
+        "lyrical",
+        "evocative"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "pensive"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Old photographs filled her with _______ for summers at the lake.",
+      "sentence2": "Hearing the song again brought a rush of _______ for his childhood.",
+      "options": [
+        "nuance",
+        "allusion",
+        "nostalgia",
+        "paradox"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "nostalgia"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "It is a _______ that the more you share knowledge, the more of it you have.",
+      "sentence2": "The shy comedian was a living _______: terrified of strangers yet adored by crowds.",
+      "options": [
+        "paradox",
+        "motif",
+        "nuance",
+        "nostalgia"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "paradox"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "nuance",
+      "allusion",
+      "motif",
+      "subtle",
+      "evocative",
+      "whimsical",
+      "lyrical",
+      "poignant",
+      "somber",
+      "pensive",
+      "nostalgia",
+      "paradox"
+    ],
+    "passage": "Kareem wrote a short review of the club's first anthology. Its opening poem, about a tide pool, is _(1)_, with images so vivid you can feel the cold water. Water returns as a _(2)_ in nearly every poem, linking them like beads on a string. The poet also slips in an _(3)_ to an old sea legend, a quiet wink for readers who know it.\n\nThe mood changes from page to page. One piece is _(4)_ and gentle, imagining a crab who collects buttons. Another is _(5)_ and sad, about a grandfather's last voyage, and its ending is so _(6)_ that tears are likely. A third reads like a song, so _(7)_ that you want to hum it. Readers who linger over a page, quiet and _(8)_, will find that every _(9)_ of meaning rewards a second look, even the _(10)_ details that are easy to miss. One poem about a childhood home is soaked in a deep _(11)_ for the past, and another asks how a lighthouse can guide ships yet stand alone, a lovely _(12)_ that seems to contradict itself.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "evocative",
+        "options": [
+          "nuance",
+          "evocative",
+          "somber",
+          "allusion"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "motif",
+        "options": [
+          "nostalgia",
+          "subtle",
+          "lyrical",
+          "motif"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "allusion",
+        "options": [
+          "allusion",
+          "evocative",
+          "nuance",
+          "motif"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "whimsical",
+        "options": [
+          "allusion",
+          "paradox",
+          "whimsical",
+          "nuance"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "somber",
+        "options": [
+          "whimsical",
+          "lyrical",
+          "somber",
+          "subtle"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "poignant",
+        "options": [
+          "poignant",
+          "whimsical",
+          "lyrical",
+          "subtle"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "lyrical",
+        "options": [
+          "somber",
+          "pensive",
+          "subtle",
+          "lyrical"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "pensive",
+        "options": [
+          "evocative",
+          "pensive",
+          "subtle",
+          "lyrical"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "nuance",
+        "options": [
+          "nuance",
+          "nostalgia",
+          "motif",
+          "paradox"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "subtle",
+        "options": [
+          "lyrical",
+          "whimsical",
+          "somber",
+          "subtle"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "nostalgia",
+        "options": [
+          "nuance",
+          "nostalgia",
+          "allusion",
+          "paradox"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "paradox",
+        "options": [
+          "motif",
+          "allusion",
+          "paradox",
+          "nostalgia"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "poignant",
+        "scale": [
+          "Touching",
+          "Moving",
+          "Poignant"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "somber",
+        "scale": [
+          "Serious",
+          "Grave",
+          "Somber"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "evocative",
+        "scale": [
+          "Descriptive",
+          "Vivid",
+          "Evocative"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "nostalgia",
+        "scale": [
+          "Memory",
+          "Fondness",
+          "Nostalgia"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "nuance",
+        "words": [
+          "Shade",
+          "Generality",
+          "Subtlety",
+          "Distinction"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Generality"
+      },
+      {
+        "vocabWord": "subtle",
+        "words": [
+          "Delicate",
+          "Understated",
+          "Faint",
+          "Obvious"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Obvious"
+      },
+      {
+        "vocabWord": "whimsical",
+        "words": [
+          "Serious",
+          "Playful",
+          "Quirky",
+          "Fanciful"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Serious"
+      },
+      {
+        "vocabWord": "lyrical",
+        "words": [
+          "Musical",
+          "Melodic",
+          "Harsh",
+          "Poetic"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Harsh"
+      },
+      {
+        "vocabWord": "somber",
+        "words": [
+          "Gloomy",
+          "Cheerful",
+          "Grave",
+          "Solemn"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Cheerful"
+      },
+      {
+        "vocabWord": "pensive",
+        "words": [
+          "Thoughtless",
+          "Thoughtful",
+          "Reflective",
+          "Contemplative"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Thoughtless"
+      },
+      {
+        "vocabWord": "nostalgia",
+        "words": [
+          "Longing",
+          "Wistfulness",
+          "Yearning",
+          "Anticipation"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Anticipation"
+      },
+      {
+        "vocabWord": "poignant",
+        "words": [
+          "Touching",
+          "Moving",
+          "Unfeeling",
+          "Heartfelt"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Unfeeling"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

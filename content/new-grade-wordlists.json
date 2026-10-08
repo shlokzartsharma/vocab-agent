@@ -1,0 +1,1162 @@
+{
+ "1": [
+  {
+   "setNumber": 1,
+   "words": [
+    "gather",
+    "nibble",
+    "gentle",
+    "dash",
+    "peek",
+    "sleepy",
+    "snuggle",
+    "wiggle",
+    "puddle",
+    "bounce",
+    "tidy",
+    "bundle"
+   ],
+   "genre": "farm morning",
+   "characters": [
+    "Mia",
+    "Omar",
+    "Ruby"
+   ]
+  },
+  {
+   "setNumber": 2,
+   "words": [
+    "sprinkle",
+    "tiny",
+    "shiny",
+    "soggy",
+    "scoop",
+    "pluck",
+    "crawl",
+    "buzz",
+    "hurry",
+    "bloom",
+    "fuzzy",
+    "damp"
+   ],
+   "genre": "backyard garden",
+   "characters": [
+    "Leo",
+    "Priya",
+    "Ben"
+   ]
+  },
+  {
+   "setNumber": 3,
+   "words": [
+    "splash",
+    "paddle",
+    "float",
+    "slippery",
+    "squirm",
+    "calm",
+    "swish",
+    "tadpole",
+    "dive",
+    "stretch",
+    "soak",
+    "swirl"
+   ],
+   "genre": "pond animals",
+   "characters": [
+    "Ava",
+    "Kofi",
+    "Lily"
+   ]
+  },
+  {
+   "setNumber": 4,
+   "words": [
+    "chilly",
+    "mitten",
+    "slide",
+    "crunch",
+    "flurry",
+    "melt",
+    "toasty",
+    "sled",
+    "tumble",
+    "pile",
+    "icy",
+    "huff"
+   ],
+   "genre": "snowy day",
+   "characters": [
+    "Noah",
+    "Yuki",
+    "Rosa"
+   ]
+  },
+  {
+   "setNumber": 5,
+   "words": [
+    "stir",
+    "sticky",
+    "crumb",
+    "delicious",
+    "pour",
+    "frosting",
+    "oven",
+    "crispy",
+    "squeeze",
+    "taste",
+    "mash",
+    "fluffy"
+   ],
+   "genre": "bakery kitchen",
+   "characters": [
+    "Sam",
+    "Lucia",
+    "Amir"
+   ]
+  },
+  {
+   "setNumber": 6,
+   "words": [
+    "whisper",
+    "polite",
+    "cheer",
+    "giggle",
+    "borrow",
+    "neat",
+    "proud",
+    "wonder",
+    "pretend",
+    "clap",
+    "welcome",
+    "sparkle"
+   ],
+   "genre": "school day",
+   "characters": [
+    "Zoe",
+    "Mateo",
+    "Anika"
+   ]
+  },
+  {
+   "setNumber": 7,
+   "words": [
+    "wobble",
+    "balance",
+    "dizzy",
+    "spin",
+    "twirl",
+    "leap",
+    "chase",
+    "bumpy",
+    "grin",
+    "scamper",
+    "tiptoe",
+    "seesaw"
+   ],
+   "genre": "playground",
+   "characters": [
+    "Jada",
+    "Theo",
+    "Hana"
+   ]
+  },
+  {
+   "setNumber": 8,
+   "words": [
+    "yawn",
+    "cuddle",
+    "lullaby",
+    "snore",
+    "twinkle",
+    "hush",
+    "cradle",
+    "dim",
+    "tuck",
+    "nap",
+    "silent",
+    "peaceful"
+   ],
+   "genre": "bedtime story",
+   "characters": [
+    "Elena",
+    "Jamal",
+    "Ivy"
+   ]
+  },
+  {
+   "setNumber": 9,
+   "words": [
+    "acorn",
+    "rustle",
+    "branch",
+    "nest",
+    "hidden",
+    "whisker",
+    "scurry",
+    "creep",
+    "den",
+    "trail",
+    "lonely",
+    "shade"
+   ],
+   "genre": "forest friends",
+   "characters": [
+    "Finn",
+    "Maya",
+    "Diego"
+   ]
+  },
+  {
+   "setNumber": 10,
+   "words": [
+    "picnic",
+    "sandy",
+    "seashell",
+    "pebble",
+    "bucket",
+    "breeze",
+    "towel",
+    "tide",
+    "shore",
+    "tickle",
+    "spill",
+    "dune"
+   ],
+   "genre": "family beach picnic",
+   "characters": [
+    "Nia",
+    "Carlos",
+    "Ella"
+   ]
+  }
+ ],
+ "2": [
+  {
+   "setNumber": 1,
+   "words": [
+    "rescue",
+    "stray",
+    "shaggy",
+    "comfort",
+    "nuzzle",
+    "grateful",
+    "scruffy",
+    "yelp",
+    "hesitant",
+    "wag",
+    "kennel",
+    "overjoyed"
+   ],
+   "genre": "animal rescue",
+   "characters": [
+    "Tara",
+    "Marcus",
+    "Sofia"
+   ]
+  },
+  {
+   "setNumber": 2,
+   "words": [
+    "lantern",
+    "crackle",
+    "ember",
+    "sturdy",
+    "glow",
+    "rummage",
+    "flicker",
+    "snug",
+    "chorus",
+    "dusk",
+    "thicket",
+    "hoot"
+   ],
+   "genre": "camping trip",
+   "characters": [
+    "Jin",
+    "Olivia",
+    "Hassan"
+   ]
+  },
+  {
+   "setNumber": 3,
+   "words": [
+    "bustle",
+    "crowded",
+    "basket",
+    "ripe",
+    "juicy",
+    "tempt",
+    "stall",
+    "weigh",
+    "fragrant",
+    "sample",
+    "cheerful",
+    "heap"
+   ],
+   "genre": "market day",
+   "characters": [
+    "Aisha",
+    "Pedro",
+    "Lena"
+   ]
+  },
+  {
+   "setNumber": 4,
+   "words": [
+    "rumble",
+    "downpour",
+    "drizzle",
+    "soaked",
+    "drench",
+    "splatter",
+    "hail",
+    "dreary",
+    "murky",
+    "blustery",
+    "drip",
+    "raincoat"
+   ],
+   "genre": "rainy day adventure",
+   "characters": [
+    "Kenji",
+    "Maria",
+    "Eli"
+   ]
+  },
+  {
+   "setNumber": 5,
+   "words": [
+    "planet",
+    "rocket",
+    "astronaut",
+    "weightless",
+    "launch",
+    "countdown",
+    "blast",
+    "distant",
+    "mysterious",
+    "glimmer",
+    "constellation",
+    "comet"
+   ],
+   "genre": "moon rocket kids",
+   "characters": [
+    "Zara",
+    "Owen",
+    "Luis"
+   ]
+  },
+  {
+   "setNumber": 6,
+   "words": [
+    "invite",
+    "include",
+    "thoughtful",
+    "apologize",
+    "forgive",
+    "offer",
+    "kindness",
+    "respect",
+    "honest",
+    "greet",
+    "praise",
+    "mend"
+   ],
+   "genre": "kindness at school",
+   "characters": [
+    "Nora",
+    "Dev",
+    "Chloe"
+   ]
+  },
+  {
+   "setNumber": 7,
+   "words": [
+    "barn",
+    "pasture",
+    "tractor",
+    "scarecrow",
+    "gallop",
+    "graze",
+    "flock",
+    "herd",
+    "squawk",
+    "rooster",
+    "bale",
+    "chores"
+   ],
+   "genre": "farm life",
+   "characters": [
+    "Gus",
+    "Imani",
+    "Rafael"
+   ]
+  },
+  {
+   "setNumber": 8,
+   "words": [
+    "compass",
+    "chest",
+    "buried",
+    "clue",
+    "shovel",
+    "daring",
+    "puzzled",
+    "rowboat",
+    "lagoon",
+    "cliff",
+    "spyglass",
+    "shimmer"
+   ],
+   "genre": "island treasure hunt",
+   "characters": [
+    "Ruth",
+    "Tomas",
+    "Amara"
+   ]
+  },
+  {
+   "setNumber": 9,
+   "words": [
+    "feather",
+    "twig",
+    "hatch",
+    "nestle",
+    "warble",
+    "speckled",
+    "fledgling",
+    "weave",
+    "mossy",
+    "tuft",
+    "preen",
+    "sway"
+   ],
+   "genre": "bird watching walk",
+   "characters": [
+    "Wren",
+    "Isaac",
+    "Mei"
+   ]
+  },
+  {
+   "setNumber": 10,
+   "words": [
+    "surprise",
+    "secret",
+    "decorate",
+    "balloon",
+    "celebrate",
+    "delight",
+    "banner",
+    "candle",
+    "streamer",
+    "unwrap",
+    "merry",
+    "invitation"
+   ],
+   "genre": "birthday surprise",
+   "characters": [
+    "Lola",
+    "Andre",
+    "Sana"
+   ]
+  }
+ ],
+ "6": [
+  {
+   "setNumber": 1,
+   "words": [
+    "vague",
+    "tangible",
+    "rigid",
+    "sabotage",
+    "tamper",
+    "anomaly",
+    "curtail",
+    "meager",
+    "verify",
+    "scorn",
+    "unravel",
+    "plausible"
+   ],
+   "genre": "school science fair mystery",
+   "characters": [
+    "Maya",
+    "Ethan",
+    "Priya"
+   ]
+  },
+  {
+   "setNumber": 2,
+   "words": [
+    "rival",
+    "stamina",
+    "rookie",
+    "sluggish",
+    "spectator",
+    "forfeit",
+    "rally",
+    "sportsmanship",
+    "fluke",
+    "defy",
+    "elite",
+    "vigorous"
+   ],
+   "genre": "sports competition",
+   "characters": [
+    "Jordan",
+    "Keisha",
+    "Diego"
+   ]
+  },
+  {
+   "setNumber": 3,
+   "words": [
+    "eerie",
+    "lurk",
+    "sinister",
+    "suspicious",
+    "barnacle",
+    "cove",
+    "wade",
+    "vigil",
+    "trespass",
+    "ransack",
+    "fathom",
+    "inlet"
+   ],
+   "genre": "seaside mystery",
+   "characters": [
+    "Lena",
+    "Omar",
+    "Josie"
+   ]
+  },
+  {
+   "setNumber": 4,
+   "words": [
+    "trek",
+    "hardy",
+    "perish",
+    "caravan",
+    "scout",
+    "ford",
+    "scant",
+    "grueling",
+    "stampede",
+    "fortify",
+    "outpost",
+    "bleak"
+   ],
+   "genre": "historical journey west",
+   "characters": [
+    "Samuel",
+    "Ines",
+    "Wyatt"
+   ]
+  },
+  {
+   "setNumber": 5,
+   "words": [
+    "nurture",
+    "sparse",
+    "bountiful",
+    "prune",
+    "blight",
+    "trellis",
+    "pollinate",
+    "sprawl",
+    "wither",
+    "neglect",
+    "reap",
+    "thrifty"
+   ],
+   "genre": "community garden",
+   "characters": [
+    "Rosa",
+    "Tariq",
+    "Hannah"
+   ]
+  },
+  {
+   "setNumber": 6,
+   "words": [
+    "pilfer",
+    "alibi",
+    "vault",
+    "counterfeit",
+    "authentic",
+    "surveillance",
+    "sleuth",
+    "culprit",
+    "elude",
+    "conspire",
+    "intrigue",
+    "cunning"
+   ],
+   "genre": "museum heist mystery",
+   "characters": [
+    "Callie",
+    "Raj",
+    "Nadia"
+   ]
+  },
+  {
+   "setNumber": 7,
+   "words": [
+    "lunar",
+    "cosmic",
+    "void",
+    "propel",
+    "hurtle",
+    "malfunction",
+    "stellar",
+    "gauge",
+    "radiate",
+    "eject",
+    "rendezvous",
+    "trajectory"
+   ],
+   "genre": "space exploration",
+   "characters": [
+    "Ada",
+    "Mateo",
+    "Suki"
+   ]
+  },
+  {
+   "setNumber": 8,
+   "words": [
+    "audition",
+    "cue",
+    "flustered",
+    "ensemble",
+    "understudy",
+    "costume",
+    "applaud",
+    "mishap",
+    "flair",
+    "poise",
+    "scenery",
+    "prop"
+   ],
+   "genre": "school theater production",
+   "characters": [
+    "Felix",
+    "Amina",
+    "Brooke"
+   ]
+  },
+  {
+   "setNumber": 9,
+   "words": [
+    "ascent",
+    "crevice",
+    "precarious",
+    "avalanche",
+    "frigid",
+    "plummet",
+    "tether",
+    "dwindle",
+    "ledge",
+    "grit",
+    "thaw",
+    "beacon"
+   ],
+   "genre": "mountain survival",
+   "characters": [
+    "Kira",
+    "Dmitri",
+    "Lucas"
+   ]
+  },
+  {
+   "setNumber": 10,
+   "words": [
+    "editorial",
+    "deadline",
+    "rumor",
+    "retract",
+    "fabricate",
+    "gossip",
+    "byline",
+    "correspondent",
+    "rebuke",
+    "persuasive",
+    "sensational",
+    "eyewitness"
+   ],
+   "genre": "school newspaper",
+   "characters": [
+    "Tessa",
+    "Malik",
+    "Grace"
+   ]
+  }
+ ],
+ "7": [
+  {
+   "setNumber": 1,
+   "words": [
+    "bazaar",
+    "opulent",
+    "lavish",
+    "convoy",
+    "plunder",
+    "toll",
+    "envoy",
+    "treaty",
+    "haggle",
+    "alliance",
+    "tribute",
+    "exorbitant"
+   ],
+   "genre": "ancient trade route",
+   "characters": [
+    "Layla",
+    "Cyrus",
+    "Nico"
+   ]
+  },
+  {
+   "setNumber": 2,
+   "words": [
+    "contaminate",
+    "sediment",
+    "conserve",
+    "degrade",
+    "reclaim",
+    "toxic",
+    "runoff",
+    "stagnant",
+    "pristine",
+    "reservoir",
+    "negligent",
+    "ecology"
+   ],
+   "genre": "river cleanup",
+   "characters": [
+    "Imani",
+    "Carter",
+    "Yara"
+   ]
+  },
+  {
+   "setNumber": 3,
+   "words": [
+    "circuit",
+    "algorithm",
+    "sensor",
+    "glitch",
+    "optimize",
+    "refine",
+    "autonomous",
+    "tweak",
+    "bulky",
+    "versatile",
+    "sleek",
+    "mechanism"
+   ],
+   "genre": "robotics competition",
+   "characters": [
+    "Anil",
+    "Savannah",
+    "Kai"
+   ]
+  },
+  {
+   "setNumber": 4,
+   "words": [
+    "siege",
+    "fortress",
+    "moat",
+    "vassal",
+    "garrison",
+    "bolster",
+    "tapestry",
+    "banquet",
+    "jester",
+    "feud",
+    "heed",
+    "peasant"
+   ],
+   "genre": "medieval castle siege",
+   "characters": [
+    "Gwen",
+    "Rodrigo",
+    "Aiyana"
+   ]
+  },
+  {
+   "setNumber": 5,
+   "words": [
+    "discreet",
+    "deduce",
+    "dubious",
+    "bluff",
+    "evasive",
+    "motive",
+    "perplexed",
+    "hunch",
+    "interrogate",
+    "fidget",
+    "stealthy",
+    "sheepish"
+   ],
+   "genre": "lost item detective story",
+   "characters": [
+    "Harper",
+    "Jabari",
+    "Mina"
+   ]
+  },
+  {
+   "setNumber": 6,
+   "words": [
+    "buoyant",
+    "submerge",
+    "abyss",
+    "plankton",
+    "brackish",
+    "undertow",
+    "trawl",
+    "sonar",
+    "ballast",
+    "reef",
+    "capsize",
+    "salvage"
+   ],
+   "genre": "ocean expedition",
+   "characters": [
+    "Marina",
+    "Theo",
+    "Fatima"
+   ]
+  },
+  {
+   "setNumber": 7,
+   "words": [
+    "apprentice",
+    "scholar",
+    "blueprint",
+    "patron",
+    "commission",
+    "devise",
+    "pigment",
+    "chisel",
+    "mentor",
+    "zealous",
+    "eccentric",
+    "rigorous"
+   ],
+   "genre": "Renaissance workshop",
+   "characters": [
+    "Giulia",
+    "Pablo",
+    "Noor"
+   ]
+  },
+  {
+   "setNumber": 8,
+   "words": [
+    "lush",
+    "teeming",
+    "foliage",
+    "undergrowth",
+    "camouflage",
+    "venomous",
+    "elusive",
+    "humid",
+    "swarm",
+    "parasite",
+    "endangered",
+    "tranquil"
+   ],
+   "genre": "rainforest expedition",
+   "characters": [
+    "Santiago",
+    "Bree",
+    "Kwame"
+   ]
+  },
+  {
+   "setNumber": 9,
+   "words": [
+    "jury",
+    "objection",
+    "hearsay",
+    "plea",
+    "bailiff",
+    "gavel",
+    "oath",
+    "counsel",
+    "convict",
+    "lenient",
+    "adjourn",
+    "ruling"
+   ],
+   "genre": "mock trial",
+   "characters": [
+    "Eliza",
+    "Marcus",
+    "Leila"
+   ]
+  },
+  {
+   "setNumber": 10,
+   "words": [
+    "hospitable",
+    "etiquette",
+    "dialect",
+    "ritual",
+    "fluent",
+    "immerse",
+    "itinerary",
+    "souvenir",
+    "bilingual",
+    "cuisine",
+    "mingle",
+    "excursion"
+   ],
+   "genre": "cultural exchange trip",
+   "characters": [
+    "Mei Lin",
+    "Jonas",
+    "Zainab"
+   ]
+  }
+ ],
+ "8": [
+  {
+   "setNumber": 1,
+   "words": [
+    "cogent",
+    "concise",
+    "tirade",
+    "oratory",
+    "vehement",
+    "discredit",
+    "bombastic",
+    "rapport",
+    "cynical",
+    "inflection",
+    "moderator",
+    "stance"
+   ],
+   "genre": "debate team tournament",
+   "characters": [
+    "Alicia",
+    "Rohan",
+    "Simone"
+   ]
+  },
+  {
+   "setNumber": 2,
+   "words": [
+    "adversity",
+    "forlorn",
+    "stoic",
+    "austere",
+    "tenement",
+    "plight",
+    "solace",
+    "squalor",
+    "futile",
+    "prudent",
+    "relinquish",
+    "stalwart"
+   ],
+   "genre": "Great Depression family",
+   "characters": [
+    "Clara",
+    "Walter",
+    "Odessa"
+   ]
+  },
+  {
+   "setNumber": 3,
+   "words": [
+    "dissident",
+    "rebellion",
+    "insurgent",
+    "autocracy",
+    "sedition",
+    "coup",
+    "manifesto",
+    "subjugate",
+    "edict",
+    "dethrone",
+    "fervent",
+    "radical"
+   ],
+   "genre": "revolution and rebellion",
+   "characters": [
+    "Alexei",
+    "Camila",
+    "Idris"
+   ]
+  },
+  {
+   "setNumber": 4,
+   "words": [
+    "empirical",
+    "replicate",
+    "variable",
+    "correlation",
+    "speculate",
+    "validate",
+    "inconclusive",
+    "tedious",
+    "painstaking",
+    "serendipity",
+    "revelation",
+    "refinement"
+   ],
+   "genre": "science lab discovery",
+   "characters": [
+    "Nadine",
+    "Wei",
+    "Elias"
+   ]
+  },
+  {
+   "setNumber": 5,
+   "words": [
+    "arduous",
+    "haggard",
+    "mirage",
+    "oasis",
+    "parched",
+    "ordeal",
+    "delirious",
+    "forbidding",
+    "wayfarer",
+    "scorching",
+    "wane",
+    "undeterred"
+   ],
+   "genre": "desert expedition",
+   "characters": [
+    "Amelia",
+    "Tobias",
+    "Sade"
+   ]
+  },
+  {
+   "setNumber": 6,
+   "words": [
+    "manor",
+    "enigma",
+    "clandestine",
+    "reclusive",
+    "decadent",
+    "aristocrat",
+    "ostentatious",
+    "furtive",
+    "cryptic",
+    "inherit",
+    "parlor",
+    "scandal"
+   ],
+   "genre": "old mansion mystery",
+   "characters": [
+    "Beatrix",
+    "Julian",
+    "Anaya"
+   ]
+  },
+  {
+   "setNumber": 7,
+   "words": [
+    "privacy",
+    "addictive",
+    "misinformation",
+    "curate",
+    "viral",
+    "ethical",
+    "consent",
+    "dependence",
+    "ubiquitous",
+    "scrutiny",
+    "trivial",
+    "superficial"
+   ],
+   "genre": "technology and ethics",
+   "characters": [
+    "Quinn",
+    "Delia",
+    "Rashid"
+   ]
+  },
+  {
+   "setNumber": 8,
+   "words": [
+    "mobilize",
+    "levee",
+    "surge",
+    "charitable",
+    "triage",
+    "vigilant",
+    "donate",
+    "aftermath",
+    "inundate",
+    "unprecedented",
+    "reconstruct",
+    "tenuous"
+   ],
+   "genre": "flood relief effort",
+   "characters": [
+    "Marisol",
+    "Grant",
+    "Tamika"
+   ]
+  },
+  {
+   "setNumber": 9,
+   "words": [
+    "nuance",
+    "allusion",
+    "motif",
+    "subtle",
+    "evocative",
+    "whimsical",
+    "lyrical",
+    "poignant",
+    "somber",
+    "pensive",
+    "nostalgia",
+    "paradox"
+   ],
+   "genre": "poetry and literature club",
+   "characters": [
+    "Isolde",
+    "Kareem",
+    "Penny"
+   ]
+  },
+  {
+   "setNumber": 10,
+   "words": [
+    "proposal",
+    "shrewd",
+    "collateral",
+    "dividend",
+    "entice",
+    "clientele",
+    "bankrupt",
+    "equitable",
+    "merge",
+    "scrimp",
+    "overhead",
+    "diversify"
+   ],
+   "genre": "young entrepreneurs",
+   "characters": [
+    "Vivian",
+    "Ahmed",
+    "Luca"
+   ]
+  }
+ ]
+}

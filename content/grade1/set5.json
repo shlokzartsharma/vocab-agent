@@ -1,0 +1,578 @@
+{
+  "grade": 1,
+  "setNumber": 5,
+  "words": [
+    "stir",
+    "sticky",
+    "crumb",
+    "delicious",
+    "pour",
+    "frosting",
+    "oven",
+    "crispy",
+    "squeeze",
+    "taste",
+    "mash",
+    "fluffy"
+  ],
+  "sources": [
+    "Common Core Grade 1",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "bakery kitchen",
+  "story": {
+    "genre": "bakery kitchen",
+    "characters": [
+      "Sam",
+      "Lucia",
+      "Amir"
+    ],
+    "parts": [
+      {
+        "title": "Baking Day",
+        "text": "Sam, Lucia, and Amir went into the bakery kitchen. Today they would make muffins. Lucia turned on the **oven**. Amir began to **mash** some ripe bananas in a bowl. “They are so soft!” he said."
+      },
+      {
+        "title": "Mixing",
+        "text": "Sam helped **pour** milk into the bowl. Lucia used a big spoon to **stir**. The batter was **sticky** and clung to the spoon. Amir wanted to **taste** it. “Not yet!” said Lucia. Sam gave a lemon a light **squeeze**, and a little juice dripped in."
+      },
+      {
+        "title": "Done!",
+        "text": "The muffins came out **fluffy** and warm. The tops were **crispy** and gold. A **crumb** fell on the table. Lucia spread **frosting** on top. Everyone said the muffins were **delicious**."
+      },
+      {
+        "title": "Sharing",
+        "text": "The friends put the muffins on a plate and shared them with the neighbors. Baking was fun, and sharing made it better."
+      }
+    ],
+    "wordCount": 132
+  },
+  "definitions": [
+    {
+      "word": "stir",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To mix something around and around with a spoon. Example: I stir the soup.",
+      "meaning2": "A mix with a spoon. Example: Give the soup a stir.",
+      "studentChallenge": "Use a spoon to ___ the pancake batter.",
+      "sentence": ""
+    },
+    {
+      "word": "sticky",
+      "partOfSpeech": "adjective",
+      "meaning1": "Able to stick to things, like glue or honey. Example: My fingers are sticky from the honey.",
+      "meaning2": "",
+      "studentChallenge": "The tape was ___ and stuck to my sleeve.",
+      "sentence": ""
+    },
+    {
+      "word": "crumb",
+      "partOfSpeech": "noun",
+      "meaning1": "A tiny piece that falls off bread or cake. Example: A crumb of cake fell on the floor.",
+      "meaning2": "",
+      "studentChallenge": "The bird ate every ___ of bread.",
+      "sentence": ""
+    },
+    {
+      "word": "delicious",
+      "partOfSpeech": "adjective",
+      "meaning1": "Tasting very, very good. Example: Grandma’s soup is delicious.",
+      "meaning2": "",
+      "studentChallenge": "The warm cookies were ___!",
+      "sentence": ""
+    },
+    {
+      "word": "pour",
+      "partOfSpeech": "verb",
+      "meaning1": "To tip a drink or something runny out of a cup or jug. Example: I pour milk into my cereal.",
+      "meaning2": "",
+      "studentChallenge": "Please ___ some juice into my cup.",
+      "sentence": ""
+    },
+    {
+      "word": "frosting",
+      "partOfSpeech": "noun",
+      "meaning1": "The sweet, creamy topping on a cake or cookie. Example: The cake had pink frosting.",
+      "meaning2": "",
+      "studentChallenge": "I put blue ___ on top of the cupcake.",
+      "sentence": ""
+    },
+    {
+      "word": "oven",
+      "partOfSpeech": "noun",
+      "meaning1": "A hot box in the kitchen that bakes food. Example: Dad put the pizza in the oven.",
+      "meaning2": "",
+      "studentChallenge": "The bread is baking in the hot ___.",
+      "sentence": ""
+    },
+    {
+      "word": "crispy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Hard and crunchy. Example: I like crispy toast.",
+      "meaning2": "",
+      "studentChallenge": "The fries were hot and ___.",
+      "sentence": ""
+    },
+    {
+      "word": "squeeze",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To press something hard. Example: I squeeze the orange to get juice.",
+      "meaning2": "A tight hug or press. Example: Grandpa gave me a big squeeze.",
+      "studentChallenge": "Please ___ the lemon over the fish.",
+      "sentence": ""
+    },
+    {
+      "word": "taste",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To try the flavor of food with your mouth. Example: I taste the soup to see if it is hot enough.",
+      "meaning2": "The flavor of food. Example: I like the sweet taste of honey.",
+      "studentChallenge": "May I ___ your cookie?",
+      "sentence": ""
+    },
+    {
+      "word": "mash",
+      "partOfSpeech": "verb",
+      "meaning1": "To press food until it is soft and flat. Example: I mash potatoes with a fork.",
+      "meaning2": "",
+      "studentChallenge": "Dad will ___ the bananas with a fork.",
+      "sentence": ""
+    },
+    {
+      "word": "fluffy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Light and soft, like a cloud. Example: The pancakes were fluffy.",
+      "meaning2": "",
+      "studentChallenge": "The kitten has soft, ___ fur.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Use a big spoon to _______ the pancake batter.",
+      "sentence2": "Please _______ the soup so it does not burn.",
+      "options": [
+        "crumb",
+        "stir",
+        "sticky",
+        "delicious"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "stir"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "My fingers got _______ from the honey.",
+      "sentence2": "The tape was _______ and stuck to my sleeve.",
+      "options": [
+        "sticky",
+        "pour",
+        "oven",
+        "crumb"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "sticky"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The bird ate every _______ of bread.",
+      "sentence2": "A _______ of cake fell on the floor.",
+      "options": [
+        "sticky",
+        "pour",
+        "crispy",
+        "crumb"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "crumb"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The warm cookies were _______!",
+      "sentence2": "Grandma’s soup is so _______ that I want more.",
+      "options": [
+        "oven",
+        "crumb",
+        "delicious",
+        "pour"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "delicious"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Please _______ some juice into my cup.",
+      "sentence2": "I will _______ milk over my cereal.",
+      "options": [
+        "sticky",
+        "pour",
+        "crispy",
+        "fluffy"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "pour"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "I put blue _______ on top of the cupcake.",
+      "sentence2": "The cake had thick, sweet _______ all over it.",
+      "options": [
+        "frosting",
+        "pour",
+        "sticky",
+        "crispy"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "frosting"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The bread is baking in the hot _______.",
+      "sentence2": "Mom opened the _______ and took out the pie.",
+      "options": [
+        "sticky",
+        "pour",
+        "crispy",
+        "oven"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "oven"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "I like my toast hot and _______.",
+      "sentence2": "The fries were golden and _______.",
+      "options": [
+        "oven",
+        "crumb",
+        "crispy",
+        "mash"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "crispy"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Please _______ the lemon over the fish.",
+      "sentence2": "Grandpa gave me a big, warm _______.",
+      "options": [
+        "sticky",
+        "squeeze",
+        "crispy",
+        "fluffy"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "squeeze"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "May I _______ your soup to see if it is good?",
+      "sentence2": "I like the sweet _______ of honey.",
+      "options": [
+        "taste",
+        "crumb",
+        "sticky",
+        "oven"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "taste"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Dad will _______ the bananas with a fork.",
+      "sentence2": "I _______ the potatoes until they are soft.",
+      "options": [
+        "sticky",
+        "delicious",
+        "fluffy",
+        "mash"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "mash"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The kitten has soft, _______ fur.",
+      "sentence2": "The pancakes were light and _______.",
+      "options": [
+        "stir",
+        "crumb",
+        "fluffy",
+        "pour"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "fluffy"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "stir",
+      "sticky",
+      "crumb",
+      "delicious",
+      "pour",
+      "frosting",
+      "oven",
+      "crispy",
+      "squeeze",
+      "taste",
+      "mash",
+      "fluffy"
+    ],
+    "passage": "On Saturday, Amir helped in his mom’s small bakery. First, she heated the _(1)_. Amir got to _(2)_ the milk into a big bowl. Then he used a wooden spoon to _(3)_ until everything was smooth. The dough was _(4)_, and it clung to his fingers.\n\nNext, Amir had to _(5)_ ripe bananas with a fork. Then he gave a lemon a hard _(6)_, and juice ran into the bowl. “May I _(7)_ one?” he asked. “Yes,” said Mom, “but save the rest for the cupcakes.”\n\nWhen the cupcakes came out, they were _(8)_ and warm. Mom spread pink _(9)_ on each one. A single _(10)_ fell on the floor, and the dog gobbled it up. The tops were _(11)_, and the customers said the cupcakes were _(12)_.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "oven",
+        "options": [
+          "sticky",
+          "oven",
+          "pour",
+          "crispy"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "pour",
+        "options": [
+          "pour",
+          "sticky",
+          "crispy",
+          "fluffy"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "stir",
+        "options": [
+          "crumb",
+          "sticky",
+          "delicious",
+          "stir"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "sticky",
+        "options": [
+          "pour",
+          "oven",
+          "sticky",
+          "crumb"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "mash",
+        "options": [
+          "fluffy",
+          "mash",
+          "crispy",
+          "delicious"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "squeeze",
+        "options": [
+          "squeeze",
+          "crispy",
+          "fluffy",
+          "delicious"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "taste",
+        "options": [
+          "crumb",
+          "sticky",
+          "oven",
+          "taste"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "fluffy",
+        "options": [
+          "stir",
+          "pour",
+          "fluffy",
+          "crumb"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "frosting",
+        "options": [
+          "crispy",
+          "frosting",
+          "fluffy",
+          "delicious"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "crumb",
+        "options": [
+          "crumb",
+          "crispy",
+          "pour",
+          "delicious"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "crispy",
+        "options": [
+          "oven",
+          "stir",
+          "taste",
+          "crispy"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "delicious",
+        "options": [
+          "oven",
+          "pour",
+          "delicious",
+          "mash"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "delicious",
+        "scale": [
+          "Yucky",
+          "Tasty",
+          "Delicious"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "fluffy",
+        "scale": [
+          "Flat",
+          "Soft",
+          "Fluffy"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "squeeze",
+        "scale": [
+          "Touch",
+          "Press",
+          "Squeeze"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "mash",
+        "scale": [
+          "Press",
+          "Mash",
+          "Squash"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "delicious",
+        "words": [
+          "Tasty",
+          "Yummy",
+          "Yucky",
+          "Good"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Yucky"
+      },
+      {
+        "vocabWord": "crispy",
+        "words": [
+          "Crunchy",
+          "Soggy",
+          "Crisp",
+          "Hard"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Soggy"
+      },
+      {
+        "vocabWord": "fluffy",
+        "words": [
+          "Soft",
+          "Light",
+          "Airy",
+          "Heavy"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Heavy"
+      },
+      {
+        "vocabWord": "sticky",
+        "words": [
+          "Gooey",
+          "Tacky",
+          "Dry",
+          "Gluey"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Dry"
+      },
+      {
+        "vocabWord": "squeeze",
+        "words": [
+          "Let go",
+          "Press",
+          "Squish",
+          "Pinch"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Let go"
+      },
+      {
+        "vocabWord": "pour",
+        "words": [
+          "Tip",
+          "Keep",
+          "Spill",
+          "Drip"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Keep"
+      },
+      {
+        "vocabWord": "stir",
+        "words": [
+          "Mix",
+          "Whisk",
+          "Blend",
+          "Leave alone"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Leave alone"
+      },
+      {
+        "vocabWord": "taste",
+        "words": [
+          "Sip",
+          "Sample",
+          "Ignore",
+          "Try"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Ignore"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

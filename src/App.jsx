@@ -9,6 +9,7 @@ import DoubleTakeQuiz from './components/DoubleTakeQuiz';
 import SecretPassage from './components/SecretPassage';
 import WordScale from './components/WordScale';
 import ImposterHunt from './components/ImposterHunt';
+import { getTotals } from './data/content';
 import './App.css';
 
 function AppContent() {
@@ -34,7 +35,7 @@ function AppContent() {
         <Screen />
       </main>
       <footer className="va-footer">
-        <span>1,344 words · 112 sets · Grades 3–5</span>
+        <span>{getTotals().words.toLocaleString()} words · {getTotals().sets} sets · {getTotals().range}</span>
         <span className="va-footer-sep">·</span>
         <span>FlyingMinds.org</span>
       </footer>

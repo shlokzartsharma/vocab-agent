@@ -1,0 +1,578 @@
+{
+  "grade": 8,
+  "setNumber": 8,
+  "words": [
+    "mobilize",
+    "levee",
+    "surge",
+    "charitable",
+    "triage",
+    "vigilant",
+    "donate",
+    "aftermath",
+    "inundate",
+    "unprecedented",
+    "reconstruct",
+    "tenuous"
+  ],
+  "sources": [
+    "Common Core Grade 8",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "flood relief effort",
+  "story": {
+    "genre": "flood relief effort",
+    "characters": [
+      "Marisol",
+      "Grant",
+      "Tamika"
+    ],
+    "parts": [
+      {
+        "title": "Rising Water",
+        "text": "For three days, rain hammered the valley, and Marisol watched the river creep up her street. Officials called the storm **unprecedented**, since no flood in a century had come close. Her neighbor Grant joined volunteers who stayed **vigilant** along the **levee**, a long earthen wall built to hold the river back, scanning for leaks. By the third evening, everyone's sense of safety felt **tenuous**, like a thread stretched too far."
+      },
+      {
+        "title": "The Breach",
+        "text": "At midnight, a **surge** of brown water pushed over a weak section and began to **inundate** the lower streets. Families hurried to the high school gym with bags and pets, and the room soon filled with damp coats and anxious whispers. Inside, a nurse used **triage**, treating the most urgent injuries before the minor ones, while Marisol handed out dry socks and warm tea."
+      },
+      {
+        "title": "Neighbors",
+        "text": "By morning the water had stopped rising, and Marisol, Grant and their classmate Tamika decided to **mobilize** their school. Tamika built a volunteer schedule, and within a day two hundred students were sorting supplies. A **charitable** foundation sent trucks of food, and local stores chose to **donate** blankets and bottled water. In the **aftermath**, the work shifted toward repairs, because it would take months to **reconstruct** the homes and the ruined bridge."
+      },
+      {
+        "title": "Higher Ground",
+        "text": "Weeks later, the river was calm again, and the levee had been rebuilt higher. Grant joked that the new wall looked like a small mountain. Marisol thought about how fear had turned into action. The flood had exposed the town's weak points, but it had also revealed its strength: people who barely knew each other had shared food, tools and time. She kept her volunteer badge on her backpack as a reminder."
+      }
+    ],
+    "wordCount": 278
+  },
+  "definitions": [
+    {
+      "word": "mobilize",
+      "partOfSpeech": "verb",
+      "meaning1": "To organize and prepare people or resources for action. Example: The mayor moved to mobilize rescue crews before the storm hit.",
+      "meaning2": "To prepare troops for active service. Example: The country began to mobilize its army.",
+      "studentChallenge": "The coach tried to ___ the whole school to join the clean-up.",
+      "sentence": ""
+    },
+    {
+      "word": "levee",
+      "partOfSpeech": "noun",
+      "meaning1": "A raised bank or wall built along a river to prevent flooding. Example: Workers stacked sandbags on top of the levee.",
+      "meaning2": "",
+      "studentChallenge": "The river rose until it spilled over the ___ and into the fields.",
+      "sentence": ""
+    },
+    {
+      "word": "surge",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A sudden, powerful rush or increase. Example: A surge of water rushed down the canyon.",
+      "meaning2": "To rush forward suddenly, like a wave. Example: The crowd began to surge toward the stage.",
+      "studentChallenge": "A ___ of excitement ran through the stadium when the team scored.",
+      "sentence": ""
+    },
+    {
+      "word": "charitable",
+      "partOfSpeech": "adjective",
+      "meaning1": "Giving generously to help people in need; relating to charity. Example: The charitable club collected winter coats for the shelter.",
+      "meaning2": "Kind and forgiving when judging others. Example: A charitable view of his rude comment is that he was simply tired.",
+      "studentChallenge": "Her ___ nature led her to give half her earnings to the food bank.",
+      "sentence": ""
+    },
+    {
+      "word": "triage",
+      "partOfSpeech": "noun",
+      "meaning1": "The sorting of patients or problems by urgency, so the most serious are handled first. Example: Nurses used triage to decide who needed help first.",
+      "meaning2": "",
+      "studentChallenge": "In the busy emergency room, ___ meant the most serious injuries were treated first.",
+      "sentence": ""
+    },
+    {
+      "word": "vigilant",
+      "partOfSpeech": "adjective",
+      "meaning1": "Watchful and alert, especially for danger. Example: The lifeguard stayed vigilant as the children swam.",
+      "meaning2": "",
+      "studentChallenge": "Hikers in bear country must stay ___ and make plenty of noise.",
+      "sentence": ""
+    },
+    {
+      "word": "donate",
+      "partOfSpeech": "verb",
+      "meaning1": "To give something, such as money, time or goods, to help a cause. Example: Students donate canned food to the pantry every November.",
+      "meaning2": "To give blood or an organ for medical use. Example: He volunteered to donate blood at the clinic.",
+      "studentChallenge": "Many families decided to ___ their old coats to the shelter.",
+      "sentence": ""
+    },
+    {
+      "word": "aftermath",
+      "partOfSpeech": "noun",
+      "meaning1": "The period of time or the results that follow a disaster or major event. Example: In the aftermath of the storm, neighbors cleared fallen branches together.",
+      "meaning2": "",
+      "studentChallenge": "In the ___ of the earthquake, volunteers cleared rubble for days.",
+      "sentence": ""
+    },
+    {
+      "word": "inundate",
+      "partOfSpeech": "verb",
+      "meaning1": "To flood with water. Example: Heavy rain threatened to inundate the village.",
+      "meaning2": "To overwhelm with a huge amount of something. Example: Fans began to inundate the author with letters.",
+      "studentChallenge": "Spring storms may ___ the fields and ruin the crops.",
+      "sentence": ""
+    },
+    {
+      "word": "unprecedented",
+      "partOfSpeech": "adjective",
+      "meaning1": "Never having happened or existed before. Example: The heat wave was unprecedented in the city's history.",
+      "meaning2": "",
+      "studentChallenge": "The team's twenty-game winning streak was ___ in school history.",
+      "sentence": ""
+    },
+    {
+      "word": "reconstruct",
+      "partOfSpeech": "verb",
+      "meaning1": "To build again after damage or destruction. Example: Workers began to reconstruct the bridge.",
+      "meaning2": "To piece together a picture of past events from evidence. Example: Detectives tried to reconstruct the events of the night.",
+      "studentChallenge": "After the fire, the town voted to ___ the old library.",
+      "sentence": ""
+    },
+    {
+      "word": "tenuous",
+      "partOfSpeech": "adjective",
+      "meaning1": "Weak, thin or uncertain; easily broken. Example: The two countries kept a tenuous peace.",
+      "meaning2": "",
+      "studentChallenge": "Their ___ friendship ended after just one disagreement.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The principal asked the student council to _______ volunteers for the park clean-up.",
+      "sentence2": "The government began to _______ its army as the border crisis grew.",
+      "options": [
+        "donate",
+        "surge",
+        "mobilize",
+        "reconstruct"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "mobilize"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Crews piled sandbags along the _______ to keep the river from spilling over.",
+      "sentence2": "The old _______ held back the water for fifty years before it finally cracked.",
+      "options": [
+        "levee",
+        "aftermath",
+        "surge",
+        "triage"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "levee"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "A sudden _______ of floodwater swept past the bridge.",
+      "sentence2": "Power use will _______ on the hottest afternoons of the summer.",
+      "options": [
+        "aftermath",
+        "levee",
+        "triage",
+        "surge"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "surge"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The _______ club collected coats and boots for families in need.",
+      "sentence2": "She was known for her _______ spirit; she gave to anyone who asked.",
+      "options": [
+        "vigilant",
+        "charitable",
+        "tenuous",
+        "unprecedented"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "charitable"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "At the crowded clinic, _______ meant the sickest patients were seen first.",
+      "sentence2": "The editor used a kind of _______ on the pile of emails, answering the urgent ones first.",
+      "options": [
+        "aftermath",
+        "triage",
+        "levee",
+        "surge"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "triage"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The lifeguard stayed _______ as the children splashed in the deep end.",
+      "sentence2": "Farmers must remain _______ for signs of frost on cold spring nights.",
+      "options": [
+        "charitable",
+        "tenuous",
+        "unprecedented",
+        "vigilant"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "vigilant"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Local stores agreed to _______ blankets and food to the shelter.",
+      "sentence2": "He volunteered to _______ blood at the school drive.",
+      "options": [
+        "donate",
+        "reconstruct",
+        "inundate",
+        "surge"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "donate"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "In the _______ of the hurricane, neighbors shared generators and food.",
+      "sentence2": "The _______ of the scandal left the company struggling for years.",
+      "options": [
+        "triage",
+        "levee",
+        "aftermath",
+        "mobilize"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "aftermath"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Heavy rains threatened to _______ the low-lying farms.",
+      "sentence2": "Fans began to _______ the author with letters after the book came out.",
+      "options": [
+        "donate",
+        "reconstruct",
+        "mobilize",
+        "inundate"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "inundate"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The heat wave was _______; no summer in the city's history had been hotter.",
+      "sentence2": "The team's twenty-game winning streak was _______ at our school.",
+      "options": [
+        "tenuous",
+        "unprecedented",
+        "vigilant",
+        "charitable"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "unprecedented"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "After the fire, the town voted to _______ the old library.",
+      "sentence2": "Detectives tried to _______ the events of that night from a few clues.",
+      "options": [
+        "donate",
+        "mobilize",
+        "reconstruct",
+        "inundate"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "reconstruct"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The two countries kept a _______ peace that could collapse at any moment.",
+      "sentence2": "Her _______ link to the case rested on a single unreliable witness.",
+      "options": [
+        "tenuous",
+        "vigilant",
+        "charitable",
+        "unprecedented"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "tenuous"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "mobilize",
+      "levee",
+      "surge",
+      "charitable",
+      "triage",
+      "vigilant",
+      "donate",
+      "aftermath",
+      "inundate",
+      "unprecedented",
+      "reconstruct",
+      "tenuous"
+    ],
+    "passage": "Tamika kept a journal during the flood. The river reached a height that was _(1)_, higher than anything in the town's records. Volunteers walked the _(2)_ all night, because a single crack could let the water through. When the next _(3)_ arrived at dawn, it began to _(4)_ the streets near the school.\n\nEveryone had to stay _(5)_, since the situation felt _(6)_ and could change in minutes. Marisol and Grant helped _(7)_ the whole student body, and shop owners agreed to _(8)_ food and supplies. A _(9)_ group from another county sent a truck of blankets. At the shelter, nurses used _(10)_ to help the most urgent cases first. In the _(11)_, there was a long road ahead, because the town would have to _(12)_ the ruined bridge and many homes.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "unprecedented",
+        "options": [
+          "vigilant",
+          "unprecedented",
+          "tenuous",
+          "charitable"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "levee",
+        "options": [
+          "aftermath",
+          "surge",
+          "triage",
+          "levee"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "surge",
+        "options": [
+          "surge",
+          "levee",
+          "aftermath",
+          "triage"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "inundate",
+        "options": [
+          "donate",
+          "mobilize",
+          "inundate",
+          "surge"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "vigilant",
+        "options": [
+          "unprecedented",
+          "charitable",
+          "vigilant",
+          "tenuous"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "tenuous",
+        "options": [
+          "tenuous",
+          "charitable",
+          "vigilant",
+          "aftermath"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "mobilize",
+        "options": [
+          "donate",
+          "reconstruct",
+          "inundate",
+          "mobilize"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "donate",
+        "options": [
+          "reconstruct",
+          "donate",
+          "inundate",
+          "surge"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "charitable",
+        "options": [
+          "charitable",
+          "tenuous",
+          "aftermath",
+          "triage"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "triage",
+        "options": [
+          "levee",
+          "surge",
+          "aftermath",
+          "triage"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "aftermath",
+        "options": [
+          "levee",
+          "aftermath",
+          "triage",
+          "surge"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "reconstruct",
+        "options": [
+          "mobilize",
+          "donate",
+          "reconstruct",
+          "inundate"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "unprecedented",
+        "scale": [
+          "Unusual",
+          "Rare",
+          "Unprecedented"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "vigilant",
+        "scale": [
+          "Aware",
+          "Alert",
+          "Vigilant"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "inundate",
+        "scale": [
+          "Dampen",
+          "Soak",
+          "Inundate"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "surge",
+        "scale": [
+          "Ripple",
+          "Wave",
+          "Surge"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "mobilize",
+        "words": [
+          "Rally",
+          "Disband",
+          "Organize",
+          "Muster"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Disband"
+      },
+      {
+        "vocabWord": "charitable",
+        "words": [
+          "Generous",
+          "Giving",
+          "Benevolent",
+          "Stingy"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Stingy"
+      },
+      {
+        "vocabWord": "donate",
+        "words": [
+          "Withhold",
+          "Give",
+          "Contribute",
+          "Offer"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Withhold"
+      },
+      {
+        "vocabWord": "aftermath",
+        "words": [
+          "Consequence",
+          "Result",
+          "Prelude",
+          "Fallout"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Prelude"
+      },
+      {
+        "vocabWord": "reconstruct",
+        "words": [
+          "Rebuild",
+          "Demolish",
+          "Restore",
+          "Repair"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Demolish"
+      },
+      {
+        "vocabWord": "tenuous",
+        "words": [
+          "Solid",
+          "Weak",
+          "Flimsy",
+          "Shaky"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Solid"
+      },
+      {
+        "vocabWord": "inundate",
+        "words": [
+          "Flood",
+          "Swamp",
+          "Drench",
+          "Drain"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Drain"
+      },
+      {
+        "vocabWord": "vigilant",
+        "words": [
+          "Alert",
+          "Watchful",
+          "Careless",
+          "Attentive"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Careless"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

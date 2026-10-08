@@ -1,0 +1,577 @@
+{
+  "grade": 6,
+  "setNumber": 6,
+  "words": [
+    "pilfer",
+    "alibi",
+    "vault",
+    "counterfeit",
+    "authentic",
+    "surveillance",
+    "sleuth",
+    "culprit",
+    "elude",
+    "conspire",
+    "intrigue",
+    "cunning"
+  ],
+  "sources": [
+    "Common Core Grade 6",
+    "Tier 2 Academic"
+  ],
+  "genre": "museum heist mystery",
+  "story": {
+    "genre": "museum heist mystery",
+    "characters": [
+      "Callie",
+      "Raj",
+      "Nadia"
+    ],
+    "parts": [
+      {
+        "title": "A Dull Peacock",
+        "text": "On Saturday, Callie and her cousin Raj were sketching in the city museum when Nadia, a volunteer, rushed over. The Jade Peacock, the museum's greatest treasure, sat inside the locked **vault** room, but its green looked flat and chalky. \"That is a **counterfeit**,\" she whispered. \"Someone managed to **pilfer** the real statue and leave this copy.\" Callie felt a thrill of **intrigue** and flipped to a blank page in her sketchbook."
+      },
+      {
+        "title": "Watching the Tapes",
+        "text": "Raj, who devoured detective novels, declared himself the lead **sleuth**. The guards let the trio watch **surveillance** footage from the hallway. In one clip, a man in a gray cap kept turning away whenever a camera swung toward him, as if he could **elude** every lens. Later, he was seen whispering with the night guard, Mr. Ortiz. Callie wondered whether the two men had met to **conspire** against the museum."
+      },
+      {
+        "title": "The Alibi Cracks",
+        "text": "Mr. Ortiz swore he had spent the night at a family dinner, but his **alibi** collapsed when Nadia found a midnight coffee receipt in the staff lounge. Meanwhile, Raj noticed that the peacock lacked the tiny maker's mark that proved a piece was **authentic**. Cornered, Mr. Ortiz named the **culprit**, his brother-in-law in the gray cap. The **cunning** plan had fooled the cameras, but it had not fooled three curious kids."
+      },
+      {
+        "title": "Case Closed",
+        "text": "Police found the real Jade Peacock in a storage unit that evening, and the museum thanked the trio with free passes. Callie finished her sketch of the gray cap, remembering that evidence, not guesses, had solved the case. Raj kept his notebook ready for the next mystery."
+      }
+    ],
+    "wordCount": 259
+  },
+  "definitions": [
+    {
+      "word": "pilfer",
+      "partOfSpeech": "verb",
+      "meaning1": "To steal quietly and sneakily, usually something small. Example: A raccoon will pilfer snacks from an open camping bag.",
+      "meaning2": "",
+      "studentChallenge": "A clever magpie will ___ shiny coins from an open window.",
+      "sentence": ""
+    },
+    {
+      "word": "alibi",
+      "partOfSpeech": "noun",
+      "meaning1": "Proof that a person was somewhere else when a crime happened. Example: Her ticket stub was an alibi, since it showed she was at the movies during the robbery.",
+      "meaning2": "An excuse for something that went wrong. Example: He used the traffic jam as an alibi for missing the start of the concert.",
+      "studentChallenge": "The suspect's ___ was a photo of him at a ball game across town.",
+      "sentence": ""
+    },
+    {
+      "word": "vault",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A strong, locked room or safe where valuables are kept. Example: The bank stored the gold bars in a steel vault.",
+      "meaning2": "To jump over something, often using your hands or a pole. Example: The gymnast ran down the runway and leapt to vault over the wooden horse.",
+      "studentChallenge": "Thick steel doors guarded the bank's underground ___.",
+      "sentence": ""
+    },
+    {
+      "word": "counterfeit",
+      "partOfSpeech": "adjective, noun",
+      "meaning1": "Made to look real in order to fool people; fake. Example: The cashier spotted the counterfeit bill because the paper felt wrong.",
+      "meaning2": "A fake copy of something valuable. Example: The painting turned out to be a counterfeit, not a masterpiece.",
+      "studentChallenge": "The police found a workshop that printed ___ money.",
+      "sentence": ""
+    },
+    {
+      "word": "authentic",
+      "partOfSpeech": "adjective",
+      "meaning1": "Real and genuine, not copied or fake. Example: An expert confirmed that the ancient coin was authentic.",
+      "meaning2": "True to a person's real character or feelings. Example: Her authentic laugh showed she was truly having fun.",
+      "studentChallenge": "The museum tested the vase to prove it was ___ and not a copy.",
+      "sentence": ""
+    },
+    {
+      "word": "surveillance",
+      "partOfSpeech": "noun",
+      "meaning1": "Close watching of a person or place, often with cameras, to prevent or catch wrongdoing. Example: The store added surveillance to its parking lot after the break-ins.",
+      "meaning2": "",
+      "studentChallenge": "Cameras in the hallway provided round-the-clock ___ of the building.",
+      "sentence": ""
+    },
+    {
+      "word": "sleuth",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A detective; a person who searches for clues to solve a mystery. Example: The young sleuth followed the muddy footprints to the barn.",
+      "meaning2": "To search for clues or investigate. Example: She loved to sleuth around the attic for old letters.",
+      "studentChallenge": "With a magnifying glass in hand, the young ___ studied the clues.",
+      "sentence": ""
+    },
+    {
+      "word": "culprit",
+      "partOfSpeech": "noun",
+      "meaning1": "The person who is guilty of a crime or has done something wrong. Example: The detective finally named the culprit who had broken into the shop.",
+      "meaning2": "The cause of a problem. Example: Dry air was the culprit behind the cracked table.",
+      "studentChallenge": "The security camera caught the ___ climbing through the window.",
+      "sentence": ""
+    },
+    {
+      "word": "elude",
+      "partOfSpeech": "verb",
+      "meaning1": "To avoid or escape from someone, often by being clever. Example: The fox managed to elude the hunters by doubling back through the stream.",
+      "meaning2": "To be impossible to remember or understand. Example: The answer to the riddle continued to elude me.",
+      "studentChallenge": "The thief hoped to ___ the police by slipping out the back door.",
+      "sentence": ""
+    },
+    {
+      "word": "conspire",
+      "partOfSpeech": "verb",
+      "meaning1": "To secretly plan with others to do something harmful or unlawful. Example: The two rivals met at midnight to conspire against the team captain.",
+      "meaning2": "To seem to work together to cause something. Example: Wind and rain seemed to conspire to ruin our picnic.",
+      "studentChallenge": "The three bandits would ___ to rob the train.",
+      "sentence": ""
+    },
+    {
+      "word": "intrigue",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "Strong curiosity caused by something mysterious. Example: The locked diary filled her with intrigue.",
+      "meaning2": "To make someone curious and interested. Example: Strange puzzles always intrigue my little brother.",
+      "studentChallenge": "The mysterious map filled the explorers with ___.",
+      "sentence": ""
+    },
+    {
+      "word": "cunning",
+      "partOfSpeech": "adjective, noun",
+      "meaning1": "Clever in a sneaky or tricky way, especially to get what you want. Example: The cunning fox tricked the crow into dropping its cheese.",
+      "meaning2": "Skill at tricking others; craftiness. Example: The spy used cunning to slip past the guards.",
+      "studentChallenge": "The ___ thief wore a disguise so no one would recognize him.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "A sneaky raccoon will _______ snacks from the campers' bags the moment they look away.",
+      "sentence2": "The guard caught a visitor trying to _______ a silver spoon from the museum cafe.",
+      "options": [
+        "elude",
+        "pilfer",
+        "conspire",
+        "vault"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "pilfer"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The suspect's _______ was a photo showing him at a ball game across town at the time of the break-in.",
+      "sentence2": "Tom's only _______ for being late was that his bus broke down.",
+      "options": [
+        "alibi",
+        "culprit",
+        "vault",
+        "intrigue"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "alibi"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The jewels were locked inside the bank's steel _______ overnight.",
+      "sentence2": "The gymnast took a running start to _______ over the wooden horse.",
+      "options": [
+        "sleuth",
+        "culprit",
+        "counterfeit",
+        "vault"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "vault"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The cashier refused the _______ bill because the ink smeared and the paper felt wrong.",
+      "sentence2": "Police found a workshop where criminals made _______ concert tickets and sold them online.",
+      "options": [
+        "authentic",
+        "cunning",
+        "counterfeit",
+        "vault"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "counterfeit"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The museum's expert confirmed that the ancient coin was _______ and not a copy.",
+      "sentence2": "The restaurant served _______ dishes made from recipes handed down for generations.",
+      "options": [
+        "counterfeit",
+        "authentic",
+        "cunning",
+        "culprit"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "authentic"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The store installed cameras for round-the-clock _______ of its parking lot.",
+      "sentence2": "Police kept the suspect under _______ for three weeks, tracking everywhere he went.",
+      "options": [
+        "surveillance",
+        "intrigue",
+        "alibi",
+        "vault"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "surveillance"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Raj dreamed of becoming a famous _______ who solved crimes no one else could.",
+      "sentence2": "The young _______ followed the trail of clues to the old barn and began questioning the neighbors.",
+      "options": [
+        "culprit",
+        "vault",
+        "alibi",
+        "sleuth"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "sleuth"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The detective finally named the _______ who had broken into the shop.",
+      "sentence2": "Dry air was the _______ behind the cracked wooden table.",
+      "options": [
+        "sleuth",
+        "alibi",
+        "culprit",
+        "counterfeit"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "culprit"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The clever fox managed to _______ the hunters by doubling back through the stream.",
+      "sentence2": "The answer to the riddle continued to _______ me no matter how long I thought.",
+      "options": [
+        "conspire",
+        "elude",
+        "pilfer",
+        "vault"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "elude"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The two rivals met in secret to _______ against the team captain.",
+      "sentence2": "Wind and rain seemed to _______ to ruin our picnic.",
+      "options": [
+        "conspire",
+        "elude",
+        "pilfer",
+        "sleuth"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "conspire"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Mysterious puzzles always _______ my little brother.",
+      "sentence2": "Strange footprints leading into the woods are sure to _______ anyone who loves a mystery.",
+      "options": [
+        "pilfer",
+        "conspire",
+        "vault",
+        "intrigue"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "intrigue"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The _______ fox tricked the crow into dropping its cheese.",
+      "sentence2": "Her _______ plan fooled even the smartest guards.",
+      "options": [
+        "authentic",
+        "counterfeit",
+        "cunning",
+        "culprit"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "cunning"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "pilfer",
+      "alibi",
+      "vault",
+      "counterfeit",
+      "authentic",
+      "surveillance",
+      "sleuth",
+      "culprit",
+      "elude",
+      "conspire",
+      "intrigue",
+      "cunning"
+    ],
+    "passage": "The night before the school talent show, the principal's antique violin vanished from the locked _(1)_ in the music room. Whispers spread that someone had decided to _(2)_ it. Mei, who loved puzzles, took charge as the class _(3)_ and borrowed her uncle's magnifying glass.\n\nThe hallway cameras had recorded hours of _(4)_ video, yet the thief seemed able to _(5)_ every lens by ducking behind a tall cart. Inside the empty case lay a note. Mei decided the handwriting was _(6)_, since the loops were far too perfect to be the principal's. She compared it with a birthday card that she knew was _(7)_ and noticed the difference immediately.\n\nTwo older boys were suspected of planning to _(8)_ together. The first boy's _(9)_ held up, since he had spent the whole evening at band practice with fifty witnesses. The second boy's story fell apart, and he admitted he was the _(10)_. His scheme had been _(11)_, but Mei's patience proved sharper. By lunchtime the tale had begun to _(12)_ every student in school, and the violin returned in time for the show.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "vault",
+        "options": [
+          "culprit",
+          "alibi",
+          "vault",
+          "sleuth"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "pilfer",
+        "options": [
+          "vault",
+          "pilfer",
+          "conspire",
+          "elude"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "sleuth",
+        "options": [
+          "sleuth",
+          "surveillance",
+          "vault",
+          "alibi"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "surveillance",
+        "options": [
+          "authentic",
+          "cunning",
+          "counterfeit",
+          "surveillance"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "elude",
+        "options": [
+          "conspire",
+          "pilfer",
+          "elude",
+          "intrigue"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "counterfeit",
+        "options": [
+          "authentic",
+          "counterfeit",
+          "cunning",
+          "vault"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "authentic",
+        "options": [
+          "authentic",
+          "counterfeit",
+          "cunning",
+          "culprit"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "conspire",
+        "options": [
+          "elude",
+          "intrigue",
+          "sleuth",
+          "conspire"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "alibi",
+        "options": [
+          "culprit",
+          "vault",
+          "alibi",
+          "cunning"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "culprit",
+        "options": [
+          "sleuth",
+          "culprit",
+          "alibi",
+          "cunning"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "cunning",
+        "options": [
+          "cunning",
+          "authentic",
+          "alibi",
+          "culprit"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "intrigue",
+        "options": [
+          "pilfer",
+          "elude",
+          "conspire",
+          "intrigue"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "pilfer",
+        "scale": [
+          "Pilfer",
+          "Steal",
+          "Plunder"
+        ],
+        "vocabPosition": 0
+      },
+      {
+        "vocabWord": "cunning",
+        "scale": [
+          "Clever",
+          "Cunning",
+          "Devious"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "intrigue",
+        "scale": [
+          "Interest",
+          "Intrigue",
+          "Fascinate"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "authentic",
+        "scale": [
+          "Realistic",
+          "Genuine",
+          "Authentic"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "pilfer",
+        "words": [
+          "Steal",
+          "Swipe",
+          "Return",
+          "Snatch"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Return"
+      },
+      {
+        "vocabWord": "counterfeit",
+        "words": [
+          "Fake",
+          "Forged",
+          "Phony",
+          "Genuine"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Genuine"
+      },
+      {
+        "vocabWord": "elude",
+        "words": [
+          "Catch",
+          "Evade",
+          "Dodge",
+          "Escape"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Catch"
+      },
+      {
+        "vocabWord": "cunning",
+        "words": [
+          "Sly",
+          "Crafty",
+          "Naive",
+          "Shrewd"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Naive"
+      },
+      {
+        "vocabWord": "culprit",
+        "words": [
+          "Offender",
+          "Victim",
+          "Wrongdoer",
+          "Perpetrator"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Victim"
+      },
+      {
+        "vocabWord": "surveillance",
+        "words": [
+          "Observation",
+          "Neglect",
+          "Monitoring",
+          "Watching"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Neglect"
+      },
+      {
+        "vocabWord": "alibi",
+        "words": [
+          "Excuse",
+          "Proof of innocence",
+          "Confession",
+          "Defense"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Confession"
+      },
+      {
+        "vocabWord": "intrigue",
+        "words": [
+          "Fascinate",
+          "Captivate",
+          "Bore",
+          "Interest"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Bore"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

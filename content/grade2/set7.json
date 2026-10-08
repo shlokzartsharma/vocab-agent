@@ -1,0 +1,578 @@
+{
+  "grade": 2,
+  "setNumber": 7,
+  "words": [
+    "barn",
+    "pasture",
+    "tractor",
+    "scarecrow",
+    "gallop",
+    "graze",
+    "flock",
+    "herd",
+    "squawk",
+    "rooster",
+    "bale",
+    "chores"
+  ],
+  "sources": [
+    "Common Core Grade 2",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "farm life",
+  "story": {
+    "genre": "farm life",
+    "characters": [
+      "Gus",
+      "Imani",
+      "Rafael"
+    ],
+    "parts": [
+      {
+        "title": "Early Morning",
+        "text": "Gus, Imani, and Rafael were spending the summer on their uncle’s farm. A **rooster** crowed at sunrise to wake them up. “Time for **chores**!” called Uncle Ray. First, they walked to the big red **barn**, where the animals slept."
+      },
+      {
+        "title": "Out in the Field",
+        "text": "Uncle Ray drove the **tractor**, and the children rode in the wagon behind it. They stopped at the **pasture**, where a **herd** of cows began to **graze** on the green grass. Imani carried a **bale** of hay to the fence. Rafael watched a **flock** of sheep walk slowly beside them."
+      },
+      {
+        "title": "A Little Noise",
+        "text": "Suddenly a hen began to **squawk** and flap her wings. The children laughed because she was only chasing a grasshopper. Then a pony began to **gallop** across the field, kicking up dust. Near the fence stood a **scarecrow** in an old hat. Rafael said it looked as if it was waving at them."
+      },
+      {
+        "title": "A Tired Happy Night",
+        "text": "By evening, the three friends were tired and dusty. They washed up and ate a big dinner. Imani said that farm work was harder than she had thought, but she liked it. Tomorrow they would wake up early and do it all again."
+      }
+    ],
+    "wordCount": 185
+  },
+  "definitions": [
+    {
+      "word": "barn",
+      "partOfSpeech": "noun",
+      "meaning1": "A big farm building where animals and hay are kept. Example: The cows sleep in the barn at night.",
+      "meaning2": "",
+      "studentChallenge": "The farmer stored the hay in the ___.",
+      "sentence": ""
+    },
+    {
+      "word": "pasture",
+      "partOfSpeech": "noun",
+      "meaning1": "A field of grass where animals eat. Example: The horses ran across the pasture.",
+      "meaning2": "",
+      "studentChallenge": "The cows walked to the green ___ to eat.",
+      "sentence": ""
+    },
+    {
+      "word": "tractor",
+      "partOfSpeech": "noun",
+      "meaning1": "A strong machine that pulls heavy things on a farm. Example: The tractor pulled the wagon up the hill.",
+      "meaning2": "",
+      "studentChallenge": "The farmer drove his ___ across the field.",
+      "sentence": ""
+    },
+    {
+      "word": "scarecrow",
+      "partOfSpeech": "noun",
+      "meaning1": "A figure that looks like a person, put in a field to scare birds away. Example: The scarecrow wore an old hat and boots.",
+      "meaning2": "",
+      "studentChallenge": "A ___ stood in the garden to scare away the crows.",
+      "sentence": ""
+    },
+    {
+      "word": "gallop",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To run very fast, the way a horse does. Example: The horse began to gallop across the field.",
+      "meaning2": "A very fast run of a horse. Example: The horse broke into a gallop.",
+      "studentChallenge": "Watch the pony ___ across the grass.",
+      "sentence": ""
+    },
+    {
+      "word": "graze",
+      "partOfSpeech": "verb",
+      "meaning1": "To eat grass in a field. Example: The sheep graze on the hill all day.",
+      "meaning2": "",
+      "studentChallenge": "Cows like to ___ in a green field.",
+      "sentence": ""
+    },
+    {
+      "word": "flock",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A group of birds or sheep that stay together. Example: A flock of geese flew over the barn.",
+      "meaning2": "To gather or move together in a crowd. Example: People flock to the fair every fall.",
+      "studentChallenge": "A ___ of sheep followed the shepherd.",
+      "sentence": ""
+    },
+    {
+      "word": "herd",
+      "partOfSpeech": "noun",
+      "meaning1": "A group of cows, horses, or other large animals that stay together. Example: A herd of cows walked slowly to the barn.",
+      "meaning2": "",
+      "studentChallenge": "The ___ of cattle crossed the road.",
+      "sentence": ""
+    },
+    {
+      "word": "squawk",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To make a loud, harsh cry, like a bird. Example: The parrot will squawk when it is hungry.",
+      "meaning2": "A loud, harsh cry. Example: We heard a squawk from the henhouse.",
+      "studentChallenge": "The angry hen began to ___ and flap.",
+      "sentence": ""
+    },
+    {
+      "word": "rooster",
+      "partOfSpeech": "noun",
+      "meaning1": "A grown-up male chicken. Example: The rooster crows early in the morning.",
+      "meaning2": "",
+      "studentChallenge": "The ___ crowed loudly at sunrise.",
+      "sentence": ""
+    },
+    {
+      "word": "bale",
+      "partOfSpeech": "noun",
+      "meaning1": "A big bundle of hay or straw tied tightly together. Example: The farmer lifted a bale of hay onto the truck.",
+      "meaning2": "",
+      "studentChallenge": "Each horse gets a fresh ___ of straw for its bed.",
+      "sentence": ""
+    },
+    {
+      "word": "chores",
+      "partOfSpeech": "noun",
+      "meaning1": "Small jobs that need to be done every day. Example: My chores are feeding the dog and setting the table.",
+      "meaning2": "",
+      "studentChallenge": "I finished my ___ before I went out to play.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The cows sleep inside the big red _______ at night.",
+      "sentence2": "The farmer stored the hay in the _______ to keep it dry.",
+      "options": [
+        "pasture",
+        "barn",
+        "flock",
+        "herd"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "barn"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The horses ran across the green _______ to find fresh grass.",
+      "sentence2": "Cows spend their afternoons in the _______, eating grass in the sun.",
+      "options": [
+        "pasture",
+        "barn",
+        "scarecrow",
+        "bale"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "pasture"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The farmer drove his _______ across the field to pull the wagon.",
+      "sentence2": "A strong _______ can pull a heavy plow through thick mud.",
+      "options": [
+        "barn",
+        "herd",
+        "rooster",
+        "tractor"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "tractor"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "A _______ stood in the garden to scare birds away from the seeds.",
+      "sentence2": "The _______ wore an old hat and a torn coat.",
+      "options": [
+        "tractor",
+        "bale",
+        "scarecrow",
+        "flock"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "scarecrow"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Watch the pony _______ across the grass as fast as it can.",
+      "sentence2": "The horses began to _______ when the gate swung open.",
+      "options": [
+        "graze",
+        "gallop",
+        "squawk",
+        "flock"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "gallop"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Cows like to _______ on the soft green grass, chewing slowly.",
+      "sentence2": "The sheep _______ in the field while the farmer works.",
+      "options": [
+        "graze",
+        "squawk",
+        "tractor",
+        "bale"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "graze"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "A _______ of sheep followed the shepherd up the hill.",
+      "sentence2": "A _______ of geese flew over the barn in a V shape.",
+      "options": [
+        "herd",
+        "bale",
+        "barn",
+        "flock"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "flock"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "A _______ of cows walked slowly down the dirt road.",
+      "sentence2": "A _______ of elephants crossed the river together.",
+      "options": [
+        "flock",
+        "bale",
+        "herd",
+        "chores"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "herd"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The hen began to _______ loudly when the dog ran by.",
+      "sentence2": "We heard a parrot _______ from its cage in the kitchen.",
+      "options": [
+        "gallop",
+        "squawk",
+        "graze",
+        "flock"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "squawk"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The _______ crowed loudly at sunrise to wake the farm.",
+      "sentence2": "A proud _______ with bright red feathers strutted across the yard.",
+      "options": [
+        "rooster",
+        "scarecrow",
+        "herd",
+        "flock"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "rooster"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The farmer lifted a heavy _______ of hay onto the truck.",
+      "sentence2": "Each horse gets a fresh _______ of straw for its bed.",
+      "options": [
+        "flock",
+        "herd",
+        "chores",
+        "bale"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "bale"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "I finished my _______ before I went out to play.",
+      "sentence2": "Feeding the chickens and washing dishes are my daily _______.",
+      "options": [
+        "barn",
+        "bale",
+        "chores",
+        "pasture"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "chores"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "barn",
+      "pasture",
+      "tractor",
+      "scarecrow",
+      "gallop",
+      "graze",
+      "flock",
+      "herd",
+      "squawk",
+      "rooster",
+      "bale",
+      "chores"
+    ],
+    "passage": "Every morning at Willow Farm, a loud _(1)_ crowed to wake everyone up. Mina jumped out of bed, because she had many _(2)_ to do before school. First, she helped her mom feed the animals in the big red _(3)_. Then she walked out to the _(4)_, where a _(5)_ of cows stood in the tall grass. They put their heads down and began to _(6)_, chewing slowly.\nHer dad drove the _(7)_ to the hayfield. Mina helped him load every _(8)_ of hay onto the wagon. In the garden, an old _(9)_ with a straw hat kept watch over the vegetables. Suddenly a hen began to _(10)_ and flap her wings. A small _(11)_ of ducks waddled by, and a pony began to _(12)_ across the field. Mina laughed. She loved life on the farm.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "rooster",
+        "options": [
+          "scarecrow",
+          "flock",
+          "rooster",
+          "tractor"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "chores",
+        "options": [
+          "bale",
+          "chores",
+          "barn",
+          "herd"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "barn",
+        "options": [
+          "barn",
+          "pasture",
+          "flock",
+          "chores"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "pasture",
+        "options": [
+          "barn",
+          "scarecrow",
+          "bale",
+          "pasture"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "herd",
+        "options": [
+          "flock",
+          "rooster",
+          "herd",
+          "tractor"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "graze",
+        "options": [
+          "squawk",
+          "graze",
+          "rooster",
+          "bale"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "tractor",
+        "options": [
+          "tractor",
+          "scarecrow",
+          "herd",
+          "barn"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "bale",
+        "options": [
+          "chores",
+          "pasture",
+          "rooster",
+          "bale"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "scarecrow",
+        "options": [
+          "tractor",
+          "bale",
+          "scarecrow",
+          "flock"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "squawk",
+        "options": [
+          "gallop",
+          "squawk",
+          "graze",
+          "flock"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "flock",
+        "options": [
+          "flock",
+          "herd",
+          "barn",
+          "bale"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "gallop",
+        "options": [
+          "squawk",
+          "graze",
+          "chores",
+          "gallop"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "gallop",
+        "scale": [
+          "Walk",
+          "Trot",
+          "Gallop"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "squawk",
+        "scale": [
+          "Chirp",
+          "Squawk",
+          "Screech"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "graze",
+        "scale": [
+          "Nibble",
+          "Graze",
+          "Feast"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "herd",
+        "scale": [
+          "Pair",
+          "Herd",
+          "Crowd"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "gallop",
+        "words": [
+          "Run",
+          "Crawl",
+          "Race",
+          "Dash"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Crawl"
+      },
+      {
+        "vocabWord": "squawk",
+        "words": [
+          "Whisper",
+          "Screech",
+          "Shriek",
+          "Cry"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Whisper"
+      },
+      {
+        "vocabWord": "chores",
+        "words": [
+          "Tasks",
+          "Jobs",
+          "Duties",
+          "Play"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Play"
+      },
+      {
+        "vocabWord": "herd",
+        "words": [
+          "Group",
+          "Bunch",
+          "Loner",
+          "Crowd"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Loner"
+      },
+      {
+        "vocabWord": "flock",
+        "words": [
+          "Group",
+          "Apart",
+          "Bunch",
+          "Cluster"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Apart"
+      },
+      {
+        "vocabWord": "graze",
+        "words": [
+          "Starve",
+          "Nibble",
+          "Munch",
+          "Chew"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Starve"
+      },
+      {
+        "vocabWord": "pasture",
+        "words": [
+          "Field",
+          "Meadow",
+          "Grassland",
+          "Pavement"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Pavement"
+      },
+      {
+        "vocabWord": "bale",
+        "words": [
+          "Bundle",
+          "Pile",
+          "Scatter",
+          "Stack"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Scatter"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

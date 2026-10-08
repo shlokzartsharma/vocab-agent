@@ -1,0 +1,578 @@
+{
+  "grade": 7,
+  "setNumber": 6,
+  "words": [
+    "buoyant",
+    "submerge",
+    "abyss",
+    "plankton",
+    "brackish",
+    "undertow",
+    "trawl",
+    "sonar",
+    "ballast",
+    "reef",
+    "capsize",
+    "salvage"
+  ],
+  "sources": [
+    "Common Core Grade 7",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "ocean expedition",
+  "story": {
+    "genre": "ocean expedition",
+    "characters": [
+      "Marina",
+      "Theo",
+      "Fatima"
+    ],
+    "parts": [
+      {
+        "title": "Departure at Dawn",
+        "text": "Marina stood on the deck as the research ship slid out of the harbor, light and **buoyant** on the swells. Theo, the young technician, showed her the huge net they would **trawl** behind the boat every afternoon. \"Mostly we are after **plankton**,\" he explained. \"They are tiny drifting creatures, but nearly every sea animal depends on them.\" Captain Fatima warned that the water near the river was **brackish**, part salt and part fresh."
+      },
+      {
+        "title": "Into the Dark",
+        "text": "On the third day, the **sonar** gave a sharp ping. Fatima ordered the crew to lower a camera that would **submerge** slowly until it vanished under the waves. First it drifted past a glowing **reef**, where striped fish darted between the coral. Then the seafloor dropped into a black **abyss** so deep that the cable nearly ran out. Meanwhile, Theo checked the **ballast** tanks, which hold water to keep the ship steady."
+      },
+      {
+        "title": "A Close Call",
+        "text": "On the last afternoon, the crew spotted two kayakers struggling near a rocky beach. A powerful **undertow**, an underwater current dragging toward open sea, was pulling them away from shore. One big wave could **capsize** their kayak and throw them into the cold water. Fatima steered close, Theo tossed a line, and both paddlers climbed aboard, shaking but safe. The next morning, divers went down to **salvage** the sunken kayak."
+      },
+      {
+        "title": "What the Sea Taught Them",
+        "text": "Back in the harbor, Marina wrote in her notebook that the ocean had shown her how small people are and how much they can do together. Every sample, every echo and every rescue had taught her something new. She promised herself she would return, because the sea still held far more secrets than anyone had found."
+      }
+    ],
+    "wordCount": 271
+  },
+  "definitions": [
+    {
+      "word": "buoyant",
+      "partOfSpeech": "adjective",
+      "meaning1": "Able to float easily on water or in the air. Example: The buoyant life jacket kept the swimmer's head above the waves.",
+      "meaning2": "Cheerful and full of hope. Example: Her buoyant mood lifted everyone's spirits after the long trip.",
+      "studentChallenge": "The ___ raft floated on the lake without sinking.",
+      "sentence": ""
+    },
+    {
+      "word": "submerge",
+      "partOfSpeech": "verb",
+      "meaning1": "To go under the surface of water, or to put something completely under water. Example: The turtle began to submerge as the boat came close.",
+      "meaning2": "",
+      "studentChallenge": "The submarine will ___ to hide from the storm above.",
+      "sentence": ""
+    },
+    {
+      "word": "abyss",
+      "partOfSpeech": "noun",
+      "meaning1": "A very deep hole or part of the ocean that seems to have no bottom. Example: The explorers shone their lights into the dark abyss and saw only blackness.",
+      "meaning2": "A huge gap between people or ideas. Example: An abyss of misunderstanding separated the two neighbors.",
+      "studentChallenge": "The cliff dropped into a black ___ that no flashlight could reach.",
+      "sentence": ""
+    },
+    {
+      "word": "plankton",
+      "partOfSpeech": "noun",
+      "meaning1": "Tiny plants and animals that drift in oceans and lakes and are food for many sea creatures. Example: Blue whales eat millions of plankton every day.",
+      "meaning2": "",
+      "studentChallenge": "Whales strain huge amounts of tiny drifting ___ from the water.",
+      "sentence": ""
+    },
+    {
+      "word": "brackish",
+      "partOfSpeech": "adjective",
+      "meaning1": "Slightly salty, like water where a river meets the sea. Example: The brackish water of the marsh was too salty to drink but not as salty as the ocean.",
+      "meaning2": "",
+      "studentChallenge": "The water in the estuary was ___, a mix of river and sea.",
+      "sentence": ""
+    },
+    {
+      "word": "undertow",
+      "partOfSpeech": "noun",
+      "meaning1": "A strong current beneath the surface of the water that pulls away from the shore. Example: The lifeguard warned the swimmers about the dangerous undertow.",
+      "meaning2": "A hidden feeling or force that runs against what shows on the surface. Example: There was an undertow of sadness beneath the cheerful music.",
+      "studentChallenge": "The ___ dragged the swimmer far from the beach.",
+      "sentence": ""
+    },
+    {
+      "word": "trawl",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To fish by dragging a large net behind a boat. Example: The crew will trawl for shrimp off the coast.",
+      "meaning2": "To search carefully through a large amount of information. Example: She had to trawl through hundreds of emails to find the message.",
+      "studentChallenge": "Fishing boats ___ the deep water with wide nets.",
+      "sentence": ""
+    },
+    {
+      "word": "sonar",
+      "partOfSpeech": "noun",
+      "meaning1": "A system that uses sound waves and their echoes to find objects underwater. Example: The captain used sonar to locate a school of fish below the boat.",
+      "meaning2": "",
+      "studentChallenge": "Submarines use ___ to detect objects in the dark water.",
+      "sentence": ""
+    },
+    {
+      "word": "ballast",
+      "partOfSpeech": "noun",
+      "meaning1": "Heavy material carried low in a ship to keep it steady and balanced. Example: The sailors loaded stones as ballast so the empty ship would not tip.",
+      "meaning2": "",
+      "studentChallenge": "Sailors pumped water into the ___ tanks to keep the ship steady.",
+      "sentence": ""
+    },
+    {
+      "word": "reef",
+      "partOfSpeech": "noun",
+      "meaning1": "A ridge of coral, rock or sand that lies near the surface of the sea. Example: Colorful fish hid among the coral reef.",
+      "meaning2": "",
+      "studentChallenge": "Snorkelers admired the bright fish living in the coral ___.",
+      "sentence": ""
+    },
+    {
+      "word": "capsize",
+      "partOfSpeech": "verb",
+      "meaning1": "To turn upside down in the water. Example: A strong gust of wind caused the small sailboat to capsize.",
+      "meaning2": "",
+      "studentChallenge": "If everyone stands up at once, the canoe might ___.",
+      "sentence": ""
+    },
+    {
+      "word": "salvage",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To save something from being lost, damaged or destroyed. Example: Firefighters managed to salvage a few photographs from the burned house.",
+      "meaning2": "Items or materials saved from a wreck or disaster. Example: The company sold the ship's salvage as scrap metal.",
+      "studentChallenge": "Workers hoped to ___ the cargo from the shipwreck.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "After weeks of rain, the empty bottle stayed _______ and bobbed on top of the waves.",
+      "sentence2": "After winning the game, the team felt _______ and cheered all the way home.",
+      "options": [
+        "brackish",
+        "abyss",
+        "buoyant",
+        "reef"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "buoyant"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The submarine will _______ until only its periscope is visible.",
+      "sentence2": "Heavy rain can _______ a whole valley beneath a thick sheet of water.",
+      "options": [
+        "capsize",
+        "submerge",
+        "trawl",
+        "salvage"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "submerge"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Explorers lowered a camera into the dark _______ miles below the surface.",
+      "sentence2": "After the argument, a vast _______ of silence opened between the old friends.",
+      "options": [
+        "abyss",
+        "reef",
+        "plankton",
+        "sonar"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "abyss"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Whales swim with open mouths to scoop up clouds of _______.",
+      "sentence2": "Under the microscope, the drop of seawater was full of drifting green _______.",
+      "options": [
+        "reef",
+        "ballast",
+        "undertow",
+        "plankton"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "plankton"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The well near the coast tasted _______, like a mix of rainwater and the sea.",
+      "sentence2": "Fish that live in _______ marshes must handle both salt and fresh water.",
+      "options": [
+        "buoyant",
+        "sonar",
+        "brackish",
+        "salvage"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "brackish"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Swimmers were warned about the strong _______ that drags people away from shore.",
+      "sentence2": "Beneath her calm voice ran a hidden _______ of worry.",
+      "options": [
+        "ballast",
+        "undertow",
+        "reef",
+        "sonar"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "undertow"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Fishing crews often _______ the same stretch of sea for days to fill their nets.",
+      "sentence2": "Detectives had to _______ through hundreds of old files to find the clue.",
+      "options": [
+        "trawl",
+        "submerge",
+        "capsize",
+        "salvage"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "trawl"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The ship's _______ sent out sound waves and listened for echoes from the seafloor.",
+      "sentence2": "Bats use a kind of natural _______ to find insects in the dark.",
+      "options": [
+        "ballast",
+        "reef",
+        "plankton",
+        "sonar"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "sonar"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Without enough _______ in its hull, the tall ship rolled wildly in the wind.",
+      "sentence2": "The hot-air balloon pilot dropped a sandbag of _______ to rise higher.",
+      "options": [
+        "reef",
+        "undertow",
+        "ballast",
+        "plankton"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "ballast"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Colorful fish darted in and out of the coral _______.",
+      "sentence2": "The ship scraped a hidden _______ and began to take on water.",
+      "options": [
+        "ballast",
+        "reef",
+        "plankton",
+        "sonar"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "reef"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "One giant wave could _______ the small fishing boat and toss everyone into the water.",
+      "sentence2": "Don't lean too far, or you will _______ the canoe.",
+      "options": [
+        "capsize",
+        "trawl",
+        "salvage",
+        "sonar"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "capsize"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Divers hoped to _______ the gold coins from the sunken wreck.",
+      "sentence2": "After the fire, the family tried to _______ whatever furniture was not burned.",
+      "options": [
+        "submerge",
+        "capsize",
+        "trawl",
+        "salvage"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "salvage"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "buoyant",
+      "submerge",
+      "abyss",
+      "plankton",
+      "brackish",
+      "undertow",
+      "trawl",
+      "sonar",
+      "ballast",
+      "reef",
+      "capsize",
+      "salvage"
+    ],
+    "passage": "Theo kept a log of every voyage. On the first morning, the ship felt _(1)_, bobbing on the waves like a cork, and the captain checked that enough _(2)_ was loaded in the hull to keep it steady. Near the river mouth the water was _(3)_, a blend of salt and fresh, and the crew began to _(4)_ a fine net behind the ship. It came up full of drifting _(5)_ that glittered like green dust.\n\nFarther out, the _(6)_ pinged against a rock wall, and a camera was sent to _(7)_ beside a colorful _(8)_. Beyond it, the seafloor fell into a dark _(9)_. On the last day, the crew pulled swimmers away from a violent _(10)_, then helped a boat that was about to _(11)_ in the swells. Later they worked to _(12)_ its cargo from the shallow water.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "buoyant",
+        "options": [
+          "brackish",
+          "abyss",
+          "ballast",
+          "buoyant"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "ballast",
+        "options": [
+          "plankton",
+          "ballast",
+          "undertow",
+          "reef"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "brackish",
+        "options": [
+          "buoyant",
+          "abyss",
+          "salvage",
+          "brackish"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "trawl",
+        "options": [
+          "capsize",
+          "trawl",
+          "salvage",
+          "sonar"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "plankton",
+        "options": [
+          "reef",
+          "ballast",
+          "undertow",
+          "plankton"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "sonar",
+        "options": [
+          "ballast",
+          "sonar",
+          "brackish",
+          "undertow"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "submerge",
+        "options": [
+          "capsize",
+          "salvage",
+          "abyss",
+          "submerge"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "reef",
+        "options": [
+          "abyss",
+          "reef",
+          "undertow",
+          "plankton"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "abyss",
+        "options": [
+          "reef",
+          "ballast",
+          "undertow",
+          "abyss"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "undertow",
+        "options": [
+          "abyss",
+          "undertow",
+          "reef",
+          "sonar"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "capsize",
+        "options": [
+          "trawl",
+          "salvage",
+          "buoyant",
+          "capsize"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "salvage",
+        "options": [
+          "trawl",
+          "salvage",
+          "capsize",
+          "submerge"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "abyss",
+        "scale": [
+          "Hollow",
+          "Chasm",
+          "Abyss"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "submerge",
+        "scale": [
+          "Dip",
+          "Soak",
+          "Submerge"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "capsize",
+        "scale": [
+          "Tilt",
+          "Capsize",
+          "Sink"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "undertow",
+        "scale": [
+          "Ripple",
+          "Current",
+          "Undertow"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "buoyant",
+        "words": [
+          "Floating",
+          "Afloat",
+          "Light",
+          "Sinking"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Sinking"
+      },
+      {
+        "vocabWord": "brackish",
+        "words": [
+          "Briny",
+          "Salty",
+          "Fresh",
+          "Saline"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Fresh"
+      },
+      {
+        "vocabWord": "abyss",
+        "words": [
+          "Chasm",
+          "Summit",
+          "Gulf",
+          "Pit"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Summit"
+      },
+      {
+        "vocabWord": "submerge",
+        "words": [
+          "Surface",
+          "Dunk",
+          "Sink",
+          "Immerse"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Surface"
+      },
+      {
+        "vocabWord": "capsize",
+        "words": [
+          "Overturn",
+          "Flip",
+          "Upset",
+          "Steady"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Steady"
+      },
+      {
+        "vocabWord": "salvage",
+        "words": [
+          "Rescue",
+          "Recover",
+          "Abandon",
+          "Save"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Abandon"
+      },
+      {
+        "vocabWord": "trawl",
+        "words": [
+          "Search",
+          "Overlook",
+          "Comb",
+          "Scour"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Overlook"
+      },
+      {
+        "vocabWord": "undertow",
+        "words": [
+          "Calm",
+          "Pull",
+          "Drag",
+          "Suction"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Calm"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

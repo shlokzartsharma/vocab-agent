@@ -1,0 +1,578 @@
+{
+  "grade": 8,
+  "setNumber": 5,
+  "words": [
+    "arduous",
+    "haggard",
+    "mirage",
+    "oasis",
+    "parched",
+    "ordeal",
+    "delirious",
+    "forbidding",
+    "wayfarer",
+    "scorching",
+    "wane",
+    "undeterred"
+  ],
+  "sources": [
+    "Common Core Grade 8",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "desert expedition",
+  "story": {
+    "genre": "desert expedition",
+    "characters": [
+      "Amelia",
+      "Tobias",
+      "Sade"
+    ],
+    "parts": [
+      {
+        "title": "Into the Sand",
+        "text": "The expedition to map ancient dry riverbeds began before dawn. Amelia, a geologist, led her small team into a **forbidding** desert where nothing moved but the wind. The route was **arduous**: every step sank into loose sand, and the **scorching** sun climbed higher with each hour. Tobias, their cheerful guide, called himself a lifelong **wayfarer**, because he had walked desert roads since he was ten."
+      },
+      {
+        "title": "Trouble at Noon",
+        "text": "By midday their water was nearly gone, and every throat felt **parched**. Sade, the youngest, pointed at a silver lake shimmering ahead. “It is only a **mirage**,” Tobias said gently. “The heat plays tricks on tired eyes.” Sade’s face looked **haggard** after a sleepless night, and as the heat pressed on she became **delirious**, mumbling about rivers and snow. Amelia wrapped a damp scarf around her neck and kept her walking."
+      },
+      {
+        "title": "The Green Line",
+        "text": "Hope seemed to **wane** along with the daylight, but Amelia was **undeterred**. She unfolded her worn map and noticed a thin line of green on the horizon: palm trees. They pushed on, and at dusk they stumbled into a true **oasis**, where a spring bubbled in the shade. The long **ordeal** was over. For a while nobody spoke; they simply drank, then laughed."
+      },
+      {
+        "title": "Marking the Map",
+        "text": "Later, by the light of a small fire, the team marked the dry riverbeds on their chart. Amelia wrote in her journal that the desert had not defeated them but had taught them to plan carefully, share every drop and trust one another. In the morning they would begin the journey home, tired and sunburned, but proud. Tobias promised to teach Sade how to read the stars on the way."
+      }
+    ],
+    "wordCount": 269
+  },
+  "definitions": [
+    {
+      "word": "arduous",
+      "partOfSpeech": "adjective",
+      "meaning1": "Requiring great effort and endurance; very difficult and tiring. Example: The arduous climb took six hours.",
+      "meaning2": "",
+      "studentChallenge": "Hauling the heavy packs up the mountain was an ___ task.",
+      "sentence": ""
+    },
+    {
+      "word": "haggard",
+      "partOfSpeech": "adjective",
+      "meaning1": "Looking tired, worried or ill, with a worn face. Example: He looked haggard after a week with very little sleep.",
+      "meaning2": "",
+      "studentChallenge": "The ___ travelers stumbled in after three days without rest.",
+      "sentence": ""
+    },
+    {
+      "word": "mirage",
+      "partOfSpeech": "noun",
+      "meaning1": "An optical illusion, such as a shimmering pool of water seen in a hot desert. Example: The lake on the road ahead was just a mirage caused by the heat.",
+      "meaning2": "Something hoped for that turns out to be unreal. Example: The promise of quick riches proved to be a mirage.",
+      "studentChallenge": "The shimmering pool ahead was only a ___; there was no water at all.",
+      "sentence": ""
+    },
+    {
+      "word": "oasis",
+      "partOfSpeech": "noun",
+      "meaning1": "A fertile spot in a desert where there is water and plants. Example: The travelers rested in the shade of a green oasis.",
+      "meaning2": "A peaceful place in the middle of a busy or stressful setting. Example: The quiet library was an oasis in the loud, crowded school.",
+      "studentChallenge": "After days of dry sand, the travelers finally reached a green ___.",
+      "sentence": ""
+    },
+    {
+      "word": "parched",
+      "partOfSpeech": "adjective",
+      "meaning1": "Extremely dry; very thirsty. Example: After the long hike, we were all parched.",
+      "meaning2": "",
+      "studentChallenge": "The ___ soil cracked after months without rain.",
+      "sentence": ""
+    },
+    {
+      "word": "ordeal",
+      "partOfSpeech": "noun",
+      "meaning1": "A very difficult or painful experience. Example: Waiting out the storm in the cellar was a frightening ordeal.",
+      "meaning2": "",
+      "studentChallenge": "Surviving the night in the freezing cave was a terrible ___.",
+      "sentence": ""
+    },
+    {
+      "word": "delirious",
+      "partOfSpeech": "adjective",
+      "meaning1": "Confused and speaking wildly, as from a fever or exhaustion. Example: Burning with fever, the patient became delirious.",
+      "meaning2": "Wildly happy. Example: The fans were delirious with joy when their team won.",
+      "studentChallenge": "With a high fever, the patient became ___ and could not recognize anyone.",
+      "sentence": ""
+    },
+    {
+      "word": "forbidding",
+      "partOfSpeech": "adjective",
+      "meaning1": "Looking unfriendly, threatening or hard to approach. Example: The forbidding fortress loomed over the valley.",
+      "meaning2": "",
+      "studentChallenge": "The ___ cliffs looked impossible to climb.",
+      "sentence": ""
+    },
+    {
+      "word": "wayfarer",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who travels, especially on foot. Example: The old wayfarer rested at the inn before walking on.",
+      "meaning2": "",
+      "studentChallenge": "The weary ___ walked from town to town with a pack on his back.",
+      "sentence": ""
+    },
+    {
+      "word": "scorching",
+      "partOfSpeech": "adjective",
+      "meaning1": "Extremely hot; burning. Example: The scorching pavement burned our bare feet.",
+      "meaning2": "Harshly critical. Example: The critic wrote a scorching review of the film.",
+      "studentChallenge": "Runners avoided the ___ afternoon sun and trained at dawn.",
+      "sentence": ""
+    },
+    {
+      "word": "wane",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To gradually become smaller, weaker or less. Example: The moon begins to wane after it is full.",
+      "meaning2": "A gradual decrease; used in the phrase on the wane. Example: As summer ended, the tourist crowds were on the wane.",
+      "studentChallenge": "Interest in the old game began to ___ as new ones came out.",
+      "sentence": ""
+    },
+    {
+      "word": "undeterred",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not discouraged or stopped by difficulties. Example: Undeterred by the rain, the fans stayed until the final whistle.",
+      "meaning2": "",
+      "studentChallenge": "___ by the cold, the climbers kept moving toward the summit.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The _______ climb up the steep trail left everyone gasping.",
+      "sentence2": "Training for the marathon was a long, _______ process that took a full year.",
+      "options": [
+        "haggard",
+        "forbidding",
+        "arduous",
+        "scorching"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "arduous"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "After three sleepless nights, the nurse looked pale and _______.",
+      "sentence2": "A _______ expression, with deep lines and dark circles, crossed the old sailor's face.",
+      "options": [
+        "haggard",
+        "parched",
+        "delirious",
+        "scorching"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "haggard"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The lake on the road ahead turned out to be only a _______ caused by the heat.",
+      "sentence2": "His dream of easy riches proved to be a _______.",
+      "options": [
+        "oasis",
+        "ordeal",
+        "wayfarer",
+        "mirage"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "mirage"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The travelers rested in the shade of a green _______ beside a cool spring.",
+      "sentence2": "For many students the quiet library was a calm _______ in a noisy, crowded school.",
+      "options": [
+        "mirage",
+        "oasis",
+        "ordeal",
+        "wayfarer"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "oasis"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "After the hike we were so _______ that we drank a full bottle each.",
+      "sentence2": "The _______ soil cracked after months without rain.",
+      "options": [
+        "haggard",
+        "parched",
+        "delirious",
+        "scorching"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "parched"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Waiting in the storm cellar for six hours was a frightening _______.",
+      "sentence2": "The hospital stay was a long, exhausting _______ for the whole family.",
+      "options": [
+        "mirage",
+        "oasis",
+        "wayfarer",
+        "ordeal"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ordeal"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Burning with fever, the patient grew _______ and spoke to people who were not there.",
+      "sentence2": "The fans were _______ with joy when the buzzer sounded and their team had won.",
+      "options": [
+        "delirious",
+        "haggard",
+        "forbidding",
+        "undeterred"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "delirious"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The _______ castle, dark and silent, made the children whisper.",
+      "sentence2": "The principal's _______ frown made everyone sit up straight.",
+      "options": [
+        "arduous",
+        "scorching",
+        "forbidding",
+        "haggard"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "forbidding"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The old _______ stopped at the inn for a meal before walking on.",
+      "sentence2": "Every _______ on the mountain road carried a staff and a small pack.",
+      "options": [
+        "oasis",
+        "mirage",
+        "wayfarer",
+        "ordeal"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "wayfarer"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Runners avoided the _______ afternoon sun and trained at dawn.",
+      "sentence2": "The movie critic's _______ review called the film a total disaster.",
+      "options": [
+        "scorching",
+        "parched",
+        "arduous",
+        "forbidding"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "scorching"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Interest in the old game began to _______ once newer ones arrived.",
+      "sentence2": "The moon will _______ after tonight's full moon.",
+      "options": [
+        "oasis",
+        "ordeal",
+        "undeterred",
+        "wane"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "wane"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "_______ by the rain, the fans stayed to cheer until the final whistle.",
+      "sentence2": "She remained _______ after three failed attempts and tried again.",
+      "options": [
+        "delirious",
+        "undeterred",
+        "haggard",
+        "parched"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "undeterred"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "arduous",
+      "haggard",
+      "mirage",
+      "oasis",
+      "parched",
+      "ordeal",
+      "delirious",
+      "forbidding",
+      "wayfarer",
+      "scorching",
+      "wane",
+      "undeterred"
+    ],
+    "passage": "Tobias's grandfather liked to tell about his first trek across the dunes. He called himself a lifelong _(1)_ who had crossed many roads on foot. The land there was _(2)_, with dark cliffs that seemed to warn visitors away, and the sun was _(3)_ from morning until dusk.\n\nThe march was _(4)_, and by the third day everyone's throat was _(5)_. One boy grew _(6)_ and shouted about a river, though it was only a _(7)_ shimmering over the sand. His face was _(8)_ with exhaustion, and the group's courage began to _(9)_. But the grandfather, _(10)_ by hardship, led them on until they found a green _(11)_ with palms and a clear spring. “It was the hardest _(12)_ of my life,” he said, “but also the best.”",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "wayfarer",
+        "options": [
+          "oasis",
+          "mirage",
+          "ordeal",
+          "wayfarer"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "forbidding",
+        "options": [
+          "forbidding",
+          "haggard",
+          "delirious",
+          "undeterred"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "scorching",
+        "options": [
+          "arduous",
+          "haggard",
+          "scorching",
+          "forbidding"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "arduous",
+        "options": [
+          "oasis",
+          "arduous",
+          "delirious",
+          "undeterred"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "parched",
+        "options": [
+          "arduous",
+          "forbidding",
+          "undeterred",
+          "parched"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "delirious",
+        "options": [
+          "delirious",
+          "forbidding",
+          "arduous",
+          "oasis"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "mirage",
+        "options": [
+          "wayfarer",
+          "ordeal",
+          "mirage",
+          "haggard"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "haggard",
+        "options": [
+          "parched",
+          "haggard",
+          "delirious",
+          "scorching"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "wane",
+        "options": [
+          "oasis",
+          "ordeal",
+          "mirage",
+          "wane"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "undeterred",
+        "options": [
+          "undeterred",
+          "forbidding",
+          "arduous",
+          "scorching"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "oasis",
+        "options": [
+          "wayfarer",
+          "ordeal",
+          "oasis",
+          "forbidding"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "ordeal",
+        "options": [
+          "oasis",
+          "ordeal",
+          "mirage",
+          "wayfarer"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "scorching",
+        "scale": [
+          "Warm",
+          "Hot",
+          "Scorching"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "parched",
+        "scale": [
+          "Dry",
+          "Thirsty",
+          "Parched"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "arduous",
+        "scale": [
+          "Tiring",
+          "Demanding",
+          "Arduous"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "delirious",
+        "scale": [
+          "Dizzy",
+          "Confused",
+          "Delirious"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "haggard",
+        "words": [
+          "Drawn",
+          "Worn",
+          "Refreshed",
+          "Gaunt"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Refreshed"
+      },
+      {
+        "vocabWord": "mirage",
+        "words": [
+          "Illusion",
+          "Delusion",
+          "Hallucination",
+          "Reality"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Reality"
+      },
+      {
+        "vocabWord": "oasis",
+        "words": [
+          "Wasteland",
+          "Haven",
+          "Refuge",
+          "Sanctuary"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Wasteland"
+      },
+      {
+        "vocabWord": "ordeal",
+        "words": [
+          "Trial",
+          "Pleasure",
+          "Hardship",
+          "Torment"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Pleasure"
+      },
+      {
+        "vocabWord": "forbidding",
+        "words": [
+          "Menacing",
+          "Grim",
+          "Threatening",
+          "Welcoming"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Welcoming"
+      },
+      {
+        "vocabWord": "wayfarer",
+        "words": [
+          "Traveler",
+          "Wanderer",
+          "Homebody",
+          "Voyager"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Homebody"
+      },
+      {
+        "vocabWord": "wane",
+        "words": [
+          "Fade",
+          "Grow",
+          "Dwindle",
+          "Decline"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Grow"
+      },
+      {
+        "vocabWord": "undeterred",
+        "words": [
+          "Discouraged",
+          "Determined",
+          "Persistent",
+          "Resolute"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Discouraged"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

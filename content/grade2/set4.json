@@ -1,0 +1,578 @@
+{
+  "grade": 2,
+  "setNumber": 4,
+  "words": [
+    "rumble",
+    "downpour",
+    "drizzle",
+    "soaked",
+    "drench",
+    "splatter",
+    "hail",
+    "dreary",
+    "murky",
+    "blustery",
+    "drip",
+    "raincoat"
+  ],
+  "sources": [
+    "Common Core Grade 2",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "rainy day adventure",
+  "story": {
+    "genre": "rainy day adventure",
+    "characters": [
+      "Kenji",
+      "Maria",
+      "Eli"
+    ],
+    "parts": [
+      {
+        "title": "A Gray Morning",
+        "text": "The morning was **dreary**. Gray clouds hid the sun, and a **drizzle** tapped on the window. Kenji, Maria, and Eli wanted to play outside. They pressed their noses to the glass and sighed. Then a **rumble** of thunder shook the house."
+      },
+      {
+        "title": "Into the Rain",
+        "text": "Soon the rain became a **downpour**. “Put on your **raincoat**,” said Mom. The wind was **blustery**, and it pulled at their hoods. They heard water **drip** from the roof as they ran to the park."
+      },
+      {
+        "title": "Puddle Fun",
+        "text": "Eli stomped into a **murky** puddle. Mud began to **splatter** on his boots. A big splash was about to **drench** Maria. “I am **soaked**!” she laughed. Then little balls of ice, called **hail**, bounced on the path, and the children ran home."
+      },
+      {
+        "title": "Warm Again",
+        "text": "Back inside, Maria hung her scarf by the door. They sat by the window with warm cocoa. The rain was still falling, but nobody minded. It had turned a gray day into a fun one."
+      }
+    ],
+    "wordCount": 153
+  },
+  "definitions": [
+    {
+      "word": "rumble",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A deep, low sound. Example: We heard the rumble of thunder.",
+      "meaning2": "To make a deep, low sound. Example: The big truck began to rumble down the road.",
+      "studentChallenge": "The ___ of the train shook the floor.",
+      "sentence": ""
+    },
+    {
+      "word": "downpour",
+      "partOfSpeech": "noun",
+      "meaning1": "A very heavy rain. Example: The downpour soaked the whole playground.",
+      "meaning2": "",
+      "studentChallenge": "We ran inside to escape the sudden ___.",
+      "sentence": ""
+    },
+    {
+      "word": "drizzle",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A light, fine rain. Example: A drizzle fell all morning.",
+      "meaning2": "To rain lightly. Example: It will drizzle most of the day.",
+      "studentChallenge": "A soft ___ kept the grass wet all day.",
+      "sentence": ""
+    },
+    {
+      "word": "soaked",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very wet all the way through. Example: My socks were soaked after I stepped in the puddle.",
+      "meaning2": "",
+      "studentChallenge": "The dog was ___ after it jumped in the lake.",
+      "sentence": ""
+    },
+    {
+      "word": "drench",
+      "partOfSpeech": "verb",
+      "meaning1": "To make something completely wet. Example: The sprinkler will drench the whole yard.",
+      "meaning2": "",
+      "studentChallenge": "A big wave can ___ you from head to toe.",
+      "sentence": ""
+    },
+    {
+      "word": "splatter",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To splash in small drops. Example: Mud will splatter when I jump in the puddle.",
+      "meaning2": "A messy spot or splash. Example: There was a splatter of paint on the floor.",
+      "studentChallenge": "Be careful, or the paint will ___ on your shirt.",
+      "sentence": ""
+    },
+    {
+      "word": "hail",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "Small balls of ice that fall from the sky. Example: The hail made a loud noise on the roof.",
+      "meaning2": "To fall as balls of ice. Example: It may hail during the storm.",
+      "studentChallenge": "Little balls of ___ bounced on the road.",
+      "sentence": ""
+    },
+    {
+      "word": "dreary",
+      "partOfSpeech": "adjective",
+      "meaning1": "Gray, dull, and gloomy. Example: It was a dreary day, so we stayed in.",
+      "meaning2": "",
+      "studentChallenge": "The cloudy, gray sky made the day feel ___.",
+      "sentence": ""
+    },
+    {
+      "word": "murky",
+      "partOfSpeech": "adjective",
+      "meaning1": "Dark and cloudy, hard to see through. Example: The murky pond water hid the fish.",
+      "meaning2": "",
+      "studentChallenge": "We could not see the bottom of the ___ lake.",
+      "sentence": ""
+    },
+    {
+      "word": "blustery",
+      "partOfSpeech": "adjective",
+      "meaning1": "Windy, with strong gusts. Example: On the blustery day, my kite flew high.",
+      "meaning2": "",
+      "studentChallenge": "The ___ wind blew my hat off my head.",
+      "sentence": ""
+    },
+    {
+      "word": "drip",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To fall in small drops. Example: Water will drip from the tap.",
+      "meaning2": "A small drop of liquid. Example: A drip fell on my nose.",
+      "studentChallenge": "The faucet began to ___ all night.",
+      "sentence": ""
+    },
+    {
+      "word": "raincoat",
+      "partOfSpeech": "noun",
+      "meaning1": "A coat that keeps you dry in the rain. Example: I wore my yellow raincoat to school.",
+      "meaning2": "",
+      "studentChallenge": "Take your ___ so you do not get wet.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "We heard the deep _______ of thunder far away.",
+      "sentence2": "The big truck began to _______ down the road.",
+      "options": [
+        "drip",
+        "rumble",
+        "hail",
+        "drizzle"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "rumble"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "We ran inside to escape the sudden, heavy _______.",
+      "sentence2": "The _______ filled the streets with water in just an hour.",
+      "options": [
+        "drizzle",
+        "hail",
+        "rumble",
+        "downpour"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "downpour"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "A soft _______ kept the grass wet all morning.",
+      "sentence2": "It will _______ lightly most of the day.",
+      "options": [
+        "drizzle",
+        "downpour",
+        "hail",
+        "drip"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "drizzle"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The dog was _______ after it jumped in the lake.",
+      "sentence2": "My socks were _______ after I stepped in the puddle.",
+      "options": [
+        "dreary",
+        "murky",
+        "soaked",
+        "blustery"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "soaked"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The sprinkler will _______ the whole yard until every inch is wet.",
+      "sentence2": "A big wave can _______ you from head to toe.",
+      "options": [
+        "rumble",
+        "drip",
+        "raincoat",
+        "drench"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "drench"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Mud will _______ on my boots when I stomp in the puddle.",
+      "sentence2": "Be careful, or the paint will _______ on your shirt.",
+      "options": [
+        "drench",
+        "splatter",
+        "rumble",
+        "soaked"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "splatter"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Tiny white balls of _______ bounced across the porch.",
+      "sentence2": "The storm brought thunder, lightning, and _______ that dented the car.",
+      "options": [
+        "drizzle",
+        "rumble",
+        "hail",
+        "drip"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "hail"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The gray, gloomy sky made it a _______ day.",
+      "sentence2": "The cloudy, gray sky made everything feel _______.",
+      "options": [
+        "dreary",
+        "soaked",
+        "murky",
+        "drip"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "dreary"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "We could not see the bottom of the _______ pond.",
+      "sentence2": "The _______ water hid the fish from view.",
+      "options": [
+        "dreary",
+        "soaked",
+        "murky",
+        "blustery"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "murky"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "On the _______ day, my kite flew high into the sky.",
+      "sentence2": "The _______ wind blew my hat right off my head.",
+      "options": [
+        "blustery",
+        "dreary",
+        "murky",
+        "soaked"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "blustery"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The faucet began to _______ all night long.",
+      "sentence2": "I felt one cold _______ fall on my nose.",
+      "options": [
+        "rumble",
+        "drip",
+        "hail",
+        "raincoat"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "drip"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "I wore my yellow _______ to school.",
+      "sentence2": "Take your _______ so you do not get wet.",
+      "options": [
+        "downpour",
+        "drizzle",
+        "hail",
+        "raincoat"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "raincoat"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "rumble",
+      "downpour",
+      "drizzle",
+      "soaked",
+      "drench",
+      "splatter",
+      "hail",
+      "dreary",
+      "murky",
+      "blustery",
+      "drip",
+      "raincoat"
+    ],
+    "passage": "Maria’s class went to the zoo on a gray, _(1)_ morning. A light _(2)_ was falling, and everyone wore a _(3)_. Then came a long, low _(4)_ from the sky. Soon a _(5)_ began, and the wind grew _(6)_.\nWater began to _(7)_ off the roof of the bird house. Mud began to _(8)_ on the visitors’ boots as they hurried by. The water in the frog pond looked _(9)_. Little pieces of _(10)_ bounced on the path.\n“Even my socks are _(11)_,” said Maria. A bus rushed through a puddle, and the splash could _(12)_ everyone at the bus stop.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "dreary",
+        "options": [
+          "raincoat",
+          "drizzle",
+          "dreary",
+          "drench"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "drizzle",
+        "options": [
+          "drizzle",
+          "murky",
+          "soaked",
+          "drench"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "raincoat",
+        "options": [
+          "rumble",
+          "dreary",
+          "soaked",
+          "raincoat"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "rumble",
+        "options": [
+          "soaked",
+          "rumble",
+          "murky",
+          "drench"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "downpour",
+        "options": [
+          "downpour",
+          "blustery",
+          "soaked",
+          "splatter"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "blustery",
+        "options": [
+          "raincoat",
+          "drizzle",
+          "blustery",
+          "hail"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "drip",
+        "options": [
+          "dreary",
+          "drip",
+          "murky",
+          "raincoat"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "splatter",
+        "options": [
+          "rumble",
+          "soaked",
+          "dreary",
+          "splatter"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "murky",
+        "options": [
+          "drench",
+          "hail",
+          "rumble",
+          "murky"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "hail",
+        "options": [
+          "drizzle",
+          "hail",
+          "soaked",
+          "drench"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "soaked",
+        "options": [
+          "soaked",
+          "dreary",
+          "blustery",
+          "raincoat"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "drench",
+        "options": [
+          "rumble",
+          "hail",
+          "drench",
+          "raincoat"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "drizzle",
+        "scale": [
+          "Mist",
+          "Drizzle",
+          "Downpour"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "soaked",
+        "scale": [
+          "Damp",
+          "Wet",
+          "Soaked"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "rumble",
+        "scale": [
+          "Murmur",
+          "Rumble",
+          "Boom"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "blustery",
+        "scale": [
+          "Breezy",
+          "Windy",
+          "Blustery"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "downpour",
+        "words": [
+          "Cloudburst",
+          "Sunshine",
+          "Deluge",
+          "Flood"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Sunshine"
+      },
+      {
+        "vocabWord": "drizzle",
+        "words": [
+          "Sprinkle",
+          "Mist",
+          "Shower",
+          "Downpour"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Downpour"
+      },
+      {
+        "vocabWord": "soaked",
+        "words": [
+          "Dry",
+          "Drenched",
+          "Wet",
+          "Dripping"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Dry"
+      },
+      {
+        "vocabWord": "dreary",
+        "words": [
+          "Gloomy",
+          "Gray",
+          "Bright",
+          "Dull"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Bright"
+      },
+      {
+        "vocabWord": "murky",
+        "words": [
+          "Cloudy",
+          "Dark",
+          "Clear",
+          "Muddy"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Clear"
+      },
+      {
+        "vocabWord": "blustery",
+        "words": [
+          "Calm",
+          "Windy",
+          "Stormy",
+          "Gusty"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Calm"
+      },
+      {
+        "vocabWord": "drench",
+        "words": [
+          "Soak",
+          "Wet",
+          "Splash",
+          "Dry out"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Dry out"
+      },
+      {
+        "vocabWord": "drip",
+        "words": [
+          "Dribble",
+          "Gush",
+          "Trickle",
+          "Leak"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Gush"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

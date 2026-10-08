@@ -1,0 +1,577 @@
+{
+  "grade": 6,
+  "setNumber": 7,
+  "words": [
+    "lunar",
+    "cosmic",
+    "void",
+    "propel",
+    "hurtle",
+    "malfunction",
+    "stellar",
+    "gauge",
+    "radiate",
+    "eject",
+    "rendezvous",
+    "trajectory"
+  ],
+  "sources": [
+    "Common Core Grade 6",
+    "Tier 2 Academic"
+  ],
+  "genre": "space exploration",
+  "story": {
+    "genre": "space exploration",
+    "characters": [
+      "Ada",
+      "Mateo",
+      "Suki"
+    ],
+    "parts": [
+      {
+        "title": "Countdown",
+        "text": "Ada, Mateo, and Suki had trained all year for the Junior Space Academy's simulated flight to a **lunar** base. Inside the cabin, Ada, the commander, checked every **gauge** on the control panel while Mateo, the engineer, tested the fuel lines one last time. Suki, the navigator, studied the **trajectory** glowing on her screen, the curved path the shuttle would follow. \"Ten seconds,\" she announced. \"Everything looks perfect.\""
+      },
+      {
+        "title": "Into the Dark",
+        "text": "When the engines roared, their thrust began to **propel** the shuttle upward, and soon it was starting to **hurtle** toward the stars at astonishing speed. Behind them, Earth shrank to a blue marble. Ahead stretched the **void**, an enormous emptiness with no air and no sound. Suki pointed at glittering **cosmic** dust drifting past the window, and Mateo whistled at the **stellar** view of a thousand burning stars."
+      },
+      {
+        "title": "Trouble Aboard",
+        "text": "Suddenly an alarm blared. A **malfunction** in the heating system made the cabin walls **radiate** heat, and sweat dripped down Mateo's forehead. He traced the problem to a damaged battery pack and decided to **eject** it into space before it overheated. Ada steadied the controls and recalculated the route so they could still make their **rendezvous** with the moon station on schedule. \"Stay calm,\" she told the crew. \"We have trained for this.\""
+      },
+      {
+        "title": "Mission Complete",
+        "text": "The shuttle docked smoothly, and the crew floated into the station to cheers from their instructors. Later, as they wrote their report, Suki admitted that her hands had shaken. Ada replied that bravery is not the absence of fear but the choice to keep working through it. The friends agreed that teamwork had saved the mission."
+      }
+    ],
+    "wordCount": 264
+  },
+  "definitions": [
+    {
+      "word": "lunar",
+      "partOfSpeech": "adjective",
+      "meaning1": "Having to do with the moon. Example: A lunar eclipse turned the moon a deep shade of red.",
+      "meaning2": "",
+      "studentChallenge": "The astronauts collected rocks from the ___ surface.",
+      "sentence": ""
+    },
+    {
+      "word": "cosmic",
+      "partOfSpeech": "adjective",
+      "meaning1": "Having to do with the universe beyond Earth. Example: Scientists study cosmic rays that travel across space.",
+      "meaning2": "Vast or enormous in size or importance. Example: The flood was a disaster of cosmic proportions.",
+      "studentChallenge": "Telescopes help us explore the ___ mysteries of distant galaxies.",
+      "sentence": ""
+    },
+    {
+      "word": "void",
+      "partOfSpeech": "noun, adjective",
+      "meaning1": "A completely empty space; nothingness. Example: Beyond the last planet lay a cold, silent void.",
+      "meaning2": "Not legally valid or binding. Example: The torn contract was void and could not be enforced.",
+      "studentChallenge": "When her best friend moved away, she felt an aching ___ in her life.",
+      "sentence": ""
+    },
+    {
+      "word": "propel",
+      "partOfSpeech": "verb",
+      "meaning1": "To push or drive something forward with force. Example: Strong, steady kicks will propel a swimmer across the pool.",
+      "meaning2": "",
+      "studentChallenge": "Powerful rocket engines ___ a spacecraft away from Earth.",
+      "sentence": ""
+    },
+    {
+      "word": "hurtle",
+      "partOfSpeech": "verb",
+      "meaning1": "To move very fast, often with great force. Example: The runaway sled began to hurtle down the icy slope.",
+      "meaning2": "",
+      "studentChallenge": "Asteroids can ___ through space at thousands of miles per hour.",
+      "sentence": ""
+    },
+    {
+      "word": "malfunction",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A failure to work properly. Example: A sudden malfunction in the engine forced the pilot to land early.",
+      "meaning2": "To stop working properly. Example: If the alarm should malfunction, call the repair line.",
+      "studentChallenge": "A computer ___ erased the astronaut's flight data.",
+      "sentence": ""
+    },
+    {
+      "word": "stellar",
+      "partOfSpeech": "adjective",
+      "meaning1": "Having to do with stars. Example: The telescope gave the club a stellar view of a glowing cluster.",
+      "meaning2": "Outstanding or excellent. Example: Her stellar performance in the play earned a standing ovation.",
+      "studentChallenge": "The orchestra gave a ___ performance that thrilled the crowd.",
+      "sentence": ""
+    },
+    {
+      "word": "gauge",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "An instrument that measures something, such as fuel or pressure. Example: The pilot glanced at the fuel gauge and saw the needle near empty.",
+      "meaning2": "To estimate or judge. Example: Teachers watch students' faces to gauge how well they understand.",
+      "studentChallenge": "The needle on the pressure ___ jumped into the red zone.",
+      "sentence": ""
+    },
+    {
+      "word": "radiate",
+      "partOfSpeech": "verb",
+      "meaning1": "To send out heat, light, or energy in all directions. Example: A campfire will radiate warmth in every direction.",
+      "meaning2": "To show a feeling strongly. Example: She seemed to radiate happiness as she crossed the finish line.",
+      "studentChallenge": "The glowing sun will ___ heat across the desert.",
+      "sentence": ""
+    },
+    {
+      "word": "eject",
+      "partOfSpeech": "verb",
+      "meaning1": "To force or throw out suddenly. Example: The old toaster will eject the bread when it finishes.",
+      "meaning2": "To make someone leave. Example: The referee had to eject the player who started the fight.",
+      "studentChallenge": "The pilot pulled a lever to ___ the broken part into space.",
+      "sentence": ""
+    },
+    {
+      "word": "rendezvous",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A planned meeting at a set time and place. Example: The two ships planned a rendezvous above the planet.",
+      "meaning2": "To meet at an agreed place. Example: The friends agreed to rendezvous at the library at noon.",
+      "studentChallenge": "The scouts arranged a ___ at the old oak tree at dawn.",
+      "sentence": ""
+    },
+    {
+      "word": "trajectory",
+      "partOfSpeech": "noun",
+      "meaning1": "The curved path of a moving object through the air or space. Example: The cannonball followed a high trajectory before it landed in the lake.",
+      "meaning2": "The course of something's development over time. Example: After her big win, the runner's career followed an upward trajectory.",
+      "studentChallenge": "Scientists calculated the comet's ___ to predict where it would be next year.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The class built a model of the _______ surface, complete with craters and dusty plains.",
+      "sentence2": "A _______ eclipse happens when Earth's shadow falls across the moon.",
+      "options": [
+        "cosmic",
+        "lunar",
+        "stellar",
+        "void"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "lunar"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Scientists study the _______ background radiation left over from the very beginning of the universe.",
+      "sentence2": "The problem facing the city is of _______ proportions, much bigger than anyone expected.",
+      "options": [
+        "cosmic",
+        "lunar",
+        "stellar",
+        "void"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "cosmic"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Beyond the last planet, the spacecraft entered a dark and silent _______.",
+      "sentence2": "When her best friend moved away, she felt an aching _______ in her life.",
+      "options": [
+        "gauge",
+        "malfunction",
+        "rendezvous",
+        "void"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "void"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "A strong, steady kick will _______ a swimmer forward through the water.",
+      "sentence2": "Powerful rocket engines _______ the shuttle off the launch pad.",
+      "options": [
+        "hurtle",
+        "eject",
+        "propel",
+        "radiate"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "propel"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The runaway sled began to _______ down the icy slope, faster every second.",
+      "sentence2": "Asteroids can _______ through space at thousands of miles per hour.",
+      "options": [
+        "propel",
+        "hurtle",
+        "radiate",
+        "gauge"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "hurtle"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "A sudden _______ in the engine forced the pilot to land early.",
+      "sentence2": "If the alarm should _______ in the middle of the night, call the repair line.",
+      "options": [
+        "malfunction",
+        "eject",
+        "radiate",
+        "rendezvous"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "malfunction"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The telescope gave the club a _______ view of a glowing cluster of stars.",
+      "sentence2": "Her _______ performance in the play earned a standing ovation.",
+      "options": [
+        "lunar",
+        "cosmic",
+        "void",
+        "stellar"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "stellar"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The pilot glanced at the fuel _______ and saw the needle near empty.",
+      "sentence2": "Teachers often watch students' faces to _______ how well they understand the lesson.",
+      "options": [
+        "trajectory",
+        "rendezvous",
+        "gauge",
+        "radiate"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "gauge"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "A campfire will _______ warmth in every direction.",
+      "sentence2": "The winner seemed to _______ happiness as she crossed the finish line.",
+      "options": [
+        "eject",
+        "radiate",
+        "hurtle",
+        "gauge"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "radiate"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The old toaster will _______ the bread when it finishes.",
+      "sentence2": "The referee had to _______ the player who started the fight.",
+      "options": [
+        "eject",
+        "rendezvous",
+        "radiate",
+        "gauge"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "eject"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The two spaceships will _______ above Earth, then dock together.",
+      "sentence2": "The friends agreed to _______ at the library at noon.",
+      "options": [
+        "eject",
+        "propel",
+        "hurtle",
+        "rendezvous"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "rendezvous"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The cannonball followed a curved _______ before it landed in the lake.",
+      "sentence2": "After her big win, the runner's career followed an upward _______.",
+      "options": [
+        "void",
+        "gauge",
+        "trajectory",
+        "malfunction"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "trajectory"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "lunar",
+      "cosmic",
+      "void",
+      "propel",
+      "hurtle",
+      "malfunction",
+      "stellar",
+      "gauge",
+      "radiate",
+      "eject",
+      "rendezvous",
+      "trajectory"
+    ],
+    "passage": "Every autumn, the science club at Brookside Middle School launched a model rocket and held a night of skywatching. This year's theme was the _(1)_ cycle, so the students built a papier-mache moon and painted its craters by hand. Zara read about _(2)_ dust, the tiny grains drifting between star systems, while her partner Owen checked the pressure _(3)_ on the launch pad.\n\nWhen the countdown ended, compressed air began to _(4)_ the rocket upward. It started to _(5)_ across the field, then wobbled when a fin snapped, a small _(6)_ that sent it off course. Zara tracked its _(7)_ and guessed where it would land. At the top of its flight, a spring was meant to _(8)_ the parachute, and it worked, so the rocket drifted gently down while the crowd cheered.\n\nThat night, the club planned a _(9)_ on the hill behind the school. The sky offered a _(10)_ view of the Milky Way. \"It looks like an endless _(11)_ filled with sparks,\" Owen whispered. The campfire seemed to _(12)_ warmth across the circle of friends.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "lunar",
+        "options": [
+          "cosmic",
+          "stellar",
+          "lunar",
+          "void"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "cosmic",
+        "options": [
+          "lunar",
+          "cosmic",
+          "stellar",
+          "void"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "gauge",
+        "options": [
+          "gauge",
+          "trajectory",
+          "rendezvous",
+          "malfunction"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "propel",
+        "options": [
+          "radiate",
+          "hurtle",
+          "gauge",
+          "propel"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "hurtle",
+        "options": [
+          "propel",
+          "radiate",
+          "hurtle",
+          "gauge"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "malfunction",
+        "options": [
+          "rendezvous",
+          "malfunction",
+          "trajectory",
+          "gauge"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "trajectory",
+        "options": [
+          "trajectory",
+          "void",
+          "rendezvous",
+          "gauge"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "eject",
+        "options": [
+          "radiate",
+          "hurtle",
+          "gauge",
+          "eject"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "rendezvous",
+        "options": [
+          "gauge",
+          "malfunction",
+          "rendezvous",
+          "trajectory"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "stellar",
+        "options": [
+          "lunar",
+          "stellar",
+          "void",
+          "gauge"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "void",
+        "options": [
+          "void",
+          "gauge",
+          "trajectory",
+          "malfunction"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "radiate",
+        "options": [
+          "eject",
+          "hurtle",
+          "gauge",
+          "radiate"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "hurtle",
+        "scale": [
+          "Drift",
+          "Rush",
+          "Hurtle"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "stellar",
+        "scale": [
+          "Decent",
+          "Great",
+          "Stellar"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "malfunction",
+        "scale": [
+          "Glitch",
+          "Malfunction",
+          "Breakdown"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "radiate",
+        "scale": [
+          "Glow",
+          "Radiate",
+          "Blaze"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "propel",
+        "words": [
+          "Push",
+          "Halt",
+          "Drive",
+          "Launch"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Halt"
+      },
+      {
+        "vocabWord": "eject",
+        "words": [
+          "Expel",
+          "Remove",
+          "Admit",
+          "Discharge"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Admit"
+      },
+      {
+        "vocabWord": "void",
+        "words": [
+          "Emptiness",
+          "Vacuum",
+          "Nothingness",
+          "Fullness"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Fullness"
+      },
+      {
+        "vocabWord": "malfunction",
+        "words": [
+          "Breakdown",
+          "Glitch",
+          "Success",
+          "Failure"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Success"
+      },
+      {
+        "vocabWord": "rendezvous",
+        "words": [
+          "Meeting",
+          "Parting",
+          "Gathering",
+          "Appointment"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Parting"
+      },
+      {
+        "vocabWord": "radiate",
+        "words": [
+          "Beam",
+          "Emit",
+          "Absorb",
+          "Shine"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Absorb"
+      },
+      {
+        "vocabWord": "stellar",
+        "words": [
+          "Outstanding",
+          "Superb",
+          "Terrible",
+          "Excellent"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Terrible"
+      },
+      {
+        "vocabWord": "gauge",
+        "words": [
+          "Measure",
+          "Estimate",
+          "Judge",
+          "Ignore"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Ignore"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

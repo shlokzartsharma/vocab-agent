@@ -1,0 +1,577 @@
+{
+  "grade": 6,
+  "setNumber": 1,
+  "words": [
+    "vague",
+    "tangible",
+    "rigid",
+    "sabotage",
+    "tamper",
+    "anomaly",
+    "curtail",
+    "meager",
+    "verify",
+    "scorn",
+    "unravel",
+    "plausible"
+  ],
+  "sources": [
+    "Common Core Grade 6",
+    "Tier 2 Academic"
+  ],
+  "genre": "school science fair mystery",
+  "story": {
+    "genre": "school science fair mystery",
+    "characters": [
+      "Maya",
+      "Ethan",
+      "Priya"
+    ],
+    "parts": [
+      {
+        "title": "The Wilted Bean Plant",
+        "text": "Maya arrived at the science fair early, eager to present her bean-plant experiment. But one plant had drooped overnight while its neighbors stood tall, an **anomaly** that made no sense. Her teacher offered only a **vague** explanation: \"Maybe it got too much light.\" Maya wanted something **tangible**, a clue she could hold, not guesses. Then her friend Ethan whispered that a jealous competitor might **sabotage** a project to win."
+      },
+      {
+        "title": "Searching for Clues",
+        "text": "Ethan, who loved logic, insisted they follow a **rigid** plan: check every table, record every detail, and accept nothing without proof. Near Maya's display they found only a **meager** pile of evidence, one smudged fingerprint and a torn scrap of paper. Priya, the fair's photographer, pointed to the window latch beside the display. \"It looks like someone tried to **tamper** with it,\" she said. Before accusing anyone, they agreed to **verify** each detail against the school's security records."
+      },
+      {
+        "title": "The Truth Comes Out",
+        "text": "As the day went on, the mystery began to **unravel**. Several classmates met the sabotage theory with **scorn**, laughing that nobody would attack a bean plant. Then Mr. Webb, the custodian, explained that a broken heater had forced him to **curtail** his evening rounds and pry the stuck window open to air out the room. His story was **plausible**, and the security log matched it. The cold night draft had reached only Maya's plant."
+      },
+      {
+        "title": "What the Plant Taught Them",
+        "text": "By closing time, Maya had rewritten her poster to include the cold-draft discovery. She realized that a good scientist follows evidence instead of suspicion. The judges awarded the trio a ribbon for the best investigation, and the drooping bean plant became the star of the fair."
+      }
+    ],
+    "wordCount": 267
+  },
+  "definitions": [
+    {
+      "word": "vague",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not clear or specific; hard to understand or describe exactly. Example: The map gave only vague directions, so we kept getting lost.",
+      "meaning2": "",
+      "studentChallenge": "Her ___ answer left us unsure what she really meant.",
+      "sentence": ""
+    },
+    {
+      "word": "tangible",
+      "partOfSpeech": "adjective",
+      "meaning1": "Real enough to be touched or measured, not just an idea. Example: The trophy was tangible proof of the team's hard work.",
+      "meaning2": "Clear and definite enough to be seen as real. Example: The new playground brought tangible benefits to the neighborhood.",
+      "studentChallenge": "A hug is a feeling, but a gift is something ___ you can hold.",
+      "sentence": ""
+    },
+    {
+      "word": "rigid",
+      "partOfSpeech": "adjective",
+      "meaning1": "Stiff and not easily bent. Example: The rigid plastic ruler snapped when he tried to bend it.",
+      "meaning2": "Strict and unwilling to change. Example: The coach's rigid schedule left no room for surprises.",
+      "studentChallenge": "The ___ steel beam did not bend, even under heavy weight.",
+      "sentence": ""
+    },
+    {
+      "word": "sabotage",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To damage or ruin something on purpose to keep it from working or succeeding. Example: A jealous rival tried to sabotage the robot before the contest.",
+      "meaning2": "The act of deliberately damaging or ruining something. Example: Investigators suspected sabotage when every machine in the factory stopped at once.",
+      "studentChallenge": "The spy hoped to ___ the rocket launch by cutting its power.",
+      "sentence": ""
+    },
+    {
+      "word": "tamper",
+      "partOfSpeech": "verb",
+      "meaning1": "To meddle with something in a way that damages or changes it without permission. Example: It is against the law to tamper with someone else's mail.",
+      "meaning2": "",
+      "studentChallenge": "Please do not ___ with the experiment while it is running.",
+      "sentence": ""
+    },
+    {
+      "word": "anomaly",
+      "partOfSpeech": "noun",
+      "meaning1": "Something that is different from what is normal or expected. Example: A warm, sunny day in the middle of January was a strange anomaly.",
+      "meaning2": "",
+      "studentChallenge": "Snow in the desert would be a strange ___ that scientists would study for years.",
+      "sentence": ""
+    },
+    {
+      "word": "curtail",
+      "partOfSpeech": "verb",
+      "meaning1": "To cut short or reduce. Example: The storm forced the town to curtail its summer festival.",
+      "meaning2": "",
+      "studentChallenge": "Budget cuts may ___ the school's after-school clubs.",
+      "sentence": ""
+    },
+    {
+      "word": "meager",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very small in amount or quality; not enough. Example: A meager meal of broth and bread barely filled the hikers.",
+      "meaning2": "",
+      "studentChallenge": "The ___ paycheck was hardly enough to buy groceries.",
+      "sentence": ""
+    },
+    {
+      "word": "verify",
+      "partOfSpeech": "verb",
+      "meaning1": "To check that something is true or correct. Example: Please verify the spelling in a dictionary before you turn in your essay.",
+      "meaning2": "",
+      "studentChallenge": "The reporter called two sources to ___ the story before printing it.",
+      "sentence": ""
+    },
+    {
+      "word": "scorn",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A strong feeling that someone or something is worthless or foolish. Example: She looked at the cheater's excuse with scorn.",
+      "meaning2": "To treat as worthless or to reject with contempt. Example: Some people scorn advice they do not want to hear.",
+      "studentChallenge": "The princess looked at the flattering liar with ___ and walked away.",
+      "sentence": ""
+    },
+    {
+      "word": "unravel",
+      "partOfSpeech": "verb",
+      "meaning1": "To come apart, as threads do; to undo something that was tied or woven. Example: The old sweater began to unravel at the cuff.",
+      "meaning2": "To solve or become clear, as a mystery or plot. Example: The detective worked all night to unravel the mystery.",
+      "studentChallenge": "If you keep pulling that loose thread, the whole sleeve will ___.",
+      "sentence": ""
+    },
+    {
+      "word": "plausible",
+      "partOfSpeech": "adjective",
+      "meaning1": "Seeming reasonable and likely to be true. Example: It was plausible that the bus was late because of the heavy snow.",
+      "meaning2": "",
+      "studentChallenge": "Getting stuck in traffic was a ___ reason for being late.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The directions were so _______ that nobody knew which street to turn on.",
+      "sentence2": "Her memory of the dream was _______, only a blur of colors and sounds.",
+      "options": [
+        "tangible",
+        "rigid",
+        "vague",
+        "plausible"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "vague"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "After weeks of promises, the mayor finally offered _______ proof that the bridge would be repaired.",
+      "sentence2": "Fear is only a feeling, but a trophy is a _______ object you can hold in your hands.",
+      "options": [
+        "tangible",
+        "vague",
+        "rigid",
+        "plausible"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "tangible"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "A _______ metal pole held up the tent, and it would not bend even in the strongest wind.",
+      "sentence2": "The coach was so _______ about the schedule that he refused to change practice, even for a storm.",
+      "options": [
+        "meager",
+        "vague",
+        "tangible",
+        "rigid"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "rigid"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "A jealous rival tried to _______ the robot by cutting its wires the night before the contest.",
+      "sentence2": "The fire inspector ruled out an accident and called the damage deliberate _______.",
+      "options": [
+        "tamper",
+        "sabotage",
+        "curtail",
+        "verify"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "sabotage"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Please do not _______ with the thermostat; it is set exactly right.",
+      "sentence2": "A sealed cap showed that no one had tried to _______ with the medicine.",
+      "options": [
+        "sabotage",
+        "scorn",
+        "tamper",
+        "verify"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "tamper"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "A snowstorm in July would be a strange _______ in this desert town.",
+      "sentence2": "The scientist circled the _______ on the graph, the one dot that did not follow the pattern.",
+      "options": [
+        "anomaly",
+        "scorn",
+        "sabotage",
+        "plausible"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "anomaly"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Budget cuts forced the school to _______ the length of its summer program.",
+      "sentence2": "The referee had to _______ the match early because of lightning.",
+      "options": [
+        "verify",
+        "curtail",
+        "unravel",
+        "tamper"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "curtail"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The farmer's _______ harvest barely fed his family through the winter.",
+      "sentence2": "Her _______ allowance left almost nothing to save after she bought lunch.",
+      "options": [
+        "rigid",
+        "plausible",
+        "vague",
+        "meager"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "meager"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Before posting the story, the editor wanted to _______ every fact.",
+      "sentence2": "Scientists repeat an experiment to _______ the results.",
+      "options": [
+        "verify",
+        "scorn",
+        "curtail",
+        "anomaly"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "verify"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The bully's cruel jokes were met with _______ from the whole class.",
+      "sentence2": "He felt only _______ for people who cheat on tests.",
+      "options": [
+        "anomaly",
+        "sabotage",
+        "scorn",
+        "verify"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "scorn"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "One loose thread caused the whole scarf to _______.",
+      "sentence2": "The detective hoped to _______ the mystery before midnight.",
+      "options": [
+        "curtail",
+        "unravel",
+        "verify",
+        "tamper"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "unravel"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Running late because of traffic was a _______ excuse.",
+      "sentence2": "The detective found the suspect's story _______, since every detail fit the facts.",
+      "options": [
+        "vague",
+        "rigid",
+        "tangible",
+        "plausible"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "plausible"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "vague",
+      "tangible",
+      "rigid",
+      "sabotage",
+      "tamper",
+      "anomaly",
+      "curtail",
+      "meager",
+      "verify",
+      "scorn",
+      "unravel",
+      "plausible"
+    ],
+    "passage": "The robotics club's trophy case was supposed to stay locked all weekend. On Monday, Dara noticed a strange _(1)_: the lab light was on, though the janitor swore he had turned it off. The note taped to the door was _(2)_, with only a few unclear words and no name.\n\nDara did not want to accuse anyone without proof, so she decided to _(3)_ every detail first. Someone had tried to _(4)_ with the lock, leaving fresh scratches. Mr. Hale, who followed a _(5)_ rule that nobody entered the lab alone, shook his head, and a few students greeted Dara's worries with _(6)_.\n\nShe wanted something _(7)_, such as a photo or a fingerprint, not just a feeling. The hallway camera showed a student whose key had stuck in the lock, a story that was entirely _(8)_. He had never meant to _(9)_ the project; he had come to finish his work.\n\nBudget cuts forced the club to _(10)_ its weekend hours, and it had only _(11)_ supplies left. Still, Dara felt proud that she had managed to _(12)_ the puzzle without blaming the wrong person.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "anomaly",
+        "options": [
+          "scorn",
+          "anomaly",
+          "sabotage",
+          "tamper"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "vague",
+        "options": [
+          "rigid",
+          "tangible",
+          "plausible",
+          "vague"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "verify",
+        "options": [
+          "verify",
+          "curtail",
+          "tamper",
+          "sabotage"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "tamper",
+        "options": [
+          "verify",
+          "curtail",
+          "tamper",
+          "unravel"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "rigid",
+        "options": [
+          "meager",
+          "rigid",
+          "tangible",
+          "plausible"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "scorn",
+        "options": [
+          "anomaly",
+          "sabotage",
+          "scorn",
+          "plausible"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "tangible",
+        "options": [
+          "tangible",
+          "vague",
+          "rigid",
+          "meager"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "plausible",
+        "options": [
+          "tangible",
+          "rigid",
+          "meager",
+          "plausible"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "sabotage",
+        "options": [
+          "verify",
+          "sabotage",
+          "scorn",
+          "unravel"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "curtail",
+        "options": [
+          "curtail",
+          "verify",
+          "tamper",
+          "unravel"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "meager",
+        "options": [
+          "vague",
+          "rigid",
+          "meager",
+          "tangible"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "unravel",
+        "options": [
+          "verify",
+          "tamper",
+          "curtail",
+          "unravel"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "scorn",
+        "scale": [
+          "Dislike",
+          "Disdain",
+          "Scorn"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "curtail",
+        "scale": [
+          "Trim",
+          "Curtail",
+          "Eliminate"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "meager",
+        "scale": [
+          "Small",
+          "Meager",
+          "Negligible"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "rigid",
+        "scale": [
+          "Firm",
+          "Stiff",
+          "Rigid"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "vague",
+        "words": [
+          "Unclear",
+          "Hazy",
+          "Fuzzy",
+          "Precise"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Precise"
+      },
+      {
+        "vocabWord": "tangible",
+        "words": [
+          "Concrete",
+          "Solid",
+          "Imaginary",
+          "Physical"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Imaginary"
+      },
+      {
+        "vocabWord": "anomaly",
+        "words": [
+          "Routine",
+          "Oddity",
+          "Irregularity",
+          "Exception"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Routine"
+      },
+      {
+        "vocabWord": "verify",
+        "words": [
+          "Confirm",
+          "Guess",
+          "Check",
+          "Prove"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Guess"
+      },
+      {
+        "vocabWord": "plausible",
+        "words": [
+          "Believable",
+          "Reasonable",
+          "Credible",
+          "Absurd"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Absurd"
+      },
+      {
+        "vocabWord": "tamper",
+        "words": [
+          "Meddle",
+          "Interfere",
+          "Protect",
+          "Tinker"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Protect"
+      },
+      {
+        "vocabWord": "unravel",
+        "words": [
+          "Untangle",
+          "Tangle",
+          "Solve",
+          "Decipher"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Tangle"
+      },
+      {
+        "vocabWord": "scorn",
+        "words": [
+          "Admiration",
+          "Contempt",
+          "Disdain",
+          "Mockery"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Admiration"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}
