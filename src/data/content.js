@@ -1,5 +1,5 @@
 // Content loader — imports all JSON content files
-// Grade 3: 40 sets, Grade 4: 24 sets, Grade 5: 48 sets
+// Grades and set counts come from the files themselves (content/gradeG/setN.json).
 
 const contentModules = import.meta.glob('../../content/grade*/set*.json', { eager: true });
 
@@ -35,7 +35,17 @@ export function getSetList(grade) {
 }
 
 export function getGrades() {
-  return [3, 4, 5];
+  return [...new Set(Object.values(CONTENT).map((d) => d.grade))].sort((a, b) => a - b);
+}
+
+export function getTotals() {
+  const all = Object.values(CONTENT);
+  const grades = getGrades();
+  return {
+    words: all.reduce((n, d) => n + (d.words || []).length, 0),
+    sets: all.length,
+    range: grades.length ? (grades.length === 1 ? `Grade ${grades[0]}` : `Grades ${grades[0]}–${grades[grades.length - 1]}`) : '',
+  };
 }
 
 export function getGradeInfo(grade) {

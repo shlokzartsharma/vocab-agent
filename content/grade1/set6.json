@@ -1,0 +1,578 @@
+{
+  "grade": 1,
+  "setNumber": 6,
+  "words": [
+    "whisper",
+    "polite",
+    "cheer",
+    "giggle",
+    "borrow",
+    "neat",
+    "proud",
+    "wonder",
+    "pretend",
+    "clap",
+    "welcome",
+    "sparkle"
+  ],
+  "sources": [
+    "Common Core Grade 1",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "school day",
+  "story": {
+    "genre": "school day",
+    "characters": [
+      "Zoe",
+      "Mateo",
+      "Anika"
+    ],
+    "parts": [
+      {
+        "title": "A New Day",
+        "text": "Zoe came into class with a big smile. The teacher gave her a warm **welcome**. Mateo said in a **whisper**, “May I **borrow** your red pencil?” Zoe handed it over. “Thank you,” he said. He was always **polite**."
+      },
+      {
+        "title": "Play Time",
+        "text": "Today the class would put on a play. Anika wanted to **pretend** to be a queen. Her crown began to **sparkle** in the light. Zoe set out a **neat** row of chairs. Mateo started to **giggle** when Anika bowed."
+      },
+      {
+        "title": "The Show",
+        "text": "Then the play began. Anika stood up straight and felt **proud**. When she finished, the class began to **clap**. Zoe and Mateo gave a loud **cheer**. Anika began to **wonder** if she could be the queen again."
+      },
+      {
+        "title": "A Happy Day",
+        "text": "The play was over. The friends hugged and smiled. It had been a happy day at school."
+      }
+    ],
+    "wordCount": 131
+  },
+  "definitions": [
+    {
+      "word": "whisper",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To speak very softly so only one person can hear. Example: I whisper a secret to my friend.",
+      "meaning2": "A very soft voice. Example: She spoke in a whisper.",
+      "studentChallenge": "Please ___ in the library so we do not bother anyone.",
+      "sentence": ""
+    },
+    {
+      "word": "polite",
+      "partOfSpeech": "adjective",
+      "meaning1": "Kind and nice to others, with good manners. Example: A polite boy says please and thank you.",
+      "meaning2": "",
+      "studentChallenge": "It is ___ to say thank you.",
+      "sentence": ""
+    },
+    {
+      "word": "cheer",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To shout happy words to show you like something. Example: We cheer for our team.",
+      "meaning2": "A happy shout. Example: The crowd gave a loud cheer.",
+      "studentChallenge": "We will ___ when the runners cross the line.",
+      "sentence": ""
+    },
+    {
+      "word": "giggle",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To laugh in a silly, quiet way. Example: I giggle when my puppy licks my nose.",
+      "meaning2": "A small, silly laugh. Example: A giggle came from under the blanket.",
+      "studentChallenge": "The funny cartoon made me ___.",
+      "sentence": ""
+    },
+    {
+      "word": "borrow",
+      "partOfSpeech": "verb",
+      "meaning1": "To use something that is not yours and give it back later. Example: I borrow a book from the library.",
+      "meaning2": "",
+      "studentChallenge": "May I ___ your crayon for a minute?",
+      "sentence": ""
+    },
+    {
+      "word": "neat",
+      "partOfSpeech": "adjective",
+      "meaning1": "Clean and in good order. Example: Her neat desk has every pencil in a cup.",
+      "meaning2": "Very good or fun. Example: That is a neat toy!",
+      "studentChallenge": "Lia keeps her room ___ and clean.",
+      "sentence": ""
+    },
+    {
+      "word": "proud",
+      "partOfSpeech": "adjective",
+      "meaning1": "Happy about something good that you or someone else did. Example: I was proud when I tied my shoes.",
+      "meaning2": "",
+      "studentChallenge": "I felt ___ when I finished the puzzle.",
+      "sentence": ""
+    },
+    {
+      "word": "wonder",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To ask yourself about something. Example: I wonder how birds fly.",
+      "meaning2": "A feeling of surprise at something amazing. Example: The kids looked at the snow with wonder.",
+      "studentChallenge": "I ___ what is inside the big box.",
+      "sentence": ""
+    },
+    {
+      "word": "pretend",
+      "partOfSpeech": "verb",
+      "meaning1": "To act as if something is true when it is not. Example: Let us pretend the sofa is a boat.",
+      "meaning2": "",
+      "studentChallenge": "The children ___ to be dragons.",
+      "sentence": ""
+    },
+    {
+      "word": "clap",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To hit your hands together to make a sound. Example: We clap when the song ends.",
+      "meaning2": "The sound of hands hitting together. Example: There was a loud clap.",
+      "studentChallenge": "Please ___ your hands to the beat.",
+      "sentence": ""
+    },
+    {
+      "word": "welcome",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A kind hello when someone comes in. Example: The teacher gave us a warm welcome.",
+      "meaning2": "To greet someone in a kind way. Example: We welcome our friends to the party.",
+      "studentChallenge": "The new student got a warm ___ at the door.",
+      "sentence": ""
+    },
+    {
+      "word": "sparkle",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To shine with little flashes of light. Example: Snow seems to sparkle in the sun.",
+      "meaning2": "A tiny flash of light. Example: I saw a sparkle in her eyes.",
+      "studentChallenge": "Stars ___ in the night sky.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The library is a place to _______ so others can read.",
+      "sentence2": "Mia told her secret in a quiet _______.",
+      "options": [
+        "borrow",
+        "whisper",
+        "polite",
+        "sparkle"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "whisper"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "It is _______ to say please and thank you.",
+      "sentence2": "The _______ boy held the door open for the teacher.",
+      "options": [
+        "whisper",
+        "clap",
+        "pretend",
+        "polite"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "polite"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The crowd began to _______ when the team scored.",
+      "sentence2": "We gave a loud _______ for our friend.",
+      "options": [
+        "cheer",
+        "pretend",
+        "neat",
+        "borrow"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "cheer"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The funny clown made the baby _______.",
+      "sentence2": "I could not stop a _______ when my dog sneezed.",
+      "options": [
+        "borrow",
+        "pretend",
+        "giggle",
+        "neat"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "giggle"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "May I _______ your eraser for a minute?",
+      "sentence2": "You can _______ a book from the library and bring it back.",
+      "options": [
+        "giggle",
+        "sparkle",
+        "pretend",
+        "borrow"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "borrow"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Her desk is _______, with every pencil in a cup.",
+      "sentence2": "He wrote a _______ line of letters on the page.",
+      "options": [
+        "proud",
+        "neat",
+        "polite",
+        "sparkle"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "neat"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Dad felt _______ when I read the whole book.",
+      "sentence2": "The _______ girl held up her gold medal.",
+      "options": [
+        "neat",
+        "polite",
+        "proud",
+        "borrow"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "proud"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "I _______ why the sky is blue.",
+      "sentence2": "The children looked at the snow with _______ in their eyes.",
+      "options": [
+        "wonder",
+        "clap",
+        "borrow",
+        "giggle"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "wonder"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Let us _______ that the box is a rocket ship.",
+      "sentence2": "The kids _______ to be pirates on a big ship.",
+      "options": [
+        "whisper",
+        "pretend",
+        "cheer",
+        "borrow"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "pretend"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "We _______ our hands to the beat of the song.",
+      "sentence2": "Please _______ when the singer finishes.",
+      "options": [
+        "pretend",
+        "borrow",
+        "sparkle",
+        "clap"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "clap"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The teacher gave the new boy a warm _______.",
+      "sentence2": "We will _______ the new girl to our class.",
+      "options": [
+        "welcome",
+        "neat",
+        "proud",
+        "giggle"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "welcome"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The stars _______ in the dark sky.",
+      "sentence2": "Her new ring has a bright _______.",
+      "options": [
+        "borrow",
+        "polite",
+        "sparkle",
+        "pretend"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "sparkle"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "whisper",
+      "polite",
+      "cheer",
+      "giggle",
+      "borrow",
+      "neat",
+      "proud",
+      "wonder",
+      "pretend",
+      "clap",
+      "welcome",
+      "sparkle"
+    ],
+    "passage": "On Monday, Anika walked into school and got a warm _(1)_ from her teacher. She felt _(2)_ because she had learned a new song. At her desk, she kept her pencils in a _(3)_ row. She forgot her glue, so she asked, “May I _(4)_ yours?” Mateo said yes in a soft _(5)_ so the class could stay quiet. Anika said thank you because she was very _(6)_.\n\nAt music time, the class got to _(7)_ they were birds in a big tree. The girl next to Anika started to _(8)_ when the song got silly. The stars on the stage began to _(9)_ under the lights. When the song ended, the whole class began to _(10)_ their hands. Everyone gave a loud _(11)_ for Anika. She could only _(12)_ how the day could be so happy.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "welcome",
+        "options": [
+          "neat",
+          "borrow",
+          "welcome",
+          "giggle"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "proud",
+        "options": [
+          "proud",
+          "whisper",
+          "pretend",
+          "sparkle"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "neat",
+        "options": [
+          "polite",
+          "wonder",
+          "cheer",
+          "neat"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "borrow",
+        "options": [
+          "whisper",
+          "borrow",
+          "sparkle",
+          "giggle"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "whisper",
+        "options": [
+          "polite",
+          "whisper",
+          "neat",
+          "welcome"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "polite",
+        "options": [
+          "pretend",
+          "clap",
+          "sparkle",
+          "polite"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "pretend",
+        "options": [
+          "pretend",
+          "welcome",
+          "proud",
+          "neat"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "giggle",
+        "options": [
+          "polite",
+          "proud",
+          "giggle",
+          "borrow"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "sparkle",
+        "options": [
+          "borrow",
+          "polite",
+          "wonder",
+          "sparkle"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "clap",
+        "options": [
+          "proud",
+          "clap",
+          "neat",
+          "polite"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "cheer",
+        "options": [
+          "borrow",
+          "neat",
+          "cheer",
+          "polite"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "wonder",
+        "options": [
+          "wonder",
+          "proud",
+          "neat",
+          "borrow"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "giggle",
+        "scale": [
+          "Smile",
+          "Giggle",
+          "Laugh"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "neat",
+        "scale": [
+          "Messy",
+          "Neat",
+          "Spotless"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "sparkle",
+        "scale": [
+          "Dim",
+          "Shine",
+          "Sparkle"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "whisper",
+        "scale": [
+          "Whisper",
+          "Talk",
+          "Shout"
+        ],
+        "vocabPosition": 0
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "polite",
+        "words": [
+          "Kind",
+          "Nice",
+          "Rude",
+          "Gentle"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Rude"
+      },
+      {
+        "vocabWord": "borrow",
+        "words": [
+          "Lend",
+          "Take",
+          "Use",
+          "Get"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Lend"
+      },
+      {
+        "vocabWord": "cheer",
+        "words": [
+          "Shout",
+          "Hooray",
+          "Root for",
+          "Boo"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Boo"
+      },
+      {
+        "vocabWord": "proud",
+        "words": [
+          "Happy",
+          "Ashamed",
+          "Pleased",
+          "Glad"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Ashamed"
+      },
+      {
+        "vocabWord": "pretend",
+        "words": [
+          "Act",
+          "Imagine",
+          "Fake",
+          "Be real"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Be real"
+      },
+      {
+        "vocabWord": "whisper",
+        "words": [
+          "Murmur",
+          "Shout",
+          "Hush",
+          "Mumble"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Shout"
+      },
+      {
+        "vocabWord": "clap",
+        "words": [
+          "Hold still",
+          "Applaud",
+          "Cheer",
+          "Tap hands"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Hold still"
+      },
+      {
+        "vocabWord": "welcome",
+        "words": [
+          "Greet",
+          "Hello",
+          "Send away",
+          "Invite"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Send away"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

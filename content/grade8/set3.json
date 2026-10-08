@@ -1,0 +1,578 @@
+{
+  "grade": 8,
+  "setNumber": 3,
+  "words": [
+    "dissident",
+    "rebellion",
+    "insurgent",
+    "autocracy",
+    "sedition",
+    "coup",
+    "manifesto",
+    "subjugate",
+    "edict",
+    "dethrone",
+    "fervent",
+    "radical"
+  ],
+  "sources": [
+    "Common Core Grade 8",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "revolution and rebellion",
+  "story": {
+    "genre": "revolution and rebellion",
+    "characters": [
+      "Alexei",
+      "Camila",
+      "Idris"
+    ],
+    "parts": [
+      {
+        "title": "A Silent Square",
+        "text": "In the invented kingdom of Karvonia, a single **edict** from the ruler could close a school, ban a newspaper or send a neighbor into exile. The country was an **autocracy**, and no one had ever voted on anything. Alexei, a printer's apprentice, knew that the ruler wished to **subjugate** every town that questioned him. His master, a **dissident** who had once spent a year in jail for his opinions, kept a hidden press in the cellar."
+      },
+      {
+        "title": "The Secret Pamphlet",
+        "text": "One midnight, Camila, a teacher, slipped into the cellar carrying pages of a **manifesto**. It demanded fair elections, open schools and an end to secret arrests. She was a **fervent** believer in reform, and her eyes shone as she read. The palace would call the pamphlet **sedition**, because it urged citizens to resist the crown, and anyone found with a copy might be punished. Alexei set the type anyway."
+      },
+      {
+        "title": "The Square Fills",
+        "text": "Within months, the quiet discontent became open **rebellion**. In the hills, **insurgent** bands blocked roads and seized grain stores. A few army officers whispered about a **coup**, a sudden seizure of power, but Camila refused to join them. “Power taken by force only teaches the next ruler to rule by force,” she said. Idris, a young farmer, thought her plan too cautious, and his own ideas were far more **radical**: he wanted every title and privilege erased at once. Yet even he agreed that the old ruler must be removed, and thousands marched peacefully to **dethrone** him."
+      },
+      {
+        "title": "What Came After",
+        "text": "In time, the ruler agreed to hold elections, and Alexei printed the very first ballots. The new government was imperfect, and reformers argued bitterly about how fast to change. Alexei learned that winning a revolution is easier than building a fair country. Justice, he decided, is not one victory but a habit that every generation must practice."
+      }
+    ],
+    "wordCount": 299
+  },
+  "definitions": [
+    {
+      "word": "dissident",
+      "partOfSpeech": "noun, adjective",
+      "meaning1": "A person who openly opposes the government's policies, especially where doing so is dangerous. Example: The dissident was arrested for criticizing the ruler in print.",
+      "meaning2": "Openly disagreeing with official policy. Example: Dissident members of the club voted against the new rules.",
+      "studentChallenge": "Police arrested the ___ for speaking out against the ruler's policies.",
+      "sentence": ""
+    },
+    {
+      "word": "rebellion",
+      "partOfSpeech": "noun",
+      "meaning1": "An open, organized resistance to a ruler or authority. Example: The unfair salt tax sparked a rebellion in the northern provinces.",
+      "meaning2": "A refusal to obey rules or follow expectations. Example: Wearing mismatched socks was her small rebellion against the dress code.",
+      "studentChallenge": "The ___ began when townspeople refused to pay the unfair tax.",
+      "sentence": ""
+    },
+    {
+      "word": "insurgent",
+      "partOfSpeech": "noun, adjective",
+      "meaning1": "A person who fights against an established government or authority. Example: The insurgents controlled the hills outside the capital.",
+      "meaning2": "Rising up in revolt against authority. Example: The insurgent forces took over the radio station.",
+      "studentChallenge": "The army searched the mountains for the armed ___ hiding there.",
+      "sentence": ""
+    },
+    {
+      "word": "autocracy",
+      "partOfSpeech": "noun",
+      "meaning1": "A system of government in which one person holds unlimited power. Example: In an autocracy, the ruler's word is law.",
+      "meaning2": "",
+      "studentChallenge": "Citizens of the ___ had no way to vote the ruler out.",
+      "sentence": ""
+    },
+    {
+      "word": "sedition",
+      "partOfSpeech": "noun",
+      "meaning1": "Speech or action that encourages people to rebel against their government. Example: The old law punished sedition with a long prison sentence.",
+      "meaning2": "",
+      "studentChallenge": "The king accused the pamphlet's author of ___.",
+      "sentence": ""
+    },
+    {
+      "word": "coup",
+      "partOfSpeech": "noun",
+      "meaning1": "A sudden takeover of a government by force, usually by the military or a small group. Example: A group of generals planned a coup to take over the government.",
+      "meaning2": "A brilliant, unexpected achievement. Example: Landing the famous scientist as a speaker was a real coup for our small school.",
+      "studentChallenge": "Officers seized the palace in a surprise ___ at dawn.",
+      "sentence": ""
+    },
+    {
+      "word": "manifesto",
+      "partOfSpeech": "noun",
+      "meaning1": "A public statement of a group's beliefs, goals and plans. Example: The new party published a manifesto promising cleaner rivers.",
+      "meaning2": "",
+      "studentChallenge": "The club wrote a ___ explaining what it hoped to change.",
+      "sentence": ""
+    },
+    {
+      "word": "subjugate",
+      "partOfSpeech": "verb",
+      "meaning1": "To bring under control by force; to conquer and dominate. Example: The empire tried to subjugate its neighbors one by one.",
+      "meaning2": "",
+      "studentChallenge": "The invading army hoped to ___ the whole region within a year.",
+      "sentence": ""
+    },
+    {
+      "word": "edict",
+      "partOfSpeech": "noun",
+      "meaning1": "An official order given by a ruler or authority. Example: By royal edict, no one could leave the city after dark.",
+      "meaning2": "",
+      "studentChallenge": "The queen's ___ ordered all markets closed on holy days.",
+      "sentence": ""
+    },
+    {
+      "word": "dethrone",
+      "partOfSpeech": "verb",
+      "meaning1": "To remove a ruler from power. Example: The rebels hoped to dethrone the cruel king.",
+      "meaning2": "To defeat a champion or remove someone from a top position. Example: The young swimmer hoped to dethrone the reigning champion.",
+      "studentChallenge": "The upstart team hoped to ___ last year's champions.",
+      "sentence": ""
+    },
+    {
+      "word": "fervent",
+      "partOfSpeech": "adjective",
+      "meaning1": "Showing very strong, sincere feeling or enthusiasm. Example: She made a fervent promise to return home.",
+      "meaning2": "",
+      "studentChallenge": "The ___ fans cheered for hours after the victory.",
+      "sentence": ""
+    },
+    {
+      "word": "radical",
+      "partOfSpeech": "adjective, noun",
+      "meaning1": "Extreme; calling for sweeping change. Example: The radical plan would rebuild the entire school system.",
+      "meaning2": "A person who favors extreme change. Example: Once called a radical, she is now praised for her foresight.",
+      "studentChallenge": "The mayor proposed a ___ change: closing downtown to all cars.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The _______ was jailed for criticizing the government in a newspaper.",
+      "sentence2": "The _______ in the senate openly voted against her own party's leader.",
+      "options": [
+        "insurgent",
+        "manifesto",
+        "dissident",
+        "edict"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "dissident"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Years of unfair taxes finally erupted in a widespread _______ across the northern provinces.",
+      "sentence2": "Her purple hair was a small _______ against the strict dress code.",
+      "options": [
+        "rebellion",
+        "coup",
+        "edict",
+        "manifesto"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "rebellion"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The army spent months trying to capture the armed _______ hiding in the mountains.",
+      "sentence2": "Rural villagers fed and hid the _______ who fought the king's army.",
+      "options": [
+        "autocracy",
+        "sedition",
+        "manifesto",
+        "insurgent"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "insurgent"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Citizens of the _______ had no vote and no voice.",
+      "sentence2": "Power in the _______ belonged to one person alone.",
+      "options": [
+        "rebellion",
+        "autocracy",
+        "coup",
+        "manifesto"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "autocracy"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The old law punished _______, even a whispered call to resist the crown, with prison.",
+      "sentence2": "The pamphlet was banned for _______, since it urged citizens to disobey.",
+      "options": [
+        "coup",
+        "sedition",
+        "edict",
+        "manifesto"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "sedition"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Army officers seized the palace in a sudden _______ before sunrise.",
+      "sentence2": "Booking the famous scientist as speaker was a real _______ for our small school.",
+      "options": [
+        "rebellion",
+        "edict",
+        "manifesto",
+        "coup"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "coup"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The club's _______ explained its goals in six clear paragraphs.",
+      "sentence2": "She posted her _______ online, listing everything she hoped to change.",
+      "options": [
+        "manifesto",
+        "edict",
+        "sedition",
+        "coup"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "manifesto"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The empire tried to _______ every neighboring land by force.",
+      "sentence2": "No army could _______ a people who refused to give up their language.",
+      "options": [
+        "dethrone",
+        "fervent",
+        "subjugate",
+        "edict"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "subjugate"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The ruler's _______ forbade anyone to leave the city after dark.",
+      "sentence2": "The principal's _______ banned phones from every classroom.",
+      "options": [
+        "coup",
+        "insurgent",
+        "edict",
+        "rebellion"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "edict"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Rebels vowed to _______ the king and set up a council.",
+      "sentence2": "The young swimmer hoped to _______ the reigning champion at the finals.",
+      "options": [
+        "dethrone",
+        "subjugate",
+        "fervent",
+        "manifesto"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "dethrone"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Her _______ speech about saving the library brought the crowd to its feet.",
+      "sentence2": "He made a _______ promise to return to his village.",
+      "options": [
+        "radical",
+        "autocracy",
+        "insurgent",
+        "fervent"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "fervent"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The mayor's _______ plan would close downtown to cars forever.",
+      "sentence2": "The _______ reform would rebuild the whole school system from the ground up.",
+      "options": [
+        "fervent",
+        "radical",
+        "dissident",
+        "insurgent"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "radical"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "dissident",
+      "rebellion",
+      "insurgent",
+      "autocracy",
+      "sedition",
+      "coup",
+      "manifesto",
+      "subjugate",
+      "edict",
+      "dethrone",
+      "fervent",
+      "radical"
+    ],
+    "passage": "Ms. Reyes asked her class to imagine a kingdom called Tarsis. For generations it was an _(1)_, where one king made every law. Each new _(2)_ was nailed to the palace gate, and the army was sent to _(3)_ any village that resisted.\n\nA teacher named Ines, branded a _(4)_ for her opinions, wrote a _(5)_ that listed the people's demands. The palace called her words _(6)_ and ordered her arrest, but her pages had already spread. Soon an open _(7)_ swept the countryside. The armed _(8)_ in the hills wanted to storm the palace, and a few officers whispered of a _(9)_.\n\nInes, a _(10)_ believer in peaceful change, asked everyone to wait. The idea of a council elected by all was considered _(11)_ at the time. In the end, the people voted, and it was ballots, not battles, that helped to _(12)_ the king.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "autocracy",
+        "options": [
+          "edict",
+          "insurgent",
+          "coup",
+          "autocracy"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "edict",
+        "options": [
+          "edict",
+          "rebellion",
+          "insurgent",
+          "autocracy"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "subjugate",
+        "options": [
+          "dethrone",
+          "radical",
+          "subjugate",
+          "fervent"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "dissident",
+        "options": [
+          "edict",
+          "dissident",
+          "coup",
+          "rebellion"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "manifesto",
+        "options": [
+          "coup",
+          "rebellion",
+          "sedition",
+          "manifesto"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "sedition",
+        "options": [
+          "sedition",
+          "coup",
+          "manifesto",
+          "edict"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "rebellion",
+        "options": [
+          "coup",
+          "edict",
+          "rebellion",
+          "autocracy"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "insurgent",
+        "options": [
+          "manifesto",
+          "insurgent",
+          "edict",
+          "autocracy"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "coup",
+        "options": [
+          "manifesto",
+          "sedition",
+          "dissident",
+          "coup"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "fervent",
+        "options": [
+          "fervent",
+          "coup",
+          "edict",
+          "manifesto"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "radical",
+        "options": [
+          "fervent",
+          "insurgent",
+          "radical",
+          "autocracy"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "dethrone",
+        "options": [
+          "subjugate",
+          "dethrone",
+          "radical",
+          "edict"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "fervent",
+        "scale": [
+          "Keen",
+          "Passionate",
+          "Fervent"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "radical",
+        "scale": [
+          "Bold",
+          "Drastic",
+          "Radical"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "rebellion",
+        "scale": [
+          "Grumble",
+          "Protest",
+          "Rebellion"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "subjugate",
+        "scale": [
+          "Influence",
+          "Dominate",
+          "Subjugate"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "dissident",
+        "words": [
+          "Protester",
+          "Objector",
+          "Loyalist",
+          "Dissenter"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Loyalist"
+      },
+      {
+        "vocabWord": "insurgent",
+        "words": [
+          "Rebel",
+          "Mutineer",
+          "Guerrilla",
+          "Loyalist"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Loyalist"
+      },
+      {
+        "vocabWord": "autocracy",
+        "words": [
+          "Democracy",
+          "Dictatorship",
+          "Tyranny",
+          "Despotism"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Democracy"
+      },
+      {
+        "vocabWord": "edict",
+        "words": [
+          "Decree",
+          "Suggestion",
+          "Order",
+          "Command"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Suggestion"
+      },
+      {
+        "vocabWord": "dethrone",
+        "words": [
+          "Overthrow",
+          "Depose",
+          "Topple",
+          "Crown"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Crown"
+      },
+      {
+        "vocabWord": "coup",
+        "words": [
+          "Takeover",
+          "Overthrow",
+          "Election",
+          "Seizure"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Election"
+      },
+      {
+        "vocabWord": "sedition",
+        "words": [
+          "Treason",
+          "Loyalty",
+          "Mutiny",
+          "Insurrection"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Loyalty"
+      },
+      {
+        "vocabWord": "fervent",
+        "words": [
+          "Indifferent",
+          "Passionate",
+          "Zealous",
+          "Ardent"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Indifferent"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

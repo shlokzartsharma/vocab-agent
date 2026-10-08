@@ -1,0 +1,578 @@
+{
+  "grade": 2,
+  "setNumber": 5,
+  "words": [
+    "planet",
+    "rocket",
+    "astronaut",
+    "weightless",
+    "launch",
+    "countdown",
+    "blast",
+    "distant",
+    "mysterious",
+    "glimmer",
+    "constellation",
+    "comet"
+  ],
+  "sources": [
+    "Common Core Grade 2",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "moon rocket kids",
+  "story": {
+    "genre": "moon rocket kids",
+    "characters": [
+      "Zara",
+      "Owen",
+      "Luis"
+    ],
+    "parts": [
+      {
+        "title": "Our Cardboard Ship",
+        "text": "Zara, Owen, and Luis built a **rocket** from big cardboard boxes. They drew a red button and a blinking control panel with markers. Zara wanted to be an **astronaut** when she grew up. “Let’s visit a faraway **planet**,” said Owen. Luis climbed in and began the **countdown**. “Ten, nine, eight...”"
+      },
+      {
+        "title": "Blast Off",
+        "text": "“Three, two, one!” At zero, the ship would **launch**. Owen made a loud **blast** sound with his mouth, and a dog barked from the porch. The children pretended to float in their seats. They felt **weightless**, just like real space travelers."
+      },
+      {
+        "title": "Among the Stars",
+        "text": "Out the window, they saw a **distant** light. “A **comet**!” cried Zara. Luis pointed at a **constellation** shaped like a bear. A **glimmer** of silver came from a **mysterious** moon rock. Everyone stayed quiet to watch it shine."
+      },
+      {
+        "title": "Home Again",
+        "text": "Then Mom called them for dinner. The ship was only boxes, but the trip had felt real. Luis folded the boxes and set them by the door. They promised to fly again tomorrow."
+      }
+    ],
+    "wordCount": 162
+  },
+  "definitions": [
+    {
+      "word": "planet",
+      "partOfSpeech": "noun",
+      "meaning1": "A big round world that moves around a star like the sun. Example: Earth is the planet we live on.",
+      "meaning2": "",
+      "studentChallenge": "Mars is a red ___ that is far from the sun.",
+      "sentence": ""
+    },
+    {
+      "word": "rocket",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A tall machine that blasts up into space. Example: The rocket flew high above the clouds.",
+      "meaning2": "To move up or forward very fast. Example: The ball will rocket across the field.",
+      "studentChallenge": "The ___ soared up into the sky with a loud roar.",
+      "sentence": ""
+    },
+    {
+      "word": "astronaut",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who travels into space. Example: The astronaut waved from the window of the spaceship.",
+      "meaning2": "",
+      "studentChallenge": "My cousin wants to be an ___ and fly to the moon.",
+      "sentence": ""
+    },
+    {
+      "word": "weightless",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not feeling any pull from the ground, so you float. Example: In space, the astronaut felt weightless.",
+      "meaning2": "",
+      "studentChallenge": "In space, the pencil was ___ and floated in the air.",
+      "sentence": ""
+    },
+    {
+      "word": "launch",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To send something up into the air or into space. Example: They will launch the rocket on Friday.",
+      "meaning2": "The start of a flight. Example: We watched the launch on TV.",
+      "studentChallenge": "Workers will ___ the rocket at sunrise.",
+      "sentence": ""
+    },
+    {
+      "word": "countdown",
+      "partOfSpeech": "noun",
+      "meaning1": "Counting numbers backward before something starts. Example: The countdown began at ten.",
+      "meaning2": "",
+      "studentChallenge": "We counted along during the ___ before the rocket left.",
+      "sentence": ""
+    },
+    {
+      "word": "blast",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A strong rush of air or sound. Example: A blast of cold wind hit my face.",
+      "meaning2": "To shoot up or out with great force. Example: The rocket will blast off at noon.",
+      "studentChallenge": "We heard the loud ___ as the engines started.",
+      "sentence": ""
+    },
+    {
+      "word": "distant",
+      "partOfSpeech": "adjective",
+      "meaning1": "Far away. Example: A distant star twinkled in the night sky.",
+      "meaning2": "",
+      "studentChallenge": "We could only see tiny lights from the ___ city.",
+      "sentence": ""
+    },
+    {
+      "word": "mysterious",
+      "partOfSpeech": "adjective",
+      "meaning1": "Strange and hard to explain. Example: A mysterious light blinked in the dark cave.",
+      "meaning2": "",
+      "studentChallenge": "The ___ box had no name on it, and nobody knew what was inside.",
+      "sentence": ""
+    },
+    {
+      "word": "glimmer",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A small, soft flash of light. Example: I saw a glimmer of light under the door.",
+      "meaning2": "To shine with a faint, shaky light. Example: Stars glimmer in the night sky.",
+      "studentChallenge": "A tiny ___ of light shone from the far window.",
+      "sentence": ""
+    },
+    {
+      "word": "constellation",
+      "partOfSpeech": "noun",
+      "meaning1": "A group of stars that make a picture in the sky. Example: Dad showed me the constellation shaped like a big spoon.",
+      "meaning2": "",
+      "studentChallenge": "We found a ___ of stars that looked like a lion.",
+      "sentence": ""
+    },
+    {
+      "word": "comet",
+      "partOfSpeech": "noun",
+      "meaning1": "A ball of ice and dust in space with a long, bright tail. Example: The comet streaked across the sky.",
+      "meaning2": "",
+      "studentChallenge": "A bright ___ with a long tail flew past the moon.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Earth is the _______ we live on.",
+      "sentence2": "Mars is a red _______ far from the sun.",
+      "options": [
+        "comet",
+        "planet",
+        "rocket",
+        "astronaut"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "planet"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The _______ flew high above the clouds with a loud roar.",
+      "sentence2": "Workers filled the _______ with fuel before the trip to the moon.",
+      "options": [
+        "planet",
+        "comet",
+        "constellation",
+        "rocket"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "rocket"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The _______ waved from the window of the spaceship.",
+      "sentence2": "The _______ put on a heavy white suit before the trip.",
+      "options": [
+        "astronaut",
+        "planet",
+        "comet",
+        "rocket"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "astronaut"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "In space, the pencil was _______ and floated in the air.",
+      "sentence2": "She felt _______ for a moment at the top of the swing, as if she could float.",
+      "options": [
+        "distant",
+        "mysterious",
+        "weightless",
+        "comet"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "weightless"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Workers will _______ the rocket at sunrise.",
+      "sentence2": "We will _______ our toy boat from the dock.",
+      "options": [
+        "blast",
+        "glimmer",
+        "countdown",
+        "launch"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "launch"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "At the _______, we all shouted, “Three, two, one!”",
+      "sentence2": "The _______ began at ten and went all the way down to zero.",
+      "options": [
+        "planet",
+        "countdown",
+        "comet",
+        "glimmer"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "countdown"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "A _______ of cold wind hit my face when I opened the door.",
+      "sentence2": "We heard the loud _______ as the engines started.",
+      "options": [
+        "glimmer",
+        "countdown",
+        "blast",
+        "planet"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "blast"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The mountains were so _______ that they looked tiny.",
+      "sentence2": "A _______ star is much too far away to ever visit.",
+      "options": [
+        "distant",
+        "mysterious",
+        "weightless",
+        "comet"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "distant"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The _______ box had no name on it, and nobody knew what was inside.",
+      "sentence2": "A strange and _______ sound came from the empty attic.",
+      "options": [
+        "distant",
+        "weightless",
+        "mysterious",
+        "comet"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "mysterious"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "I saw a tiny _______ of light under the door.",
+      "sentence2": "A faint _______ of silver shone on the dark water.",
+      "options": [
+        "glimmer",
+        "blast",
+        "countdown",
+        "constellation"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "glimmer"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "We found a _______ of stars that looked like a lion.",
+      "sentence2": "Dad showed me the _______ shaped like a big spoon.",
+      "options": [
+        "planet",
+        "constellation",
+        "comet",
+        "rocket"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "constellation"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "A bright _______ with a long tail flew past the moon.",
+      "sentence2": "The _______ streaked across the night sky and was gone.",
+      "options": [
+        "planet",
+        "constellation",
+        "astronaut",
+        "comet"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "comet"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "planet",
+      "rocket",
+      "astronaut",
+      "weightless",
+      "launch",
+      "countdown",
+      "blast",
+      "distant",
+      "mysterious",
+      "glimmer",
+      "constellation",
+      "comet"
+    ],
+    "passage": "Last week, Luis visited a space museum with his class. In the first room, he stood next to a model _(1)_ as tall as a tree. A video showed one _(2)_ inside a space station. She looked _(3)_ as she floated over her desk.\nNext, a big screen showed the _(4)_, and the whole class shouted, “Three, two, one!” At zero, the film showed the _(5)_ of the ship, and a loud _(6)_ came from the speakers.\nIn the dark star room, the guide pointed to a _(7)_, a group of stars that looked like a crab. She said a bright _(8)_ passes Earth only once in many years. A tiny _(9)_ of light showed a star so _(10)_ that its light took years to reach us. She told the class about a _(11)_ with rings. Last, she played a _(12)_ sound that no one could explain.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "rocket",
+        "options": [
+          "glimmer",
+          "countdown",
+          "rocket",
+          "mysterious"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "astronaut",
+        "options": [
+          "astronaut",
+          "planet",
+          "comet",
+          "constellation"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "weightless",
+        "options": [
+          "distant",
+          "blast",
+          "launch",
+          "weightless"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "countdown",
+        "options": [
+          "glimmer",
+          "countdown",
+          "mysterious",
+          "distant"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "launch",
+        "options": [
+          "launch",
+          "glimmer",
+          "mysterious",
+          "weightless"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "blast",
+        "options": [
+          "glimmer",
+          "comet",
+          "blast",
+          "distant"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "constellation",
+        "options": [
+          "countdown",
+          "constellation",
+          "blast",
+          "launch"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "comet",
+        "options": [
+          "weightless",
+          "countdown",
+          "blast",
+          "comet"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "glimmer",
+        "options": [
+          "countdown",
+          "rocket",
+          "astronaut",
+          "glimmer"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "distant",
+        "options": [
+          "weightless",
+          "distant",
+          "comet",
+          "rocket"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "planet",
+        "options": [
+          "planet",
+          "countdown",
+          "blast",
+          "glimmer"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "mysterious",
+        "options": [
+          "weightless",
+          "blast",
+          "mysterious",
+          "launch"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "distant",
+        "scale": [
+          "Near",
+          "Far",
+          "Distant"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "mysterious",
+        "scale": [
+          "Odd",
+          "Strange",
+          "Mysterious"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "glimmer",
+        "scale": [
+          "Glimmer",
+          "Glow",
+          "Blaze"
+        ],
+        "vocabPosition": 0
+      },
+      {
+        "vocabWord": "blast",
+        "scale": [
+          "Puff",
+          "Gust",
+          "Blast"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "weightless",
+        "words": [
+          "Floating",
+          "Heavy",
+          "Light",
+          "Airy"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Heavy"
+      },
+      {
+        "vocabWord": "distant",
+        "words": [
+          "Far",
+          "Faraway",
+          "Remote",
+          "Near"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Near"
+      },
+      {
+        "vocabWord": "mysterious",
+        "words": [
+          "Ordinary",
+          "Strange",
+          "Puzzling",
+          "Odd"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Ordinary"
+      },
+      {
+        "vocabWord": "launch",
+        "words": [
+          "Send",
+          "Fire",
+          "Land",
+          "Shoot"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Land"
+      },
+      {
+        "vocabWord": "glimmer",
+        "words": [
+          "Sparkle",
+          "Twinkle",
+          "Darkness",
+          "Flash"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Darkness"
+      },
+      {
+        "vocabWord": "blast",
+        "words": [
+          "Puff",
+          "Burst",
+          "Explosion",
+          "Gust"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Puff"
+      },
+      {
+        "vocabWord": "rocket",
+        "words": [
+          "Zoom",
+          "Race",
+          "Speed",
+          "Crawl"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Crawl"
+      },
+      {
+        "vocabWord": "constellation",
+        "words": [
+          "Cluster",
+          "Lone star",
+          "Group",
+          "Pattern"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Lone star"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

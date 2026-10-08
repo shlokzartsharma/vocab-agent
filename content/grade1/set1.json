@@ -1,0 +1,578 @@
+{
+  "grade": 1,
+  "setNumber": 1,
+  "words": [
+    "gather",
+    "nibble",
+    "gentle",
+    "dash",
+    "peek",
+    "sleepy",
+    "snuggle",
+    "wiggle",
+    "puddle",
+    "bounce",
+    "tidy",
+    "bundle"
+  ],
+  "sources": [
+    "Common Core Grade 1",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "farm morning",
+  "story": {
+    "genre": "farm morning",
+    "characters": [
+      "Mia",
+      "Omar",
+      "Ruby"
+    ],
+    "parts": [
+      {
+        "title": "A Sleepy Start",
+        "text": "The sun came up over the farm. Mia was **sleepy**, but she pulled on her boots. Omar and Ruby waited by the barn. “Let’s **gather** the eggs,” said Omar."
+      },
+      {
+        "title": "The Hen House",
+        "text": "Ruby opened the little door. Mia used a **gentle** hand to lift each warm egg. A baby goat came to **nibble** her sleeve. Omar took a **peek** into a nest and found a chick. It began to **wiggle** in his hands."
+      },
+      {
+        "title": "Rain and Mud",
+        "text": "Then the rain began. Ruby saw a big **puddle** by the gate. The goat gave a **bounce** and ran off in a **dash**. Back in the barn, Omar made a **tidy** pile of straw. Ruby put the chick in a **bundle** of hay, and it loved to **snuggle** close to Mia."
+      },
+      {
+        "title": "A Happy Morning",
+        "text": "The rain stopped. The eggs were safe in the basket. The friends ate warm toast in the barn. It was a happy morning."
+      }
+    ],
+    "wordCount": 144
+  },
+  "definitions": [
+    {
+      "word": "gather",
+      "partOfSpeech": "verb",
+      "meaning1": "To bring things together in one place. Example: We gather the toys and put them in a box.",
+      "meaning2": "",
+      "studentChallenge": "Please ___ the leaves into one big pile.",
+      "sentence": ""
+    },
+    {
+      "word": "nibble",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To eat with small, quick bites. Example: The bunny likes to nibble a carrot.",
+      "meaning2": "A very small bite. Example: I took a nibble of the cracker.",
+      "studentChallenge": "The mouse will ___ on a bit of cheese.",
+      "sentence": ""
+    },
+    {
+      "word": "gentle",
+      "partOfSpeech": "adjective",
+      "meaning1": "Soft and kind, not rough. Example: Be gentle with the baby kitten.",
+      "meaning2": "",
+      "studentChallenge": "Pet the puppy with a ___ hand.",
+      "sentence": ""
+    },
+    {
+      "word": "dash",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To run very fast for a short way. Example: I dash to the door when the bell rings.",
+      "meaning2": "A short, fast run. Example: She made a dash for the swing.",
+      "studentChallenge": "We must ___ to the bus stop or we will miss the bus.",
+      "sentence": ""
+    },
+    {
+      "word": "peek",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To take a quick look, often at something hidden. Example: I peek out the window to see the snow.",
+      "meaning2": "A quick look. Example: Take a peek in the box.",
+      "studentChallenge": "She will ___ through the door to see who is there.",
+      "sentence": ""
+    },
+    {
+      "word": "sleepy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Ready to go to sleep; tired. Example: I feel sleepy after a long day.",
+      "meaning2": "",
+      "studentChallenge": "The ___ puppy yawned and closed its eyes.",
+      "sentence": ""
+    },
+    {
+      "word": "snuggle",
+      "partOfSpeech": "verb",
+      "meaning1": "To get close and cozy. Example: I snuggle with my dog under a blanket.",
+      "meaning2": "",
+      "studentChallenge": "The kittens ___ together in the warm basket.",
+      "sentence": ""
+    },
+    {
+      "word": "wiggle",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To move up and down or side to side in small, quick ways. Example: The worm will wiggle in the dirt.",
+      "meaning2": "A small, quick move. Example: The puppy did a happy wiggle.",
+      "studentChallenge": "My loose tooth began to ___.",
+      "sentence": ""
+    },
+    {
+      "word": "puddle",
+      "partOfSpeech": "noun",
+      "meaning1": "A small pool of water on the ground. Example: I jumped in the puddle after the rain.",
+      "meaning2": "",
+      "studentChallenge": "After the rain, there was a ___ on the sidewalk.",
+      "sentence": ""
+    },
+    {
+      "word": "bounce",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To spring back up after hitting something. Example: The ball will bounce when you drop it.",
+      "meaning2": "A jump or spring. Example: The ball has a high bounce.",
+      "studentChallenge": "Watch the rubber ball ___ off the floor.",
+      "sentence": ""
+    },
+    {
+      "word": "tidy",
+      "partOfSpeech": "adjective, verb",
+      "meaning1": "Neat, with everything in its place. Example: Her room is tidy, and her books are on the shelf.",
+      "meaning2": "To make a place neat. Example: Please tidy your desk.",
+      "studentChallenge": "I like to keep my room ___ and clean.",
+      "sentence": ""
+    },
+    {
+      "word": "bundle",
+      "partOfSpeech": "noun",
+      "meaning1": "A group of things tied or wrapped together. Example: Dad carried a bundle of sticks for the fire.",
+      "meaning2": "",
+      "studentChallenge": "She tied the flowers into a small ___.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "We will _______ the toys and put them in the box.",
+      "sentence2": "The children _______ eggs from the hen house each morning.",
+      "options": [
+        "sleepy",
+        "gather",
+        "puddle",
+        "tidy"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "gather"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The bunny likes to _______ on a green leaf.",
+      "sentence2": "I only _______ a small bite of the hot soup.",
+      "options": [
+        "nibble",
+        "puddle",
+        "gentle",
+        "bundle"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "nibble"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Be _______ when you pet the baby kitten.",
+      "sentence2": "The nurse spoke in a soft, _______ voice.",
+      "options": [
+        "dash",
+        "bundle",
+        "puddle",
+        "gentle"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "gentle"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "I had to _______ to the door when the bell rang.",
+      "sentence2": "We must _______ to the bus stop or we will be late.",
+      "options": [
+        "sleepy",
+        "tidy",
+        "dash",
+        "gentle"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "dash"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "She opened the box a little to _______ inside.",
+      "sentence2": "Please let me _______ out the window to see the snow.",
+      "options": [
+        "puddle",
+        "peek",
+        "sleepy",
+        "tidy"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "peek"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "After the long walk, the puppy felt very _______.",
+      "sentence2": "I get _______ when it is late at night.",
+      "options": [
+        "sleepy",
+        "puddle",
+        "nibble",
+        "bundle"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "sleepy"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The kittens like to _______ together in a warm basket.",
+      "sentence2": "I _______ under my blanket and listen to a story.",
+      "options": [
+        "gentle",
+        "puddle",
+        "sleepy",
+        "snuggle"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "snuggle"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "My loose tooth began to _______ when I touched it.",
+      "sentence2": "The little worm will _______ across the dirt.",
+      "options": [
+        "sleepy",
+        "bundle",
+        "wiggle",
+        "tidy"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "wiggle"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "After the rain, there was a big _______ by the gate.",
+      "sentence2": "The duck splashed in the _______ and flapped its wings.",
+      "options": [
+        "gather",
+        "puddle",
+        "wiggle",
+        "gentle"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "puddle"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Watch the red ball _______ when I drop it.",
+      "sentence2": "The kids love to _______ on the big trampoline.",
+      "options": [
+        "bounce",
+        "tidy",
+        "puddle",
+        "sleepy"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "bounce"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Her room is _______, and every book is on the shelf.",
+      "sentence2": "Please help me _______ the table after lunch.",
+      "options": [
+        "puddle",
+        "nibble",
+        "peek",
+        "tidy"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "tidy"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Dad carried a _______ of sticks for the fire.",
+      "sentence2": "She tied the flowers into a small _______ with a ribbon.",
+      "options": [
+        "sleepy",
+        "gentle",
+        "bundle",
+        "tidy"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "bundle"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "gather",
+      "nibble",
+      "gentle",
+      "dash",
+      "peek",
+      "sleepy",
+      "snuggle",
+      "wiggle",
+      "puddle",
+      "bounce",
+      "tidy",
+      "bundle"
+    ],
+    "passage": "On Sunday, Ruby went to see the new lambs. She felt _(1)_, but she did not want to miss them. The grass was wet, and there was a big _(2)_ by the gate. Ruby stood on her toes to _(3)_ over the fence.\n\nTwo lambs began to _(4)_ around the pen. “Be _(5)_,” said Dad, “because they are small.” A third lamb came to _(6)_ at Ruby’s glove. She laughed and tried not to _(7)_. Then she saw the farmer’s _(8)_ of fresh hay.\n\nRuby helped _(9)_ the hay and spread it on the floor. Soon the barn was _(10)_. When the farmer called, the lambs made a quick _(11)_ for the hay. At last they lay down to _(12)_ together in the warm barn.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "sleepy",
+        "options": [
+          "gather",
+          "sleepy",
+          "puddle",
+          "nibble"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "puddle",
+        "options": [
+          "puddle",
+          "gather",
+          "gentle",
+          "sleepy"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "peek",
+        "options": [
+          "sleepy",
+          "gentle",
+          "puddle",
+          "peek"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "bounce",
+        "options": [
+          "gentle",
+          "sleepy",
+          "bounce",
+          "puddle"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "gentle",
+        "options": [
+          "puddle",
+          "gentle",
+          "gather",
+          "bundle"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "nibble",
+        "options": [
+          "nibble",
+          "sleepy",
+          "gentle",
+          "puddle"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "wiggle",
+        "options": [
+          "gentle",
+          "bundle",
+          "sleepy",
+          "wiggle"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "bundle",
+        "options": [
+          "sleepy",
+          "gentle",
+          "bundle",
+          "gather"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "gather",
+        "options": [
+          "sleepy",
+          "gather",
+          "gentle",
+          "puddle"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "tidy",
+        "options": [
+          "tidy",
+          "gather",
+          "peek",
+          "snuggle"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "dash",
+        "options": [
+          "sleepy",
+          "gentle",
+          "tidy",
+          "dash"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "snuggle",
+        "options": [
+          "sleepy",
+          "gentle",
+          "snuggle",
+          "puddle"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "tidy",
+        "scale": [
+          "Messy",
+          "Tidy",
+          "Spotless"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "sleepy",
+        "scale": [
+          "Awake",
+          "Sleepy",
+          "Asleep"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "dash",
+        "scale": [
+          "Walk",
+          "Run",
+          "Dash"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "nibble",
+        "scale": [
+          "Nibble",
+          "Bite",
+          "Gobble"
+        ],
+        "vocabPosition": 0
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "gather",
+        "words": [
+          "Collect",
+          "Scatter",
+          "Pick up",
+          "Group"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Scatter"
+      },
+      {
+        "vocabWord": "gentle",
+        "words": [
+          "Soft",
+          "Kind",
+          "Calm",
+          "Rough"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Rough"
+      },
+      {
+        "vocabWord": "sleepy",
+        "words": [
+          "Tired",
+          "Drowsy",
+          "Awake",
+          "Yawning"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Awake"
+      },
+      {
+        "vocabWord": "dash",
+        "words": [
+          "Run",
+          "Rush",
+          "Race",
+          "Crawl"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Crawl"
+      },
+      {
+        "vocabWord": "tidy",
+        "words": [
+          "Messy",
+          "Neat",
+          "Clean",
+          "Spotless"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Messy"
+      },
+      {
+        "vocabWord": "peek",
+        "words": [
+          "Glance",
+          "Look",
+          "Peep",
+          "Look away"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Look away"
+      },
+      {
+        "vocabWord": "snuggle",
+        "words": [
+          "Cuddle",
+          "Hug",
+          "Pull away",
+          "Nestle"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Pull away"
+      },
+      {
+        "vocabWord": "bounce",
+        "words": [
+          "Hop",
+          "Stop",
+          "Spring",
+          "Jump"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Stop"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

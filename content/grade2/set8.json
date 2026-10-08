@@ -1,0 +1,578 @@
+{
+  "grade": 2,
+  "setNumber": 8,
+  "words": [
+    "compass",
+    "chest",
+    "buried",
+    "clue",
+    "shovel",
+    "daring",
+    "puzzled",
+    "rowboat",
+    "lagoon",
+    "cliff",
+    "spyglass",
+    "shimmer"
+  ],
+  "sources": [
+    "Common Core Grade 2",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "island treasure hunt",
+  "story": {
+    "genre": "island treasure hunt",
+    "characters": [
+      "Ruth",
+      "Tomas",
+      "Amara"
+    ],
+    "parts": [
+      {
+        "title": "The Old Map",
+        "text": "Ruth, Tomas, and Amara found an old map in a bottle on the beach. It showed an island with a red X. The three friends climbed into a **rowboat** and rowed across the bay. Ruth held a **compass** so they would not get lost. Soon they reached a quiet **lagoon**, where the water began to **shimmer** in the sun."
+      },
+      {
+        "title": "Following the Clues",
+        "text": "Amara looked through a **spyglass** at the tall **cliff** ahead. Tomas felt **puzzled** by the first **clue**, which read, “Walk where the wind meets the stone.” After a while, Ruth figured it out, and they climbed the path."
+      },
+      {
+        "title": "The Big Dig",
+        "text": "At the top, they found a flat spot of sand with an X on it. Tomas, who was always **daring**, grabbed the **shovel** they had packed and started to dig. A wooden **chest** was **buried** under the sand! Inside lay a pile of shiny shells and a note that said, “The best treasure is the friends you bring.”"
+      },
+      {
+        "title": "Back Home",
+        "text": "The friends laughed and carried the shells back to the boat. They had not found gold, but they had shared a great adventure. They agreed to draw a new map of their own next time."
+      }
+    ],
+    "wordCount": 190
+  },
+  "definitions": [
+    {
+      "word": "compass",
+      "partOfSpeech": "noun",
+      "meaning1": "A tool with a needle that points north and helps you find your way. Example: The hikers used a compass to find the trail.",
+      "meaning2": "",
+      "studentChallenge": "The sailor looked at his ___ to see which way was north.",
+      "sentence": ""
+    },
+    {
+      "word": "chest",
+      "partOfSpeech": "noun",
+      "meaning1": "A large, strong box with a lid, used to keep things safe. Example: The old chest was filled with toys.",
+      "meaning2": "The front part of your body between your neck and your stomach. Example: The doctor listened to my chest.",
+      "studentChallenge": "The pirate locked the gold in a wooden ___.",
+      "sentence": ""
+    },
+    {
+      "word": "buried",
+      "partOfSpeech": "adjective, verb",
+      "meaning1": "Hidden under the ground or under sand. Example: The buried bone was under the old oak tree.",
+      "meaning2": "Covered up by something. Example: My toys were buried under a pile of clothes.",
+      "studentChallenge": "The pirate’s gold was ___ deep in the sand.",
+      "sentence": ""
+    },
+    {
+      "word": "clue",
+      "partOfSpeech": "noun",
+      "meaning1": "A hint that helps you solve a mystery or a puzzle. Example: The muddy footprint was a clue to who took the cookies.",
+      "meaning2": "",
+      "studentChallenge": "The detective found a ___ near the window.",
+      "sentence": ""
+    },
+    {
+      "word": "shovel",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A tool with a long handle and a flat blade for digging. Example: I dug a hole in the garden with a shovel.",
+      "meaning2": "To dig or move something with a shovel. Example: We shovel snow off the path.",
+      "studentChallenge": "Dad used a ___ to dig a hole for the new tree.",
+      "sentence": ""
+    },
+    {
+      "word": "daring",
+      "partOfSpeech": "adjective",
+      "meaning1": "Brave and ready to try new or risky things. Example: The daring climber reached the top of the rock.",
+      "meaning2": "",
+      "studentChallenge": "The ___ girl jumped off the high diving board.",
+      "sentence": ""
+    },
+    {
+      "word": "puzzled",
+      "partOfSpeech": "adjective",
+      "meaning1": "Confused because something is hard to understand. Example: I felt puzzled by the tricky riddle.",
+      "meaning2": "",
+      "studentChallenge": "She looked ___ when she could not find her shoe.",
+      "sentence": ""
+    },
+    {
+      "word": "rowboat",
+      "partOfSpeech": "noun",
+      "meaning1": "A small boat that you move with oars. Example: We crossed the pond in a rowboat.",
+      "meaning2": "",
+      "studentChallenge": "Dad pulled hard on the oars of the little ___.",
+      "sentence": ""
+    },
+    {
+      "word": "lagoon",
+      "partOfSpeech": "noun",
+      "meaning1": "A shallow pool of calm water near the sea. Example: Colorful fish swam in the calm lagoon.",
+      "meaning2": "",
+      "studentChallenge": "We splashed in the warm, calm ___ near the beach.",
+      "sentence": ""
+    },
+    {
+      "word": "cliff",
+      "partOfSpeech": "noun",
+      "meaning1": "A high, steep wall of rock, often next to the sea. Example: Waves crashed against the cliff.",
+      "meaning2": "",
+      "studentChallenge": "The hiker stood at the edge of the tall ___.",
+      "sentence": ""
+    },
+    {
+      "word": "spyglass",
+      "partOfSpeech": "noun",
+      "meaning1": "A small telescope that makes faraway things look closer. Example: The captain used a spyglass to spot the ship.",
+      "meaning2": "",
+      "studentChallenge": "Look through the ___ to see the faraway ship.",
+      "sentence": ""
+    },
+    {
+      "word": "shimmer",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To shine with a soft, flickering light. Example: The lake began to shimmer in the sunlight.",
+      "meaning2": "A soft, wavering light. Example: There was a shimmer on the water.",
+      "studentChallenge": "The stars seem to ___ in the night sky.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The sailor checked his _______ to see which way was north.",
+      "sentence2": "Without a _______, the hikers could not tell which trail to take.",
+      "options": [
+        "chest",
+        "compass",
+        "shovel",
+        "clue"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "compass"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The pirate locked all his gold inside a heavy wooden _______.",
+      "sentence2": "The toys were kept inside a big _______ at the foot of the bed.",
+      "options": [
+        "chest",
+        "cliff",
+        "shovel",
+        "rowboat"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "chest"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The pirate’s gold was _______ deep under the sand.",
+      "sentence2": "My toys were _______ under a pile of clothes.",
+      "options": [
+        "puzzled",
+        "daring",
+        "shimmer",
+        "buried"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "buried"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The detective found a _______ near the open window.",
+      "sentence2": "Each _______ on the map led them one step closer to the treasure.",
+      "options": [
+        "chest",
+        "lagoon",
+        "clue",
+        "cliff"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "clue"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Dad used a _______ to dig a hole for the new tree.",
+      "sentence2": "We will _______ the snow off the path after the storm.",
+      "options": [
+        "compass",
+        "shovel",
+        "clue",
+        "chest"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "shovel"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The _______ climber was not afraid to try the steep rock wall.",
+      "sentence2": "It was a _______ plan, but she was brave enough to try it.",
+      "options": [
+        "daring",
+        "puzzled",
+        "buried",
+        "lagoon"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "daring"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "She looked _______ when she could not find her shoe.",
+      "sentence2": "He felt _______ by the tricky riddle and read it again.",
+      "options": [
+        "daring",
+        "buried",
+        "shimmer",
+        "puzzled"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "puzzled"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Dad pulled hard on the oars of the little _______.",
+      "sentence2": "We crossed the calm pond in a _______ with two seats.",
+      "options": [
+        "lagoon",
+        "cliff",
+        "rowboat",
+        "compass"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "rowboat"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "We splashed in the warm, calm _______ near the beach.",
+      "sentence2": "Small colorful fish swam in the quiet _______.",
+      "options": [
+        "cliff",
+        "lagoon",
+        "rowboat",
+        "chest"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "lagoon"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The hiker stood at the edge of the tall _______.",
+      "sentence2": "Waves crashed against the steep _______ below the lighthouse.",
+      "options": [
+        "cliff",
+        "lagoon",
+        "spyglass",
+        "shovel"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "cliff"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The captain looked through his _______ to see the faraway ship.",
+      "sentence2": "A small _______ made the distant birds look much closer.",
+      "options": [
+        "compass",
+        "clue",
+        "chest",
+        "spyglass"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "spyglass"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The stars seem to _______ in the dark night sky.",
+      "sentence2": "The lake began to _______ in the bright sunlight.",
+      "options": [
+        "shovel",
+        "buried",
+        "shimmer",
+        "puzzled"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "shimmer"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "compass",
+      "chest",
+      "buried",
+      "clue",
+      "shovel",
+      "daring",
+      "puzzled",
+      "rowboat",
+      "lagoon",
+      "cliff",
+      "spyglass",
+      "shimmer"
+    ],
+    "passage": "Kai and his sister Lila found a torn map in an old book. It showed an island with a red X. They rowed across the bay in a little _(1)_. Kai held a _(2)_ so they would know which way to go. The water in the _(3)_ began to _(4)_ in the sun.\nOn the shore, Lila looked through a _(5)_ at the high _(6)_ ahead. The first _(7)_ on the map was hard to read, and Kai felt _(8)_. Then Lila figured it out.\nKai was the more _(9)_ of the two, so he took the _(10)_ and began to dig. Soon he hit something hard. A wooden _(11)_ was _(12)_ under the sand!",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "rowboat",
+        "options": [
+          "cliff",
+          "chest",
+          "rowboat",
+          "shovel"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "compass",
+        "options": [
+          "clue",
+          "compass",
+          "lagoon",
+          "cliff"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "lagoon",
+        "options": [
+          "lagoon",
+          "cliff",
+          "compass",
+          "shovel"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "shimmer",
+        "options": [
+          "buried",
+          "puzzled",
+          "daring",
+          "shimmer"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "spyglass",
+        "options": [
+          "compass",
+          "clue",
+          "spyglass",
+          "chest"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "cliff",
+        "options": [
+          "lagoon",
+          "cliff",
+          "rowboat",
+          "spyglass"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "clue",
+        "options": [
+          "clue",
+          "chest",
+          "shovel",
+          "cliff"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "puzzled",
+        "options": [
+          "daring",
+          "buried",
+          "shimmer",
+          "puzzled"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "daring",
+        "options": [
+          "buried",
+          "lagoon",
+          "daring",
+          "clue"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "shovel",
+        "options": [
+          "clue",
+          "shovel",
+          "chest",
+          "spyglass"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "chest",
+        "options": [
+          "chest",
+          "rowboat",
+          "lagoon",
+          "cliff"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "buried",
+        "options": [
+          "daring",
+          "puzzled",
+          "shimmer",
+          "buried"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "shimmer",
+        "scale": [
+          "Glint",
+          "Shimmer",
+          "Blaze"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "puzzled",
+        "scale": [
+          "Curious",
+          "Puzzled",
+          "Confused"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "daring",
+        "scale": [
+          "Careful",
+          "Brave",
+          "Daring"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "lagoon",
+        "scale": [
+          "Puddle",
+          "Lagoon",
+          "Ocean"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "buried",
+        "words": [
+          "Hidden",
+          "Uncovered",
+          "Covered",
+          "Tucked away"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Uncovered"
+      },
+      {
+        "vocabWord": "daring",
+        "words": [
+          "Timid",
+          "Brave",
+          "Bold",
+          "Fearless"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Timid"
+      },
+      {
+        "vocabWord": "puzzled",
+        "words": [
+          "Confused",
+          "Unsure",
+          "Mixed-up",
+          "Certain"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Certain"
+      },
+      {
+        "vocabWord": "shimmer",
+        "words": [
+          "Sparkle",
+          "Glitter",
+          "Dull",
+          "Gleam"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Dull"
+      },
+      {
+        "vocabWord": "cliff",
+        "words": [
+          "Rock wall",
+          "Valley",
+          "Ledge",
+          "Peak"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Valley"
+      },
+      {
+        "vocabWord": "lagoon",
+        "words": [
+          "Desert",
+          "Pool",
+          "Pond",
+          "Bay"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Desert"
+      },
+      {
+        "vocabWord": "spyglass",
+        "words": [
+          "Telescope",
+          "Lens",
+          "Binoculars",
+          "Blindfold"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Blindfold"
+      },
+      {
+        "vocabWord": "clue",
+        "words": [
+          "Hint",
+          "Sign",
+          "Secret",
+          "Tip"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Secret"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

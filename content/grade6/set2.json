@@ -1,0 +1,577 @@
+{
+  "grade": 6,
+  "setNumber": 2,
+  "words": [
+    "rival",
+    "stamina",
+    "rookie",
+    "sluggish",
+    "spectator",
+    "forfeit",
+    "rally",
+    "sportsmanship",
+    "fluke",
+    "defy",
+    "elite",
+    "vigorous"
+  ],
+  "sources": [
+    "Common Core Grade 6",
+    "Tier 2 Academic"
+  ],
+  "genre": "sports competition",
+  "story": {
+    "genre": "sports competition",
+    "characters": [
+      "Jordan",
+      "Keisha",
+      "Diego"
+    ],
+    "parts": [
+      {
+        "title": "Championship Morning",
+        "text": "Jordan had joined the Eastside Hawks only that fall, a **rookie** surrounded by veterans. Today the team faced the Northgate Tigers, their oldest **rival** and an **elite** squad that had not lost in two seasons. Keisha, the captain, had spent weeks building everyone's **stamina** with dawn laps around the field, and she reminded them that heart mattered as much as talent."
+      },
+      {
+        "title": "A Rough Start",
+        "text": "By halftime the Hawks trailed 2-0, and their legs felt **sluggish**, heavy as wet sand. From the stands, every **spectator** in orange seemed to be cheering for Northgate. The first Tiger goal had been a **fluke**, a ball skipping off a puddle and past Diego, the Hawks' goalkeeper. In the huddle, Keisha grinned. \"They think the scoreboard is final. Let's **defy** it.\""
+      },
+      {
+        "title": "The Turn",
+        "text": "In the second half, the Hawks began to **rally**. Jordan chased every loose ball with **vigorous** sprints and finally curled a shot into the corner. Then the Tigers' only goalkeeper twisted his ankle, and without a replacement, Northgate would have to **forfeit** the match, handing the Hawks the trophy. Keisha refused to win that way. Diego passed his spare gloves to a Tiger defender willing to play goal, an act of true **sportsmanship**."
+      },
+      {
+        "title": "Sharing the Trophy",
+        "text": "The game ended in a 3-3 tie, and both teams shared the trophy. The Tigers' captain shook every Hawk's hand and said it was the best match she had played all year. Jordan realized that winning feels wonderful, but the way you play stays with you far longer than any score."
+      }
+    ],
+    "wordCount": 247
+  },
+  "definitions": [
+    {
+      "word": "rival",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A person or team competing against another for the same goal. Example: The two schools had been rivals in every sport for decades.",
+      "meaning2": "To be as good as; to equal. Example: No other chef in town can rival her skill with bread.",
+      "studentChallenge": "The Tigers were the Hawks' biggest ___ and always played their hardest against them.",
+      "sentence": ""
+    },
+    {
+      "word": "stamina",
+      "partOfSpeech": "noun",
+      "meaning1": "The strength and energy to keep doing something hard for a long time. Example: Marathon runners need great stamina to finish the race.",
+      "meaning2": "",
+      "studentChallenge": "Swimming ten laps without stopping showed how much ___ she had built.",
+      "sentence": ""
+    },
+    {
+      "word": "rookie",
+      "partOfSpeech": "noun",
+      "meaning1": "A beginner, especially a first-year player on a sports team. Example: The rookie scored her first goal in her very first game.",
+      "meaning2": "A person who is new to a job or activity. Example: The rookie firefighter learned something new every day.",
+      "studentChallenge": "The ___ on the baseball team was nervous before his very first game.",
+      "sentence": ""
+    },
+    {
+      "word": "sluggish",
+      "partOfSpeech": "adjective",
+      "meaning1": "Slow-moving and lacking energy. Example: After a big lunch, I felt sluggish all afternoon.",
+      "meaning2": "Slow to react or change. Example: The sluggish economy made it hard for shops to grow.",
+      "studentChallenge": "After a restless night, she felt ___ and could barely lift her backpack.",
+      "sentence": ""
+    },
+    {
+      "word": "spectator",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who watches an event without taking part in it. Example: Every spectator in the stadium rose to cheer the winning goal.",
+      "meaning2": "",
+      "studentChallenge": "Each ___ clapped as the runners crossed the finish line.",
+      "sentence": ""
+    },
+    {
+      "word": "forfeit",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To give up the right to something, such as a game, because of a rule or a failure to follow it. Example: The team had to forfeit the game when only four players showed up.",
+      "meaning2": "Something lost or given up as a penalty. Example: The forfeit of her badge was the price for breaking the rules.",
+      "studentChallenge": "If only three players show up, the team will have to ___ the game.",
+      "sentence": ""
+    },
+    {
+      "word": "rally",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To come together or recover energy to make a new effort, especially after falling behind. Example: The team began to rally in the final quarter.",
+      "meaning2": "A large gathering of people to support a cause. Example: Hundreds of students attended the rally for cleaner parks.",
+      "studentChallenge": "After a slow start, the players began to ___ and score point after point.",
+      "sentence": ""
+    },
+    {
+      "word": "sportsmanship",
+      "partOfSpeech": "noun",
+      "meaning1": "Fair, polite, and respectful behavior in games, whether you win or lose. Example: The captain showed good sportsmanship by shaking hands with the winners.",
+      "meaning2": "",
+      "studentChallenge": "She showed good ___ by congratulating the team that had just beaten her.",
+      "sentence": ""
+    },
+    {
+      "word": "fluke",
+      "partOfSpeech": "noun",
+      "meaning1": "A lucky or unlikely event that happens by chance. Example: Winning the raffle was a fluke; she had never won anything before.",
+      "meaning2": "",
+      "studentChallenge": "Making the shot with his eyes closed was a ___ he could never repeat.",
+      "sentence": ""
+    },
+    {
+      "word": "defy",
+      "partOfSpeech": "verb",
+      "meaning1": "To openly refuse to obey or to resist someone. Example: The rebels vowed to defy the king's unfair order.",
+      "meaning2": "To seem to make something impossible by going beyond the usual limits. Example: Her high jumps seem to defy gravity.",
+      "studentChallenge": "The team wanted to ___ the odds and win despite being the underdog.",
+      "sentence": ""
+    },
+    {
+      "word": "elite",
+      "partOfSpeech": "adjective, noun",
+      "meaning1": "Among the best; of the highest quality or skill. Example: Only elite swimmers qualify for the national meet.",
+      "meaning2": "A group of the very best people. Example: She trained hard to join the elite of the sport.",
+      "studentChallenge": "The ___ gymnast had won medals at every major competition.",
+      "sentence": ""
+    },
+    {
+      "word": "vigorous",
+      "partOfSpeech": "adjective",
+      "meaning1": "Done with great energy and strength. Example: A vigorous workout left everyone sweaty and tired.",
+      "meaning2": "",
+      "studentChallenge": "The coach called for a ___ warm-up with sprints and jumping jacks.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The Tigers had been the Hawks' biggest _______ for three seasons.",
+      "sentence2": "No other skater in the state can _______ her speed on the ice.",
+      "options": [
+        "rookie",
+        "rival",
+        "spectator",
+        "fluke"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "rival"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Marathon runners build _______ with months of long, steady training.",
+      "sentence2": "The old horse had so much _______ that it pulled the cart all day without rest.",
+      "options": [
+        "fluke",
+        "sportsmanship",
+        "rally",
+        "stamina"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "stamina"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "As the only _______ on the squad, Jordan felt nervous about playing alongside veterans.",
+      "sentence2": "The _______ police officer double-checked every step on her first day.",
+      "options": [
+        "rookie",
+        "rival",
+        "spectator",
+        "elite"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "rookie"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "After the long trip, the whole team felt _______ and slow.",
+      "sentence2": "The _______ stream barely moved through the muddy field.",
+      "options": [
+        "vigorous",
+        "elite",
+        "sluggish",
+        "rookie"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "sluggish"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Every _______ in the stadium stood up to cheer for the winning goal.",
+      "sentence2": "Shy at first, Omar preferred to be a _______ rather than play.",
+      "options": [
+        "spectator",
+        "rookie",
+        "fluke",
+        "stamina"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "spectator"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "A team that arrives late must _______ the match.",
+      "sentence2": "If you break the rules of the contest, you may _______ your prize.",
+      "options": [
+        "rally",
+        "forfeit",
+        "defy",
+        "rival"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "forfeit"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Down by ten points, the team began to _______ in the last quarter.",
+      "sentence2": "Students will _______ behind their classmate to raise money for the shelter.",
+      "options": [
+        "forfeit",
+        "defy",
+        "rally",
+        "rival"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "rally"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The captain showed great _______ by shaking hands with the winners.",
+      "sentence2": "A coach's most important lesson is _______, treating opponents with respect even after a loss.",
+      "options": [
+        "sportsmanship",
+        "stamina",
+        "fluke",
+        "rival"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "sportsmanship"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Winning with a shot that bounced off the wall was pure _______.",
+      "sentence2": "The scientist insisted the single strange result was a _______, not a pattern.",
+      "options": [
+        "stamina",
+        "spectator",
+        "rival",
+        "fluke"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "fluke"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The rebels vowed to _______ the king's unfair order.",
+      "sentence2": "Her high jumps seem to _______ gravity.",
+      "options": [
+        "forfeit",
+        "defy",
+        "rival",
+        "rally"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "defy"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Only _______ athletes, the very best in the country, earn a place on the national team.",
+      "sentence2": "The city's _______ chefs gathered for the cooking festival.",
+      "options": [
+        "sluggish",
+        "rookie",
+        "elite",
+        "fluke"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "elite"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "A _______ workout left everyone sweaty and tired.",
+      "sentence2": "The senator gave a _______ defense of the new law.",
+      "options": [
+        "sluggish",
+        "vigorous",
+        "fluke",
+        "rookie"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "vigorous"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "rival",
+      "stamina",
+      "rookie",
+      "sluggish",
+      "spectator",
+      "forfeit",
+      "rally",
+      "sportsmanship",
+      "fluke",
+      "defy",
+      "elite",
+      "vigorous"
+    ],
+    "passage": "Marcus had trained all winter for the regional relay. On the first night of the meet, he looked around the huge stadium, where every _(1)_ in the stands seemed to be waving a banner. As a _(2)_, Marcus worried that he did not belong among the older runners.\n\nHis biggest _(3)_ was a fast runner named Cole from Lakeview, a member of the _(4)_ squad that had won three state titles. Marcus had built his _(5)_ with early-morning laps, but his legs still felt _(6)_ after the long bus ride.\n\nLakeview took a big lead on the first leg. Marcus's teammate answered with a _(7)_ sprint, pumping her arms hard, and the crowd began to _(8)_ behind the team. Then, by pure _(9)_, Cole's baton bounced out of his lane. Under the rules, Lakeview could have been forced to _(10)_ the race, but Marcus picked up the baton and handed it back, showing true _(11)_.\n\nMarcus finished second that night, proud that he had decided to _(12)_ everyone who said a beginner could never keep up.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "spectator",
+        "options": [
+          "rival",
+          "rookie",
+          "spectator",
+          "fluke"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "rookie",
+        "options": [
+          "rookie",
+          "spectator",
+          "rival",
+          "fluke"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "rival",
+        "options": [
+          "spectator",
+          "rookie",
+          "stamina",
+          "rival"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "elite",
+        "options": [
+          "sluggish",
+          "elite",
+          "vigorous",
+          "fluke"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "stamina",
+        "options": [
+          "sportsmanship",
+          "fluke",
+          "stamina",
+          "rally"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "sluggish",
+        "options": [
+          "sluggish",
+          "vigorous",
+          "elite",
+          "rookie"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "vigorous",
+        "options": [
+          "sluggish",
+          "rookie",
+          "spectator",
+          "vigorous"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "rally",
+        "options": [
+          "forfeit",
+          "rally",
+          "defy",
+          "rival"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "fluke",
+        "options": [
+          "fluke",
+          "stamina",
+          "sportsmanship",
+          "rival"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "forfeit",
+        "options": [
+          "rally",
+          "defy",
+          "forfeit",
+          "rival"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "sportsmanship",
+        "options": [
+          "stamina",
+          "sportsmanship",
+          "fluke",
+          "rival"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "defy",
+        "options": [
+          "forfeit",
+          "rally",
+          "spectator",
+          "defy"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "sluggish",
+        "scale": [
+          "Tired",
+          "Sluggish",
+          "Lifeless"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "vigorous",
+        "scale": [
+          "Active",
+          "Energetic",
+          "Vigorous"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "elite",
+        "scale": [
+          "Skilled",
+          "Expert",
+          "Elite"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "defy",
+        "scale": [
+          "Question",
+          "Resist",
+          "Defy"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "rival",
+        "words": [
+          "Opponent",
+          "Competitor",
+          "Challenger",
+          "Teammate"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Teammate"
+      },
+      {
+        "vocabWord": "stamina",
+        "words": [
+          "Endurance",
+          "Fatigue",
+          "Energy",
+          "Fortitude"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Fatigue"
+      },
+      {
+        "vocabWord": "spectator",
+        "words": [
+          "Participant",
+          "Observer",
+          "Onlooker",
+          "Viewer"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Participant"
+      },
+      {
+        "vocabWord": "rookie",
+        "words": [
+          "Beginner",
+          "Novice",
+          "Veteran",
+          "Newcomer"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Veteran"
+      },
+      {
+        "vocabWord": "rally",
+        "words": [
+          "Recover",
+          "Regroup",
+          "Revive",
+          "Collapse"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Collapse"
+      },
+      {
+        "vocabWord": "fluke",
+        "words": [
+          "Accident",
+          "Design",
+          "Chance",
+          "Fortune"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Design"
+      },
+      {
+        "vocabWord": "forfeit",
+        "words": [
+          "Claim",
+          "Surrender",
+          "Relinquish",
+          "Concede"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Claim"
+      },
+      {
+        "vocabWord": "sportsmanship",
+        "words": [
+          "Fairness",
+          "Honor",
+          "Cheating",
+          "Respect"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Cheating"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

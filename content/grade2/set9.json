@@ -1,0 +1,578 @@
+{
+  "grade": 2,
+  "setNumber": 9,
+  "words": [
+    "feather",
+    "twig",
+    "hatch",
+    "nestle",
+    "warble",
+    "speckled",
+    "fledgling",
+    "weave",
+    "mossy",
+    "tuft",
+    "preen",
+    "sway"
+  ],
+  "sources": [
+    "Common Core Grade 2",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "bird watching walk",
+  "story": {
+    "genre": "bird watching walk",
+    "characters": [
+      "Wren",
+      "Isaac",
+      "Mei"
+    ],
+    "parts": [
+      {
+        "title": "Into the Woods",
+        "text": "Wren, Isaac, and Mei went on a bird watching walk with a notebook and a pair of binoculars. The path was soft and **mossy**, and the tall trees began to **sway** in the breeze. Mei picked up a blue **feather** from the ground. “A bird must have dropped this,” she said."
+      },
+      {
+        "title": "The Nest",
+        "text": "Isaac heard a bird **warble** a sweet song high above them. They looked up and saw a nest in the branches. The mother bird was busy trying to **weave** one more **twig** into its side. Three **speckled** eggs sat inside, and the mother would **nestle** down over them to keep them warm."
+      },
+      {
+        "title": "A Little Surprise",
+        "text": "A week later, the children came back and saw one egg starting to **hatch**. By summer, a young **fledgling** stood on the edge of the nest, flapping its wings. A **tuft** of soft fluff still stuck up on its head. Nearby, the mother bird began to **preen**, smoothing her wing with her beak."
+      },
+      {
+        "title": "Quiet and Patient",
+        "text": "The children said goodbye to the little bird. Isaac wrote in his notebook, “Be quiet and patient, and nature will show you wonderful things.” Mei agreed. They walked home, already planning their next trip."
+      }
+    ],
+    "wordCount": 190
+  },
+  "definitions": [
+    {
+      "word": "feather",
+      "partOfSpeech": "noun",
+      "meaning1": "One of the light, soft parts that cover a bird’s body. Example: A blue feather floated down from the tree.",
+      "meaning2": "",
+      "studentChallenge": "The bird lost a soft gray ___ near the pond.",
+      "sentence": ""
+    },
+    {
+      "word": "twig",
+      "partOfSpeech": "noun",
+      "meaning1": "A small, thin branch of a tree. Example: The bird carried a twig to its nest.",
+      "meaning2": "",
+      "studentChallenge": "I snapped a dry ___ off the branch.",
+      "sentence": ""
+    },
+    {
+      "word": "hatch",
+      "partOfSpeech": "verb",
+      "meaning1": "To break out of an egg. Example: The chicks will hatch in three weeks.",
+      "meaning2": "To think up a plan. Example: The twins hatch a plan for a surprise party.",
+      "studentChallenge": "Baby ducks ___ from their eggs.",
+      "sentence": ""
+    },
+    {
+      "word": "nestle",
+      "partOfSpeech": "verb",
+      "meaning1": "To settle down in a cozy, snug place. Example: The kitten likes to nestle in my lap.",
+      "meaning2": "",
+      "studentChallenge": "I like to ___ under a warm blanket and read.",
+      "sentence": ""
+    },
+    {
+      "word": "warble",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To sing with quick, changing notes, like a bird. Example: Robins warble in the early morning.",
+      "meaning2": "A soft, singing sound made by a bird. Example: I heard a happy warble outside my window.",
+      "studentChallenge": "Listen to the little bird ___ in the tree.",
+      "sentence": ""
+    },
+    {
+      "word": "speckled",
+      "partOfSpeech": "adjective",
+      "meaning1": "Covered with small spots. Example: The speckled egg was brown and white.",
+      "meaning2": "",
+      "studentChallenge": "The ___ hen had black dots all over her back.",
+      "sentence": ""
+    },
+    {
+      "word": "fledgling",
+      "partOfSpeech": "noun",
+      "meaning1": "A young bird that is just learning to fly. Example: The fledgling hopped from branch to branch.",
+      "meaning2": "",
+      "studentChallenge": "The ___ flapped its wings on the edge of the nest.",
+      "sentence": ""
+    },
+    {
+      "word": "weave",
+      "partOfSpeech": "verb",
+      "meaning1": "To pass strips of material over and under each other to make something. Example: We weave paper strips to make a mat.",
+      "meaning2": "",
+      "studentChallenge": "Grandma will ___ a basket from long reeds.",
+      "sentence": ""
+    },
+    {
+      "word": "mossy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Covered with soft, green moss. Example: The mossy log was cool and damp.",
+      "meaning2": "",
+      "studentChallenge": "I sat on a ___ rock beside the stream.",
+      "sentence": ""
+    },
+    {
+      "word": "tuft",
+      "partOfSpeech": "noun",
+      "meaning1": "A small bunch of hair, grass, or fluff growing close together. Example: A tuft of fur stuck out on the cat’s head.",
+      "meaning2": "",
+      "studentChallenge": "A ___ of grass grew in the crack of the sidewalk.",
+      "sentence": ""
+    },
+    {
+      "word": "preen",
+      "partOfSpeech": "verb",
+      "meaning1": "To clean and smooth feathers with the beak. Example: The duck stopped to preen after its swim.",
+      "meaning2": "To make yourself look neat. Example: My brother likes to preen before the mirror.",
+      "studentChallenge": "The pigeon will ___ its wings in the sun.",
+      "sentence": ""
+    },
+    {
+      "word": "sway",
+      "partOfSpeech": "verb",
+      "meaning1": "To move slowly back and forth. Example: The tall trees sway in the wind.",
+      "meaning2": "",
+      "studentChallenge": "The branches ___ gently in the breeze.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The bird lost a soft gray _______ near the pond.",
+      "sentence2": "A blue _______ floated down from the tree and landed in my hand.",
+      "options": [
+        "twig",
+        "feather",
+        "fledgling",
+        "sway"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "feather"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The bird carried a tiny _______ to build its nest.",
+      "sentence2": "I snapped a dry _______ off the branch.",
+      "options": [
+        "twig",
+        "feather",
+        "tuft",
+        "mossy"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "twig"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The chicks will _______ from their eggs in three weeks.",
+      "sentence2": "The twins like to _______ a plan for a surprise party.",
+      "options": [
+        "preen",
+        "sway",
+        "warble",
+        "hatch"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "hatch"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The kitten likes to _______ in my lap.",
+      "sentence2": "I love to _______ under a warm blanket on cold nights.",
+      "options": [
+        "sway",
+        "hatch",
+        "nestle",
+        "preen"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "nestle"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Robins _______ sweet songs from the tree each morning.",
+      "sentence2": "Listen to the little bird _______ high above us.",
+      "options": [
+        "preen",
+        "warble",
+        "weave",
+        "sway"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "warble"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The _______ egg was brown with tiny white dots.",
+      "sentence2": "The _______ trout had little spots all over its back.",
+      "options": [
+        "speckled",
+        "mossy",
+        "fledgling",
+        "tuft"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "speckled"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The _______ hopped from branch to branch, learning to fly.",
+      "sentence2": "A young _______ flapped its wings on the edge of the nest.",
+      "options": [
+        "feather",
+        "twig",
+        "tuft",
+        "fledgling"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "fledgling"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Grandma will _______ a basket from long strips of grass.",
+      "sentence2": "We can _______ paper strips over and under to make a mat.",
+      "options": [
+        "hatch",
+        "sway",
+        "weave",
+        "warble"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "weave"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "I sat on a _______ rock beside the stream.",
+      "sentence2": "The _______ log was soft, green, and damp.",
+      "options": [
+        "speckled",
+        "mossy",
+        "twig",
+        "sway"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "mossy"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "A _______ of grass grew through the crack in the sidewalk.",
+      "sentence2": "A _______ of soft fluff stuck up on the chick’s head.",
+      "options": [
+        "tuft",
+        "feather",
+        "twig",
+        "fledgling"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "tuft"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The duck stopped to _______ its wings after swimming.",
+      "sentence2": "My brother likes to _______ in front of the mirror before school.",
+      "options": [
+        "hatch",
+        "warble",
+        "weave",
+        "preen"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "preen"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The tall trees _______ in the wind.",
+      "sentence2": "The swing began to _______ back and forth.",
+      "options": [
+        "hatch",
+        "warble",
+        "sway",
+        "nestle"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "sway"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "feather",
+      "twig",
+      "hatch",
+      "nestle",
+      "warble",
+      "speckled",
+      "fledgling",
+      "weave",
+      "mossy",
+      "tuft",
+      "preen",
+      "sway"
+    ],
+    "passage": "Last spring, Pablo and his grandma went on a bird walk. The path was soft and _(1)_ under their boots, and the branches began to _(2)_ in the wind. Pablo found a white _(3)_ lying on the ground. High above, a bird began to _(4)_ a cheerful tune.\nThey spotted a nest. A mother bird was trying to _(5)_ a thin _(6)_ into the edge of it. Inside were two _(7)_ eggs. “Soon they will _(8)_,” whispered Grandma. The mother would _(9)_ down over them to keep them warm.\nIn June, a _(10)_ stood at the edge of the nest, ready to fly. A _(11)_ of fluff stuck up on its head. The mother bird began to _(12)_, smoothing her wing. Pablo smiled.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "mossy",
+        "options": [
+          "speckled",
+          "hatch",
+          "mossy",
+          "preen"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "sway",
+        "options": [
+          "hatch",
+          "sway",
+          "tuft",
+          "speckled"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "feather",
+        "options": [
+          "feather",
+          "fledgling",
+          "sway",
+          "weave"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "warble",
+        "options": [
+          "preen",
+          "nestle",
+          "hatch",
+          "warble"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "weave",
+        "options": [
+          "hatch",
+          "speckled",
+          "weave",
+          "tuft"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "twig",
+        "options": [
+          "fledgling",
+          "twig",
+          "mossy",
+          "sway"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "speckled",
+        "options": [
+          "speckled",
+          "mossy",
+          "tuft",
+          "feather"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "hatch",
+        "options": [
+          "weave",
+          "mossy",
+          "fledgling",
+          "hatch"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "nestle",
+        "options": [
+          "hatch",
+          "preen",
+          "nestle",
+          "tuft"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "fledgling",
+        "options": [
+          "feather",
+          "fledgling",
+          "twig",
+          "tuft"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "tuft",
+        "options": [
+          "tuft",
+          "feather",
+          "twig",
+          "mossy"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "preen",
+        "options": [
+          "nestle",
+          "warble",
+          "weave",
+          "preen"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "warble",
+        "scale": [
+          "Hum",
+          "Sing",
+          "Warble"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "sway",
+        "scale": [
+          "Tremble",
+          "Sway",
+          "Toss"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "speckled",
+        "scale": [
+          "Plain",
+          "Speckled",
+          "Spotted"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "fledgling",
+        "scale": [
+          "Chick",
+          "Fledgling",
+          "Adult"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "hatch",
+        "words": [
+          "Emerge",
+          "Stay inside",
+          "Break out",
+          "Come out"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Stay inside"
+      },
+      {
+        "vocabWord": "weave",
+        "words": [
+          "Unravel",
+          "Braid",
+          "Knit",
+          "Twist"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Unravel"
+      },
+      {
+        "vocabWord": "preen",
+        "words": [
+          "Groom",
+          "Smooth",
+          "Clean",
+          "Ruffle"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Ruffle"
+      },
+      {
+        "vocabWord": "sway",
+        "words": [
+          "Rock",
+          "Swing",
+          "Stand still",
+          "Wobble"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Stand still"
+      },
+      {
+        "vocabWord": "warble",
+        "words": [
+          "Chirp",
+          "Silence",
+          "Sing",
+          "Trill"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Silence"
+      },
+      {
+        "vocabWord": "speckled",
+        "words": [
+          "Plain",
+          "Dotted",
+          "Spotted",
+          "Flecked"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Plain"
+      },
+      {
+        "vocabWord": "mossy",
+        "words": [
+          "Green",
+          "Fuzzy",
+          "Damp",
+          "Bare"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Bare"
+      },
+      {
+        "vocabWord": "nestle",
+        "words": [
+          "Snuggle",
+          "Cuddle",
+          "Move away",
+          "Settle"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Move away"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

@@ -1,0 +1,578 @@
+{
+  "grade": 7,
+  "setNumber": 7,
+  "words": [
+    "apprentice",
+    "scholar",
+    "blueprint",
+    "patron",
+    "commission",
+    "devise",
+    "pigment",
+    "chisel",
+    "mentor",
+    "zealous",
+    "eccentric",
+    "rigorous"
+  ],
+  "sources": [
+    "Common Core Grade 7",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "Renaissance workshop",
+  "story": {
+    "genre": "Renaissance workshop",
+    "characters": [
+      "Giulia",
+      "Pablo",
+      "Noor"
+    ],
+    "parts": [
+      {
+        "title": "The Master's Door",
+        "text": "Giulia had waited years to become an **apprentice** in the busiest workshop in Florence. On her first morning, the master, an **eccentric** sculptor who wore two different shoes and chatted with his statues, handed her a broom. Pablo, who had joined a year earlier, promised to be her **mentor** and show her the daily routine. In the corner, Noor, a visiting **scholar** from Cairo, spent hours translating old books about geometry."
+      },
+      {
+        "title": "Grinding and Carving",
+        "text": "Her first job was to grind colored stones into **pigment**, the fine powder that painters mixed into their paints. Next Pablo handed her a **chisel** and a scrap of marble to practice on. The master's training was **rigorous**; he made her redo a single line twenty times until it was perfect. Giulia was **zealous**, arriving before sunrise and staying until the candles burned low, because she wanted to prove she belonged."
+      },
+      {
+        "title": "The Big Order",
+        "text": "One afternoon a wealthy **patron**, a banker who paid artists to decorate his family's chapel, swept in. He placed a **commission** for a marble fountain, due in one year. The master asked Giulia to **devise** a way to move the heavy stone through the narrow streets. She sketched a **blueprint** of ropes, rollers and wooden ramps, and Noor checked her measurements using the math in her ancient books. The master studied the drawing for a long time, then nodded."
+      },
+      {
+        "title": "A Fountain Rises",
+        "text": "Months later, the fountain stood in the chapel courtyard, water sparkling over the smooth white stone. Giulia learned that talent mattered, but patience, practice and good teachers mattered just as much. She smiled at the crowd, already dreaming of her next project."
+      }
+    ],
+    "wordCount": 263
+  },
+  "definitions": [
+    {
+      "word": "apprentice",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A person who learns a skill or trade by working for a skilled expert. Example: The baker's apprentice learned to knead dough before sunrise.",
+      "meaning2": "To work as a learner under an expert. Example: She decided to apprentice with a local blacksmith.",
+      "studentChallenge": "A young ___ spent years learning the trade from a master.",
+      "sentence": ""
+    },
+    {
+      "word": "scholar",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who has studied a subject deeply and knows a great deal about it. Example: The scholar spent years translating ancient poems.",
+      "meaning2": "A student who receives money to help pay for school. Example: She became a scholar at the music academy thanks to a generous award.",
+      "studentChallenge": "The ___ spent his whole life studying old manuscripts.",
+      "sentence": ""
+    },
+    {
+      "word": "blueprint",
+      "partOfSpeech": "noun",
+      "meaning1": "A detailed plan or drawing showing how something will be built. Example: The architect showed us the blueprint for the new library.",
+      "meaning2": "A model or guide for doing something. Example: Her success became a blueprint for other young entrepreneurs.",
+      "studentChallenge": "The builder studied the ___ before laying the first brick.",
+      "sentence": ""
+    },
+    {
+      "word": "patron",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who gives money or support to an artist, cause or organization. Example: The wealthy patron paid for a new wing of the museum.",
+      "meaning2": "A regular customer of a shop or restaurant. Example: The cafe's most loyal patron visits every morning.",
+      "studentChallenge": "The rich ___ paid the artist to paint a portrait of her family.",
+      "sentence": ""
+    },
+    {
+      "word": "commission",
+      "partOfSpeech": "noun",
+      "meaning1": "A formal order for a piece of work, especially art, with payment promised. Example: The museum gave the sculptor a commission to design a statue for its entrance.",
+      "meaning2": "A fee paid to a salesperson for each sale made. Example: The salesperson earns a commission on every car she sells.",
+      "studentChallenge": "The painter was thrilled to win a ___ to decorate the palace ceiling.",
+      "sentence": ""
+    },
+    {
+      "word": "devise",
+      "partOfSpeech": "verb",
+      "meaning1": "To think up or invent a plan or method. Example: The students had to devise a way to cross the stream without getting wet.",
+      "meaning2": "",
+      "studentChallenge": "Can you ___ a plan to fix the leaky roof before the rain?",
+      "sentence": ""
+    },
+    {
+      "word": "pigment",
+      "partOfSpeech": "noun",
+      "meaning1": "A colored powder that is mixed with liquid to make paint or dye. Example: The artist ground a red stone into pigment.",
+      "meaning2": "The natural substance that gives color to skin, hair or plants. Example: Chlorophyll is the green pigment in leaves.",
+      "studentChallenge": "The painter mixed the blue ___ with oil to make paint.",
+      "sentence": ""
+    },
+    {
+      "word": "chisel",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A tool with a sharp flat edge used to cut or shape stone, wood or metal. Example: He tapped the chisel with a hammer to carve a pattern in the wood.",
+      "meaning2": "To cut or shape something with such a tool. Example: The sculptor began to chisel a face out of the marble block.",
+      "studentChallenge": "The carver tapped the sharp ___ to shape the stone.",
+      "sentence": ""
+    },
+    {
+      "word": "mentor",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "An experienced person who gives advice and guidance to someone with less experience. Example: My swim coach has been a mentor to me for three years.",
+      "meaning2": "To guide and advise someone with less experience. Example: Older students mentor the new kids during their first week.",
+      "studentChallenge": "A wise ___ helped the young designer learn the craft.",
+      "sentence": ""
+    },
+    {
+      "word": "zealous",
+      "partOfSpeech": "adjective",
+      "meaning1": "Full of energy and enthusiasm for a cause or goal. Example: The zealous volunteers worked all weekend to clean the beach.",
+      "meaning2": "",
+      "studentChallenge": "The ___ fans waited in line for twelve hours to see the show.",
+      "sentence": ""
+    },
+    {
+      "word": "eccentric",
+      "partOfSpeech": "adjective, noun",
+      "meaning1": "Unusual or odd in a harmless, often interesting way. Example: Our eccentric neighbor wears a top hat while gardening.",
+      "meaning2": "A person with unusual habits. Example: The town thought of him as a lovable eccentric.",
+      "studentChallenge": "The ___ professor wore mismatched socks and talked to his plants.",
+      "sentence": ""
+    },
+    {
+      "word": "rigorous",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very strict, careful and thorough. Example: The astronauts went through rigorous training before the mission.",
+      "meaning2": "",
+      "studentChallenge": "The ___ tests left no room for mistakes.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Each _______ swept the floors and mixed glue long before touching a tool.",
+      "sentence2": "The baker's _______ was paid in lessons and a place to sleep rather than coins.",
+      "options": [
+        "patron",
+        "blueprint",
+        "pigment",
+        "apprentice"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "apprentice"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The _______ spent decades studying ancient maps and translating forgotten languages.",
+      "sentence2": "As a respected _______, she was invited to lecture at universities across Europe.",
+      "options": [
+        "patron",
+        "pigment",
+        "scholar",
+        "commission"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "scholar"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Before building the bridge, the engineers drew a detailed _______ on a large sheet.",
+      "sentence2": "The coach followed a clear _______ for building a winning team.",
+      "options": [
+        "pigment",
+        "blueprint",
+        "chisel",
+        "mentor"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "blueprint"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The wealthy _______ paid the painter to decorate the chapel walls.",
+      "sentence2": "As a loyal _______ of the little cafe, he ate lunch there every day.",
+      "options": [
+        "patron",
+        "commission",
+        "pigment",
+        "chisel"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "patron"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The queen gave the sculptor a _______ to carve a statue for the palace garden.",
+      "sentence2": "The salesperson earns a _______ every time she sells a car.",
+      "options": [
+        "pigment",
+        "scholar",
+        "eccentric",
+        "commission"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "commission"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Engineers must _______ a clever way to lift the heavy stone.",
+      "sentence2": "Can you _______ a plan to finish the project before Friday?",
+      "options": [
+        "chisel",
+        "mentor",
+        "devise",
+        "pigment"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "devise"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Crushed blue stones made a rich _______ for the painter.",
+      "sentence2": "The _______ in your skin decides how dark or light it looks.",
+      "options": [
+        "chisel",
+        "pigment",
+        "blueprint",
+        "patron"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "pigment"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "She tapped the sharp _______ gently to peel a thin curl from the wood.",
+      "sentence2": "Woodworkers keep a sharp _______ beside their hammer.",
+      "options": [
+        "chisel",
+        "blueprint",
+        "pigment",
+        "patron"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "chisel"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Every senior on the team will _______ one new player this season.",
+      "sentence2": "She volunteered to _______ younger students and guide them through flight school.",
+      "options": [
+        "devise",
+        "chisel",
+        "scholar",
+        "mentor"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "mentor"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The _______ volunteers were so eager that they begged for extra shifts.",
+      "sentence2": "His _______ devotion to the cause meant he never missed a single meeting.",
+      "options": [
+        "eccentric",
+        "rigorous",
+        "zealous",
+        "patron"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "zealous"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The _______ inventor wore a cape and kept a goat in his kitchen.",
+      "sentence2": "People thought her _______ habits, like painting at midnight, were strange but charming.",
+      "options": [
+        "zealous",
+        "eccentric",
+        "rigorous",
+        "apprentice"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "eccentric"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The _______ training schedule left the athletes sore and exhausted every night.",
+      "sentence2": "Scientists used _______ tests to make sure the results were accurate.",
+      "options": [
+        "rigorous",
+        "zealous",
+        "eccentric",
+        "commission"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "rigorous"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "apprentice",
+      "scholar",
+      "blueprint",
+      "patron",
+      "commission",
+      "devise",
+      "pigment",
+      "chisel",
+      "mentor",
+      "zealous",
+      "eccentric",
+      "rigorous"
+    ],
+    "passage": "Years later, Giulia wrote about the workshop. She began as a new _(1)_, sweeping floors, and Pablo was a patient _(2)_ who corrected every mistake. The master was a very _(3)_ man who wore a feathered hat in the summer heat, but his teaching was _(4)_, and nothing less than perfect was accepted.\n\nShe remembered grinding bright blue stones into _(5)_ and tapping at marble with a _(6)_. When a rich _(7)_ offered a _(8)_ for a chapel fountain, the master asked her to _(9)_ a way to move the stone. She drew a _(10)_ so clear that even the visiting _(11)_, who read ancient books, approved. Her _(12)_ spirit, always first to arrive and last to leave, had finally paid off.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "apprentice",
+        "options": [
+          "apprentice",
+          "scholar",
+          "patron",
+          "chisel"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "mentor",
+        "options": [
+          "blueprint",
+          "pigment",
+          "mentor",
+          "commission"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "eccentric",
+        "options": [
+          "eccentric",
+          "zealous",
+          "chisel",
+          "patron"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "rigorous",
+        "options": [
+          "eccentric",
+          "pigment",
+          "rigorous",
+          "scholar"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "pigment",
+        "options": [
+          "pigment",
+          "blueprint",
+          "chisel",
+          "commission"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "chisel",
+        "options": [
+          "pigment",
+          "blueprint",
+          "chisel",
+          "scholar"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "patron",
+        "options": [
+          "patron",
+          "apprentice",
+          "pigment",
+          "blueprint"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "commission",
+        "options": [
+          "pigment",
+          "apprentice",
+          "commission",
+          "zealous"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "devise",
+        "options": [
+          "devise",
+          "chisel",
+          "commission",
+          "mentor"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "blueprint",
+        "options": [
+          "commission",
+          "pigment",
+          "blueprint",
+          "chisel"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "scholar",
+        "options": [
+          "scholar",
+          "apprentice",
+          "patron",
+          "chisel"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "zealous",
+        "options": [
+          "eccentric",
+          "rigorous",
+          "zealous",
+          "scholar"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "zealous",
+        "scale": [
+          "Willing",
+          "Eager",
+          "Zealous"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "rigorous",
+        "scale": [
+          "Careful",
+          "Thorough",
+          "Rigorous"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "eccentric",
+        "scale": [
+          "Different",
+          "Quirky",
+          "Eccentric"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "apprentice",
+        "scale": [
+          "Novice",
+          "Apprentice",
+          "Master"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "scholar",
+        "words": [
+          "Ignoramus",
+          "Intellectual",
+          "Academic",
+          "Expert"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Ignoramus"
+      },
+      {
+        "vocabWord": "blueprint",
+        "words": [
+          "Plan",
+          "Design",
+          "Draft",
+          "Accident"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Accident"
+      },
+      {
+        "vocabWord": "patron",
+        "words": [
+          "Sponsor",
+          "Backer",
+          "Opponent",
+          "Supporter"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Opponent"
+      },
+      {
+        "vocabWord": "devise",
+        "words": [
+          "Invent",
+          "Destroy",
+          "Create",
+          "Design"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Destroy"
+      },
+      {
+        "vocabWord": "pigment",
+        "words": [
+          "Bleach",
+          "Dye",
+          "Tint",
+          "Colorant"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Bleach"
+      },
+      {
+        "vocabWord": "mentor",
+        "words": [
+          "Guide",
+          "Coach",
+          "Adviser",
+          "Pupil"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Pupil"
+      },
+      {
+        "vocabWord": "zealous",
+        "words": [
+          "Eager",
+          "Passionate",
+          "Indifferent",
+          "Fervent"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Indifferent"
+      },
+      {
+        "vocabWord": "eccentric",
+        "words": [
+          "Odd",
+          "Ordinary",
+          "Quirky",
+          "Unusual"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Ordinary"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

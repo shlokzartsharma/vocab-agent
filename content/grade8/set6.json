@@ -1,0 +1,578 @@
+{
+  "grade": 8,
+  "setNumber": 6,
+  "words": [
+    "manor",
+    "enigma",
+    "clandestine",
+    "reclusive",
+    "decadent",
+    "aristocrat",
+    "ostentatious",
+    "furtive",
+    "cryptic",
+    "inherit",
+    "parlor",
+    "scandal"
+  ],
+  "sources": [
+    "Common Core Grade 8",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "old mansion mystery",
+  "story": {
+    "genre": "old mansion mystery",
+    "characters": [
+      "Beatrix",
+      "Julian",
+      "Anaya"
+    ],
+    "parts": [
+      {
+        "title": "The Letter",
+        "text": "A lawyer's letter changed Beatrix's spring break. Her great-aunt Odalys had died, and Beatrix and her cousin Julian were to **inherit** Ravenscroft **manor**, a gray stone house on the moors. Their neighbor Anaya, a gifted puzzle-solver, came along. Nobody in the family had visited in years, because Odalys had grown **reclusive**, shutting her gates to visitors and rarely stepping outside."
+      },
+      {
+        "title": "The Portrait",
+        "text": "In the **parlor**, a portrait showed an **aristocrat** in a velvet coat, an ancestor who had once ruled the county's high society. The house still reflected his **decadent** tastes: gilded mirrors, a ceiling crowded with painted cherubs, and a dining table set for forty. Julian shrugged at the **ostentatious** display of wealth. \"This place was built to impress people,\" he muttered."
+      },
+      {
+        "title": "The Riddle",
+        "text": "Anaya noticed that the portrait hung slightly crooked. Behind it was a folded note with a **cryptic** message: \"The truth sleeps where the clock forgets to tick.\" It was an **enigma** they could not put down. They found a stopped grandfather clock in the library, and inside its base lay a hidden drawer of ledgers. Odalys had run a **clandestine** scholarship fund for decades, paying school fees for local children while the family assumed she hoarded her money. When Mr. Pell, the lawyer, arrived that evening and saw the open drawer, he gave a **furtive** glance toward the door, as if guarding a secret. Years earlier, a **scandal** had cracked the family's name: a newspaper rumor that Odalys had stolen from the estate."
+      },
+      {
+        "title": "The Truth",
+        "text": "The cousins decided to keep the fund running, and Mr. Pell confirmed that Odalys had refused to correct the rumor. Beatrix thought about how easily a rumor can harden into fact. The quietest person in the family had been its most generous, and the proof had been hiding behind a crooked frame all along."
+      }
+    ],
+    "wordCount": 298
+  },
+  "definitions": [
+    {
+      "word": "manor",
+      "partOfSpeech": "noun",
+      "meaning1": "A large country house with land around it, often the home of a wealthy family. Example: The old manor sat at the end of a long, tree-lined road.",
+      "meaning2": "In the past, the land and village controlled by a lord. Example: Farmers on the medieval manor paid rent to the lord in grain.",
+      "studentChallenge": "The family lived in a stately ___ surrounded by acres of gardens and woods.",
+      "sentence": ""
+    },
+    {
+      "word": "enigma",
+      "partOfSpeech": "noun",
+      "meaning1": "A person, thing or situation that is mysterious and hard to understand. Example: The missing painting remained an enigma to the detectives.",
+      "meaning2": "",
+      "studentChallenge": "Nobody could explain why the lighthouse lamp turned on by itself; it was a true ___.",
+      "sentence": ""
+    },
+    {
+      "word": "clandestine",
+      "partOfSpeech": "adjective",
+      "meaning1": "Done in secret, usually because it is forbidden or meant to be hidden. Example: The rebels held clandestine meetings in a cellar.",
+      "meaning2": "",
+      "studentChallenge": "The friends planned a ___ surprise party and told no one.",
+      "sentence": ""
+    },
+    {
+      "word": "reclusive",
+      "partOfSpeech": "adjective",
+      "meaning1": "Preferring to live alone and avoid other people. Example: The reclusive author never gave interviews.",
+      "meaning2": "",
+      "studentChallenge": "Her ___ neighbor rarely left the house and never came to the block party.",
+      "sentence": ""
+    },
+    {
+      "word": "decadent",
+      "partOfSpeech": "adjective",
+      "meaning1": "Marked by luxury and indulgence, often to an excessive degree. Example: The decadent banquet had seven courses and a chocolate fountain.",
+      "meaning2": "In a state of moral or cultural decline. Example: Historians described the empire in its final years as decadent.",
+      "studentChallenge": "After the long hike, we treated ourselves to a ___ triple-layer chocolate cake.",
+      "sentence": ""
+    },
+    {
+      "word": "aristocrat",
+      "partOfSpeech": "noun",
+      "meaning1": "A member of the highest social class, usually with inherited wealth or a title. Example: The aristocrat arrived at the ball in a horse-drawn carriage.",
+      "meaning2": "",
+      "studentChallenge": "In the old kingdom, an ___ owned land simply because of his family's title.",
+      "sentence": ""
+    },
+    {
+      "word": "ostentatious",
+      "partOfSpeech": "adjective",
+      "meaning1": "Showy in a way meant to impress others, especially with wealth. Example: His ostentatious gold watch flashed every time he reached for the menu.",
+      "meaning2": "",
+      "studentChallenge": "The ___ mansion had fountains in the driveway and a statue of the owner.",
+      "sentence": ""
+    },
+    {
+      "word": "furtive",
+      "partOfSpeech": "adjective",
+      "meaning1": "Done in a secretive, sneaky way to avoid being noticed. Example: He cast a furtive glance at the clock and slipped out the back door.",
+      "meaning2": "",
+      "studentChallenge": "The cat gave a ___ look around before sneaking onto the kitchen counter.",
+      "sentence": ""
+    },
+    {
+      "word": "cryptic",
+      "partOfSpeech": "adjective",
+      "meaning1": "Having a hidden or puzzling meaning that is hard to understand. Example: The fortune cookie held a cryptic message about rivers and doors.",
+      "meaning2": "",
+      "studentChallenge": "Her ___ reply left us more confused than before.",
+      "sentence": ""
+    },
+    {
+      "word": "inherit",
+      "partOfSpeech": "verb",
+      "meaning1": "To receive money, property or a title from someone who has died. Example: She will inherit her grandmother's violin.",
+      "meaning2": "To receive a trait from a parent through genes. Example: Many people inherit their curly hair from a parent.",
+      "studentChallenge": "When her uncle died, she was surprised to ___ his entire stamp collection.",
+      "sentence": ""
+    },
+    {
+      "word": "parlor",
+      "partOfSpeech": "noun",
+      "meaning1": "A room in a house for receiving guests and conversation. Example: Guests waited in the parlor while tea was prepared.",
+      "meaning2": "A shop that offers a certain service or product. Example: The ice cream parlor was crowded on summer evenings.",
+      "studentChallenge": "We sat in the front ___ and chatted with our hosts before dinner.",
+      "sentence": ""
+    },
+    {
+      "word": "scandal",
+      "partOfSpeech": "noun",
+      "meaning1": "An event that shocks the public and damages a reputation, often involving wrongdoing. Example: The mayor resigned after the scandal over missing funds.",
+      "meaning2": "Harmful gossip about other people. Example: The town loved scandal and talked of little else.",
+      "studentChallenge": "The politician's career ended after the ___ was exposed in the newspaper.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The family spent every summer at their country _______, a grand house with stables and gardens.",
+      "sentence2": "In medieval times, the peasants on the _______ owed part of their harvest to the lord.",
+      "options": [
+        "enigma",
+        "scandal",
+        "manor",
+        "aristocrat"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "manor"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The sudden disappearance of the ship's crew remained an unsolved _______.",
+      "sentence2": "To his classmates, the quiet new student was an _______ who never explained where he came from.",
+      "options": [
+        "enigma",
+        "scandal",
+        "manor",
+        "parlor"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "enigma"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The spies held a _______ meeting in an abandoned warehouse at midnight.",
+      "sentence2": "Their _______ friendship was kept hidden from both families.",
+      "options": [
+        "decadent",
+        "ostentatious",
+        "reclusive",
+        "clandestine"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "clandestine"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The _______ painter lived alone in a cabin and refused all visitors.",
+      "sentence2": "After the loss, he became _______ and rarely left his apartment.",
+      "options": [
+        "cryptic",
+        "reclusive",
+        "decadent",
+        "ostentatious"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "reclusive"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The _______ dessert was layered with cream, caramel and chocolate.",
+      "sentence2": "The emperor's court grew _______, filled with endless feasts and little concern for the people.",
+      "options": [
+        "reclusive",
+        "decadent",
+        "cryptic",
+        "furtive"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "decadent"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The _______ inherited a title, a castle and thousands of acres from his father.",
+      "sentence2": "In the old society, an _______ rarely mixed with ordinary farmers.",
+      "options": [
+        "manor",
+        "enigma",
+        "parlor",
+        "aristocrat"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "aristocrat"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "His _______ diamond ring was clearly meant to make everyone notice his wealth.",
+      "sentence2": "The mayor's _______ parade of limousines struck voters as a waste of money.",
+      "options": [
+        "ostentatious",
+        "cryptic",
+        "furtive",
+        "reclusive"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ostentatious"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "She gave a _______ glance over her shoulder before opening the secret box.",
+      "sentence2": "The fox made a _______ dash across the yard, hoping nobody had noticed.",
+      "options": [
+        "reclusive",
+        "decadent",
+        "furtive",
+        "cryptic"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "furtive"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The treasure map came with a _______ clue that no one could decode.",
+      "sentence2": "His _______ reply, \"It depends on the weather,\" explained nothing at all.",
+      "options": [
+        "ostentatious",
+        "decadent",
+        "reclusive",
+        "cryptic"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "cryptic"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "When their grandfather dies, the cousins will _______ his farm.",
+      "sentence2": "Children often _______ their eye color from their parents.",
+      "options": [
+        "manor",
+        "inherit",
+        "parlor",
+        "scandal"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "inherit"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Guests were shown into the _______, where tea and cakes were waiting.",
+      "sentence2": "We stopped at the ice cream _______ after the soccer game.",
+      "options": [
+        "manor",
+        "scandal",
+        "parlor",
+        "aristocrat"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "parlor"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The senator's career collapsed after the bribery _______ became public.",
+      "sentence2": "The town thrived on gossip, and every little _______ was repeated at the market.",
+      "options": [
+        "scandal",
+        "enigma",
+        "parlor",
+        "aristocrat"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "scandal"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "manor",
+      "enigma",
+      "clandestine",
+      "reclusive",
+      "decadent",
+      "aristocrat",
+      "ostentatious",
+      "furtive",
+      "cryptic",
+      "inherit",
+      "parlor",
+      "scandal"
+    ],
+    "passage": "Beatrix later described the weekend at Ravenscroft to her class. The house was a sprawling _(1)_ with forty rooms, built by an _(2)_ who liked to be admired. Guests were once greeted in the _(3)_, under a ceiling painted with golden stars. His taste was _(4)_, full of rich feasts and velvet cushions, and the whole place was so _(5)_ that Julian joked it needed a sign reading LOOK HOW RICH WE ARE.\n\nHer great-aunt, by contrast, had become _(6)_, preferring books to company. She left behind a message so _(7)_ that it felt like an _(8)_ at first. The three friends solved it and found proof of a _(9)_ scholarship fund, kept secret for decades. They were proud to _(10)_ such a generous legacy. Even the lawyer's _(11)_ glance toward the door made sense now. It had protected a story far kinder than the _(12)_ that people had whispered for years.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "manor",
+        "options": [
+          "parlor",
+          "manor",
+          "enigma",
+          "scandal"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "aristocrat",
+        "options": [
+          "enigma",
+          "scandal",
+          "parlor",
+          "aristocrat"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "parlor",
+        "options": [
+          "parlor",
+          "scandal",
+          "enigma",
+          "aristocrat"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "decadent",
+        "options": [
+          "cryptic",
+          "reclusive",
+          "decadent",
+          "furtive"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "ostentatious",
+        "options": [
+          "reclusive",
+          "clandestine",
+          "ostentatious",
+          "cryptic"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "reclusive",
+        "options": [
+          "reclusive",
+          "decadent",
+          "ostentatious",
+          "cryptic"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "cryptic",
+        "options": [
+          "reclusive",
+          "decadent",
+          "ostentatious",
+          "cryptic"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "enigma",
+        "options": [
+          "aristocrat",
+          "enigma",
+          "inherit",
+          "ostentatious"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "clandestine",
+        "options": [
+          "clandestine",
+          "decadent",
+          "ostentatious",
+          "reclusive"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "inherit",
+        "options": [
+          "manor",
+          "parlor",
+          "scandal",
+          "inherit"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "furtive",
+        "options": [
+          "decadent",
+          "furtive",
+          "reclusive",
+          "ostentatious"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "scandal",
+        "options": [
+          "manor",
+          "parlor",
+          "scandal",
+          "aristocrat"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "ostentatious",
+        "scale": [
+          "Stylish",
+          "Showy",
+          "Ostentatious"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "reclusive",
+        "scale": [
+          "Reserved",
+          "Solitary",
+          "Reclusive"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "decadent",
+        "scale": [
+          "Comfortable",
+          "Luxurious",
+          "Decadent"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "scandal",
+        "scale": [
+          "Rumor",
+          "Controversy",
+          "Scandal"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "clandestine",
+        "words": [
+          "Secret",
+          "Open",
+          "Hidden",
+          "Covert"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Open"
+      },
+      {
+        "vocabWord": "furtive",
+        "words": [
+          "Sneaky",
+          "Secretive",
+          "Stealthy",
+          "Brazen"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Brazen"
+      },
+      {
+        "vocabWord": "cryptic",
+        "words": [
+          "Clear",
+          "Puzzling",
+          "Mysterious",
+          "Obscure"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Clear"
+      },
+      {
+        "vocabWord": "enigma",
+        "words": [
+          "Mystery",
+          "Puzzle",
+          "Explanation",
+          "Riddle"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Explanation"
+      },
+      {
+        "vocabWord": "inherit",
+        "words": [
+          "Receive",
+          "Bequeath",
+          "Obtain",
+          "Gain"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Bequeath"
+      },
+      {
+        "vocabWord": "aristocrat",
+        "words": [
+          "Commoner",
+          "Noble",
+          "Lord",
+          "Patrician"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Commoner"
+      },
+      {
+        "vocabWord": "ostentatious",
+        "words": [
+          "Showy",
+          "Flashy",
+          "Lavish",
+          "Modest"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Modest"
+      },
+      {
+        "vocabWord": "reclusive",
+        "words": [
+          "Solitary",
+          "Withdrawn",
+          "Sociable",
+          "Isolated"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Sociable"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

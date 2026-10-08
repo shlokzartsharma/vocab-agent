@@ -1,0 +1,578 @@
+{
+  "grade": 7,
+  "setNumber": 9,
+  "words": [
+    "jury",
+    "objection",
+    "hearsay",
+    "plea",
+    "bailiff",
+    "gavel",
+    "oath",
+    "counsel",
+    "convict",
+    "lenient",
+    "adjourn",
+    "ruling"
+  ],
+  "sources": [
+    "Common Core Grade 7",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "mock trial",
+  "story": {
+    "genre": "mock trial",
+    "characters": [
+      "Eliza",
+      "Marcus",
+      "Leila"
+    ],
+    "parts": [
+      {
+        "title": "Order in the Court",
+        "text": "The school gym had been turned into a courtroom for the annual mock trial. Leila, wearing a black robe, played the judge and struck her **gavel** to quiet the room. A classmate acting as the **bailiff** called everyone to stand while twelve students filed in as the **jury**. Eliza, the lawyer for the defense, also called **counsel** for the accused, arranged her notes. The case was silly but serious: a student was charged with stealing the school mascot's costume."
+      },
+      {
+        "title": "The Witnesses",
+        "text": "The first witness swore an **oath** to tell the truth. Marcus, the prosecutor, asked what she had seen, and she began repeating what a friend had told her. Eliza leaped up and made an **objection**, because the answer was **hearsay**, something the witness had only heard from someone else. \"Sustained,\" said Leila. Her **ruling** meant the twelve listeners had to ignore the statement. Marcus frowned and flipped through his notes."
+      },
+      {
+        "title": "The Verdict",
+        "text": "The defendant had entered a **plea** of not guilty, and Eliza argued that no real proof existed. After an hour of debate, the twelve students decided there was too little evidence to **convict**. Leila had already told the class she would be **lenient** with any punishment, since it was a first offense. With the verdict read, she announced that court would **adjourn** until Monday, and the room erupted in applause."
+      },
+      {
+        "title": "A Lesson in Fairness",
+        "text": "Marcus shook Eliza's hand and admitted that she had argued well. Everyone had learned that fairness depends on careful listening and real evidence, not on rumors. Walking out of the gym, Leila decided that she might want to become a real lawyer one day, and she smiled all the way home."
+      }
+    ],
+    "wordCount": 270
+  },
+  "definitions": [
+    {
+      "word": "jury",
+      "partOfSpeech": "noun",
+      "meaning1": "A group of citizens chosen to listen to a trial and decide the verdict. Example: The jury listened to both sides before deciding.",
+      "meaning2": "A panel of judges in a contest. Example: The jury at the science fair chose three winners.",
+      "studentChallenge": "After the trial, the ___ went to a private room to decide.",
+      "sentence": ""
+    },
+    {
+      "word": "objection",
+      "partOfSpeech": "noun",
+      "meaning1": "A formal statement in court that a question or evidence is not allowed. Example: The lawyer made an objection because the question was unfair.",
+      "meaning2": "A reason for disagreeing with or disliking something. Example: I have no objection to changing the schedule.",
+      "studentChallenge": "Her ___ was that the plan cost too much money.",
+      "sentence": ""
+    },
+    {
+      "word": "hearsay",
+      "partOfSpeech": "noun",
+      "meaning1": "Information a person has heard from someone else but did not see or know firsthand. Example: The judge did not allow the hearsay as evidence.",
+      "meaning2": "",
+      "studentChallenge": "The witness did not see the crime; what she knew was only ___.",
+      "sentence": ""
+    },
+    {
+      "word": "plea",
+      "partOfSpeech": "noun",
+      "meaning1": "A statement by an accused person saying whether they are guilty or not guilty. Example: He entered a plea of not guilty.",
+      "meaning2": "An urgent request. Example: The child made a plea for one more bedtime story.",
+      "studentChallenge": "The accused man's ___ was not guilty.",
+      "sentence": ""
+    },
+    {
+      "word": "bailiff",
+      "partOfSpeech": "noun",
+      "meaning1": "An officer who keeps order in a courtroom. Example: The bailiff asked everyone to be quiet.",
+      "meaning2": "",
+      "studentChallenge": "The court ___ led the witness to the stand.",
+      "sentence": ""
+    },
+    {
+      "word": "gavel",
+      "partOfSpeech": "noun",
+      "meaning1": "A small wooden hammer used by a judge or chairperson to call for order. Example: The judge tapped her gavel twice.",
+      "meaning2": "",
+      "studentChallenge": "The judge banged the ___ to quiet the crowd.",
+      "sentence": ""
+    },
+    {
+      "word": "oath",
+      "partOfSpeech": "noun",
+      "meaning1": "A serious promise, especially to tell the truth in court. Example: The witness took an oath to tell the truth.",
+      "meaning2": "A rude or offensive word. Example: He muttered an oath when he stubbed his toe.",
+      "studentChallenge": "Before testifying, each witness had to swear a solemn ___.",
+      "sentence": ""
+    },
+    {
+      "word": "counsel",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A lawyer or group of lawyers who present a case in court. Example: The defendant's counsel argued that his client was innocent.",
+      "meaning2": "Advice, or to give advice. Example: He sought his grandmother's counsel before choosing a school.",
+      "studentChallenge": "The accused person spoke with his ___ before the trial began.",
+      "sentence": ""
+    },
+    {
+      "word": "convict",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To officially decide in court that someone is guilty of a crime. Example: The jury voted to convict the thief.",
+      "meaning2": "A person who has been found guilty of a crime and sent to prison. Example: The convict served five years in prison.",
+      "studentChallenge": "The jury needed strong proof to ___ the suspect.",
+      "sentence": ""
+    },
+    {
+      "word": "lenient",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not strict; gentle in punishing or enforcing rules. Example: The lenient teacher let us redo the test.",
+      "meaning2": "",
+      "studentChallenge": "The ___ judge gave the first-time offender a warning.",
+      "sentence": ""
+    },
+    {
+      "word": "adjourn",
+      "partOfSpeech": "verb",
+      "meaning1": "To end a meeting or court session for a time. Example: The principal decided to adjourn the meeting at noon.",
+      "meaning2": "",
+      "studentChallenge": "The committee voted to ___ until next month.",
+      "sentence": ""
+    },
+    {
+      "word": "ruling",
+      "partOfSpeech": "noun",
+      "meaning1": "An official decision made by a judge or authority. Example: The judge's ruling favored the defendant.",
+      "meaning2": "",
+      "studentChallenge": "The judge's ___ allowed the video as evidence.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Twelve citizens sat on the _______ and listened to the evidence.",
+      "sentence2": "The _______ took three days to reach a decision.",
+      "options": [
+        "bailiff",
+        "jury",
+        "gavel",
+        "oath"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "jury"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The lawyer jumped up and shouted, '_______!' when the question seemed unfair.",
+      "sentence2": "Her _______ was that the question was confusing, and the judge agreed.",
+      "options": [
+        "objection",
+        "oath",
+        "gavel",
+        "bailiff"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "objection"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The judge would not allow the statement because it was only _______ from a neighbor.",
+      "sentence2": "Gossip and _______ are not reliable evidence in a courtroom.",
+      "options": [
+        "plea",
+        "oath",
+        "gavel",
+        "hearsay"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "hearsay"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "At the start of the trial, the accused entered a _______ of not guilty.",
+      "sentence2": "The prisoner made an emotional _______ for mercy.",
+      "options": [
+        "oath",
+        "gavel",
+        "plea",
+        "bailiff"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "plea"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The _______ stood by the door and kept the courtroom orderly.",
+      "sentence2": "When the judge entered, the _______ called out, 'All rise!'",
+      "options": [
+        "gavel",
+        "bailiff",
+        "jury",
+        "oath"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "bailiff"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The judge banged the _______ to call for silence.",
+      "sentence2": "At the auction, the seller struck the _______ to close the sale.",
+      "options": [
+        "gavel",
+        "oath",
+        "jury",
+        "bailiff"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "gavel"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Before testifying, every witness took the _______ with a hand on the book.",
+      "sentence2": "He broke his sacred _______ when he revealed the secret.",
+      "options": [
+        "gavel",
+        "counsel",
+        "bailiff",
+        "oath"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "oath"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The accused hired skilled _______ to defend him in court.",
+      "sentence2": "Before signing the contract, the family asked their lawyer for legal _______.",
+      "options": [
+        "jury",
+        "bailiff",
+        "counsel",
+        "ruling"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "counsel"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Without strong evidence, the jury could not _______ the suspect.",
+      "sentence2": "The state hopes to _______ the thief and send him to prison.",
+      "options": [
+        "adjourn",
+        "convict",
+        "lenient",
+        "ruling"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "convict"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The judge was _______ with the first-time offender and gave only a warning.",
+      "sentence2": "Our teacher is _______ about late homework if you explain.",
+      "options": [
+        "lenient",
+        "convict",
+        "adjourn",
+        "counsel"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "lenient"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The judge decided to _______ the trial until Monday morning.",
+      "sentence2": "Members voted to _______ the meeting at nine o'clock.",
+      "options": [
+        "convict",
+        "lenient",
+        "objection",
+        "adjourn"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "adjourn"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The judge's _______ was that the evidence could not be used.",
+      "sentence2": "The court's final _______ ended the long dispute.",
+      "options": [
+        "oath",
+        "hearsay",
+        "ruling",
+        "bailiff"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "ruling"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "jury",
+      "objection",
+      "hearsay",
+      "plea",
+      "bailiff",
+      "gavel",
+      "oath",
+      "counsel",
+      "convict",
+      "lenient",
+      "adjourn",
+      "ruling"
+    ],
+    "passage": "Leila kept a journal about the day she played the judge. The _(1)_ called everyone to stand, and she struck her _(2)_ once to start. The defendant's _(3)_ was not guilty, and Eliza, his _(4)_, promised to prove it. The first witness took a solemn _(5)_ to tell the truth, but then repeated gossip. Eliza made an immediate _(6)_, saying it was only _(7)_. Leila's _(8)_ was that the jury must ignore the statement.\n\nAfter closing arguments, twelve students on the _(9)_ discussed the case for an hour. They did not _(10)_ the defendant, because the evidence was too thin. Leila said she would have been _(11)_ anyway, since it was a first offense. Then she announced she would _(12)_ the court until Monday.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "bailiff",
+        "options": [
+          "gavel",
+          "plea",
+          "bailiff",
+          "hearsay"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "gavel",
+        "options": [
+          "gavel",
+          "oath",
+          "plea",
+          "ruling"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "plea",
+        "options": [
+          "oath",
+          "ruling",
+          "plea",
+          "gavel"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "counsel",
+        "options": [
+          "counsel",
+          "bailiff",
+          "jury",
+          "hearsay"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "oath",
+        "options": [
+          "gavel",
+          "ruling",
+          "oath",
+          "hearsay"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "objection",
+        "options": [
+          "objection",
+          "gavel",
+          "oath",
+          "jury"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "hearsay",
+        "options": [
+          "oath",
+          "ruling",
+          "hearsay",
+          "jury"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "ruling",
+        "options": [
+          "ruling",
+          "plea",
+          "oath",
+          "counsel"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "jury",
+        "options": [
+          "bailiff",
+          "counsel",
+          "jury",
+          "gavel"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "convict",
+        "options": [
+          "convict",
+          "adjourn",
+          "lenient",
+          "plea"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "lenient",
+        "options": [
+          "convict",
+          "adjourn",
+          "lenient",
+          "hearsay"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "adjourn",
+        "options": [
+          "adjourn",
+          "convict",
+          "lenient",
+          "objection"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "lenient",
+        "scale": [
+          "Fair",
+          "Gentle",
+          "Lenient"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "objection",
+        "scale": [
+          "Doubt",
+          "Objection",
+          "Protest"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "oath",
+        "scale": [
+          "Promise",
+          "Pledge",
+          "Oath"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "convict",
+        "scale": [
+          "Accuse",
+          "Charge",
+          "Convict"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "plea",
+        "words": [
+          "Appeal",
+          "Request",
+          "Demand",
+          "Petition"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Demand"
+      },
+      {
+        "vocabWord": "hearsay",
+        "words": [
+          "Rumor",
+          "Eyewitness",
+          "Gossip",
+          "Secondhand"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Eyewitness"
+      },
+      {
+        "vocabWord": "convict",
+        "words": [
+          "Acquit",
+          "Condemn",
+          "Sentence",
+          "Blame"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Acquit"
+      },
+      {
+        "vocabWord": "lenient",
+        "words": [
+          "Merciful",
+          "Mild",
+          "Gentle",
+          "Harsh"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Harsh"
+      },
+      {
+        "vocabWord": "adjourn",
+        "words": [
+          "Suspend",
+          "Recess",
+          "Continue",
+          "Postpone"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Continue"
+      },
+      {
+        "vocabWord": "oath",
+        "words": [
+          "Promise",
+          "Lie",
+          "Pledge",
+          "Vow"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Lie"
+      },
+      {
+        "vocabWord": "objection",
+        "words": [
+          "Approval",
+          "Protest",
+          "Complaint",
+          "Challenge"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Approval"
+      },
+      {
+        "vocabWord": "bailiff",
+        "words": [
+          "Guard",
+          "Officer",
+          "Attendant",
+          "Intruder"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Intruder"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

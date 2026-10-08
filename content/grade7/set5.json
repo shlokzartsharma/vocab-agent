@@ -1,0 +1,578 @@
+{
+  "grade": 7,
+  "setNumber": 5,
+  "words": [
+    "discreet",
+    "deduce",
+    "dubious",
+    "bluff",
+    "evasive",
+    "motive",
+    "perplexed",
+    "hunch",
+    "interrogate",
+    "fidget",
+    "stealthy",
+    "sheepish"
+  ],
+  "sources": [
+    "Common Core Grade 7",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "lost item detective story",
+  "story": {
+    "genre": "lost item detective story",
+    "characters": [
+      "Harper",
+      "Jabari",
+      "Mina"
+    ],
+    "parts": [
+      {
+        "title": "The Missing Compass",
+        "text": "Harper's grandfather's brass compass vanished from her backpack during rehearsal for the school play. She asked her friends Jabari and Mina to be **discreet**, because she did not want the whole drama club panicking. \"Before we accuse anyone, we should gather facts,\" Jabari said, \"and then **deduce** who had the chance.\" Mina had a **hunch** that the culprit was someone who had stayed late."
+      },
+      {
+        "title": "Questions in the Hall",
+        "text": "At lunch, Jabari offered to **interrogate** the suspects, though he promised to stay polite. The stage manager's story sounded **dubious**, since the auditorium had been locked at the time he claimed to be there. Another suspect, Ivy, gave **evasive** answers, changing the subject whenever the compass came up. Harper was **perplexed**: nobody seemed to have a clear **motive** for taking a plain old compass."
+      },
+      {
+        "title": "Behind the Curtain",
+        "text": "That afternoon, Mina watched Ivy closely. When Jabari asked about the stage curtains, Ivy tried to **bluff** with a calm smile, but she began to **fidget**, twisting her sleeve. A **stealthy** rustle came from behind the curtain, and Mina pulled it aside to find the compass resting in a gift box. Ivy, looking **sheepish**, confessed that she had borrowed it to give Harper a surprise on opening night."
+      },
+      {
+        "title": "Case Closed",
+        "text": "Harper laughed with relief and hugged Ivy, forgiving her at once. Ivy promised to ask permission next time, and the compass went back into Harper's pocket. Jabari admitted that he had nearly accused the wrong person, and Mina reminded everyone that clues are only the beginning. The truth, they agreed, needs patience, kindness and a little courage to ask the right questions."
+      }
+    ],
+    "wordCount": 258
+  },
+  "definitions": [
+    {
+      "word": "discreet",
+      "partOfSpeech": "adjective",
+      "meaning1": "Careful about what you say or do so that you do not cause trouble or reveal secrets. Example: She was discreet and kept her friend's surprise party a secret.",
+      "meaning2": "",
+      "studentChallenge": "Please be ___ about the news until the principal makes the announcement.",
+      "sentence": ""
+    },
+    {
+      "word": "deduce",
+      "partOfSpeech": "verb",
+      "meaning1": "To figure something out by reasoning from clues and facts. Example: From the muddy footprints, I could deduce that someone had come in through the garden.",
+      "meaning2": "",
+      "studentChallenge": "Detectives ___ the answer by studying the clues.",
+      "sentence": ""
+    },
+    {
+      "word": "dubious",
+      "partOfSpeech": "adjective",
+      "meaning1": "Doubtful or not to be trusted; probably not true. Example: I was dubious about his excuse, since his story kept changing.",
+      "meaning2": "Unsure or hesitant. Example: She felt dubious about riding the tallest roller coaster.",
+      "studentChallenge": "Her ___ explanation made everyone suspect she was hiding something.",
+      "sentence": ""
+    },
+    {
+      "word": "bluff",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To pretend to know or have something in order to fool someone. Example: He tried to bluff his way through the quiz by sounding confident.",
+      "meaning2": "A steep cliff or high bank. Example: The cabin sat on a bluff overlooking the river.",
+      "studentChallenge": "The card player tried to ___ by acting calm, even though his cards were poor.",
+      "sentence": ""
+    },
+    {
+      "word": "evasive",
+      "partOfSpeech": "adjective",
+      "meaning1": "Avoiding a direct answer or avoiding the truth. Example: The evasive witness changed the subject every time he was asked about the broken window.",
+      "meaning2": "",
+      "studentChallenge": "He gave ___ answers and refused to look anyone in the eye.",
+      "sentence": ""
+    },
+    {
+      "word": "motive",
+      "partOfSpeech": "noun",
+      "meaning1": "A reason a person has for doing something. Example: Jealousy was the motive behind the prank.",
+      "meaning2": "",
+      "studentChallenge": "Police asked what ___ the thief could have had for taking the old coin.",
+      "sentence": ""
+    },
+    {
+      "word": "perplexed",
+      "partOfSpeech": "adjective",
+      "meaning1": "Confused and unsure how to understand something. Example: She looked perplexed by the tricky riddle.",
+      "meaning2": "",
+      "studentChallenge": "The puzzle left him ___, scratching his head.",
+      "sentence": ""
+    },
+    {
+      "word": "hunch",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A feeling that something is true, even without proof. Example: I had a hunch that the quiet kid knew where the key was.",
+      "meaning2": "To bend your back and shoulders forward. Example: Don't hunch over your desk when you write.",
+      "studentChallenge": "I had a ___ that it would rain, so I packed an umbrella.",
+      "sentence": ""
+    },
+    {
+      "word": "interrogate",
+      "partOfSpeech": "verb",
+      "meaning1": "To question someone closely and thoroughly, often to find out the truth. Example: The detective began to interrogate the suspect about his whereabouts.",
+      "meaning2": "",
+      "studentChallenge": "The officer will ___ each witness separately.",
+      "sentence": ""
+    },
+    {
+      "word": "fidget",
+      "partOfSpeech": "verb",
+      "meaning1": "To move around restlessly, often because you are nervous or bored. Example: Students tend to fidget during long assemblies.",
+      "meaning2": "",
+      "studentChallenge": "Nervous speakers often ___ with their notes.",
+      "sentence": ""
+    },
+    {
+      "word": "stealthy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Done quietly and secretly so as not to be noticed. Example: The cat made a stealthy approach toward the bird.",
+      "meaning2": "",
+      "studentChallenge": "The thief crossed the room with ___ steps, barely making a sound.",
+      "sentence": ""
+    },
+    {
+      "word": "sheepish",
+      "partOfSpeech": "adjective",
+      "meaning1": "Embarrassed because you have done something silly or wrong. Example: He gave a sheepish smile when he realized he had forgotten her birthday.",
+      "meaning2": "",
+      "studentChallenge": "She felt ___ when she found the lost keys in her own pocket.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The spy was _______ about the mission and told nobody.",
+      "sentence2": "When asking about someone's private troubles, it is polite to be _______ and not announce it to the whole room.",
+      "options": [
+        "evasive",
+        "stealthy",
+        "discreet",
+        "dubious"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "discreet"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "From the broken window and muddy boots, we can _______ that someone entered through the yard.",
+      "sentence2": "Scientists _______ the age of a fossil by studying its layers.",
+      "options": [
+        "deduce",
+        "interrogate",
+        "bluff",
+        "fidget"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "deduce"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "I was _______ about his excuse, because his story kept changing.",
+      "sentence2": "The shop had a _______ reputation, and many customers distrusted its prices.",
+      "options": [
+        "sheepish",
+        "perplexed",
+        "evasive",
+        "dubious"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "dubious"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "He tried to _______ his way past the guard by acting like he belonged.",
+      "sentence2": "Our cabin sat on a high _______ overlooking the lake.",
+      "options": [
+        "fidget",
+        "bluff",
+        "deduce",
+        "hunch"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "bluff"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The witness gave _______ answers and never looked directly at the lawyer.",
+      "sentence2": "Asked where he had been, the boy grew _______ and quickly changed the subject.",
+      "options": [
+        "dubious",
+        "evasive",
+        "discreet",
+        "sheepish"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "evasive"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Detectives still could not find a _______ for the strange break-in.",
+      "sentence2": "Greed was the _______ behind the crime.",
+      "options": [
+        "hunch",
+        "bluff",
+        "fidget",
+        "motive"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "motive"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The strange noise left the whole class _______ and staring at one another.",
+      "sentence2": "She looked _______ at the instructions, unable to see how the pieces fit.",
+      "options": [
+        "perplexed",
+        "sheepish",
+        "dubious",
+        "stealthy"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "perplexed"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "I had a _______ that the answer was hidden in the library.",
+      "sentence2": "Don't _______ your shoulders forward when you sit.",
+      "options": [
+        "motive",
+        "bluff",
+        "hunch",
+        "fidget"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "hunch"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The detective will _______ each suspect for hours until the story is clear.",
+      "sentence2": "Reporters crowded around to _______ the mayor about the missing funds.",
+      "options": [
+        "deduce",
+        "bluff",
+        "interrogate",
+        "fidget"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "interrogate"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Younger children tend to _______ during long meetings.",
+      "sentence2": "Nervous, he began to _______ with the buttons on his jacket.",
+      "options": [
+        "fidget",
+        "bluff",
+        "interrogate",
+        "deduce"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "fidget"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The _______ burglar crept across the porch without a sound.",
+      "sentence2": "A _______ shadow slipped between the trees and disappeared.",
+      "options": [
+        "sheepish",
+        "stealthy",
+        "evasive",
+        "discreet"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "stealthy"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "He gave a _______ grin when the teacher caught him sneaking a cookie.",
+      "sentence2": "Her cheeks turned pink, and she gave a _______ shrug after admitting the mistake.",
+      "options": [
+        "discreet",
+        "stealthy",
+        "evasive",
+        "sheepish"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "sheepish"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "discreet",
+      "deduce",
+      "dubious",
+      "bluff",
+      "evasive",
+      "motive",
+      "perplexed",
+      "hunch",
+      "interrogate",
+      "fidget",
+      "stealthy",
+      "sheepish"
+    ],
+    "passage": "Mina's lunchbox had vanished, and she was determined to find it. She had a _(1)_ that someone in the cafeteria line knew more than they claimed. Her friend Jabari agreed to be _(2)_ and keep the investigation secret. Together they began to _(3)_ the students who had been near the lockers. One boy's story sounded _(4)_, since the door he mentioned had been locked all morning. A girl gave _(5)_ answers and kept changing the subject, and a third student tried to _(6)_ by acting calm.\n\nMina was _(7)_: nobody seemed to have a clear _(8)_ for taking a plain lunchbox. Then she saw the boy start to _(9)_ with his zipper, and she noticed a _(10)_ shadow slip behind the vending machine. Soon she could _(11)_ the truth: her little cousin had borrowed it for a science project and looked _(12)_ when she found out.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "hunch",
+        "options": [
+          "motive",
+          "bluff",
+          "fidget",
+          "hunch"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "discreet",
+        "options": [
+          "discreet",
+          "dubious",
+          "perplexed",
+          "sheepish"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "interrogate",
+        "options": [
+          "bluff",
+          "fidget",
+          "interrogate",
+          "deduce"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "dubious",
+        "options": [
+          "stealthy",
+          "sheepish",
+          "dubious",
+          "discreet"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "evasive",
+        "options": [
+          "evasive",
+          "motive",
+          "hunch",
+          "stealthy"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "bluff",
+        "options": [
+          "deduce",
+          "bluff",
+          "interrogate",
+          "fidget"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "perplexed",
+        "options": [
+          "sheepish",
+          "stealthy",
+          "evasive",
+          "perplexed"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "motive",
+        "options": [
+          "bluff",
+          "fidget",
+          "motive",
+          "deduce"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "fidget",
+        "options": [
+          "fidget",
+          "bluff",
+          "deduce",
+          "interrogate"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "stealthy",
+        "options": [
+          "evasive",
+          "sheepish",
+          "perplexed",
+          "stealthy"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "deduce",
+        "options": [
+          "bluff",
+          "deduce",
+          "fidget",
+          "interrogate"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "sheepish",
+        "options": [
+          "discreet",
+          "sheepish",
+          "stealthy",
+          "motive"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "interrogate",
+        "scale": [
+          "Ask",
+          "Question",
+          "Interrogate"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "perplexed",
+        "scale": [
+          "Puzzled",
+          "Perplexed",
+          "Baffled"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "sheepish",
+        "scale": [
+          "Uneasy",
+          "Sheepish",
+          "Mortified"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "fidget",
+        "scale": [
+          "Shift",
+          "Fidget",
+          "Squirm"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "discreet",
+        "words": [
+          "Careful",
+          "Tactful",
+          "Private",
+          "Careless"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Careless"
+      },
+      {
+        "vocabWord": "dubious",
+        "words": [
+          "Doubtful",
+          "Trustworthy",
+          "Suspicious",
+          "Uncertain"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Trustworthy"
+      },
+      {
+        "vocabWord": "evasive",
+        "words": [
+          "Straightforward",
+          "Elusive",
+          "Indirect",
+          "Cagey"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Straightforward"
+      },
+      {
+        "vocabWord": "deduce",
+        "words": [
+          "Infer",
+          "Conclude",
+          "Guess",
+          "Reason"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Guess"
+      },
+      {
+        "vocabWord": "stealthy",
+        "words": [
+          "Sneaky",
+          "Secretive",
+          "Noisy",
+          "Silent"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Noisy"
+      },
+      {
+        "vocabWord": "bluff",
+        "words": [
+          "Confess",
+          "Fake",
+          "Pretend",
+          "Fool"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Confess"
+      },
+      {
+        "vocabWord": "hunch",
+        "words": [
+          "Instinct",
+          "Feeling",
+          "Suspicion",
+          "Proof"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Proof"
+      },
+      {
+        "vocabWord": "motive",
+        "words": [
+          "Reason",
+          "Accident",
+          "Purpose",
+          "Cause"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Accident"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

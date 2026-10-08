@@ -1,0 +1,578 @@
+{
+  "grade": 1,
+  "setNumber": 7,
+  "words": [
+    "wobble",
+    "balance",
+    "dizzy",
+    "spin",
+    "twirl",
+    "leap",
+    "chase",
+    "bumpy",
+    "grin",
+    "scamper",
+    "tiptoe",
+    "seesaw"
+  ],
+  "sources": [
+    "Common Core Grade 1",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "playground",
+  "story": {
+    "genre": "playground",
+    "characters": [
+      "Jada",
+      "Theo",
+      "Hana"
+    ],
+    "parts": [
+      {
+        "title": "To the Playground",
+        "text": "Jada, Theo, and Hana ran to the playground. Jada wanted to ride the **seesaw**. Theo sat on the other end. The ride was **bumpy**, and Jada began to laugh."
+      },
+      {
+        "title": "Log Tricks",
+        "text": "Hana climbed onto a low log. She held out her arms to **balance**. The log began to **wobble**, but she did not fall. Theo gave her a big **grin**. He saw a butterfly and began to **tiptoe** so it would not fly away."
+      },
+      {
+        "title": "Round and Round",
+        "text": "Next, the friends ran to the merry-go-round. It began to **spin**. Hana wanted to **twirl** in the grass, but she felt **dizzy** and sat down. A squirrel began to **scamper** up a tree. Theo tried to **chase** it. The squirrel made a big **leap** to a branch."
+      },
+      {
+        "title": "A Fun Day",
+        "text": "The squirrel was gone. The friends sat down and drank cold water. It was a fun day at the park."
+      }
+    ],
+    "wordCount": 139
+  },
+  "definitions": [
+    {
+      "word": "wobble",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To shake or rock from side to side. Example: The table will wobble if one leg is short.",
+      "meaning2": "A shaky rocking move. Example: The bike had a little wobble.",
+      "studentChallenge": "The tall block tower began to ___.",
+      "sentence": ""
+    },
+    {
+      "word": "balance",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To stay steady without falling. Example: I can balance on one foot.",
+      "meaning2": "Staying steady. Example: She kept her balance on the log.",
+      "studentChallenge": "Can you ___ a book on your head?",
+      "sentence": ""
+    },
+    {
+      "word": "dizzy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Feeling like the room is spinning. Example: I felt dizzy after I turned in circles.",
+      "meaning2": "",
+      "studentChallenge": "After the fast ride, Sam felt ___.",
+      "sentence": ""
+    },
+    {
+      "word": "spin",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To turn around and around fast. Example: I spin in a circle on the grass.",
+      "meaning2": "One fast turn. Example: The top gave a spin.",
+      "studentChallenge": "Watch the wheel ___ round and round.",
+      "sentence": ""
+    },
+    {
+      "word": "twirl",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To turn around and around in a light, pretty way. Example: She likes to twirl in her new dress.",
+      "meaning2": "A pretty spin. Example: The dancer did a twirl.",
+      "studentChallenge": "The dancer will ___ on her toes.",
+      "sentence": ""
+    },
+    {
+      "word": "leap",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To jump high or far. Example: The frog can leap over the log.",
+      "meaning2": "A big jump. Example: He took a leap across the puddle.",
+      "studentChallenge": "I will ___ over the little stream.",
+      "sentence": ""
+    },
+    {
+      "word": "chase",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To run after someone or something to catch it. Example: The puppy likes to chase the ball.",
+      "meaning2": "A game of running after. Example: We played a fun chase.",
+      "studentChallenge": "The kitten will ___ the string.",
+      "sentence": ""
+    },
+    {
+      "word": "bumpy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Full of bumps, not smooth. Example: The dirt road was bumpy.",
+      "meaning2": "",
+      "studentChallenge": "The ride in the wagon was ___.",
+      "sentence": ""
+    },
+    {
+      "word": "grin",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A big smile. Example: He had a grin from ear to ear.",
+      "meaning2": "To smile big. Example: I grin when I see my friends.",
+      "studentChallenge": "She had a big ___ on her face.",
+      "sentence": ""
+    },
+    {
+      "word": "scamper",
+      "partOfSpeech": "verb",
+      "meaning1": "To run quickly with small, light steps. Example: Mice scamper across the floor.",
+      "meaning2": "",
+      "studentChallenge": "The squirrels ___ up the tree.",
+      "sentence": ""
+    },
+    {
+      "word": "tiptoe",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To walk on the tips of your toes, very quietly. Example: I tiptoe so I do not wake the baby.",
+      "meaning2": "Standing on your toes. Example: She stood on tiptoe to see.",
+      "studentChallenge": "We ___ past the sleeping cat.",
+      "sentence": ""
+    },
+    {
+      "word": "seesaw",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A long board that goes up and down when two kids sit on the ends. Example: We rode the seesaw at the park.",
+      "meaning2": "To go up and down like a seesaw. Example: The boat seemed to seesaw on the waves.",
+      "studentChallenge": "Two kids sat on the ___ and went up and down.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The tall tower of blocks began to _______.",
+      "sentence2": "Babies _______ when they first learn to walk.",
+      "options": [
+        "dizzy",
+        "wobble",
+        "bumpy",
+        "grin"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "wobble"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "It is hard to _______ on one foot.",
+      "sentence2": "She tried to _______ a spoon on her nose.",
+      "options": [
+        "dizzy",
+        "bumpy",
+        "chase",
+        "balance"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "balance"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "I felt _______ after I turned in circles.",
+      "sentence2": "Riding the fast ride made Theo feel _______.",
+      "options": [
+        "dizzy",
+        "bumpy",
+        "grin",
+        "leap"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "dizzy"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The wheel on the bike began to _______ fast.",
+      "sentence2": "I like to _______ in circles until I laugh.",
+      "options": [
+        "bumpy",
+        "grin",
+        "spin",
+        "tiptoe"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "spin"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The dancer will _______ in her pretty skirt.",
+      "sentence2": "Hana likes to _______ her ribbon in the air.",
+      "options": [
+        "dizzy",
+        "bumpy",
+        "grin",
+        "twirl"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "twirl"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The frog will _______ from rock to rock.",
+      "sentence2": "I can _______ over the small puddle.",
+      "options": [
+        "dizzy",
+        "leap",
+        "bumpy",
+        "seesaw"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "leap"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Dogs love to _______ a rolling ball.",
+      "sentence2": "Let us play tag and _______ each other around the yard.",
+      "options": [
+        "dizzy",
+        "grin",
+        "chase",
+        "bumpy"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "chase"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The road was rough and _______.",
+      "sentence2": "We rode over _______ ground in the wagon.",
+      "options": [
+        "bumpy",
+        "dizzy",
+        "grin",
+        "tiptoe"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "bumpy"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "He had a big _______ on his face.",
+      "sentence2": "Dad will _______ when he sees my drawing.",
+      "options": [
+        "bumpy",
+        "grin",
+        "dizzy",
+        "seesaw"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "grin"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Tiny mice _______ across the floor.",
+      "sentence2": "The squirrels _______ up the tree when they hear a noise.",
+      "options": [
+        "dizzy",
+        "bumpy",
+        "grin",
+        "scamper"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "scamper"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Please _______ past the baby so she can sleep.",
+      "sentence2": "The cat will _______ across the room.",
+      "options": [
+        "tiptoe",
+        "dizzy",
+        "bumpy",
+        "spin"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "tiptoe"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Two friends sat on the _______ and went up and down.",
+      "sentence2": "We took turns on the _______ at the park.",
+      "options": [
+        "grin",
+        "dizzy",
+        "seesaw",
+        "bumpy"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "seesaw"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "wobble",
+      "balance",
+      "dizzy",
+      "spin",
+      "twirl",
+      "leap",
+      "chase",
+      "bumpy",
+      "grin",
+      "scamper",
+      "tiptoe",
+      "seesaw"
+    ],
+    "passage": "Jada woke up and ran to the park with a big _(1)_ on her face. First she saw a log. She tried to _(2)_ on it, but it began to _(3)_. Her friend Hana took a turn on the _(4)_ and went up and down. The ride was not smooth. It was very _(5)_.\n\nNext, Theo liked to _(6)_ the wheel on the merry-go-round. He got off and felt _(7)_. A big dog began to _(8)_ a red ball. Then the dog made a high _(9)_ over a puddle. Two bunnies began to _(10)_ into the tall grass. Hana did a pretty _(11)_ in her skirt. On the way home, they had to _(12)_ past a sleeping baby.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "grin",
+        "options": [
+          "bumpy",
+          "dizzy",
+          "grin",
+          "seesaw"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "balance",
+        "options": [
+          "balance",
+          "grin",
+          "dizzy",
+          "bumpy"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "wobble",
+        "options": [
+          "dizzy",
+          "bumpy",
+          "grin",
+          "wobble"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "seesaw",
+        "options": [
+          "grin",
+          "seesaw",
+          "dizzy",
+          "bumpy"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "bumpy",
+        "options": [
+          "grin",
+          "bumpy",
+          "dizzy",
+          "tiptoe"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "spin",
+        "options": [
+          "dizzy",
+          "bumpy",
+          "grin",
+          "spin"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "dizzy",
+        "options": [
+          "dizzy",
+          "bumpy",
+          "grin",
+          "seesaw"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "chase",
+        "options": [
+          "bumpy",
+          "dizzy",
+          "chase",
+          "grin"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "leap",
+        "options": [
+          "dizzy",
+          "bumpy",
+          "seesaw",
+          "leap"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "scamper",
+        "options": [
+          "dizzy",
+          "scamper",
+          "grin",
+          "seesaw"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "twirl",
+        "options": [
+          "dizzy",
+          "bumpy",
+          "twirl",
+          "grin"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "tiptoe",
+        "options": [
+          "tiptoe",
+          "dizzy",
+          "bumpy",
+          "grin"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "dizzy",
+        "scale": [
+          "Steady",
+          "Wobbly",
+          "Dizzy"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "bumpy",
+        "scale": [
+          "Smooth",
+          "Bumpy",
+          "Rocky"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "grin",
+        "scale": [
+          "Smile",
+          "Grin",
+          "Laugh"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "leap",
+        "scale": [
+          "Hop",
+          "Jump",
+          "Leap"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "wobble",
+        "words": [
+          "Shake",
+          "Rock",
+          "Stay still",
+          "Sway"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Stay still"
+      },
+      {
+        "vocabWord": "balance",
+        "words": [
+          "Fall",
+          "Steady",
+          "Hold up",
+          "Stay up"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Fall"
+      },
+      {
+        "vocabWord": "chase",
+        "words": [
+          "Follow",
+          "Hunt",
+          "Run after",
+          "Run away"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Run away"
+      },
+      {
+        "vocabWord": "tiptoe",
+        "words": [
+          "Sneak",
+          "Stomp",
+          "Creep",
+          "Walk softly"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Stomp"
+      },
+      {
+        "vocabWord": "scamper",
+        "words": [
+          "Scurry",
+          "Dart",
+          "Hurry",
+          "Walk slowly"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Walk slowly"
+      },
+      {
+        "vocabWord": "twirl",
+        "words": [
+          "Spin",
+          "Freeze",
+          "Whirl",
+          "Turn"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Freeze"
+      },
+      {
+        "vocabWord": "leap",
+        "words": [
+          "Drop",
+          "Jump",
+          "Hop",
+          "Spring"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Drop"
+      },
+      {
+        "vocabWord": "spin",
+        "words": [
+          "Turn",
+          "Whirl",
+          "Stand still",
+          "Circle"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Stand still"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

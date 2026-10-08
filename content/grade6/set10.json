@@ -1,0 +1,577 @@
+{
+  "grade": 6,
+  "setNumber": 10,
+  "words": [
+    "editorial",
+    "deadline",
+    "rumor",
+    "retract",
+    "fabricate",
+    "gossip",
+    "byline",
+    "correspondent",
+    "rebuke",
+    "persuasive",
+    "sensational",
+    "eyewitness"
+  ],
+  "sources": [
+    "Common Core Grade 6",
+    "Tier 2 Academic"
+  ],
+  "genre": "school newspaper",
+  "story": {
+    "genre": "school newspaper",
+    "characters": [
+      "Tessa",
+      "Malik",
+      "Grace"
+    ],
+    "parts": [
+      {
+        "title": "Front Page Trouble",
+        "text": "Tessa, the editor of the Maple Street Middle School newspaper, stared at the empty front page. The **deadline** for Friday's edition was only two days away. Malik, the paper's sports **correspondent**, burst in with exciting news: a **rumor** was racing through the halls that the principal planned to cancel the spring dance."
+      },
+      {
+        "title": "Chasing the Facts",
+        "text": "Grace, who wrote the weekly **editorial**, was already drafting a **persuasive** essay urging the principal to reconsider. Tessa stopped her. \"We don't print **gossip**,\" she said. \"We need facts first.\" Malik wanted a **sensational** headline in giant red letters: DANCE DESTROYED! Tessa shook her head. Instead, they tracked down an **eyewitness**, the office assistant, who had actually heard the principal's phone call."
+      },
+      {
+        "title": "Setting It Straight",
+        "text": "The assistant explained that the dance was not canceled at all. A leaky roof meant it would simply move to the gym. Tessa also learned that a new reporter had planned to **fabricate** a quote from the principal to make the story more exciting. She gave him a firm but fair **rebuke**: \"Readers trust us only when every word is true.\" Malik had already posted a teaser online, so he had to **retract** it with a public correction. The real story ran with his **byline** at the top."
+      },
+      {
+        "title": "Truth First",
+        "text": "On Friday, the paper sold out in minutes. Tessa pinned the corrected story to the wall as a reminder that a newsroom's most important job is protecting the truth. Grace joked that the spring dance now had the best publicity in school history, even if it had been shuffled into the gym."
+      }
+    ],
+    "wordCount": 254
+  },
+  "definitions": [
+    {
+      "word": "editorial",
+      "partOfSpeech": "noun, adjective",
+      "meaning1": "A newspaper article that gives the opinion of the editors or writers. Example: Grace wrote an editorial urging the school board to keep the library open.",
+      "meaning2": "Having to do with editing or editors. Example: The editorial team checked every sentence for errors.",
+      "studentChallenge": "The paper's ___ argued that the school should add a bike rack.",
+      "sentence": ""
+    },
+    {
+      "word": "deadline",
+      "partOfSpeech": "noun",
+      "meaning1": "The time or date by which something must be finished. Example: The project has a strict deadline of Friday at noon.",
+      "meaning2": "",
+      "studentChallenge": "She worked through the night to meet the ___ for her science report.",
+      "sentence": ""
+    },
+    {
+      "word": "rumor",
+      "partOfSpeech": "noun",
+      "meaning1": "A story passed from person to person that may not be true. Example: A rumor spread that a famous author would visit our school.",
+      "meaning2": "",
+      "studentChallenge": "Don't believe every ___ you hear in the cafeteria; many aren't true.",
+      "sentence": ""
+    },
+    {
+      "word": "retract",
+      "partOfSpeech": "verb",
+      "meaning1": "To take back something you said or wrote, admitting it was wrong. Example: The paper had to retract its false story and print a correction.",
+      "meaning2": "To pull back or draw in. Example: A cat can retract its claws when it walks quietly.",
+      "studentChallenge": "The website had to ___ the article after learning the facts were wrong.",
+      "sentence": ""
+    },
+    {
+      "word": "fabricate",
+      "partOfSpeech": "verb",
+      "meaning1": "To make up something false in order to fool people. Example: It is wrong to fabricate a quote just to make a story more exciting.",
+      "meaning2": "To build or manufacture something. Example: The factory will fabricate steel beams for the new bridge.",
+      "studentChallenge": "A dishonest writer might ___ an interview that never happened.",
+      "sentence": ""
+    },
+    {
+      "word": "gossip",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "Casual talk about other people's private lives, often unkind or untrue. Example: Mia refused to listen to any gossip about her friend.",
+      "meaning2": "A person who loves to talk about other people's private lives. Example: The town gossip knew everyone's business.",
+      "studentChallenge": "Spreading ___ about classmates can hurt their feelings.",
+      "sentence": ""
+    },
+    {
+      "word": "byline",
+      "partOfSpeech": "noun",
+      "meaning1": "A line at the top of an article that names the writer. Example: Tessa was thrilled to see her name in the byline above her first front-page story.",
+      "meaning2": "",
+      "studentChallenge": "The reporter's name appeared in the ___ above the headline.",
+      "sentence": ""
+    },
+    {
+      "word": "correspondent",
+      "partOfSpeech": "noun",
+      "meaning1": "A reporter who sends news from a particular place or about a particular subject. Example: The paper's foreign correspondent sent reports from three countries.",
+      "meaning2": "A person who writes letters regularly. Example: My grandmother is a faithful correspondent who writes every month.",
+      "studentChallenge": "The television ___ reported live from the storm zone.",
+      "sentence": ""
+    },
+    {
+      "word": "rebuke",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To scold someone sharply for doing something wrong. Example: The coach had to rebuke the team for arriving late.",
+      "meaning2": "A sharp scolding. Example: His rude joke earned him a stern rebuke from the principal.",
+      "studentChallenge": "The teacher had to ___ the class for ignoring the fire drill.",
+      "sentence": ""
+    },
+    {
+      "word": "persuasive",
+      "partOfSpeech": "adjective",
+      "meaning1": "Able to convince people to believe or do something. Example: Her persuasive speech convinced the whole class to start recycling.",
+      "meaning2": "",
+      "studentChallenge": "The lawyer made such a ___ argument that the jury agreed at once.",
+      "sentence": ""
+    },
+    {
+      "word": "sensational",
+      "partOfSpeech": "adjective",
+      "meaning1": "Designed to shock or excite people, often by exaggerating. Example: The tabloid used a sensational headline to shock readers.",
+      "meaning2": "Extremely good; amazing. Example: The singer gave a sensational performance.",
+      "studentChallenge": "The newspaper's ___ headline made a small event sound like a disaster.",
+      "sentence": ""
+    },
+    {
+      "word": "eyewitness",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who sees an event happen and can describe it. Example: Police asked the eyewitness to describe exactly what she saw.",
+      "meaning2": "",
+      "studentChallenge": "The ___ told the reporter exactly how the accident happened.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Grace wrote an _______ urging the school board to keep the library open.",
+      "sentence2": "The paper's _______ page features opinion pieces rather than news reports.",
+      "options": [
+        "byline",
+        "editorial",
+        "deadline",
+        "rumor"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "editorial"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The project has a strict _______ of Friday at noon, so no late work is accepted.",
+      "sentence2": "She worked through the night to beat the _______ for her science report.",
+      "options": [
+        "deadline",
+        "byline",
+        "rumor",
+        "gossip"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "deadline"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "A _______ spread through school that a famous author would visit next week.",
+      "sentence2": "Don't believe every _______ you hear in the cafeteria; many aren't true.",
+      "options": [
+        "gossip",
+        "editorial",
+        "eyewitness",
+        "rumor"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "rumor"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The paper had to _______ its false story and print a public correction.",
+      "sentence2": "A cat can _______ its claws when it wants to walk quietly.",
+      "options": [
+        "fabricate",
+        "rebuke",
+        "retract",
+        "gossip"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "retract"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "It is wrong to _______ a quote just to make a story more exciting.",
+      "sentence2": "The factory will _______ steel beams for the new bridge.",
+      "options": [
+        "retract",
+        "fabricate",
+        "rebuke",
+        "gossip"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "fabricate"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Mia refused to listen to any _______ about her friend's private life.",
+      "sentence2": "The town _______ knew everyone's business and loved to share it.",
+      "options": [
+        "gossip",
+        "rumor",
+        "byline",
+        "eyewitness"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "gossip"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Tessa was thrilled to see her name in the _______ above her first front-page story.",
+      "sentence2": "Reporters earn a _______ when the paper prints their story with their name on top.",
+      "options": [
+        "editorial",
+        "deadline",
+        "correspondent",
+        "byline"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "byline"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The paper's foreign _______ sent reports from three different countries.",
+      "sentence2": "My grandmother is a faithful _______ who writes me a letter every month.",
+      "options": [
+        "eyewitness",
+        "editorial",
+        "correspondent",
+        "gossip"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "correspondent"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The coach had to _______ the team for arriving late to practice.",
+      "sentence2": "His rude joke earned him a stern _______ from the principal.",
+      "options": [
+        "retract",
+        "rebuke",
+        "fabricate",
+        "gossip"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "rebuke"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Her carefully reasoned, _______ speech convinced the whole class to start recycling.",
+      "sentence2": "The lawyer's calm, logical, _______ argument won over the jury.",
+      "options": [
+        "persuasive",
+        "sensational",
+        "rumor",
+        "deadline"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "persuasive"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The tabloid used a _______ headline in giant red letters to shock its readers.",
+      "sentence2": "The singer gave a _______ performance that left the crowd in awe.",
+      "options": [
+        "persuasive",
+        "rumor",
+        "deadline",
+        "sensational"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "sensational"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Police asked the _______ to describe exactly what she saw at the crash.",
+      "sentence2": "Having been there, the boy gave the reporter an _______ account of the storm.",
+      "options": [
+        "rumor",
+        "deadline",
+        "eyewitness",
+        "correspondent"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "eyewitness"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "editorial",
+      "deadline",
+      "rumor",
+      "retract",
+      "fabricate",
+      "gossip",
+      "byline",
+      "correspondent",
+      "rebuke",
+      "persuasive",
+      "sensational",
+      "eyewitness"
+    ],
+    "passage": "Noor had just become the school website's new _(1)_, and her first assignment was to cover the flooded science lab. A _(2)_ was zipping through the halls that a student had broken a pipe by fooling around. Noor knew better than to repeat idle _(3)_. Instead, she interviewed Mr. Park, the custodian, the only _(4)_ who had watched a rusty pipe burst all by itself.\n\nShe had until noon, a tight _(5)_. Her friend Eli suggested a _(6)_ headline, STUDENT FLOODS SCHOOL, to grab attention. Another reporter even offered to _(7)_ a quote from the principal that she had never actually said. Noor gave a quiet _(8)_: \"If we print lies, nobody will trust us again.\" Eli had already posted a draft online, so he agreed to _(9)_ it.\n\nNoor's final story was calm and _(10)_, convincing the principal to repair every old pipe. Her follow-up _(11)_ argued for new funding. It ran with her name in the _(12)_ for the first time.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "correspondent",
+        "options": [
+          "editorial",
+          "byline",
+          "correspondent",
+          "gossip"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "rumor",
+        "options": [
+          "editorial",
+          "rumor",
+          "byline",
+          "deadline"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "gossip",
+        "options": [
+          "gossip",
+          "deadline",
+          "byline",
+          "editorial"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "eyewitness",
+        "options": [
+          "rumor",
+          "deadline",
+          "byline",
+          "eyewitness"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "deadline",
+        "options": [
+          "byline",
+          "editorial",
+          "deadline",
+          "rumor"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "sensational",
+        "options": [
+          "persuasive",
+          "sensational",
+          "byline",
+          "deadline"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "fabricate",
+        "options": [
+          "fabricate",
+          "rebuke",
+          "gossip",
+          "byline"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "rebuke",
+        "options": [
+          "rumor",
+          "deadline",
+          "editorial",
+          "rebuke"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "retract",
+        "options": [
+          "fabricate",
+          "rebuke",
+          "retract",
+          "gossip"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "persuasive",
+        "options": [
+          "sensational",
+          "persuasive",
+          "byline",
+          "deadline"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "editorial",
+        "options": [
+          "editorial",
+          "byline",
+          "deadline",
+          "rumor"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "byline",
+        "options": [
+          "editorial",
+          "deadline",
+          "correspondent",
+          "byline"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "sensational",
+        "scale": [
+          "Interesting",
+          "Dramatic",
+          "Sensational"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "rebuke",
+        "scale": [
+          "Criticize",
+          "Rebuke",
+          "Condemn"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "gossip",
+        "scale": [
+          "Chat",
+          "Gossip",
+          "Slander"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "fabricate",
+        "scale": [
+          "Exaggerate",
+          "Fabricate",
+          "Forge"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "rumor",
+        "words": [
+          "Hearsay",
+          "Whisper",
+          "Fact",
+          "Tale"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Fact"
+      },
+      {
+        "vocabWord": "retract",
+        "words": [
+          "Withdraw",
+          "Affirm",
+          "Revoke",
+          "Recant"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Affirm"
+      },
+      {
+        "vocabWord": "persuasive",
+        "words": [
+          "Convincing",
+          "Compelling",
+          "Unconvincing",
+          "Forceful"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Unconvincing"
+      },
+      {
+        "vocabWord": "eyewitness",
+        "words": [
+          "Observer",
+          "Absentee",
+          "Bystander",
+          "Onlooker"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Absentee"
+      },
+      {
+        "vocabWord": "rebuke",
+        "words": [
+          "Scold",
+          "Praise",
+          "Reprimand",
+          "Lecture"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Praise"
+      },
+      {
+        "vocabWord": "sensational",
+        "words": [
+          "Shocking",
+          "Dramatic",
+          "Ordinary",
+          "Startling"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Ordinary"
+      },
+      {
+        "vocabWord": "fabricate",
+        "words": [
+          "Invent",
+          "Verify",
+          "Concoct",
+          "Make up"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Verify"
+      },
+      {
+        "vocabWord": "gossip",
+        "words": [
+          "Chatter",
+          "Hearsay",
+          "Silence",
+          "Chitchat"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Silence"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

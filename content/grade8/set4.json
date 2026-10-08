@@ -1,0 +1,578 @@
+{
+  "grade": 8,
+  "setNumber": 4,
+  "words": [
+    "empirical",
+    "replicate",
+    "variable",
+    "correlation",
+    "speculate",
+    "validate",
+    "inconclusive",
+    "tedious",
+    "painstaking",
+    "serendipity",
+    "revelation",
+    "refinement"
+  ],
+  "sources": [
+    "Common Core Grade 8",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "science lab discovery",
+  "story": {
+    "genre": "science lab discovery",
+    "characters": [
+      "Nadine",
+      "Wei",
+      "Elias"
+    ],
+    "parts": [
+      {
+        "title": "The Question",
+        "text": "Nadine's science fair question sounded simple: does the color of light change how fast bean plants grow? Her teacher insisted that opinions were not enough. She needed **empirical** evidence, gathered by careful observation. So Nadine, Wei and Elias set up trays of seedlings under red, blue and white lamps. They changed only one **variable**, the color of the light, and kept the soil, water and room temperature the same."
+      },
+      {
+        "title": "Slow Work",
+        "text": "Measuring every sprout each morning was **tedious**, and Elias groaned about it daily. Wei, however, demanded **painstaking** records, down to the nearest millimeter. After two weeks, the blue-lit plants looked taller, and Nadine spotted a **correlation** between blue light and height. “Don’t **speculate** about why just yet,” Wei warned. “We have to be sure it isn’t luck.” Sure enough, the data were **inconclusive**, because one blue tray had grown poorly."
+      },
+      {
+        "title": "A Lucky Break",
+        "text": "Then **serendipity** stepped in. While watering, Elias noticed that the weak tray sat directly beside a heater vent. This **revelation** changed everything: heat, not light, had stunted those seedlings. The team moved the trays, added a thermometer to each one as a **refinement** of their method, and began again to **replicate** the whole experiment. This time the results held steady, and a second round of measurements helped them **validate** their claim that blue light really did produce taller plants."
+      },
+      {
+        "title": "What Nadine Learned",
+        "text": "At the science fair, Nadine did not hide her messy first attempt. She pinned the heater-vent story right beside her final graph. Judges nodded as she explained that science is not about being right the first time. It is about being willing to test an idea, find the flaw and try again with a clearer mind."
+      }
+    ],
+    "wordCount": 274
+  },
+  "definitions": [
+    {
+      "word": "empirical",
+      "partOfSpeech": "adjective",
+      "meaning1": "Based on observation or experiment rather than on theory or opinion. Example: Empirical studies showed that the new fertilizer worked.",
+      "meaning2": "",
+      "studentChallenge": "The scientist needed ___ evidence, not just a hunch.",
+      "sentence": ""
+    },
+    {
+      "word": "replicate",
+      "partOfSpeech": "verb",
+      "meaning1": "To repeat an experiment exactly to see whether the same results occur. Example: A good report lists every step so another scientist can replicate the test.",
+      "meaning2": "To copy or reproduce something. Example: The artist tried to replicate the pattern on the antique vase.",
+      "studentChallenge": "Other labs must be able to ___ the experiment and get the same results.",
+      "sentence": ""
+    },
+    {
+      "word": "variable",
+      "partOfSpeech": "noun, adjective",
+      "meaning1": "A factor that can change in an experiment or situation. Example: In the test, the only variable was the amount of sunlight.",
+      "meaning2": "Likely to change; not steady. Example: Spring weather here is variable, sunny one hour and stormy the next.",
+      "studentChallenge": "Changing more than one ___ at a time makes an experiment hard to read.",
+      "sentence": ""
+    },
+    {
+      "word": "correlation",
+      "partOfSpeech": "noun",
+      "meaning1": "A connection in which two things tend to change together, though one may not cause the other. Example: There is a correlation between hours of sleep and test scores.",
+      "meaning2": "",
+      "studentChallenge": "The graph showed a strong ___ between ice cream sales and sunburns.",
+      "sentence": ""
+    },
+    {
+      "word": "speculate",
+      "partOfSpeech": "verb",
+      "meaning1": "To form an opinion or guess without complete evidence. Example: Reporters speculate about who will win the election.",
+      "meaning2": "To invest in risky ventures hoping for a large profit. Example: Some people speculate in land, hoping prices will rise.",
+      "studentChallenge": "Without more data, we can only ___ about the cause.",
+      "sentence": ""
+    },
+    {
+      "word": "validate",
+      "partOfSpeech": "verb",
+      "meaning1": "To prove that something is true or correct; to confirm. Example: More tests will validate the new theory.",
+      "meaning2": "To officially approve or make something valid. Example: The clerk will validate your parking ticket at the desk.",
+      "studentChallenge": "A second experiment helped to ___ her findings.",
+      "sentence": ""
+    },
+    {
+      "word": "inconclusive",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not leading to a firm answer or decision. Example: The inconclusive test left the doctors unsure what to do.",
+      "meaning2": "",
+      "studentChallenge": "The results were ___, so the team ran another trial.",
+      "sentence": ""
+    },
+    {
+      "word": "tedious",
+      "partOfSpeech": "adjective",
+      "meaning1": "Boring and tiring because it is long or repetitive. Example: Copying the long list by hand was tedious.",
+      "meaning2": "",
+      "studentChallenge": "Sorting thousands of tiny beads was a ___ job.",
+      "sentence": ""
+    },
+    {
+      "word": "painstaking",
+      "partOfSpeech": "adjective",
+      "meaning1": "Done with great care and effort, paying attention to every detail. Example: Restoring the old painting took painstaking work.",
+      "meaning2": "",
+      "studentChallenge": "The jeweler's ___ work took several weeks.",
+      "sentence": ""
+    },
+    {
+      "word": "serendipity",
+      "partOfSpeech": "noun",
+      "meaning1": "A lucky discovery or happy event that happens by accident. Example: By serendipity, she found a rare book while searching for a map.",
+      "meaning2": "",
+      "studentChallenge": "Meeting my best friend in the library was pure ___.",
+      "sentence": ""
+    },
+    {
+      "word": "revelation",
+      "partOfSpeech": "noun",
+      "meaning1": "A surprising and important discovery, or a fact newly made known. Example: It was a revelation to learn that stars are distant suns.",
+      "meaning2": "",
+      "studentChallenge": "The new telescope images came as a ___ to astronomers.",
+      "sentence": ""
+    },
+    {
+      "word": "refinement",
+      "partOfSpeech": "noun",
+      "meaning1": "A small change that makes something more precise or better. Example: A refinement to the recipe made the soup less salty.",
+      "meaning2": "Elegance and polished manners. Example: She was admired for her grace and refinement.",
+      "studentChallenge": "Adding a lid to the design was a clever ___ that kept the heat in.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Instead of relying on theory, the team gathered _______ data by measuring and observing.",
+      "sentence2": "The scientist trusted _______ proof over opinions.",
+      "options": [
+        "tedious",
+        "inconclusive",
+        "empirical",
+        "painstaking"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "empirical"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "To check the claim, a different team must _______ the experiment exactly, step by step.",
+      "sentence2": "The artist tried to _______ the pattern on the old vase.",
+      "options": [
+        "replicate",
+        "validate",
+        "speculate",
+        "variable"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "replicate"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Changing the water in one tray was the only _______ in the experiment.",
+      "sentence2": "Mountain weather is highly _______, sunny at noon and snowing by dinner.",
+      "options": [
+        "correlation",
+        "empirical",
+        "refinement",
+        "variable"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "variable"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The graph showed a strong _______ between hours of study and test scores.",
+      "sentence2": "There is a clear _______ between rainy days and umbrella sales.",
+      "options": [
+        "variable",
+        "correlation",
+        "revelation",
+        "refinement"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "correlation"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Without more data, we can only _______ about what caused the change.",
+      "sentence2": "Reporters love to _______ about who will win the election.",
+      "options": [
+        "replicate",
+        "speculate",
+        "validate",
+        "serendipity"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "speculate"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Further tests should _______ the new theory.",
+      "sentence2": "The clerk must _______ your ticket with a stamp before you leave.",
+      "options": [
+        "speculate",
+        "painstaking",
+        "inconclusive",
+        "validate"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "validate"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The test was _______, so the doctors ordered another one.",
+      "sentence2": "After hours of debate, the vote was _______ and nobody could say who had won.",
+      "options": [
+        "inconclusive",
+        "tedious",
+        "painstaking",
+        "empirical"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "inconclusive"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Copying the long list by hand was a _______ job that lasted all afternoon.",
+      "sentence2": "The lecture was so _______ that half the room started yawning.",
+      "options": [
+        "painstaking",
+        "inconclusive",
+        "tedious",
+        "empirical"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "tedious"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The restorer's _______ work, one tiny brushstroke at a time, took six months.",
+      "sentence2": "Her _______ attention to detail meant no mistake escaped her.",
+      "options": [
+        "tedious",
+        "empirical",
+        "painstaking",
+        "inconclusive"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "painstaking"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "It was pure _______ that she found the rare coin while digging for worms.",
+      "sentence2": "Meeting an old friend in an airport was a happy bit of _______.",
+      "options": [
+        "serendipity",
+        "revelation",
+        "refinement",
+        "correlation"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "serendipity"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The telescope images were a _______ to astronomers, showing a galaxy no one expected.",
+      "sentence2": "The reporter's _______ about the hidden budget shocked the whole town.",
+      "options": [
+        "serendipity",
+        "refinement",
+        "correlation",
+        "revelation"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "revelation"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "A small _______ to the design made the machine quieter.",
+      "sentence2": "The chef's latest _______ of the recipe cut the salt without losing any flavor.",
+      "options": [
+        "revelation",
+        "refinement",
+        "variable",
+        "correlation"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "refinement"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "empirical",
+      "replicate",
+      "variable",
+      "correlation",
+      "speculate",
+      "validate",
+      "inconclusive",
+      "tedious",
+      "painstaking",
+      "serendipity",
+      "revelation",
+      "refinement"
+    ],
+    "passage": "Elias's aunt works as a lab technician, and she once explained how real science works. “Scientists don't trust hunches,” she said. “We rely on _(1)_ evidence, collected by careful measuring.” In one project, her team changed only a single _(2)_, the temperature, while everything else stayed the same. Recording the numbers was _(3)_, but the team stayed _(4)_, checking every digit twice.\n\nAt first the results were _(5)_, because they did not point to a firm answer, and the team could only _(6)_ about the cause. Then, by pure _(7)_, a student spotted a forgotten graph showing a clear _(8)_ between temperature and growth. That was a real _(9)_ for the group. They made a small _(10)_ to their method, and then another lab agreed to _(11)_ the experiment from scratch, hoping to _(12)_ the findings.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "empirical",
+        "options": [
+          "tedious",
+          "serendipity",
+          "refinement",
+          "empirical"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "variable",
+        "options": [
+          "variable",
+          "correlation",
+          "revelation",
+          "refinement"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "tedious",
+        "options": [
+          "serendipity",
+          "revelation",
+          "tedious",
+          "variable"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "painstaking",
+        "options": [
+          "empirical",
+          "painstaking",
+          "inconclusive",
+          "variable"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "inconclusive",
+        "options": [
+          "empirical",
+          "painstaking",
+          "tedious",
+          "inconclusive"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "speculate",
+        "options": [
+          "speculate",
+          "replicate",
+          "validate",
+          "variable"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "serendipity",
+        "options": [
+          "correlation",
+          "refinement",
+          "serendipity",
+          "variable"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "correlation",
+        "options": [
+          "serendipity",
+          "correlation",
+          "revelation",
+          "refinement"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "revelation",
+        "options": [
+          "correlation",
+          "variable",
+          "empirical",
+          "revelation"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "refinement",
+        "options": [
+          "refinement",
+          "serendipity",
+          "correlation",
+          "tedious"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "replicate",
+        "options": [
+          "speculate",
+          "inconclusive",
+          "replicate",
+          "painstaking"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "validate",
+        "options": [
+          "speculate",
+          "validate",
+          "tedious",
+          "variable"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "tedious",
+        "scale": [
+          "Dull",
+          "Tiresome",
+          "Tedious"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "painstaking",
+        "scale": [
+          "Careful",
+          "Thorough",
+          "Painstaking"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "revelation",
+        "scale": [
+          "Hint",
+          "Discovery",
+          "Revelation"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "validate",
+        "scale": [
+          "Test",
+          "Confirm",
+          "Validate"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "empirical",
+        "words": [
+          "Observed",
+          "Experimental",
+          "Theoretical",
+          "Factual"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Theoretical"
+      },
+      {
+        "vocabWord": "replicate",
+        "words": [
+          "Copy",
+          "Duplicate",
+          "Repeat",
+          "Invent"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Invent"
+      },
+      {
+        "vocabWord": "variable",
+        "words": [
+          "Constant",
+          "Changeable",
+          "Unstable",
+          "Fluctuating"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Constant"
+      },
+      {
+        "vocabWord": "correlation",
+        "words": [
+          "Connection",
+          "Isolation",
+          "Link",
+          "Relationship"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Isolation"
+      },
+      {
+        "vocabWord": "speculate",
+        "words": [
+          "Guess",
+          "Suppose",
+          "Theorize",
+          "Know"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Know"
+      },
+      {
+        "vocabWord": "inconclusive",
+        "words": [
+          "Unclear",
+          "Undecided",
+          "Definite",
+          "Indecisive"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Definite"
+      },
+      {
+        "vocabWord": "serendipity",
+        "words": [
+          "Luck",
+          "Planning",
+          "Chance",
+          "Fortune"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Planning"
+      },
+      {
+        "vocabWord": "refinement",
+        "words": [
+          "Deterioration",
+          "Improvement",
+          "Polish",
+          "Enhancement"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Deterioration"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

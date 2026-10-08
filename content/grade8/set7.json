@@ -1,0 +1,578 @@
+{
+  "grade": 8,
+  "setNumber": 7,
+  "words": [
+    "privacy",
+    "addictive",
+    "misinformation",
+    "curate",
+    "viral",
+    "ethical",
+    "consent",
+    "dependence",
+    "ubiquitous",
+    "scrutiny",
+    "trivial",
+    "superficial"
+  ],
+  "sources": [
+    "Common Core Grade 8",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "technology and ethics",
+  "story": {
+    "genre": "technology and ethics",
+    "characters": [
+      "Quinn",
+      "Delia",
+      "Rashid"
+    ],
+    "parts": [
+      {
+        "title": "The Project",
+        "text": "Quinn's media class received an unusual assignment: write the rules for a new school social app. Phones were **ubiquitous** at Lakeview Middle School; nearly every student carried one and checked it between classes. Quinn argued that the first rule must protect **privacy**, so that no one's photos or messages could be shared without permission. Her partner Rashid agreed and added that every student must give **consent** before appearing in a post."
+      },
+      {
+        "title": "The Test",
+        "text": "Delia, the third member, tested a popular app for a week and came back worried. \"It is **addictive**,\" she said. \"I opened it for a minute and lost an hour.\" She also noticed that her friends' **dependence** on it was growing; several admitted they felt anxious without it. Worse, a post claiming the cafeteria would close had gone **viral**, though it was pure **misinformation** that spread faster than any correction."
+      },
+      {
+        "title": "The Rules",
+        "text": "Rashid worried about overdoing it. \"Some complaints are **trivial**,\" he said. \"If we ban everything, nobody will use it.\" Delia insisted they look past **superficial** fixes like a nicer logo and face the real design choices. Their teacher urged them to put every feature under careful **scrutiny** and ask what it was for. Slowly they drafted a plan. Students could **curate** their own feeds, choosing what to keep and what to hide. The app would also take an **ethical** approach that treated users fairly: no hidden tracking, a reminder after thirty minutes, and warning labels on rumors."
+      },
+      {
+        "title": "The Presentation",
+        "text": "When they presented to the school board, the members asked tough questions, and the team answered with evidence rather than slogans. Quinn realized that technology is never neutral, because every choice a designer makes shapes how people spend their time. The board approved a trial, and the three felt proud that their rules put people ahead of clicks."
+      }
+    ],
+    "wordCount": 296
+  },
+  "definitions": [
+    {
+      "word": "privacy",
+      "partOfSpeech": "noun",
+      "meaning1": "The right to keep personal information and activities away from other people's view. Example: Closing the bedroom door gave her a moment of privacy.",
+      "meaning2": "",
+      "studentChallenge": "Sharing a classmate's diary online is a serious violation of her ___.",
+      "sentence": ""
+    },
+    {
+      "word": "addictive",
+      "partOfSpeech": "adjective",
+      "meaning1": "Extremely hard to stop doing or using, because it creates a strong craving. Example: Some video games are designed to be addictive.",
+      "meaning2": "",
+      "studentChallenge": "Researchers warned that the app's endless scrolling was ___ for teenagers.",
+      "sentence": ""
+    },
+    {
+      "word": "misinformation",
+      "partOfSpeech": "noun",
+      "meaning1": "False or inaccurate information that gets spread around, whether or not the sender meant to fool anyone. Example: The post was misinformation, so the school corrected it the next morning.",
+      "meaning2": "",
+      "studentChallenge": "Check two reliable sources before sharing a claim, or you may spread ___.",
+      "sentence": ""
+    },
+    {
+      "word": "curate",
+      "partOfSpeech": "verb",
+      "meaning1": "To select, organize and present items thoughtfully, as in a collection or a feed. Example: She curated a playlist for the school dance.",
+      "meaning2": "To take charge of a museum's collection or exhibit. Example: The museum hired her to curate its new fossil exhibit.",
+      "studentChallenge": "Students were asked to ___ a display of old photographs for the library entrance.",
+      "sentence": ""
+    },
+    {
+      "word": "viral",
+      "partOfSpeech": "adjective",
+      "meaning1": "Spreading quickly and widely, especially online. Example: The dancing dog video went viral overnight.",
+      "meaning2": "Caused by or relating to a virus. Example: A viral infection kept him home for a week.",
+      "studentChallenge": "Her joke became ___ and was shared by millions within a day.",
+      "sentence": ""
+    },
+    {
+      "word": "ethical",
+      "partOfSpeech": "adjective",
+      "meaning1": "Based on principles of right and wrong; morally good. Example: It is not ethical to copy someone else's essay.",
+      "meaning2": "",
+      "studentChallenge": "The scientist refused to run the experiment because it was not ___.",
+      "sentence": ""
+    },
+    {
+      "word": "consent",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "Permission or agreement for something to happen. Example: You need a parent's consent to join the trip.",
+      "meaning2": "To agree or give permission. Example: Her parents consented to the weekend camping trip.",
+      "studentChallenge": "The doctor cannot treat a patient without their ___.",
+      "sentence": ""
+    },
+    {
+      "word": "dependence",
+      "partOfSpeech": "noun",
+      "meaning1": "The state of relying on someone or something, often too much. Example: Her dependence on her phone made her uneasy when the battery died.",
+      "meaning2": "A strong physical or mental need for a substance or habit. Example: The doctor warned about dependence on sleeping pills.",
+      "studentChallenge": "The island's heavy ___ on tourism hurt when travel stopped.",
+      "sentence": ""
+    },
+    {
+      "word": "ubiquitous",
+      "partOfSpeech": "adjective",
+      "meaning1": "Seeming to be present everywhere at once. Example: Coffee shops are ubiquitous in the city center.",
+      "meaning2": "",
+      "studentChallenge": "Cell phones are so ___ that it is rare to see a student without one.",
+      "sentence": ""
+    },
+    {
+      "word": "scrutiny",
+      "partOfSpeech": "noun",
+      "meaning1": "Close, careful examination. Example: The contract came under scrutiny from several lawyers.",
+      "meaning2": "",
+      "studentChallenge": "The scientist's claims faced intense ___ from other researchers.",
+      "sentence": ""
+    },
+    {
+      "word": "trivial",
+      "partOfSpeech": "adjective",
+      "meaning1": "Of little importance or value. Example: Arguing over who sat where seemed trivial compared to the real problem.",
+      "meaning2": "",
+      "studentChallenge": "Don't waste time on ___ details when the main plan is unfinished.",
+      "sentence": ""
+    },
+    {
+      "word": "superficial",
+      "partOfSpeech": "adjective",
+      "meaning1": "Only on the surface; lacking depth or careful thought. Example: A superficial reading of the report missed its key warning.",
+      "meaning2": "Affecting only the surface, as a minor wound does. Example: The cut was superficial and needed only a bandage.",
+      "studentChallenge": "Her ___ knowledge of the topic came from reading a single headline.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Posting someone's home address online is a serious invasion of their _______.",
+      "sentence2": "She closed the door to enjoy a little _______ while she studied.",
+      "options": [
+        "consent",
+        "scrutiny",
+        "privacy",
+        "dependence"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "privacy"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Some games are so _______ that players lose track of hours at a time.",
+      "sentence2": "Doctors warned that the medicine could be _______ if used for too long.",
+      "options": [
+        "addictive",
+        "viral",
+        "ubiquitous",
+        "superficial"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "addictive"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The rumor was pure _______, and no reliable source supported it.",
+      "sentence2": "Teachers showed students how to spot _______ before sharing a post.",
+      "options": [
+        "privacy",
+        "scrutiny",
+        "consent",
+        "misinformation"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "misinformation"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The museum asked her to _______ an exhibit of old maps.",
+      "sentence2": "Users can _______ their own feeds by choosing which accounts to follow.",
+      "options": [
+        "consent",
+        "curate",
+        "scrutiny",
+        "privacy"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "curate"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "A video of the rescued puppy went _______ and was shared millions of times.",
+      "sentence2": "Flu season is worse than usual, and a _______ infection kept half the class home.",
+      "options": [
+        "ubiquitous",
+        "viral",
+        "addictive",
+        "superficial"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "viral"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "A journalist has an _______ duty to report the facts honestly.",
+      "sentence2": "The company faced an _______ question about whether to sell its users' data.",
+      "options": [
+        "addictive",
+        "superficial",
+        "trivial",
+        "ethical"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ethical"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "You must get a parent's written _______ before the field trip.",
+      "sentence2": "The patient gave informed _______ before the surgery.",
+      "options": [
+        "consent",
+        "privacy",
+        "scrutiny",
+        "dependence"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "consent"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The town's heavy _______ on one factory made every layoff a disaster.",
+      "sentence2": "His _______ on his phone grew until he felt lost without it.",
+      "options": [
+        "privacy",
+        "consent",
+        "dependence",
+        "scrutiny"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "dependence"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Smartphones have become so _______ that many young children own one.",
+      "sentence2": "Chain restaurants are _______ along the highway; you pass one every mile.",
+      "options": [
+        "viral",
+        "addictive",
+        "ethical",
+        "ubiquitous"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ubiquitous"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The senator's spending came under intense _______ from reporters.",
+      "sentence2": "Under the inspector's _______, even the smallest crack in the bridge was noticed.",
+      "options": [
+        "privacy",
+        "scrutiny",
+        "misinformation",
+        "dependence"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "scrutiny"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Arguing about the color of a folder seemed _______ next to the real problem.",
+      "sentence2": "The mistake was so _______ that nobody bothered to correct it.",
+      "options": [
+        "addictive",
+        "ubiquitous",
+        "trivial",
+        "viral"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "trivial"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "His _______ knowledge of the topic came from reading a single headline.",
+      "sentence2": "The cut was only _______, so a bandage was all it needed.",
+      "options": [
+        "superficial",
+        "ethical",
+        "viral",
+        "addictive"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "superficial"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "privacy",
+      "addictive",
+      "misinformation",
+      "curate",
+      "viral",
+      "ethical",
+      "consent",
+      "dependence",
+      "ubiquitous",
+      "scrutiny",
+      "trivial",
+      "superficial"
+    ],
+    "passage": "Delia later wrote a blog post about the project. \"Phones are _(1)_ now,\" she began, \"so it is easy to forget that every app is a choice someone made.\" When a rumor about the school closing exploded online, it turned out to be pure _(2)_, yet thousands had shared it. Another post went _(3)_ within an afternoon, and nobody asked whether the girl in the photo had given her _(4)_.\n\nDelia argued that designers owe users respect for their _(5)_, because personal details deserve protection. Some features are built to be _(6)_, keeping people scrolling long after they meant to stop, and that leads to a heavy _(7)_ on the device. She told readers to examine an app with real _(8)_ rather than a quick glance. A _(9)_ review that only praises the design misses the point, and even small choices that seem _(10)_ can matter. Her team chose to _(11)_ feeds so students see useful posts, and they promised to be _(12)_ about how the app handles data.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "ubiquitous",
+        "options": [
+          "scrutiny",
+          "ubiquitous",
+          "consent",
+          "misinformation"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "misinformation",
+        "options": [
+          "privacy",
+          "consent",
+          "scrutiny",
+          "misinformation"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "viral",
+        "options": [
+          "viral",
+          "ethical",
+          "trivial",
+          "curate"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "consent",
+        "options": [
+          "dependence",
+          "scrutiny",
+          "consent",
+          "misinformation"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "privacy",
+        "options": [
+          "scrutiny",
+          "dependence",
+          "privacy",
+          "misinformation"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "addictive",
+        "options": [
+          "addictive",
+          "ethical",
+          "trivial",
+          "superficial"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "dependence",
+        "options": [
+          "privacy",
+          "consent",
+          "scrutiny",
+          "dependence"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "scrutiny",
+        "options": [
+          "privacy",
+          "scrutiny",
+          "consent",
+          "misinformation"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "superficial",
+        "options": [
+          "superficial",
+          "ubiquitous",
+          "ethical",
+          "addictive"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "trivial",
+        "options": [
+          "ubiquitous",
+          "addictive",
+          "viral",
+          "trivial"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "curate",
+        "options": [
+          "privacy",
+          "curate",
+          "consent",
+          "scrutiny"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "ethical",
+        "options": [
+          "viral",
+          "ubiquitous",
+          "ethical",
+          "addictive"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "addictive",
+        "scale": [
+          "Appealing",
+          "Habit-forming",
+          "Addictive"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "scrutiny",
+        "scale": [
+          "Glance",
+          "Review",
+          "Scrutiny"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "viral",
+        "scale": [
+          "Shared",
+          "Popular",
+          "Viral"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "ubiquitous",
+        "scale": [
+          "Common",
+          "Widespread",
+          "Ubiquitous"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "privacy",
+        "words": [
+          "Seclusion",
+          "Exposure",
+          "Solitude",
+          "Secrecy"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Exposure"
+      },
+      {
+        "vocabWord": "misinformation",
+        "words": [
+          "Falsehood",
+          "Untruth",
+          "Fabrication",
+          "Truth"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Truth"
+      },
+      {
+        "vocabWord": "ethical",
+        "words": [
+          "Dishonest",
+          "Moral",
+          "Principled",
+          "Honorable"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Dishonest"
+      },
+      {
+        "vocabWord": "consent",
+        "words": [
+          "Permission",
+          "Approval",
+          "Refusal",
+          "Agreement"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Refusal"
+      },
+      {
+        "vocabWord": "dependence",
+        "words": [
+          "Reliance",
+          "Independence",
+          "Need",
+          "Craving"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Independence"
+      },
+      {
+        "vocabWord": "trivial",
+        "words": [
+          "Crucial",
+          "Minor",
+          "Petty",
+          "Insignificant"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Crucial"
+      },
+      {
+        "vocabWord": "superficial",
+        "words": [
+          "Shallow",
+          "Skin-deep",
+          "Cursory",
+          "Thorough"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Thorough"
+      },
+      {
+        "vocabWord": "curate",
+        "words": [
+          "Select",
+          "Organize",
+          "Discard",
+          "Assemble"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Discard"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

@@ -1,0 +1,577 @@
+{
+  "grade": 6,
+  "setNumber": 9,
+  "words": [
+    "ascent",
+    "crevice",
+    "precarious",
+    "avalanche",
+    "frigid",
+    "plummet",
+    "tether",
+    "dwindle",
+    "ledge",
+    "grit",
+    "thaw",
+    "beacon"
+  ],
+  "sources": [
+    "Common Core Grade 6",
+    "Tier 2 Academic"
+  ],
+  "genre": "mountain survival",
+  "story": {
+    "genre": "mountain survival",
+    "characters": [
+      "Kira",
+      "Dmitri",
+      "Lucas"
+    ],
+    "parts": [
+      {
+        "title": "The Climb Begins",
+        "text": "Kira, her brother Dmitri, and their cousin Lucas had planned the climb for months. With their guide, Mr. Voss, they began the long **ascent** up the mountain's snowy north face. By noon, the wind had turned **frigid**, stinging their cheeks even through thick scarves. Every step felt heavier than the last, but the summit seemed to glow in the distance, pulling them forward."
+      },
+      {
+        "title": "The Roar",
+        "text": "Without warning, a low rumble shook the slope above them. \"**Avalanche**!\" Mr. Voss shouted. A wall of snow thundered past, and the group scattered. When the white cloud settled, Lucas was gone. Dmitri found him clinging to a narrow **ledge** above a deep **crevice**, a crack in the ice so wide it seemed bottomless. One slip, and Lucas would **plummet** into the darkness. The **precarious** edge crumbled beneath his boots."
+      },
+      {
+        "title": "Holding On",
+        "text": "Kira tied a rope around a boulder and tossed the other end down as a **tether**. Hours passed, and the daylight began to **dwindle**. Their hands were numb, but they hauled with every ounce of **grit** they had. At last Mr. Voss lit an orange flare, a **beacon** that rescuers could spot from miles away. At sunrise, golden light began to **thaw** their frozen fingers, and a helicopter thumped overhead."
+      },
+      {
+        "title": "Safe at Camp",
+        "text": "Back at base camp, Lucas sipped hot cocoa under a heavy blanket and thanked his cousins in a shaky voice. Kira realized that courage is not the absence of fear. It is staying calm and working together when everything feels impossible."
+      }
+    ],
+    "wordCount": 244
+  },
+  "definitions": [
+    {
+      "word": "ascent",
+      "partOfSpeech": "noun",
+      "meaning1": "The act of climbing or going upward. Example: The steep ascent to the summit took six exhausting hours.",
+      "meaning2": "A slope or path that goes up. Example: The last ascent before the cabin was rocky and narrow.",
+      "studentChallenge": "The hikers rested after the long ___ up the trail.",
+      "sentence": ""
+    },
+    {
+      "word": "crevice",
+      "partOfSpeech": "noun",
+      "meaning1": "A narrow crack or opening in rock or ice. Example: The hiker's boot slid into a deep crevice in the glacier.",
+      "meaning2": "",
+      "studentChallenge": "Tiny weeds grew in a ___ between the stones of the wall.",
+      "sentence": ""
+    },
+    {
+      "word": "precarious",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not safe or steady; likely to fall or fail. Example: The rickety bridge looked so precarious that nobody wanted to cross it.",
+      "meaning2": "Depending on chance and uncertain. Example: With three jobs lost in a year, the family's money situation was precarious.",
+      "studentChallenge": "The boulder sat in a ___ spot, ready to roll at any moment.",
+      "sentence": ""
+    },
+    {
+      "word": "avalanche",
+      "partOfSpeech": "noun",
+      "meaning1": "A large mass of snow and ice sliding quickly down a mountain. Example: Skiers heard a deep rumble just before the avalanche swept down the slope.",
+      "meaning2": "An overwhelming amount of something arriving all at once. Example: After the contest announcement, an avalanche of emails buried the school's inbox.",
+      "studentChallenge": "The ranger warned that heavy snow could trigger an ___ on the steep slope.",
+      "sentence": ""
+    },
+    {
+      "word": "frigid",
+      "partOfSpeech": "adjective",
+      "meaning1": "Extremely cold. Example: The frigid wind stung every bit of exposed skin.",
+      "meaning2": "Unfriendly or cold in manner. Example: She gave the rude visitor a frigid stare.",
+      "studentChallenge": "The ___ water of the mountain lake made her teeth chatter.",
+      "sentence": ""
+    },
+    {
+      "word": "plummet",
+      "partOfSpeech": "verb",
+      "meaning1": "To fall straight down very quickly. Example: A dropped rock would plummet hundreds of feet into the canyon.",
+      "meaning2": "To drop suddenly in amount or value. Example: Temperatures often plummet after sunset in the desert.",
+      "studentChallenge": "If the cable snaps, the cabin will ___ to the valley floor.",
+      "sentence": ""
+    },
+    {
+      "word": "tether",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A rope or chain that keeps something fastened in place. Example: The sailor checked the tether that held the boat to the dock.",
+      "meaning2": "To tie with a rope so it cannot move away. Example: Climbers tether themselves to the rock wall to stay safe.",
+      "studentChallenge": "The mountaineer clipped her harness to a ___ for safety.",
+      "sentence": ""
+    },
+    {
+      "word": "dwindle",
+      "partOfSpeech": "verb",
+      "meaning1": "To slowly become smaller or fewer. Example: Little by little, the campers' supply of food began to dwindle.",
+      "meaning2": "",
+      "studentChallenge": "As the days grew colder, the number of tourists began to ___.",
+      "sentence": ""
+    },
+    {
+      "word": "ledge",
+      "partOfSpeech": "noun",
+      "meaning1": "A narrow shelf or flat edge sticking out from a cliff or wall. Example: The climber rested on a rocky ledge halfway up the cliff.",
+      "meaning2": "A narrow shelf along the bottom of a window. Example: The cat napped on the window ledge.",
+      "studentChallenge": "A mountain goat stood calmly on a narrow ___ of rock.",
+      "sentence": ""
+    },
+    {
+      "word": "grit",
+      "partOfSpeech": "noun",
+      "meaning1": "Courage and the determination to keep going. Example: It took real grit to keep climbing after twelve hours.",
+      "meaning2": "Tiny bits of sand or stone. Example: The grit in the soup crunched between my teeth.",
+      "studentChallenge": "She showed great ___ by finishing the race with a sprained ankle.",
+      "sentence": ""
+    },
+    {
+      "word": "thaw",
+      "partOfSpeech": "verb",
+      "meaning1": "To melt or become unfrozen. Example: In spring, the frozen lake will slowly thaw.",
+      "meaning2": "To become friendlier and more relaxed. Example: After a few jokes, the shy new student began to thaw.",
+      "studentChallenge": "Warm sunlight will soon ___ the ice on the pond.",
+      "sentence": ""
+    },
+    {
+      "word": "beacon",
+      "partOfSpeech": "noun",
+      "meaning1": "A bright light or signal used to guide or warn. Example: The lighthouse served as a beacon that guided ships past the rocks.",
+      "meaning2": "Something that gives hope or guidance. Example: The kind teacher was a beacon of hope for students who felt lost.",
+      "studentChallenge": "The rescue team lit a ___ so the lost hikers could find the way.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The steep _______ to the summit took the climbers six exhausting hours.",
+      "sentence2": "The last _______ before the cabin was a rocky path that wound upward through the pines.",
+      "options": [
+        "ledge",
+        "ascent",
+        "crevice",
+        "avalanche"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "ascent"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The hiker's boot slid into a narrow _______ in the glacier.",
+      "sentence2": "Tiny weeds grew in a _______ between two stones of the old wall.",
+      "options": [
+        "crevice",
+        "ledge",
+        "beacon",
+        "grit"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "crevice"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The rickety bridge looked so _______ that nobody wanted to cross it.",
+      "sentence2": "After losing three jobs in a year, the family's money situation was _______.",
+      "options": [
+        "frigid",
+        "grit",
+        "ledge",
+        "precarious"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "precarious"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Skiers heard a deep rumble before an _______ swept down the slope.",
+      "sentence2": "After the contest announcement, an _______ of emails buried the school's inbox.",
+      "options": [
+        "tether",
+        "beacon",
+        "avalanche",
+        "ascent"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "avalanche"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The wind turned _______, stinging every bit of exposed skin.",
+      "sentence2": "She gave the rude visitor a cold, _______ stare.",
+      "options": [
+        "precarious",
+        "frigid",
+        "plummet",
+        "dwindle"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "frigid"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "A dropped rock would _______ hundreds of feet into the canyon.",
+      "sentence2": "Temperatures often _______ after sunset in the desert.",
+      "options": [
+        "plummet",
+        "dwindle",
+        "thaw",
+        "tether"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "plummet"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Use a short rope to _______ the boat to the dock so it cannot drift.",
+      "sentence2": "Climbers _______ themselves to the rock wall to stay safe.",
+      "options": [
+        "dwindle",
+        "thaw",
+        "plummet",
+        "tether"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "tether"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Little by little, the campers' supply of food began to _______.",
+      "sentence2": "Over the long afternoon, the hikers' hopes of finishing began to _______ one hour at a time.",
+      "options": [
+        "plummet",
+        "thaw",
+        "dwindle",
+        "tether"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "dwindle"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The cat napped on the narrow window _______ above the garden.",
+      "sentence2": "The climber rested on a flat rock _______ halfway up the cliff.",
+      "options": [
+        "crevice",
+        "ledge",
+        "ascent",
+        "avalanche"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "ledge"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "It took real _______ to keep climbing after twelve hours.",
+      "sentence2": "Fine _______ in the soup crunched between my teeth.",
+      "options": [
+        "grit",
+        "beacon",
+        "ledge",
+        "ascent"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "grit"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "In spring, the frozen lake will slowly _______.",
+      "sentence2": "After a few jokes, the shy new student began to _______ and join the conversation.",
+      "options": [
+        "dwindle",
+        "plummet",
+        "tether",
+        "thaw"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "thaw"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The lighthouse served as a _______ guiding ships safely past the rocks.",
+      "sentence2": "The kind teacher was a _______ of hope for students who felt lost.",
+      "options": [
+        "ascent",
+        "grit",
+        "beacon",
+        "ledge"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "beacon"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "ascent",
+      "crevice",
+      "precarious",
+      "avalanche",
+      "frigid",
+      "plummet",
+      "tether",
+      "dwindle",
+      "ledge",
+      "grit",
+      "thaw",
+      "beacon"
+    ],
+    "passage": "Every winter, the youth ski patrol practiced rescues on Silver Ridge. This year, Mia's team began with a slow _(1)_ up the slope. The air was _(2)_, and every breath turned to steam. Their coach warned them about a hidden _(3)_ near the glacier's edge, a narrow crack that could swallow a boot.\n\nA practice dummy waited on a _(4)_ halfway up the cliff. \"Be careful,\" the coach said. \"That rock is _(5)_ and could give way at any moment. Clip on a rope first. It is your _(6)_ if the ground slips.\" They knew that if the snow shifted, a small _(7)_ could send the dummy sliding, and it might _(8)_ off the edge.\n\nDaylight began to _(9)_ as the afternoon wore on, but Mia refused to quit. Her _(10)_ kept the team moving. They switched on a flashlight to serve as a _(11)_ for the rest of the group. By evening, everyone's numb hands began to _(12)_ in the warm cabin.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "ascent",
+        "options": [
+          "ledge",
+          "crevice",
+          "ascent",
+          "grit"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "frigid",
+        "options": [
+          "precarious",
+          "frigid",
+          "plummet",
+          "dwindle"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "crevice",
+        "options": [
+          "crevice",
+          "ledge",
+          "avalanche",
+          "beacon"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "ledge",
+        "options": [
+          "ascent",
+          "avalanche",
+          "beacon",
+          "ledge"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "precarious",
+        "options": [
+          "frigid",
+          "grit",
+          "precarious",
+          "dwindle"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "tether",
+        "options": [
+          "beacon",
+          "tether",
+          "grit",
+          "ledge"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "avalanche",
+        "options": [
+          "avalanche",
+          "beacon",
+          "ascent",
+          "grit"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "plummet",
+        "options": [
+          "dwindle",
+          "thaw",
+          "tether",
+          "plummet"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "dwindle",
+        "options": [
+          "thaw",
+          "tether",
+          "dwindle",
+          "ledge"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "grit",
+        "options": [
+          "beacon",
+          "grit",
+          "ledge",
+          "ascent"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "beacon",
+        "options": [
+          "beacon",
+          "ledge",
+          "ascent",
+          "crevice"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "thaw",
+        "options": [
+          "dwindle",
+          "plummet",
+          "tether",
+          "thaw"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "frigid",
+        "scale": [
+          "Cool",
+          "Cold",
+          "Frigid"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "plummet",
+        "scale": [
+          "Dip",
+          "Drop",
+          "Plummet"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "dwindle",
+        "scale": [
+          "Shrink",
+          "Dwindle",
+          "Vanish"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "precarious",
+        "scale": [
+          "Unsteady",
+          "Precarious",
+          "Perilous"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "frigid",
+        "words": [
+          "Icy",
+          "Chilly",
+          "Scorching",
+          "Freezing"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Scorching"
+      },
+      {
+        "vocabWord": "precarious",
+        "words": [
+          "Unsafe",
+          "Shaky",
+          "Stable",
+          "Risky"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Stable"
+      },
+      {
+        "vocabWord": "plummet",
+        "words": [
+          "Plunge",
+          "Dive",
+          "Climb",
+          "Drop"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Climb"
+      },
+      {
+        "vocabWord": "dwindle",
+        "words": [
+          "Shrink",
+          "Fade",
+          "Lessen",
+          "Grow"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Grow"
+      },
+      {
+        "vocabWord": "thaw",
+        "words": [
+          "Melt",
+          "Soften",
+          "Freeze",
+          "Defrost"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Freeze"
+      },
+      {
+        "vocabWord": "grit",
+        "words": [
+          "Courage",
+          "Cowardice",
+          "Determination",
+          "Nerve"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Cowardice"
+      },
+      {
+        "vocabWord": "ascent",
+        "words": [
+          "Climb",
+          "Descent",
+          "Rise",
+          "Upswing"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Descent"
+      },
+      {
+        "vocabWord": "beacon",
+        "words": [
+          "Signal",
+          "Flare",
+          "Light",
+          "Darkness"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Darkness"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

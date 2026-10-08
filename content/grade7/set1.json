@@ -1,0 +1,578 @@
+{
+  "grade": 7,
+  "setNumber": 1,
+  "words": [
+    "bazaar",
+    "opulent",
+    "lavish",
+    "convoy",
+    "plunder",
+    "toll",
+    "envoy",
+    "treaty",
+    "haggle",
+    "alliance",
+    "tribute",
+    "exorbitant"
+  ],
+  "sources": [
+    "Common Core Grade 7",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "ancient trade route",
+  "story": {
+    "genre": "ancient trade route",
+    "characters": [
+      "Layla",
+      "Cyrus",
+      "Nico"
+    ],
+    "parts": [
+      {
+        "title": "The Long Road East",
+        "text": "Layla's caravan master had promised that the **convoy** would reach the great city before the rains, but the road was long and dangerous. At every river crossing, a guard demanded a **toll**, and Layla counted the coins leaving their purse with a frown. Bandits were the bigger fear. Travelers told of raiders who could **plunder** an entire caravan in one night. Cyrus, the young translator, kept his eyes on the horizon until the towers of the **bazaar** rose from the haze."
+      },
+      {
+        "title": "A City of Glitter",
+        "text": "Inside the walls, the market sparkled. Beyond the silk stalls gleamed the **opulent** palace of the ruler. Nico, who had never seen such a **lavish** display of spices, gold and perfume, stood with his mouth open. Cyrus reminded him to **haggle**, because the first price a seller named was always **exorbitant**, three times what the goods were worth. Layla bargained for a bolt of blue cloth, smiling, never revealing how badly she wanted it."
+      },
+      {
+        "title": "A Message from Afar",
+        "text": "That evening, an **envoy** from a distant kingdom arrived with troubling news. His people had signed a **treaty** with the city, yet the ruler now demanded extra **tribute**, a yearly payment of grain and silver, or he would cancel their trade rights. Without an **alliance** between the two lands, the road would close and the caravan would be stranded. Layla suggested that merchants from both realms share the cost of a new well."
+      },
+      {
+        "title": "What the Road Taught Them",
+        "text": "By morning, the ruler had agreed to talk instead of threaten. Nico realized that people who trade together have good reasons to keep the peace. As the caravan rolled out through the gates, Layla tucked the blue cloth into her pack as a reminder."
+      }
+    ],
+    "wordCount": 272
+  },
+  "definitions": [
+    {
+      "word": "bazaar",
+      "partOfSpeech": "noun",
+      "meaning1": "A large market with many small shops or stalls, especially in the Middle East or Asia. Example: We bought dried apricots and brass lanterns at the crowded bazaar.",
+      "meaning2": "",
+      "studentChallenge": "Merchants shouted prices from their stalls all across the busy ___.",
+      "sentence": ""
+    },
+    {
+      "word": "opulent",
+      "partOfSpeech": "adjective",
+      "meaning1": "Richly decorated and obviously very expensive. Example: The hotel lobby was opulent, with crystal chandeliers and marble floors.",
+      "meaning2": "",
+      "studentChallenge": "The king's ___ throne room was covered in gold and jewels.",
+      "sentence": ""
+    },
+    {
+      "word": "lavish",
+      "partOfSpeech": "adjective, verb",
+      "meaning1": "Very generous or expensive, with more than is needed. Example: The family threw a lavish party with enough food for the whole town.",
+      "meaning2": "To give something in great amounts. Example: Grandpa likes to lavish praise on anyone who finishes a hard puzzle.",
+      "studentChallenge": "The wealthy host was known for her ___ dinners with ten courses.",
+      "sentence": ""
+    },
+    {
+      "word": "convoy",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A group of vehicles, animals or ships traveling together for safety. Example: A convoy of trucks carried supplies across the mountains.",
+      "meaning2": "To travel with and protect. Example: Warships were sent to convoy the cargo vessels through dangerous waters.",
+      "studentChallenge": "Traveling in a ___ was safer than crossing the desert alone.",
+      "sentence": ""
+    },
+    {
+      "word": "plunder",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To steal goods from a place by force, especially during a war or raid. Example: Pirates came ashore to plunder the harbor town.",
+      "meaning2": "The goods taken in this way. Example: The thieves buried their plunder beneath an old oak tree.",
+      "studentChallenge": "Raiders swept in to ___ the village's grain and silver.",
+      "sentence": ""
+    },
+    {
+      "word": "toll",
+      "partOfSpeech": "noun",
+      "meaning1": "A fee paid to use a road, bridge or crossing. Example: Drivers must pay a toll to cross the bridge.",
+      "meaning2": "The amount of harm or loss caused by something. Example: The long drought took a heavy toll on the farms.",
+      "studentChallenge": "Each traveler paid a small ___ to cross the old stone bridge.",
+      "sentence": ""
+    },
+    {
+      "word": "envoy",
+      "partOfSpeech": "noun",
+      "meaning1": "A person sent to represent a government or ruler in another place. Example: The envoy traveled to the capital to ask for help.",
+      "meaning2": "",
+      "studentChallenge": "The queen sent a trusted ___ to deliver her message to the foreign court.",
+      "sentence": ""
+    },
+    {
+      "word": "treaty",
+      "partOfSpeech": "noun",
+      "meaning1": "A formal agreement between countries, signed after careful talks. Example: The treaty ended the war and reopened the borders.",
+      "meaning2": "",
+      "studentChallenge": "After years of fighting, the leaders signed a ___ to bring peace.",
+      "sentence": ""
+    },
+    {
+      "word": "haggle",
+      "partOfSpeech": "verb",
+      "meaning1": "To argue politely about a price until the buyer and seller agree. Example: My aunt loves to haggle at flea markets until she gets a bargain.",
+      "meaning2": "",
+      "studentChallenge": "Tourists often ___ with street vendors to get a lower price.",
+      "sentence": ""
+    },
+    {
+      "word": "alliance",
+      "partOfSpeech": "noun",
+      "meaning1": "A partnership between nations or groups who join together for a shared goal. Example: The three towns formed an alliance to protect their farmland.",
+      "meaning2": "",
+      "studentChallenge": "The two kingdoms formed a strong ___ against their common enemy.",
+      "sentence": ""
+    },
+    {
+      "word": "tribute",
+      "partOfSpeech": "noun",
+      "meaning1": "Money or goods paid regularly by a weaker ruler to a stronger one as a sign of loyalty or for protection. Example: The small kingdom sent gold as tribute to the empire.",
+      "meaning2": "Something said or done to show respect and admiration. Example: The concert was a tribute to the town's firefighters.",
+      "studentChallenge": "Fans left flowers as a ___ to honor the late singer.",
+      "sentence": ""
+    },
+    {
+      "word": "exorbitant",
+      "partOfSpeech": "adjective",
+      "meaning1": "Much higher than is fair or reasonable, especially a price. Example: The shop charged an exorbitant amount for a single bottle of water.",
+      "meaning2": "",
+      "studentChallenge": "The ticket price was so ___ that most families could not afford to go.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Every morning, farmers carried baskets of figs to the crowded _______.",
+      "sentence2": "Tourists wandered through the _______, sniffing spices and admiring brass lamps.",
+      "options": [
+        "convoy",
+        "treaty",
+        "bazaar",
+        "envoy"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "bazaar"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The sultan's _______ palace was covered in gold leaf and polished marble.",
+      "sentence2": "Guests gasped at the _______ ballroom, where jewels sparkled on every wall.",
+      "options": [
+        "opulent",
+        "exorbitant",
+        "tribute",
+        "treaty"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "opulent"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The kind merchant was _______ with his gifts, giving every child a coin.",
+      "sentence2": "The proud uncle would _______ praise on anyone who admired his horses.",
+      "options": [
+        "plunder",
+        "opulent",
+        "exorbitant",
+        "lavish"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "lavish"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "A long _______ of camels and wagons wound slowly across the desert.",
+      "sentence2": "Soldiers rode beside the _______ to guard the wagons from raiders.",
+      "options": [
+        "bazaar",
+        "convoy",
+        "alliance",
+        "envoy"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "convoy"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Raiders swept into the village to _______ its grain, silver and cattle.",
+      "sentence2": "Thieves carried off every gold statue, and the temple's priests mourned the _______ for years.",
+      "options": [
+        "haggle",
+        "plunder",
+        "toll",
+        "tribute"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "plunder"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Guards at the bridge collected a small _______ from every traveler who crossed.",
+      "sentence2": "The long march took a heavy _______ on the tired animals.",
+      "options": [
+        "tribute",
+        "treaty",
+        "plunder",
+        "toll"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "toll"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The king sent an _______ to speak on his behalf at the peace talks.",
+      "sentence2": "As the royal _______, she carried a sealed letter across three borders.",
+      "options": [
+        "envoy",
+        "convoy",
+        "alliance",
+        "bazaar"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "envoy"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "After years of war, the two kingdoms signed a _______ promising peace.",
+      "sentence2": "The _______ guaranteed that merchants could cross the border without fear of arrest.",
+      "options": [
+        "tribute",
+        "envoy",
+        "treaty",
+        "toll"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "treaty"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Smart shoppers always _______ over the price before they buy anything.",
+      "sentence2": "She loved to _______ with the rug seller until both of them were laughing.",
+      "options": [
+        "plunder",
+        "lavish",
+        "haggle",
+        "toll"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "haggle"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The two cities formed an _______ so they would defend each other against invaders.",
+      "sentence2": "Their _______ was so strong that an attack on one was an attack on both.",
+      "options": [
+        "alliance",
+        "convoy",
+        "tribute",
+        "envoy"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "alliance"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Each spring, the small kingdom sent gold and grain as _______ to its powerful neighbor.",
+      "sentence2": "The poet wrote a song as a _______ to the heroes who had saved the harbor.",
+      "options": [
+        "toll",
+        "tribute",
+        "treaty",
+        "plunder"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "tribute"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The seller's price for a cup of water was _______, far more than it was worth.",
+      "sentence2": "Travelers complained that the inn's fees were _______ and nearly emptied their purses.",
+      "options": [
+        "opulent",
+        "treaty",
+        "toll",
+        "exorbitant"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "exorbitant"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "bazaar",
+      "opulent",
+      "lavish",
+      "convoy",
+      "plunder",
+      "toll",
+      "envoy",
+      "treaty",
+      "haggle",
+      "alliance",
+      "tribute",
+      "exorbitant"
+    ],
+    "passage": "Nico's grandmother kept a journal about her travels along the old Silk Road. She wrote that every _(1)_ of wagons and camels left at dawn, because traveling together made it harder for thieves to _(2)_ the goods. At each bridge, a guard collected a _(3)_ before letting anyone pass.\n\nWhen her caravan reached the busy _(4)_, she was dazzled by the _(5)_ palace beyond it, whose gold ceilings shone like the sun. A rug seller asked an _(6)_ price, so she learned to _(7)_ until he lowered it.\n\nOne year, an _(8)_ from a faraway kingdom arrived to sign a _(9)_ that ended a long quarrel. Later, the two kingdoms formed an _(10)_, promising to help each other in times of danger. The smaller land still sent a yearly _(11)_ of silver to its neighbor, and the ruler welcomed every visitor with a _(12)_ feast.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "convoy",
+        "options": [
+          "bazaar",
+          "treaty",
+          "tribute",
+          "convoy"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "plunder",
+        "options": [
+          "plunder",
+          "haggle",
+          "lavish",
+          "toll"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "toll",
+        "options": [
+          "treaty",
+          "convoy",
+          "toll",
+          "bazaar"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "bazaar",
+        "options": [
+          "convoy",
+          "toll",
+          "bazaar",
+          "treaty"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "opulent",
+        "options": [
+          "opulent",
+          "convoy",
+          "toll",
+          "haggle"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "exorbitant",
+        "options": [
+          "opulent",
+          "exorbitant",
+          "envoy",
+          "alliance"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "haggle",
+        "options": [
+          "plunder",
+          "lavish",
+          "toll",
+          "haggle"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "envoy",
+        "options": [
+          "alliance",
+          "opulent",
+          "envoy",
+          "exorbitant"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "treaty",
+        "options": [
+          "treaty",
+          "tribute",
+          "toll",
+          "convoy"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "alliance",
+        "options": [
+          "envoy",
+          "opulent",
+          "exorbitant",
+          "alliance"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "tribute",
+        "options": [
+          "treaty",
+          "tribute",
+          "bazaar",
+          "convoy"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "lavish",
+        "options": [
+          "toll",
+          "lavish",
+          "treaty",
+          "haggle"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "opulent",
+        "scale": [
+          "Comfortable",
+          "Luxurious",
+          "Opulent"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "exorbitant",
+        "scale": [
+          "Pricey",
+          "Excessive",
+          "Exorbitant"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "plunder",
+        "scale": [
+          "Take",
+          "Raid",
+          "Plunder"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "haggle",
+        "scale": [
+          "Ask",
+          "Bargain",
+          "Haggle"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "bazaar",
+        "words": [
+          "Market",
+          "Marketplace",
+          "Souk",
+          "Wilderness"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Wilderness"
+      },
+      {
+        "vocabWord": "lavish",
+        "words": [
+          "Generous",
+          "Stingy",
+          "Abundant",
+          "Plentiful"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Stingy"
+      },
+      {
+        "vocabWord": "alliance",
+        "words": [
+          "Rivalry",
+          "Partnership",
+          "Union",
+          "Coalition"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Rivalry"
+      },
+      {
+        "vocabWord": "tribute",
+        "words": [
+          "Honor",
+          "Praise",
+          "Insult",
+          "Salute"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Insult"
+      },
+      {
+        "vocabWord": "treaty",
+        "words": [
+          "Agreement",
+          "Pact",
+          "Dispute",
+          "Accord"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Dispute"
+      },
+      {
+        "vocabWord": "envoy",
+        "words": [
+          "Rival",
+          "Ambassador",
+          "Delegate",
+          "Messenger"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Rival"
+      },
+      {
+        "vocabWord": "opulent",
+        "words": [
+          "Luxurious",
+          "Grand",
+          "Splendid",
+          "Shabby"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Shabby"
+      },
+      {
+        "vocabWord": "exorbitant",
+        "words": [
+          "Excessive",
+          "Reasonable",
+          "Outrageous",
+          "Steep"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Reasonable"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

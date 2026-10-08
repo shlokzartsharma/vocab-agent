@@ -1,0 +1,578 @@
+{
+  "grade": 7,
+  "setNumber": 10,
+  "words": [
+    "hospitable",
+    "etiquette",
+    "dialect",
+    "ritual",
+    "fluent",
+    "immerse",
+    "itinerary",
+    "souvenir",
+    "bilingual",
+    "cuisine",
+    "mingle",
+    "excursion"
+  ],
+  "sources": [
+    "Common Core Grade 7",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "cultural exchange trip",
+  "story": {
+    "genre": "cultural exchange trip",
+    "characters": [
+      "Mei Lin",
+      "Jonas",
+      "Zainab"
+    ],
+    "parts": [
+      {
+        "title": "Arrival",
+        "text": "The exchange students stepped off the bus in a small coastal town in Portugal, tired but excited. Mei Lin held the printed **itinerary**, which listed every activity for the two-week trip. Their host family was warm and **hospitable**, greeting them with hugs and a table full of food. Jonas had studied the language for a year but was far from **fluent**, so he stumbled over his first greeting. Luckily, their host sister was **bilingual** and switched smoothly between Portuguese and English."
+      },
+      {
+        "title": "Learning the Customs",
+        "text": "Zainab had read about local **etiquette**, the polite manners people expect, such as removing shoes at the door and waiting for the oldest person to begin eating. At dinner they tasted the local **cuisine**: grilled fish, fresh bread and sweet custard tarts. Each night, the family followed a **ritual** of sharing a pot of tea before bed. Their grandfather spoke in a rural **dialect** so different from the textbook language that Jonas could barely follow."
+      },
+      {
+        "title": "The Festival",
+        "text": "On Saturday, the group took an **excursion** to a seaside village for a festival. They decided to **immerse** themselves in the language by speaking nothing else all day. The sun was warm, the music was loud, and nobody cared about mistakes. Soon Mei Lin was able to **mingle** with the crowd, chatting with strangers and joining a folk dance. Zainab bought a hand-painted tile as a **souvenir** to remember the trip."
+      },
+      {
+        "title": "Goodbyes",
+        "text": "On the final evening, Jonas thanked the family in careful Portuguese, and everyone clapped. The trip had shown the students that curiosity and kindness can bridge almost any distance. They left with full suitcases, new friends and plans to write letters every month."
+      }
+    ],
+    "wordCount": 270
+  },
+  "definitions": [
+    {
+      "word": "hospitable",
+      "partOfSpeech": "adjective",
+      "meaning1": "Friendly and generous toward guests and visitors. Example: The hospitable family invited us in for dinner.",
+      "meaning2": "Pleasant and favorable for living or growing. Example: The warm, wet valley was hospitable to many kinds of plants.",
+      "studentChallenge": "Our ___ hosts made sure we always had enough to eat.",
+      "sentence": ""
+    },
+    {
+      "word": "etiquette",
+      "partOfSpeech": "noun",
+      "meaning1": "The polite rules of behavior in a society or situation. Example: Table etiquette includes using a napkin and not talking with food in your mouth.",
+      "meaning2": "",
+      "studentChallenge": "Good ___ means saying please and thank you.",
+      "sentence": ""
+    },
+    {
+      "word": "dialect",
+      "partOfSpeech": "noun",
+      "meaning1": "A form of a language spoken in a particular region or by a particular group. Example: The villagers spoke a dialect that sounded very different from the standard language.",
+      "meaning2": "",
+      "studentChallenge": "Each region of the country has its own ___ with special words.",
+      "sentence": ""
+    },
+    {
+      "word": "ritual",
+      "partOfSpeech": "noun",
+      "meaning1": "A set of actions done in the same way each time, often for religious or cultural reasons. Example: Lighting candles each Friday night is an important family ritual.",
+      "meaning2": "",
+      "studentChallenge": "Lighting the lantern at sunset was a family ___ for generations.",
+      "sentence": ""
+    },
+    {
+      "word": "fluent",
+      "partOfSpeech": "adjective",
+      "meaning1": "Able to speak or write a language easily and well. Example: After living in Japan for years, she became fluent in Japanese.",
+      "meaning2": "Smooth and flowing. Example: The pianist's fluent playing sounded effortless.",
+      "studentChallenge": "He was so ___ in French that people thought he was born in Paris.",
+      "sentence": ""
+    },
+    {
+      "word": "immerse",
+      "partOfSpeech": "verb",
+      "meaning1": "To put something completely under a liquid. Example: Immerse the vegetables in boiling water for one minute.",
+      "meaning2": "To involve yourself deeply in an activity or place. Example: She wanted to immerse herself in the local culture.",
+      "studentChallenge": "Students ___ themselves in the language by speaking nothing else all day.",
+      "sentence": ""
+    },
+    {
+      "word": "itinerary",
+      "partOfSpeech": "noun",
+      "meaning1": "A plan or schedule for a trip, listing the places to visit. Example: Our itinerary included a museum visit on Tuesday.",
+      "meaning2": "",
+      "studentChallenge": "The travel agent printed a day-by-day ___ for the trip.",
+      "sentence": ""
+    },
+    {
+      "word": "souvenir",
+      "partOfSpeech": "noun",
+      "meaning1": "An object kept to remember a place or event. Example: I bought a small wooden boat as a souvenir of the lake.",
+      "meaning2": "",
+      "studentChallenge": "She brought home a seashell as a ___ of her vacation.",
+      "sentence": ""
+    },
+    {
+      "word": "bilingual",
+      "partOfSpeech": "adjective",
+      "meaning1": "Able to speak two languages well. Example: My bilingual cousin speaks Spanish and English.",
+      "meaning2": "Written or spoken in two languages. Example: The museum has bilingual signs in English and Arabic.",
+      "studentChallenge": "A ___ guide can explain the tour in two different languages.",
+      "sentence": ""
+    },
+    {
+      "word": "cuisine",
+      "partOfSpeech": "noun",
+      "meaning1": "A style of cooking, especially of a certain country or region. Example: Italian cuisine is famous for pasta and fresh tomatoes.",
+      "meaning2": "",
+      "studentChallenge": "The chef is famous for her spicy coastal ___.",
+      "sentence": ""
+    },
+    {
+      "word": "mingle",
+      "partOfSpeech": "verb",
+      "meaning1": "To mix with other people at a gathering. Example: Guests began to mingle over snacks and lemonade.",
+      "meaning2": "To combine or blend together. Example: The smells of baking bread and coffee mingle in the morning air.",
+      "studentChallenge": "At the festival, shy students were encouraged to ___ with new friends.",
+      "sentence": ""
+    },
+    {
+      "word": "excursion",
+      "partOfSpeech": "noun",
+      "meaning1": "A short trip taken for pleasure or education. Example: The class went on an excursion to the science museum.",
+      "meaning2": "",
+      "studentChallenge": "The school planned a day ___ to the botanical garden.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The _______ innkeeper offered every guest a warm meal and a soft bed.",
+      "sentence2": "People in the village are famously _______ and always treat visitors like family.",
+      "options": [
+        "fluent",
+        "bilingual",
+        "hospitable",
+        "cuisine"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "hospitable"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Good table _______ means chewing with your mouth closed and waiting your turn.",
+      "sentence2": "Phone _______ at the theater says to silence your device before the show.",
+      "options": [
+        "cuisine",
+        "etiquette",
+        "dialect",
+        "souvenir"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "etiquette"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Even though they both spoke English, the visitor struggled with the farmer's heavy rural _______.",
+      "sentence2": "Each region of the country has its own _______, with unique words and accents.",
+      "options": [
+        "dialect",
+        "cuisine",
+        "ritual",
+        "itinerary"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "dialect"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Every morning, the family followed a quiet _______ of lighting a candle and sharing tea.",
+      "sentence2": "Before every game, the pitcher performs the same _______ of tapping his cap three times.",
+      "options": [
+        "excursion",
+        "souvenir",
+        "itinerary",
+        "ritual"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ritual"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "After living abroad for years, she became _______ in three languages.",
+      "sentence2": "He gave a _______ speech without once pausing to search for a word.",
+      "options": [
+        "bilingual",
+        "hospitable",
+        "fluent",
+        "itinerary"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "fluent"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The best way to learn Spanish is to _______ yourself in conversations all day.",
+      "sentence2": "Cooks _______ the noodles in boiling water for three minutes.",
+      "options": [
+        "mingle",
+        "immerse",
+        "ritual",
+        "souvenir"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "immerse"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Our _______ for the week lists a museum visit on Tuesday and a hike on Friday.",
+      "sentence2": "Check the _______ to see what time the bus leaves tomorrow.",
+      "options": [
+        "itinerary",
+        "souvenir",
+        "cuisine",
+        "dialect"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "itinerary"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "She bought a tiny silver bell as a _______ of her trip to Mexico.",
+      "sentence2": "Grandpa keeps a seashell on his desk as a _______ from the beach.",
+      "options": [
+        "ritual",
+        "cuisine",
+        "dialect",
+        "souvenir"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "souvenir"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Because she grew up speaking Korean and English, she is _______.",
+      "sentence2": "The school offers _______ classes taught in both French and English.",
+      "options": [
+        "fluent",
+        "hospitable",
+        "bilingual",
+        "cuisine"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "bilingual"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Thai _______ is famous for its mix of sweet, sour and spicy flavors.",
+      "sentence2": "The restaurant is known for its fresh, simple coastal _______.",
+      "options": [
+        "dialect",
+        "cuisine",
+        "etiquette",
+        "ritual"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "cuisine"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "At the party, students began to _______ and chat with people they had not met.",
+      "sentence2": "Oil and water refuse to _______ no matter how hard you stir.",
+      "options": [
+        "mingle",
+        "immerse",
+        "ritual",
+        "itinerary"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "mingle"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The class went on a day _______ to the mountain village.",
+      "sentence2": "A short boat _______ took tourists around the harbor.",
+      "options": [
+        "itinerary",
+        "souvenir",
+        "ritual",
+        "excursion"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "excursion"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "hospitable",
+      "etiquette",
+      "dialect",
+      "ritual",
+      "fluent",
+      "immerse",
+      "itinerary",
+      "souvenir",
+      "bilingual",
+      "cuisine",
+      "mingle",
+      "excursion"
+    ],
+    "passage": "Mei Lin wrote in her travel journal every night. The printed _(1)_ promised busy days, and it was right. Our host family was wonderfully _(2)_ and welcomed us like relatives, and they taught us local _(3)_, like removing shoes at the door. At dinner we tried the delicious _(4)_, especially the grilled fish.\n\nJonas still was not _(5)_ in the language, but he tried to _(6)_ himself in it by talking all day. Our host sister, who is _(7)_ in Portuguese and English, helped when words failed, and her grandfather's strong _(8)_ was hard to understand. Every night the family held the same _(9)_ of sharing tea. On Saturday we went on a seaside _(10)_ to a festival, where we learned to _(11)_ with strangers. I bought a painted tile as a _(12)_.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "itinerary",
+        "options": [
+          "souvenir",
+          "cuisine",
+          "ritual",
+          "itinerary"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "hospitable",
+        "options": [
+          "fluent",
+          "hospitable",
+          "bilingual",
+          "souvenir"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "etiquette",
+        "options": [
+          "dialect",
+          "cuisine",
+          "itinerary",
+          "etiquette"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "cuisine",
+        "options": [
+          "dialect",
+          "cuisine",
+          "etiquette",
+          "souvenir"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "fluent",
+        "options": [
+          "hospitable",
+          "mingle",
+          "dialect",
+          "fluent"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "immerse",
+        "options": [
+          "mingle",
+          "immerse",
+          "ritual",
+          "cuisine"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "bilingual",
+        "options": [
+          "hospitable",
+          "ritual",
+          "excursion",
+          "bilingual"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "dialect",
+        "options": [
+          "etiquette",
+          "dialect",
+          "cuisine",
+          "itinerary"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "ritual",
+        "options": [
+          "etiquette",
+          "cuisine",
+          "souvenir",
+          "ritual"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "excursion",
+        "options": [
+          "souvenir",
+          "excursion",
+          "itinerary",
+          "ritual"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "mingle",
+        "options": [
+          "immerse",
+          "souvenir",
+          "dialect",
+          "mingle"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "souvenir",
+        "options": [
+          "itinerary",
+          "souvenir",
+          "excursion",
+          "cuisine"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "fluent",
+        "scale": [
+          "Basic",
+          "Comfortable",
+          "Fluent"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "hospitable",
+        "scale": [
+          "Courteous",
+          "Welcoming",
+          "Hospitable"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "immerse",
+        "scale": [
+          "Dabble",
+          "Engage",
+          "Immerse"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "excursion",
+        "scale": [
+          "Stroll",
+          "Excursion",
+          "Expedition"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "hospitable",
+        "words": [
+          "Welcoming",
+          "Friendly",
+          "Generous",
+          "Hostile"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Hostile"
+      },
+      {
+        "vocabWord": "mingle",
+        "words": [
+          "Mix",
+          "Socialize",
+          "Isolate",
+          "Blend"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Isolate"
+      },
+      {
+        "vocabWord": "fluent",
+        "words": [
+          "Smooth",
+          "Halting",
+          "Eloquent",
+          "Articulate"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Halting"
+      },
+      {
+        "vocabWord": "etiquette",
+        "words": [
+          "Rudeness",
+          "Manners",
+          "Courtesy",
+          "Politeness"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Rudeness"
+      },
+      {
+        "vocabWord": "dialect",
+        "words": [
+          "Accent",
+          "Vernacular",
+          "Slang",
+          "Silence"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Silence"
+      },
+      {
+        "vocabWord": "ritual",
+        "words": [
+          "Custom",
+          "Tradition",
+          "Whim",
+          "Routine"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Whim"
+      },
+      {
+        "vocabWord": "immerse",
+        "words": [
+          "Dip",
+          "Lift",
+          "Plunge",
+          "Soak"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Lift"
+      },
+      {
+        "vocabWord": "excursion",
+        "words": [
+          "Idleness",
+          "Outing",
+          "Trip",
+          "Journey"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Idleness"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

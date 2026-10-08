@@ -1,0 +1,578 @@
+{
+  "grade": 2,
+  "setNumber": 3,
+  "words": [
+    "bustle",
+    "crowded",
+    "basket",
+    "ripe",
+    "juicy",
+    "tempt",
+    "stall",
+    "weigh",
+    "fragrant",
+    "sample",
+    "cheerful",
+    "heap"
+  ],
+  "sources": [
+    "Common Core Grade 2",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "market day",
+  "story": {
+    "genre": "market day",
+    "characters": [
+      "Aisha",
+      "Pedro",
+      "Lena"
+    ],
+    "parts": [
+      {
+        "title": "Market Morning",
+        "text": "On Saturday morning, Aisha, Pedro, and Lena went to the town market. The sun was warm, and music played somewhere nearby. Aisha carried a big **basket**. The street was full of noise and **bustle**. Every path was **crowded** with shoppers."
+      },
+      {
+        "title": "The Fruit Stall",
+        "text": "At the first **stall**, a man had peaches in a tall **heap**. The fruit looked **ripe** and **juicy**. “Would you like to **sample** one?” he asked. Pedro took a slice and smiled."
+      },
+      {
+        "title": "Sweet Smells",
+        "text": "Next came the flower table. The roses were **fragrant**, and the woman who sold them was **cheerful**. She used a scale to **weigh** a bag of cherries. Then the smell of warm bread began to **tempt** Lena. She could not walk past without a taste."
+      },
+      {
+        "title": "A Good Trip",
+        "text": "They sat on a bench and shared the warm bread. Pedro said it was the best part of the day. Lena said she wanted to come back next week, and Aisha agreed. Then they walked home, tired and happy."
+      }
+    ],
+    "wordCount": 156
+  },
+  "definitions": [
+    {
+      "word": "bustle",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "Busy, noisy activity. Example: The bustle of the train station made it hard to talk.",
+      "meaning2": "To hurry around busily. Example: Waiters bustle between the tables at lunch.",
+      "studentChallenge": "The ___ of shoppers filled the busy street.",
+      "sentence": ""
+    },
+    {
+      "word": "crowded",
+      "partOfSpeech": "adjective",
+      "meaning1": "Full of many people or things. Example: The bus was crowded after school.",
+      "meaning2": "",
+      "studentChallenge": "The park was so ___ that we could hardly find a seat.",
+      "sentence": ""
+    },
+    {
+      "word": "basket",
+      "partOfSpeech": "noun",
+      "meaning1": "A container made of woven strips for carrying things. Example: Grandma put the apples in a basket.",
+      "meaning2": "",
+      "studentChallenge": "She packed our lunch in a picnic ___.",
+      "sentence": ""
+    },
+    {
+      "word": "ripe",
+      "partOfSpeech": "adjective",
+      "meaning1": "Fully grown and ready to eat. Example: The ripe banana was soft and yellow.",
+      "meaning2": "",
+      "studentChallenge": "The ___ tomato was red and ready to pick.",
+      "sentence": ""
+    },
+    {
+      "word": "juicy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Full of juice. Example: The juicy orange dripped down my chin.",
+      "meaning2": "",
+      "studentChallenge": "I took a big bite of the sweet, ___ peach.",
+      "sentence": ""
+    },
+    {
+      "word": "tempt",
+      "partOfSpeech": "verb",
+      "meaning1": "To make someone want to do or have something. Example: The smell of cookies can tempt me to take one.",
+      "meaning2": "",
+      "studentChallenge": "The smell of fresh pie can ___ me to have a second slice.",
+      "sentence": ""
+    },
+    {
+      "word": "stall",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A small table or booth where things are sold. Example: She bought honey at the market stall.",
+      "meaning2": "To stop moving, as an engine does. Example: The old car might stall on the hill.",
+      "studentChallenge": "We bought three apples at the fruit ___.",
+      "sentence": ""
+    },
+    {
+      "word": "weigh",
+      "partOfSpeech": "verb",
+      "meaning1": "To find out how heavy something is. Example: The shopkeeper will weigh the grapes on a scale.",
+      "meaning2": "To have a certain heaviness. Example: This pumpkin must weigh ten pounds.",
+      "studentChallenge": "Please ___ the potatoes on the scale.",
+      "sentence": ""
+    },
+    {
+      "word": "fragrant",
+      "partOfSpeech": "adjective",
+      "meaning1": "Having a sweet, pleasant smell. Example: The fragrant roses made the whole room smell nice.",
+      "meaning2": "",
+      "studentChallenge": "The ___ soap smelled like lavender and flowers.",
+      "sentence": ""
+    },
+    {
+      "word": "sample",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A small taste or piece to try. Example: The cook gave me a sample of the soup.",
+      "meaning2": "To try a small part of something. Example: We sample cheese at the fair.",
+      "studentChallenge": "The store gave out a free ___ of cheese.",
+      "sentence": ""
+    },
+    {
+      "word": "cheerful",
+      "partOfSpeech": "adjective",
+      "meaning1": "Happy and full of good spirits. Example: The cheerful girl smiled at everyone she met.",
+      "meaning2": "",
+      "studentChallenge": "My ___ aunt always sings when she cooks.",
+      "sentence": ""
+    },
+    {
+      "word": "heap",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A big pile of things. Example: There was a heap of leaves in the yard.",
+      "meaning2": "To make a pile. Example: Heap the blankets on the bed.",
+      "studentChallenge": "A ___ of dirty laundry sat on the floor.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The _______ of the market was loud and busy.",
+      "sentence2": "We could hardly talk over the _______ of the train station.",
+      "options": [
+        "basket",
+        "bustle",
+        "heap",
+        "stall"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "bustle"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The bus was so _______ that I had to stand.",
+      "sentence2": "The park was _______, and we could hardly find a seat.",
+      "options": [
+        "cheerful",
+        "ripe",
+        "fragrant",
+        "crowded"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "crowded"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Grandma put the apples in a _______.",
+      "sentence2": "She packed our picnic lunch in a woven _______.",
+      "options": [
+        "basket",
+        "heap",
+        "stall",
+        "sample"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "basket"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The _______ banana was soft and yellow.",
+      "sentence2": "The farmer will pick the pears when they are ready to eat and _______.",
+      "options": [
+        "crowded",
+        "cheerful",
+        "ripe",
+        "basket"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "ripe"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The _______ watermelon was so wet that the juice ran down my arm.",
+      "sentence2": "The _______ orange dripped down my chin.",
+      "options": [
+        "crowded",
+        "cheerful",
+        "heap",
+        "juicy"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "juicy"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The smell of fresh pie can _______ me to eat a second slice.",
+      "sentence2": "Do not let the sweets _______ you to skip dinner.",
+      "options": [
+        "weigh",
+        "tempt",
+        "sample",
+        "bustle"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "tempt"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "She bought honey at the market _______.",
+      "sentence2": "We bought three apples at the fruit _______.",
+      "options": [
+        "heap",
+        "sample",
+        "stall",
+        "bustle"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "stall"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The shopkeeper will _______ the grapes on a scale.",
+      "sentence2": "Please _______ the potatoes before you put them in the bag.",
+      "options": [
+        "weigh",
+        "tempt",
+        "sample",
+        "bustle"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "weigh"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The _______ roses made the whole room smell nice.",
+      "sentence2": "The _______ soap smelled like lavender and flowers.",
+      "options": [
+        "ripe",
+        "juicy",
+        "fragrant",
+        "crowded"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "fragrant"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The cook gave me a free _______ of the soup.",
+      "sentence2": "May I _______ one slice before I buy the whole cake?",
+      "options": [
+        "sample",
+        "stall",
+        "tempt",
+        "weigh"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "sample"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "My _______ aunt sings songs while she cooks.",
+      "sentence2": "The _______ clown made all the children laugh.",
+      "options": [
+        "crowded",
+        "cheerful",
+        "fragrant",
+        "juicy"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "cheerful"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "A _______ of leaves was piled in the yard.",
+      "sentence2": "Please _______ the blankets on the bed.",
+      "options": [
+        "bustle",
+        "tempt",
+        "weigh",
+        "heap"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "heap"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "bustle",
+      "crowded",
+      "basket",
+      "ripe",
+      "juicy",
+      "tempt",
+      "stall",
+      "weigh",
+      "fragrant",
+      "sample",
+      "cheerful",
+      "heap"
+    ],
+    "passage": "Lena helps her uncle at his farm _(1)_ every Sunday. By nine o’clock the road is _(2)_ with people, and the air is full of noise and _(3)_. Lena’s job is to fill each shopper’s _(4)_ with fruit and vegetables.\nHer uncle lets people _(5)_ a slice of melon before they buy. The melons are _(6)_, and each slice is sweet and _(7)_. A tall _(8)_ of corn sits at the end of the table. Next to it, a bunch of mint makes the stand smell _(9)_.\nWhen someone buys tomatoes, Lena must _(10)_ them on a scale. She always wears a _(11)_ smile. The sweet smell of peaches can _(12)_ her to eat one, but she waits until lunch.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "stall",
+        "options": [
+          "weigh",
+          "juicy",
+          "stall",
+          "ripe"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "crowded",
+        "options": [
+          "crowded",
+          "fragrant",
+          "tempt",
+          "basket"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "bustle",
+        "options": [
+          "weigh",
+          "ripe",
+          "cheerful",
+          "bustle"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "basket",
+        "options": [
+          "juicy",
+          "basket",
+          "tempt",
+          "ripe"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "sample",
+        "options": [
+          "sample",
+          "crowded",
+          "cheerful",
+          "fragrant"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "ripe",
+        "options": [
+          "basket",
+          "tempt",
+          "ripe",
+          "stall"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "juicy",
+        "options": [
+          "heap",
+          "juicy",
+          "weigh",
+          "bustle"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "heap",
+        "options": [
+          "bustle",
+          "cheerful",
+          "sample",
+          "heap"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "fragrant",
+        "options": [
+          "tempt",
+          "heap",
+          "stall",
+          "fragrant"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "weigh",
+        "options": [
+          "tempt",
+          "weigh",
+          "crowded",
+          "fragrant"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "cheerful",
+        "options": [
+          "cheerful",
+          "basket",
+          "bustle",
+          "stall"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "tempt",
+        "options": [
+          "weigh",
+          "sample",
+          "tempt",
+          "heap"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "ripe",
+        "scale": [
+          "Unripe",
+          "Ripe",
+          "Overripe"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "crowded",
+        "scale": [
+          "Empty",
+          "Busy",
+          "Crowded"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "cheerful",
+        "scale": [
+          "Okay",
+          "Cheerful",
+          "Joyful"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "heap",
+        "scale": [
+          "Handful",
+          "Heap",
+          "Mountain"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "bustle",
+        "words": [
+          "Activity",
+          "Calm",
+          "Hurry",
+          "Stir"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Calm"
+      },
+      {
+        "vocabWord": "crowded",
+        "words": [
+          "Packed",
+          "Busy",
+          "Full",
+          "Empty"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Empty"
+      },
+      {
+        "vocabWord": "juicy",
+        "words": [
+          "Dry",
+          "Moist",
+          "Wet",
+          "Dripping"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Dry"
+      },
+      {
+        "vocabWord": "tempt",
+        "words": [
+          "Lure",
+          "Attract",
+          "Repel",
+          "Entice"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Repel"
+      },
+      {
+        "vocabWord": "cheerful",
+        "words": [
+          "Happy",
+          "Merry",
+          "Gloomy",
+          "Jolly"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Gloomy"
+      },
+      {
+        "vocabWord": "fragrant",
+        "words": [
+          "Stinky",
+          "Perfumed",
+          "Sweet-smelling",
+          "Aromatic"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Stinky"
+      },
+      {
+        "vocabWord": "heap",
+        "words": [
+          "Pile",
+          "Stack",
+          "Mound",
+          "Scatter"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Scatter"
+      },
+      {
+        "vocabWord": "ripe",
+        "words": [
+          "Ready",
+          "Unripe",
+          "Mature",
+          "Grown"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Unripe"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

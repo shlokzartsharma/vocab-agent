@@ -1,0 +1,577 @@
+{
+  "grade": 6,
+  "setNumber": 4,
+  "words": [
+    "trek",
+    "hardy",
+    "perish",
+    "caravan",
+    "scout",
+    "ford",
+    "scant",
+    "grueling",
+    "stampede",
+    "fortify",
+    "outpost",
+    "bleak"
+  ],
+  "sources": [
+    "Common Core Grade 6",
+    "Tier 2 Academic"
+  ],
+  "genre": "historical journey west",
+  "story": {
+    "genre": "historical journey west",
+    "characters": [
+      "Samuel",
+      "Ines",
+      "Wyatt"
+    ],
+    "parts": [
+      {
+        "title": "Setting Out",
+        "text": "In the spring of 1849, Samuel's family joined a **caravan** of covered wagons bound for the distant West. Everyone knew the long **trek** would last for months. Ines, who had grown up around horses, rode ahead as a **scout**, hunting for fresh water and safe paths. Her **hardy** little pony could carry her all day through heat and dust, and Wyatt, the blacksmith's son, admired its strength."
+      },
+      {
+        "title": "River and Plain",
+        "text": "At a wide river, the water ran too deep for the wagons. Ines found a shallow spot where the group could **ford** the current safely, one wagon at a time. Later, thunder spooked the oxen, and a wild **stampede** scattered the herd across the prairie. It took two days to round them up, and by then food was **scant**, with only a handful of flour left for each family. Every day of walking felt **grueling**, and Samuel's feet were blistered."
+      },
+      {
+        "title": "Snow in the Mountains",
+        "text": "By autumn, snow dusted the mountain passes. Samuel feared that some of the travelers might **perish** if a blizzard caught them in the open. They stacked logs and stones to **fortify** their camp against the howling wind. The land around them looked **bleak**, gray and empty under heavy clouds. Then, one evening, Wyatt spotted smoke rising from a small trading **outpost**, where the keeper welcomed them with warm bread and blankets."
+      },
+      {
+        "title": "Looking Back",
+        "text": "Years later, Samuel still remembered the crackle of that first fire and the kindness of strangers. The journey had taught him that courage often looks like small, stubborn steps taken together. Ines and Wyatt remained his closest friends, and they told the story so often that their children could recite every mile."
+      }
+    ],
+    "wordCount": 270
+  },
+  "definitions": [
+    {
+      "word": "trek",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A long and difficult journey, especially on foot. Example: The trek across the desert took the explorers nearly two weeks.",
+      "meaning2": "To make such a journey. Example: We will trek through the mountains at dawn.",
+      "studentChallenge": "After a long ___ through the snow, the hikers finally reached the cabin.",
+      "sentence": ""
+    },
+    {
+      "word": "hardy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Strong and able to survive tough conditions. Example: Only the hardiest plants survive in the freezing mountains.",
+      "meaning2": "",
+      "studentChallenge": "The ___ shrub survived even the coldest winter nights.",
+      "sentence": ""
+    },
+    {
+      "word": "perish",
+      "partOfSpeech": "verb",
+      "meaning1": "To die, especially in a sudden or terrible way. Example: Without water, the crops will perish in the summer heat.",
+      "meaning2": "To spoil or rot, as food does. Example: Fresh berries perish quickly if they are not kept cold.",
+      "studentChallenge": "Without shelter, the travelers feared they might ___ in the storm.",
+      "sentence": ""
+    },
+    {
+      "word": "caravan",
+      "partOfSpeech": "noun",
+      "meaning1": "A group of travelers or vehicles journeying together, especially across dangerous or desert lands. Example: A caravan of camels crossed the desert, carrying spices and silk.",
+      "meaning2": "",
+      "studentChallenge": "The wagon ___ stretched for a mile along the dusty trail.",
+      "sentence": ""
+    },
+    {
+      "word": "scout",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A person sent ahead to gather information. Example: The scout returned to report that the bridge was washed out.",
+      "meaning2": "To search an area to find out what is there. Example: Ines rode ahead to scout the trail for dangers.",
+      "studentChallenge": "The captain sent a ___ ahead to check whether the path was safe.",
+      "sentence": ""
+    },
+    {
+      "word": "ford",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To cross a river or stream at a shallow place. Example: The wagons had to ford the stream at its shallowest point.",
+      "meaning2": "A shallow place in a river where it can be crossed. Example: Hikers followed the ford to reach the far bank without getting soaked.",
+      "studentChallenge": "The wagons waited for the water to drop so they could ___ the stream safely.",
+      "sentence": ""
+    },
+    {
+      "word": "scant",
+      "partOfSpeech": "adjective",
+      "meaning1": "Barely enough; hardly any. Example: With scant food left, the travelers shared one small loaf.",
+      "meaning2": "",
+      "studentChallenge": "Only ___ rainfall reached the valley that year.",
+      "sentence": ""
+    },
+    {
+      "word": "grueling",
+      "partOfSpeech": "adjective",
+      "meaning1": "Extremely tiring and demanding. Example: The grueling climb left everyone too tired to talk.",
+      "meaning2": "",
+      "studentChallenge": "After the ___ hike, everyone slept soundly.",
+      "sentence": ""
+    },
+    {
+      "word": "stampede",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A sudden, wild rush of frightened animals. Example: A loud clap of thunder sent the cattle into a stampede.",
+      "meaning2": "A sudden rush of a crowd of people. Example: When the doors opened, a stampede of shoppers rushed in for the sale.",
+      "studentChallenge": "The cowboys tried to calm the herd before a ___ could begin.",
+      "sentence": ""
+    },
+    {
+      "word": "fortify",
+      "partOfSpeech": "verb",
+      "meaning1": "To make stronger and safer, especially against attack. Example: The villagers built a stone wall to fortify the town.",
+      "meaning2": "To add nutrients to food. Example: Dairy companies fortify milk with extra vitamin D.",
+      "studentChallenge": "The villagers worked to ___ the gate before the storm arrived.",
+      "sentence": ""
+    },
+    {
+      "word": "outpost",
+      "partOfSpeech": "noun",
+      "meaning1": "A small settlement or station far from towns; a distant camp. Example: The army kept a small outpost on the edge of the frozen wilderness.",
+      "meaning2": "",
+      "studentChallenge": "The explorers rested at a remote ___ before continuing north.",
+      "sentence": ""
+    },
+    {
+      "word": "bleak",
+      "partOfSpeech": "adjective",
+      "meaning1": "Empty, bare, and cheerless. Example: The bleak winter landscape was nothing but gray rock and ice.",
+      "meaning2": "Offering little hope. Example: After the injury, the team's chances of winning looked bleak.",
+      "studentChallenge": "The ___ hillside had no trees, no flowers, and no signs of life.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The mountaineers began the long _______ to the top of the peak at sunrise.",
+      "sentence2": "Families planned a month-long _______ across the prairie.",
+      "options": [
+        "stampede",
+        "outpost",
+        "trek",
+        "scout"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "trek"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Only the most _______ plants survive in the freezing mountains.",
+      "sentence2": "The _______ ponies kept going through snow and wind.",
+      "options": [
+        "hardy",
+        "bleak",
+        "scant",
+        "grueling"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "hardy"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Without water, the crops will _______ in the summer heat.",
+      "sentence2": "Fresh berries _______ quickly unless you keep them cold.",
+      "options": [
+        "fortify",
+        "trek",
+        "ford",
+        "perish"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "perish"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "A _______ of camels crossed the desert, carrying spices and silk.",
+      "sentence2": "The wagon _______ stretched a mile along the dusty trail.",
+      "options": [
+        "outpost",
+        "caravan",
+        "scout",
+        "trek"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "caravan"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Ines rode ahead to _______ the trail for dangers.",
+      "sentence2": "The baseball team sent someone to _______ the rival's best players.",
+      "options": [
+        "fortify",
+        "ford",
+        "scout",
+        "perish"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "scout"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The wagons had to _______ the stream at its shallowest point.",
+      "sentence2": "Hikers waded in to _______ the creek rather than walk miles to the bridge.",
+      "options": [
+        "fortify",
+        "perish",
+        "stampede",
+        "ford"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ford"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "With _______ food left, the travelers shared one small loaf.",
+      "sentence2": "There was _______ evidence to prove the old legend was true.",
+      "options": [
+        "bleak",
+        "scant",
+        "hardy",
+        "grueling"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "scant"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The _______ climb left everyone too tired to talk.",
+      "sentence2": "She survived a _______ schedule of practices and games.",
+      "options": [
+        "hardy",
+        "bleak",
+        "grueling",
+        "scant"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "grueling"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "A loud clap of thunder sent the cattle into a wild _______.",
+      "sentence2": "When the doors opened, a _______ of shoppers rushed in for the sale.",
+      "options": [
+        "stampede",
+        "caravan",
+        "trek",
+        "outpost"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "stampede"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The soldiers piled stones to _______ the walls of their camp.",
+      "sentence2": "Dairy companies _______ milk with extra vitamin D.",
+      "options": [
+        "scout",
+        "perish",
+        "trek",
+        "fortify"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "fortify"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The army kept a small _______ on the edge of the frozen wilderness.",
+      "sentence2": "The trading _______ was the only shop for a hundred miles.",
+      "options": [
+        "trek",
+        "outpost",
+        "stampede",
+        "scout"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "outpost"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The _______ winter landscape was nothing but gray rock and ice.",
+      "sentence2": "After losing the game, the team's chances of winning the title looked _______.",
+      "options": [
+        "hardy",
+        "scant",
+        "bleak",
+        "grueling"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "bleak"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "trek",
+      "hardy",
+      "perish",
+      "caravan",
+      "scout",
+      "ford",
+      "scant",
+      "grueling",
+      "stampede",
+      "fortify",
+      "outpost",
+      "bleak"
+    ],
+    "passage": "In 1852, a _(1)_ of twenty wagons rolled out of the river town, heading west. The _(2)_ ahead was nearly two thousand miles long. Young Tomas was chosen as the _(3)_, riding in front on his _(4)_ mule to look for water and campsites. At a swollen river, he had to find a shallow place where the wagons could _(5)_.\n\nTrouble followed quickly. A sudden _(6)_ of frightened cattle scattered across the prairie, and food grew _(7)_, with only a few biscuits left each day. Every day of walking felt _(8)_, and many travelers feared they would _(9)_ before winter ended.\n\nAt night they stacked wagons in a circle to _(10)_ the camp. The land looked _(11)_, empty and gray, until Tomas saw lamplight glowing at a trading _(12)_. Warm bread had never smelled so wonderful.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "caravan",
+        "options": [
+          "outpost",
+          "stampede",
+          "caravan",
+          "bleak"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "trek",
+        "options": [
+          "trek",
+          "outpost",
+          "stampede",
+          "caravan"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "scout",
+        "options": [
+          "outpost",
+          "stampede",
+          "trek",
+          "scout"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "hardy",
+        "options": [
+          "scant",
+          "hardy",
+          "bleak",
+          "grueling"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "ford",
+        "options": [
+          "fortify",
+          "perish",
+          "ford",
+          "stampede"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "stampede",
+        "options": [
+          "stampede",
+          "outpost",
+          "trek",
+          "bleak"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "scant",
+        "options": [
+          "hardy",
+          "grueling",
+          "outpost",
+          "scant"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "grueling",
+        "options": [
+          "hardy",
+          "grueling",
+          "scant",
+          "outpost"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "perish",
+        "options": [
+          "fortify",
+          "ford",
+          "perish",
+          "scout"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "fortify",
+        "options": [
+          "fortify",
+          "ford",
+          "perish",
+          "trek"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "bleak",
+        "options": [
+          "hardy",
+          "grueling",
+          "caravan",
+          "bleak"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "outpost",
+        "options": [
+          "trek",
+          "outpost",
+          "stampede",
+          "scout"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "hardy",
+        "scale": [
+          "Sturdy",
+          "Hardy",
+          "Indestructible"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "scant",
+        "scale": [
+          "Limited",
+          "Scant",
+          "Nonexistent"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "grueling",
+        "scale": [
+          "Tiring",
+          "Demanding",
+          "Grueling"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "bleak",
+        "scale": [
+          "Dull",
+          "Dreary",
+          "Bleak"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "trek",
+        "words": [
+          "Journey",
+          "Hike",
+          "Expedition",
+          "Stay"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Stay"
+      },
+      {
+        "vocabWord": "perish",
+        "words": [
+          "Die",
+          "Thrive",
+          "Expire",
+          "Succumb"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Thrive"
+      },
+      {
+        "vocabWord": "scout",
+        "words": [
+          "Explore",
+          "Investigate",
+          "Ignore",
+          "Survey"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Ignore"
+      },
+      {
+        "vocabWord": "fortify",
+        "words": [
+          "Weaken",
+          "Strengthen",
+          "Reinforce",
+          "Protect"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Weaken"
+      },
+      {
+        "vocabWord": "bleak",
+        "words": [
+          "Gloomy",
+          "Dreary",
+          "Barren",
+          "Cheerful"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Cheerful"
+      },
+      {
+        "vocabWord": "stampede",
+        "words": [
+          "Rush",
+          "Dawdle",
+          "Charge",
+          "Dash"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Dawdle"
+      },
+      {
+        "vocabWord": "grueling",
+        "words": [
+          "Exhausting",
+          "Draining",
+          "Effortless",
+          "Punishing"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Effortless"
+      },
+      {
+        "vocabWord": "outpost",
+        "words": [
+          "Capital",
+          "Settlement",
+          "Station",
+          "Camp"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Capital"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

@@ -1,0 +1,578 @@
+{
+  "grade": 7,
+  "setNumber": 8,
+  "words": [
+    "lush",
+    "teeming",
+    "foliage",
+    "undergrowth",
+    "camouflage",
+    "venomous",
+    "elusive",
+    "humid",
+    "swarm",
+    "parasite",
+    "endangered",
+    "tranquil"
+  ],
+  "sources": [
+    "Common Core Grade 7",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "rainforest expedition",
+  "story": {
+    "genre": "rainforest expedition",
+    "characters": [
+      "Santiago",
+      "Bree",
+      "Kwame"
+    ],
+    "parts": [
+      {
+        "title": "Into the Green",
+        "text": "Santiago led the way along a muddy trail as the team entered the rainforest. The air was **humid**, so thick and wet that Bree's glasses fogged in seconds. Everything around them was **lush**, from giant ferns to vines wrapped around every trunk. Overhead, the **foliage** of the tallest trees blocked the sun. Kwame, the team's biologist, whispered that the canopy was **teeming** with life, with thousands of insects, birds and monkeys in every layer."
+      },
+      {
+        "title": "Hidden Dangers",
+        "text": "Pushing through the thick **undergrowth**, the bushes and small plants beneath the trees, Bree nearly stepped on a snake. It was **venomous**, and its bite could be deadly, but its **camouflage** had hidden it so well that she saw it only when it moved. Kwame warned them to check for ticks, each a **parasite** that clings to skin and feeds on blood. Then a **swarm** of tiny bees circled their heads, and everyone froze until it drifted away."
+      },
+      {
+        "title": "The Search",
+        "text": "The goal of the expedition was to photograph a rare golden frog that was **endangered**, with fewer than a hundred left in the wild. It was **elusive**, so hard to find that no scientist had seen one in five years. After two days of searching, the team reached a **tranquil** pool where the only sounds were dripping water and distant birdsong. There, sitting on a leaf, was the frog."
+      },
+      {
+        "title": "What the Forest Rewards",
+        "text": "Santiago raised his camera slowly and took one perfect photograph. Bree realized that the forest rewarded patience and quiet eyes. On the long walk home, the team promised to share the picture so that more people would care about protecting this hidden world."
+      }
+    ],
+    "wordCount": 264
+  },
+  "definitions": [
+    {
+      "word": "lush",
+      "partOfSpeech": "adjective",
+      "meaning1": "Growing thickly and healthily, with plenty of green plants. Example: After the spring rains, the meadow was lush and green.",
+      "meaning2": "Rich and luxurious. Example: The hotel had a lush lobby with velvet couches.",
+      "studentChallenge": "The ___ garden was packed with ferns, flowers and vines.",
+      "sentence": ""
+    },
+    {
+      "word": "teeming",
+      "partOfSpeech": "adjective",
+      "meaning1": "Full of living things moving about. Example: The tide pool was teeming with crabs, snails and tiny fish.",
+      "meaning2": "",
+      "studentChallenge": "After the rain, the puddle was ___ with tadpoles.",
+      "sentence": ""
+    },
+    {
+      "word": "foliage",
+      "partOfSpeech": "noun",
+      "meaning1": "The leaves of a plant or tree. Example: The thick foliage cast cool shade over the path.",
+      "meaning2": "",
+      "studentChallenge": "In October, the ___ turns brilliant red and orange.",
+      "sentence": ""
+    },
+    {
+      "word": "undergrowth",
+      "partOfSpeech": "noun",
+      "meaning1": "Bushes, ferns and small plants growing beneath tall trees. Example: We pushed through the thick undergrowth to reach the stream.",
+      "meaning2": "",
+      "studentChallenge": "Thorny bushes and ferns made a dense ___ on the forest floor.",
+      "sentence": ""
+    },
+    {
+      "word": "camouflage",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "Colors or patterns that help an animal or object blend into its surroundings. Example: The green lizard's camouflage made it nearly invisible on the leaf.",
+      "meaning2": "To hide something by making it look like its surroundings. Example: Hunters used branches to camouflage their tent.",
+      "studentChallenge": "The frog's brown skin was perfect ___ against the muddy bank.",
+      "sentence": ""
+    },
+    {
+      "word": "venomous",
+      "partOfSpeech": "adjective",
+      "meaning1": "Able to inject poison through a bite or sting. Example: The venomous spider hid beneath the rock.",
+      "meaning2": "",
+      "studentChallenge": "Hikers were warned to stay away from the ___ snake.",
+      "sentence": ""
+    },
+    {
+      "word": "elusive",
+      "partOfSpeech": "adjective",
+      "meaning1": "Hard to find, catch or keep track of. Example: The elusive snow leopard is rarely seen by humans.",
+      "meaning2": "Hard to understand, remember or achieve. Example: The name of the song stayed elusive, no matter how hard she tried to recall it.",
+      "studentChallenge": "The shy fox was ___, slipping away whenever anyone came close.",
+      "sentence": ""
+    },
+    {
+      "word": "humid",
+      "partOfSpeech": "adjective",
+      "meaning1": "Having a lot of moisture in the air, so it feels warm and sticky. Example: The humid afternoon made my shirt cling to my back.",
+      "meaning2": "",
+      "studentChallenge": "It was so ___ that the windows fogged up.",
+      "sentence": ""
+    },
+    {
+      "word": "swarm",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A large group of insects moving together. Example: A swarm of bees buzzed around the hive.",
+      "meaning2": "To move in a large, busy crowd. Example: Fans swarm the stage whenever the band plays.",
+      "studentChallenge": "A ___ of mosquitoes hovered over the pond at sunset.",
+      "sentence": ""
+    },
+    {
+      "word": "parasite",
+      "partOfSpeech": "noun",
+      "meaning1": "A living thing that lives on or inside another living thing and takes its food. Example: A tick is a parasite that feeds on the blood of animals.",
+      "meaning2": "A person who depends on others and gives nothing back. Example: He was called a parasite because he never paid for anything.",
+      "studentChallenge": "A flea is a ___ that feeds on a dog's blood.",
+      "sentence": ""
+    },
+    {
+      "word": "endangered",
+      "partOfSpeech": "adjective",
+      "meaning1": "In danger of dying out completely. Example: The giant panda was once listed as an endangered species.",
+      "meaning2": "",
+      "studentChallenge": "Conservation groups work to protect ___ animals from disappearing.",
+      "sentence": ""
+    },
+    {
+      "word": "tranquil",
+      "partOfSpeech": "adjective",
+      "meaning1": "Calm, quiet and peaceful. Example: The tranquil lake was perfectly still at dawn.",
+      "meaning2": "",
+      "studentChallenge": "After the noisy city, the ___ countryside felt like paradise.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "After weeks of rain, the hillside was covered in thick, _______ grass.",
+      "sentence2": "The _______ garden was thick with roses, ferns and climbing vines.",
+      "options": [
+        "lush",
+        "humid",
+        "tranquil",
+        "elusive"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "lush"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The pond was _______ with tiny fish.",
+      "sentence2": "The market square was _______ with shoppers on Saturday morning.",
+      "options": [
+        "lush",
+        "humid",
+        "tranquil",
+        "teeming"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "teeming"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "In autumn, tourists drive north to see the bright red and gold _______.",
+      "sentence2": "Thick _______ hid the cabin from the road.",
+      "options": [
+        "camouflage",
+        "parasite",
+        "foliage",
+        "swarm"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "foliage"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Hikers had to push through the tangled _______ to find the trail.",
+      "sentence2": "Deer hid in the _______ beneath the tall pines.",
+      "options": [
+        "camouflage",
+        "undergrowth",
+        "parasite",
+        "swarm"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "undergrowth"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The moth's brown wings were perfect _______ against the tree bark.",
+      "sentence2": "Soldiers wore green and brown _______ to blend into the forest.",
+      "options": [
+        "camouflage",
+        "parasite",
+        "swarm",
+        "undergrowth"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "camouflage"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "A single bite from the _______ snake can be deadly.",
+      "sentence2": "Be careful around that _______ spider; its sting causes terrible pain.",
+      "options": [
+        "elusive",
+        "tranquil",
+        "humid",
+        "venomous"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "venomous"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The shy leopard was so _______ that scientists only ever found its tracks.",
+      "sentence2": "The answer to the riddle stayed _______ no matter how long she thought.",
+      "options": [
+        "tranquil",
+        "humid",
+        "elusive",
+        "lush"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "elusive"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The air was so _______ that our clothes stuck to our skin.",
+      "sentence2": "Summers in the swamp are hot and _______.",
+      "options": [
+        "lush",
+        "humid",
+        "tranquil",
+        "elusive"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "humid"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "A _______ of angry bees chased the picnickers across the field.",
+      "sentence2": "Reporters formed a _______ around the famous actor.",
+      "options": [
+        "swarm",
+        "parasite",
+        "camouflage",
+        "foliage"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "swarm"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "A tapeworm is a _______ that lives inside another animal and steals its food.",
+      "sentence2": "The cousin who never worked and lived off everyone else was called a _______ by the family.",
+      "options": [
+        "swarm",
+        "camouflage",
+        "undergrowth",
+        "parasite"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "parasite"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Only forty of these birds are left, so scientists list them as _______.",
+      "sentence2": "Laws now protect many _______ species from hunters.",
+      "options": [
+        "venomous",
+        "elusive",
+        "endangered",
+        "tranquil"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "endangered"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The lake was calm and _______ at sunrise.",
+      "sentence2": "She loved the _______ hours when the whole house was quiet.",
+      "options": [
+        "lush",
+        "tranquil",
+        "humid",
+        "elusive"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "tranquil"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "lush",
+      "teeming",
+      "foliage",
+      "undergrowth",
+      "camouflage",
+      "venomous",
+      "elusive",
+      "humid",
+      "swarm",
+      "parasite",
+      "endangered",
+      "tranquil"
+    ],
+    "passage": "Kwame's field notes began with a warning. The air in the forest was _(1)_, and every plant looked _(2)_ and green. The canopy was _(3)_ with birds and monkeys, and the thick _(4)_ above hid the sky. On the ground, we had to hack through tangled _(5)_. A _(6)_ snake lay unseen, protected by perfect _(7)_ that matched the leaves.\n\nA _(8)_ of mosquitoes followed us all day, and one student found a _(9)_ clinging to his ankle. The golden frog was _(10)_ and slipped away every time we got close. Scientists list it as _(11)_, so every sighting matters. At last we rested beside a _(12)_ pool, listening to the quiet.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "humid",
+        "options": [
+          "tranquil",
+          "humid",
+          "elusive",
+          "venomous"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "lush",
+        "options": [
+          "humid",
+          "elusive",
+          "swarm",
+          "lush"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "teeming",
+        "options": [
+          "lush",
+          "teeming",
+          "tranquil",
+          "elusive"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "foliage",
+        "options": [
+          "undergrowth",
+          "swarm",
+          "camouflage",
+          "foliage"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "undergrowth",
+        "options": [
+          "camouflage",
+          "undergrowth",
+          "swarm",
+          "parasite"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "venomous",
+        "options": [
+          "tranquil",
+          "humid",
+          "lush",
+          "venomous"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "camouflage",
+        "options": [
+          "parasite",
+          "camouflage",
+          "swarm",
+          "undergrowth"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "swarm",
+        "options": [
+          "parasite",
+          "foliage",
+          "camouflage",
+          "swarm"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "parasite",
+        "options": [
+          "swarm",
+          "parasite",
+          "undergrowth",
+          "camouflage"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "elusive",
+        "options": [
+          "tranquil",
+          "humid",
+          "lush",
+          "elusive"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "endangered",
+        "options": [
+          "tranquil",
+          "endangered",
+          "lush",
+          "humid"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "tranquil",
+        "options": [
+          "lush",
+          "teeming",
+          "venomous",
+          "tranquil"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "tranquil",
+        "scale": [
+          "Calm",
+          "Peaceful",
+          "Tranquil"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "lush",
+        "scale": [
+          "Green",
+          "Leafy",
+          "Lush"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "teeming",
+        "scale": [
+          "Busy",
+          "Crowded",
+          "Teeming"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "humid",
+        "scale": [
+          "Dry",
+          "Humid",
+          "Steamy"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "lush",
+        "words": [
+          "Green",
+          "Barren",
+          "Leafy",
+          "Abundant"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Barren"
+      },
+      {
+        "vocabWord": "teeming",
+        "words": [
+          "Empty",
+          "Crowded",
+          "Overflowing",
+          "Packed"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Empty"
+      },
+      {
+        "vocabWord": "camouflage",
+        "words": [
+          "Disguise",
+          "Mask",
+          "Cover",
+          "Reveal"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Reveal"
+      },
+      {
+        "vocabWord": "elusive",
+        "words": [
+          "Slippery",
+          "Evasive",
+          "Obvious",
+          "Shy"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Obvious"
+      },
+      {
+        "vocabWord": "venomous",
+        "words": [
+          "Poisonous",
+          "Harmless",
+          "Toxic",
+          "Harmful"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Harmless"
+      },
+      {
+        "vocabWord": "humid",
+        "words": [
+          "Arid",
+          "Muggy",
+          "Damp",
+          "Sticky"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Arid"
+      },
+      {
+        "vocabWord": "endangered",
+        "words": [
+          "Threatened",
+          "At-risk",
+          "Vulnerable",
+          "Thriving"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Thriving"
+      },
+      {
+        "vocabWord": "tranquil",
+        "words": [
+          "Calm",
+          "Peaceful",
+          "Stormy",
+          "Serene"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Stormy"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

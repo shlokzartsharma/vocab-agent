@@ -1,0 +1,578 @@
+{
+  "grade": 8,
+  "setNumber": 10,
+  "words": [
+    "proposal",
+    "shrewd",
+    "collateral",
+    "dividend",
+    "entice",
+    "clientele",
+    "bankrupt",
+    "equitable",
+    "merge",
+    "scrimp",
+    "overhead",
+    "diversify"
+  ],
+  "sources": [
+    "Common Core Grade 8",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "young entrepreneurs",
+  "story": {
+    "genre": "young entrepreneurs",
+    "characters": [
+      "Vivian",
+      "Ahmed",
+      "Luca"
+    ],
+    "parts": [
+      {
+        "title": "The Big Idea",
+        "text": "Vivian, Ahmed and Luca ran a bike-repair business from Luca's garage, and it was growing. Vivian dreamed of buying a van so they could fix bikes at neighborhood parks. She wrote a formal **proposal** for a credit union's youth loan program, explaining exactly how the money would be spent. The loan officer asked for **collateral**, something valuable the credit union could claim if the loan went unpaid, so the partners pledged their tools and the van itself."
+      },
+      {
+        "title": "Counting Costs",
+        "text": "Ahmed, the **shrewd** one, studied their budget and spotted a problem. Every month, the **overhead**, meaning rent for the garage, insurance and electricity, swallowed a third of their income. \"We must **scrimp** on supplies until the loan arrives,\" he said. He also warned that one terrible season could leave them **bankrupt**, unable to pay what they owed."
+      },
+      {
+        "title": "Growing Pains",
+        "text": "To **entice** new customers, the team offered free tire checks at the park. Their **clientele**, once mostly neighbors, grew to include a school team and a delivery club. A rival shop owner suggested they **merge** the two businesses, and after long talks they signed an **equitable** agreement that split the work and the profits fairly. The loan officer also urged them to **diversify** by selling helmets and bells, so a slow season could not sink them. Within a year, each partner received a **dividend**, a share of the profits, for the first time."
+      },
+      {
+        "title": "Reflections",
+        "text": "On the last day of school, Vivian looked at the van, painted in bright green, and laughed at how small the idea had once seemed. The business had taught her that good planning is only part of success; the rest is patience, honest teamwork and the willingness to keep learning. Ahmed and Luca already had plans for next summer."
+      }
+    ],
+    "wordCount": 286
+  },
+  "definitions": [
+    {
+      "word": "proposal",
+      "partOfSpeech": "noun",
+      "meaning1": "A formal plan or suggestion put forward for others to consider. Example: Her proposal for a school garden won the principal's approval.",
+      "meaning2": "A request to marry someone. Example: His proposal took place at sunrise on the beach.",
+      "studentChallenge": "The club submitted a written ___ asking for money to build a skate ramp.",
+      "sentence": ""
+    },
+    {
+      "word": "shrewd",
+      "partOfSpeech": "adjective",
+      "meaning1": "Clever at judging situations, especially in practical or money matters. Example: A shrewd shopper, she waited for the sale before buying the coat.",
+      "meaning2": "",
+      "studentChallenge": "The ___ negotiator got a lower price without sounding rude.",
+      "sentence": ""
+    },
+    {
+      "word": "collateral",
+      "partOfSpeech": "noun, adjective",
+      "meaning1": "Property or valuables pledged to a lender to guarantee a loan will be repaid. Example: He used his car as collateral for the loan.",
+      "meaning2": "Secondary or side, as in an unintended side effect. Example: The storm caused collateral damage to nearby fences.",
+      "studentChallenge": "The bank would not lend the money without ___ to protect itself.",
+      "sentence": ""
+    },
+    {
+      "word": "dividend",
+      "partOfSpeech": "noun",
+      "meaning1": "A share of a company's profits paid to its owners or investors. Example: The company paid a dividend of two dollars per share.",
+      "meaning2": "A benefit gained from effort or investment. Example: Years of daily practice paid dividends when she won the recital.",
+      "studentChallenge": "Each owner received a small ___ after the profitable year.",
+      "sentence": ""
+    },
+    {
+      "word": "entice",
+      "partOfSpeech": "verb",
+      "meaning1": "To attract by offering something appealing. Example: The bakery used free samples to entice customers inside.",
+      "meaning2": "",
+      "studentChallenge": "Colorful posters were meant to ___ students to join the club.",
+      "sentence": ""
+    },
+    {
+      "word": "clientele",
+      "partOfSpeech": "noun",
+      "meaning1": "The customers or clients of a business, thought of as a group. Example: The salon's clientele included both teenagers and retirees.",
+      "meaning2": "",
+      "studentChallenge": "The restaurant's loyal ___ returned every Friday for the same dish.",
+      "sentence": ""
+    },
+    {
+      "word": "bankrupt",
+      "partOfSpeech": "adjective, verb",
+      "meaning1": "Unable to pay debts, and legally declared so. Example: The toy company went bankrupt after its warehouse flooded.",
+      "meaning2": "Completely lacking in a quality. Example: The speech was bankrupt of fresh ideas.",
+      "studentChallenge": "After years of losses, the shop went ___ and closed its doors.",
+      "sentence": ""
+    },
+    {
+      "word": "equitable",
+      "partOfSpeech": "adjective",
+      "meaning1": "Fair and impartial; treating everyone equally. Example: The twins worked out an equitable way to share the last cookie.",
+      "meaning2": "",
+      "studentChallenge": "The coach made the schedule ___ so every player got time on the field.",
+      "sentence": ""
+    },
+    {
+      "word": "merge",
+      "partOfSpeech": "verb",
+      "meaning1": "To combine into one. Example: The two schools will merge into a single campus next year.",
+      "meaning2": "To blend gradually so that differences disappear. Example: At sunset, the colors seemed to merge across the sky.",
+      "studentChallenge": "Two small rivers ___ here to form one large river.",
+      "sentence": ""
+    },
+    {
+      "word": "scrimp",
+      "partOfSpeech": "verb",
+      "meaning1": "To spend very little money, usually in order to save. Example: The family had to scrimp on groceries to pay the rent.",
+      "meaning2": "",
+      "studentChallenge": "She learned to ___ and save every dollar for college.",
+      "sentence": ""
+    },
+    {
+      "word": "overhead",
+      "partOfSpeech": "noun, adjective",
+      "meaning1": "The regular costs of running a business, such as rent and utilities. Example: High overhead made it hard for the bakery to turn a profit.",
+      "meaning2": "Located above your head. Example: An overhead light flickered in the hallway.",
+      "studentChallenge": "The shop owner cut ___ by switching to cheaper electricity.",
+      "sentence": ""
+    },
+    {
+      "word": "diversify",
+      "partOfSpeech": "verb",
+      "meaning1": "To add variety, especially by expanding into new areas to reduce risk. Example: The farm began to diversify by growing berries as well as corn.",
+      "meaning2": "",
+      "studentChallenge": "Smart investors ___ so that one bad stock will not ruin them.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The club submitted a written _______ asking for money to build a skate ramp.",
+      "sentence2": "His marriage _______ took place at sunrise on the beach.",
+      "options": [
+        "dividend",
+        "collateral",
+        "proposal",
+        "clientele"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "proposal"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "A _______ shopper, she waited for the sale before buying the coat.",
+      "sentence2": "The _______ negotiator got a lower price without sounding rude.",
+      "options": [
+        "shrewd",
+        "bankrupt",
+        "overhead",
+        "merge"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "shrewd"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The bank would not lend the money without _______ to protect itself.",
+      "sentence2": "He used his car as _______ for the loan.",
+      "options": [
+        "proposal",
+        "dividend",
+        "overhead",
+        "collateral"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "collateral"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Each owner received a small _______ after the profitable year.",
+      "sentence2": "The company paid a _______ of two dollars per share to its investors.",
+      "options": [
+        "proposal",
+        "dividend",
+        "clientele",
+        "overhead"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "dividend"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Colorful posters were meant to _______ students to join the club.",
+      "sentence2": "The bakery set out free samples to _______ passersby into the shop.",
+      "options": [
+        "merge",
+        "entice",
+        "diversify",
+        "scrimp"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "entice"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The restaurant's loyal _______ returned every Friday for the same dish.",
+      "sentence2": "The salon's _______ includes both teenagers and retirees.",
+      "options": [
+        "proposal",
+        "dividend",
+        "overhead",
+        "clientele"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "clientele"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "After years of losses, the shop went _______ and closed its doors.",
+      "sentence2": "The speech was _______ of fresh ideas.",
+      "options": [
+        "bankrupt",
+        "shrewd",
+        "equitable",
+        "scrimp"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "bankrupt"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The new rules were _______, giving every team exactly the same chances.",
+      "sentence2": "Splitting the prize money in an _______ way meant everyone got a fair share.",
+      "options": [
+        "shrewd",
+        "bankrupt",
+        "equitable",
+        "entice"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "equitable"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The two schools will _______ into a single campus next year.",
+      "sentence2": "Two small rivers _______ here to form one large river.",
+      "options": [
+        "diversify",
+        "entice",
+        "scrimp",
+        "merge"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "merge"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The family had to _______ on groceries to pay the rent.",
+      "sentence2": "She learned to _______ and save every dollar for college.",
+      "options": [
+        "entice",
+        "scrimp",
+        "diversify",
+        "merge"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "scrimp"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "High _______ made it hard for the bakery to turn a profit.",
+      "sentence2": "Rent, insurance and electricity made up most of the shop's monthly _______.",
+      "options": [
+        "proposal",
+        "dividend",
+        "overhead",
+        "collateral"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "overhead"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The farm began to _______ by growing berries as well as corn.",
+      "sentence2": "Smart investors _______ so that one bad stock will not ruin them.",
+      "options": [
+        "diversify",
+        "scrimp",
+        "merge",
+        "entice"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "diversify"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "proposal",
+      "shrewd",
+      "collateral",
+      "dividend",
+      "entice",
+      "clientele",
+      "bankrupt",
+      "equitable",
+      "merge",
+      "scrimp",
+      "overhead",
+      "diversify"
+    ],
+    "passage": "Luca later explained to a younger class how their business survived. \"First, write a clear _(1)_,\" he said, \"because lenders want to see exactly how you will use their money.\" They also needed _(2)_, something valuable to promise in case they could not repay. Ahmed was the _(3)_ one, always comparing prices. He tracked the _(4)_, the monthly costs of rent and electricity that never go away, and found places to _(5)_ without hurting quality. \"One bad winter could leave a shop _(6)_,\" Luca said, \"so we never took risks blindly.\"\n\nTo _(7)_ customers, they offered free tire checks, and soon their loyal _(8)_ had doubled. When a rival shop asked to _(9)_ with them, they insisted on an _(10)_ deal that treated both sides fairly. They also decided to _(11)_ by selling helmets. \"And every December,\" Luca said, \"each of us receives a _(12)_ from the profits.\"",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "proposal",
+        "options": [
+          "collateral",
+          "proposal",
+          "dividend",
+          "clientele"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "collateral",
+        "options": [
+          "proposal",
+          "overhead",
+          "dividend",
+          "collateral"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "shrewd",
+        "options": [
+          "shrewd",
+          "bankrupt",
+          "proposal",
+          "merge"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "overhead",
+        "options": [
+          "collateral",
+          "dividend",
+          "overhead",
+          "clientele"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "scrimp",
+        "options": [
+          "entice",
+          "merge",
+          "scrimp",
+          "shrewd"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "bankrupt",
+        "options": [
+          "bankrupt",
+          "shrewd",
+          "equitable",
+          "overhead"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "entice",
+        "options": [
+          "scrimp",
+          "merge",
+          "diversify",
+          "entice"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "clientele",
+        "options": [
+          "proposal",
+          "clientele",
+          "collateral",
+          "overhead"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "merge",
+        "options": [
+          "merge",
+          "scrimp",
+          "entice",
+          "diversify"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "equitable",
+        "options": [
+          "bankrupt",
+          "shrewd",
+          "overhead",
+          "equitable"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "diversify",
+        "options": [
+          "scrimp",
+          "diversify",
+          "merge",
+          "bankrupt"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "dividend",
+        "options": [
+          "proposal",
+          "collateral",
+          "dividend",
+          "overhead"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "shrewd",
+        "scale": [
+          "Sensible",
+          "Clever",
+          "Shrewd"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "bankrupt",
+        "scale": [
+          "Struggling",
+          "Broke",
+          "Bankrupt"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "scrimp",
+        "scale": [
+          "Save",
+          "Economize",
+          "Scrimp"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "entice",
+        "scale": [
+          "Invite",
+          "Attract",
+          "Entice"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "shrewd",
+        "words": [
+          "Clever",
+          "Foolish",
+          "Astute",
+          "Sharp"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Foolish"
+      },
+      {
+        "vocabWord": "bankrupt",
+        "words": [
+          "Broke",
+          "Insolvent",
+          "Ruined",
+          "Wealthy"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Wealthy"
+      },
+      {
+        "vocabWord": "equitable",
+        "words": [
+          "Biased",
+          "Fair",
+          "Impartial",
+          "Just"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Biased"
+      },
+      {
+        "vocabWord": "merge",
+        "words": [
+          "Combine",
+          "Unite",
+          "Separate",
+          "Join"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Separate"
+      },
+      {
+        "vocabWord": "scrimp",
+        "words": [
+          "Skimp",
+          "Splurge",
+          "Economize",
+          "Pinch"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Splurge"
+      },
+      {
+        "vocabWord": "entice",
+        "words": [
+          "Repel",
+          "Attract",
+          "Lure",
+          "Tempt"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Repel"
+      },
+      {
+        "vocabWord": "diversify",
+        "words": [
+          "Expand",
+          "Vary",
+          "Branch out",
+          "Specialize"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Specialize"
+      },
+      {
+        "vocabWord": "proposal",
+        "words": [
+          "Offer",
+          "Plan",
+          "Refusal",
+          "Suggestion"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Refusal"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

@@ -1,0 +1,578 @@
+{
+  "grade": 2,
+  "setNumber": 1,
+  "words": [
+    "rescue",
+    "stray",
+    "shaggy",
+    "comfort",
+    "nuzzle",
+    "grateful",
+    "scruffy",
+    "yelp",
+    "hesitant",
+    "wag",
+    "kennel",
+    "overjoyed"
+  ],
+  "sources": [
+    "Common Core Grade 2",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "animal rescue",
+  "story": {
+    "genre": "animal rescue",
+    "characters": [
+      "Tara",
+      "Marcus",
+      "Sofia"
+    ],
+    "parts": [
+      {
+        "title": "A Cry Behind the Fence",
+        "text": "Tara, Marcus, and Sofia were walking home from school. They heard a thin cry behind a fence. A **stray** dog was hiding under a bush. He was cold and wet, and he was all alone. “We have to **rescue** him,” said Tara."
+      },
+      {
+        "title": "Making a Friend",
+        "text": "The dog looked **shaggy** and **scruffy**, with mud in his fur. Marcus felt **hesitant** because he was not sure the dog would be friendly. Sofia sat on the ground and spoke softly to **comfort** him. The dog gave a little **yelp** and crept out. Then he began to **nuzzle** her hand."
+      },
+      {
+        "title": "A Safe Place",
+        "text": "The children took him to the animal shelter. A kind worker gave him a bath and a bed in a warm **kennel**. His tail began to **wag**. “He is so **grateful**,” said Sofia. The worker said the children could visit every week. They were **overjoyed**."
+      },
+      {
+        "title": "A Good Day",
+        "text": "Tara, Marcus, and Sofia walked home slowly. They had not planned to help a dog that day, but they were glad they stopped to listen. Sometimes a small kindness can change a whole day for someone."
+      }
+    ],
+    "wordCount": 174
+  },
+  "definitions": [
+    {
+      "word": "rescue",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To save someone or something from danger. Example: The firefighter will rescue the cat from the tall tree.",
+      "meaning2": "The act of saving someone. Example: The rescue took only ten minutes.",
+      "studentChallenge": "The lifeguard jumped in to ___ the swimmer.",
+      "sentence": ""
+    },
+    {
+      "word": "stray",
+      "partOfSpeech": "adjective, noun",
+      "meaning1": "Lost, with no home or owner nearby. Example: A stray kitten followed us down the street.",
+      "meaning2": "An animal that is lost or has no home. Example: The shelter takes in every stray it finds.",
+      "studentChallenge": "The hungry ___ cat had no home.",
+      "sentence": ""
+    },
+    {
+      "word": "shaggy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Covered with long, rough hair. Example: The shaggy sheepdog needs a brush every day.",
+      "meaning2": "",
+      "studentChallenge": "The ___ pony had long hair hanging over its eyes.",
+      "sentence": ""
+    },
+    {
+      "word": "comfort",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To make someone feel calm and less sad. Example: I hug my sister to comfort her when she cries.",
+      "meaning2": "A cozy feeling of being safe and at ease. Example: I found comfort in my soft, warm bed.",
+      "studentChallenge": "A warm hug can ___ a child who feels sad.",
+      "sentence": ""
+    },
+    {
+      "word": "nuzzle",
+      "partOfSpeech": "verb",
+      "meaning1": "To rub or press gently with the nose. Example: The pony likes to nuzzle my shoulder.",
+      "meaning2": "",
+      "studentChallenge": "The puppy will ___ against my arm to say hello.",
+      "sentence": ""
+    },
+    {
+      "word": "grateful",
+      "partOfSpeech": "adjective",
+      "meaning1": "Feeling thankful for something kind that someone did. Example: I was grateful when my friend shared her lunch.",
+      "meaning2": "",
+      "studentChallenge": "We are ___ to the bus driver for waiting for us.",
+      "sentence": ""
+    },
+    {
+      "word": "scruffy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Messy and not well cared for. Example: The scruffy puppy had dirt on its ears.",
+      "meaning2": "",
+      "studentChallenge": "His coat looked ___ after he rolled in the mud.",
+      "sentence": ""
+    },
+    {
+      "word": "yelp",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To give a short, sharp cry. Example: The puppy will yelp if you step on its paw.",
+      "meaning2": "A short, sharp cry. Example: We heard a yelp from the yard.",
+      "studentChallenge": "The little dog let out a ___ when the door slammed.",
+      "sentence": ""
+    },
+    {
+      "word": "hesitant",
+      "partOfSpeech": "adjective",
+      "meaning1": "Slow to act because you are not sure. Example: She was hesitant to jump into the cold lake.",
+      "meaning2": "",
+      "studentChallenge": "He felt ___ about trying the tall slide.",
+      "sentence": ""
+    },
+    {
+      "word": "wag",
+      "partOfSpeech": "verb",
+      "meaning1": "To move quickly from side to side. Example: My dog will wag her tail when I come home.",
+      "meaning2": "",
+      "studentChallenge": "Watch the happy puppy ___ its tail.",
+      "sentence": ""
+    },
+    {
+      "word": "kennel",
+      "partOfSpeech": "noun",
+      "meaning1": "A small house or pen where a dog sleeps or stays. Example: The dog slept in his kennel at night.",
+      "meaning2": "",
+      "studentChallenge": "The dog walked into his ___ and lay down.",
+      "sentence": ""
+    },
+    {
+      "word": "overjoyed",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very, very happy. Example: I was overjoyed when I saw my grandma at the airport.",
+      "meaning2": "",
+      "studentChallenge": "The girl was ___ when she won the spelling bee.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Firefighters will _______ the cat that is stuck in the tall tree.",
+      "sentence2": "A boat came to _______ the family from the flooded road.",
+      "options": [
+        "nuzzle",
+        "rescue",
+        "wag",
+        "comfort"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "rescue"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The _______ cat was lost and had no home to go back to.",
+      "sentence2": "We saw a _______ dog wandering far from any owner.",
+      "options": [
+        "kennel",
+        "overjoyed",
+        "grateful",
+        "stray"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "stray"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The _______ sheepdog needed a brush because its long hair hung over its eyes.",
+      "sentence2": "The old rug was _______, with long, rough threads that tickled my toes.",
+      "options": [
+        "shaggy",
+        "hesitant",
+        "grateful",
+        "overjoyed"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "shaggy"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "I gave my little brother a hug to _______ him when he was sad.",
+      "sentence2": "A kind word can _______ a friend who feels afraid.",
+      "options": [
+        "nuzzle",
+        "wag",
+        "comfort",
+        "yelp"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "comfort"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The pony likes to _______ my shoulder with its soft nose.",
+      "sentence2": "The kitten began to _______ against my hand to say hello.",
+      "options": [
+        "wag",
+        "yelp",
+        "rescue",
+        "nuzzle"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "nuzzle"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "I was _______ when my friend shared her lunch with me.",
+      "sentence2": "The farmer felt _______ for the rain after the dry summer.",
+      "options": [
+        "hesitant",
+        "grateful",
+        "stray",
+        "shaggy"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "grateful"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The _______ puppy had dirty ears and a messy coat.",
+      "sentence2": "His old jacket looked _______ after many years of wear.",
+      "options": [
+        "grateful",
+        "overjoyed",
+        "scruffy",
+        "hesitant"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "scruffy"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The puppy let out a loud _______ when I stepped on its paw by mistake.",
+      "sentence2": "We heard a sharp _______ from the yard.",
+      "options": [
+        "yelp",
+        "kennel",
+        "wag",
+        "comfort"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "yelp"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "She was _______ to jump into the cold water because she was not sure.",
+      "sentence2": "He felt _______ about trying the tall slide for the first time.",
+      "options": [
+        "overjoyed",
+        "grateful",
+        "hesitant",
+        "scruffy"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "hesitant"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Our dog will _______ her tail when I come home.",
+      "sentence2": "The puppy began to _______ its tail the moment the door opened.",
+      "options": [
+        "wag",
+        "yelp",
+        "nuzzle",
+        "rescue"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "wag"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The dog slept in his _______ at night.",
+      "sentence2": "The shelter built a clean _______ with a soft blanket for each dog.",
+      "options": [
+        "rescue",
+        "kennel",
+        "comfort",
+        "yelp"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "kennel"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "She was so _______ that she jumped up and down and shouted for joy.",
+      "sentence2": "The winners were _______, and they cheered and hugged each other.",
+      "options": [
+        "hesitant",
+        "scruffy",
+        "shaggy",
+        "overjoyed"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "overjoyed"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "rescue",
+      "stray",
+      "shaggy",
+      "comfort",
+      "nuzzle",
+      "grateful",
+      "scruffy",
+      "yelp",
+      "hesitant",
+      "wag",
+      "kennel",
+      "overjoyed"
+    ],
+    "passage": "On Saturday, Tara went to the animal shelter with her dad. A worker told her about a _(1)_ puppy that had been found lost and alone in the park. The puppy’s fur was long and _(2)_, and its ears were dirty and _(3)_.\nThe puppy lived in a big _(4)_ with a soft blanket. At first, it was _(5)_ and stayed far back. Tara sat down and spoke in a kind voice to _(6)_ it. Soon the puppy came close and began to _(7)_ against her fingers. Then it began to _(8)_ its tail.\nWhen a door banged, the puppy let out a loud _(9)_, and Tara gave it a hug. “Thank you for helping us _(10)_ dogs like this one,” said the worker. “We are so _(11)_ for every visitor.” Tara jumped up and down because she was so _(12)_ when her dad said they could take the puppy home.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "stray",
+        "options": [
+          "kennel",
+          "wag",
+          "stray",
+          "overjoyed"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "shaggy",
+        "options": [
+          "shaggy",
+          "grateful",
+          "hesitant",
+          "kennel"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "scruffy",
+        "options": [
+          "rescue",
+          "nuzzle",
+          "yelp",
+          "scruffy"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "kennel",
+        "options": [
+          "wag",
+          "kennel",
+          "hesitant",
+          "shaggy"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "hesitant",
+        "options": [
+          "hesitant",
+          "overjoyed",
+          "kennel",
+          "yelp"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "comfort",
+        "options": [
+          "wag",
+          "kennel",
+          "comfort",
+          "overjoyed"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "nuzzle",
+        "options": [
+          "rescue",
+          "nuzzle",
+          "yelp",
+          "scruffy"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "wag",
+        "options": [
+          "rescue",
+          "kennel",
+          "grateful",
+          "wag"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "yelp",
+        "options": [
+          "wag",
+          "hesitant",
+          "shaggy",
+          "yelp"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "rescue",
+        "options": [
+          "kennel",
+          "rescue",
+          "yelp",
+          "scruffy"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "grateful",
+        "options": [
+          "grateful",
+          "hesitant",
+          "stray",
+          "wag"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "overjoyed",
+        "options": [
+          "hesitant",
+          "scruffy",
+          "overjoyed",
+          "kennel"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "scruffy",
+        "scale": [
+          "Neat",
+          "Scruffy",
+          "Filthy"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "yelp",
+        "scale": [
+          "Whimper",
+          "Yelp",
+          "Howl"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "overjoyed",
+        "scale": [
+          "Glad",
+          "Happy",
+          "Overjoyed"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "nuzzle",
+        "scale": [
+          "Brush",
+          "Nuzzle",
+          "Snuggle"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "rescue",
+        "words": [
+          "Save",
+          "Abandon",
+          "Free",
+          "Help"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Abandon"
+      },
+      {
+        "vocabWord": "stray",
+        "words": [
+          "Lost",
+          "Wandering",
+          "Homeless",
+          "Owned"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Owned"
+      },
+      {
+        "vocabWord": "shaggy",
+        "words": [
+          "Bald",
+          "Hairy",
+          "Furry",
+          "Fuzzy"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Bald"
+      },
+      {
+        "vocabWord": "comfort",
+        "words": [
+          "Soothe",
+          "Calm",
+          "Hurt",
+          "Cheer"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Hurt"
+      },
+      {
+        "vocabWord": "grateful",
+        "words": [
+          "Thankful",
+          "Pleased",
+          "Unthankful",
+          "Appreciative"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Unthankful"
+      },
+      {
+        "vocabWord": "yelp",
+        "words": [
+          "Hush",
+          "Cry",
+          "Squeal",
+          "Yip"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Hush"
+      },
+      {
+        "vocabWord": "wag",
+        "words": [
+          "Wave",
+          "Swing",
+          "Shake",
+          "Freeze"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Freeze"
+      },
+      {
+        "vocabWord": "hesitant",
+        "words": [
+          "Unsure",
+          "Eager",
+          "Nervous",
+          "Doubtful"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Eager"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

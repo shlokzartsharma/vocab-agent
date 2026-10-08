@@ -1,0 +1,578 @@
+{
+  "grade": 7,
+  "setNumber": 3,
+  "words": [
+    "circuit",
+    "algorithm",
+    "sensor",
+    "glitch",
+    "optimize",
+    "refine",
+    "autonomous",
+    "tweak",
+    "bulky",
+    "versatile",
+    "sleek",
+    "mechanism"
+  ],
+  "sources": [
+    "Common Core Grade 7",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "robotics competition",
+  "story": {
+    "genre": "robotics competition",
+    "characters": [
+      "Anil",
+      "Savannah",
+      "Kai"
+    ],
+    "parts": [
+      {
+        "title": "Pit Row",
+        "text": "The regional robotics tournament had begun, and Anil felt nervous as he rolled his team's robot into the pit. It was **bulky**, a boxy tower of aluminum that looked like a rolling refrigerator. Across the aisle, a rival team polished a **sleek** machine shaped like a silver dart. \"Ours may not be pretty,\" Savannah said, \"but it is **versatile**. It can climb ramps, carry rings and flip switches.\" Kai crouched beside the lifting **mechanism**, a set of gears and pulleys, and listened for any strange clicking."
+      },
+      {
+        "title": "The Glitch",
+        "text": "In the first round, the robot was supposed to be **autonomous**, driving itself with no remote control for thirty seconds. Instead it spun in circles. A **glitch** had crept into its code. Savannah traced the trouble to the **algorithm**, the step-by-step list of instructions that told the robot when to turn. Kai tested each **sensor**, the small device that detected walls, and discovered that a wire had come loose."
+      },
+      {
+        "title": "Fixing It Fast",
+        "text": "During the break, Kai repaired the broken **circuit**, soldering the wire back so electricity could flow again. Anil decided to **tweak** the turning angle by only two degrees, a tiny change that mattered. Then Savannah began to **refine** the code, polishing every line until the robot moved smoothly. Finally, they tried to **optimize** its route, trimming it to the shortest path to the scoring zone."
+      },
+      {
+        "title": "The Final Round",
+        "text": "When the second round began, the robot rolled out, turned exactly where it should and dropped its rings into the goal. The team did not win first place, but the judges awarded them a prize for problem solving. Fixing a machine under pressure, he realized, was harder and far more rewarding than building a perfect one."
+      }
+    ],
+    "wordCount": 276
+  },
+  "definitions": [
+    {
+      "word": "circuit",
+      "partOfSpeech": "noun",
+      "meaning1": "A closed path that electricity flows around, often built from wires and electronic parts. Example: The light turned on once the circuit was complete.",
+      "meaning2": "A route that goes around and returns to the start. Example: The runners completed one circuit of the track.",
+      "studentChallenge": "The bulb stayed dark because there was a break in the ___.",
+      "sentence": ""
+    },
+    {
+      "word": "algorithm",
+      "partOfSpeech": "noun",
+      "meaning1": "A set of clear steps for solving a problem or doing a task, especially in a computer program. Example: The app uses an algorithm to sort songs from A to Z.",
+      "meaning2": "",
+      "studentChallenge": "Following each step of the ___ led the programmer to the right answer.",
+      "sentence": ""
+    },
+    {
+      "word": "sensor",
+      "partOfSpeech": "noun",
+      "meaning1": "A device that detects light, heat, motion or sound and sends that information along. Example: A motion sensor switched on the porch light.",
+      "meaning2": "",
+      "studentChallenge": "A ___ in the door told the robot when someone was near.",
+      "sentence": ""
+    },
+    {
+      "word": "glitch",
+      "partOfSpeech": "noun",
+      "meaning1": "A small, sudden problem that makes a machine or program stop working properly. Example: A glitch froze the game right before the final level.",
+      "meaning2": "",
+      "studentChallenge": "A tiny ___ in the software made the screen flicker.",
+      "sentence": ""
+    },
+    {
+      "word": "optimize",
+      "partOfSpeech": "verb",
+      "meaning1": "To make something work as well as possible. Example: We tried to optimize our schedule so every project fit in.",
+      "meaning2": "",
+      "studentChallenge": "Engineers ___ a car engine so it uses less fuel.",
+      "sentence": ""
+    },
+    {
+      "word": "refine",
+      "partOfSpeech": "verb",
+      "meaning1": "To improve something by making small, careful changes. Example: She continued to refine her speech until every sentence sounded right.",
+      "meaning2": "To remove unwanted material from a raw substance. Example: Factories refine crude oil into gasoline.",
+      "studentChallenge": "I will ___ my drawing by erasing rough lines and adding details.",
+      "sentence": ""
+    },
+    {
+      "word": "autonomous",
+      "partOfSpeech": "adjective",
+      "meaning1": "Able to work or run itself without outside control. Example: An autonomous vehicle can steer without a human driver.",
+      "meaning2": "Independent and able to govern itself. Example: The autonomous region made many of its own laws.",
+      "studentChallenge": "The ___ robot explored the cave without anyone steering it.",
+      "sentence": ""
+    },
+    {
+      "word": "tweak",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To make a small adjustment to something. Example: He decided to tweak the recipe by adding a pinch of salt.",
+      "meaning2": "A small change. Example: One quick tweak fixed the broken setting.",
+      "studentChallenge": "A slight ___ to the angle helped the ball land in the cup.",
+      "sentence": ""
+    },
+    {
+      "word": "bulky",
+      "partOfSpeech": "adjective",
+      "meaning1": "Large and awkward because of its size or shape. Example: The bulky couch barely fit through the doorway.",
+      "meaning2": "",
+      "studentChallenge": "The ___ backpack was too big to fit under the seat.",
+      "sentence": ""
+    },
+    {
+      "word": "versatile",
+      "partOfSpeech": "adjective",
+      "meaning1": "Able to do many different things or be used in many ways. Example: A versatile tool, the pocketknife can cut, open cans and tighten screws.",
+      "meaning2": "",
+      "studentChallenge": "A ___ athlete can play several sports well.",
+      "sentence": ""
+    },
+    {
+      "word": "sleek",
+      "partOfSpeech": "adjective",
+      "meaning1": "Smooth, shiny and streamlined in shape. Example: The sleek sports car sped down the highway.",
+      "meaning2": "",
+      "studentChallenge": "The seal's ___ fur gleamed as it slid through the water.",
+      "sentence": ""
+    },
+    {
+      "word": "mechanism",
+      "partOfSpeech": "noun",
+      "meaning1": "A system of moving parts that work together to do a job. Example: A hidden mechanism opened the secret door.",
+      "meaning2": "A method or process by which something happens. Example: Sweating is the body's mechanism for cooling off.",
+      "studentChallenge": "The clock's inner ___ of gears and springs kept perfect time.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The lamp only lights when the electrical _______ is complete.",
+      "sentence2": "The racer finished one more _______ of the track before the checkered flag.",
+      "options": [
+        "sensor",
+        "mechanism",
+        "circuit",
+        "algorithm"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "circuit"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The search engine uses a secret _______ to rank websites.",
+      "sentence2": "To solve the puzzle, he followed a simple _______ with five clear steps.",
+      "options": [
+        "algorithm",
+        "glitch",
+        "circuit",
+        "sensor"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "algorithm"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "A _______ near the door detects motion and turns on the lights.",
+      "sentence2": "The thermostat has a built-in _______ that measures the room's temperature.",
+      "options": [
+        "circuit",
+        "glitch",
+        "algorithm",
+        "sensor"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "sensor"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "A software _______ caused the scoreboard to show the wrong numbers.",
+      "sentence2": "Aside from one small _______ at the start, the show ran perfectly.",
+      "options": [
+        "mechanism",
+        "glitch",
+        "circuit",
+        "sensor"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "glitch"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Racers study every detail of the course to _______ their strategy for the best possible time.",
+      "sentence2": "Software engineers work to _______ the app so it loads as fast as it possibly can.",
+      "options": [
+        "mechanism",
+        "optimize",
+        "glitch",
+        "sensor"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "optimize"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Over many drafts, the author continued to _______ her story until every line felt just right.",
+      "sentence2": "Factories _______ crude oil into gasoline and other fuels.",
+      "options": [
+        "tweak",
+        "optimize",
+        "glitch",
+        "refine"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "refine"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The _______ rover drove itself across the desert with no human at the controls.",
+      "sentence2": "The mountain province was proud to be fully _______, making all of its own laws.",
+      "options": [
+        "autonomous",
+        "bulky",
+        "versatile",
+        "sleek"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "autonomous"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "A small _______ to the oven's temperature saved the burned cookies.",
+      "sentence2": "She had to _______ the volume slightly to hear the speaker.",
+      "options": [
+        "refine",
+        "optimize",
+        "tweak",
+        "glitch"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "tweak"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The _______ winter coat made it hard to move my arms.",
+      "sentence2": "Carrying the _______ box up three flights of stairs left him breathless.",
+      "options": [
+        "sleek",
+        "versatile",
+        "bulky",
+        "autonomous"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "bulky"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The _______ actor played villains, heroes and comedians equally well.",
+      "sentence2": "This _______ kitchen tool chops, slices, grates and blends.",
+      "options": [
+        "versatile",
+        "bulky",
+        "sleek",
+        "autonomous"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "versatile"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The dolphin's _______ body slipped through the water with hardly a ripple.",
+      "sentence2": "She wore a _______ black dress with clean, simple lines.",
+      "options": [
+        "bulky",
+        "sleek",
+        "versatile",
+        "autonomous"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "sleek"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The music box has a tiny _______ of gears and springs inside it.",
+      "sentence2": "Fever is the body's _______ for fighting infection.",
+      "options": [
+        "circuit",
+        "algorithm",
+        "sensor",
+        "mechanism"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "mechanism"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "circuit",
+      "algorithm",
+      "sensor",
+      "glitch",
+      "optimize",
+      "refine",
+      "autonomous",
+      "tweak",
+      "bulky",
+      "versatile",
+      "sleek",
+      "mechanism"
+    ],
+    "passage": "Savannah's club entered a robotics competition with a robot named Bolt. At first, Bolt looked _(1)_, a heavy box on wheels, but it was surprisingly _(2)_, able to climb, lift and sort. Kai installed a _(3)_ on the front that detected walls, and he checked the _(4)_ to make sure electricity flowed to every part of the machine.\n\nDuring practice, a software _(5)_ made Bolt spin in circles. Anil studied the _(6)_ that controlled its turns and found a mistake in the instructions. He chose to _(7)_ the angle slightly, then to _(8)_ the entire program, polishing every step. In the final round, Bolt had to be _(9)_, moving with no remote at all. The team hoped to _(10)_ its path for speed. A rival's _(11)_ robot looked fast, but Bolt's lifting _(12)_ worked perfectly, and the team cheered.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "bulky",
+        "options": [
+          "sleek",
+          "sensor",
+          "glitch",
+          "bulky"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "versatile",
+        "options": [
+          "versatile",
+          "sleek",
+          "algorithm",
+          "glitch"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "sensor",
+        "options": [
+          "glitch",
+          "tweak",
+          "sensor",
+          "bulky"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "circuit",
+        "options": [
+          "algorithm",
+          "sleek",
+          "circuit",
+          "versatile"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "glitch",
+        "options": [
+          "glitch",
+          "mechanism",
+          "bulky",
+          "optimize"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "algorithm",
+        "options": [
+          "glitch",
+          "algorithm",
+          "bulky",
+          "sleek"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "tweak",
+        "options": [
+          "sensor",
+          "bulky",
+          "mechanism",
+          "tweak"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "refine",
+        "options": [
+          "glitch",
+          "sleek",
+          "refine",
+          "circuit"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "autonomous",
+        "options": [
+          "autonomous",
+          "bulky",
+          "sleek",
+          "versatile"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "optimize",
+        "options": [
+          "sensor",
+          "algorithm",
+          "circuit",
+          "optimize"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "sleek",
+        "options": [
+          "mechanism",
+          "sleek",
+          "sensor",
+          "tweak"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "mechanism",
+        "options": [
+          "glitch",
+          "mechanism",
+          "algorithm",
+          "bulky"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "bulky",
+        "scale": [
+          "Large",
+          "Bulky",
+          "Enormous"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "glitch",
+        "scale": [
+          "Hiccup",
+          "Glitch",
+          "Breakdown"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "tweak",
+        "scale": [
+          "Tweak",
+          "Adjust",
+          "Overhaul"
+        ],
+        "vocabPosition": 0
+      },
+      {
+        "vocabWord": "autonomous",
+        "scale": [
+          "Guided",
+          "Independent",
+          "Autonomous"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "sleek",
+        "words": [
+          "Smooth",
+          "Streamlined",
+          "Polished",
+          "Clunky"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Clunky"
+      },
+      {
+        "vocabWord": "versatile",
+        "words": [
+          "Adaptable",
+          "Limited",
+          "Flexible",
+          "Multipurpose"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Limited"
+      },
+      {
+        "vocabWord": "optimize",
+        "words": [
+          "Worsen",
+          "Perfect",
+          "Improve",
+          "Maximize"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Worsen"
+      },
+      {
+        "vocabWord": "refine",
+        "words": [
+          "Polish",
+          "Improve",
+          "Spoil",
+          "Perfect"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Spoil"
+      },
+      {
+        "vocabWord": "autonomous",
+        "words": [
+          "Independent",
+          "Self-governing",
+          "Dependent",
+          "Unassisted"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Dependent"
+      },
+      {
+        "vocabWord": "bulky",
+        "words": [
+          "Slender",
+          "Hefty",
+          "Cumbersome",
+          "Massive"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Slender"
+      },
+      {
+        "vocabWord": "glitch",
+        "words": [
+          "Malfunction",
+          "Hiccup",
+          "Fault",
+          "Success"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Success"
+      },
+      {
+        "vocabWord": "tweak",
+        "words": [
+          "Adjust",
+          "Ignore",
+          "Modify",
+          "Alter"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Ignore"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

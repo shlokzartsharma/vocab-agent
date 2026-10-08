@@ -1,0 +1,578 @@
+{
+  "grade": 2,
+  "setNumber": 6,
+  "words": [
+    "invite",
+    "include",
+    "thoughtful",
+    "apologize",
+    "forgive",
+    "offer",
+    "kindness",
+    "respect",
+    "honest",
+    "greet",
+    "praise",
+    "mend"
+  ],
+  "sources": [
+    "Common Core Grade 2",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "kindness at school",
+  "story": {
+    "genre": "kindness at school",
+    "characters": [
+      "Nora",
+      "Dev",
+      "Chloe"
+    ],
+    "parts": [
+      {
+        "title": "A New Face",
+        "text": "Nora, Dev, and Chloe were in the same class. One morning, a new boy named Sam stood alone by the door. Nora gave him a big smile and wanted to **greet** him. Dev said, “Let’s **invite** him to sit with us at lunch. We should **include** him in our games at recess, too.”"
+      },
+      {
+        "title": "A Mistake at Recess",
+        "text": "At recess, Dev kicked the ball too hard. It hit Chloe’s paper plane and bent the wing. Dev felt bad right away. He wanted to show **respect** for his friend, so he chose to **apologize**. He told her the **honest** truth: he had not been watching. “I am sorry,” he said. Chloe took a deep breath and decided to **forgive** him."
+      },
+      {
+        "title": "Making It Right",
+        "text": "Dev wanted to **mend** the plane, so he found some tape. That was a **thoughtful** idea. Nora wanted to **offer** her help, too. The teacher saw them and gave them some **praise**. “I see so much **kindness** in this class,” she said."
+      },
+      {
+        "title": "A Good Feeling",
+        "text": "At the end of the day, Sam waved goodbye to his new friends. Nora, Dev, and Chloe walked home feeling proud. A few small words and actions had made someone feel at home."
+      }
+    ],
+    "wordCount": 189
+  },
+  "definitions": [
+    {
+      "word": "invite",
+      "partOfSpeech": "verb",
+      "meaning1": "To ask someone to come along or join you. Example: I will invite my cousin to my birthday party.",
+      "meaning2": "",
+      "studentChallenge": "I want to ___ my friend to the picnic.",
+      "sentence": ""
+    },
+    {
+      "word": "include",
+      "partOfSpeech": "verb",
+      "meaning1": "To make someone part of a group or an activity. Example: Please include everyone in the game.",
+      "meaning2": "",
+      "studentChallenge": "We always ___ the new student in our games.",
+      "sentence": ""
+    },
+    {
+      "word": "thoughtful",
+      "partOfSpeech": "adjective",
+      "meaning1": "Kind and careful about what other people need. Example: Bringing me soup when I was sick was thoughtful.",
+      "meaning2": "",
+      "studentChallenge": "It was ___ of you to save me a seat.",
+      "sentence": ""
+    },
+    {
+      "word": "apologize",
+      "partOfSpeech": "verb",
+      "meaning1": "To say you are sorry for something you did. Example: I had to apologize for bumping into her.",
+      "meaning2": "",
+      "studentChallenge": "If you break a toy, you should ___ right away.",
+      "sentence": ""
+    },
+    {
+      "word": "forgive",
+      "partOfSpeech": "verb",
+      "meaning1": "To stop being angry at someone who said sorry. Example: I will forgive my brother because he said sorry.",
+      "meaning2": "",
+      "studentChallenge": "It is kind to ___ a friend who says sorry.",
+      "sentence": ""
+    },
+    {
+      "word": "offer",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To hold out something so another person can take it. Example: I offer you half of my sandwich.",
+      "meaning2": "Something you say you will give or do for someone. Example: She said yes to my offer to help.",
+      "studentChallenge": "I will ___ to carry your heavy bag.",
+      "sentence": ""
+    },
+    {
+      "word": "kindness",
+      "partOfSpeech": "noun",
+      "meaning1": "Being gentle, caring, and helpful to others. Example: Her kindness made the new student feel welcome.",
+      "meaning2": "",
+      "studentChallenge": "Sharing your crayons is an act of ___.",
+      "sentence": ""
+    },
+    {
+      "word": "respect",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A feeling that someone is important and should be treated well. Example: We show respect by listening when others talk.",
+      "meaning2": "To treat someone with care and good manners. Example: We respect our teachers.",
+      "studentChallenge": "We should show ___ for each other’s feelings.",
+      "sentence": ""
+    },
+    {
+      "word": "honest",
+      "partOfSpeech": "adjective",
+      "meaning1": "Telling the truth and not cheating. Example: Be honest with me and tell me what happened.",
+      "meaning2": "",
+      "studentChallenge": "An ___ person tells the truth even when it is hard.",
+      "sentence": ""
+    },
+    {
+      "word": "greet",
+      "partOfSpeech": "verb",
+      "meaning1": "To say hello to someone. Example: I greet my teacher with a smile each morning.",
+      "meaning2": "",
+      "studentChallenge": "We stand at the door to ___ our guests.",
+      "sentence": ""
+    },
+    {
+      "word": "praise",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To say good things about someone. Example: The coach will praise us for working hard.",
+      "meaning2": "Kind words that show you are pleased. Example: She got praise for her neat drawing.",
+      "studentChallenge": "The teacher likes to ___ students who try their best.",
+      "sentence": ""
+    },
+    {
+      "word": "mend",
+      "partOfSpeech": "verb",
+      "meaning1": "To fix something that is broken or torn. Example: Grandpa will mend my torn sleeve.",
+      "meaning2": "",
+      "studentChallenge": "Can you help me ___ this broken toy?",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "I want to _______ my cousin to my birthday party.",
+      "sentence2": "Will you _______ your friends to the picnic?",
+      "options": [
+        "mend",
+        "invite",
+        "praise",
+        "forgive"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "invite"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Please _______ everyone in the game so no one feels left out.",
+      "sentence2": "Good teammates _______ new players in every activity.",
+      "options": [
+        "include",
+        "mend",
+        "apologize",
+        "forgive"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "include"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "It was _______ of you to save me a seat on the bus.",
+      "sentence2": "She wrote a _______ note to cheer up her sick friend.",
+      "options": [
+        "honest",
+        "offer",
+        "praise",
+        "thoughtful"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "thoughtful"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "If you bump into someone, you should _______ right away.",
+      "sentence2": "Dev had to _______ for breaking the paper plane.",
+      "options": [
+        "greet",
+        "mend",
+        "apologize",
+        "include"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "apologize"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "It is kind to _______ a friend who says sorry.",
+      "sentence2": "I will _______ my brother because he told me he was sorry.",
+      "options": [
+        "mend",
+        "forgive",
+        "greet",
+        "offer"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "forgive"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "I will _______ to carry your heavy backpack.",
+      "sentence2": "Did the neighbor _______ to help you with the garden?",
+      "options": [
+        "offer",
+        "apologize",
+        "greet",
+        "praise"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "offer"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Her _______ was clear when she shared her lunch and hugged a crying friend.",
+      "sentence2": "The class showed great _______ when they helped the new student feel welcome.",
+      "options": [
+        "praise",
+        "offer",
+        "mend",
+        "kindness"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "kindness"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "We show _______ for our teachers by listening when they speak.",
+      "sentence2": "Treat the library books with _______ and keep them clean.",
+      "options": [
+        "praise",
+        "honest",
+        "respect",
+        "greet"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "respect"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Please be _______ and tell me what really happened.",
+      "sentence2": "The _______ boy told the truth even when it was hard.",
+      "options": [
+        "kindness",
+        "honest",
+        "praise",
+        "greet"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "honest"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "I like to _______ my teacher with a big smile each morning.",
+      "sentence2": "We stood at the door to _______ the guests as they arrived.",
+      "options": [
+        "greet",
+        "mend",
+        "apologize",
+        "include"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "greet"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The coach will _______ the team for working so hard.",
+      "sentence2": "Parents often _______ their children when they try their best.",
+      "options": [
+        "invite",
+        "mend",
+        "greet",
+        "praise"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "praise"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Grandpa will _______ my torn sleeve with a needle and thread.",
+      "sentence2": "Can you help me _______ this broken toy?",
+      "options": [
+        "greet",
+        "praise",
+        "mend",
+        "invite"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "mend"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "invite",
+      "include",
+      "thoughtful",
+      "apologize",
+      "forgive",
+      "offer",
+      "kindness",
+      "respect",
+      "honest",
+      "greet",
+      "praise",
+      "mend"
+    ],
+    "passage": "Lena was new at Maple School, and on her first day she felt shy. A girl named Jo walked right up to _(1)_ her with a big smile. Then Jo wanted to _(2)_ Lena to eat lunch at her table. Lena thought it was a very _(3)_ thing to do.\nAt the table, Jo’s friends worked to _(4)_ Lena in their talk and jokes, so she never felt left out. Lena was happy, but then she knocked over Jo’s juice by accident. Lena was quick to _(5)_ and said, “I am sorry!” Jo was not angry. She chose to _(6)_ Lena right away, and she made an _(7)_ to help clean up. Lena was also _(8)_ and told Jo that she had bent a crayon, too.\nLater, the strap on Lena’s backpack came loose. Jo found thread so they could _(9)_ it together. The teacher saw their _(10)_ and gave them a little _(11)_ for it. “In this class, we show _(12)_ for each other,” she said.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "greet",
+        "options": [
+          "mend",
+          "praise",
+          "greet",
+          "honest"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "invite",
+        "options": [
+          "thoughtful",
+          "invite",
+          "kindness",
+          "forgive"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "thoughtful",
+        "options": [
+          "thoughtful",
+          "include",
+          "greet",
+          "offer"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "include",
+        "options": [
+          "kindness",
+          "thoughtful",
+          "honest",
+          "include"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "apologize",
+        "options": [
+          "praise",
+          "mend",
+          "apologize",
+          "greet"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "forgive",
+        "options": [
+          "mend",
+          "forgive",
+          "invite",
+          "offer"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "offer",
+        "options": [
+          "offer",
+          "kindness",
+          "respect",
+          "praise"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "honest",
+        "options": [
+          "greet",
+          "mend",
+          "include",
+          "honest"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "mend",
+        "options": [
+          "include",
+          "forgive",
+          "mend",
+          "apologize"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "kindness",
+        "options": [
+          "mend",
+          "kindness",
+          "honest",
+          "invite"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "praise",
+        "options": [
+          "praise",
+          "mend",
+          "greet",
+          "forgive"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "respect",
+        "options": [
+          "thoughtful",
+          "mend",
+          "offer",
+          "respect"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "praise",
+        "scale": [
+          "Thank",
+          "Praise",
+          "Cheer"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "thoughtful",
+        "scale": [
+          "Polite",
+          "Thoughtful",
+          "Generous"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "greet",
+        "scale": [
+          "Wave",
+          "Greet",
+          "Welcome"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "kindness",
+        "scale": [
+          "Manners",
+          "Kindness",
+          "Generosity"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "invite",
+        "words": [
+          "Ask",
+          "Ignore",
+          "Welcome",
+          "Request"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Ignore"
+      },
+      {
+        "vocabWord": "include",
+        "words": [
+          "Leave out",
+          "Add",
+          "Involve",
+          "Count in"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Leave out"
+      },
+      {
+        "vocabWord": "forgive",
+        "words": [
+          "Pardon",
+          "Excuse",
+          "Let go",
+          "Blame"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Blame"
+      },
+      {
+        "vocabWord": "honest",
+        "words": [
+          "Truthful",
+          "Fair",
+          "Lying",
+          "Sincere"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Lying"
+      },
+      {
+        "vocabWord": "praise",
+        "words": [
+          "Compliment",
+          "Scold",
+          "Cheer",
+          "Applaud"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Scold"
+      },
+      {
+        "vocabWord": "mend",
+        "words": [
+          "Break",
+          "Fix",
+          "Repair",
+          "Patch"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Break"
+      },
+      {
+        "vocabWord": "thoughtful",
+        "words": [
+          "Caring",
+          "Kind",
+          "Considerate",
+          "Careless"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Careless"
+      },
+      {
+        "vocabWord": "kindness",
+        "words": [
+          "Caring",
+          "Goodness",
+          "Meanness",
+          "Warmth"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Meanness"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

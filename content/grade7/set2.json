@@ -1,0 +1,578 @@
+{
+  "grade": 7,
+  "setNumber": 2,
+  "words": [
+    "contaminate",
+    "sediment",
+    "conserve",
+    "degrade",
+    "reclaim",
+    "toxic",
+    "runoff",
+    "stagnant",
+    "pristine",
+    "reservoir",
+    "negligent",
+    "ecology"
+  ],
+  "sources": [
+    "Common Core Grade 7",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "river cleanup",
+  "story": {
+    "genre": "river cleanup",
+    "characters": [
+      "Imani",
+      "Carter",
+      "Yara"
+    ],
+    "parts": [
+      {
+        "title": "Trouble at Miller's Creek",
+        "text": "Imani had always loved Miller's Creek, but this spring something was wrong. Where the water once rushed over smooth stones, it now sat **stagnant** and green, smelling like old eggs. Carter pointed at the pipes beside the parking lot. After every storm, **runoff** from the pavement carried oil and litter into the stream, and thick gray **sediment** had buried the pebbles where minnows used to hide. \"If this continues, the mud and chemicals will **contaminate** everything downstream,\" he warned."
+      },
+      {
+        "title": "Testing the Water",
+        "text": "Yara, who dreamed of studying **ecology**, brought testing kits from her science class. The results made her gasp: the creek held traces of a **toxic** cleaner, dangerous to fish and frogs. Worse, the creek flowed into the town's **reservoir**, where thousands of families got their drinking water. The students suspected that the nearby car wash had been **negligent**, ignoring the rules about draining its waste."
+      },
+      {
+        "title": "A Plan for the Creek",
+        "text": "At the next town meeting, the three friends presented their data and urged adults to **conserve** the creek instead of ignoring it. Without action, the habitat would continue to **degrade**, one dead fish at a time. Volunteers agreed to **reclaim** the banks by hauling away trash, planting reeds to filter the water and sealing the leaking drain. Imani described the clear, **pristine** creek her grandfather remembered and promised that she would see it again."
+      },
+      {
+        "title": "Back to the Water",
+        "text": "By midsummer, minnows flickered through the shallows once more, and a heron stood on the bank. Carter kept a notebook of the changes, while Yara mailed the results to the state office. Imani sat on a warm rock, listening to the water, and understood that one small group can protect a place."
+      }
+    ],
+    "wordCount": 270
+  },
+  "definitions": [
+    {
+      "word": "contaminate",
+      "partOfSpeech": "verb",
+      "meaning1": "To make something dirty or unsafe by adding harmful substances. Example: Spilled paint can contaminate a stream and harm the fish.",
+      "meaning2": "",
+      "studentChallenge": "A single leaking barrel could ___ the entire well.",
+      "sentence": ""
+    },
+    {
+      "word": "sediment",
+      "partOfSpeech": "noun",
+      "meaning1": "Tiny pieces of sand, mud or rock that settle at the bottom of water. Example: After the flood, a thick layer of sediment covered the riverbed.",
+      "meaning2": "",
+      "studentChallenge": "Brown ___ clouded the water whenever the river rose.",
+      "sentence": ""
+    },
+    {
+      "word": "conserve",
+      "partOfSpeech": "verb",
+      "meaning1": "To protect something and use it carefully so it is not wasted or destroyed. Example: We turn off the faucet while brushing our teeth to conserve water.",
+      "meaning2": "",
+      "studentChallenge": "Hikers must ___ their drinking water on the long, dry trail.",
+      "sentence": ""
+    },
+    {
+      "word": "degrade",
+      "partOfSpeech": "verb",
+      "meaning1": "To make something worse in quality or condition. Example: Years of pollution began to degrade the quality of the lake.",
+      "meaning2": "To break down into smaller parts over time. Example: Plastic bags can take hundreds of years to degrade.",
+      "studentChallenge": "Heavy traffic and dust can ___ the air quality of a city.",
+      "sentence": ""
+    },
+    {
+      "word": "reclaim",
+      "partOfSpeech": "verb",
+      "meaning1": "To make damaged land useful again, or to take back something that was lost. Example: Volunteers worked to reclaim the polluted lot and turn it into a garden.",
+      "meaning2": "To ask for or take back what belongs to you. Example: You can reclaim your lost backpack at the front office.",
+      "studentChallenge": "The city plans to ___ the old dump and turn it into a park.",
+      "sentence": ""
+    },
+    {
+      "word": "toxic",
+      "partOfSpeech": "adjective",
+      "meaning1": "Poisonous and harmful to living things. Example: Never mix cleaning sprays, since the fumes can be toxic.",
+      "meaning2": "Extremely harmful in a way that is not physical. Example: A toxic argument can damage a friendship for years.",
+      "studentChallenge": "The ___ chemical was kept in a locked cabinet far from children.",
+      "sentence": ""
+    },
+    {
+      "word": "runoff",
+      "partOfSpeech": "noun",
+      "meaning1": "Rainwater or melted snow that flows over the ground into streams, often carrying dirt and pollution. Example: Farm runoff carried fertilizer into the nearby pond.",
+      "meaning2": "",
+      "studentChallenge": "Heavy rain sent muddy ___ rushing down the hillside.",
+      "sentence": ""
+    },
+    {
+      "word": "stagnant",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not moving or flowing, so that it becomes dirty or smelly. Example: Mosquitoes breed in stagnant puddles.",
+      "meaning2": "Not growing, changing or improving. Example: Sales were stagnant all year, so the shop owner tried new ideas.",
+      "studentChallenge": "The ___ pond was thick with algae and buzzing with flies.",
+      "sentence": ""
+    },
+    {
+      "word": "pristine",
+      "partOfSpeech": "adjective",
+      "meaning1": "Perfectly clean and unspoiled, as if untouched. Example: The hikers camped beside a pristine mountain lake.",
+      "meaning2": "",
+      "studentChallenge": "Fresh snow covered the field in a ___ white blanket.",
+      "sentence": ""
+    },
+    {
+      "word": "reservoir",
+      "partOfSpeech": "noun",
+      "meaning1": "A large natural or artificial lake where water is stored for a community. Example: The city's reservoir was nearly empty after the long drought.",
+      "meaning2": "A large supply of something. Example: She had a reservoir of patience that never seemed to run dry.",
+      "studentChallenge": "Pipes carried water from the ___ to every home in town.",
+      "sentence": ""
+    },
+    {
+      "word": "negligent",
+      "partOfSpeech": "adjective",
+      "meaning1": "Failing to give proper care or attention to something you are responsible for. Example: The negligent owner forgot to lock the gate, and the dog escaped.",
+      "meaning2": "",
+      "studentChallenge": "A ___ lifeguard who watches a phone instead of the pool puts swimmers at risk.",
+      "sentence": ""
+    },
+    {
+      "word": "ecology",
+      "partOfSpeech": "noun",
+      "meaning1": "The study of how living things relate to each other and to their surroundings; also, those relationships themselves. Example: Studying the pond's ecology showed how frogs, insects and plants depend on one another.",
+      "meaning2": "",
+      "studentChallenge": "In ___ class, we studied how wolves change a whole forest.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "One careless spill could _______ the whole town's drinking water.",
+      "sentence2": "Using the same knife on raw chicken can _______ a salad with bacteria.",
+      "options": [
+        "conserve",
+        "reclaim",
+        "contaminate",
+        "degrade"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "contaminate"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "A layer of brown _______ settled at the bottom of the glass of muddy water.",
+      "sentence2": "Over thousands of years, the _______ carried by the river hardened into layers of rock.",
+      "options": [
+        "sediment",
+        "runoff",
+        "reservoir",
+        "ecology"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "sediment"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "During the drought, families were asked to _______ water by taking shorter showers.",
+      "sentence2": "Rangers work to _______ the forest so future generations can enjoy it.",
+      "options": [
+        "contaminate",
+        "degrade",
+        "reclaim",
+        "conserve"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "conserve"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Constant noise and fumes can _______ the quality of life in a neighborhood.",
+      "sentence2": "Plastic bags take hundreds of years to _______ in a landfill.",
+      "options": [
+        "conserve",
+        "degrade",
+        "reclaim",
+        "contaminate"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "degrade"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Workers hoped to _______ the abandoned quarry and turn it into a park.",
+      "sentence2": "After the storm, residents lined up to _______ belongings that had washed along the shore.",
+      "options": [
+        "conserve",
+        "reclaim",
+        "degrade",
+        "contaminate"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "reclaim"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The warning label said the fumes were _______ and should not be inhaled.",
+      "sentence2": "The friendship ended after months of _______ gossip and lies.",
+      "options": [
+        "stagnant",
+        "negligent",
+        "pristine",
+        "toxic"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "toxic"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Water ran off the roofs and streets as _______ that flowed toward the storm drains.",
+      "sentence2": "Melting snow became _______ that streamed down the slope and filled the creek.",
+      "options": [
+        "runoff",
+        "sediment",
+        "reservoir",
+        "ecology"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "runoff"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Mosquitoes laid eggs in the _______ water of the old birdbath.",
+      "sentence2": "The company's profits stayed _______ year after year, never rising or falling.",
+      "options": [
+        "toxic",
+        "pristine",
+        "stagnant",
+        "negligent"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "stagnant"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The explorers were amazed by the _______ beach, with no footprints or trash.",
+      "sentence2": "She kept her antique violin in _______ condition, without a single scratch.",
+      "options": [
+        "stagnant",
+        "toxic",
+        "pristine",
+        "negligent"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "pristine"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Heavy snow in the mountains filled the _______ that supplies our city with water.",
+      "sentence2": "The old man was a _______ of stories, always ready with another tale.",
+      "options": [
+        "reservoir",
+        "ecology",
+        "sediment",
+        "runoff"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "reservoir"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The _______ guard fell asleep and never noticed the open gate.",
+      "sentence2": "Officials said the company was _______ for ignoring repeated safety warnings.",
+      "options": [
+        "toxic",
+        "negligent",
+        "stagnant",
+        "pristine"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "negligent"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "In _______ class, we learned how plants, insects and birds depend on each other.",
+      "sentence2": "Scientists studied the island's _______ to see how one lost species changed everything.",
+      "options": [
+        "reservoir",
+        "sediment",
+        "runoff",
+        "ecology"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "ecology"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "contaminate",
+      "sediment",
+      "conserve",
+      "degrade",
+      "reclaim",
+      "toxic",
+      "runoff",
+      "stagnant",
+      "pristine",
+      "reservoir",
+      "negligent",
+      "ecology"
+    ],
+    "passage": "Carter's notebook described the day his town finally saved the river. At first, the water near the old mill sat _(1)_, green and silent, and the smell kept fishermen away. Heavy _(2)_ from the street drains carried oil toward the stream, and a thick layer of _(3)_ had buried the stones where trout once laid their eggs. Inspectors decided the mill owner had been _(4)_ about cleaning up a leaking barrel of _(5)_ chemicals, and the spill threatened to _(6)_ the _(7)_ that supplied everyone's drinking water.\n\nCarter's _(8)_ teacher explained that every creature depends on the others, and that polluted water could _(9)_ the whole system. Volunteers worked all summer to _(10)_ the muddy banks, replanting reeds and hauling away trash. Their goal was simple: to _(11)_ what remained and bring back a _(12)_ stream like the one in the old photographs.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "stagnant",
+        "options": [
+          "pristine",
+          "negligent",
+          "ecology",
+          "stagnant"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "runoff",
+        "options": [
+          "runoff",
+          "ecology",
+          "reservoir",
+          "pristine"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "sediment",
+        "options": [
+          "reservoir",
+          "stagnant",
+          "sediment",
+          "negligent"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "negligent",
+        "options": [
+          "toxic",
+          "pristine",
+          "negligent",
+          "stagnant"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "toxic",
+        "options": [
+          "toxic",
+          "pristine",
+          "negligent",
+          "reservoir"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "contaminate",
+        "options": [
+          "conserve",
+          "contaminate",
+          "reclaim",
+          "ecology"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "reservoir",
+        "options": [
+          "ecology",
+          "sediment",
+          "runoff",
+          "reservoir"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "ecology",
+        "options": [
+          "sediment",
+          "reservoir",
+          "ecology",
+          "runoff"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "degrade",
+        "options": [
+          "degrade",
+          "conserve",
+          "reclaim",
+          "stagnant"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "reclaim",
+        "options": [
+          "contaminate",
+          "degrade",
+          "runoff",
+          "reclaim"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "conserve",
+        "options": [
+          "contaminate",
+          "conserve",
+          "degrade",
+          "ecology"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "pristine",
+        "options": [
+          "reservoir",
+          "pristine",
+          "sediment",
+          "toxic"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "pristine",
+        "scale": [
+          "Clean",
+          "Spotless",
+          "Pristine"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "toxic",
+        "scale": [
+          "Harmful",
+          "Toxic",
+          "Deadly"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "degrade",
+        "scale": [
+          "Weaken",
+          "Degrade",
+          "Ruin"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "negligent",
+        "scale": [
+          "Careless",
+          "Negligent",
+          "Reckless"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "contaminate",
+        "words": [
+          "Pollute",
+          "Taint",
+          "Poison",
+          "Purify"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Purify"
+      },
+      {
+        "vocabWord": "conserve",
+        "words": [
+          "Protect",
+          "Waste",
+          "Preserve",
+          "Save"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Waste"
+      },
+      {
+        "vocabWord": "reclaim",
+        "words": [
+          "Abandon",
+          "Recover",
+          "Retrieve",
+          "Regain"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Abandon"
+      },
+      {
+        "vocabWord": "stagnant",
+        "words": [
+          "Still",
+          "Motionless",
+          "Flowing",
+          "Sluggish"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Flowing"
+      },
+      {
+        "vocabWord": "toxic",
+        "words": [
+          "Poisonous",
+          "Harmful",
+          "Harmless",
+          "Deadly"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Harmless"
+      },
+      {
+        "vocabWord": "pristine",
+        "words": [
+          "Filthy",
+          "Spotless",
+          "Untouched",
+          "Unspoiled"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Filthy"
+      },
+      {
+        "vocabWord": "degrade",
+        "words": [
+          "Worsen",
+          "Damage",
+          "Erode",
+          "Improve"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Improve"
+      },
+      {
+        "vocabWord": "negligent",
+        "words": [
+          "Careless",
+          "Careful",
+          "Sloppy",
+          "Lax"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Careful"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

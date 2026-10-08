@@ -1,0 +1,578 @@
+{
+  "grade": 2,
+  "setNumber": 2,
+  "words": [
+    "lantern",
+    "crackle",
+    "ember",
+    "sturdy",
+    "glow",
+    "rummage",
+    "flicker",
+    "snug",
+    "chorus",
+    "dusk",
+    "thicket",
+    "hoot"
+  ],
+  "sources": [
+    "Common Core Grade 2",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "camping trip",
+  "story": {
+    "genre": "camping trip",
+    "characters": [
+      "Jin",
+      "Olivia",
+      "Hassan"
+    ],
+    "parts": [
+      {
+        "title": "Setting Up Camp",
+        "text": "At **dusk**, Jin, Olivia, and Hassan reached the campsite with their uncle. Hassan helped put up the tent. The poles were **sturdy**, so the wind could not knock it down. Olivia had to **rummage** through her bag to find the **lantern**."
+      },
+      {
+        "title": "Fire Night",
+        "text": "Uncle lit a campfire. The logs began to **crackle** and pop. Jin pointed at one orange **ember** that floated up into the dark. The flames began to **flicker**, and a warm **glow** fell on all their faces."
+      },
+      {
+        "title": "Night Sounds",
+        "text": "Soon the children crawled into their **snug** sleeping bags. In the **thicket** nearby, the frogs sang together in a **chorus**. Far away, an owl gave a long, low **hoot**. Hassan whispered, “I like it here.” Olivia said the stars looked like tiny lamps."
+      },
+      {
+        "title": "Sleepy Time",
+        "text": "Uncle checked the fire one last time. Jin lay awake and listened. The night was full of small sounds. He was glad to be far from the city, and he fell asleep with a smile."
+      }
+    ],
+    "wordCount": 156
+  },
+  "definitions": [
+    {
+      "word": "lantern",
+      "partOfSpeech": "noun",
+      "meaning1": "A light inside a case that you can carry. Example: We hung the lantern on a hook outside the tent.",
+      "meaning2": "",
+      "studentChallenge": "Dad carried a ___ so we could see the path in the dark.",
+      "sentence": ""
+    },
+    {
+      "word": "crackle",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To make many small popping sounds. Example: Dry leaves crackle under my boots.",
+      "meaning2": "A series of small popping sounds. Example: I heard the crackle of the fire.",
+      "studentChallenge": "The logs began to ___ in the fire.",
+      "sentence": ""
+    },
+    {
+      "word": "ember",
+      "partOfSpeech": "noun",
+      "meaning1": "A small piece of wood or coal that is still glowing red after a fire. Example: One red ember was left in the fireplace.",
+      "meaning2": "",
+      "studentChallenge": "A tiny, glowing ___ floated up from the campfire.",
+      "sentence": ""
+    },
+    {
+      "word": "sturdy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Strong and not easily broken. Example: The sturdy table held all the heavy books.",
+      "meaning2": "",
+      "studentChallenge": "The ___ bridge did not shake when we walked across.",
+      "sentence": ""
+    },
+    {
+      "word": "glow",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To shine with a soft light. Example: The night-light will glow all night.",
+      "meaning2": "A soft, warm light. Example: The glow of the candle filled the room.",
+      "studentChallenge": "Fireflies ___ in the dark yard.",
+      "sentence": ""
+    },
+    {
+      "word": "rummage",
+      "partOfSpeech": "verb",
+      "meaning1": "To search by moving things around. Example: I rummage through my drawer to find my socks.",
+      "meaning2": "",
+      "studentChallenge": "I had to ___ in my bag to find my flashlight.",
+      "sentence": ""
+    },
+    {
+      "word": "flicker",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To shine with a light that goes bright and dim again and again. Example: The candle flame will flicker in the wind.",
+      "meaning2": "A quick, unsteady light. Example: We saw a flicker of light in the window.",
+      "studentChallenge": "The old lamp began to ___ and then went out.",
+      "sentence": ""
+    },
+    {
+      "word": "snug",
+      "partOfSpeech": "adjective",
+      "meaning1": "Warm, cozy, and comfortable. Example: I feel snug in my bed on a cold night.",
+      "meaning2": "Fitting closely. Example: This snug hat keeps my ears warm.",
+      "studentChallenge": "The kitten was warm and ___ in the little basket.",
+      "sentence": ""
+    },
+    {
+      "word": "chorus",
+      "partOfSpeech": "noun",
+      "meaning1": "Many voices or sounds together. Example: A chorus of birds woke me up.",
+      "meaning2": "A group of people who sing together. Example: My sister sings in the school chorus.",
+      "studentChallenge": "A ___ of frogs sang by the pond.",
+      "sentence": ""
+    },
+    {
+      "word": "dusk",
+      "partOfSpeech": "noun",
+      "meaning1": "The time in the evening when the sky is getting dark. Example: At dusk, the streetlights turn on.",
+      "meaning2": "",
+      "studentChallenge": "We went home at ___, just before the sky turned dark.",
+      "sentence": ""
+    },
+    {
+      "word": "thicket",
+      "partOfSpeech": "noun",
+      "meaning1": "A thick group of bushes or small trees. Example: A rabbit hid in the thicket.",
+      "meaning2": "",
+      "studentChallenge": "The deer vanished into the ___ of tall bushes.",
+      "sentence": ""
+    },
+    {
+      "word": "hoot",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "The call of an owl. Example: We heard the hoot of an owl.",
+      "meaning2": "To make a loud call like an owl. Example: The owl will hoot all night.",
+      "studentChallenge": "The owl gave a loud ___ from the tree.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "We hung the _______ on a hook so we could see inside the tent.",
+      "sentence2": "Grandpa carried a _______ down the dark path.",
+      "options": [
+        "ember",
+        "lantern",
+        "chorus",
+        "thicket"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "lantern"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Dry leaves _______ under my boots when I walk.",
+      "sentence2": "The logs began to _______ and pop in the fire.",
+      "options": [
+        "glow",
+        "flicker",
+        "hoot",
+        "crackle"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "crackle"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "One red _______ was still left in the fireplace.",
+      "sentence2": "A tiny, glowing _______ floated up from the campfire.",
+      "options": [
+        "ember",
+        "dusk",
+        "chorus",
+        "thicket"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ember"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The _______ table held all of the heavy books.",
+      "sentence2": "The tent was _______, so the wind could not knock it down.",
+      "options": [
+        "snug",
+        "dusk",
+        "sturdy",
+        "chorus"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "sturdy"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The soft _______ of the candle filled the whole room.",
+      "sentence2": "We could see the warm _______ of the campfire from far away.",
+      "options": [
+        "chorus",
+        "hoot",
+        "lantern",
+        "glow"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "glow"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "I had to _______ through my bag to find my flashlight.",
+      "sentence2": "Dad will _______ in the drawer to look for the tape.",
+      "options": [
+        "crackle",
+        "rummage",
+        "hoot",
+        "glow"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "rummage"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The candle flame began to _______, bright one second and dim the next.",
+      "sentence2": "The old lamp will _______ on and off before it goes dark.",
+      "options": [
+        "glow",
+        "crackle",
+        "flicker",
+        "rummage"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "flicker"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "I feel _______ in my warm bed on a cold night.",
+      "sentence2": "This _______ hat keeps my ears warm.",
+      "options": [
+        "snug",
+        "sturdy",
+        "hoot",
+        "thicket"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "snug"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "A _______ of birds woke me up at sunrise.",
+      "sentence2": "My sister sings in the school _______.",
+      "options": [
+        "lantern",
+        "ember",
+        "chorus",
+        "thicket"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "chorus"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "At _______, the streetlights come on.",
+      "sentence2": "We walked home at _______, just before the sky turned dark.",
+      "options": [
+        "dusk",
+        "ember",
+        "thicket",
+        "chorus"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "dusk"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "A rabbit hid in the _______ of thorny bushes.",
+      "sentence2": "The deer ran into the _______ and vanished among the branches.",
+      "options": [
+        "lantern",
+        "thicket",
+        "dusk",
+        "ember"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "thicket"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "We heard the _______ of an owl in the tree.",
+      "sentence2": "An owl will _______ all night long.",
+      "options": [
+        "crackle",
+        "glow",
+        "ember",
+        "hoot"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "hoot"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "lantern",
+      "crackle",
+      "ember",
+      "sturdy",
+      "glow",
+      "rummage",
+      "flicker",
+      "snug",
+      "chorus",
+      "dusk",
+      "thicket",
+      "hoot"
+    ],
+    "passage": "On Friday, Jin’s class went on a night hike. The bus left them at the trail at _(1)_, when the sky was turning purple. Their teacher carried a _(2)_ to light the path. Jin wore _(3)_ boots that did not slip on the rocks.\nThey walked past a dark _(4)_ of bushes where something rustled. Jin heard an owl give a low _(5)_ from a tall tree. Dry sticks began to _(6)_ under their feet.\nAt camp, the teacher lit a small fire, and the flames began to _(7)_ in the breeze. Jin had to _(8)_ in his pack to find his snack. One bright _(9)_ floated up from the fire like a tiny star. Soon the moon began to _(10)_ above the trees. A _(11)_ of crickets sang in the grass, and Jin felt _(12)_ in his warm sleeping bag.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "dusk",
+        "options": [
+          "ember",
+          "thicket",
+          "dusk",
+          "hoot"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "lantern",
+        "options": [
+          "lantern",
+          "chorus",
+          "dusk",
+          "thicket"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "sturdy",
+        "options": [
+          "dusk",
+          "hoot",
+          "ember",
+          "sturdy"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "thicket",
+        "options": [
+          "chorus",
+          "thicket",
+          "lantern",
+          "dusk"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "hoot",
+        "options": [
+          "hoot",
+          "glow",
+          "rummage",
+          "snug"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "crackle",
+        "options": [
+          "glow",
+          "hoot",
+          "crackle",
+          "rummage"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "flicker",
+        "options": [
+          "rummage",
+          "flicker",
+          "hoot",
+          "lantern"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "rummage",
+        "options": [
+          "glow",
+          "hoot",
+          "sturdy",
+          "rummage"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "ember",
+        "options": [
+          "thicket",
+          "chorus",
+          "dusk",
+          "ember"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "glow",
+        "options": [
+          "crackle",
+          "glow",
+          "rummage",
+          "hoot"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "chorus",
+        "options": [
+          "chorus",
+          "lantern",
+          "ember",
+          "thicket"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "snug",
+        "options": [
+          "dusk",
+          "hoot",
+          "snug",
+          "ember"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "glow",
+        "scale": [
+          "Dim",
+          "Glow",
+          "Blaze"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "sturdy",
+        "scale": [
+          "Weak",
+          "Sturdy",
+          "Unbreakable"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "hoot",
+        "scale": [
+          "Whisper",
+          "Hoot",
+          "Screech"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "snug",
+        "scale": [
+          "Chilly",
+          "Warm",
+          "Snug"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "sturdy",
+        "words": [
+          "Strong",
+          "Weak",
+          "Solid",
+          "Tough"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Weak"
+      },
+      {
+        "vocabWord": "glow",
+        "words": [
+          "Shine",
+          "Gleam",
+          "Shimmer",
+          "Fade"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Fade"
+      },
+      {
+        "vocabWord": "flicker",
+        "words": [
+          "Steady",
+          "Flutter",
+          "Twinkle",
+          "Waver"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Steady"
+      },
+      {
+        "vocabWord": "crackle",
+        "words": [
+          "Pop",
+          "Snap",
+          "Silence",
+          "Sizzle"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Silence"
+      },
+      {
+        "vocabWord": "snug",
+        "words": [
+          "Cozy",
+          "Warm",
+          "Chilly",
+          "Comfy"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Chilly"
+      },
+      {
+        "vocabWord": "rummage",
+        "words": [
+          "Ignore",
+          "Search",
+          "Dig",
+          "Hunt"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Ignore"
+      },
+      {
+        "vocabWord": "dusk",
+        "words": [
+          "Twilight",
+          "Evening",
+          "Sunset",
+          "Dawn"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Dawn"
+      },
+      {
+        "vocabWord": "thicket",
+        "words": [
+          "Brush",
+          "Clearing",
+          "Bushes",
+          "Woods"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Clearing"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

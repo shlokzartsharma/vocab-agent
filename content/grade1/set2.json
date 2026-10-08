@@ -1,0 +1,578 @@
+{
+  "grade": 1,
+  "setNumber": 2,
+  "words": [
+    "sprinkle",
+    "tiny",
+    "shiny",
+    "soggy",
+    "scoop",
+    "pluck",
+    "crawl",
+    "buzz",
+    "hurry",
+    "bloom",
+    "fuzzy",
+    "damp"
+  ],
+  "sources": [
+    "Common Core Grade 1",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "backyard garden",
+  "story": {
+    "genre": "backyard garden",
+    "characters": [
+      "Leo",
+      "Priya",
+      "Ben"
+    ],
+    "parts": [
+      {
+        "title": "Planting Day",
+        "text": "Leo, Priya, and Ben went to the backyard garden. The ground was **damp** from the rain. Ben wore his **shiny** red boots. Priya used a spade to **scoop** out little holes. Leo dropped one **tiny** seed into each hole."
+      },
+      {
+        "title": "Water and Wait",
+        "text": "They covered the seeds with dirt. Ben gave them a **sprinkle** of water. Soon the dirt was dark and **soggy**. A fat worm began to **crawl** across his boot, and Priya giggled. Then they went inside to wait."
+      },
+      {
+        "title": "A Surprise",
+        "text": "Two weeks later, a **fuzzy** green leaf popped up. Next to it, a yellow flower began to **bloom**. A bee came to **buzz** around it. “Ben, **hurry**!” called Leo. “Come and **pluck** a ripe strawberry from the old patch!”"
+      },
+      {
+        "title": "Sweet Treats",
+        "text": "The friends shared the strawberries on the porch. Their garden was small, but they felt proud. They could not wait to plant more seeds."
+      }
+    ],
+    "wordCount": 140
+  },
+  "definitions": [
+    {
+      "word": "sprinkle",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To drop tiny bits or drops over something. Example: I sprinkle water on the flowers.",
+      "meaning2": "A few small drops or bits. Example: A sprinkle of rain fell on the roof.",
+      "studentChallenge": "Dad will ___ cheese on top of the pizza.",
+      "sentence": ""
+    },
+    {
+      "word": "tiny",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very, very small. Example: An ant is a tiny bug.",
+      "meaning2": "",
+      "studentChallenge": "The ___ mouse fit in my hand.",
+      "sentence": ""
+    },
+    {
+      "word": "shiny",
+      "partOfSpeech": "adjective",
+      "meaning1": "Bright and smooth, like something that catches the light. Example: The new coin was shiny.",
+      "meaning2": "",
+      "studentChallenge": "She rubbed the spoon until it was ___.",
+      "sentence": ""
+    },
+    {
+      "word": "soggy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Wet and soft because it is full of water. Example: The cereal got soggy in the milk.",
+      "meaning2": "",
+      "studentChallenge": "My socks were ___ after I stepped in the puddle.",
+      "sentence": ""
+    },
+    {
+      "word": "scoop",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To lift something up with a spoon or your hand. Example: I scoop ice cream into a bowl.",
+      "meaning2": "A tool like a deep spoon. Example: Dad used a scoop to fill the bucket with sand.",
+      "studentChallenge": "Please ___ the beans into the bowl.",
+      "sentence": ""
+    },
+    {
+      "word": "pluck",
+      "partOfSpeech": "verb",
+      "meaning1": "To pull something off with your fingers. Example: I pluck an apple from the tree.",
+      "meaning2": "",
+      "studentChallenge": "Mom will ___ a ripe plum from the branch.",
+      "sentence": ""
+    },
+    {
+      "word": "crawl",
+      "partOfSpeech": "verb",
+      "meaning1": "To move on your hands and knees, or to move low and slow. Example: The baby can crawl across the rug.",
+      "meaning2": "",
+      "studentChallenge": "A snail will ___ along the garden wall.",
+      "sentence": ""
+    },
+    {
+      "word": "buzz",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To make a humming sound like a bee. Example: Bees buzz around the flowers.",
+      "meaning2": "A humming sound. Example: I heard the buzz of a fly.",
+      "studentChallenge": "The flies ___ near the window.",
+      "sentence": ""
+    },
+    {
+      "word": "hurry",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To move or do something fast. Example: We hurry so we are not late for school.",
+      "meaning2": "A need to go fast. Example: She was in a hurry to get to the party.",
+      "studentChallenge": "We must ___ or the bus will leave.",
+      "sentence": ""
+    },
+    {
+      "word": "bloom",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To open into a flower. Example: Tulips bloom in the spring.",
+      "meaning2": "A flower. Example: The rose is a pretty red bloom.",
+      "studentChallenge": "The daisies will ___ when the days get warm.",
+      "sentence": ""
+    },
+    {
+      "word": "fuzzy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Covered with soft, short hairs. Example: The peach has fuzzy skin.",
+      "meaning2": "",
+      "studentChallenge": "The baby duck was small and ___.",
+      "sentence": ""
+    },
+    {
+      "word": "damp",
+      "partOfSpeech": "adjective",
+      "meaning1": "A little bit wet. Example: The towel is damp after my bath.",
+      "meaning2": "",
+      "studentChallenge": "The grass was ___ with morning dew.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Dad will _______ cheese on top of the pizza.",
+      "sentence2": "A _______ of rain fell on the roof.",
+      "options": [
+        "tiny",
+        "shiny",
+        "sprinkle",
+        "damp"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "sprinkle"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "An ant is a _______ bug.",
+      "sentence2": "The _______ mouse fit in my hand.",
+      "options": [
+        "hurry",
+        "tiny",
+        "crawl",
+        "bloom"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "tiny"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "She rubbed the spoon until it was _______.",
+      "sentence2": "The new coin was bright and _______.",
+      "options": [
+        "shiny",
+        "sprinkle",
+        "buzz",
+        "scoop"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "shiny"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "My socks were _______ after I stepped in the puddle.",
+      "sentence2": "The cereal turned _______ in the milk.",
+      "options": [
+        "pluck",
+        "hurry",
+        "bloom",
+        "soggy"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "soggy"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Please _______ the beans into the bowl.",
+      "sentence2": "Dad used a _______ to fill the bucket with sand.",
+      "options": [
+        "fuzzy",
+        "damp",
+        "scoop",
+        "tiny"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "scoop"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Mom will _______ a ripe plum from the branch.",
+      "sentence2": "I like to _______ a daisy from the grass.",
+      "options": [
+        "shiny",
+        "pluck",
+        "soggy",
+        "damp"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "pluck"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "A snail will _______ slowly along the wall.",
+      "sentence2": "The baby can _______ across the rug.",
+      "options": [
+        "crawl",
+        "tiny",
+        "fuzzy",
+        "soggy"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "crawl"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Bees _______ around the flowers.",
+      "sentence2": "I heard the _______ of a fly at the window.",
+      "options": [
+        "damp",
+        "shiny",
+        "tiny",
+        "buzz"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "buzz"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "We must _______ or the bus will leave.",
+      "sentence2": "She was in a _______ to get to the party.",
+      "options": [
+        "fuzzy",
+        "soggy",
+        "hurry",
+        "shiny"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "hurry"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Tulips _______ in the spring.",
+      "sentence2": "The rose is a pretty red _______.",
+      "options": [
+        "damp",
+        "bloom",
+        "tiny",
+        "soggy"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "bloom"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The peach has soft, _______ skin.",
+      "sentence2": "The baby duck was small and _______.",
+      "options": [
+        "fuzzy",
+        "scoop",
+        "hurry",
+        "pluck"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "fuzzy"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The grass was _______ with morning dew.",
+      "sentence2": "My towel is still _______ from my bath.",
+      "options": [
+        "buzz",
+        "crawl",
+        "sprinkle",
+        "damp"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "damp"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "sprinkle",
+      "tiny",
+      "shiny",
+      "soggy",
+      "scoop",
+      "pluck",
+      "crawl",
+      "buzz",
+      "hurry",
+      "bloom",
+      "fuzzy",
+      "damp"
+    ],
+    "passage": "On Saturday, Ben helped Grandpa in the garden. The grass was _(1)_ from the morning dew. Grandpa gave Ben a _(2)_ spade. “Dig a hole and _(3)_ out the dirt,” he said. Ben found a _(4)_ stone and a curly worm. The worm began to _(5)_ away.\n\nNext, they planted seeds. Ben gave each one a _(6)_ of water. Soon the ground was dark and _(7)_. A bee began to _(8)_ near his ear. “Don’t _(9)_,” said Grandpa. “Flowers take time to _(10)_.”\n\nBen touched a _(11)_ leaf on the sage plant. Then Grandpa smiled. “You may _(12)_ one ripe strawberry,” he said.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "damp",
+        "options": [
+          "scoop",
+          "hurry",
+          "damp",
+          "bloom"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "shiny",
+        "options": [
+          "crawl",
+          "shiny",
+          "buzz",
+          "pluck"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "scoop",
+        "options": [
+          "scoop",
+          "tiny",
+          "fuzzy",
+          "soggy"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "tiny",
+        "options": [
+          "pluck",
+          "crawl",
+          "hurry",
+          "tiny"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "crawl",
+        "options": [
+          "shiny",
+          "fuzzy",
+          "crawl",
+          "damp"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "sprinkle",
+        "options": [
+          "tiny",
+          "sprinkle",
+          "soggy",
+          "fuzzy"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "soggy",
+        "options": [
+          "soggy",
+          "hurry",
+          "buzz",
+          "scoop"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "buzz",
+        "options": [
+          "tiny",
+          "shiny",
+          "fuzzy",
+          "buzz"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "hurry",
+        "options": [
+          "damp",
+          "soggy",
+          "hurry",
+          "tiny"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "bloom",
+        "options": [
+          "fuzzy",
+          "bloom",
+          "shiny",
+          "soggy"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "fuzzy",
+        "options": [
+          "fuzzy",
+          "crawl",
+          "hurry",
+          "sprinkle"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "pluck",
+        "options": [
+          "tiny",
+          "shiny",
+          "fuzzy",
+          "pluck"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "tiny",
+        "scale": [
+          "Tiny",
+          "Small",
+          "Huge"
+        ],
+        "vocabPosition": 0
+      },
+      {
+        "vocabWord": "damp",
+        "scale": [
+          "Dry",
+          "Damp",
+          "Soggy"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "hurry",
+        "scale": [
+          "Stroll",
+          "Hurry",
+          "Race"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "shiny",
+        "scale": [
+          "Dull",
+          "Shiny",
+          "Sparkly"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "tiny",
+        "words": [
+          "Small",
+          "Huge",
+          "Little",
+          "Mini"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Huge"
+      },
+      {
+        "vocabWord": "soggy",
+        "words": [
+          "Wet",
+          "Soaked",
+          "Drippy",
+          "Dry"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Dry"
+      },
+      {
+        "vocabWord": "shiny",
+        "words": [
+          "Dull",
+          "Bright",
+          "Gleaming",
+          "Sparkly"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Dull"
+      },
+      {
+        "vocabWord": "hurry",
+        "words": [
+          "Rush",
+          "Speed",
+          "Dawdle",
+          "Race"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Dawdle"
+      },
+      {
+        "vocabWord": "crawl",
+        "words": [
+          "Creep",
+          "Inch",
+          "Sneak",
+          "Sprint"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Sprint"
+      },
+      {
+        "vocabWord": "fuzzy",
+        "words": [
+          "Furry",
+          "Smooth",
+          "Fluffy",
+          "Soft"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Smooth"
+      },
+      {
+        "vocabWord": "damp",
+        "words": [
+          "Moist",
+          "Wet",
+          "Dry",
+          "Soggy"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Dry"
+      },
+      {
+        "vocabWord": "bloom",
+        "words": [
+          "Blossom",
+          "Open",
+          "Flower",
+          "Wilt"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Wilt"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}
