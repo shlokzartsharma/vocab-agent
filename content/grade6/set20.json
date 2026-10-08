@@ -1,0 +1,577 @@
+{
+  "grade": 6,
+  "setNumber": 20,
+  "words": [
+    "archive",
+    "legacy",
+    "generation",
+    "antique",
+    "era",
+    "retrospect",
+    "reminisce",
+    "memento",
+    "inscribe",
+    "keepsake",
+    "vintage",
+    "timeline"
+  ],
+  "sources": [
+    "Common Core Grade 6",
+    "Tier 2 Academic"
+  ],
+  "genre": "time capsule project",
+  "story": {
+    "genre": "time capsule project",
+    "characters": [
+      "Yolanda",
+      "Hugh",
+      "Saanvi"
+    ],
+    "parts": [
+      {
+        "title": "A Hundred Years",
+        "text": "Ms. Alvarez's class had one big job: fill a time capsule for the school's hundredth birthday. First, Yolanda, Hugh, and Saanvi explored the school **archive**, a dusty room full of old yearbooks and photographs. Hugh stretched a long **timeline** across the wall to show every big event, from the first graduating class to the new library. Saanvi was amazed by how much each **era** had changed the school, from chalkboards to tablets. \"This is our school's **legacy**,\" Ms. Alvarez said. \"It is everything earlier students passed down to us.\""
+      },
+      {
+        "title": "Treasures from Home",
+        "text": "That weekend, each student searched at home for something to include. Yolanda found a brass compass, an **antique** that had belonged to her great-grandfather. Saanvi brought a **vintage** record from the 1970s, still in its cardboard sleeve. Hugh's grandmother loved to **reminisce**, so she told stories for an hour before handing him a ticket stub, a **memento** of the first football game she ever attended. Saanvi also tucked in a silver locket, a **keepsake** from her aunt."
+      },
+      {
+        "title": "Sealing the Capsule",
+        "text": "On sealing day, the class gathered around a steel box. Each student wrote a letter, and Yolanda used an engraving pen to **inscribe** all their names on the lid. They hoped that a future **generation** of students would open the box in fifty years. \"In **retrospect**,\" Hugh said, \"this project showed us that ordinary things become history.\""
+      },
+      {
+        "title": "The Stone Vault",
+        "text": "As the capsule was lowered into its stone vault, Yolanda smiled. Someday, strangers would hold their treasures and wonder who they were. She hoped those readers would feel like friends, just as she had felt friendship in the old photographs."
+      }
+    ],
+    "wordCount": 263
+  },
+  "definitions": [
+    {
+      "word": "archive",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A place where old records, documents, and historic items are stored. Example: The historian searched the archive for letters from the 1800s.",
+      "meaning2": "To store records or files for long-term keeping. Example: The library will archive its old newspapers on microfilm.",
+      "studentChallenge": "The town's ___ holds maps and letters from two hundred years ago.",
+      "sentence": ""
+    },
+    {
+      "word": "legacy",
+      "partOfSpeech": "noun",
+      "meaning1": "Something handed down from the past, such as ideas, achievements, or traditions. Example: The poet's legacy lives on through her books.",
+      "meaning2": "Money or property left to someone in a will. Example: She used the legacy from her aunt to open a bakery.",
+      "studentChallenge": "Kindness and generosity were the lasting ___ of the beloved principal.",
+      "sentence": ""
+    },
+    {
+      "word": "generation",
+      "partOfSpeech": "noun",
+      "meaning1": "All the people born and living around the same time. Example: Her generation grew up with smartphones.",
+      "meaning2": "The act of producing something, such as electricity. Example: Wind turbines help with the generation of clean power.",
+      "studentChallenge": "My grandparents' ___ remembers when televisions were black and white.",
+      "sentence": ""
+    },
+    {
+      "word": "antique",
+      "partOfSpeech": "noun, adjective",
+      "meaning1": "A valuable object that is very old. Example: The brass lamp was an antique that had been in the family for 150 years.",
+      "meaning2": "Belonging to a much earlier time. Example: She polished the antique mirror until its frame shone.",
+      "studentChallenge": "The dusty ___ clock in the hallway was over two hundred years old.",
+      "sentence": ""
+    },
+    {
+      "word": "era",
+      "partOfSpeech": "noun",
+      "meaning1": "A long period of history known for particular events or ways of life. Example: The railroad changed life during the pioneer era.",
+      "meaning2": "",
+      "studentChallenge": "Cell phones changed everything in the modern ___.",
+      "sentence": ""
+    },
+    {
+      "word": "retrospect",
+      "partOfSpeech": "noun",
+      "meaning1": "A look back at past events, with what you know now. Example: In retrospect, I should have started my project earlier.",
+      "meaning2": "",
+      "studentChallenge": "In ___, the early start was the best part of our plan.",
+      "sentence": ""
+    },
+    {
+      "word": "reminisce",
+      "partOfSpeech": "verb",
+      "meaning1": "To talk or think happily about past experiences. Example: The old friends sat together to reminisce about summers at the lake.",
+      "meaning2": "",
+      "studentChallenge": "Grandpa loves to ___ about his school days.",
+      "sentence": ""
+    },
+    {
+      "word": "memento",
+      "partOfSpeech": "noun",
+      "meaning1": "An object kept to remind you of a person, place, or event. Example: The seashell was a memento of our trip to the coast.",
+      "meaning2": "",
+      "studentChallenge": "She kept the ticket as a ___ of her first concert.",
+      "sentence": ""
+    },
+    {
+      "word": "inscribe",
+      "partOfSpeech": "verb",
+      "meaning1": "To write, carve, or engrave words on a surface. Example: They will inscribe the winner's name on the silver trophy.",
+      "meaning2": "To write a short message in a book as a personal note. Example: The author agreed to inscribe my copy with a kind message.",
+      "studentChallenge": "Please ___ your initials inside the cover of the book.",
+      "sentence": ""
+    },
+    {
+      "word": "keepsake",
+      "partOfSpeech": "noun",
+      "meaning1": "A small item kept because of the person or time it reminds you of. Example: She wore her grandmother's locket as a keepsake.",
+      "meaning2": "",
+      "studentChallenge": "The pressed flower was a precious ___ from the last day of camp.",
+      "sentence": ""
+    },
+    {
+      "word": "vintage",
+      "partOfSpeech": "adjective",
+      "meaning1": "Old but admired for its high quality or style. Example: He drove a vintage car from the 1950s.",
+      "meaning2": "Showing the best qualities of a certain person or time. Example: The joke was vintage Dad: silly but impossible not to love.",
+      "studentChallenge": "She bought a ___ dress from the 1960s at the thrift store.",
+      "sentence": ""
+    },
+    {
+      "word": "timeline",
+      "partOfSpeech": "noun",
+      "meaning1": "A line or list that shows events in the order they happened. Example: The timeline showed the key events of the American Revolution in order.",
+      "meaning2": "A schedule of when things will be done. Example: The builders gave us a timeline: the roof will be finished by June.",
+      "studentChallenge": "Hugh drew a ___ of his own life, from birth to sixth grade.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The historian searched the town _______ for letters written in the 1800s.",
+      "sentence2": "The library will _______ its old newspapers on microfilm so they last for centuries.",
+      "options": [
+        "inscribe",
+        "reminisce",
+        "archive",
+        "timeline"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "archive"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The poet's _______ lives on in the books and songs she left behind.",
+      "sentence2": "Kindness was the principal's lasting _______ at the school.",
+      "options": [
+        "legacy",
+        "keepsake",
+        "memento",
+        "era"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "legacy"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Her _______ grew up with smartphones, but her grandparents grew up with rotary phones.",
+      "sentence2": "Each new _______ of students adds its own stories to the school's history.",
+      "options": [
+        "legacy",
+        "timeline",
+        "archive",
+        "generation"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "generation"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The brass lamp was a valuable _______ that had belonged to the family for 150 years.",
+      "sentence2": "She polished the _______ mirror until its old frame shone.",
+      "options": [
+        "memento",
+        "antique",
+        "keepsake",
+        "timeline"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "antique"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The Victorian _______ was known for steam trains, tall hats, and gas lamps.",
+      "sentence2": "Dinosaurs ruled the Earth for millions of years in a long _______ before humans arrived.",
+      "options": [
+        "generation",
+        "era",
+        "memento",
+        "legacy"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "era"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "In _______, the early start was the best part of our plan.",
+      "sentence2": "Looking back in _______, she could see exactly where the mistake began.",
+      "options": [
+        "reminisce",
+        "legacy",
+        "timeline",
+        "retrospect"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "retrospect"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Grandpa loves to _______ about his school days.",
+      "sentence2": "At the reunion, the old friends sat together to _______ about their summers at the lake.",
+      "options": [
+        "reminisce",
+        "inscribe",
+        "archive",
+        "retrospect"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "reminisce"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The seashell was a _______ of our trip to the coast.",
+      "sentence2": "She kept the ticket stub as a _______ of her first concert.",
+      "options": [
+        "antique",
+        "legacy",
+        "memento",
+        "timeline"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "memento"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "They will _______ the winner's name on the silver trophy.",
+      "sentence2": "The author agreed to _______ my copy of the book with a short message.",
+      "options": [
+        "archive",
+        "reminisce",
+        "retrospect",
+        "inscribe"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "inscribe"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "She wore her grandmother's locket as a _______.",
+      "sentence2": "The pressed flower from the last day of camp was a precious _______ that fit in her pocket.",
+      "options": [
+        "legacy",
+        "keepsake",
+        "timeline",
+        "archive"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "keepsake"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "She bought a _______ dress from the 1960s at the thrift store.",
+      "sentence2": "The jokes were pure _______ Dad: silly, goofy, and impossible not to love.",
+      "options": [
+        "antique",
+        "timeline",
+        "vintage",
+        "keepsake"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "vintage"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Hugh drew the _______ showing the key events of his life, from birth to sixth grade.",
+      "sentence2": "The builders posted the _______ for the project, listing when each job would finish.",
+      "options": [
+        "timeline",
+        "archive",
+        "era",
+        "legacy"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "timeline"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "archive",
+      "legacy",
+      "generation",
+      "antique",
+      "era",
+      "retrospect",
+      "reminisce",
+      "memento",
+      "inscribe",
+      "keepsake",
+      "vintage",
+      "timeline"
+    ],
+    "passage": "On a rainy Saturday, Dario climbed into the attic with his grandmother to sort through an old trunk. \"This room is like a private _(1)_ where our family keeps its old records,\" she said. \"Every box holds a piece of our family's _(2)_.\"\n\nInside he found a copper kettle, a true _(3)_ more than a hundred years old. Beside it lay a _(4)_ hat with a velvet ribbon, the kind that was stylish in the 1950s. A tiny silver thimble was a _(5)_ from her own mother, and a faded ticket was a _(6)_ of the first movie she ever saw.\n\nGrandma loved to _(7)_ about the town where she grew up. She had once used a nail to _(8)_ her initials inside a table drawer. Each _(9)_ in the family had left a mark somewhere in the house. Dario drew a _(10)_ showing the biggest events from every decade. \"Every _(11)_ in history, from the horse-and-buggy days to the space age, has taught us something,\" she said. \"In _(12)_, this attic was the best classroom I ever had.\"",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "archive",
+        "options": [
+          "keepsake",
+          "retrospect",
+          "reminisce",
+          "archive"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "legacy",
+        "options": [
+          "legacy",
+          "inscribe",
+          "reminisce",
+          "retrospect"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "antique",
+        "options": [
+          "timeline",
+          "retrospect",
+          "antique",
+          "generation"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "vintage",
+        "options": [
+          "generation",
+          "retrospect",
+          "archive",
+          "vintage"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "keepsake",
+        "options": [
+          "era",
+          "keepsake",
+          "timeline",
+          "archive"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "memento",
+        "options": [
+          "legacy",
+          "era",
+          "memento",
+          "generation"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "reminisce",
+        "options": [
+          "reminisce",
+          "inscribe",
+          "archive",
+          "antique"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "inscribe",
+        "options": [
+          "reminisce",
+          "archive",
+          "inscribe",
+          "legacy"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "generation",
+        "options": [
+          "generation",
+          "memento",
+          "keepsake",
+          "antique"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "timeline",
+        "options": [
+          "memento",
+          "keepsake",
+          "generation",
+          "timeline"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "era",
+        "options": [
+          "memento",
+          "era",
+          "keepsake",
+          "timeline"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "retrospect",
+        "options": [
+          "reminisce",
+          "retrospect",
+          "legacy",
+          "archive"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "antique",
+        "scale": [
+          "Old",
+          "Vintage",
+          "Antique"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "era",
+        "scale": [
+          "Moment",
+          "Period",
+          "Era"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "reminisce",
+        "scale": [
+          "Remember",
+          "Recall",
+          "Reminisce"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "inscribe",
+        "scale": [
+          "Scribble",
+          "Write",
+          "Inscribe"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "vintage",
+        "words": [
+          "Retro",
+          "Classic",
+          "Modern",
+          "Old-fashioned"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Modern"
+      },
+      {
+        "vocabWord": "keepsake",
+        "words": [
+          "Treasure",
+          "Souvenir",
+          "Junk",
+          "Token"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Junk"
+      },
+      {
+        "vocabWord": "retrospect",
+        "words": [
+          "Hindsight",
+          "Review",
+          "Foresight",
+          "Recollection"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Foresight"
+      },
+      {
+        "vocabWord": "legacy",
+        "words": [
+          "Heritage",
+          "Tradition",
+          "Forgetting",
+          "Inheritance"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Forgetting"
+      },
+      {
+        "vocabWord": "archive",
+        "words": [
+          "Store",
+          "Preserve",
+          "Discard",
+          "Save"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Discard"
+      },
+      {
+        "vocabWord": "memento",
+        "words": [
+          "Souvenir",
+          "Reminder",
+          "Token",
+          "Distraction"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Distraction"
+      },
+      {
+        "vocabWord": "inscribe",
+        "words": [
+          "Engrave",
+          "Carve",
+          "Erase",
+          "Etch"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Erase"
+      },
+      {
+        "vocabWord": "reminisce",
+        "words": [
+          "Recall",
+          "Remember",
+          "Forget",
+          "Recollect"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Forget"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

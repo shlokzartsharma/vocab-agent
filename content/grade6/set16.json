@@ -1,0 +1,577 @@
+{
+  "grade": 6,
+  "setNumber": 16,
+  "words": [
+    "cherish",
+    "refuge",
+    "resettle",
+    "overcome",
+    "bustling",
+    "homesick",
+    "sponsor",
+    "assimilation",
+    "newcomer",
+    "aspiration",
+    "interpreter",
+    "belonging"
+  ],
+  "sources": [
+    "Common Core Grade 6",
+    "Tier 2 Academic"
+  ],
+  "genre": "immigrant family story",
+  "story": {
+    "genre": "immigrant family story",
+    "characters": [
+      "Mirela",
+      "Tunde",
+      "Sofia"
+    ],
+    "parts": [
+      {
+        "title": "Leaving Home",
+        "text": "Mirela pressed her forehead to the airplane window and gripped the little wooden bird her grandmother had carved. She would **cherish** it forever, since it was all she could carry from the old kitchen. Her family was leaving to find **refuge** from years of hardship. A kind church group had agreed to **sponsor** them, helping with rent and paperwork for a year. Soon they would **resettle** in a city she had only seen in photographs."
+      },
+      {
+        "title": "The Crowded Hallway",
+        "text": "On her first morning at the new school, the hallway was **bustling**, and Mirela felt like a tiny boat in a rushing river. She was already **homesick**, missing the smell of her mother's bread. A girl named Sofia greeted her with a wide smile, but Mirela, a **newcomer** who knew only ten English words, froze. Then a boy named Tunde stepped forward. He had lived in her homeland for two years, and he offered to be her **interpreter**. Suddenly the day felt less frightening."
+      },
+      {
+        "title": "Finding a Place",
+        "text": "Learning English was hard, but Mirela decided to **overcome** each challenge one word at a time. Her teacher explained that **assimilation** did not mean forgetting your past; it meant adding new customs without losing the old ones. Mirela's **aspiration** was to become a doctor who could talk with families in their own languages. At the winter festival, she shared her grandmother's bread recipe, and the class lined up for seconds. At last she felt a true sense of **belonging**."
+      },
+      {
+        "title": "The Wooden Bird",
+        "text": "That night, Mirela set the carved bird on her windowsill beside a card signed by every classmate. Two homes and two languages felt like a bigger family, not a puzzle."
+      }
+    ],
+    "wordCount": 268
+  },
+  "definitions": [
+    {
+      "word": "cherish",
+      "partOfSpeech": "verb",
+      "meaning1": "To treasure something and care for it deeply. Example: She will cherish her grandfather's old watch for the rest of her life.",
+      "meaning2": "",
+      "studentChallenge": "He promised to ___ the friendship he made on his very first day.",
+      "sentence": ""
+    },
+    {
+      "word": "refuge",
+      "partOfSpeech": "noun",
+      "meaning1": "Shelter or protection from danger or trouble; a safe place. Example: The cave gave the hikers refuge from the sudden hailstorm.",
+      "meaning2": "A person or thing that gives comfort in hard times. Example: The quiet library was her refuge when the world felt too loud.",
+      "studentChallenge": "The lighthouse offered ___ to sailors caught in the storm.",
+      "sentence": ""
+    },
+    {
+      "word": "resettle",
+      "partOfSpeech": "verb",
+      "meaning1": "To move to a new place and make a home there. Example: After the flood, many families chose to resettle on higher ground.",
+      "meaning2": "",
+      "studentChallenge": "Her uncle hopes to ___ in a quieter town when he retires.",
+      "sentence": ""
+    },
+    {
+      "word": "overcome",
+      "partOfSpeech": "verb",
+      "meaning1": "To succeed in dealing with a problem or defeating it. Example: He worked hard to overcome his fear of speaking in front of a crowd.",
+      "meaning2": "To overpower or overwhelm someone. Example: The hikers were overcome by tiredness at the top of the steep trail.",
+      "studentChallenge": "With practice, she was able to ___ her fear of deep water.",
+      "sentence": ""
+    },
+    {
+      "word": "bustling",
+      "partOfSpeech": "adjective",
+      "meaning1": "Full of busy activity and movement. Example: The bustling market was crowded with shoppers and singing vendors.",
+      "meaning2": "",
+      "studentChallenge": "The ___ train station was packed with commuters hurrying to work.",
+      "sentence": ""
+    },
+    {
+      "word": "homesick",
+      "partOfSpeech": "adjective",
+      "meaning1": "Feeling sad because you miss your home and family. Example: On the first night of camp, Leo felt homesick and wrote a letter to his parents.",
+      "meaning2": "",
+      "studentChallenge": "After three weeks abroad, she grew ___ and missed her own bed.",
+      "sentence": ""
+    },
+    {
+      "word": "sponsor",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To support a person or event by giving money or help. Example: A local bakery agreed to sponsor the school's art show.",
+      "meaning2": "A person or group that gives this kind of support. Example: The family's sponsor helped them find an apartment and enroll the children in school.",
+      "studentChallenge": "A neighborhood business promised to ___ our soccer team and pay for the uniforms.",
+      "sentence": ""
+    },
+    {
+      "word": "assimilation",
+      "partOfSpeech": "noun",
+      "meaning1": "The process of becoming part of a new community or culture while learning its ways. Example: Assimilation took time, but the family still kept the holidays and songs they loved.",
+      "meaning2": "The process of absorbing something completely. Example: The assimilation of nutrients happens as food passes through the small intestine.",
+      "studentChallenge": "Her smooth ___ into the new town was helped by friendly neighbors.",
+      "sentence": ""
+    },
+    {
+      "word": "newcomer",
+      "partOfSpeech": "noun",
+      "meaning1": "Someone who has recently arrived in a place or group. Example: The club leader asked every member to welcome the newcomer with a smile.",
+      "meaning2": "",
+      "studentChallenge": "As a ___ to the school, he did not yet know where the gym was.",
+      "sentence": ""
+    },
+    {
+      "word": "aspiration",
+      "partOfSpeech": "noun",
+      "meaning1": "A strong hope or goal for the future. Example: Her aspiration was to sail around the world one day.",
+      "meaning2": "",
+      "studentChallenge": "His greatest ___ was to play in the national orchestra.",
+      "sentence": ""
+    },
+    {
+      "word": "interpreter",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who translates spoken words from one language into another. Example: The interpreter helped the doctor and the patient understand each other.",
+      "meaning2": "Someone who explains or performs a work in a personal way, such as a song or poem. Example: The pianist was a gifted interpreter of old folk melodies.",
+      "studentChallenge": "An ___ whispered the speaker's words in English to the visiting guests.",
+      "sentence": ""
+    },
+    {
+      "word": "belonging",
+      "partOfSpeech": "noun",
+      "meaning1": "A feeling of being accepted as part of a group. Example: Joining the chess club gave Omar a strong sense of belonging.",
+      "meaning2": "Something that you own, usually in the plural. Example: She packed her belongings into two small suitcases.",
+      "studentChallenge": "A warm greeting at the door gave him a sense of ___ right away.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "She promised to _______ the letters her grandmother wrote and keep them safe in a tin box.",
+      "sentence2": "A true friend will _______ your secrets and protect them as if they were treasure.",
+      "options": [
+        "sponsor",
+        "overcome",
+        "cherish",
+        "resettle"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "cherish"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The old stone barn gave the travelers _______ from the freezing wind.",
+      "sentence2": "For Nora, the quiet music room was a _______ when the school day felt overwhelming.",
+      "options": [
+        "refuge",
+        "aspiration",
+        "belonging",
+        "newcomer"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "refuge"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "After the floods, the village decided to _______ on higher ground.",
+      "sentence2": "Her uncle hopes to _______ in a quieter town once he retires.",
+      "options": [
+        "cherish",
+        "overcome",
+        "sponsor",
+        "resettle"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "resettle"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "It took months of practice to _______ her fear of speaking in public.",
+      "sentence2": "With courage, a small team can _______ a rival that seems much stronger.",
+      "options": [
+        "resettle",
+        "overcome",
+        "cherish",
+        "sponsor"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "overcome"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The _______ market was packed with shoppers, singing vendors, and carts of fruit.",
+      "sentence2": "By eight o'clock the kitchen was _______ with cooks chopping, stirring, and calling out orders.",
+      "options": [
+        "homesick",
+        "bustling",
+        "sponsor",
+        "belonging"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "bustling"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Away at camp, Leo felt _______ and wrote to his parents every night.",
+      "sentence2": "The traveler grew _______ for the green hills and the voices of her family.",
+      "options": [
+        "bustling",
+        "newcomer",
+        "assimilation",
+        "homesick"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "homesick"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "A local bakery agreed to _______ the school's art show by paying for the supplies.",
+      "sentence2": "The family's _______ promised to pay their first month's rent and help the children enroll in school.",
+      "options": [
+        "sponsor",
+        "resettle",
+        "aspiration",
+        "interpreter"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "sponsor"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "_______ into a new culture takes patience, and it does not mean forgetting where you came from.",
+      "sentence2": "The _______ of the newcomers into the neighborhood was helped by weekly potluck dinners.",
+      "options": [
+        "belonging",
+        "aspiration",
+        "assimilation",
+        "refuge"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "assimilation"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Everyone in the club made the _______ feel welcome by sharing snacks and showing her where to sit.",
+      "sentence2": "Having arrived only last week, he was still the _______ who did not know the street names.",
+      "options": [
+        "belonging",
+        "sponsor",
+        "aspiration",
+        "newcomer"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "newcomer"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "His greatest _______ was to play the violin in a famous orchestra someday.",
+      "sentence2": "Even as a child, she held a bold _______ of one day working as a scientist in space.",
+      "options": [
+        "refuge",
+        "aspiration",
+        "belonging",
+        "interpreter"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "aspiration"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "At the clinic, the _______ repeated the doctor's words in the family's language.",
+      "sentence2": "Critics called her the finest _______ of old folk songs because she gave each one fresh feeling.",
+      "options": [
+        "sponsor",
+        "newcomer",
+        "interpreter",
+        "belonging"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "interpreter"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Joining the choir gave Omar a deep sense of _______, as if he were part of a family.",
+      "sentence2": "A friendly wave from the neighbors gave the new family a sense of _______ in their town.",
+      "options": [
+        "belonging",
+        "interpreter",
+        "newcomer",
+        "sponsor"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "belonging"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "cherish",
+      "refuge",
+      "resettle",
+      "overcome",
+      "bustling",
+      "homesick",
+      "sponsor",
+      "assimilation",
+      "newcomer",
+      "aspiration",
+      "interpreter",
+      "belonging"
+    ],
+    "passage": "Tunde's grandfather arrived at the harbor with one suitcase and a head full of worries. A kind neighbor had agreed to _(1)_ him, signing the papers that allowed him to stay. The harbor town became his _(2)_ after years of trouble at home, and he hoped to _(3)_ in a house near the water, close to the fishing boats.\n\nThe streets were _(4)_ at dawn, with trucks unloading crates and gulls shouting overhead. At first he was a _(5)_ who could not read the signs, and the dockworkers had to find an _(6)_ who spoke both his language and theirs. Some nights he felt so _(7)_ that he could almost taste his wife's soup from home.\n\nSlowly he found the strength to _(8)_ his fear of making mistakes. His _(9)_ into the town was slow, but he never gave up his songs or his holidays. His biggest _(10)_ was to open a small bakery of his own. He would always _(11)_ the day a neighbor handed him a key and said, \"Welcome home.\" That day, for the first time, he felt a true sense of _(12)_.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "sponsor",
+        "options": [
+          "interpreter",
+          "homesick",
+          "assimilation",
+          "sponsor"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "refuge",
+        "options": [
+          "refuge",
+          "assimilation",
+          "bustling",
+          "homesick"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "resettle",
+        "options": [
+          "cherish",
+          "overcome",
+          "resettle",
+          "sponsor"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "bustling",
+        "options": [
+          "homesick",
+          "newcomer",
+          "aspiration",
+          "bustling"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "newcomer",
+        "options": [
+          "refuge",
+          "newcomer",
+          "belonging",
+          "assimilation"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "interpreter",
+        "options": [
+          "aspiration",
+          "assimilation",
+          "interpreter",
+          "homesick"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "homesick",
+        "options": [
+          "homesick",
+          "bustling",
+          "cherish",
+          "newcomer"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "overcome",
+        "options": [
+          "cherish",
+          "resettle",
+          "overcome",
+          "sponsor"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "assimilation",
+        "options": [
+          "assimilation",
+          "belonging",
+          "aspiration",
+          "refuge"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "aspiration",
+        "options": [
+          "refuge",
+          "interpreter",
+          "assimilation",
+          "aspiration"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "cherish",
+        "options": [
+          "resettle",
+          "cherish",
+          "sponsor",
+          "bustling"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "belonging",
+        "options": [
+          "newcomer",
+          "belonging",
+          "interpreter",
+          "sponsor"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "homesick",
+        "scale": [
+          "Wistful",
+          "Homesick",
+          "Heartbroken"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "bustling",
+        "scale": [
+          "Calm",
+          "Busy",
+          "Bustling"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "cherish",
+        "scale": [
+          "Like",
+          "Value",
+          "Cherish"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "aspiration",
+        "scale": [
+          "Wish",
+          "Goal",
+          "Aspiration"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "refuge",
+        "words": [
+          "Shelter",
+          "Haven",
+          "Danger",
+          "Sanctuary"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Danger"
+      },
+      {
+        "vocabWord": "resettle",
+        "words": [
+          "Relocate",
+          "Move",
+          "Remain",
+          "Migrate"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Remain"
+      },
+      {
+        "vocabWord": "overcome",
+        "words": [
+          "Conquer",
+          "Surrender",
+          "Master",
+          "Defeat"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Surrender"
+      },
+      {
+        "vocabWord": "newcomer",
+        "words": [
+          "Arrival",
+          "Native",
+          "Stranger",
+          "Beginner"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Native"
+      },
+      {
+        "vocabWord": "sponsor",
+        "words": [
+          "Support",
+          "Fund",
+          "Oppose",
+          "Back"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Oppose"
+      },
+      {
+        "vocabWord": "belonging",
+        "words": [
+          "Acceptance",
+          "Connection",
+          "Exclusion",
+          "Membership"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Exclusion"
+      },
+      {
+        "vocabWord": "assimilation",
+        "words": [
+          "Integration",
+          "Adaptation",
+          "Isolation",
+          "Blending"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Isolation"
+      },
+      {
+        "vocabWord": "homesick",
+        "words": [
+          "Longing",
+          "Content",
+          "Wistful",
+          "Nostalgic"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Content"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

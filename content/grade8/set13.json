@@ -1,0 +1,578 @@
+{
+  "grade": 8,
+  "setNumber": 13,
+  "words": [
+    "enlist",
+    "patriotic",
+    "blackout",
+    "conscription",
+    "deprivation",
+    "austerity",
+    "mobilization",
+    "allied",
+    "resistance",
+    "occupation",
+    "internment",
+    "espionage"
+  ],
+  "sources": [
+    "Common Core Grade 8",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "wartime home front",
+  "story": {
+    "genre": "wartime home front",
+    "characters": [
+      "Edith",
+      "Raymond",
+      "Lakshmi"
+    ],
+    "parts": [
+      {
+        "title": "The Exhibit",
+        "text": "Edith, Raymond, and Lakshmi spent a rainy afternoon at a museum exhibit about the home front during the Second World War. A poster at the entrance urged young men to **enlist**, and the curator explained that millions did, often out of **patriotic** feeling for their country. Raymond pointed to a window covered in heavy black paper, the kind families used during a nightly **blackout** to hide city lights from enemy planes. When too few volunteers came forward, a law introduced **conscription**, requiring men of certain ages to serve."
+      },
+      {
+        "title": "Everyone Pitched In",
+        "text": "Lakshmi read that a country's **mobilization** reached far beyond its army, since factories switched from making cars to building airplanes and tanks. Because ships carried supplies overseas, families faced **deprivation** at home, with ration books limiting sugar, meat, and gasoline. Posters promoted **austerity**, urging everyone to mend clothes, grow vegetables, and waste nothing."
+      },
+      {
+        "title": "The Wider War",
+        "text": "Another room covered the war abroad. A map showed the **allied** nations fighting together. Beside it, a panel described towns living under **occupation**, with foreign soldiers controlling their streets, while quiet networks of **resistance** fighters carried messages and helped people escape. A glass case held decoded notes about **espionage**, the secret gathering of information by spies. The last panel was somber. It described the **internment** of Japanese American families, most of them citizens, who were moved into camps because of their ancestry. The nation later apologized and called it a grave injustice."
+      },
+      {
+        "title": "What the Past Teaches",
+        "text": "Raymond stayed quiet for a long time. Edith said the exhibit showed both sides of the war years: remarkable cooperation, and serious mistakes made out of fear. Lakshmi wrote in her notebook that remembering both is the only honest way to study history. They left promising to bring their families back."
+      }
+    ],
+    "wordCount": 284
+  },
+  "definitions": [
+    {
+      "word": "enlist",
+      "partOfSpeech": "verb",
+      "meaning1": "To join the armed forces voluntarily. Example: Many young people chose to enlist after the announcement.",
+      "meaning2": "To get the help or support of someone. Example: She decided to enlist her brother to help carry the boxes.",
+      "studentChallenge": "At eighteen, he decided to ___ in the navy and see the world.",
+      "sentence": ""
+    },
+    {
+      "word": "patriotic",
+      "partOfSpeech": "adjective",
+      "meaning1": "Feeling or showing love and loyalty toward one's country. Example: The patriotic crowd waved flags at the parade.",
+      "meaning2": "",
+      "studentChallenge": "She felt ___ whenever she heard her country's anthem.",
+      "sentence": ""
+    },
+    {
+      "word": "blackout",
+      "partOfSpeech": "noun",
+      "meaning1": "A period when lights are turned off or hidden, such as to keep a city from being seen by enemy planes. Example: During the blackout, families covered their windows with heavy curtains.",
+      "meaning2": "A sudden loss of electric power. Example: A storm caused a blackout that lasted until morning.",
+      "studentChallenge": "The whole neighborhood sat in candlelight during the ___.",
+      "sentence": ""
+    },
+    {
+      "word": "conscription",
+      "partOfSpeech": "noun",
+      "meaning1": "The required enrollment of citizens into the armed forces; a draft. Example: Conscription required young men to register for military service.",
+      "meaning2": "",
+      "studentChallenge": "Under ___, citizens could be called to serve in the army whether they volunteered or not.",
+      "sentence": ""
+    },
+    {
+      "word": "deprivation",
+      "partOfSpeech": "noun",
+      "meaning1": "The lack or loss of something people need, such as food, comfort, or rights. Example: Families endured deprivation when ships could not deliver enough supplies.",
+      "meaning2": "",
+      "studentChallenge": "Years of drought brought real ___ to farm families who had little food or water.",
+      "sentence": ""
+    },
+    {
+      "word": "austerity",
+      "partOfSpeech": "noun",
+      "meaning1": "A way of living with strict economy and few comforts, especially when resources are scarce. Example: During the years of austerity, people repaired old shoes instead of buying new ones.",
+      "meaning2": "Government policies that sharply cut spending. Example: The city's austerity plan reduced library hours and delayed road repairs.",
+      "studentChallenge": "During a period of ___, the family saved every scrap of fabric.",
+      "sentence": ""
+    },
+    {
+      "word": "mobilization",
+      "partOfSpeech": "noun",
+      "meaning1": "The act of organizing people and resources to prepare for action, especially in a war or emergency. Example: The mobilization of volunteers helped the town recover from the flood.",
+      "meaning2": "",
+      "studentChallenge": "The rapid ___ of workers and supplies surprised even the planners.",
+      "sentence": ""
+    },
+    {
+      "word": "allied",
+      "partOfSpeech": "adjective",
+      "meaning1": "United with others for a shared purpose, especially nations in a war. Example: The allied nations agreed to share supplies and defend one another.",
+      "meaning2": "Related or similar in nature. Example: Biology and chemistry are allied fields of study.",
+      "studentChallenge": "The two ___ countries signed a pact promising to defend each other.",
+      "sentence": ""
+    },
+    {
+      "word": "resistance",
+      "partOfSpeech": "noun",
+      "meaning1": "An organized, often secret, effort to fight against an enemy that controls one's country. Example: Members of the resistance carried messages through the forest at night.",
+      "meaning2": "A force that slows or opposes movement. Example: Air resistance slows a falling feather far more than a falling stone.",
+      "studentChallenge": "The coach noticed little ___ from the team to the new training plan.",
+      "sentence": ""
+    },
+    {
+      "word": "occupation",
+      "partOfSpeech": "noun",
+      "meaning1": "The control of a place by foreign military forces. Example: The occupation of the town lasted four long years.",
+      "meaning2": "A person's job. Example: On the form, she wrote \"nurse\" as her occupation.",
+      "studentChallenge": "The foreign army's ___ of the capital lasted for several years.",
+      "sentence": ""
+    },
+    {
+      "word": "internment",
+      "partOfSpeech": "noun",
+      "meaning1": "The confinement of people in camps or other restricted places, often during a war, because of who they are rather than anything they have done. Example: The museum's display on internment honored the families who lost their homes.",
+      "meaning2": "",
+      "studentChallenge": "Historians study the ___ of citizens in camps during the war.",
+      "sentence": ""
+    },
+    {
+      "word": "espionage",
+      "partOfSpeech": "noun",
+      "meaning1": "The practice of spying to gather secret information. Example: The novel follows a quiet clerk who is drawn into a dangerous world of espionage.",
+      "meaning2": "",
+      "studentChallenge": "He was arrested for ___, accused of passing secret plans to a foreign government.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "At eighteen, he decided to _______ in the navy and see the world.",
+      "sentence2": "She planned to _______ her cousins to help paint the fence on Saturday.",
+      "options": [
+        "occupation",
+        "enlist",
+        "conscription",
+        "mobilization"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "enlist"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The _______ crowd waved flags and sang as the parade passed.",
+      "sentence2": "Her _______ duty, she believed, was to vote in every election.",
+      "options": [
+        "patriotic",
+        "allied",
+        "austerity",
+        "resistance"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "patriotic"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "During the _______, every household covered its windows with heavy dark curtains.",
+      "sentence2": "A summer storm caused a citywide _______ that lasted until morning.",
+      "options": [
+        "occupation",
+        "internment",
+        "deprivation",
+        "blackout"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "blackout"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "When too few volunteers came forward, the government introduced _______ for men of fighting age.",
+      "sentence2": "Under _______, citizens could be required to serve in the army whether they wished to or not.",
+      "options": [
+        "austerity",
+        "espionage",
+        "conscription",
+        "resistance"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "conscription"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Years of war brought real _______ to families who had little food or fuel.",
+      "sentence2": "Sleep _______ left the tired students forgetful and cranky.",
+      "options": [
+        "espionage",
+        "deprivation",
+        "allied",
+        "patriotic"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "deprivation"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "In a time of _______, families mended old clothes instead of buying new ones.",
+      "sentence2": "The city's _______ budget cut library hours and delayed road repairs.",
+      "options": [
+        "austerity",
+        "patriotic",
+        "blackout",
+        "allied"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "austerity"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The rapid _______ of factories turned car plants into airplane makers.",
+      "sentence2": "Volunteer _______ after the flood brought hundreds of helpers to the town in a single day.",
+      "options": [
+        "conscription",
+        "internment",
+        "espionage",
+        "mobilization"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "mobilization"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The _______ nations agreed to share supplies and defend one another.",
+      "sentence2": "Biology and chemistry are _______ fields, since each helps explain the other.",
+      "options": [
+        "patriotic",
+        "austerity",
+        "allied",
+        "occupation"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "allied"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Members of the _______ carried secret messages through the forest at night.",
+      "sentence2": "Air _______ slows a falling feather far more than a falling stone.",
+      "options": [
+        "espionage",
+        "resistance",
+        "blackout",
+        "mobilization"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "resistance"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The foreign army's _______ of the town lasted four long years.",
+      "sentence2": "When filling out the form, she wrote \"nurse\" under _______.",
+      "options": [
+        "occupation",
+        "internment",
+        "conscription",
+        "deprivation"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "occupation"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The museum's display on _______ honored the families who were moved to camps during the war.",
+      "sentence2": "Looking back, the nation has admitted that the _______ of its own citizens because of their ancestry was a grave injustice.",
+      "options": [
+        "patriotic",
+        "allied",
+        "enlist",
+        "internment"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "internment"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The novel follows a quiet clerk who is drawn into a dangerous world of _______.",
+      "sentence2": "He was arrested for _______, accused of passing secret plans to a foreign government.",
+      "options": [
+        "conscription",
+        "austerity",
+        "espionage",
+        "blackout"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "espionage"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "enlist",
+      "patriotic",
+      "blackout",
+      "conscription",
+      "deprivation",
+      "austerity",
+      "mobilization",
+      "allied",
+      "resistance",
+      "occupation",
+      "internment",
+      "espionage"
+    ],
+    "passage": "Lakshmi's grandfather kept a scrapbook from his boyhood during the war. His older brother chose to _(1)_ in the army, and soon _(2)_ required other young men to serve as well. Shop windows were covered with _(3)_ posters, and every night the town observed the _(4)_, sealing windows with dark paper so no lights showed. The _(5)_ of the whole country put factories, farms, and schools to work for the war effort.\n\nFamilies knew real _(6)_, going without sugar, butter, and new shoes. A strict _(7)_ shaped every purchase, so coats were patched and scraps were saved. His uncle served in a navy fighting beside _(8)_ forces from other countries. A cousin abroad described life under _(9)_, when foreign troops controlled his city, and said that quiet acts of _(10)_ kept people hopeful.\n\nThe scrapbook also held a clipping about a ring of spies convicted of _(11)_. On the last page, her grandfather had written about _(12)_, the unfair confinement of Japanese American families, which he called a shameful mistake that the nation later admitted.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "enlist",
+        "options": [
+          "blackout",
+          "allied",
+          "enlist",
+          "espionage"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "conscription",
+        "options": [
+          "austerity",
+          "espionage",
+          "internment",
+          "conscription"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "patriotic",
+        "options": [
+          "patriotic",
+          "blackout",
+          "occupation",
+          "internment"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "blackout",
+        "options": [
+          "deprivation",
+          "blackout",
+          "espionage",
+          "enlist"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "mobilization",
+        "options": [
+          "resistance",
+          "espionage",
+          "mobilization",
+          "internment"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "deprivation",
+        "options": [
+          "patriotic",
+          "allied",
+          "enlist",
+          "deprivation"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "austerity",
+        "options": [
+          "austerity",
+          "blackout",
+          "espionage",
+          "internment"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "allied",
+        "options": [
+          "deprivation",
+          "allied",
+          "conscription",
+          "espionage"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "occupation",
+        "options": [
+          "blackout",
+          "espionage",
+          "occupation",
+          "conscription"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "resistance",
+        "options": [
+          "blackout",
+          "internment",
+          "deprivation",
+          "resistance"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "espionage",
+        "options": [
+          "espionage",
+          "patriotic",
+          "austerity",
+          "deprivation"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "internment",
+        "options": [
+          "occupation",
+          "internment",
+          "conscription",
+          "espionage"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "deprivation",
+        "scale": [
+          "Inconvenience",
+          "Hardship",
+          "Deprivation"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "austerity",
+        "scale": [
+          "Thrift",
+          "Frugality",
+          "Austerity"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "resistance",
+        "scale": [
+          "Reluctance",
+          "Resistance",
+          "Rebellion"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "blackout",
+        "scale": [
+          "Dimness",
+          "Darkness",
+          "Blackout"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "enlist",
+        "words": [
+          "Join",
+          "Volunteer",
+          "Desert",
+          "Sign up"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Desert"
+      },
+      {
+        "vocabWord": "patriotic",
+        "words": [
+          "Loyal",
+          "Devoted",
+          "Disloyal",
+          "Nationalistic"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Disloyal"
+      },
+      {
+        "vocabWord": "allied",
+        "words": [
+          "United",
+          "Joined",
+          "Opposed",
+          "Partnered"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Opposed"
+      },
+      {
+        "vocabWord": "conscription",
+        "words": [
+          "Draft",
+          "Call-up",
+          "Volunteering",
+          "Compulsory service"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Volunteering"
+      },
+      {
+        "vocabWord": "occupation",
+        "words": [
+          "Takeover",
+          "Invasion",
+          "Liberation",
+          "Seizure"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Liberation"
+      },
+      {
+        "vocabWord": "internment",
+        "words": [
+          "Confinement",
+          "Detention",
+          "Release",
+          "Imprisonment"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Release"
+      },
+      {
+        "vocabWord": "espionage",
+        "words": [
+          "Spying",
+          "Surveillance",
+          "Transparency",
+          "Snooping"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Transparency"
+      },
+      {
+        "vocabWord": "mobilization",
+        "words": [
+          "Gathering",
+          "Preparation",
+          "Disbanding",
+          "Organizing"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Disbanding"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

@@ -1,0 +1,578 @@
+{
+  "grade": 7,
+  "setNumber": 11,
+  "words": [
+    "prestigious",
+    "ceremony",
+    "vanquish",
+    "emulate",
+    "devotion",
+    "indomitable",
+    "eminent",
+    "illustrious",
+    "competitor",
+    "laurel",
+    "contender",
+    "exhilarate"
+  ],
+  "sources": [
+    "Common Core Grade 7",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "ancient Olympic games",
+  "story": {
+    "genre": "ancient Olympic games",
+    "characters": [
+      "Theodora",
+      "Kwesi",
+      "Lior"
+    ],
+    "parts": [
+      {
+        "title": "The Road to Olympia",
+        "text": "Theodora walked beside her cousin Lior on the dusty road to Olympia, where the most **prestigious** games in the Greek world were about to begin. Lior had trained at dawn for two years, and his **devotion** had worn three pairs of sandals thin. Their friend Kwesi, a trader's son who had sailed across the sea to watch, carried the gifts. Theodora's mother had pressed a small wreath of **laurel** into her hand for luck."
+      },
+      {
+        "title": "The Oath",
+        "text": "On the first morning, a solemn **ceremony** opened the festival. Every **competitor** stood before a towering statue of Zeus and swore to follow the rules. Kwesi pointed to a broad-shouldered runner named Damon, whom the crowd called **indomitable** because no challenger had ever made him quit. \"He is an **eminent** man in his city,\" Kwesi whispered. He was only a long-shot **contender** from a small village, and nobody knew his name."
+      },
+      {
+        "title": "The Race",
+        "text": "When the trumpet sounded, the stands shook with noise. Lior longed to **emulate** the **illustrious** champions whose names were carved along the stadium wall, and he hoped to **vanquish** Damon as his lungs burned. The roar of the crowd began to **exhilarate** even the most nervous spectators. In the last stretch, Lior found one more burst of speed and crossed the line a single stride ahead."
+      },
+      {
+        "title": "After the Dust Settled",
+        "text": "That evening Damon shook Lior's hand and admitted that he had never run so hard. Lior hung the little wreath above his bed, though he said the real prize was learning that fear shrinks when you keep moving. Theodora pressed the day's story into a clay tablet so it would outlast the cheering. Years of quiet work, not one lucky afternoon, had carried her cousin to the finish."
+      }
+    ],
+    "wordCount": 279
+  },
+  "definitions": [
+    {
+      "word": "prestigious",
+      "partOfSpeech": "adjective",
+      "meaning1": "Highly respected and admired, often because of success or importance. Example: She won a place at a prestigious school for young musicians.",
+      "meaning2": "",
+      "studentChallenge": "Winning a medal at the world championships is a ___ achievement.",
+      "sentence": ""
+    },
+    {
+      "word": "ceremony",
+      "partOfSpeech": "noun",
+      "meaning1": "A formal event held to mark something important. Example: The graduation ceremony included speeches, music and a slow procession.",
+      "meaning2": "Formal behavior that goes with an important occasion. Example: The queen entered with great ceremony, followed by dozens of servants.",
+      "studentChallenge": "Guests wore their best clothes to the wedding ___.",
+      "sentence": ""
+    },
+    {
+      "word": "vanquish",
+      "partOfSpeech": "verb",
+      "meaning1": "To defeat completely. Example: The young chess player hoped to vanquish the reigning champion.",
+      "meaning2": "To overcome a feeling or problem. Example: Deep breaths helped her vanquish her fear of the high dive.",
+      "studentChallenge": "The knight swore to ___ the dragon and save the village.",
+      "sentence": ""
+    },
+    {
+      "word": "emulate",
+      "partOfSpeech": "verb",
+      "meaning1": "To copy someone you admire, trying to match or even beat their success. Example: Young players often try to emulate the stars they watch on television.",
+      "meaning2": "",
+      "studentChallenge": "Mia hopes to ___ her older sister, who became a famous scientist.",
+      "sentence": ""
+    },
+    {
+      "word": "devotion",
+      "partOfSpeech": "noun",
+      "meaning1": "Deep loyalty or commitment to a person, cause or activity. Example: The nurse was known for her devotion to her patients.",
+      "meaning2": "Religious worship or prayer. Example: The villagers gathered at dawn for quiet devotion.",
+      "studentChallenge": "Years of daily practice showed her ___ to the violin.",
+      "sentence": ""
+    },
+    {
+      "word": "indomitable",
+      "partOfSpeech": "adjective",
+      "meaning1": "Impossible to defeat or discourage. Example: The indomitable climber kept going despite the blizzard.",
+      "meaning2": "",
+      "studentChallenge": "Her ___ spirit never gave up, even after three failed attempts.",
+      "sentence": ""
+    },
+    {
+      "word": "eminent",
+      "partOfSpeech": "adjective",
+      "meaning1": "Famous and respected, especially for expert knowledge in a particular field. Example: An eminent scientist gave the opening lecture at the conference.",
+      "meaning2": "",
+      "studentChallenge": "The hospital invited an ___ surgeon to teach the young doctors.",
+      "sentence": ""
+    },
+    {
+      "word": "illustrious",
+      "partOfSpeech": "adjective",
+      "meaning1": "Famous and admired because of great achievements. Example: The school was proud of its illustrious graduates, including two astronauts.",
+      "meaning2": "",
+      "studentChallenge": "The team has an ___ history, with twelve titles in thirty years.",
+      "sentence": ""
+    },
+    {
+      "word": "competitor",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who takes part in a contest or race. Example: Every competitor in the swim meet received a ribbon.",
+      "meaning2": "A business that sells the same kind of product as another. Example: The bakery lowered its prices to keep up with a new competitor down the street.",
+      "studentChallenge": "Each ___ lined up at the starting line, waiting for the signal.",
+      "sentence": ""
+    },
+    {
+      "word": "laurel",
+      "partOfSpeech": "noun",
+      "meaning1": "A wreath or crown of leaves from a laurel tree, worn as a sign of victory or honor. Example: The statue of the athlete wore a crown of laurel.",
+      "meaning2": "An evergreen shrub with glossy, sweet-smelling leaves. Example: The gardener trimmed the laurel beside the gate.",
+      "studentChallenge": "The ancient poet wore a crown of ___ to show his victory.",
+      "sentence": ""
+    },
+    {
+      "word": "contender",
+      "partOfSpeech": "noun",
+      "meaning1": "A person or team that has a real chance of winning. Example: After three straight wins, the young boxer became a contender for the national title.",
+      "meaning2": "",
+      "studentChallenge": "Nobody expected the underdog to be a serious ___ for the trophy.",
+      "sentence": ""
+    },
+    {
+      "word": "exhilarate",
+      "partOfSpeech": "verb",
+      "meaning1": "To fill someone with excitement and happy energy. Example: A fast ride down the steepest hill will exhilarate anyone who loves speed.",
+      "meaning2": "",
+      "studentChallenge": "The roller coaster's first big drop is sure to ___ the riders.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Getting into the _______ music academy required years of study and a flawless audition.",
+      "sentence2": "Athletes across the country dream of competing in the _______ national championship.",
+      "options": [
+        "indomitable",
+        "ceremony",
+        "prestigious",
+        "vanquish"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "prestigious"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The whole town gathered in the square for the flag-raising _______ on the first day of spring.",
+      "sentence2": "After the long _______ ended, the guests were finally invited to enjoy the feast.",
+      "options": [
+        "ceremony",
+        "laurel",
+        "devotion",
+        "competitor"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ceremony"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The brave hero vowed to _______ the evil sorcerer and free the kingdom.",
+      "sentence2": "With steady breathing, she hoped to _______ her fear of speaking on stage.",
+      "options": [
+        "emulate",
+        "exhilarate",
+        "laurel",
+        "vanquish"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "vanquish"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Younger students try to _______ the kind, hardworking habits of the teachers they admire.",
+      "sentence2": "The young chef hoped to _______ her grandmother's famous cooking one day.",
+      "options": [
+        "exhilarate",
+        "emulate",
+        "ceremony",
+        "indomitable"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "emulate"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The nurse's _______ to her patients was clear to everyone who saw her work late each night.",
+      "sentence2": "Years of daily practice showed the pianist's deep _______ to her music.",
+      "options": [
+        "ceremony",
+        "laurel",
+        "devotion",
+        "contender"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "devotion"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Even after three failed attempts, the _______ climber refused to turn back.",
+      "sentence2": "Her _______ spirit carried the team through the long, brutal winter.",
+      "options": [
+        "indomitable",
+        "eminent",
+        "prestigious",
+        "devotion"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "indomitable"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The _______ surgeon, famous and respected for her skill, was invited to lecture at the medical college.",
+      "sentence2": "The university invited a leading and _______ historian whose books are studied in many countries.",
+      "options": [
+        "ceremony",
+        "indomitable",
+        "devotion",
+        "eminent"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "eminent"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The school is proud of its _______ history, which includes three Nobel winners and two astronauts.",
+      "sentence2": "She came from a long, _______ line of explorers whose names fill the history books.",
+      "options": [
+        "competitor",
+        "illustrious",
+        "indomitable",
+        "ceremony"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "illustrious"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Every _______ in the swimming meet received a ribbon for taking part.",
+      "sentence2": "As the only _______ from her school, she felt the pressure of representing everyone.",
+      "options": [
+        "laurel",
+        "ceremony",
+        "competitor",
+        "devotion"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "competitor"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The winner of the ancient contest wore a crown of _______ leaves.",
+      "sentence2": "The gardener trimmed the evergreen _______ that grew beside the gate and smelled sweet when its leaves were crushed.",
+      "options": [
+        "laurel",
+        "ceremony",
+        "devotion",
+        "contender"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "laurel"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Nobody expected the underdog to be a serious _______ for the championship title.",
+      "sentence2": "With three wins in a row, the young boxer became a leading _______ for the national crown.",
+      "options": [
+        "ceremony",
+        "devotion",
+        "laurel",
+        "contender"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "contender"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "A fast ride down the steepest hill is sure to _______ anyone who loves speed.",
+      "sentence2": "The roar of the crowd and the pounding drums began to _______ the nervous teammates, who suddenly felt full of energy.",
+      "options": [
+        "vanquish",
+        "exhilarate",
+        "emulate",
+        "laurel"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "exhilarate"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "prestigious",
+      "ceremony",
+      "vanquish",
+      "emulate",
+      "devotion",
+      "indomitable",
+      "eminent",
+      "illustrious",
+      "competitor",
+      "laurel",
+      "contender",
+      "exhilarate"
+    ],
+    "passage": "Kwesi wrote long letters to his family about his trip to Olympia. He explained that the _(1)_ games drew visitors from every corner of the Greek world. The opening _(2)_ began at sunrise, with priests, musicians and hundreds of athletes marching toward the great altar.\n\nEach _(3)_ had practiced for years, and Kwesi admired their _(4)_ to the sport. A boxer from Rhodes, he wrote, seemed truly _(5)_, for he had never lost a single match. In the stands sat an _(6)_ philosopher whose lectures were famous across the sea, and beside him sat an _(7)_ general who was honored in countless songs.\n\nKwesi's favorite was a hopeful young _(8)_ from a small village, who dreamed of wearing a wreath of _(9)_ leaves. The boy longed to _(10)_ the champion he idolized and to _(11)_ every rival on the track. When the final race began, the cheering was enough to _(12)_ even the sleepiest spectator.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "prestigious",
+        "options": [
+          "prestigious",
+          "ceremony",
+          "vanquish",
+          "laurel"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "ceremony",
+        "options": [
+          "laurel",
+          "ceremony",
+          "vanquish",
+          "competitor"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "competitor",
+        "options": [
+          "emulate",
+          "ceremony",
+          "competitor",
+          "indomitable"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "devotion",
+        "options": [
+          "ceremony",
+          "laurel",
+          "exhilarate",
+          "devotion"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "indomitable",
+        "options": [
+          "indomitable",
+          "ceremony",
+          "emulate",
+          "laurel"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "eminent",
+        "options": [
+          "indomitable",
+          "laurel",
+          "eminent",
+          "ceremony"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "illustrious",
+        "options": [
+          "devotion",
+          "illustrious",
+          "emulate",
+          "contender"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "contender",
+        "options": [
+          "ceremony",
+          "devotion",
+          "indomitable",
+          "contender"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "laurel",
+        "options": [
+          "ceremony",
+          "vanquish",
+          "laurel",
+          "contender"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "emulate",
+        "options": [
+          "exhilarate",
+          "emulate",
+          "ceremony",
+          "laurel"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "vanquish",
+        "options": [
+          "exhilarate",
+          "devotion",
+          "laurel",
+          "vanquish"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "exhilarate",
+        "options": [
+          "exhilarate",
+          "ceremony",
+          "laurel",
+          "emulate"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "indomitable",
+        "scale": [
+          "Stubborn",
+          "Resolute",
+          "Indomitable"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "exhilarate",
+        "scale": [
+          "Please",
+          "Excite",
+          "Exhilarate"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "eminent",
+        "scale": [
+          "Known",
+          "Eminent",
+          "Legendary"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "vanquish",
+        "scale": [
+          "Beat",
+          "Defeat",
+          "Vanquish"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "prestigious",
+        "words": [
+          "Respected",
+          "Esteemed",
+          "Distinguished",
+          "Unimportant"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Unimportant"
+      },
+      {
+        "vocabWord": "vanquish",
+        "words": [
+          "Conquer",
+          "Surrender",
+          "Defeat",
+          "Overcome"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Surrender"
+      },
+      {
+        "vocabWord": "devotion",
+        "words": [
+          "Loyalty",
+          "Dedication",
+          "Commitment",
+          "Indifference"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Indifference"
+      },
+      {
+        "vocabWord": "indomitable",
+        "words": [
+          "Feeble",
+          "Unbeatable",
+          "Unyielding",
+          "Invincible"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Feeble"
+      },
+      {
+        "vocabWord": "eminent",
+        "words": [
+          "Distinguished",
+          "Respected",
+          "Unknown",
+          "Notable"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Unknown"
+      },
+      {
+        "vocabWord": "illustrious",
+        "words": [
+          "Famous",
+          "Obscure",
+          "Celebrated",
+          "Legendary"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Obscure"
+      },
+      {
+        "vocabWord": "exhilarate",
+        "words": [
+          "Thrill",
+          "Excite",
+          "Energize",
+          "Bore"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Bore"
+      },
+      {
+        "vocabWord": "competitor",
+        "words": [
+          "Rival",
+          "Opponent",
+          "Ally",
+          "Challenger"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Ally"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

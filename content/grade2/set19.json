@@ -1,0 +1,578 @@
+{
+  "grade": 2,
+  "setNumber": 19,
+  "words": [
+    "hive",
+    "industrious",
+    "pollen",
+    "sting",
+    "clover",
+    "hum",
+    "wax",
+    "forage",
+    "vibrate",
+    "scent",
+    "bumblebee",
+    "drone"
+  ],
+  "sources": [
+    "Common Core Grade 2",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "beehive meadow",
+  "story": {
+    "genre": "beehive meadow",
+    "characters": [
+      "Ila",
+      "Joaquin",
+      "Tamsin"
+    ],
+    "parts": [
+      {
+        "title": "A Visit to the Meadow",
+        "text": "Ila, Joaquin, and Tamsin visited their aunt's meadow. Near an old oak tree stood a wooden bee **hive**. The air was full of the soft **hum** of bees. “Stay calm and move slowly,” said their aunt. “Bees will not **sting** unless they feel scared.”"
+      },
+      {
+        "title": "Busy Bees",
+        "text": "The bees were **industrious**, and they worked from morning until evening. Many flew out to **forage** for food in the pink **clover**. Tamsin saw yellow **pollen** stuck to their little legs. Joaquin pointed to a fuzzy **bumblebee**. Its wings seemed to **vibrate** so fast that they looked like a blur."
+      },
+      {
+        "title": "Inside the Hive",
+        "text": "Their aunt lifted the lid very slowly. Inside, the bees had built tiny six-sided rooms from **wax**. The sweet **scent** of honey filled the air. “That big bee is a **drone**,” she whispered. “He does not gather food. The worker bees do that.”"
+      },
+      {
+        "title": "Walking Home",
+        "text": "The children thanked their aunt and walked home. They had learned that a hive is like a tiny town where every bee has a job. Tamsin said she would plant flowers for the bees at home."
+      }
+    ],
+    "wordCount": 173
+  },
+  "definitions": [
+    {
+      "word": "hive",
+      "partOfSpeech": "noun",
+      "meaning1": "A home for bees, or the group of bees that live in it. Example: The bees flew back to their hive at sunset.",
+      "meaning2": "",
+      "studentChallenge": "The honeybees live together in a wooden ___.",
+      "sentence": ""
+    },
+    {
+      "word": "industrious",
+      "partOfSpeech": "adjective",
+      "meaning1": "Working hard and staying busy. Example: The industrious ant carried crumbs all day.",
+      "meaning2": "",
+      "studentChallenge": "The ___ girl finished her chores before lunch.",
+      "sentence": ""
+    },
+    {
+      "word": "pollen",
+      "partOfSpeech": "noun",
+      "meaning1": "A fine yellow dust made by flowers. Bees carry it from flower to flower. Example: Yellow pollen dusted the bee's legs.",
+      "meaning2": "",
+      "studentChallenge": "Spring flowers make so much ___ that some people sneeze.",
+      "sentence": ""
+    },
+    {
+      "word": "sting",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To hurt by poking the skin with a sharp point, like a bee does. Example: A wasp can sting if you bother it.",
+      "meaning2": "A sharp, quick pain. Example: The sting from the bee faded quickly.",
+      "studentChallenge": "Stay calm, or the bee may ___ you.",
+      "sentence": ""
+    },
+    {
+      "word": "clover",
+      "partOfSpeech": "noun",
+      "meaning1": "A small green plant with round pink or white flowers and leaves in groups of three. Example: Bees love the sweet flowers of clover.",
+      "meaning2": "",
+      "studentChallenge": "I found a green ___ with three round leaves.",
+      "sentence": ""
+    },
+    {
+      "word": "hum",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To make a soft, steady sound. Example: I like to hum a tune while I paint.",
+      "meaning2": "A soft, steady sound. Example: We heard the hum of the fridge.",
+      "studentChallenge": "The little motor will ___ softly all night.",
+      "sentence": ""
+    },
+    {
+      "word": "wax",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A soft, sticky stuff that bees make to build their homes. Example: Bees make wax to build the tiny rooms in their hive.",
+      "meaning2": "To rub with wax to make something shiny. Example: Dad will wax the car on Saturday.",
+      "studentChallenge": "Mom poured melted ___ into a mold to make a candle.",
+      "sentence": ""
+    },
+    {
+      "word": "forage",
+      "partOfSpeech": "verb",
+      "meaning1": "To go looking for food. Example: Squirrels forage for nuts in the fall.",
+      "meaning2": "",
+      "studentChallenge": "Ants march out each morning to ___ for crumbs.",
+      "sentence": ""
+    },
+    {
+      "word": "vibrate",
+      "partOfSpeech": "verb",
+      "meaning1": "To shake with very quick, tiny movements. Example: My phone will vibrate when a message comes in.",
+      "meaning2": "",
+      "studentChallenge": "A guitar string will ___ when you pluck it.",
+      "sentence": ""
+    },
+    {
+      "word": "scent",
+      "partOfSpeech": "noun",
+      "meaning1": "A smell, especially a nice one. Example: The sweet scent of flowers drifted through the window.",
+      "meaning2": "",
+      "studentChallenge": "The dog followed the ___ of the rabbit across the field.",
+      "sentence": ""
+    },
+    {
+      "word": "bumblebee",
+      "partOfSpeech": "noun",
+      "meaning1": "A big, fuzzy bee with a loud buzz. Example: A bumblebee landed on the purple flower.",
+      "meaning2": "",
+      "studentChallenge": "The round, fuzzy ___ buzzed past my ear.",
+      "sentence": ""
+    },
+    {
+      "word": "drone",
+      "partOfSpeech": "noun",
+      "meaning1": "A male bee that does not gather food or make honey. Example: The drone stays in the hive while the workers collect food.",
+      "meaning2": "A low, steady humming sound. Example: We heard the drone of a plane far above.",
+      "studentChallenge": "In the hive, a ___ is a male bee.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The bees fly back to their _______ at the end of the day.",
+      "sentence2": "A wooden _______ sat on a stand at the edge of the meadow.",
+      "options": [
+        "clover",
+        "hive",
+        "wax",
+        "sting"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "hive"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The _______ ant carried crumbs all day long.",
+      "sentence2": "She is an _______ student who always finishes her work.",
+      "options": [
+        "industrious",
+        "vibrate",
+        "forage",
+        "hum"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "industrious"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Yellow _______ dusted the legs of the busy bee.",
+      "sentence2": "In spring, tiny grains of _______ float through the air from the blooming trees.",
+      "options": [
+        "hive",
+        "drone",
+        "sting",
+        "pollen"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "pollen"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Be careful, because a wasp can _______ you.",
+      "sentence2": "The bee will _______ only if it feels scared.",
+      "options": [
+        "hum",
+        "forage",
+        "sting",
+        "vibrate"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "sting"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Bees love the sweet pink flowers of the _______.",
+      "sentence2": "I found a green _______ with three round leaves.",
+      "options": [
+        "wax",
+        "clover",
+        "drone",
+        "scent"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "clover"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "I like to _______ a happy tune while I paint.",
+      "sentence2": "The fridge will _______ softly all night.",
+      "options": [
+        "hum",
+        "forage",
+        "sting",
+        "wax"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "hum"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Bees make _______ to build the tiny rooms in their home.",
+      "sentence2": "Mom poured melted _______ into a mold to make a candle.",
+      "options": [
+        "pollen",
+        "scent",
+        "drone",
+        "wax"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "wax"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Squirrels _______ for nuts in the fall.",
+      "sentence2": "Bees fly far from the hive to _______ for flower food.",
+      "options": [
+        "hum",
+        "vibrate",
+        "forage",
+        "sting"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "forage"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "When you pluck a guitar string, it will _______.",
+      "sentence2": "My phone will _______ when a message comes in.",
+      "options": [
+        "forage",
+        "vibrate",
+        "sting",
+        "wax"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "vibrate"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The sweet _______ of flowers drifted through the window.",
+      "sentence2": "The dog followed the _______ of the rabbit across the field.",
+      "options": [
+        "scent",
+        "pollen",
+        "wax",
+        "hive"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "scent"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "A fuzzy _______ landed on the purple flower.",
+      "sentence2": "The big, round _______ buzzed past my ear.",
+      "options": [
+        "clover",
+        "hive",
+        "pollen",
+        "bumblebee"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "bumblebee"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The _______ is a male bee, and he does not help gather food.",
+      "sentence2": "In the hive, a _______ does not make honey, but the workers do.",
+      "options": [
+        "wax",
+        "pollen",
+        "drone",
+        "clover"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "drone"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "hive",
+      "industrious",
+      "pollen",
+      "sting",
+      "clover",
+      "hum",
+      "wax",
+      "forage",
+      "vibrate",
+      "scent",
+      "bumblebee",
+      "drone"
+    ],
+    "passage": "Last summer, Rosa's grandfather showed her his bee _(1)_. It stood at the edge of a field of pink _(2)_, and she could hear the quiet _(3)_ from far away.\n“Watch the bees,” he said. “They are very _(4)_.” Some bees flew from flower to flower to _(5)_ for food. Rosa saw that each one was covered in yellow _(6)_. A big, fuzzy _(7)_ zoomed by, and the flowers began to _(8)_ as it landed.\nHer grandfather opened the lid, and a sweet _(9)_ rose up. Inside, the bees had made tiny rooms out of _(10)_. He pointed to one bee that was larger than the rest. “That is a _(11)_,” he said. “He does not work like the others.” Rosa kept very still. “Bees only _(12)_ when they are scared,” he said, “so we will be gentle.”",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "hive",
+        "options": [
+          "hive",
+          "forage",
+          "industrious",
+          "vibrate"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "clover",
+        "options": [
+          "forage",
+          "industrious",
+          "vibrate",
+          "clover"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "hum",
+        "options": [
+          "industrious",
+          "hum",
+          "vibrate",
+          "forage"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "industrious",
+        "options": [
+          "forage",
+          "bumblebee",
+          "industrious",
+          "pollen"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "forage",
+        "options": [
+          "forage",
+          "clover",
+          "bumblebee",
+          "industrious"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "pollen",
+        "options": [
+          "pollen",
+          "forage",
+          "industrious",
+          "vibrate"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "bumblebee",
+        "options": [
+          "forage",
+          "vibrate",
+          "industrious",
+          "bumblebee"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "vibrate",
+        "options": [
+          "vibrate",
+          "pollen",
+          "industrious",
+          "bumblebee"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "scent",
+        "options": [
+          "vibrate",
+          "forage",
+          "industrious",
+          "scent"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "wax",
+        "options": [
+          "industrious",
+          "wax",
+          "vibrate",
+          "forage"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "drone",
+        "options": [
+          "industrious",
+          "drone",
+          "forage",
+          "vibrate"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "sting",
+        "options": [
+          "pollen",
+          "sting",
+          "industrious",
+          "clover"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "hum",
+        "scale": [
+          "Hum",
+          "Buzz",
+          "Roar"
+        ],
+        "vocabPosition": 0
+      },
+      {
+        "vocabWord": "industrious",
+        "scale": [
+          "Lazy",
+          "Busy",
+          "Industrious"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "vibrate",
+        "scale": [
+          "Tremble",
+          "Vibrate",
+          "Rattle"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "sting",
+        "scale": [
+          "Itch",
+          "Sting",
+          "Burn"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "industrious",
+        "words": [
+          "Hardworking",
+          "Busy",
+          "Lazy",
+          "Diligent"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Lazy"
+      },
+      {
+        "vocabWord": "forage",
+        "words": [
+          "Search",
+          "Hunt",
+          "Gather",
+          "Hide"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Hide"
+      },
+      {
+        "vocabWord": "vibrate",
+        "words": [
+          "Shake",
+          "Tremble",
+          "Freeze",
+          "Quiver"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Freeze"
+      },
+      {
+        "vocabWord": "hum",
+        "words": [
+          "Buzz",
+          "Purr",
+          "Drone",
+          "Shout"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Shout"
+      },
+      {
+        "vocabWord": "sting",
+        "words": [
+          "Prick",
+          "Jab",
+          "Soothe",
+          "Bite"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Soothe"
+      },
+      {
+        "vocabWord": "scent",
+        "words": [
+          "Smell",
+          "Aroma",
+          "Fragrance",
+          "Odorless"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Odorless"
+      },
+      {
+        "vocabWord": "drone",
+        "words": [
+          "Buzz",
+          "Murmur",
+          "Silence",
+          "Whir"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Silence"
+      },
+      {
+        "vocabWord": "hive",
+        "words": [
+          "Colony",
+          "Nest",
+          "Open field",
+          "Home"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Open field"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

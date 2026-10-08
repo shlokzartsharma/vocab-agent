@@ -1,0 +1,578 @@
+{
+  "grade": 1,
+  "setNumber": 16,
+  "words": [
+    "jolt",
+    "jiggle",
+    "commotion",
+    "clatter",
+    "hustle",
+    "buckle",
+    "noisy",
+    "screech",
+    "dawdle",
+    "honk",
+    "swerve",
+    "squish"
+  ],
+  "sources": [
+    "Common Core Grade 1",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "school bus ride",
+  "story": {
+    "genre": "school bus ride",
+    "characters": [
+      "Isa",
+      "Malik",
+      "Greta"
+    ],
+    "parts": [
+      {
+        "title": "Hop On",
+        "text": "Isa ran to the bus stop. She had to **hustle** up the steps. Malik sat by the window. Greta did not **dawdle**. She saved a seat for Isa. “**Buckle** up, please,” said the driver."
+      },
+      {
+        "title": "A Bumpy Road",
+        "text": "The bus hit a bump. It gave the kids a little **jolt**. Isa’s backpack began to **jiggle** on her lap. The bus was **noisy**. Everyone sang. A pencil fell with a **clatter**. Soon there was a **commotion** in the back. Kids were all shouting!"
+      },
+      {
+        "title": "A Quick Turn",
+        "text": "A small dog ran onto the road. The driver made a quick **swerve** to miss it. A car gave a loud **honk**. The brakes made a **screech**. The dog was safe! Isa slid over, and the three friends had to **squish** together on the seat."
+      },
+      {
+        "title": "Safe at School",
+        "text": "The dog trotted home. The bus rolled on to school. The friends were glad to be together. It was a ride they would not forget."
+      }
+    ],
+    "wordCount": 148
+  },
+  "definitions": [
+    {
+      "word": "jolt",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To move with a sudden bump. Example: The bus can jolt when it hits a bump.",
+      "meaning2": "A sudden bump. Example: The car stopped with a jolt.",
+      "studentChallenge": "The wagon began to ___ on the rocky path.",
+      "sentence": ""
+    },
+    {
+      "word": "jiggle",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To shake with small, quick moves. Example: The jelly will jiggle on the plate.",
+      "meaning2": "A small shake. Example: Give the doorknob a jiggle.",
+      "studentChallenge": "The jelly began to ___ when I bumped the table.",
+      "sentence": ""
+    },
+    {
+      "word": "commotion",
+      "partOfSpeech": "noun",
+      "meaning1": "Loud, busy noise and movement. Example: There was a commotion when the puppy ran into the room.",
+      "meaning2": "",
+      "studentChallenge": "The kids made a big ___ when the clown came in.",
+      "sentence": ""
+    },
+    {
+      "word": "clatter",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A loud noise made when hard things hit each other. Example: The pots fell with a clatter.",
+      "meaning2": "To make that kind of noise. Example: The plates clatter in the sink.",
+      "studentChallenge": "The spoons fell on the floor with a loud ___.",
+      "sentence": ""
+    },
+    {
+      "word": "hustle",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To hurry. Example: We hustle to get to class on time.",
+      "meaning2": "",
+      "studentChallenge": "We must ___ to catch the train.",
+      "sentence": ""
+    },
+    {
+      "word": "buckle",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To fasten a belt or strap. Example: I buckle my seat belt in the car.",
+      "meaning2": "The metal part that fastens a belt. Example: My shoe has a shiny buckle.",
+      "studentChallenge": "Please ___ your helmet before you ride.",
+      "sentence": ""
+    },
+    {
+      "word": "noisy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Loud, with a lot of sound. Example: The lunchroom is noisy at noon.",
+      "meaning2": "",
+      "studentChallenge": "The ___ band played drums and horns.",
+      "sentence": ""
+    },
+    {
+      "word": "screech",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A loud, high sound. Example: The brakes made a screech.",
+      "meaning2": "To make a loud, high sound. Example: The bird will screech in the tree.",
+      "studentChallenge": "The car tires made a loud ___ when it stopped fast.",
+      "sentence": ""
+    },
+    {
+      "word": "dawdle",
+      "partOfSpeech": "verb",
+      "meaning1": "To move slowly and waste time. Example: Do not dawdle on the way to school.",
+      "meaning2": "",
+      "studentChallenge": "I ___ when I stop to look at every flower on the walk.",
+      "sentence": ""
+    },
+    {
+      "word": "honk",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To make a loud horn sound. Example: Dad will honk the car horn.",
+      "meaning2": "A loud horn sound. Example: We heard a honk from the truck.",
+      "studentChallenge": "The driver will ___ the horn to say hello.",
+      "sentence": ""
+    },
+    {
+      "word": "swerve",
+      "partOfSpeech": "verb",
+      "meaning1": "To turn quickly to one side. Example: I swerve my bike to miss a rock.",
+      "meaning2": "",
+      "studentChallenge": "The bike rider had to ___ around the puddle.",
+      "sentence": ""
+    },
+    {
+      "word": "squish",
+      "partOfSpeech": "verb",
+      "meaning1": "To press something soft until it is flat. Example: Do not squish the soft bread.",
+      "meaning2": "To make a wet, soft sound. Example: My wet shoes squish in the mud.",
+      "studentChallenge": "The mud began to ___ under my boots.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The bump gave the bus a sudden _______.",
+      "sentence2": "I felt a _______ when the cart hit the rock.",
+      "options": [
+        "noisy",
+        "dawdle",
+        "jolt",
+        "swerve"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "jolt"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The jelly will _______ when you tap the bowl.",
+      "sentence2": "My loose tooth will _______ if I touch it.",
+      "options": [
+        "jiggle",
+        "dawdle",
+        "hustle",
+        "noisy"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "jiggle"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "There was a big _______ when the dog ran into class.",
+      "sentence2": "The crowd made a _______ when the band marched by.",
+      "options": [
+        "buckle",
+        "swerve",
+        "squish",
+        "commotion"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "commotion"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The pans fell on the floor with a loud _______.",
+      "sentence2": "I heard the _______ of dishes in the sink.",
+      "options": [
+        "dawdle",
+        "clatter",
+        "noisy",
+        "hustle"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "clatter"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "We must _______ to get to class on time.",
+      "sentence2": "The waiters _______ when the cafe fills up with people.",
+      "options": [
+        "buckle",
+        "honk",
+        "hustle",
+        "dawdle"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "hustle"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Please _______ your seat belt before we go.",
+      "sentence2": "I will _______ my belt so my pants stay up.",
+      "options": [
+        "buckle",
+        "swerve",
+        "jiggle",
+        "noisy"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "buckle"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The lunchroom was very _______ at noon.",
+      "sentence2": "It is hard to nap in a _______ room.",
+      "options": [
+        "dawdle",
+        "commotion",
+        "jolt",
+        "noisy"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "noisy"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The brakes let out a loud _______.",
+      "sentence2": "We heard a high _______ from the bird.",
+      "options": [
+        "hustle",
+        "screech",
+        "buckle",
+        "noisy"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "screech"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Do not _______ on the way to the bus.",
+      "sentence2": "The snail will _______ along the garden path.",
+      "options": [
+        "noisy",
+        "commotion",
+        "dawdle",
+        "squish"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "dawdle"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Dad will _______ the car horn to say hello.",
+      "sentence2": "We heard the goose _______ by the pond.",
+      "options": [
+        "honk",
+        "jiggle",
+        "dawdle",
+        "buckle"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "honk"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The driver had to _______ to miss the dog.",
+      "sentence2": "The skater will _______ around the cone.",
+      "options": [
+        "hustle",
+        "honk",
+        "squish",
+        "swerve"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "swerve"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Try not to _______ the soft grapes.",
+      "sentence2": "My wet shoes _______ in the mud.",
+      "options": [
+        "dawdle",
+        "squish",
+        "noisy",
+        "hustle"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "squish"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "jolt",
+      "jiggle",
+      "commotion",
+      "clatter",
+      "hustle",
+      "buckle",
+      "noisy",
+      "screech",
+      "dawdle",
+      "honk",
+      "swerve",
+      "squish"
+    ],
+    "passage": "On Monday, Isa’s class took a bus to the farm. The ride was _(1)_ because everyone was singing. Isa had to _(2)_ her seat belt, and the strap was stuck. “Please _(3)_,” said her teacher, “or we will be late.” Malik did not _(4)_ at all.\n\nSoon the bus hit a bump with a big _(5)_. The lunch boxes began to _(6)_ on the shelf. A tin cup fell with a loud _(7)_. Then a _(8)_ started in the back row when a toy frog hopped out of a bag.\n\nThe driver had to _(9)_ around a fallen branch. The tires gave a _(10)_, and the bus stopped. Another driver gave a loud _(11)_. At the farm, the mud began to _(12)_ under their boots.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "noisy",
+        "options": [
+          "noisy",
+          "dawdle",
+          "buckle",
+          "squish"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "buckle",
+        "options": [
+          "noisy",
+          "commotion",
+          "clatter",
+          "buckle"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "hustle",
+        "options": [
+          "noisy",
+          "hustle",
+          "commotion",
+          "clatter"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "dawdle",
+        "options": [
+          "noisy",
+          "commotion",
+          "dawdle",
+          "clatter"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "jolt",
+        "options": [
+          "jolt",
+          "noisy",
+          "dawdle",
+          "hustle"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "jiggle",
+        "options": [
+          "noisy",
+          "commotion",
+          "clatter",
+          "jiggle"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "clatter",
+        "options": [
+          "dawdle",
+          "clatter",
+          "noisy",
+          "hustle"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "commotion",
+        "options": [
+          "dawdle",
+          "buckle",
+          "commotion",
+          "hustle"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "swerve",
+        "options": [
+          "swerve",
+          "noisy",
+          "commotion",
+          "jolt"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "screech",
+        "options": [
+          "dawdle",
+          "hustle",
+          "noisy",
+          "screech"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "honk",
+        "options": [
+          "buckle",
+          "honk",
+          "noisy",
+          "dawdle"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "squish",
+        "options": [
+          "noisy",
+          "commotion",
+          "squish",
+          "jolt"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "jolt",
+        "scale": [
+          "Nudge",
+          "Bump",
+          "Jolt"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "hustle",
+        "scale": [
+          "Walk",
+          "Hustle",
+          "Sprint"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "noisy",
+        "scale": [
+          "Quiet",
+          "Noisy",
+          "Deafening"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "screech",
+        "scale": [
+          "Squeak",
+          "Screech",
+          "Shriek"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "commotion",
+        "words": [
+          "Uproar",
+          "Racket",
+          "Fuss",
+          "Calm"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Calm"
+      },
+      {
+        "vocabWord": "dawdle",
+        "words": [
+          "Linger",
+          "Loiter",
+          "Lag",
+          "Hurry"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Hurry"
+      },
+      {
+        "vocabWord": "buckle",
+        "words": [
+          "Fasten",
+          "Clip",
+          "Strap",
+          "Unfasten"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Unfasten"
+      },
+      {
+        "vocabWord": "swerve",
+        "words": [
+          "Veer",
+          "Dodge",
+          "Turn",
+          "Go straight"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Go straight"
+      },
+      {
+        "vocabWord": "jiggle",
+        "words": [
+          "Shake",
+          "Wiggle",
+          "Jostle",
+          "Hold still"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Hold still"
+      },
+      {
+        "vocabWord": "clatter",
+        "words": [
+          "Bang",
+          "Clank",
+          "Rattle",
+          "Hush"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Hush"
+      },
+      {
+        "vocabWord": "honk",
+        "words": [
+          "Silence",
+          "Beep",
+          "Toot",
+          "Blare"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Silence"
+      },
+      {
+        "vocabWord": "hustle",
+        "words": [
+          "Rush",
+          "Hurry",
+          "Loaf",
+          "Dash"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Loaf"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

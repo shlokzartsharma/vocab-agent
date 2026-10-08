@@ -1,0 +1,577 @@
+{
+  "grade": 6,
+  "setNumber": 15,
+  "words": [
+    "mutiny",
+    "marooned",
+    "loot",
+    "galleon",
+    "ransom",
+    "swagger",
+    "notorious",
+    "cutlass",
+    "treachery",
+    "smuggle",
+    "buccaneer",
+    "ruthless"
+  ],
+  "sources": [
+    "Common Core Grade 6",
+    "Tier 2 Academic"
+  ],
+  "genre": "pirate adventure",
+  "story": {
+    "genre": "pirate adventure",
+    "characters": [
+      "Rosalind",
+      "Dev",
+      "Callum"
+    ],
+    "parts": [
+      {
+        "title": "Fog on the Water",
+        "text": "Rosalind, Dev, and Callum were apprentices aboard the Silver Heron, a trading ship carrying spices across the southern sea. One dawn, a huge **galleon** with patched black sails rose out of the fog. Dev gulped. The flag belonged to Captain Harrow, a **notorious** raider whose name was whispered in every harbor. Within minutes, a **buccaneer** crew swung across on ropes and crowded the deck."
+      },
+      {
+        "title": "Captured",
+        "text": "Captain Harrow strode aboard with a proud **swagger**, a **cutlass** gleaming at his belt. His crew hauled the spice barrels away as **loot**, and Harrow demanded a **ransom** in gold for the safe return of the ship and its sailors. He was **ruthless** in bargaining and refused to bend even a little. No one was hurt, but the Heron's crew was locked below deck."
+      },
+      {
+        "title": "A Plan in the Dark",
+        "text": "Sneaking through the cargo hold, Callum overheard two pirates whispering about a **mutiny**. Harrow's own crew was furious that he kept most of the treasure for himself. Rosalind called it **treachery**, a betrayal of the men who had trusted him. Dev wrote a quick note and managed to **smuggle** it out inside an empty barrel that drifted toward a navy ship on the horizon. By sunset the navy had circled the galleon, and the pirates surrendered. They were **marooned** on a small, sandy island, with fresh water, to wait for the authorities."
+      },
+      {
+        "title": "Back on Course",
+        "text": "The three friends sailed home with their cargo safe and their stories ready. Rosalind said that bravery sometimes means thinking carefully instead of fighting. Callum agreed that listening quietly had been their best weapon. Dev wrote the whole adventure in the ship's log so nobody would forget it."
+      }
+    ],
+    "wordCount": 268
+  },
+  "definitions": [
+    {
+      "word": "mutiny",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A rebellion by sailors or soldiers against their commanding officer. Example: The crew's mutiny began when the captain cut their food rations.",
+      "meaning2": "Any open rebellion against those in charge. Example: The students planned a mutiny against the strict new homework rules.",
+      "studentChallenge": "The sailors planned a ___ because their captain had cut their food.",
+      "sentence": ""
+    },
+    {
+      "word": "marooned",
+      "partOfSpeech": "verb, adjective",
+      "meaning1": "Left stranded in a place with no way to leave. Example: The flood left the family marooned on their roof.",
+      "meaning2": "",
+      "studentChallenge": "With the bridge washed out, the hikers were ___ on the far side of the river.",
+      "sentence": ""
+    },
+    {
+      "word": "loot",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "Valuable goods taken by force or stolen. Example: The pirates buried their loot on a hidden beach.",
+      "meaning2": "To steal goods, especially during a disaster or a war. Example: Thieves tried to loot the shops during the blackout.",
+      "studentChallenge": "The pirates counted their ___ of gold coins and jewels.",
+      "sentence": ""
+    },
+    {
+      "word": "galleon",
+      "partOfSpeech": "noun",
+      "meaning1": "A large sailing ship with several decks, used long ago to carry cargo and cannons. Example: The galleon sailed across the ocean with its hold full of silver.",
+      "meaning2": "",
+      "studentChallenge": "The towering ___ had three masts and rows of cannons.",
+      "sentence": ""
+    },
+    {
+      "word": "ransom",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "Money demanded in return for setting a captive free. Example: The kidnappers demanded a large ransom for the prisoner.",
+      "meaning2": "To pay money to free a captive. Example: The town raised gold to ransom its captured leader.",
+      "studentChallenge": "The kidnappers demanded a large ___ before they would free the prisoner.",
+      "sentence": ""
+    },
+    {
+      "word": "swagger",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To walk or act in a proud, boastful way. Example: After scoring the winning goal, he began to swagger across the field.",
+      "meaning2": "A confident, show-off way of walking. Example: He entered the room with a swagger that annoyed everyone.",
+      "studentChallenge": "The winner began to ___ across the stage with her chin held high.",
+      "sentence": ""
+    },
+    {
+      "word": "notorious",
+      "partOfSpeech": "adjective",
+      "meaning1": "Famous for something bad. Example: The notorious outlaw had escaped from three different prisons.",
+      "meaning2": "",
+      "studentChallenge": "The town was ___ for its terrible traffic jams.",
+      "sentence": ""
+    },
+    {
+      "word": "cutlass",
+      "partOfSpeech": "noun",
+      "meaning1": "A short, curved sword once used by sailors. Example: The sailor drew his curved cutlass and held it high.",
+      "meaning2": "",
+      "studentChallenge": "A plastic ___ was part of her pirate costume for the school play.",
+      "sentence": ""
+    },
+    {
+      "word": "treachery",
+      "partOfSpeech": "noun",
+      "meaning1": "A betrayal of trust; a disloyal act. Example: His treachery shocked his friends, who had trusted him with every secret.",
+      "meaning2": "",
+      "studentChallenge": "Selling the secret plans to the enemy was an act of terrible ___.",
+      "sentence": ""
+    },
+    {
+      "word": "smuggle",
+      "partOfSpeech": "verb",
+      "meaning1": "To move something in or out of a place secretly or against the rules. Example: Sailors tried to smuggle rare spices past the harbor guards.",
+      "meaning2": "To carry something secretly. Example: She tried to smuggle a snack into the library in her backpack.",
+      "studentChallenge": "The thief tried to ___ the jewels across the border in a hollow book.",
+      "sentence": ""
+    },
+    {
+      "word": "buccaneer",
+      "partOfSpeech": "noun",
+      "meaning1": "A pirate, especially one who raided ships in the Caribbean Sea long ago. Example: The buccaneer sailed the Caribbean, raiding ships for treasure.",
+      "meaning2": "",
+      "studentChallenge": "In the play, Mei dressed as a ___ with an eye patch and a parrot.",
+      "sentence": ""
+    },
+    {
+      "word": "ruthless",
+      "partOfSpeech": "adjective",
+      "meaning1": "Having no pity; harsh and cruel in getting what you want. Example: The ruthless ruler punished anyone who disagreed with him.",
+      "meaning2": "",
+      "studentChallenge": "Her ___ opponent never stopped to help anyone who fell behind.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The sailors planned a _______ because their captain had cut their food rations.",
+      "sentence2": "The students threatened a _______ against the strict new homework rules.",
+      "options": [
+        "treachery",
+        "mutiny",
+        "ransom",
+        "loot"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "mutiny"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The flood left the family _______ on their roof until rescue boats arrived.",
+      "sentence2": "With the bridge washed out, the hikers were _______ on the far side of the river.",
+      "options": [
+        "notorious",
+        "ruthless",
+        "marooned",
+        "swagger"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "marooned"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Pirates would _______ every ship that carried gold.",
+      "sentence2": "Thieves tried to _______ the shops during the blackout.",
+      "options": [
+        "smuggle",
+        "swagger",
+        "ransom",
+        "loot"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "loot"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "A Spanish _______ loaded with silver sailed across the Atlantic.",
+      "sentence2": "The towering _______ had three masts and rows of cannons.",
+      "options": [
+        "galleon",
+        "cutlass",
+        "buccaneer",
+        "ransom"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "galleon"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The kidnappers demanded a large _______ before they would free the prisoner.",
+      "sentence2": "The town raised a _______ of gold to buy back its captured leader.",
+      "options": [
+        "loot",
+        "ransom",
+        "mutiny",
+        "treachery"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "ransom"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "After scoring the winning goal, he began to _______ across the field like a champion.",
+      "sentence2": "He walked into the room with a proud _______ that annoyed everyone.",
+      "options": [
+        "smuggle",
+        "loot",
+        "swagger",
+        "mutiny"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "swagger"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The _______ outlaw had escaped from three different prisons.",
+      "sentence2": "The town was _______ for its terrible traffic jams.",
+      "options": [
+        "ruthless",
+        "marooned",
+        "swagger",
+        "notorious"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "notorious"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The sailor drew his curved _______ and held it high.",
+      "sentence2": "A plastic _______ was part of her pirate costume for the school play.",
+      "options": [
+        "cutlass",
+        "galleon",
+        "loot",
+        "ransom"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "cutlass"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "His _______ shocked his friends, who had trusted him with every secret.",
+      "sentence2": "Selling the secret plans to the enemy was an act of terrible _______.",
+      "options": [
+        "mutiny",
+        "treachery",
+        "ransom",
+        "buccaneer"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "treachery"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Sailors tried to _______ rare spices past the harbor guards.",
+      "sentence2": "She tried to _______ a snack into the library inside her backpack.",
+      "options": [
+        "swagger",
+        "loot",
+        "smuggle",
+        "ransom"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "smuggle"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The _______ sailed the Caribbean, raiding ships for treasure.",
+      "sentence2": "In the play, Mei dressed as a _______ with an eye patch and a parrot.",
+      "options": [
+        "galleon",
+        "cutlass",
+        "mutiny",
+        "buccaneer"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "buccaneer"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The _______ ruler showed no mercy to anyone who disagreed with him.",
+      "sentence2": "Her opponent was so _______ that she never stopped to help anyone who fell behind.",
+      "options": [
+        "ruthless",
+        "notorious",
+        "marooned",
+        "swagger"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "ruthless"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "mutiny",
+      "marooned",
+      "loot",
+      "galleon",
+      "ransom",
+      "swagger",
+      "notorious",
+      "cutlass",
+      "treachery",
+      "smuggle",
+      "buccaneer",
+      "ruthless"
+    ],
+    "passage": "At the harbor museum, a guide named Mr. Alvarez told the tale of Captain Red Anne, a _(1)_ pirate who ruled the sea in the 1700s. Her ship, a mighty _(2)_, could be seen from miles away. Every _(3)_ in her crew carried a sharp _(4)_ at his belt.\n\nShe would _(5)_ across the deck with her chin high. She was _(6)_ with her enemies, demanding a _(7)_ for every captured passenger and stuffing the _(8)_ into heavy chests.\n\nEventually a _(9)_ broke out among her crew. After the _(10)_ of her first mate, who sold her secret map to rivals, Red Anne was left _(11)_ on a rocky island. Locals joke that visitors still try to _(12)_ souvenirs out of the museum past the guards.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "notorious",
+        "options": [
+          "swagger",
+          "notorious",
+          "ransom",
+          "cutlass"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "galleon",
+        "options": [
+          "galleon",
+          "cutlass",
+          "mutiny",
+          "ransom"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "buccaneer",
+        "options": [
+          "galleon",
+          "ransom",
+          "treachery",
+          "buccaneer"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "cutlass",
+        "options": [
+          "galleon",
+          "ransom",
+          "cutlass",
+          "loot"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "swagger",
+        "options": [
+          "smuggle",
+          "swagger",
+          "loot",
+          "mutiny"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "ruthless",
+        "options": [
+          "ruthless",
+          "notorious",
+          "marooned",
+          "cutlass"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "ransom",
+        "options": [
+          "mutiny",
+          "treachery",
+          "cutlass",
+          "ransom"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "loot",
+        "options": [
+          "buccaneer",
+          "treachery",
+          "loot",
+          "mutiny"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "mutiny",
+        "options": [
+          "ransom",
+          "mutiny",
+          "cutlass",
+          "loot"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "treachery",
+        "options": [
+          "treachery",
+          "galleon",
+          "buccaneer",
+          "swagger"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "marooned",
+        "options": [
+          "ruthless",
+          "notorious",
+          "smuggle",
+          "marooned"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "smuggle",
+        "options": [
+          "swagger",
+          "marooned",
+          "smuggle",
+          "mutiny"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "ruthless",
+        "scale": [
+          "Firm",
+          "Harsh",
+          "Ruthless"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "notorious",
+        "scale": [
+          "Known",
+          "Famous",
+          "Notorious"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "swagger",
+        "scale": [
+          "Stroll",
+          "Strut",
+          "Swagger"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "mutiny",
+        "scale": [
+          "Complaint",
+          "Protest",
+          "Mutiny"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "ruthless",
+        "words": [
+          "Cruel",
+          "Kind",
+          "Merciless",
+          "Heartless"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Kind"
+      },
+      {
+        "vocabWord": "notorious",
+        "words": [
+          "Respected",
+          "Infamous",
+          "Disgraced",
+          "Scandalous"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Respected"
+      },
+      {
+        "vocabWord": "treachery",
+        "words": [
+          "Betrayal",
+          "Disloyalty",
+          "Deceit",
+          "Loyalty"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Loyalty"
+      },
+      {
+        "vocabWord": "marooned",
+        "words": [
+          "Stranded",
+          "Abandoned",
+          "Rescued",
+          "Stuck"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Rescued"
+      },
+      {
+        "vocabWord": "loot",
+        "words": [
+          "Plunder",
+          "Gift",
+          "Spoils",
+          "Booty"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Gift"
+      },
+      {
+        "vocabWord": "smuggle",
+        "words": [
+          "Declare",
+          "Sneak",
+          "Slip",
+          "Creep"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Declare"
+      },
+      {
+        "vocabWord": "mutiny",
+        "words": [
+          "Rebellion",
+          "Revolt",
+          "Uprising",
+          "Obedience"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Obedience"
+      },
+      {
+        "vocabWord": "swagger",
+        "words": [
+          "Strut",
+          "Parade",
+          "Cower",
+          "Flaunt"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Cower"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

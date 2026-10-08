@@ -1,0 +1,578 @@
+{
+  "grade": 8,
+  "setNumber": 14,
+  "words": [
+    "vaccine",
+    "immunity",
+    "outbreak",
+    "sanitation",
+    "pandemic",
+    "inoculate",
+    "asymptomatic",
+    "incubation",
+    "sterilize",
+    "antibody",
+    "pathogen",
+    "transmission"
+  ],
+  "sources": [
+    "Common Core Grade 8",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "public health crisis",
+  "story": {
+    "genre": "public health crisis",
+    "characters": [
+      "Naomi",
+      "Cesar",
+      "Bao"
+    ],
+    "parts": [
+      {
+        "title": "The Case Study",
+        "text": "The school nurse challenged Naomi, Cesar, and Bao with a case study: a town where an **outbreak** of illness had suddenly spread through several neighborhoods. Their job was to act like disease detectives. Cesar began by explaining that every infection starts with a **pathogen**, a germ such as a virus or a bacterium. Bao added that the key question was **transmission**, meaning how the germ passes from one person to another, whether through air, food, or touch."
+      },
+      {
+        "title": "Following the Clues",
+        "text": "The records showed a long **incubation** period of several days between catching the germ and feeling sick. That made the puzzle harder, because some residents were **asymptomatic**; they carried the germ without feeling ill, so they spread it without knowing. Naomi circled a note about poor **sanitation**, since the town's drinking water ran beside a leaking sewer. The nurse praised her: clean water and safe waste removal protect entire communities."
+      },
+      {
+        "title": "How Communities Respond",
+        "text": "Next, the detectives studied the solutions. Clinics began to **sterilize** their instruments with heat, destroying every germ. Health workers set up stations to **inoculate** residents with a **vaccine**, which trains the body to recognize the germ. Bao explained that the body then builds an **antibody**, a protein that locks onto the germ and helps destroy it. Once enough people had **immunity**, the illness struggled to find new hosts. Had it crossed many countries, it would have been called a **pandemic**, but quick action kept this case local."
+      },
+      {
+        "title": "Calm, Clear Facts",
+        "text": "When the case was solved, the three friends agreed that health depends on cooperation: clean water, careful science, and neighbors looking out for one another. Cesar said he now saw handwashing differently. Naomi planned to ask the nurse about starting a health club. Bao wrote on the board, \"Calm, clear facts beat panic every time.\""
+      }
+    ],
+    "wordCount": 289
+  },
+  "definitions": [
+    {
+      "word": "vaccine",
+      "partOfSpeech": "noun",
+      "meaning1": "A medicine, often given by injection, that prepares the body to fight a particular disease. Example: Children receive a vaccine that protects them from measles.",
+      "meaning2": "",
+      "studentChallenge": "The nurse explained that a single ___ can protect a child from a serious illness.",
+      "sentence": ""
+    },
+    {
+      "word": "immunity",
+      "partOfSpeech": "noun",
+      "meaning1": "The body's ability to resist a particular disease or infection. Example: After recovering from chickenpox, most people develop immunity.",
+      "meaning2": "Protection from a legal duty or punishment. Example: Foreign diplomats have immunity from many local laws.",
+      "studentChallenge": "Getting a vaccine helps your body build ___ without making you sick.",
+      "sentence": ""
+    },
+    {
+      "word": "outbreak",
+      "partOfSpeech": "noun",
+      "meaning1": "A sudden rise in the number of cases of a disease in one place. Example: The outbreak was traced to a contaminated well.",
+      "meaning2": "The sudden start of something unpleasant, such as a war or fire. Example: Nobody expected the outbreak of fighting along the border.",
+      "studentChallenge": "Health officials rushed to the town to stop the ___ of the stomach illness.",
+      "sentence": ""
+    },
+    {
+      "word": "sanitation",
+      "partOfSpeech": "noun",
+      "meaning1": "Conditions and systems, such as clean water and waste removal, that protect public health. Example: Better sanitation, including covered sewers, reduced illness in the city.",
+      "meaning2": "",
+      "studentChallenge": "Clean drinking water and safe sewers are the basics of good public ___.",
+      "sentence": ""
+    },
+    {
+      "word": "pandemic",
+      "partOfSpeech": "noun, adjective",
+      "meaning1": "An outbreak of disease that spreads across many countries or the whole world. Example: The pandemic changed how schools around the world operated.",
+      "meaning2": "",
+      "studentChallenge": "Because the illness spread across continents, health leaders called it a ___.",
+      "sentence": ""
+    },
+    {
+      "word": "inoculate",
+      "partOfSpeech": "verb",
+      "meaning1": "To protect a person from a disease by giving them a vaccine. Example: Nurses worked all day to inoculate the students before flu season.",
+      "meaning2": "",
+      "studentChallenge": "Clinics hope to ___ every child in the village before winter.",
+      "sentence": ""
+    },
+    {
+      "word": "asymptomatic",
+      "partOfSpeech": "adjective",
+      "meaning1": "Infected with a disease but showing no signs of being sick. Example: An asymptomatic traveler can still pass the germ to others.",
+      "meaning2": "",
+      "studentChallenge": "Some people with the virus are ___, so they never realize they are infected.",
+      "sentence": ""
+    },
+    {
+      "word": "incubation",
+      "partOfSpeech": "noun",
+      "meaning1": "The period between catching a germ and showing signs of illness. Example: The flu has a short incubation period of one to four days.",
+      "meaning2": "The process of keeping eggs warm until they hatch. Example: The incubation of the chicks takes about three weeks.",
+      "studentChallenge": "Doctors track the ___ period, the days between catching the germ and feeling sick.",
+      "sentence": ""
+    },
+    {
+      "word": "sterilize",
+      "partOfSpeech": "verb",
+      "meaning1": "To destroy all germs on an object or surface, usually with heat or chemicals. Example: Dentists sterilize their tools between patients.",
+      "meaning2": "",
+      "studentChallenge": "Boil the bottles for five minutes to ___ them before use.",
+      "sentence": ""
+    },
+    {
+      "word": "antibody",
+      "partOfSpeech": "noun",
+      "meaning1": "A protein made by the body that attaches to a germ and helps destroy it. Example: A blood test showed that her body had made an antibody for the virus.",
+      "meaning2": "",
+      "studentChallenge": "After the shot, the body makes an ___ that recognizes the germ.",
+      "sentence": ""
+    },
+    {
+      "word": "pathogen",
+      "partOfSpeech": "noun",
+      "meaning1": "A germ, such as a virus or bacterium, that causes disease. Example: Soap helps wash away each pathogen that lands on your skin.",
+      "meaning2": "",
+      "studentChallenge": "Scientists identified the ___ responsible for the illness: a tiny bacterium.",
+      "sentence": ""
+    },
+    {
+      "word": "transmission",
+      "partOfSpeech": "noun",
+      "meaning1": "The passing of a disease or signal from one place or person to another. Example: Wearing a mask can slow the transmission of respiratory germs.",
+      "meaning2": "The part of a vehicle that carries engine power to the wheels. Example: The mechanic replaced the car's transmission after the gears began to slip.",
+      "studentChallenge": "Handwashing is one of the easiest ways to reduce the ___ of germs.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The nurse explained that a single _______ can protect a child from a serious illness.",
+      "sentence2": "Scientists tested the new _______ on thousands of volunteers before it was approved.",
+      "options": [
+        "sanitation",
+        "vaccine",
+        "incubation",
+        "pathogen"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "vaccine"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "After recovering from chickenpox, most people develop lasting _______ to the disease.",
+      "sentence2": "Foreign diplomats may have legal _______ from arrest under local laws.",
+      "options": [
+        "immunity",
+        "transmission",
+        "sanitation",
+        "outbreak"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "immunity"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Health officials traced the _______ of stomach illness to a contaminated well.",
+      "sentence2": "Nobody expected the sudden _______ of fighting along the border.",
+      "options": [
+        "vaccine",
+        "immunity",
+        "antibody",
+        "outbreak"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "outbreak"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Clean water and safe waste removal are the foundations of good public _______.",
+      "sentence2": "Improved _______ in the crowded city, including covered sewers, sharply reduced illness.",
+      "options": [
+        "pandemic",
+        "pathogen",
+        "sanitation",
+        "inoculate"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "sanitation"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Because the illness spread across continents, health leaders declared a global _______.",
+      "sentence2": "Historians compare how schools and businesses adapted during the worldwide _______.",
+      "options": [
+        "vaccine",
+        "pandemic",
+        "antibody",
+        "incubation"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "pandemic"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Nurses worked all morning to _______ the students before flu season began.",
+      "sentence2": "Clinics plan to _______ every resident in the village against the disease within the month.",
+      "options": [
+        "inoculate",
+        "sterilize",
+        "vaccine",
+        "transmission"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "inoculate"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Some travelers who are _______ feel perfectly healthy yet still carry the germ.",
+      "sentence2": "Because she was _______, she had no fever, cough, or aches, yet her test came back positive.",
+      "options": [
+        "pandemic",
+        "immunity",
+        "sterilize",
+        "asymptomatic"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "asymptomatic"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Doctors track the _______ period, the days between catching the germ and feeling sick.",
+      "sentence2": "The _______ of the chicks takes three weeks of steady warmth.",
+      "options": [
+        "transmission",
+        "vaccine",
+        "incubation",
+        "sanitation"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "incubation"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Dentists must _______ their tools between patients to destroy every germ.",
+      "sentence2": "Boil the baby bottles for five minutes to _______ them before use.",
+      "options": [
+        "inoculate",
+        "sterilize",
+        "pandemic",
+        "pathogen"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "sterilize"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Blood tests can show whether the body has made the right _______ for a certain virus.",
+      "sentence2": "Each _______ attaches to a specific germ, helping the immune system destroy it.",
+      "options": [
+        "antibody",
+        "vaccine",
+        "pathogen",
+        "sanitation"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "antibody"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Soap and water remove each _______ that lands on your skin.",
+      "sentence2": "Researchers identified the _______ responsible for the illness: a tiny bacterium.",
+      "options": [
+        "antibody",
+        "vaccine",
+        "sanitation",
+        "pathogen"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "pathogen"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Wearing masks can slow the _______ of respiratory germs in crowded rooms.",
+      "sentence2": "The mechanic replaced the car's _______ after the gears began to slip.",
+      "options": [
+        "outbreak",
+        "antibody",
+        "transmission",
+        "pandemic"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "transmission"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "vaccine",
+      "immunity",
+      "outbreak",
+      "sanitation",
+      "pandemic",
+      "inoculate",
+      "asymptomatic",
+      "incubation",
+      "sterilize",
+      "antibody",
+      "pathogen",
+      "transmission"
+    ],
+    "passage": "Cesar's science fair poster began with a question: how does one tiny germ become a crisis? He explained that every illness starts with a _(1)_, such as a virus or bacterium. Its _(2)_, the way it passes from person to person, may be through the air, shared food, or touch. After the germ enters the body, a quiet _(3)_ period of several days may pass before anyone feels sick, and some people stay _(4)_ the entire time, never showing a single symptom.\n\nWhen cases climb quickly in one town, health officials call the event a local _(5)_. If the illness crosses borders and sweeps across the world, it becomes a worldwide _(6)_. Cesar then described defenses. Good _(7)_, including clean water and safe waste disposal, keeps germs from spreading. Hospitals _(8)_ their instruments with high heat. Each _(9)_ prepares the body without making a person sick, and clinics work hard to _(10)_ every child. Afterward, the body builds a protective _(11)_ that recognizes the germ. When enough people are protected, the community enjoys shared _(12)_, and the illness runs out of places to spread.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "pathogen",
+        "options": [
+          "vaccine",
+          "sanitation",
+          "pathogen",
+          "transmission"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "transmission",
+        "options": [
+          "vaccine",
+          "sanitation",
+          "pandemic",
+          "transmission"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "incubation",
+        "options": [
+          "incubation",
+          "vaccine",
+          "sanitation",
+          "pathogen"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "asymptomatic",
+        "options": [
+          "outbreak",
+          "asymptomatic",
+          "vaccine",
+          "inoculate"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "outbreak",
+        "options": [
+          "vaccine",
+          "antibody",
+          "outbreak",
+          "sanitation"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "pandemic",
+        "options": [
+          "sterilize",
+          "sanitation",
+          "inoculate",
+          "pandemic"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "sanitation",
+        "options": [
+          "sanitation",
+          "transmission",
+          "immunity",
+          "outbreak"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "sterilize",
+        "options": [
+          "inoculate",
+          "sterilize",
+          "transmission",
+          "antibody"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "vaccine",
+        "options": [
+          "pathogen",
+          "outbreak",
+          "vaccine",
+          "sanitation"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "inoculate",
+        "options": [
+          "sterilize",
+          "pandemic",
+          "pathogen",
+          "inoculate"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "antibody",
+        "options": [
+          "antibody",
+          "outbreak",
+          "sanitation",
+          "pathogen"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "immunity",
+        "options": [
+          "pathogen",
+          "immunity",
+          "incubation",
+          "sterilize"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "pandemic",
+        "scale": [
+          "Outbreak",
+          "Epidemic",
+          "Pandemic"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "sterilize",
+        "scale": [
+          "Rinse",
+          "Disinfect",
+          "Sterilize"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "immunity",
+        "scale": [
+          "Weakness",
+          "Resistance",
+          "Immunity"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "outbreak",
+        "scale": [
+          "Case",
+          "Cluster",
+          "Outbreak"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "sanitation",
+        "words": [
+          "Cleanliness",
+          "Hygiene",
+          "Filth",
+          "Purity"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Filth"
+      },
+      {
+        "vocabWord": "sterilize",
+        "words": [
+          "Disinfect",
+          "Purify",
+          "Contaminate",
+          "Cleanse"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Contaminate"
+      },
+      {
+        "vocabWord": "asymptomatic",
+        "words": [
+          "Symptom-free",
+          "Unaffected",
+          "Symptomatic",
+          "Without signs"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Symptomatic"
+      },
+      {
+        "vocabWord": "immunity",
+        "words": [
+          "Resistance",
+          "Protection",
+          "Susceptibility",
+          "Defense"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Susceptibility"
+      },
+      {
+        "vocabWord": "transmission",
+        "words": [
+          "Spread",
+          "Passing",
+          "Containment",
+          "Transfer"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Containment"
+      },
+      {
+        "vocabWord": "pathogen",
+        "words": [
+          "Germ",
+          "Microbe",
+          "Remedy",
+          "Bug"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Remedy"
+      },
+      {
+        "vocabWord": "inoculate",
+        "words": [
+          "Immunize",
+          "Vaccinate",
+          "Infect",
+          "Protect"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Infect"
+      },
+      {
+        "vocabWord": "pandemic",
+        "words": [
+          "Worldwide",
+          "Widespread",
+          "Global",
+          "Local"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Local"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

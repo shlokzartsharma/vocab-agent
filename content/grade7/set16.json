@@ -1,0 +1,578 @@
+{
+  "grade": 7,
+  "setNumber": 16,
+  "words": [
+    "quarantine",
+    "aspire",
+    "cramped",
+    "disoriented",
+    "strive",
+    "ancestry",
+    "dwelling",
+    "steerage",
+    "inspector",
+    "uncertainty",
+    "anticipation",
+    "embark"
+  ],
+  "sources": [
+    "Common Core Grade 7",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "voyage to a new land",
+  "story": {
+    "genre": "voyage to a new land",
+    "characters": [
+      "Katya",
+      "Emeka",
+      "Lucas"
+    ],
+    "parts": [
+      {
+        "title": "The Departure",
+        "text": "Katya's family had saved for three years to **embark** on the steamship that would carry them across the ocean. Standing on the crowded pier, she felt a rush of **anticipation** mixed with fear. They could only afford **steerage**, the lowest passenger deck, far beneath the glittering cabins where wealthy travelers slept. \"We **aspire** to something better than this,\" he told her, \"and one day we will reach it.\""
+      },
+      {
+        "title": "Below Deck",
+        "text": "The bunks were **cramped**, stacked three high with barely room to roll over. Katya soon met Emeka, a boy from a fishing village, and Lucas, who was traveling alone to join his uncle. At night the three traded stories about their **ancestry**, the grandparents and great-grandparents whose lives had shaped their own. When a storm tossed the ship for two days, Lucas felt **disoriented**, unable to tell which way was up in the darkness. The **uncertainty** in every whisper was louder than the wind: would the new country welcome them?"
+      },
+      {
+        "title": "The Harbor",
+        "text": "On the eighteenth morning, land rose out of the mist. An **inspector** in a gray coat came aboard and examined every passenger for signs of illness. Because several children had fevers, the ship was held in **quarantine** for four more days, anchored within sight of the city but forbidden to land. Katya stared at rows of chimneys and lit windows, each one a **dwelling** where a family was safe and warm. Emeka folded his arms and promised to **strive** every day until his own family owned one."
+      },
+      {
+        "title": "A New Chapter",
+        "text": "When the fevers finally passed, the three friends walked down the gangway together. Katya realized that courage is mostly a habit of taking the next step while you are still afraid."
+      }
+    ],
+    "wordCount": 276
+  },
+  "definitions": [
+    {
+      "word": "quarantine",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A period of isolation for people or animals that might carry a disease, used to keep it from spreading. Example: The travelers spent a week in quarantine before they were allowed into the city.",
+      "meaning2": "To keep a person or group apart from others to stop an illness from spreading. Example: Doctors had to quarantine the sick passengers on a separate deck.",
+      "studentChallenge": "After the outbreak, the ship was held in ___ for several days.",
+      "sentence": ""
+    },
+    {
+      "word": "aspire",
+      "partOfSpeech": "verb",
+      "meaning1": "To have a strong hope or goal of achieving something great. Example: Priya aspires to become an astronaut and studies the stars every night.",
+      "meaning2": "",
+      "studentChallenge": "Many young musicians ___ to play in a famous orchestra someday.",
+      "sentence": ""
+    },
+    {
+      "word": "cramped",
+      "partOfSpeech": "adjective",
+      "meaning1": "Too small and crowded to be comfortable. Example: Six of us squeezed into the cramped back seat of the car.",
+      "meaning2": "",
+      "studentChallenge": "The ___ attic left no room to stand up straight.",
+      "sentence": ""
+    },
+    {
+      "word": "disoriented",
+      "partOfSpeech": "adjective",
+      "meaning1": "Confused about where you are or which direction you are facing. Example: After the long flight, I felt disoriented and could not tell what time it was.",
+      "meaning2": "",
+      "studentChallenge": "She woke up in the dark feeling ___ and could not find the door.",
+      "sentence": ""
+    },
+    {
+      "word": "strive",
+      "partOfSpeech": "verb",
+      "meaning1": "To try very hard to reach a goal. Example: Good athletes strive to improve a little every day.",
+      "meaning2": "",
+      "studentChallenge": "We should ___ to be fair to everyone, even when it is hard.",
+      "sentence": ""
+    },
+    {
+      "word": "ancestry",
+      "partOfSpeech": "noun",
+      "meaning1": "The family line and background that come from people who lived long ago. Example: Using old records, Leo traced his ancestry to a fishing village on the coast.",
+      "meaning2": "",
+      "studentChallenge": "She was proud of her ___ and the traditions her great-grandparents had kept alive.",
+      "sentence": ""
+    },
+    {
+      "word": "dwelling",
+      "partOfSpeech": "noun",
+      "meaning1": "A place where people live, such as a house or an apartment. Example: The tiny dwelling had one room, a stove and a window facing the sea.",
+      "meaning2": "",
+      "studentChallenge": "Every ___ on the hillside had a clay roof and a small garden.",
+      "sentence": ""
+    },
+    {
+      "word": "steerage",
+      "partOfSpeech": "noun",
+      "meaning1": "In the past, the cheapest and most crowded part of a passenger ship. Example: Families in steerage shared one large room with dozens of strangers.",
+      "meaning2": "",
+      "studentChallenge": "Because tickets were cheap, many immigrants rode in ___, deep in the hull.",
+      "sentence": ""
+    },
+    {
+      "word": "inspector",
+      "partOfSpeech": "noun",
+      "meaning1": "A person whose job is to examine something closely to make sure it follows the rules. Example: The health inspector checked the kitchen for clean counters and fresh food.",
+      "meaning2": "A police officer of fairly high rank, especially in Britain. Example: The inspector questioned the witnesses at the scene of the robbery.",
+      "studentChallenge": "The safety ___ checked every ladder before the fair opened.",
+      "sentence": ""
+    },
+    {
+      "word": "uncertainty",
+      "partOfSpeech": "noun",
+      "meaning1": "A feeling of not knowing what will happen or what to do. Example: She waited for the test results with growing uncertainty.",
+      "meaning2": "Something that is not known or not settled. Example: The weather was the biggest uncertainty for the outdoor wedding.",
+      "studentChallenge": "He spoke with ___ in his voice because he did not know the answer.",
+      "sentence": ""
+    },
+    {
+      "word": "anticipation",
+      "partOfSpeech": "noun",
+      "meaning1": "The excited feeling of waiting for something to happen. Example: The children's anticipation grew as the curtain began to rise.",
+      "meaning2": "The act of expecting something and preparing for it ahead of time. Example: The town stocked up on salt in anticipation of the storm.",
+      "studentChallenge": "She could hardly sleep because of her ___ before the big trip.",
+      "sentence": ""
+    },
+    {
+      "word": "embark",
+      "partOfSpeech": "verb",
+      "meaning1": "To go onto a ship or plane, or to start a journey. Example: Passengers embark at the harbor at noon.",
+      "meaning2": "To begin a big project or a new stage of life. Example: Nora decided to embark on a plan to learn three languages.",
+      "studentChallenge": "The explorers will ___ on their voyage at dawn.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Anyone who might carry the fever had to spend ten days in _______ before entering the city.",
+      "sentence2": "The sick cattle were kept in _______ so the rest of the herd would stay healthy.",
+      "options": [
+        "embark",
+        "disoriented",
+        "quarantine",
+        "ancestry"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "quarantine"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Many children in the village _______ to become doctors one day.",
+      "sentence2": "I _______ to be a pilot, so I read every book about airplanes that I can find.",
+      "options": [
+        "aspire",
+        "ancestry",
+        "inspector",
+        "dwelling"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "aspire"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Six of us shared a _______ room with one tiny window.",
+      "sentence2": "The bus was so _______ that I could barely move my elbows.",
+      "options": [
+        "disoriented",
+        "uncertainty",
+        "dwelling",
+        "cramped"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "cramped"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "After spinning in circles, the children felt dizzy and _______.",
+      "sentence2": "The traveler woke up _______ in a strange room, unsure where he was.",
+      "options": [
+        "quarantine",
+        "disoriented",
+        "inspector",
+        "anticipation"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "disoriented"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Good students _______ to do their best, even on days when the work feels dull.",
+      "sentence2": "Doctors _______ to protect every patient they treat.",
+      "options": [
+        "dwelling",
+        "uncertainty",
+        "cramped",
+        "strive"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "strive"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Nadia traced her _______ back six generations to a mountain village.",
+      "sentence2": "The museum exhibit let visitors learn about their family _______.",
+      "options": [
+        "uncertainty",
+        "ancestry",
+        "embark",
+        "cramped"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "ancestry"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The nomads' simple _______ was a tent made of felt and wool.",
+      "sentence2": "Each _______ along the river had a small garden in front.",
+      "options": [
+        "dwelling",
+        "ancestry",
+        "steerage",
+        "quarantine"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "dwelling"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Passengers in _______ slept on narrow bunks deep in the ship's hull.",
+      "sentence2": "A ticket for _______ cost far less than a cabin with a window.",
+      "options": [
+        "anticipation",
+        "ancestry",
+        "steerage",
+        "inspector"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "steerage"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The health _______ checked the kitchen for clean counters and fresh food.",
+      "sentence2": "The building _______ climbed the bridge to look for cracks in the steel.",
+      "options": [
+        "quarantine",
+        "inspector",
+        "uncertainty",
+        "dwelling"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "inspector"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "There was great _______ about whether the bridge would open before winter.",
+      "sentence2": "She answered in a nervous voice full of _______.",
+      "options": [
+        "ancestry",
+        "dwelling",
+        "inspector",
+        "uncertainty"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "uncertainty"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The children waited in happy _______ for the first fireworks to light the sky.",
+      "sentence2": "Shoppers lined up outside the store in _______ of the big sale.",
+      "options": [
+        "cramped",
+        "strive",
+        "anticipation",
+        "quarantine"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "anticipation"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The explorers will _______ on a ship bound for the northern coast at dawn.",
+      "sentence2": "She was ready to _______ on the biggest project of her career.",
+      "options": [
+        "embark",
+        "strive",
+        "aspire",
+        "steerage"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "embark"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "quarantine",
+      "aspire",
+      "cramped",
+      "disoriented",
+      "strive",
+      "ancestry",
+      "dwelling",
+      "steerage",
+      "inspector",
+      "uncertainty",
+      "anticipation",
+      "embark"
+    ],
+    "passage": "Years later, Emeka told his grandchildren about the day his family decided to _(1)_ on the long voyage. They had little money, so they traveled in _(2)_, the lowest deck of the ship. The bunks were _(3)_, and a storm left many passengers feeling _(4)_ and seasick. Everyone shared a deep _(5)_ about what lay ahead, but there was joyful _(6)_ each time someone spotted a gull and guessed that land was near.\n\nWhen the ship reached the harbor, a stern _(7)_ boarded to check each person's health. Sick passengers had to remain in _(8)_ for several days. Emeka often spoke of his _(9)_ and the proud traditions of the people who came before him. As a boy, he had dared to _(10)_ to become a builder, and he worked to _(11)_ toward that goal every single day. \"Now,\" he said, tapping the walls of the house he had built himself, \"this is the _(12)_ I once only imagined.\"",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "embark",
+        "options": [
+          "quarantine",
+          "steerage",
+          "aspire",
+          "embark"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "steerage",
+        "options": [
+          "steerage",
+          "quarantine",
+          "dwelling",
+          "inspector"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "cramped",
+        "options": [
+          "embark",
+          "ancestry",
+          "cramped",
+          "inspector"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "disoriented",
+        "options": [
+          "steerage",
+          "disoriented",
+          "inspector",
+          "aspire"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "uncertainty",
+        "options": [
+          "steerage",
+          "uncertainty",
+          "ancestry",
+          "cramped"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "anticipation",
+        "options": [
+          "dwelling",
+          "inspector",
+          "ancestry",
+          "anticipation"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "inspector",
+        "options": [
+          "inspector",
+          "ancestry",
+          "dwelling",
+          "uncertainty"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "quarantine",
+        "options": [
+          "inspector",
+          "dwelling",
+          "quarantine",
+          "embark"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "ancestry",
+        "options": [
+          "dwelling",
+          "steerage",
+          "strive",
+          "ancestry"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "aspire",
+        "options": [
+          "aspire",
+          "cramped",
+          "inspector",
+          "dwelling"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "strive",
+        "options": [
+          "ancestry",
+          "strive",
+          "steerage",
+          "quarantine"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "dwelling",
+        "options": [
+          "ancestry",
+          "steerage",
+          "dwelling",
+          "quarantine"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "cramped",
+        "scale": [
+          "Tight",
+          "Cramped",
+          "Suffocating"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "disoriented",
+        "scale": [
+          "Puzzled",
+          "Confused",
+          "Disoriented"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "strive",
+        "scale": [
+          "Try",
+          "Strive",
+          "Strain"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "anticipation",
+        "scale": [
+          "Curiosity",
+          "Anticipation",
+          "Excitement"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "quarantine",
+        "words": [
+          "Isolation",
+          "Separation",
+          "Seclusion",
+          "Freedom"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Freedom"
+      },
+      {
+        "vocabWord": "cramped",
+        "words": [
+          "Roomy",
+          "Tight",
+          "Crowded",
+          "Packed"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Roomy"
+      },
+      {
+        "vocabWord": "disoriented",
+        "words": [
+          "Confused",
+          "Clear-headed",
+          "Dazed",
+          "Bewildered"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Clear-headed"
+      },
+      {
+        "vocabWord": "ancestry",
+        "words": [
+          "Heritage",
+          "Lineage",
+          "Descendants",
+          "Roots"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Descendants"
+      },
+      {
+        "vocabWord": "uncertainty",
+        "words": [
+          "Doubt",
+          "Confidence",
+          "Hesitation",
+          "Indecision"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Confidence"
+      },
+      {
+        "vocabWord": "anticipation",
+        "words": [
+          "Expectation",
+          "Eagerness",
+          "Excitement",
+          "Indifference"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Indifference"
+      },
+      {
+        "vocabWord": "embark",
+        "words": [
+          "Begin",
+          "Depart",
+          "Launch",
+          "Arrive"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Arrive"
+      },
+      {
+        "vocabWord": "dwelling",
+        "words": [
+          "Wilderness",
+          "Home",
+          "Residence",
+          "Abode"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Wilderness"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

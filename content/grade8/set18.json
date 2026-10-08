@@ -1,0 +1,578 @@
+{
+  "grade": 8,
+  "setNumber": 18,
+  "words": [
+    "deforestation",
+    "lobby",
+    "sustainable",
+    "consumption",
+    "mitigate",
+    "extraction",
+    "initiative",
+    "activism",
+    "preservation",
+    "overfishing",
+    "contamination",
+    "conservation"
+  ],
+  "sources": [
+    "Common Core Grade 8",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "environmental activism",
+  "story": {
+    "genre": "environmental activism",
+    "characters": [
+      "Willa",
+      "Sanjay",
+      "Noemi"
+    ],
+    "parts": [
+      {
+        "title": "A River in Trouble",
+        "text": "Willa grew up beside the Marlow River, so she noticed when the fishing contests grew quiet. Her science class tested the water and found **contamination**: runoff from a gravel pit had clouded the stream with silt. Upstream, bare hillsides showed the effects of **deforestation**, since bare soil washes into rivers. Yet the town's economy leaned on **extraction**, the removal of sand and gravel, and nobody wanted to blame its workers."
+      },
+      {
+        "title": "Hearing Both Sides",
+        "text": "Sanjay proposed a school **initiative**, a project they could start themselves. Noemi, whose uncle worked at the pit, worried they would be unfair. \"Real **activism** begins with honest facts,\" she said, \"not blame.\" So they interviewed the pit manager, a fisherman and a town engineer. The manager welcomed cleaner methods. The fisherman explained how **overfishing** and silt together had thinned the trout. The engineer described how towns could **mitigate** damage, softening its effects, with trees and settling ponds."
+      },
+      {
+        "title": "Making a Plan",
+        "text": "The students wrote a proposal built around **sustainable** practices, meaning ones that can continue without using up resources. It included replanting trees, limiting the catch during spawning season, and trimming the school's water **consumption**. Willa would **lobby** the town council, trying to persuade its members to fund the plan. She thanked the pit manager by name. The council approved money to study **conservation** of the riverbank, the careful management of its resources, and the **preservation** of an old woodland, kept untouched."
+      },
+      {
+        "title": "A Slow Victory",
+        "text": "The plan did not solve everything, and some neighbors still disagreed about how fast to move. But by spring the first saplings were rooted along the bank, and the pit was testing a cleaner washing system. Willa learned that change rarely comes from one loud moment. It comes from listening, checking facts, and returning again and again, even when you do not get everything you asked for."
+      }
+    ],
+    "wordCount": 296
+  },
+  "definitions": [
+    {
+      "word": "deforestation",
+      "partOfSpeech": "noun",
+      "meaning1": "The clearing or cutting down of forests on a large scale. Example: Deforestation left the hillside bare, and the soil washed away in the first heavy rain.",
+      "meaning2": "",
+      "studentChallenge": "Cutting down thousands of acres of trees is called ___.",
+      "sentence": ""
+    },
+    {
+      "word": "lobby",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To try to persuade lawmakers or officials to support a cause. Example: Parents plan to lobby the council to build a new skate park.",
+      "meaning2": "An entrance hall or waiting area in a building. Example: We waited in the hotel lobby until our room was ready.",
+      "studentChallenge": "Local farmers will ___ the state government to protect the creek.",
+      "sentence": ""
+    },
+    {
+      "word": "sustainable",
+      "partOfSpeech": "adjective",
+      "meaning1": "Able to continue over a long time without using up resources or causing serious harm. Example: Solar panels offer a sustainable source of power.",
+      "meaning2": "Able to be kept going at the same level. Example: Their frantic training pace was not sustainable for a whole season.",
+      "studentChallenge": "Planting a tree for every one we cut down is a more ___ way to harvest wood.",
+      "sentence": ""
+    },
+    {
+      "word": "consumption",
+      "partOfSpeech": "noun",
+      "meaning1": "The using up of resources such as food, energy or water. Example: Our household's water consumption dropped after we fixed the leaking pipes.",
+      "meaning2": "The act of eating or drinking. Example: A warning label said the berries were unsafe for human consumption.",
+      "studentChallenge": "The town's electricity ___ rises every summer when air conditioners run all day.",
+      "sentence": ""
+    },
+    {
+      "word": "mitigate",
+      "partOfSpeech": "verb",
+      "meaning1": "To make something less severe, harmful or painful. Example: Planting trees along the bank can mitigate the damage caused by floods.",
+      "meaning2": "",
+      "studentChallenge": "Wearing a helmet can ___ the danger of a fall.",
+      "sentence": ""
+    },
+    {
+      "word": "extraction",
+      "partOfSpeech": "noun",
+      "meaning1": "The process of taking something out, often from the earth. Example: The extraction of coal changed the shape of the valley.",
+      "meaning2": "The removal of something, such as a tooth. Example: After the extraction, the dentist gave him an ice pack.",
+      "studentChallenge": "The ___ of oil from deep underground requires powerful machinery.",
+      "sentence": ""
+    },
+    {
+      "word": "initiative",
+      "partOfSpeech": "noun",
+      "meaning1": "A new plan or project begun to solve a problem. Example: The school's recycling initiative cut its weekly trash in half.",
+      "meaning2": "The ability to act on your own without being told what to do. Example: She showed initiative by cleaning the lab before anyone asked.",
+      "studentChallenge": "The student council launched an ___ to collect used books for the library.",
+      "sentence": ""
+    },
+    {
+      "word": "activism",
+      "partOfSpeech": "noun",
+      "meaning1": "The use of action, such as campaigns or peaceful protests, to bring about social or political change. Example: Her activism began with a petition to save the neighborhood park.",
+      "meaning2": "",
+      "studentChallenge": "Letter-writing campaigns and peaceful marches are common forms of ___.",
+      "sentence": ""
+    },
+    {
+      "word": "preservation",
+      "partOfSpeech": "noun",
+      "meaning1": "The act of keeping something safe and unchanged. Example: Preservation of the old theater required careful repairs and years of fundraising.",
+      "meaning2": "Protection from decay or spoilage. Example: Salt was once used for the preservation of meat.",
+      "studentChallenge": "The ___ of the ancient manuscript required a cool, dry room.",
+      "sentence": ""
+    },
+    {
+      "word": "overfishing",
+      "partOfSpeech": "noun",
+      "meaning1": "Catching fish faster than their populations can recover. Example: Overfishing nearly wiped out the cod in the bay.",
+      "meaning2": "",
+      "studentChallenge": "Strict limits on the yearly catch were set to prevent ___ in the northern sea.",
+      "sentence": ""
+    },
+    {
+      "word": "contamination",
+      "partOfSpeech": "noun",
+      "meaning1": "The presence of a harmful substance that makes something dirty or unsafe. Example: Contamination of the village well forced families to boil their drinking water.",
+      "meaning2": "",
+      "studentChallenge": "Inspectors found ___ in the lab samples and threw them all away.",
+      "sentence": ""
+    },
+    {
+      "word": "conservation",
+      "partOfSpeech": "noun",
+      "meaning1": "The careful protection and wise use of natural resources. Example: Conservation efforts helped the wetland recover.",
+      "meaning2": "The saving of something from loss or waste. Example: Water conservation became important during the long drought.",
+      "studentChallenge": "Volunteers joined a wildlife ___ project to protect the wetland.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "_______ of the mountainside left it bare of trees, and the soil washed into the stream.",
+      "sentence2": "Scientists link widespread _______ to the loss of homes for countless birds and monkeys.",
+      "options": [
+        "contamination",
+        "deforestation",
+        "overfishing",
+        "extraction"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "deforestation"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Parents plan to _______ the council to build a new skate park.",
+      "sentence2": "Please wait in the hotel _______ until your room is ready.",
+      "options": [
+        "lobby",
+        "initiative",
+        "mitigate",
+        "preservation"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "lobby"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Solar panels offer a _______ source of power that will not run out.",
+      "sentence2": "The team's frantic training pace was not _______ for a full season.",
+      "options": [
+        "consumption",
+        "initiative",
+        "mitigate",
+        "sustainable"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "sustainable"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Our household's water _______ dropped after we fixed the leaking pipes.",
+      "sentence2": "A warning label said the berries were unsafe for human _______.",
+      "options": [
+        "contamination",
+        "conservation",
+        "consumption",
+        "extraction"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "consumption"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Planting trees along the bank can _______ the damage caused by floods.",
+      "sentence2": "Soft cushions helped _______ the pain of the long bus ride.",
+      "options": [
+        "lobby",
+        "mitigate",
+        "sustainable",
+        "activism"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "mitigate"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The _______ of sand and gravel changed the shape of the river valley.",
+      "sentence2": "After the _______ of the sore tooth, the dentist gave him an ice pack.",
+      "options": [
+        "extraction",
+        "preservation",
+        "contamination",
+        "deforestation"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "extraction"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The school's recycling _______ cut its weekly trash in half.",
+      "sentence2": "She showed real _______ by cleaning the lab before anyone asked.",
+      "options": [
+        "activism",
+        "conservation",
+        "consumption",
+        "initiative"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "initiative"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Her _______ began with a petition to save the neighborhood park.",
+      "sentence2": "Student _______, from marches to letter campaigns, has helped shape many laws.",
+      "options": [
+        "initiative",
+        "lobby",
+        "activism",
+        "preservation"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "activism"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "_______ of the old theater required careful repairs and years of fundraising.",
+      "sentence2": "Salt was once used for the _______ of meat before refrigerators existed.",
+      "options": [
+        "extraction",
+        "preservation",
+        "consumption",
+        "deforestation"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "preservation"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "_______ nearly wiped out the cod in the bay within a decade.",
+      "sentence2": "Limits on the yearly catch were created to stop _______ in the northern sea.",
+      "options": [
+        "overfishing",
+        "deforestation",
+        "contamination",
+        "extraction"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "overfishing"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "_______ of the village well forced families to boil their drinking water.",
+      "sentence2": "Inspectors found _______ in the lab's samples and threw them all away.",
+      "options": [
+        "conservation",
+        "consumption",
+        "extraction",
+        "contamination"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "contamination"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Water _______ became a priority during the long drought.",
+      "sentence2": "Volunteers joined a wildlife _______ project to protect the wetland.",
+      "options": [
+        "consumption",
+        "overfishing",
+        "conservation",
+        "extraction"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "conservation"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "deforestation",
+      "lobby",
+      "sustainable",
+      "consumption",
+      "mitigate",
+      "extraction",
+      "initiative",
+      "activism",
+      "preservation",
+      "overfishing",
+      "contamination",
+      "conservation"
+    ],
+    "passage": "Noemi's uncle likes to say that his town changed in his lifetime. When he was a boy, the hills were thick with trees, but years of _(1)_ left them bare and brown. The _(2)_ of gravel from the pit brought jobs, yet it also stirred up silt that clouded the river. Soon _(3)_ of the water made the swimming hole unsafe, and the trout grew scarce, partly because of _(4)_ in the lake downstream.\n\nThe town did not give up. A group of neighbors started an _(5)_ to clean the banks, and they proudly called their work _(6)_, even though some friends laughed at it. They learned to _(7)_ the council in person, explaining their ideas calmly. They asked for rules that were _(8)_, meaning they could last for decades without using up resources. They also asked the town to cut its water _(9)_ and to _(10)_ the harm already done by planting willows along the bank.\n\nIn the end, the council agreed to fund the _(11)_ of the oldest grove, left untouched, and the long-term _(12)_ of the river, with careful rules for how it is used.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "deforestation",
+        "options": [
+          "consumption",
+          "activism",
+          "deforestation",
+          "initiative"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "extraction",
+        "options": [
+          "activism",
+          "extraction",
+          "conservation",
+          "initiative"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "contamination",
+        "options": [
+          "contamination",
+          "preservation",
+          "lobby",
+          "activism"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "overfishing",
+        "options": [
+          "preservation",
+          "overfishing",
+          "extraction",
+          "activism"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "initiative",
+        "options": [
+          "initiative",
+          "sustainable",
+          "mitigate",
+          "lobby"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "activism",
+        "options": [
+          "contamination",
+          "extraction",
+          "mitigate",
+          "activism"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "lobby",
+        "options": [
+          "mitigate",
+          "lobby",
+          "preservation",
+          "sustainable"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "sustainable",
+        "options": [
+          "sustainable",
+          "mitigate",
+          "lobby",
+          "extraction"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "consumption",
+        "options": [
+          "overfishing",
+          "mitigate",
+          "lobby",
+          "consumption"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "mitigate",
+        "options": [
+          "lobby",
+          "sustainable",
+          "mitigate",
+          "consumption"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "preservation",
+        "options": [
+          "deforestation",
+          "overfishing",
+          "preservation",
+          "extraction"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "conservation",
+        "options": [
+          "lobby",
+          "mitigate",
+          "consumption",
+          "conservation"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "contamination",
+        "scale": [
+          "Dirt",
+          "Contamination",
+          "Poisoning"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "mitigate",
+        "scale": [
+          "Soften",
+          "Mitigate",
+          "Eliminate"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "deforestation",
+        "scale": [
+          "Trimming",
+          "Logging",
+          "Deforestation"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "preservation",
+        "scale": [
+          "Upkeep",
+          "Conservation",
+          "Preservation"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "sustainable",
+        "words": [
+          "Renewable",
+          "Wasteful",
+          "Lasting",
+          "Maintainable"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Wasteful"
+      },
+      {
+        "vocabWord": "lobby",
+        "words": [
+          "Ignore",
+          "Persuade",
+          "Campaign",
+          "Urge"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Ignore"
+      },
+      {
+        "vocabWord": "mitigate",
+        "words": [
+          "Lessen",
+          "Reduce",
+          "Ease",
+          "Worsen"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Worsen"
+      },
+      {
+        "vocabWord": "initiative",
+        "words": [
+          "Enterprise",
+          "Drive",
+          "Passivity",
+          "Ambition"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Passivity"
+      },
+      {
+        "vocabWord": "activism",
+        "words": [
+          "Advocacy",
+          "Apathy",
+          "Campaigning",
+          "Protest"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Apathy"
+      },
+      {
+        "vocabWord": "contamination",
+        "words": [
+          "Purity",
+          "Pollution",
+          "Impurity",
+          "Poisoning"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Purity"
+      },
+      {
+        "vocabWord": "conservation",
+        "words": [
+          "Protection",
+          "Safeguarding",
+          "Stewardship",
+          "Destruction"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Destruction"
+      },
+      {
+        "vocabWord": "deforestation",
+        "words": [
+          "Clearing",
+          "Logging",
+          "Reforestation",
+          "Felling"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Reforestation"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

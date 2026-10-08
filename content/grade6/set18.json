@@ -1,0 +1,577 @@
+{
+  "grade": 6,
+  "setNumber": 18,
+  "words": [
+    "extinct",
+    "poach",
+    "rehabilitate",
+    "vulnerable",
+    "encroach",
+    "captive",
+    "endanger",
+    "wetland",
+    "reserve",
+    "conservationist",
+    "safeguard",
+    "migration"
+  ],
+  "sources": [
+    "Common Core Grade 6",
+    "Tier 2 Academic"
+  ],
+  "genre": "wildlife conservation",
+  "story": {
+    "genre": "wildlife conservation",
+    "characters": [
+      "Zaid",
+      "Hollis",
+      "Emi"
+    ],
+    "parts": [
+      {
+        "title": "A Summer in the Marsh",
+        "text": "Zaid, Hollis, and Emi spent the summer at a coastal nature center, helping Dr. Mbeki, a **conservationist** who protected rare birds. On the first morning she led them across a quiet **wetland** where reeds swayed over shallow water. \"Marsh cranes are **vulnerable**,\" she told them. \"Too few chicks survive, and if we fail them, the species could become **extinct**, gone forever like the dodo.\""
+      },
+      {
+        "title": "Dangers Near and Far",
+        "text": "Emi learned that some people **poach** crane eggs and sell them illegally. Hollis pointed to the bulldozers beyond the fence, where a new housing project had begun to **encroach** on the edge of the marsh. \"Every acre we lose could **endanger** more birds,\" Dr. Mbeki said. Inside the clinic, a crane with a bent wing rested on soft straw. The team would **rehabilitate** her, feeding her fish and exercising her wing. For now she was **captive**, but only until she was strong enough to fly."
+      },
+      {
+        "title": "Back to the Sky",
+        "text": "In October, the healed crane was released at the **reserve**, a protected area where hunting was banned. Zaid fitted her with a tiny tracker so scientists could follow her and **safeguard** her route. Then the whole flock rose together and began its yearly **migration** south, their calls echoing across the water."
+      },
+      {
+        "title": "What Hollis Understood",
+        "text": "Hollis wiped his eyes and laughed. Saving a species, he realized, did not take magic. It took patience, careful work, and people who refused to look away. The three friends promised to return next summer and to bring more volunteers with them."
+      }
+    ],
+    "wordCount": 242
+  },
+  "definitions": [
+    {
+      "word": "extinct",
+      "partOfSpeech": "adjective",
+      "meaning1": "No longer existing; having died out completely. Example: Dinosaurs became extinct millions of years ago.",
+      "meaning2": "No longer active, as a volcano that will not erupt again. Example: The village sits at the foot of an extinct volcano.",
+      "studentChallenge": "Scientists work hard so that no more species become ___.",
+      "sentence": ""
+    },
+    {
+      "word": "poach",
+      "partOfSpeech": "verb",
+      "meaning1": "To hunt or catch animals illegally. Example: Rangers patrol the park to stop people who poach elephants.",
+      "meaning2": "To cook food gently in simmering liquid. Example: She learned to poach eggs in hot water.",
+      "studentChallenge": "It is against the law to ___ fish from a protected lake.",
+      "sentence": ""
+    },
+    {
+      "word": "rehabilitate",
+      "partOfSpeech": "verb",
+      "meaning1": "To help a sick, injured, or troubled person or animal return to good health or normal life. Example: Volunteers rehabilitate injured owls before setting them free.",
+      "meaning2": "To restore something to good condition. Example: The city plans to rehabilitate the old theater.",
+      "studentChallenge": "The clinic's goal is to ___ the injured seal so it can swim again.",
+      "sentence": ""
+    },
+    {
+      "word": "vulnerable",
+      "partOfSpeech": "adjective",
+      "meaning1": "Easy to harm, attack, or hurt; lacking protection. Example: Newborn turtles are vulnerable to hungry gulls.",
+      "meaning2": "",
+      "studentChallenge": "Without a strong fence, the garden is ___ to hungry rabbits.",
+      "sentence": ""
+    },
+    {
+      "word": "encroach",
+      "partOfSpeech": "verb",
+      "meaning1": "To slowly take over land or space that belongs to someone else. Example: Weeds began to encroach on the neighbor's garden.",
+      "meaning2": "To gradually go beyond proper limits. Example: Do not let homework encroach on your sleep time.",
+      "studentChallenge": "The ocean waves slowly ___ on the beach, taking more sand each year.",
+      "sentence": ""
+    },
+    {
+      "word": "captive",
+      "partOfSpeech": "adjective, noun",
+      "meaning1": "Held in a cage or other place and unable to escape. Example: The captive eagle paced in its enclosure.",
+      "meaning2": "A person or animal that is held and cannot leave. Example: The explorers freed the captive from the locked cabin.",
+      "studentChallenge": "The ___ lion paced back and forth behind the tall bars.",
+      "sentence": ""
+    },
+    {
+      "word": "endanger",
+      "partOfSpeech": "verb",
+      "meaning1": "To put someone or something in a situation where harm or loss might happen. Example: Pollution can endanger fish and the birds that eat them.",
+      "meaning2": "",
+      "studentChallenge": "Driving too fast can ___ everyone on the road.",
+      "sentence": ""
+    },
+    {
+      "word": "wetland",
+      "partOfSpeech": "noun",
+      "meaning1": "An area of land covered with shallow water or soaked soil, such as a marsh or swamp. Example: Frogs, herons, and dragonflies live in the wetland.",
+      "meaning2": "",
+      "studentChallenge": "Ducks nest in the tall grass of the ___.",
+      "sentence": ""
+    },
+    {
+      "word": "reserve",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A protected area of land set aside for wildlife. Example: Lions roam freely in the nature reserve.",
+      "meaning2": "To set something aside or save it for later. Example: Please reserve a table for six at the restaurant.",
+      "studentChallenge": "The park ranger led us on a tour of the wildlife ___.",
+      "sentence": ""
+    },
+    {
+      "word": "conservationist",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who works to protect nature, wildlife, and natural resources. Example: The conservationist taught farmers how to protect rivers and forests.",
+      "meaning2": "",
+      "studentChallenge": "A ___ planted trees along the riverbank to protect the soil.",
+      "sentence": ""
+    },
+    {
+      "word": "safeguard",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To protect something from harm or loss. Example: Strong locks and alarms safeguard the museum's paintings.",
+      "meaning2": "Something that protects against harm. Example: A helmet is a simple safeguard against head injuries.",
+      "studentChallenge": "Vaccines help ___ people against serious illness.",
+      "sentence": ""
+    },
+    {
+      "word": "migration",
+      "partOfSpeech": "noun",
+      "meaning1": "The regular movement of animals from one region to another, usually with the seasons. Example: Monarch butterflies make a long migration to warmer places each fall.",
+      "meaning2": "The movement of people from one place to live in another. Example: The migration of workers to the cities changed the country.",
+      "studentChallenge": "The geese began their yearly ___ as the days grew shorter.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The dodo bird became _______ hundreds of years ago, and no living one remains.",
+      "sentence2": "The village sits at the base of the _______ volcano that has not erupted in ten thousand years.",
+      "options": [
+        "vulnerable",
+        "captive",
+        "extinct",
+        "reserve"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "extinct"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Rangers patrol the park day and night to stop people who _______ elephants for their tusks.",
+      "sentence2": "For breakfast, Dad showed me how to _______ an egg gently in simmering water.",
+      "options": [
+        "poach",
+        "safeguard",
+        "endanger",
+        "migration"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "poach"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Volunteers work to _______ injured owls until they are healthy enough to fly.",
+      "sentence2": "The city plans to _______ the crumbling theater by repairing its roof and repainting its walls.",
+      "options": [
+        "safeguard",
+        "endanger",
+        "encroach",
+        "rehabilitate"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "rehabilitate"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Newborn turtles are _______ to hungry gulls as they crawl toward the sea.",
+      "sentence2": "Without a strong fence, the garden was _______ to every rabbit in the neighborhood.",
+      "options": [
+        "captive",
+        "vulnerable",
+        "extinct",
+        "migration"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "vulnerable"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Weeds began to _______ on the neighbor's garden, creeping under the fence.",
+      "sentence2": "Do not let video games _______ on the time you need for sleep.",
+      "options": [
+        "safeguard",
+        "encroach",
+        "endanger",
+        "rehabilitate"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "encroach"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The pirates kept their _______ in the dark hold of the ship until the ransom arrived.",
+      "sentence2": "The _______ lion could not escape and paced back and forth behind the bars.",
+      "options": [
+        "vulnerable",
+        "extinct",
+        "safeguard",
+        "captive"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "captive"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Driving too fast can _______ everyone on the road.",
+      "sentence2": "Dumping trash in the river will _______ the fish that live there.",
+      "options": [
+        "endanger",
+        "safeguard",
+        "rehabilitate",
+        "encroach"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "endanger"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Mud squelched under their boots as they waded across the soggy _______.",
+      "sentence2": "Cattails, frogs, and dragonflies thrive in a _______ because the ground stays soaked with water.",
+      "options": [
+        "reserve",
+        "migration",
+        "wetland",
+        "safeguard"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "wetland"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Lions roam freely in the wildlife _______, where hunting is banned.",
+      "sentence2": "Please _______ a table for six at the restaurant for Saturday night.",
+      "options": [
+        "safeguard",
+        "migration",
+        "wetland",
+        "reserve"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "reserve"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The _______ spent years teaching farmers how to protect rivers and forests.",
+      "sentence2": "A famous _______ visited our school to talk about saving the rainforest.",
+      "options": [
+        "migration",
+        "conservationist",
+        "wetland",
+        "reserve"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "conservationist"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Strong locks and alarms help _______ the museum's paintings.",
+      "sentence2": "Vaccines help _______ people against serious illness.",
+      "options": [
+        "rehabilitate",
+        "endanger",
+        "safeguard",
+        "poach"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "safeguard"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The geese began their yearly _______ south as the days grew shorter.",
+      "sentence2": "The _______ of workers into the cities changed the country in just a few decades.",
+      "options": [
+        "migration",
+        "conservationist",
+        "reserve",
+        "wetland"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "migration"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "extinct",
+      "poach",
+      "rehabilitate",
+      "vulnerable",
+      "encroach",
+      "captive",
+      "endanger",
+      "wetland",
+      "reserve",
+      "conservationist",
+      "safeguard",
+      "migration"
+    ],
+    "passage": "Mei's grandfather grew up beside a large _(1)_, a soggy land of reeds and shallow pools. He remembered flocks so thick that they hid the sun. Today, he said, the birds were _(2)_ to every danger because so few were left.\n\nA _(3)_ named Dr. Reyes came to town with a plan. Hunters who _(4)_ the rare birds had been a problem for years, and new roads were beginning to _(5)_ on the nesting grounds. \"If we do nothing, we will _(6)_ the whole species,\" she said. \"It might even become _(7)_, gone forever.\"\n\nHer team promised to _(8)_ injured birds, nursing them back to health so that no bird stays _(9)_ behind bars for long. The town voted to turn the marsh into a protected _(10)_ and to _(11)_ it with new fences and patrols. That spring, Mei watched the great _(12)_ begin as the first birds lifted off the water and soared toward the sunrise.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "wetland",
+        "options": [
+          "migration",
+          "conservationist",
+          "captive",
+          "wetland"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "vulnerable",
+        "options": [
+          "vulnerable",
+          "extinct",
+          "captive",
+          "reserve"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "conservationist",
+        "options": [
+          "wetland",
+          "migration",
+          "conservationist",
+          "reserve"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "poach",
+        "options": [
+          "safeguard",
+          "rehabilitate",
+          "encroach",
+          "poach"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "encroach",
+        "options": [
+          "endanger",
+          "encroach",
+          "safeguard",
+          "rehabilitate"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "endanger",
+        "options": [
+          "safeguard",
+          "rehabilitate",
+          "endanger",
+          "encroach"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "extinct",
+        "options": [
+          "extinct",
+          "vulnerable",
+          "captive",
+          "wetland"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "rehabilitate",
+        "options": [
+          "poach",
+          "endanger",
+          "rehabilitate",
+          "encroach"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "captive",
+        "options": [
+          "captive",
+          "extinct",
+          "vulnerable",
+          "reserve"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "reserve",
+        "options": [
+          "migration",
+          "conservationist",
+          "captive",
+          "reserve"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "safeguard",
+        "options": [
+          "poach",
+          "safeguard",
+          "endanger",
+          "encroach"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "migration",
+        "options": [
+          "wetland",
+          "migration",
+          "reserve",
+          "conservationist"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "extinct",
+        "scale": [
+          "Rare",
+          "Endangered",
+          "Extinct"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "vulnerable",
+        "scale": [
+          "Protected",
+          "Exposed",
+          "Vulnerable"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "endanger",
+        "scale": [
+          "Disturb",
+          "Threaten",
+          "Endanger"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "safeguard",
+        "scale": [
+          "Watch",
+          "Protect",
+          "Safeguard"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "poach",
+        "words": [
+          "Steal",
+          "Trap",
+          "Protect",
+          "Snare"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Protect"
+      },
+      {
+        "vocabWord": "rehabilitate",
+        "words": [
+          "Heal",
+          "Restore",
+          "Harm",
+          "Mend"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Harm"
+      },
+      {
+        "vocabWord": "encroach",
+        "words": [
+          "Intrude",
+          "Trespass",
+          "Retreat",
+          "Invade"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Retreat"
+      },
+      {
+        "vocabWord": "captive",
+        "words": [
+          "Caged",
+          "Confined",
+          "Free",
+          "Imprisoned"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Free"
+      },
+      {
+        "vocabWord": "conservationist",
+        "words": [
+          "Protector",
+          "Guardian",
+          "Destroyer",
+          "Preserver"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Destroyer"
+      },
+      {
+        "vocabWord": "migration",
+        "words": [
+          "Journey",
+          "Trek",
+          "Staying",
+          "Voyage"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Staying"
+      },
+      {
+        "vocabWord": "vulnerable",
+        "words": [
+          "Exposed",
+          "Defenseless",
+          "Protected",
+          "Helpless"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Protected"
+      },
+      {
+        "vocabWord": "extinct",
+        "words": [
+          "Vanished",
+          "Gone",
+          "Thriving",
+          "Lost"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Thriving"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

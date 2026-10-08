@@ -1,0 +1,578 @@
+{
+  "grade": 1,
+  "setNumber": 12,
+  "words": [
+    "billow",
+    "zigzag",
+    "tangle",
+    "tug",
+    "flap",
+    "loop",
+    "windy",
+    "breezy",
+    "yank",
+    "whoosh",
+    "whirl",
+    "flail"
+  ],
+  "sources": [
+    "Common Core Grade 1",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "windy kite day",
+  "story": {
+    "genre": "windy kite day",
+    "characters": [
+      "Tomas",
+      "Lily",
+      "Aziz"
+    ],
+    "parts": [
+      {
+        "title": "Kite Day",
+        "text": "It was a **windy** day at the park. Tomas, Lily, and Aziz brought a red kite. Lily’s coat began to **billow** like a sail. “Hold the string!” said Tomas. The kite began to **flap** in the air."
+      },
+      {
+        "title": "Up It Goes",
+        "text": "Aziz ran fast, and the kite went up with a **whoosh**. It began to **zigzag** across the sky. Then it started to **whirl** in a circle. Tomas felt a **tug** on the string."
+      },
+      {
+        "title": "A Tangle",
+        "text": "Oh no! The string began to **tangle**. It made a **loop** around Aziz’s foot. He began to **flail** his arms. Lily gave the string a **yank**, and it came free. Then the wind grew **breezy** and soft."
+      },
+      {
+        "title": "Back on the Grass",
+        "text": "The kite floated down to the grass. The friends sat down and ate a snack. “Next time we will hold on tighter,” said Aziz."
+      }
+    ],
+    "wordCount": 131
+  },
+  "definitions": [
+    {
+      "word": "billow",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To puff out and fill with air, like a sail. Example: The sheet will billow on the clothesline.",
+      "meaning2": "A big, rolling cloud. Example: A billow of steam came from the pot.",
+      "studentChallenge": "The flag began to ___ when the wind filled it.",
+      "sentence": ""
+    },
+    {
+      "word": "zigzag",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To go left, right, left, right in sharp turns. Example: The ant will zigzag across the path.",
+      "meaning2": "A line with sharp turns, like a Z. Example: She drew a zigzag on her paper.",
+      "studentChallenge": "The little bug will ___ across the sand.",
+      "sentence": ""
+    },
+    {
+      "word": "tangle",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To get twisted up in knots. Example: Long string can tangle if you drop it.",
+      "meaning2": "A messy knot. Example: There was a tangle of yarn in the basket.",
+      "studentChallenge": "Please do not let the cords ___ behind the desk.",
+      "sentence": ""
+    },
+    {
+      "word": "tug",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To pull on something with a quick, small pull. Example: I tug on the rope to ring the bell.",
+      "meaning2": "A quick pull. Example: She gave the rope a tug.",
+      "studentChallenge": "I felt a little ___ on my sleeve.",
+      "sentence": ""
+    },
+    {
+      "word": "flap",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To wave up and down, like wings. Example: Birds flap their wings to fly.",
+      "meaning2": "A loose piece that hangs down. Example: The flap of the tent was open.",
+      "studentChallenge": "The duck will ___ its wings and fly away.",
+      "sentence": ""
+    },
+    {
+      "word": "loop",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A shape like a circle made by a line or string. Example: Make a loop with the ribbon.",
+      "meaning2": "To make a circle shape. Example: I loop the string around the stick.",
+      "studentChallenge": "Make a ___ with the ribbon, like a circle.",
+      "sentence": ""
+    },
+    {
+      "word": "windy",
+      "partOfSpeech": "adjective",
+      "meaning1": "With a lot of wind. Example: It is a windy day, so hold your hat.",
+      "meaning2": "",
+      "studentChallenge": "It was so ___ that my hat blew away.",
+      "sentence": ""
+    },
+    {
+      "word": "breezy",
+      "partOfSpeech": "adjective",
+      "meaning1": "With a soft, gentle wind. Example: A breezy morning is nice for a walk.",
+      "meaning2": "",
+      "studentChallenge": "It was a cool, ___ day, and the leaves moved a little.",
+      "sentence": ""
+    },
+    {
+      "word": "yank",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To pull very hard and fast. Example: Dad had to yank the stuck door open.",
+      "meaning2": "A hard, fast pull. Example: With one yank, the box came open.",
+      "studentChallenge": "I had to ___ hard to get my boot off.",
+      "sentence": ""
+    },
+    {
+      "word": "whoosh",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "The sound of something moving fast through the air. Example: We heard a whoosh as the bike zoomed by.",
+      "meaning2": "To move fast with that sound. Example: The bike will whoosh past us.",
+      "studentChallenge": "The train went by with a loud ___.",
+      "sentence": ""
+    },
+    {
+      "word": "whirl",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To spin around and around fast. Example: Leaves whirl in the wind.",
+      "meaning2": "A fast spin. Example: The dancer did a whirl.",
+      "studentChallenge": "I like to ___ in a circle until I am dizzy.",
+      "sentence": ""
+    },
+    {
+      "word": "flail",
+      "partOfSpeech": "verb",
+      "meaning1": "To wave your arms or legs about in a wild way. Example: He had to flail his arms to keep from falling.",
+      "meaning2": "",
+      "studentChallenge": "The baby will ___ her arms and legs when she is happy.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The sheet on the line began to _______ like a big white sail.",
+      "sentence2": "Her long skirt will _______ when the wind fills it.",
+      "options": [
+        "zigzag",
+        "billow",
+        "yank",
+        "loop"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "billow"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The little ant will _______ across the path, left and right.",
+      "sentence2": "The road goes up the hill and will _______ back and forth.",
+      "options": [
+        "zigzag",
+        "tug",
+        "flail",
+        "yank"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "zigzag"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Long string can _______ into knots if you do not keep it neat.",
+      "sentence2": "Please do not let the cords _______ behind the desk.",
+      "options": [
+        "zigzag",
+        "flail",
+        "yank",
+        "tangle"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "tangle"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Give the rope a gentle _______ and the bell will ring.",
+      "sentence2": "I felt a quick _______ on my sleeve, and my sister said, “Come see!”",
+      "options": [
+        "windy",
+        "breezy",
+        "tug",
+        "whoosh"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "tug"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Birds _______ their wings to fly up into the sky.",
+      "sentence2": "The flag will _______ on top of the tall pole.",
+      "options": [
+        "tangle",
+        "flap",
+        "zigzag",
+        "windy"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "flap"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Make a _______ with the ribbon, like a circle.",
+      "sentence2": "The roller coaster goes around one big _______.",
+      "options": [
+        "loop",
+        "windy",
+        "whoosh",
+        "tug"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "loop"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "It was so _______ that my hat blew away.",
+      "sentence2": "The _______ day made the trees bend and sway.",
+      "options": [
+        "loop",
+        "tug",
+        "flail",
+        "windy"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "windy"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "A soft, _______ morning is nice for a walk.",
+      "sentence2": "It was a cool, _______ day, and the leaves gently moved.",
+      "options": [
+        "loop",
+        "whoosh",
+        "breezy",
+        "flap"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "breezy"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Dad had to _______ hard to open the stuck door.",
+      "sentence2": "I had to _______ the boot off my foot.",
+      "options": [
+        "whoosh",
+        "yank",
+        "zigzag",
+        "billow"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "yank"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "We heard a loud _______ as the bike zoomed by.",
+      "sentence2": "The train rushed past with a loud _______.",
+      "options": [
+        "whoosh",
+        "windy",
+        "flail",
+        "tangle"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "whoosh"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Leaves began to _______ around and around in the wind.",
+      "sentence2": "She likes to _______ in a circle until she gets dizzy.",
+      "options": [
+        "tangle",
+        "yank",
+        "breezy",
+        "whirl"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "whirl"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "He had to _______ his arms to stay on his feet on the ice.",
+      "sentence2": "The baby will _______ her arms and legs when she is happy.",
+      "options": [
+        "zigzag",
+        "billow",
+        "flail",
+        "loop"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "flail"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "billow",
+      "zigzag",
+      "tangle",
+      "tug",
+      "flap",
+      "loop",
+      "windy",
+      "breezy",
+      "yank",
+      "whoosh",
+      "whirl",
+      "flail"
+    ],
+    "passage": "Mei and Dad went to the beach on a _(1)_ day. Dad’s shirt began to _(2)_ like a sail. A big _(3)_ of air went by, and Mei’s hat flew off! Gulls spread their wings and _(4)_ over the water. A little crab began to _(5)_ across the sand.\n\nLater the wind was soft and _(6)_, so Mei sat down to play. She made a _(7)_ with a long rope. But the rope began to _(8)_ into knots. Mei felt a gentle _(9)_ when Dad took the other end. He gave the knot a hard and quick _(10)_, and it came loose. Sand began to _(11)_ around their feet, and Mei had to _(12)_ her arms to keep her balance.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "windy",
+        "options": [
+          "loop",
+          "tug",
+          "windy",
+          "whoosh"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "billow",
+        "options": [
+          "windy",
+          "zigzag",
+          "tangle",
+          "billow"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "whoosh",
+        "options": [
+          "whoosh",
+          "breezy",
+          "flail",
+          "windy"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "flap",
+        "options": [
+          "windy",
+          "flap",
+          "breezy",
+          "tangle"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "zigzag",
+        "options": [
+          "windy",
+          "breezy",
+          "zigzag",
+          "tangle"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "breezy",
+        "options": [
+          "loop",
+          "tug",
+          "whoosh",
+          "breezy"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "loop",
+        "options": [
+          "loop",
+          "windy",
+          "breezy",
+          "flail"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "tangle",
+        "options": [
+          "windy",
+          "tangle",
+          "breezy",
+          "whoosh"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "tug",
+        "options": [
+          "windy",
+          "breezy",
+          "tug",
+          "flail"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "yank",
+        "options": [
+          "windy",
+          "breezy",
+          "flail",
+          "yank"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "whirl",
+        "options": [
+          "whirl",
+          "windy",
+          "breezy",
+          "tug"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "flail",
+        "options": [
+          "windy",
+          "flail",
+          "breezy",
+          "billow"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "windy",
+        "scale": [
+          "Calm",
+          "Breezy",
+          "Windy"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "yank",
+        "scale": [
+          "Tug",
+          "Pull",
+          "Yank"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "breezy",
+        "scale": [
+          "Still",
+          "Breezy",
+          "Windy"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "flail",
+        "scale": [
+          "Wave",
+          "Flap",
+          "Flail"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "billow",
+        "words": [
+          "Puff",
+          "Swell",
+          "Shrink",
+          "Fill"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Shrink"
+      },
+      {
+        "vocabWord": "zigzag",
+        "words": [
+          "Twist",
+          "Wind",
+          "Curve",
+          "Go straight"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Go straight"
+      },
+      {
+        "vocabWord": "tangle",
+        "words": [
+          "Knot",
+          "Twist",
+          "Snarl",
+          "Untie"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Untie"
+      },
+      {
+        "vocabWord": "tug",
+        "words": [
+          "Pull",
+          "Drag",
+          "Push",
+          "Haul"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Push"
+      },
+      {
+        "vocabWord": "windy",
+        "words": [
+          "Gusty",
+          "Breezy",
+          "Calm",
+          "Blowy"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Calm"
+      },
+      {
+        "vocabWord": "whirl",
+        "words": [
+          "Spin",
+          "Twirl",
+          "Stay still",
+          "Swirl"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Stay still"
+      },
+      {
+        "vocabWord": "flap",
+        "words": [
+          "Wave",
+          "Flutter",
+          "Freeze",
+          "Beat"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Freeze"
+      },
+      {
+        "vocabWord": "yank",
+        "words": [
+          "Jerk",
+          "Pull",
+          "Snatch",
+          "Release"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Release"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

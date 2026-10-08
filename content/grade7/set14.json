@@ -1,0 +1,578 @@
+{
+  "grade": 7,
+  "setNumber": 14,
+  "words": [
+    "exhibit",
+    "gallery",
+    "sculpture",
+    "critique",
+    "contemplate",
+    "fresco",
+    "medium",
+    "artisan",
+    "craftsmanship",
+    "donation",
+    "collection",
+    "replica"
+  ],
+  "sources": [
+    "Common Core Grade 7",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "art museum visit",
+  "story": {
+    "genre": "art museum visit",
+    "characters": [
+      "Francesca",
+      "Obi",
+      "Tamar"
+    ],
+    "parts": [
+      {
+        "title": "Through the Doors",
+        "text": "On a rainy Friday, Ms. Rossi's class stepped into the city museum, where a new **exhibit** about Renaissance Italy had just opened. Francesca, a devoted sketcher, hurried into the first **gallery**, a long, hushed hall with polished floors. A bronze **sculpture** of a leaping horse stood in the center, and Obi circled it twice, searching for the seams."
+      },
+      {
+        "title": "Art Up Close",
+        "text": "In the next room, Tamar stopped before a **fresco** that had been carefully lifted from the wall of an old villa. The guide explained that the **artisan** who made it had painted on wet plaster, so every brushstroke had to be perfect. \"Plaster is a difficult **medium**,\" she said, \"because it dries in hours.\" The **craftsmanship** was so precise that Tamar could see individual eyelashes on the painted faces. Obi pointed to a clay horse that matched the bronze one exactly. \"That is a **replica**,\" the guide said. \"We made a copy so visitors may touch it.\""
+      },
+      {
+        "title": "Silent Minutes",
+        "text": "\"Every piece here arrived as a **donation**,\" the guide added, \"from families who wanted to share their **collection** with the city.\" Then she gave each student a stool and a challenge: **contemplate** a single painting for five silent minutes. Francesca chose a stormy seascape. Afterward everyone wrote a short **critique**, describing what worked, what puzzled them, and what they would change."
+      },
+      {
+        "title": "The Ride Home",
+        "text": "On the bus, Francesca noticed that her sketchbook was full of details she would have rushed past an hour earlier. Looking slowly, she realized, was a skill. Obi wanted to return with his little brother, and Tamar was already planning which painting to visit first. The rain had stopped, and the whole city looked like a picture waiting to be studied."
+      }
+    ],
+    "wordCount": 277
+  },
+  "definitions": [
+    {
+      "word": "exhibit",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A public display of art or objects. Example: The museum's new exhibit shows tools from ancient Egypt.",
+      "meaning2": "To show something to the public. Example: Local painters will exhibit their work at the town library.",
+      "studentChallenge": "The science museum's new ___ lets visitors touch a real meteorite.",
+      "sentence": ""
+    },
+    {
+      "word": "gallery",
+      "partOfSpeech": "noun",
+      "meaning1": "A room or building where art is displayed. Example: We wandered through a quiet gallery filled with portraits.",
+      "meaning2": "An upper level of seats in a theater or hall. Example: Students in the gallery could see the whole stage.",
+      "studentChallenge": "The painter hoped to hang her work in a downtown ___.",
+      "sentence": ""
+    },
+    {
+      "word": "sculpture",
+      "partOfSpeech": "noun",
+      "meaning1": "A three-dimensional work of art made by carving, shaping, or joining materials. Example: The sculpture of a whale was carved from a single block of marble.",
+      "meaning2": "The art of making such works. Example: She studied sculpture at college.",
+      "studentChallenge": "The artist spent months carving a ___ out of white marble.",
+      "sentence": ""
+    },
+    {
+      "word": "critique",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A careful judgment of a work that explains its strengths and weaknesses. Example: Her critique of the film praised the acting but questioned the ending.",
+      "meaning2": "To evaluate something in detail. Example: Classmates will critique each other's essays.",
+      "studentChallenge": "After reading the story, she wrote a thoughtful ___ for the school newspaper.",
+      "sentence": ""
+    },
+    {
+      "word": "contemplate",
+      "partOfSpeech": "verb",
+      "meaning1": "To think about something deeply and carefully. Example: He sat by the lake to contemplate his next move.",
+      "meaning2": "To consider doing something. Example: My parents contemplate moving to a smaller house.",
+      "studentChallenge": "I need a quiet hour to ___ my choices before I decide.",
+      "sentence": ""
+    },
+    {
+      "word": "fresco",
+      "partOfSpeech": "noun",
+      "meaning1": "A painting made on wet plaster, usually on a wall or ceiling. Example: The fresco on the chapel ceiling showed angels floating among clouds.",
+      "meaning2": "",
+      "studentChallenge": "The artist painted a bright ___ on the freshly plastered wall.",
+      "sentence": ""
+    },
+    {
+      "word": "medium",
+      "partOfSpeech": "noun",
+      "meaning1": "The material or tool an artist uses to create art. Example: Watercolor is her favorite medium for painting misty landscapes.",
+      "meaning2": "A way of communicating or delivering information. Example: Television was once the most popular medium for news.",
+      "studentChallenge": "Clay is a flexible ___ for making bowls and figures.",
+      "sentence": ""
+    },
+    {
+      "word": "artisan",
+      "partOfSpeech": "noun",
+      "meaning1": "A skilled worker who makes things by hand. Example: The artisan shaped each clay pot on a spinning wheel.",
+      "meaning2": "",
+      "studentChallenge": "A local ___ weaves baskets using methods her grandmother taught her.",
+      "sentence": ""
+    },
+    {
+      "word": "craftsmanship",
+      "partOfSpeech": "noun",
+      "meaning1": "Skill in making things well, shown by careful, high-quality work. Example: The craftsmanship of the violin was clear in its smooth, flawless finish.",
+      "meaning2": "",
+      "studentChallenge": "The cabinet's perfectly fitted joints showed the maker's fine ___.",
+      "sentence": ""
+    },
+    {
+      "word": "donation",
+      "partOfSpeech": "noun",
+      "meaning1": "Something given freely to help or support a cause, such as money or objects. Example: The library received a donation of two hundred books.",
+      "meaning2": "",
+      "studentChallenge": "The family made a generous ___ of paintings to the museum.",
+      "sentence": ""
+    },
+    {
+      "word": "collection",
+      "partOfSpeech": "noun",
+      "meaning1": "A group of objects gathered and kept together because they are interesting or valuable. Example: His collection of rare coins fills three shelves.",
+      "meaning2": "The act of gathering things together. Example: Garbage collection happens every Tuesday morning.",
+      "studentChallenge": "She keeps her shell ___ in a glass case in her bedroom.",
+      "sentence": ""
+    },
+    {
+      "word": "replica",
+      "partOfSpeech": "noun",
+      "meaning1": "An exact copy of something, often made smaller or from different material. Example: He built a replica of the famous bridge out of toothpicks.",
+      "meaning2": "",
+      "studentChallenge": "The gift shop sells a small ___ of the famous statue.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The science museum's new _______ lets visitors touch a real meteorite.",
+      "sentence2": "Local painters will _______ their work at the town library this spring.",
+      "options": [
+        "fresco",
+        "exhibit",
+        "donation",
+        "artisan"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "exhibit"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The painter hoped to hang her new portraits in a downtown _______.",
+      "sentence2": "Students in the upper _______ of the theater could see the whole stage.",
+      "options": [
+        "donation",
+        "replica",
+        "craftsmanship",
+        "gallery"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "gallery"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The artist spent months carving a _______ out of a single block of white marble.",
+      "sentence2": "She studied _______ at college, learning to shape clay, stone, and metal.",
+      "options": [
+        "sculpture",
+        "artisan",
+        "donation",
+        "contemplate"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "sculpture"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "After reading the story, she wrote a thoughtful _______ for the school newspaper.",
+      "sentence2": "Classmates will _______ each other's essays and suggest improvements.",
+      "options": [
+        "exhibit",
+        "fresco",
+        "critique",
+        "donation"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "critique"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "I need a quiet hour to _______ my choices before I decide.",
+      "sentence2": "She stood by the window to _______ the snow falling slowly over the empty street.",
+      "options": [
+        "exhibit",
+        "contemplate",
+        "gallery",
+        "replica"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "contemplate"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The artist painted a bright _______ on the freshly plastered wall of the chapel.",
+      "sentence2": "The ancient _______ on the ceiling showed angels floating among golden clouds.",
+      "options": [
+        "fresco",
+        "donation",
+        "artisan",
+        "gallery"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "fresco"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Watercolor is her favorite _______ for painting soft, misty landscapes.",
+      "sentence2": "For delivering news quickly, television was once the most popular _______.",
+      "options": [
+        "donation",
+        "gallery",
+        "craftsmanship",
+        "medium"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "medium"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "A local _______ weaves baskets by hand using methods her grandmother taught her.",
+      "sentence2": "The _______ shaped each clay pot on a spinning wheel in his small shop.",
+      "options": [
+        "donation",
+        "collection",
+        "artisan",
+        "critique"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "artisan"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The cabinet's perfectly fitted joints showed the maker's fine _______.",
+      "sentence2": "The violin's smooth, flawless finish revealed the _______ of someone who had worked at it for years.",
+      "options": [
+        "gallery",
+        "craftsmanship",
+        "donation",
+        "fresco"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "craftsmanship"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The library received a generous _______ of two hundred books from a retired teacher.",
+      "sentence2": "Instead of presents, she asked her guests to make a _______ to the animal shelter.",
+      "options": [
+        "donation",
+        "gallery",
+        "replica",
+        "critique"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "donation"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "He keeps his rare coin _______ in a locked case.",
+      "sentence2": "The city's garbage _______ happens every Tuesday morning before sunrise.",
+      "options": [
+        "critique",
+        "artisan",
+        "contemplate",
+        "collection"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "collection"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "He built a _______ of the famous bridge out of toothpicks.",
+      "sentence2": "The gift shop sells a small _______ of the statue for tourists.",
+      "options": [
+        "critique",
+        "donation",
+        "replica",
+        "contemplate"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "replica"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "exhibit",
+      "gallery",
+      "sculpture",
+      "critique",
+      "contemplate",
+      "fresco",
+      "medium",
+      "artisan",
+      "craftsmanship",
+      "donation",
+      "collection",
+      "replica"
+    ],
+    "passage": "Tamar's cousin worked as a guide at a small museum, and she invited Tamar to help set up for opening night. The main _(1)_ was a bright room with tall windows, and the new _(2)_ was about village life in medieval Italy. On one wall hung a _(3)_ painted on plaster. \"Every _(4)_ has its own challenges,\" her cousin said, \"but wet plaster is the hardest.\" She explained how an _(5)_ spent years learning a trade, and how the _(6)_ of the old masters still amazes experts today.\n\nIn the center stood a marble _(7)_ of a young shepherd. Beside it was a small clay _(8)_ of the same figure that visitors were allowed to touch. \"Everything in this room came to us as a _(9)_ from local families,\" her cousin said. \"Together it forms one remarkable _(10)_.\"\n\nBefore the doors opened, Tamar sat down to _(11)_ the shepherd's calm face. Her cousin asked her to write a short _(12)_ of the display so the staff could improve it.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "gallery",
+        "options": [
+          "donation",
+          "gallery",
+          "craftsmanship",
+          "replica"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "exhibit",
+        "options": [
+          "artisan",
+          "donation",
+          "craftsmanship",
+          "exhibit"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "fresco",
+        "options": [
+          "fresco",
+          "donation",
+          "artisan",
+          "contemplate"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "medium",
+        "options": [
+          "donation",
+          "replica",
+          "medium",
+          "contemplate"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "artisan",
+        "options": [
+          "exhibit",
+          "artisan",
+          "collection",
+          "critique"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "craftsmanship",
+        "options": [
+          "donation",
+          "gallery",
+          "contemplate",
+          "craftsmanship"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "sculpture",
+        "options": [
+          "sculpture",
+          "contemplate",
+          "donation",
+          "artisan"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "replica",
+        "options": [
+          "donation",
+          "gallery",
+          "replica",
+          "critique"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "donation",
+        "options": [
+          "medium",
+          "donation",
+          "critique",
+          "artisan"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "collection",
+        "options": [
+          "medium",
+          "critique",
+          "artisan",
+          "collection"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "contemplate",
+        "options": [
+          "contemplate",
+          "exhibit",
+          "donation",
+          "gallery"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "critique",
+        "options": [
+          "donation",
+          "replica",
+          "critique",
+          "medium"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "contemplate",
+        "scale": [
+          "Glance",
+          "Consider",
+          "Contemplate"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "artisan",
+        "scale": [
+          "Beginner",
+          "Artisan",
+          "Master"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "critique",
+        "scale": [
+          "Remark",
+          "Critique",
+          "Analysis"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "craftsmanship",
+        "scale": [
+          "Effort",
+          "Skill",
+          "Craftsmanship"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "exhibit",
+        "words": [
+          "Display",
+          "Show",
+          "Present",
+          "Hide"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Hide"
+      },
+      {
+        "vocabWord": "critique",
+        "words": [
+          "Review",
+          "Overlook",
+          "Evaluation",
+          "Assessment"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Overlook"
+      },
+      {
+        "vocabWord": "contemplate",
+        "words": [
+          "Ponder",
+          "Consider",
+          "Ignore",
+          "Reflect"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Ignore"
+      },
+      {
+        "vocabWord": "artisan",
+        "words": [
+          "Novice",
+          "Craftsman",
+          "Maker",
+          "Craftsperson"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Novice"
+      },
+      {
+        "vocabWord": "craftsmanship",
+        "words": [
+          "Skill",
+          "Artistry",
+          "Workmanship",
+          "Carelessness"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Carelessness"
+      },
+      {
+        "vocabWord": "donation",
+        "words": [
+          "Gift",
+          "Contribution",
+          "Theft",
+          "Offering"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Theft"
+      },
+      {
+        "vocabWord": "replica",
+        "words": [
+          "Copy",
+          "Original",
+          "Duplicate",
+          "Imitation"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Original"
+      },
+      {
+        "vocabWord": "collection",
+        "words": [
+          "Assortment",
+          "Accumulation",
+          "Set",
+          "Scattering"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Scattering"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

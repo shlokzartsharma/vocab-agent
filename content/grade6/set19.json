@@ -1,0 +1,577 @@
+{
+  "grade": 6,
+  "setNumber": 19,
+  "words": [
+    "carnival",
+    "acrobat",
+    "dazzle",
+    "juggle",
+    "tightrope",
+    "mesmerize",
+    "flamboyant",
+    "showman",
+    "midway",
+    "ringmaster",
+    "trapeze",
+    "theatrical"
+  ],
+  "sources": [
+    "Common Core Grade 6",
+    "Tier 2 Academic"
+  ],
+  "genre": "traveling carnival",
+  "story": {
+    "genre": "traveling carnival",
+    "characters": [
+      "Gideon",
+      "Pilar",
+      "Anton"
+    ],
+    "parts": [
+      {
+        "title": "The Carnival Comes to Town",
+        "text": "When the **carnival** rolled into town, Gideon, Pilar, and Anton were the first ones at the gate. The **midway** glittered with lights, game booths, and the smell of warm popcorn. At its center stood a **flamboyant** man in a purple coat covered in sequins, with a feather in his hat. \"Step right up!\" he boomed. Anton whispered that he was the **showman** who owned the entire traveling show."
+      },
+      {
+        "title": "Under the Big Tent",
+        "text": "Inside the big tent, the **ringmaster** raised his arms, and the crowd fell silent. A young **acrobat** leaped onto a **trapeze** and swung high above the sawdust, flipping through the air and catching her partner's wrists at the last second. Below her, a clown began to **juggle** five glowing rings. Then a performer in silver slippers stepped onto a **tightrope** stretched across the tent, balancing a tiny parasol."
+      },
+      {
+        "title": "A Night of Wonder",
+        "text": "Every act seemed designed to **dazzle**: sparkling costumes, drums that thumped like a heartbeat, and spotlights that sprayed color across the tent. The slow, glowing music could **mesmerize** even Anton, who never sat still. The whole evening felt wonderfully **theatrical**, like a play in which the audience was part of the cast."
+      },
+      {
+        "title": "Pilar's Wish",
+        "text": "Afterward, the showman let Pilar try a low practice wire, and she wobbled but did not fall. \"Everyone starts small,\" he told her with a wink. That night, Pilar lay awake picturing herself high above the crowd, and she decided she would practice every single day. Anton, who never admitted that heights scared him, grinned and promised to hold the ladder."
+      }
+    ],
+    "wordCount": 249
+  },
+  "definitions": [
+    {
+      "word": "carnival",
+      "partOfSpeech": "noun",
+      "meaning1": "A traveling show or fair with rides, games, food, and performers. Example: The carnival set up its Ferris wheel in the empty field.",
+      "meaning2": "A festive public celebration with parades and costumes. Example: The city holds a carnival every February, with music in the streets.",
+      "studentChallenge": "We won a goldfish at the school ___ last weekend.",
+      "sentence": ""
+    },
+    {
+      "word": "acrobat",
+      "partOfSpeech": "noun",
+      "meaning1": "A performer who does daring feats of balance, jumping, and tumbling. Example: The acrobat flipped across the stage and landed on one foot.",
+      "meaning2": "",
+      "studentChallenge": "The ___ bent backward and walked across the stage on her hands.",
+      "sentence": ""
+    },
+    {
+      "word": "dazzle",
+      "partOfSpeech": "verb",
+      "meaning1": "To amaze people with something brilliant or impressive. Example: The fireworks dazzled the crowd.",
+      "meaning2": "To blind someone briefly with bright light. Example: The sudden headlights dazzled the deer on the road.",
+      "studentChallenge": "The magician hoped to ___ the audience with his final trick.",
+      "sentence": ""
+    },
+    {
+      "word": "juggle",
+      "partOfSpeech": "verb",
+      "meaning1": "To keep several objects in the air by tossing and catching them. Example: He learned to juggle three oranges without dropping one.",
+      "meaning2": "To manage several tasks at the same time. Example: Mia had to juggle homework, music practice, and soccer.",
+      "studentChallenge": "Can you ___ three tennis balls without dropping a single one?",
+      "sentence": ""
+    },
+    {
+      "word": "tightrope",
+      "partOfSpeech": "noun",
+      "meaning1": "A rope or wire stretched high above the ground that performers walk across. Example: The performer crossed the tightrope with a long pole for balance.",
+      "meaning2": "A risky situation that needs careful balance. Example: The mayor walked a tightrope between pleasing farmers and city workers.",
+      "studentChallenge": "The daring performer stepped carefully onto the ___ stretched high above the ring.",
+      "sentence": ""
+    },
+    {
+      "word": "mesmerize",
+      "partOfSpeech": "verb",
+      "meaning1": "To hold someone's attention so completely that they cannot look away. Example: The dancing flames mesmerized the campers.",
+      "meaning2": "",
+      "studentChallenge": "The glowing jellyfish seemed to ___ everyone at the aquarium.",
+      "sentence": ""
+    },
+    {
+      "word": "flamboyant",
+      "partOfSpeech": "adjective",
+      "meaning1": "Bold, colorful, and showy in a way that draws attention. Example: The singer wore a flamboyant jacket covered in bright feathers.",
+      "meaning2": "",
+      "studentChallenge": "His ___ scarf, bright orange with green stripes, made everyone turn their heads.",
+      "sentence": ""
+    },
+    {
+      "word": "showman",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who is skilled at presenting entertainment and attracting an audience. Example: The showman kept the crowd laughing between acts.",
+      "meaning2": "",
+      "studentChallenge": "The old ___ knew exactly how to make a crowd gasp and cheer.",
+      "sentence": ""
+    },
+    {
+      "word": "midway",
+      "partOfSpeech": "noun, adverb",
+      "meaning1": "The area at a fair or carnival where games, rides, and food stands are set up. Example: We walked along the midway, tossing rings at bottles.",
+      "meaning2": "Halfway; in the middle of a distance or time. Example: The runner stopped midway through the race to tie her shoe.",
+      "studentChallenge": "Kids lined up at the game booths along the busy ___.",
+      "sentence": ""
+    },
+    {
+      "word": "ringmaster",
+      "partOfSpeech": "noun",
+      "meaning1": "The person who introduces the acts and leads the show in a circus. Example: The ringmaster welcomed the audience and announced the first act.",
+      "meaning2": "",
+      "studentChallenge": "The ___ in the top hat announced the next act to the crowd.",
+      "sentence": ""
+    },
+    {
+      "word": "trapeze",
+      "partOfSpeech": "noun",
+      "meaning1": "A short bar hung high above the ground by two ropes, used by acrobats to swing. Example: She let go of the trapeze, flipped once, and caught her partner's hands.",
+      "meaning2": "",
+      "studentChallenge": "The performer swung back and forth on the ___ high above the crowd.",
+      "sentence": ""
+    },
+    {
+      "word": "theatrical",
+      "partOfSpeech": "adjective",
+      "meaning1": "Dramatic, like a stage play; exaggerated for effect. Example: He gave a theatrical bow, sweeping his hat to the floor.",
+      "meaning2": "Having to do with plays and the theater. Example: The school's theatrical club puts on a play every spring.",
+      "studentChallenge": "She made a ___ gasp, clutching her chest as if she had seen a ghost.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "We won a goldfish at the _______ that set up in the empty field outside of town.",
+      "sentence2": "Every February the city holds a _______ with parades, costumes, and music in the streets.",
+      "options": [
+        "midway",
+        "tightrope",
+        "carnival",
+        "trapeze"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "carnival"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The _______ flipped three times in the air and landed perfectly on one foot.",
+      "sentence2": "A young _______ bent backward and walked across the stage on her hands.",
+      "options": [
+        "acrobat",
+        "midway",
+        "carnival",
+        "tightrope"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "acrobat"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The magician hoped to _______ the audience with his final trick.",
+      "sentence2": "Sparkling lights and bright costumes were meant to _______ everyone who walked into the tent.",
+      "options": [
+        "juggle",
+        "ringmaster",
+        "trapeze",
+        "dazzle"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "dazzle"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Can you _______ three tennis balls without dropping a single one?",
+      "sentence2": "Mia had to _______ homework, music practice, and soccer all in the same week.",
+      "options": [
+        "dazzle",
+        "juggle",
+        "mesmerize",
+        "showman"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "juggle"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The daring performer stepped carefully onto the _______ stretched high above the ring.",
+      "sentence2": "The mayor walked a _______ between pleasing the farmers and keeping the city workers happy.",
+      "options": [
+        "trapeze",
+        "tightrope",
+        "midway",
+        "carnival"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "tightrope"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The slow, glowing dance of the jellyfish seemed to _______ everyone at the aquarium.",
+      "sentence2": "The hypnotist's swinging watch was said to _______ anyone who stared at it too long.",
+      "options": [
+        "juggle",
+        "carnival",
+        "acrobat",
+        "mesmerize"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "mesmerize"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "His _______ scarf, bright orange with green stripes, made everyone turn their heads.",
+      "sentence2": "The singer wore a _______ jacket covered in feathers and sequins.",
+      "options": [
+        "flamboyant",
+        "midway",
+        "trapeze",
+        "ringmaster"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "flamboyant"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The old _______ who owned the traveling show knew exactly how to sell tickets and fill every seat.",
+      "sentence2": "A great _______ knows how to build excitement before the first act begins.",
+      "options": [
+        "acrobat",
+        "midway",
+        "showman",
+        "carnival"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "showman"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "We walked along the _______, tossing rings at bottles and tasting cotton candy.",
+      "sentence2": "The runner stopped _______ through the race to tie her shoe.",
+      "options": [
+        "tightrope",
+        "trapeze",
+        "flamboyant",
+        "midway"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "midway"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The _______ raised his arms, and the crowd fell silent as the first act began.",
+      "sentence2": "In his red coat and tall hat, the _______ announced each act.",
+      "options": [
+        "trapeze",
+        "ringmaster",
+        "carnival",
+        "midway"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "ringmaster"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "She let go of the _______, flipped once in the air, and grabbed her partner's hands.",
+      "sentence2": "The performer swung back and forth on the _______ high above the crowd.",
+      "options": [
+        "tightrope",
+        "midway",
+        "trapeze",
+        "carnival"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "trapeze"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "She made a _______ gasp, clutching her chest as if she had seen a ghost.",
+      "sentence2": "The school's _______ club puts on a play every spring.",
+      "options": [
+        "theatrical",
+        "flamboyant",
+        "carnival",
+        "acrobat"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "theatrical"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "carnival",
+      "acrobat",
+      "dazzle",
+      "juggle",
+      "tightrope",
+      "mesmerize",
+      "flamboyant",
+      "showman",
+      "midway",
+      "ringmaster",
+      "trapeze",
+      "theatrical"
+    ],
+    "passage": "Every summer, the traveling _(1)_ set up in the field behind Rosa's house. She loved to wander the crowded _(2)_, where the smell of caramel apples drifted between the game booths. Her favorite part was the _(3)_ in the red coat, who greeted the crowd with a booming voice.\n\nOne night, a young _(4)_ leaped onto a _(5)_ and swung high above the sawdust. Another performer began to _(6)_ five glowing rings at once. A third stepped onto a thin _(7)_ and crossed it without looking down. The costumes were designed to _(8)_ the crowd, and the slow music seemed to _(9)_ even the noisiest children.\n\nThe owner of the show, a _(10)_ man with a purple cape and a feathered hat, was a true _(11)_. When the last act ended, he gave a _(12)_ bow so deep that his hat touched the ground, and everyone laughed and clapped.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "carnival",
+        "options": [
+          "theatrical",
+          "juggle",
+          "dazzle",
+          "carnival"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "midway",
+        "options": [
+          "midway",
+          "trapeze",
+          "flamboyant",
+          "mesmerize"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "ringmaster",
+        "options": [
+          "trapeze",
+          "tightrope",
+          "ringmaster",
+          "midway"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "acrobat",
+        "options": [
+          "carnival",
+          "midway",
+          "tightrope",
+          "acrobat"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "trapeze",
+        "options": [
+          "tightrope",
+          "trapeze",
+          "midway",
+          "carnival"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "juggle",
+        "options": [
+          "dazzle",
+          "mesmerize",
+          "juggle",
+          "flamboyant"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "tightrope",
+        "options": [
+          "tightrope",
+          "trapeze",
+          "midway",
+          "carnival"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "dazzle",
+        "options": [
+          "juggle",
+          "tightrope",
+          "dazzle",
+          "trapeze"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "mesmerize",
+        "options": [
+          "mesmerize",
+          "juggle",
+          "ringmaster",
+          "midway"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "flamboyant",
+        "options": [
+          "midway",
+          "carnival",
+          "acrobat",
+          "flamboyant"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "showman",
+        "options": [
+          "tightrope",
+          "showman",
+          "trapeze",
+          "theatrical"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "theatrical",
+        "options": [
+          "carnival",
+          "theatrical",
+          "midway",
+          "acrobat"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "flamboyant",
+        "scale": [
+          "Colorful",
+          "Showy",
+          "Flamboyant"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "dazzle",
+        "scale": [
+          "Please",
+          "Impress",
+          "Dazzle"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "mesmerize",
+        "scale": [
+          "Interest",
+          "Fascinate",
+          "Mesmerize"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "theatrical",
+        "scale": [
+          "Expressive",
+          "Dramatic",
+          "Theatrical"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "flamboyant",
+        "words": [
+          "Showy",
+          "Bold",
+          "Plain",
+          "Colorful"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Plain"
+      },
+      {
+        "vocabWord": "dazzle",
+        "words": [
+          "Amaze",
+          "Impress",
+          "Astonish",
+          "Underwhelm"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Underwhelm"
+      },
+      {
+        "vocabWord": "mesmerize",
+        "words": [
+          "Captivate",
+          "Enthrall",
+          "Bore",
+          "Hypnotize"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Bore"
+      },
+      {
+        "vocabWord": "theatrical",
+        "words": [
+          "Dramatic",
+          "Stagey",
+          "Subdued",
+          "Showy"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Subdued"
+      },
+      {
+        "vocabWord": "acrobat",
+        "words": [
+          "Tumbler",
+          "Gymnast",
+          "Spectator",
+          "Performer"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Spectator"
+      },
+      {
+        "vocabWord": "juggle",
+        "words": [
+          "Toss",
+          "Handle",
+          "Drop",
+          "Keep up"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Drop"
+      },
+      {
+        "vocabWord": "ringmaster",
+        "words": [
+          "Host",
+          "Announcer",
+          "Audience",
+          "Emcee"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Audience"
+      },
+      {
+        "vocabWord": "carnival",
+        "words": [
+          "Fair",
+          "Festival",
+          "Stillness",
+          "Fiesta"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Stillness"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

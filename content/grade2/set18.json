@@ -1,0 +1,578 @@
+{
+  "grade": 2,
+  "setNumber": 18,
+  "words": [
+    "scour",
+    "worried",
+    "retrace",
+    "relieved",
+    "reunite",
+    "tearful",
+    "uneasy",
+    "fret",
+    "dread",
+    "misplace",
+    "overlook",
+    "track"
+  ],
+  "sources": [
+    "Common Core Grade 2",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "lost and found",
+  "story": {
+    "genre": "lost and found",
+    "characters": [
+      "Oscar",
+      "Zuri",
+      "Petra"
+    ],
+    "parts": [
+      {
+        "title": "The Missing Cap",
+        "text": "Oscar could not find his lucky red cap. He did not mean to **misplace** it, but it was gone. He felt **worried** because he needed it for the big game on Saturday. “Please do not **fret**,” said his friend Zuri. “We will find it.”"
+      },
+      {
+        "title": "The Search",
+        "text": "First they went back to the park to **retrace** Oscar's steps. Petra and Zuri helped him **scour** the whole playground, looking under every slide and bench. “Do not **overlook** any spot,” said Petra. Oscar began to feel **uneasy** as the sun sank lower. He had a **dread** that the cap was lost for good."
+      },
+      {
+        "title": "Found!",
+        "text": "Then Petra spotted some small muddy paw prints. She followed the **track** to a bush by the fence. There was the red cap, tucked behind the leaves! Oscar's eyes grew **tearful**, but he was smiling. He felt **relieved** all the way down to his shoes. At last he could **reunite** with his lucky cap."
+      },
+      {
+        "title": "A Better Plan",
+        "text": "Oscar thanked his friends for helping. He put the cap in his backpack, right next to his water bottle. A problem feels much smaller when good friends are there to help."
+      }
+    ],
+    "wordCount": 183
+  },
+  "definitions": [
+    {
+      "word": "scour",
+      "partOfSpeech": "verb",
+      "meaning1": "To search every part of a place very carefully. Example: We had to scour the room to find my missing sock.",
+      "meaning2": "To scrub hard to clean something. Example: She will scour the pan until it shines.",
+      "studentChallenge": "The kids began to ___ the yard for the lost ball.",
+      "sentence": ""
+    },
+    {
+      "word": "worried",
+      "partOfSpeech": "adjective",
+      "meaning1": "Feeling that something bad might happen. Example: Mom was worried when the storm got louder.",
+      "meaning2": "",
+      "studentChallenge": "He felt ___ about the math test.",
+      "sentence": ""
+    },
+    {
+      "word": "retrace",
+      "partOfSpeech": "verb",
+      "meaning1": "To go back over the same path or steps. Example: Let's retrace our steps to find your keys.",
+      "meaning2": "",
+      "studentChallenge": "We had to ___ our path to find the dropped glove.",
+      "sentence": ""
+    },
+    {
+      "word": "relieved",
+      "partOfSpeech": "adjective",
+      "meaning1": "Feeling calm and happy because a worry is gone. Example: I was relieved when I found my homework.",
+      "meaning2": "",
+      "studentChallenge": "She felt ___ when the lost kitten came home.",
+      "sentence": ""
+    },
+    {
+      "word": "reunite",
+      "partOfSpeech": "verb",
+      "meaning1": "To bring together again after being apart. Example: The kind man helped to reunite the lost boy with his mom.",
+      "meaning2": "",
+      "studentChallenge": "We hope to ___ with our old friends this summer.",
+      "sentence": ""
+    },
+    {
+      "word": "tearful",
+      "partOfSpeech": "adjective",
+      "meaning1": "Having tears in your eyes; about to cry. Example: Her tearful goodbye made her friends sad too.",
+      "meaning2": "",
+      "studentChallenge": "The ___ child wiped his cheeks with his sleeve.",
+      "sentence": ""
+    },
+    {
+      "word": "uneasy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Nervous or not comfortable. Example: I felt uneasy walking alone in the dark.",
+      "meaning2": "",
+      "studentChallenge": "The dog felt ___ during the loud thunder.",
+      "sentence": ""
+    },
+    {
+      "word": "fret",
+      "partOfSpeech": "verb",
+      "meaning1": "To worry a lot about small things. Example: Please do not fret about the little mistake.",
+      "meaning2": "",
+      "studentChallenge": "Do not ___ about the spelling test; you studied hard.",
+      "sentence": ""
+    },
+    {
+      "word": "dread",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A strong fear about something that might happen. Example: She felt a deep dread before the scary movie.",
+      "meaning2": "To fear something that is coming. Example: I dread going to the dentist.",
+      "studentChallenge": "He had a ___ of the dark basement.",
+      "sentence": ""
+    },
+    {
+      "word": "misplace",
+      "partOfSpeech": "verb",
+      "meaning1": "To put something down and forget where it is. Example: I always misplace my glasses.",
+      "meaning2": "",
+      "studentChallenge": "Try not to ___ your library book.",
+      "sentence": ""
+    },
+    {
+      "word": "overlook",
+      "partOfSpeech": "verb",
+      "meaning1": "To fail to see or notice something. Example: It is easy to overlook a small mistake.",
+      "meaning2": "To have a view of something from above. Example: Our window will overlook the garden.",
+      "studentChallenge": "Do not ___ the tiny bug on the leaf.",
+      "sentence": ""
+    },
+    {
+      "word": "track",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A footprint or mark left behind by an animal or person. Example: We saw a deer track in the snow.",
+      "meaning2": "To follow marks or signs to find something. Example: The dog can track a scent across the field.",
+      "studentChallenge": "A small paw ___ was pressed into the wet sand.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "We will _______ the whole house to find my missing shoe.",
+      "sentence2": "The detective will _______ the room for clues.",
+      "options": [
+        "fret",
+        "scour",
+        "reunite",
+        "dread"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "scour"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "Mom felt _______ when we were late coming home.",
+      "sentence2": "He was _______ that it might rain on the day of the picnic.",
+      "options": [
+        "worried",
+        "relieved",
+        "misplace",
+        "track"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "worried"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Let's _______ our steps to see where I dropped my key.",
+      "sentence2": "She had to _______ the path she walked to find her mitten.",
+      "options": [
+        "reunite",
+        "overlook",
+        "dread",
+        "retrace"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "retrace"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "I felt so _______ when I found my lost lunch box.",
+      "sentence2": "The kids were _______ when the loud storm finally ended.",
+      "options": [
+        "dread",
+        "fret",
+        "relieved",
+        "track"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "relieved"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The kind boy helped to _______ the lost puppy with its family.",
+      "sentence2": "After summer, the two friends will _______ at school.",
+      "options": [
+        "retrace",
+        "reunite",
+        "overlook",
+        "fret"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "reunite"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Her eyes grew _______ as she said goodbye to her best friend.",
+      "sentence2": "The _______ boy wiped his cheeks with his sleeve.",
+      "options": [
+        "tearful",
+        "track",
+        "misplace",
+        "dread"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "tearful"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "I felt _______ walking alone in the dark hallway.",
+      "sentence2": "The dog was _______ and kept looking at the door.",
+      "options": [
+        "scour",
+        "reunite",
+        "track",
+        "uneasy"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "uneasy"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Please do not _______ about the test; you studied hard.",
+      "sentence2": "He tends to _______ over every little mistake.",
+      "options": [
+        "dread",
+        "misplace",
+        "fret",
+        "scour"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "fret"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "She felt a deep _______ before the big test.",
+      "sentence2": "He has a _______ of loud thunder.",
+      "options": [
+        "track",
+        "dread",
+        "retrace",
+        "reunite"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "dread"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "I always _______ my glasses and then find them on my head.",
+      "sentence2": "Try not to _______ your library book, because it is due Friday.",
+      "options": [
+        "misplace",
+        "retrace",
+        "dread",
+        "tearful"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "misplace"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "It is easy to _______ a small word when you check your writing.",
+      "sentence2": "Do not _______ the tiny bug hiding on the leaf.",
+      "options": [
+        "reunite",
+        "fret",
+        "tearful",
+        "overlook"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "overlook"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "A small paw _______ was pressed into the wet sand.",
+      "sentence2": "We followed the deer _______ through the snow.",
+      "options": [
+        "dread",
+        "scour",
+        "track",
+        "worried"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "track"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "scour",
+      "worried",
+      "retrace",
+      "relieved",
+      "reunite",
+      "tearful",
+      "uneasy",
+      "fret",
+      "dread",
+      "misplace",
+      "overlook",
+      "track"
+    ],
+    "passage": "On Friday morning, Mina could not find her blue library book. She was sure she would not _(1)_ it, but it was gone. She felt _(2)_ because it was due that day.\nHer brother told her not to _(3)_. “Let's _(4)_ your steps,” he said. They looked in the kitchen and then began to _(5)_ her bedroom, checking under the bed and behind the door. Mina felt _(6)_ as the clock ticked, and she had a growing _(7)_ of telling her teacher.\nThen her brother saw a small _(8)_ of crumbs on the floor. It led to the couch! It had been easy to _(9)_ a book hidden under the pillows. There was the book! Her eyes were _(10)_, but she grinned and felt _(11)_. She was glad to _(12)_ with her favorite story.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "misplace",
+        "options": [
+          "tearful",
+          "uneasy",
+          "misplace",
+          "worried"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "worried",
+        "options": [
+          "reunite",
+          "misplace",
+          "retrace",
+          "worried"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "fret",
+        "options": [
+          "tearful",
+          "relieved",
+          "fret",
+          "worried"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "retrace",
+        "options": [
+          "tearful",
+          "worried",
+          "retrace",
+          "relieved"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "scour",
+        "options": [
+          "tearful",
+          "scour",
+          "uneasy",
+          "relieved"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "uneasy",
+        "options": [
+          "reunite",
+          "uneasy",
+          "misplace",
+          "retrace"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "dread",
+        "options": [
+          "worried",
+          "dread",
+          "reunite",
+          "misplace"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "track",
+        "options": [
+          "reunite",
+          "track",
+          "tearful",
+          "retrace"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "overlook",
+        "options": [
+          "worried",
+          "relieved",
+          "overlook",
+          "tearful"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "tearful",
+        "options": [
+          "tearful",
+          "retrace",
+          "misplace",
+          "reunite"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "relieved",
+        "options": [
+          "retrace",
+          "relieved",
+          "misplace",
+          "reunite"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "reunite",
+        "options": [
+          "relieved",
+          "reunite",
+          "worried",
+          "tearful"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "worried",
+        "scale": [
+          "Concerned",
+          "Worried",
+          "Terrified"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "dread",
+        "scale": [
+          "Doubt",
+          "Worry",
+          "Dread"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "tearful",
+        "scale": [
+          "Sad",
+          "Tearful",
+          "Sobbing"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "relieved",
+        "scale": [
+          "Calm",
+          "Relieved",
+          "Delighted"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "scour",
+        "words": [
+          "Search",
+          "Hunt",
+          "Ignore",
+          "Comb"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Ignore"
+      },
+      {
+        "vocabWord": "retrace",
+        "words": [
+          "Revisit",
+          "Backtrack",
+          "Return",
+          "Advance"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Advance"
+      },
+      {
+        "vocabWord": "reunite",
+        "words": [
+          "Rejoin",
+          "Gather",
+          "Separate",
+          "Unite"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Separate"
+      },
+      {
+        "vocabWord": "uneasy",
+        "words": [
+          "Nervous",
+          "Anxious",
+          "Calm",
+          "Tense"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Calm"
+      },
+      {
+        "vocabWord": "fret",
+        "words": [
+          "Worry",
+          "Stew",
+          "Relax",
+          "Agonize"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Relax"
+      },
+      {
+        "vocabWord": "misplace",
+        "words": [
+          "Lose",
+          "Find",
+          "Mislay",
+          "Drop"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Find"
+      },
+      {
+        "vocabWord": "overlook",
+        "words": [
+          "Miss",
+          "Ignore",
+          "Notice",
+          "Skip"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Notice"
+      },
+      {
+        "vocabWord": "worried",
+        "words": [
+          "Anxious",
+          "Carefree",
+          "Nervous",
+          "Troubled"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Carefree"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

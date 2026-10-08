@@ -1,0 +1,578 @@
+{
+  "grade": 8,
+  "setNumber": 12,
+  "words": [
+    "soliloquy",
+    "monologue",
+    "betrayal",
+    "nemesis",
+    "dramatic",
+    "jealousy",
+    "verse",
+    "catharsis",
+    "denouement",
+    "foil",
+    "tragic",
+    "hubris"
+  ],
+  "sources": [
+    "Common Core Grade 8",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "Shakespeare in the park",
+  "story": {
+    "genre": "Shakespeare in the park",
+    "characters": [
+      "Orla",
+      "Dante",
+      "Salma"
+    ],
+    "parts": [
+      {
+        "title": "Opening Night",
+        "text": "On a warm July evening, the community theater set up chairs in the park for its yearly Shakespeare production. Orla, only fourteen, had won the lead role of a king undone by his own pride. Her toughest scene was a **soliloquy**, in which her character, alone on stage, confides his secret fears to the audience. Dante, who played the king's rival, faced a different challenge: a **monologue** in the second act, a long speech aimed at the other characters."
+      },
+      {
+        "title": "Behind the Scenes",
+        "text": "Salma, the assistant director, had helped the cast understand the plot. The king's closest friend commits a **betrayal**, secretly helping the royal enemies, and he gradually becomes the king's **nemesis**, the one opponent who cannot be beaten. His motive is **jealousy**; he cannot stand to watch another man wear the crown. Salma also pointed out a loyal servant who acts as a **foil**, since her honesty makes the king's faults stand out."
+      },
+      {
+        "title": "Under the Lanterns",
+        "text": "As dusk fell, the audience hushed. The play was written in **verse**, so every line followed a steady rhythm. Her entrance was **dramatic**: she strode into a pool of light. The king's **hubris** made him ignore every warning, and the story turned **tragic** when his pride cost him everything he loved. Dante's final quiet lines drew sniffles from the lawn, a moment of **catharsis** as people released the sadness they had been holding in. The short **denouement** followed, showing the kingdom beginning to heal."
+      },
+      {
+        "title": "The Curtain Call",
+        "text": "When the lights came up, the whole park stood and clapped. Orla bowed beside Dante and Salma, her hands still shaking. Later, she thought about how old stories keep teaching the same lessons: that trust is precious and that pride can blind anyone. She promised herself she would audition again next summer."
+      }
+    ],
+    "wordCount": 287
+  },
+  "definitions": [
+    {
+      "word": "soliloquy",
+      "partOfSpeech": "noun",
+      "meaning1": "A speech in which a character speaks their thoughts aloud while alone on stage. Example: In his soliloquy, the prince wondered whether he could trust anyone.",
+      "meaning2": "",
+      "studentChallenge": "In her ___, the lonely queen confessed her fears to the empty stage.",
+      "sentence": ""
+    },
+    {
+      "word": "monologue",
+      "partOfSpeech": "noun",
+      "meaning1": "A long speech by one person, often spoken to others. Example: The comedian opened her show with a funny monologue about airport food.",
+      "meaning2": "A long, tiresome speech that stops others from talking. Example: Dad's monologue about gas prices lasted the entire drive.",
+      "studentChallenge": "The actor memorized a three-minute ___ for his audition.",
+      "sentence": ""
+    },
+    {
+      "word": "betrayal",
+      "partOfSpeech": "noun",
+      "meaning1": "The act of breaking someone's trust or being disloyal to them. Example: Finding out her best friend had shared her secret felt like a betrayal.",
+      "meaning2": "",
+      "studentChallenge": "The spy's ___ of his country shocked everyone who had trusted him.",
+      "sentence": ""
+    },
+    {
+      "word": "nemesis",
+      "partOfSpeech": "noun",
+      "meaning1": "A long-term rival or enemy who is very hard to defeat. Example: The detective's nemesis was a clever thief who always escaped.",
+      "meaning2": "",
+      "studentChallenge": "The champion's greatest ___ was a rival who had beaten her three years in a row.",
+      "sentence": ""
+    },
+    {
+      "word": "dramatic",
+      "partOfSpeech": "adjective",
+      "meaning1": "Sudden, striking, or full of strong emotion. Example: The dramatic rescue of the stranded hikers made the evening news.",
+      "meaning2": "Relating to plays and the theater. Example: The school offers a dramatic arts class on Tuesdays.",
+      "studentChallenge": "There was a ___ change in the weather when the storm rolled in.",
+      "sentence": ""
+    },
+    {
+      "word": "jealousy",
+      "partOfSpeech": "noun",
+      "meaning1": "An unhappy feeling of wanting what someone else has. Example: Her jealousy faded when she realized her friend had worked hard for the prize.",
+      "meaning2": "Fear of losing someone's attention or affection to another person. Example: The puppy's jealousy showed when the new baby got all the attention.",
+      "studentChallenge": "He tried to hide his ___ when his cousin won the science award.",
+      "sentence": ""
+    },
+    {
+      "word": "verse",
+      "partOfSpeech": "noun",
+      "meaning1": "Writing arranged in lines with a rhythm, as in poetry. Example: The play was written in verse, so every line had a steady beat.",
+      "meaning2": "A single section of a poem or song. Example: We sang the first verse twice before the chorus.",
+      "studentChallenge": "The poet wrote her tribute in rhyming ___.",
+      "sentence": ""
+    },
+    {
+      "word": "catharsis",
+      "partOfSpeech": "noun",
+      "meaning1": "A release of strong emotions, especially through art, that leaves you feeling relieved. Example: Writing in her journal gave her a sense of catharsis after the hard week.",
+      "meaning2": "",
+      "studentChallenge": "Many viewers find that a good cry at a sad movie brings a sense of ___.",
+      "sentence": ""
+    },
+    {
+      "word": "denouement",
+      "partOfSpeech": "noun",
+      "meaning1": "The final part of a story, when the plot is resolved and loose ends are tied up. Example: In the denouement, the mystery's last questions were answered.",
+      "meaning2": "",
+      "studentChallenge": "The novel's gentle ___ showed the characters settling into their new lives.",
+      "sentence": ""
+    },
+    {
+      "word": "foil",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A character who contrasts with another, making the other's qualities stand out. Example: The cheerful sidekick is a perfect foil to the gloomy hero.",
+      "meaning2": "To stop someone's plan from succeeding. Example: The guard managed to foil the thief's plan just before the alarm sounded.",
+      "studentChallenge": "The quiet student was a ___ to her loud, outgoing best friend.",
+      "sentence": ""
+    },
+    {
+      "word": "tragic",
+      "partOfSpeech": "adjective",
+      "meaning1": "Causing great sadness; involving terrible loss or misfortune. Example: The tragic ending left the whole theater in tears.",
+      "meaning2": "Relating to tragedy in drama. Example: The actor was famous for her tragic roles.",
+      "studentChallenge": "The ___ news of the shipwreck saddened the entire town.",
+      "sentence": ""
+    },
+    {
+      "word": "hubris",
+      "partOfSpeech": "noun",
+      "meaning1": "Excessive pride or self-confidence that leads to a downfall. Example: The champion's hubris made him skip practice, and he lost the title.",
+      "meaning2": "",
+      "studentChallenge": "The general's ___ blinded him to the dangers ahead.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Alone under a single spotlight, the actor delivered a haunting _______ about his guilt.",
+      "sentence2": "In her _______, the queen confessed to the empty stage that she no longer trusted her advisers.",
+      "options": [
+        "denouement",
+        "soliloquy",
+        "nemesis",
+        "hubris"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "soliloquy"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The comedian opened her show with a funny _______ about her disastrous driving test.",
+      "sentence2": "Dad's _______ about gas prices lasted the whole drive, and no one else could get a word in.",
+      "options": [
+        "monologue",
+        "foil",
+        "catharsis",
+        "jealousy"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "monologue"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Discovering that her best friend had shared her secret felt like a painful _______.",
+      "sentence2": "Selling military secrets to the enemy was the ultimate _______ of his country.",
+      "options": [
+        "hubris",
+        "verse",
+        "denouement",
+        "betrayal"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "betrayal"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The detective's greatest _______ was a clever thief who always slipped away.",
+      "sentence2": "For years, the rival team was the champions' _______, the one opponent they could never quite beat.",
+      "options": [
+        "verse",
+        "catharsis",
+        "nemesis",
+        "soliloquy"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "nemesis"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The _______ rescue, with a lifeboat battling huge waves, made the evening news.",
+      "sentence2": "There was a _______ drop in temperature, from sixty degrees to freezing, in a single hour.",
+      "options": [
+        "betrayal",
+        "dramatic",
+        "monologue",
+        "foil"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "dramatic"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Green with _______, she watched her friend accept the trophy she had worked so hard for.",
+      "sentence2": "The puppy's _______ showed when the new baby received all of the attention.",
+      "options": [
+        "jealousy",
+        "hubris",
+        "catharsis",
+        "soliloquy"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "jealousy"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The poet wrote her tribute in rhyming _______, with every line following a steady beat.",
+      "sentence2": "We sang the first _______ of the song twice before moving on to the chorus.",
+      "options": [
+        "denouement",
+        "nemesis",
+        "foil",
+        "verse"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "verse"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Writing in her journal gave her a sense of _______ after the exhausting week.",
+      "sentence2": "The sad film offered the audience _______, a release of feelings they had been carrying.",
+      "options": [
+        "denouement",
+        "verse",
+        "catharsis",
+        "nemesis"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "catharsis"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "In the _______, the final questions were answered and the characters went their separate ways.",
+      "sentence2": "The novel's last chapter served as a gentle _______ after the tense, thrilling climax.",
+      "options": [
+        "hubris",
+        "denouement",
+        "jealousy",
+        "nemesis"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "denouement"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The cheerful sidekick serves as a perfect _______ to the gloomy hero.",
+      "sentence2": "The guard managed to _______ the thief's plan just before the alarm sounded.",
+      "options": [
+        "foil",
+        "nemesis",
+        "verse",
+        "betrayal"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "foil"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The _______ accident left the whole town in mourning.",
+      "sentence2": "The audience wept at the _______ end of the lovers' story.",
+      "options": [
+        "betrayal",
+        "foil",
+        "jealousy",
+        "tragic"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "tragic"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The champion's _______ led him to skip practice, and he lost the title.",
+      "sentence2": "In ancient stories, a hero's _______ often angers the gods and brings about his ruin.",
+      "options": [
+        "verse",
+        "catharsis",
+        "hubris",
+        "monologue"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "hubris"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "soliloquy",
+      "monologue",
+      "betrayal",
+      "nemesis",
+      "dramatic",
+      "jealousy",
+      "verse",
+      "catharsis",
+      "denouement",
+      "foil",
+      "tragic",
+      "hubris"
+    ],
+    "passage": "Dante wrote in his journal after the last rehearsal. The cast was staging a _(1)_ story about a general whose mistakes lead to terrible loss. The language was _(2)_, with every line tied to a rhythm, and he had to learn it by heart. His own _(3)_ in act two was a long speech to the whole court, while the _(4)_ late in the play, where the general stands alone and admits his fears, belonged to Orla.\n\nThe general's _(5)_, his excessive pride, makes him ignore every warning. A _(6)_ follows when his oldest ally secretly joins the other side. Driven by _(7)_ of the general's fame, the ally turns into his _(8)_. A young soldier acts as a _(9)_, a character whose gentle honesty shows how arrogant the general has become.\n\nThe final scene is _(10)_, with thunder from the speakers and a single drum. Dante noted that when the lights fall, the audience feels _(11)_, a release of sadness that oddly leaves them calmer. The short _(12)_ afterward lets the survivors take a quiet breath and begin again.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "tragic",
+        "options": [
+          "nemesis",
+          "catharsis",
+          "tragic",
+          "denouement"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "verse",
+        "options": [
+          "hubris",
+          "betrayal",
+          "foil",
+          "verse"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "monologue",
+        "options": [
+          "monologue",
+          "verse",
+          "foil",
+          "nemesis"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "soliloquy",
+        "options": [
+          "catharsis",
+          "soliloquy",
+          "betrayal",
+          "denouement"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "hubris",
+        "options": [
+          "jealousy",
+          "foil",
+          "hubris",
+          "verse"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "betrayal",
+        "options": [
+          "catharsis",
+          "soliloquy",
+          "monologue",
+          "betrayal"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "jealousy",
+        "options": [
+          "jealousy",
+          "hubris",
+          "verse",
+          "denouement"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "nemesis",
+        "options": [
+          "verse",
+          "nemesis",
+          "catharsis",
+          "monologue"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "foil",
+        "options": [
+          "verse",
+          "betrayal",
+          "foil",
+          "soliloquy"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "dramatic",
+        "options": [
+          "jealousy",
+          "denouement",
+          "verse",
+          "dramatic"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "catharsis",
+        "options": [
+          "catharsis",
+          "denouement",
+          "hubris",
+          "jealousy"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "denouement",
+        "options": [
+          "hubris",
+          "denouement",
+          "nemesis",
+          "betrayal"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "hubris",
+        "scale": [
+          "Confidence",
+          "Pride",
+          "Hubris"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "tragic",
+        "scale": [
+          "Unfortunate",
+          "Sad",
+          "Tragic"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "dramatic",
+        "scale": [
+          "Noticeable",
+          "Striking",
+          "Dramatic"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "nemesis",
+        "scale": [
+          "Opponent",
+          "Rival",
+          "Nemesis"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "betrayal",
+        "words": [
+          "Disloyalty",
+          "Treachery",
+          "Loyalty",
+          "Deceit"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Loyalty"
+      },
+      {
+        "vocabWord": "jealousy",
+        "words": [
+          "Envy",
+          "Resentment",
+          "Contentment",
+          "Covetousness"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Contentment"
+      },
+      {
+        "vocabWord": "catharsis",
+        "words": [
+          "Release",
+          "Relief",
+          "Suppression",
+          "Cleansing"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Suppression"
+      },
+      {
+        "vocabWord": "verse",
+        "words": [
+          "Poetry",
+          "Prose",
+          "Rhyme",
+          "Stanza"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Prose"
+      },
+      {
+        "vocabWord": "denouement",
+        "words": [
+          "Resolution",
+          "Conclusion",
+          "Beginning",
+          "Ending"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Beginning"
+      },
+      {
+        "vocabWord": "monologue",
+        "words": [
+          "Speech",
+          "Address",
+          "Dialogue",
+          "Lecture"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Dialogue"
+      },
+      {
+        "vocabWord": "nemesis",
+        "words": [
+          "Rival",
+          "Enemy",
+          "Ally",
+          "Opponent"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Ally"
+      },
+      {
+        "vocabWord": "tragic",
+        "words": [
+          "Sorrowful",
+          "Disastrous",
+          "Joyful",
+          "Heartbreaking"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Joyful"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

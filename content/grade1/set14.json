@@ -1,0 +1,578 @@
+{
+  "grade": 1,
+  "setNumber": 14,
+  "words": [
+    "plump",
+    "crisp",
+    "scrumptious",
+    "cluster",
+    "peel",
+    "reach",
+    "heavy",
+    "sour",
+    "tangy",
+    "gleaming",
+    "polish",
+    "bushel"
+  ],
+  "sources": [
+    "Common Core Grade 1",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "apple orchard",
+  "story": {
+    "genre": "apple orchard",
+    "characters": [
+      "Elias",
+      "June",
+      "Sunil"
+    ],
+    "parts": [
+      {
+        "title": "Into the Orchard",
+        "text": "Elias, June, and Sunil went to an apple orchard. The morning air was **crisp** and cool. A **cluster** of red apples hung on a low branch. June had to **reach** for one up high. It was big and **plump**."
+      },
+      {
+        "title": "Picking Apples",
+        "text": "Elias carried a **bushel** basket. Soon it was **heavy**, and Sunil helped him lift it."
+      },
+      {
+        "title": "Taste Test",
+        "text": "Sunil bit a green apple. It was so **sour** that he scrunched up his face! June’s red apple was sweet and **scrumptious**. Elias liked a **tangy** one that tasted bright and zingy. Then he used his sleeve to **polish** an apple until it was **gleaming**. June began to **peel** hers to share."
+      },
+      {
+        "title": "Home Again",
+        "text": "The sun began to set. The friends carried their apples to the car. They were tired and happy. “Let’s come back next year,” said June."
+      }
+    ],
+    "wordCount": 131
+  },
+  "definitions": [
+    {
+      "word": "plump",
+      "partOfSpeech": "adjective",
+      "meaning1": "Round and full. Example: The plump apple was ready to pick.",
+      "meaning2": "",
+      "studentChallenge": "The baby had soft, ___ cheeks.",
+      "sentence": ""
+    },
+    {
+      "word": "crisp",
+      "partOfSpeech": "adjective",
+      "meaning1": "Firm and fresh, and it crunches when you bite it. Example: I took a bite of the crisp apple.",
+      "meaning2": "Cool and fresh. Example: It was a crisp, cool morning in fall.",
+      "studentChallenge": "I like to eat ___ celery with peanut butter.",
+      "sentence": ""
+    },
+    {
+      "word": "scrumptious",
+      "partOfSpeech": "adjective",
+      "meaning1": "Tasting very, very good. Example: Grandma baked a scrumptious pie.",
+      "meaning2": "",
+      "studentChallenge": "The warm soup was ___, and I wanted more.",
+      "sentence": ""
+    },
+    {
+      "word": "cluster",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A small group of things close together. Example: A cluster of grapes hung on the vine.",
+      "meaning2": "To gather close together. Example: The kids cluster around the teacher.",
+      "studentChallenge": "A ___ of birds sat on the wire.",
+      "sentence": ""
+    },
+    {
+      "word": "peel",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To take the skin off a fruit. Example: Please peel the orange for me.",
+      "meaning2": "The skin of a fruit. Example: Put the apple peel in the bin.",
+      "studentChallenge": "I like to ___ a banana before I eat it.",
+      "sentence": ""
+    },
+    {
+      "word": "reach",
+      "partOfSpeech": "verb",
+      "meaning1": "To stretch out your arm to get something. Example: I reach for the apple on the high branch.",
+      "meaning2": "To get to a place. Example: We reach the farm by noon.",
+      "studentChallenge": "I can ___ the cup if I stand on my toes.",
+      "sentence": ""
+    },
+    {
+      "word": "heavy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Hard to lift because it weighs a lot. Example: The basket was heavy with apples.",
+      "meaning2": "",
+      "studentChallenge": "My backpack is ___ because it is full of books.",
+      "sentence": ""
+    },
+    {
+      "word": "sour",
+      "partOfSpeech": "adjective",
+      "meaning1": "Having a sharp taste, like a lemon. Example: The lemon was so sour that I made a funny face.",
+      "meaning2": "",
+      "studentChallenge": "The milk smelled ___, so we did not drink it.",
+      "sentence": ""
+    },
+    {
+      "word": "tangy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Having a strong, zingy taste that is nice. Example: The tangy apple cider made me smile.",
+      "meaning2": "",
+      "studentChallenge": "She put lime on the fish for a ___ taste.",
+      "sentence": ""
+    },
+    {
+      "word": "gleaming",
+      "partOfSpeech": "adjective",
+      "meaning1": "Shining bright. Example: The gleaming apple shone in the sun.",
+      "meaning2": "",
+      "studentChallenge": "Dad’s car was clean and ___ after he washed it.",
+      "sentence": ""
+    },
+    {
+      "word": "polish",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To rub something until it shines. Example: Dad will polish his shoes.",
+      "meaning2": "A cream that makes things shine. Example: I put polish on my boots.",
+      "studentChallenge": "June used a soft cloth to ___ the spoon.",
+      "sentence": ""
+    },
+    {
+      "word": "bushel",
+      "partOfSpeech": "noun",
+      "meaning1": "A big basket or amount of fruit. Example: We picked a bushel of apples.",
+      "meaning2": "",
+      "studentChallenge": "Farmer Ben sold a ___ of corn at the market.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The _______ apple was round and ready to pick.",
+      "sentence2": "The baby had _______ cheeks that were round and soft.",
+      "options": [
+        "peel",
+        "plump",
+        "reach",
+        "bushel"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "plump"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "I took a bite of the _______ apple and heard a loud crunch.",
+      "sentence2": "It was a _______, cool morning in fall.",
+      "options": [
+        "crisp",
+        "cluster",
+        "reach",
+        "polish"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "crisp"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Grandma baked a _______ pie, and we wanted more.",
+      "sentence2": "The soup was _______, and I licked the spoon.",
+      "options": [
+        "cluster",
+        "polish",
+        "bushel",
+        "scrumptious"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "scrumptious"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "A _______ of grapes hung from the vine.",
+      "sentence2": "Birds sat in a small _______ on the wire.",
+      "options": [
+        "polish",
+        "heavy",
+        "cluster",
+        "reach"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "cluster"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Please _______ the orange for me.",
+      "sentence2": "I like to _______ the skin off a banana.",
+      "options": [
+        "cluster",
+        "peel",
+        "plump",
+        "sour"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "peel"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "I stretch to _______ the apple on the high branch.",
+      "sentence2": "Can you _______ the cup on the top shelf?",
+      "options": [
+        "reach",
+        "sour",
+        "bushel",
+        "tangy"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "reach"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The basket was too _______ for me to lift.",
+      "sentence2": "My backpack is _______ because it is full of books.",
+      "options": [
+        "cluster",
+        "bushel",
+        "peel",
+        "heavy"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "heavy"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The lemon was so _______ that I made a funny face.",
+      "sentence2": "The milk smelled _______, so we did not drink it.",
+      "options": [
+        "crisp",
+        "gleaming",
+        "sour",
+        "cluster"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "sour"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The _______ cider tasted zingy and bright, and I asked for more.",
+      "sentence2": "She squeezed lime on the fish for a _______, zesty taste.",
+      "options": [
+        "heavy",
+        "tangy",
+        "plump",
+        "polish"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "tangy"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The _______ apple shone in the sun.",
+      "sentence2": "Dad’s car was clean and _______ after he washed it.",
+      "options": [
+        "gleaming",
+        "bushel",
+        "reach",
+        "peel"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "gleaming"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "Dad will _______ his shoes until they shine.",
+      "sentence2": "June used a soft cloth to _______ the apple.",
+      "options": [
+        "cluster",
+        "bushel",
+        "sour",
+        "polish"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "polish"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "We picked a whole _______ of apples at the farm.",
+      "sentence2": "Farmer Ben sold a _______ of corn at the market.",
+      "options": [
+        "plump",
+        "heavy",
+        "bushel",
+        "reach"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "bushel"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "plump",
+      "crisp",
+      "scrumptious",
+      "cluster",
+      "peel",
+      "reach",
+      "heavy",
+      "sour",
+      "tangy",
+      "gleaming",
+      "polish",
+      "bushel"
+    ],
+    "passage": "Ana and Dad went to an orchard to pick apples. A _(1)_ of red apples hung together on one branch. Ana stood on her toes to _(2)_ up high. The apple she picked was round and _(3)_.\n\nDad filled a _(4)_ with apples, and it got very _(5)_. Ana took a bite of one green apple. It was so _(6)_ that her lips puckered. Then she tried a red one that was cold and _(7)_, with a loud crunch. Dad’s was _(8)_ and zingy, a taste she liked. Ana helped _(9)_ an apple for her baby brother.\n\nAt home, Mom would bake a _(10)_ pie. Ana used a cloth to _(11)_ one apple until it was _(12)_.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "cluster",
+        "options": [
+          "polish",
+          "heavy",
+          "cluster",
+          "reach"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "reach",
+        "options": [
+          "plump",
+          "crisp",
+          "gleaming",
+          "reach"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "plump",
+        "options": [
+          "plump",
+          "peel",
+          "cluster",
+          "reach"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "bushel",
+        "options": [
+          "polish",
+          "bushel",
+          "sour",
+          "tangy"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "heavy",
+        "options": [
+          "cluster",
+          "peel",
+          "heavy",
+          "reach"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "sour",
+        "options": [
+          "cluster",
+          "reach",
+          "bushel",
+          "sour"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "crisp",
+        "options": [
+          "crisp",
+          "plump",
+          "peel",
+          "bushel"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "tangy",
+        "options": [
+          "peel",
+          "tangy",
+          "cluster",
+          "polish"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "peel",
+        "options": [
+          "cluster",
+          "sour",
+          "peel",
+          "bushel"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "scrumptious",
+        "options": [
+          "cluster",
+          "peel",
+          "reach",
+          "scrumptious"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "polish",
+        "options": [
+          "polish",
+          "plump",
+          "sour",
+          "bushel"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "gleaming",
+        "options": [
+          "cluster",
+          "gleaming",
+          "reach",
+          "bushel"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "sour",
+        "scale": [
+          "Sweet",
+          "Tangy",
+          "Sour"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "heavy",
+        "scale": [
+          "Light",
+          "Medium",
+          "Heavy"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "gleaming",
+        "scale": [
+          "Dull",
+          "Shiny",
+          "Gleaming"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "crisp",
+        "scale": [
+          "Soft",
+          "Firm",
+          "Crisp"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "plump",
+        "words": [
+          "Round",
+          "Chubby",
+          "Thin",
+          "Full"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Thin"
+      },
+      {
+        "vocabWord": "scrumptious",
+        "words": [
+          "Tasty",
+          "Yucky",
+          "Delicious",
+          "Yummy"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Yucky"
+      },
+      {
+        "vocabWord": "heavy",
+        "words": [
+          "Hefty",
+          "Weighty",
+          "Massive",
+          "Light"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Light"
+      },
+      {
+        "vocabWord": "sour",
+        "words": [
+          "Tart",
+          "Sharp",
+          "Sweet",
+          "Bitter"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Sweet"
+      },
+      {
+        "vocabWord": "gleaming",
+        "words": [
+          "Dull",
+          "Shiny",
+          "Bright",
+          "Sparkling"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Dull"
+      },
+      {
+        "vocabWord": "crisp",
+        "words": [
+          "Crunchy",
+          "Firm",
+          "Soggy",
+          "Fresh"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Soggy"
+      },
+      {
+        "vocabWord": "reach",
+        "words": [
+          "Stretch",
+          "Grab",
+          "Pull back",
+          "Extend"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Pull back"
+      },
+      {
+        "vocabWord": "polish",
+        "words": [
+          "Shine",
+          "Buff",
+          "Dirty",
+          "Rub"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Dirty"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

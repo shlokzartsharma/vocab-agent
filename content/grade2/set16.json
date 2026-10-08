@@ -1,0 +1,578 @@
+{
+  "grade": 2,
+  "setNumber": 16,
+  "words": [
+    "parade",
+    "marching",
+    "drummer",
+    "trumpet",
+    "confetti",
+    "festival",
+    "spirited",
+    "throng",
+    "lively",
+    "blare",
+    "baton",
+    "cymbal"
+  ],
+  "sources": [
+    "Common Core Grade 2",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "town parade",
+  "story": {
+    "genre": "town parade",
+    "characters": [
+      "Beni",
+      "Ashlyn",
+      "Cyrus"
+    ],
+    "parts": [
+      {
+        "title": "Parade Day",
+        "text": "Beni, Ashlyn, and Cyrus woke up early on the day of the town **festival**. The best part was the big **parade** on Main Street. A **throng** of neighbors stood along the sidewalk, waving little flags and chatting."
+      },
+      {
+        "title": "Here They Come",
+        "text": "First came a band of children **marching** in step. A **drummer** tapped a steady beat, and a girl played a shiny **trumpet**. When the horns began to **blare**, Ashlyn covered her ears and laughed. The music was **lively**, and Cyrus could not keep his feet still."
+      },
+      {
+        "title": "Surprises",
+        "text": "The band leader twirled a silver **baton** high in the air and caught it. Then a boy crashed a big **cymbal**, and everyone jumped. On a float, a clown tossed **confetti** that drifted down like colorful snow. Beni gave a **spirited** cheer and waved both arms."
+      },
+      {
+        "title": "A Happy Morning",
+        "text": "When the last float rolled away, the three friends were tired but happy. They hummed the tunes all the way home. Beni said it was the best morning of the whole year, and Ashlyn and Cyrus agreed."
+      }
+    ],
+    "wordCount": 166
+  },
+  "definitions": [
+    {
+      "word": "parade",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A long line of people, bands, and floats that move down a street for others to watch. Example: We waved flags as the parade went past our school.",
+      "meaning2": "To walk proudly so that everyone can see you. Example: The winners will parade around the track with their trophy.",
+      "studentChallenge": "We stood on the curb to watch the ___ go by.",
+      "sentence": ""
+    },
+    {
+      "word": "marching",
+      "partOfSpeech": "adjective, verb",
+      "meaning1": "Walking with steady steps in time, like a band does. Example: The marching band kept perfect time to the beat.",
+      "meaning2": "",
+      "studentChallenge": "The band members were ___ in step down the road.",
+      "sentence": ""
+    },
+    {
+      "word": "drummer",
+      "partOfSpeech": "noun",
+      "meaning1": "A person who plays a drum. Example: The drummer tapped a fast beat on her drum.",
+      "meaning2": "",
+      "studentChallenge": "The ___ hit the big drum with two wooden sticks.",
+      "sentence": ""
+    },
+    {
+      "word": "trumpet",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A shiny metal horn that you blow into to make a bright, loud sound. Example: My brother plays the trumpet in the school band.",
+      "meaning2": "To make a loud sound like a horn. Example: The elephant will trumpet when it sees its friend.",
+      "studentChallenge": "She blew into her ___ and played a happy song.",
+      "sentence": ""
+    },
+    {
+      "word": "confetti",
+      "partOfSpeech": "noun",
+      "meaning1": "Tiny pieces of colored paper that people throw to celebrate. Example: The kids tossed confetti into the air when the show ended.",
+      "meaning2": "",
+      "studentChallenge": "Bits of shiny ___ fell on everyone's heads.",
+      "sentence": ""
+    },
+    {
+      "word": "festival",
+      "partOfSpeech": "noun",
+      "meaning1": "A special time with music, food, and fun that people celebrate together. Example: Our town has a flower festival every spring.",
+      "meaning2": "",
+      "studentChallenge": "We ate corn and danced at the summer ___.",
+      "sentence": ""
+    },
+    {
+      "word": "spirited",
+      "partOfSpeech": "adjective",
+      "meaning1": "Full of energy and excitement. Example: The spirited team cheered loudly for every goal.",
+      "meaning2": "",
+      "studentChallenge": "The ___ crowd clapped and sang along.",
+      "sentence": ""
+    },
+    {
+      "word": "throng",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A large crowd of people packed close together. Example: A throng of fans waited outside the stadium.",
+      "meaning2": "To crowd into a place. Example: Shoppers throng to the market on Saturdays.",
+      "studentChallenge": "A ___ of people waited at the gate.",
+      "sentence": ""
+    },
+    {
+      "word": "lively",
+      "partOfSpeech": "adjective",
+      "meaning1": "Full of life and energy; busy and cheerful. Example: The lively puppy raced around the yard.",
+      "meaning2": "",
+      "studentChallenge": "The ___ music made us want to dance.",
+      "sentence": ""
+    },
+    {
+      "word": "blare",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To make a very loud sound. Example: Car horns blare when the traffic gets stuck.",
+      "meaning2": "A very loud, harsh sound. Example: The blare of the siren made me cover my ears.",
+      "studentChallenge": "The radio began to ___ so loudly that the baby woke up.",
+      "sentence": ""
+    },
+    {
+      "word": "baton",
+      "partOfSpeech": "noun",
+      "meaning1": "A thin stick that a leader twirls or waves. Example: The band leader twirled her baton high in the air.",
+      "meaning2": "A stick passed from one runner to the next in a relay race. Example: He grabbed the baton and sprinted away.",
+      "studentChallenge": "The runner passed the ___ to her teammate.",
+      "sentence": ""
+    },
+    {
+      "word": "cymbal",
+      "partOfSpeech": "noun",
+      "meaning1": "A thin, round metal plate that makes a loud crash when you hit it. Example: The drummer crashed the cymbal at the end of the song.",
+      "meaning2": "",
+      "studentChallenge": "The boy hit the shiny ___ with a stick.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The whole town came out to watch the _______ on Main Street.",
+      "sentence2": "Floats, bands, and dancers moved in a long _______ past the library.",
+      "options": [
+        "baton",
+        "parade",
+        "cymbal",
+        "blare"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "parade"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The band is _______ down the street in neat rows.",
+      "sentence2": "The little soldiers kept _______ in step to the music.",
+      "options": [
+        "marching",
+        "blare",
+        "throng",
+        "lively"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "marching"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The _______ tapped a steady beat on the big drum.",
+      "sentence2": "Our school band needs a _______ who can keep the beat.",
+      "options": [
+        "trumpet",
+        "baton",
+        "festival",
+        "drummer"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "drummer"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "She blew into the shiny _______ and made a bright, loud sound.",
+      "sentence2": "My uncle plays the _______ in a jazz band.",
+      "options": [
+        "cymbal",
+        "baton",
+        "trumpet",
+        "drummer"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "trumpet"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Colorful bits of _______ floated down from the roof.",
+      "sentence2": "After the party, we swept up the _______ from the floor.",
+      "options": [
+        "festival",
+        "confetti",
+        "cymbal",
+        "parade"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "confetti"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Our town has a spring _______ with music, food, and games.",
+      "sentence2": "We ate corn on the cob at the summer _______.",
+      "options": [
+        "festival",
+        "trumpet",
+        "baton",
+        "lively"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "festival"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The _______ crowd cheered and clapped as loudly as it could.",
+      "sentence2": "She gave a _______ speech that got everyone excited.",
+      "options": [
+        "confetti",
+        "baton",
+        "blare",
+        "spirited"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "spirited"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "A _______ of people crowded the sidewalk to see the floats.",
+      "sentence2": "The _______ outside the gate grew bigger every minute.",
+      "options": [
+        "baton",
+        "cymbal",
+        "throng",
+        "confetti"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "throng"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The puppy was _______ and ran in circles all day.",
+      "sentence2": "The _______ music made everyone want to dance.",
+      "options": [
+        "throng",
+        "lively",
+        "blare",
+        "baton"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "lively"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The speakers began to _______ so loudly that I covered my ears.",
+      "sentence2": "Horns _______ in the street when the traffic got stuck.",
+      "options": [
+        "blare",
+        "throng",
+        "baton",
+        "lively"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "blare"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The leader twirled her _______ high in the air.",
+      "sentence2": "In the relay race, he passed the _______ to the next runner.",
+      "options": [
+        "cymbal",
+        "trumpet",
+        "confetti",
+        "baton"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "baton"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The drummer crashed the _______ with a loud clang.",
+      "sentence2": "A shiny gold _______ shook after it was hit.",
+      "options": [
+        "festival",
+        "parade",
+        "cymbal",
+        "lively"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "cymbal"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "parade",
+      "marching",
+      "drummer",
+      "trumpet",
+      "confetti",
+      "festival",
+      "spirited",
+      "throng",
+      "lively",
+      "blare",
+      "baton",
+      "cymbal"
+    ],
+    "passage": "Noor woke up early because today was the town _(1)_. The biggest event was the _(2)_, and she wanted a spot near the front. By ten o'clock, a _(3)_ of families had filled the sidewalks.\nSoon a band came _(4)_ down the street in red hats. A _(5)_ kept a steady beat, and a tall girl lifted a golden _(6)_ to her lips. When the horns began to _(7)_, Noor clapped along to the _(8)_ tune.\nThe leader tossed her _(9)_ high into the sky and caught it without looking. Then a boy crashed a big _(10)_, and bits of _(11)_ rained down from the roof. Noor gave a _(12)_ cheer and waved to everyone she knew.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "festival",
+        "options": [
+          "marching",
+          "lively",
+          "spirited",
+          "festival"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "parade",
+        "options": [
+          "marching",
+          "parade",
+          "lively",
+          "spirited"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "throng",
+        "options": [
+          "lively",
+          "marching",
+          "spirited",
+          "throng"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "marching",
+        "options": [
+          "marching",
+          "baton",
+          "drummer",
+          "cymbal"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "drummer",
+        "options": [
+          "marching",
+          "lively",
+          "drummer",
+          "spirited"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "trumpet",
+        "options": [
+          "spirited",
+          "marching",
+          "trumpet",
+          "lively"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "blare",
+        "options": [
+          "blare",
+          "lively",
+          "festival",
+          "cymbal"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "lively",
+        "options": [
+          "confetti",
+          "cymbal",
+          "lively",
+          "baton"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "baton",
+        "options": [
+          "lively",
+          "spirited",
+          "baton",
+          "marching"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "cymbal",
+        "options": [
+          "cymbal",
+          "marching",
+          "lively",
+          "spirited"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "confetti",
+        "options": [
+          "marching",
+          "lively",
+          "spirited",
+          "confetti"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "spirited",
+        "options": [
+          "baton",
+          "confetti",
+          "spirited",
+          "cymbal"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "lively",
+        "scale": [
+          "Quiet",
+          "Lively",
+          "Rowdy"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "blare",
+        "scale": [
+          "Hum",
+          "Blare",
+          "Roar"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "throng",
+        "scale": [
+          "Pair",
+          "Group",
+          "Throng"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "spirited",
+        "scale": [
+          "Calm",
+          "Cheerful",
+          "Spirited"
+        ],
+        "vocabPosition": 2
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "marching",
+        "words": [
+          "Stepping",
+          "Striding",
+          "Halting",
+          "Walking"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Halting"
+      },
+      {
+        "vocabWord": "lively",
+        "words": [
+          "Energetic",
+          "Dull",
+          "Active",
+          "Peppy"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Dull"
+      },
+      {
+        "vocabWord": "spirited",
+        "words": [
+          "Eager",
+          "Peppy",
+          "Energetic",
+          "Tired"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Tired"
+      },
+      {
+        "vocabWord": "blare",
+        "words": [
+          "Boom",
+          "Whisper",
+          "Blast",
+          "Roar"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Whisper"
+      },
+      {
+        "vocabWord": "throng",
+        "words": [
+          "Crowd",
+          "Mob",
+          "Few",
+          "Swarm"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Few"
+      },
+      {
+        "vocabWord": "festival",
+        "words": [
+          "Celebration",
+          "Party",
+          "Fair",
+          "Gloom"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Gloom"
+      },
+      {
+        "vocabWord": "parade",
+        "words": [
+          "Procession",
+          "March",
+          "Standstill",
+          "Pageant"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Standstill"
+      },
+      {
+        "vocabWord": "trumpet",
+        "words": [
+          "Toot",
+          "Honk",
+          "Mumble",
+          "Blast"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Mumble"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

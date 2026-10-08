@@ -1,0 +1,578 @@
+{
+  "grade": 2,
+  "setNumber": 11,
+  "words": [
+    "starfish",
+    "scuttle",
+    "salty",
+    "clamber",
+    "clamp",
+    "slimy",
+    "recede",
+    "seaweed",
+    "mussel",
+    "squirt",
+    "wriggle",
+    "slither"
+  ],
+  "sources": [
+    "Common Core Grade 2",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "tide pools",
+  "story": {
+    "genre": "tide pools",
+    "characters": [
+      "Pia",
+      "Sam",
+      "Dara"
+    ],
+    "parts": [
+      {
+        "title": "Low Tide",
+        "text": "Pia, Sam, and Dara went to the beach with Dad. Dad said it was low tide, so the water would **recede** and show them a secret world. The air smelled **salty**, and the wet sand felt cool under their feet."
+      },
+      {
+        "title": "The Tide Pool",
+        "text": "Big rocks made little pools full of clear water. The children had to **clamber** over the rocks to reach them. Dara pointed at an orange **starfish** stuck to a rock. A tiny crab began to **scuttle** sideways across the sand. Pia touched a rock that felt cold and **slimy**."
+      },
+      {
+        "title": "Sea Surprises",
+        "text": "A piece of green **seaweed** floated in the water. Under it, a dark **mussel** held on tight. It could **clamp** its shell shut if anything came near. A small worm began to **wriggle** out of the wet sand. A long, thin eel began to **slither** between the rocks. When Sam touched a sea animal, it sent a **squirt** of water into the air. Everyone laughed."
+      },
+      {
+        "title": "Back Home",
+        "text": "Soon the water began to come back. The children said goodbye to the tide pool. They promised to be gentle with every living thing they saw."
+      }
+    ],
+    "wordCount": 180
+  },
+  "definitions": [
+    {
+      "word": "starfish",
+      "partOfSpeech": "noun",
+      "meaning1": "A sea animal shaped like a star with five arms. Example: The starfish clung to the rock in the tide pool.",
+      "meaning2": "",
+      "studentChallenge": "A ___ has five arms and lives in the sea.",
+      "sentence": ""
+    },
+    {
+      "word": "scuttle",
+      "partOfSpeech": "verb",
+      "meaning1": "To run quickly with short, fast steps. Example: The crab will scuttle sideways under a rock.",
+      "meaning2": "",
+      "studentChallenge": "The tiny beetle began to ___ across the floor.",
+      "sentence": ""
+    },
+    {
+      "word": "salty",
+      "partOfSpeech": "adjective",
+      "meaning1": "Tasting like salt. Example: The ocean water tasted salty.",
+      "meaning2": "",
+      "studentChallenge": "The ___ chips made me thirsty.",
+      "sentence": ""
+    },
+    {
+      "word": "clamber",
+      "partOfSpeech": "verb",
+      "meaning1": "To climb using your hands and feet. Example: We had to clamber over the big rocks to reach the water.",
+      "meaning2": "",
+      "studentChallenge": "The kids had to ___ up the rocky hill.",
+      "sentence": ""
+    },
+    {
+      "word": "clamp",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To hold or close tightly. Example: The crab can clamp its claw on a stick.",
+      "meaning2": "A tool that holds things tightly together. Example: Dad used a clamp to hold the wood.",
+      "studentChallenge": "A mussel can ___ its shell shut when it feels danger.",
+      "sentence": ""
+    },
+    {
+      "word": "slimy",
+      "partOfSpeech": "adjective",
+      "meaning1": "Wet, slippery, and a little sticky. Example: The frog felt slimy in my hand.",
+      "meaning2": "",
+      "studentChallenge": "The snail left a ___ trail on the leaf.",
+      "sentence": ""
+    },
+    {
+      "word": "recede",
+      "partOfSpeech": "verb",
+      "meaning1": "To move back or away. Example: The water will recede when the tide goes out.",
+      "meaning2": "",
+      "studentChallenge": "The flood water began to ___ after the rain stopped.",
+      "sentence": ""
+    },
+    {
+      "word": "seaweed",
+      "partOfSpeech": "noun",
+      "meaning1": "A plant that grows in the sea. Example: Green seaweed floated near the shore.",
+      "meaning2": "",
+      "studentChallenge": "Long green ___ washed up on the beach.",
+      "sentence": ""
+    },
+    {
+      "word": "mussel",
+      "partOfSpeech": "noun",
+      "meaning1": "A small sea animal with a dark shell in two parts. Example: A mussel held tight to the wet rock.",
+      "meaning2": "",
+      "studentChallenge": "The dark ___ shut its two shells tightly.",
+      "sentence": ""
+    },
+    {
+      "word": "squirt",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To shoot out a thin stream of water. Example: The toy will squirt water at my friend.",
+      "meaning2": "A thin, quick stream of liquid. Example: A squirt of lemon made the water sour.",
+      "studentChallenge": "Press the bottle and it will ___ juice into the cup.",
+      "sentence": ""
+    },
+    {
+      "word": "wriggle",
+      "partOfSpeech": "verb",
+      "meaning1": "To twist and turn with small, quick moves. Example: The worm began to wriggle in my hand.",
+      "meaning2": "",
+      "studentChallenge": "The puppy tried to ___ out of the towel.",
+      "sentence": ""
+    },
+    {
+      "word": "slither",
+      "partOfSpeech": "verb",
+      "meaning1": "To glide along the ground like a snake. Example: A snake will slither through the grass.",
+      "meaning2": "",
+      "studentChallenge": "The long snake began to ___ across the path.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The orange _______ clung to the rock with its five arms.",
+      "sentence2": "We saw a sea animal shaped like a star, and it was a _______.",
+      "options": [
+        "mussel",
+        "seaweed",
+        "squirt",
+        "starfish"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "starfish"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "A tiny crab can _______ sideways across the sand.",
+      "sentence2": "The beetle began to _______ across the floor on its tiny, quick legs.",
+      "options": [
+        "scuttle",
+        "clamber",
+        "slither",
+        "wriggle"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "scuttle"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The ocean water tasted _______ on my lips.",
+      "sentence2": "These chips are too _______, and now I need a drink.",
+      "options": [
+        "slimy",
+        "salty",
+        "seaweed",
+        "mussel"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "salty"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "We had to _______ over the big rocks to reach the pool.",
+      "sentence2": "The kids will _______ up the steep hill to see the view.",
+      "options": [
+        "recede",
+        "squirt",
+        "clamber",
+        "slither"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "clamber"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "A mussel can _______ its shell shut when it feels danger.",
+      "sentence2": "Dad used a _______ to hold the two boards together.",
+      "options": [
+        "squirt",
+        "slither",
+        "seaweed",
+        "clamp"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "clamp"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The snail left a _______ trail on the leaf.",
+      "sentence2": "The frog felt cold and _______ in my hand.",
+      "options": [
+        "slimy",
+        "salty",
+        "scuttle",
+        "mussel"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "slimy"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The flood water began to _______ after the rain stopped.",
+      "sentence2": "At low tide, the sea will _______ and leave the sand bare.",
+      "options": [
+        "clamp",
+        "recede",
+        "scuttle",
+        "clamber"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "recede"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Long green _______ washed up on the beach.",
+      "sentence2": "A little fish hid in the _______ that grew in the water.",
+      "options": [
+        "starfish",
+        "mussel",
+        "seaweed",
+        "squirt"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "seaweed"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The _______ shut its two dark shells when I touched it.",
+      "sentence2": "A _______ has a hard shell in two parts and lives on rocks.",
+      "options": [
+        "seaweed",
+        "squirt",
+        "clamp",
+        "mussel"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "mussel"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Press the bottle and it will _______ juice into the cup.",
+      "sentence2": "The clam sent a _______ of water into the air.",
+      "options": [
+        "squirt",
+        "slither",
+        "clamp",
+        "wriggle"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "squirt"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The puppy tried to _______ out of the towel.",
+      "sentence2": "A little worm began to _______ in the dirt.",
+      "options": [
+        "recede",
+        "wriggle",
+        "clamp",
+        "squirt"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "wriggle"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The long snake began to _______ across the path.",
+      "sentence2": "An eel can _______ between the rocks like a ribbon.",
+      "options": [
+        "clamber",
+        "scuttle",
+        "slither",
+        "clamp"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "slither"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "starfish",
+      "scuttle",
+      "salty",
+      "clamber",
+      "clamp",
+      "slimy",
+      "recede",
+      "seaweed",
+      "mussel",
+      "squirt",
+      "wriggle",
+      "slither"
+    ],
+    "passage": "On Saturday, Pia visited the tide pools with her class. The tide began to _(1)_, and wet rocks came into view. The air was _(2)_, and the wind smelled like the sea.\nShe had to _(3)_ over a pile of rocks to reach the water. A bright orange _(4)_ sat in the pool. Next to it, a _(5)_ could _(6)_ its shell shut. A crab began to _(7)_ past a clump of green _(8)_.\nPia felt something _(9)_ under her fingers. A small worm began to _(10)_ away, and a thin eel started to _(11)_ between the stones. When she touched a sea animal, it made a _(12)_ of water, and everyone laughed.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "recede",
+        "options": [
+          "recede",
+          "starfish",
+          "seaweed",
+          "clamber"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "salty",
+        "options": [
+          "clamber",
+          "seaweed",
+          "wriggle",
+          "salty"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "clamber",
+        "options": [
+          "mussel",
+          "recede",
+          "clamber",
+          "starfish"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "starfish",
+        "options": [
+          "slither",
+          "starfish",
+          "salty",
+          "recede"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "mussel",
+        "options": [
+          "mussel",
+          "scuttle",
+          "slimy",
+          "recede"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "clamp",
+        "options": [
+          "slither",
+          "slimy",
+          "scuttle",
+          "clamp"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "scuttle",
+        "options": [
+          "salty",
+          "mussel",
+          "scuttle",
+          "recede"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "seaweed",
+        "options": [
+          "slimy",
+          "seaweed",
+          "slither",
+          "mussel"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "slimy",
+        "options": [
+          "slimy",
+          "seaweed",
+          "wriggle",
+          "starfish"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "wriggle",
+        "options": [
+          "clamp",
+          "starfish",
+          "seaweed",
+          "wriggle"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "slither",
+        "options": [
+          "squirt",
+          "salty",
+          "slither",
+          "mussel"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "squirt",
+        "options": [
+          "scuttle",
+          "squirt",
+          "slimy",
+          "slither"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "salty",
+        "scale": [
+          "Bland",
+          "Salty",
+          "Briny"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "slimy",
+        "scale": [
+          "Damp",
+          "Slimy",
+          "Gooey"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "wriggle",
+        "scale": [
+          "Shift",
+          "Wriggle",
+          "Thrash"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "scuttle",
+        "scale": [
+          "Crawl",
+          "Scuttle",
+          "Race"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "salty",
+        "words": [
+          "Briny",
+          "Sweet",
+          "Seasoned",
+          "Salted"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Sweet"
+      },
+      {
+        "vocabWord": "slimy",
+        "words": [
+          "Dry",
+          "Slippery",
+          "Gooey",
+          "Sticky"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Dry"
+      },
+      {
+        "vocabWord": "recede",
+        "words": [
+          "Retreat",
+          "Ebb",
+          "Withdraw",
+          "Advance"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Advance"
+      },
+      {
+        "vocabWord": "clamber",
+        "words": [
+          "Climb",
+          "Scramble",
+          "Drop",
+          "Scale"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Drop"
+      },
+      {
+        "vocabWord": "wriggle",
+        "words": [
+          "Squirm",
+          "Freeze",
+          "Twist",
+          "Wiggle"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Freeze"
+      },
+      {
+        "vocabWord": "scuttle",
+        "words": [
+          "Dawdle",
+          "Scurry",
+          "Dash",
+          "Hurry"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Dawdle"
+      },
+      {
+        "vocabWord": "clamp",
+        "words": [
+          "Grip",
+          "Squeeze",
+          "Clutch",
+          "Release"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Release"
+      },
+      {
+        "vocabWord": "slither",
+        "words": [
+          "Glide",
+          "Creep",
+          "Stomp",
+          "Slide"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Stomp"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

@@ -1,0 +1,578 @@
+{
+  "grade": 7,
+  "setNumber": 17,
+  "words": [
+    "glacier",
+    "fossil",
+    "pollutant",
+    "fluctuate",
+    "harness",
+    "ozone",
+    "finite",
+    "avert",
+    "greenhouse",
+    "viable",
+    "catastrophic",
+    "turbine"
+  ],
+  "sources": [
+    "Common Core Grade 7",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "climate science class",
+  "story": {
+    "genre": "climate science class",
+    "characters": [
+      "Nadir",
+      "Alma",
+      "Jules"
+    ],
+    "parts": [
+      {
+        "title": "Melting Ice",
+        "text": "On Monday, the science teacher showed photos of a **glacier** that had shrunk by half in forty years. Nadir stared at the bare gray rock where thick ice used to be. \"Temperatures **fluctuate** from year to year,\" he argued. \"Maybe this is just a normal cycle.\" The teacher smiled and handed Alma a slab of stone holding the imprint of a **fossil** fern. Millions of years ago, she explained, warm swamps covered this region, proving that Earth's climate has changed before. \"But never this quickly,\" she added."
+      },
+      {
+        "title": "Digging for Causes",
+        "text": "Jules drew a diagram on the board. \"Certain gases trap heat the way glass does in a **greenhouse**,\" he said. Alma raised her hand. \"Isn't the hole in the **ozone** layer a separate problem?\" The teacher nodded. That thin shield high in the sky blocks harmful sunlight, and a worldwide ban on certain chemicals had helped it begin healing. Proof, she said, that people can fix things. Smoke from cars and factories adds each **pollutant** to the air, and coal and oil are **finite**, so someday they will run out. If nothing changes, the results could be **catastrophic**, with flooded coastlines and failed crops."
+      },
+      {
+        "title": "Building Answers",
+        "text": "\"Can we **avert** the worst?\" Jules asked. For their project, the trio built a paper **turbine** that spun whenever Nadir blew on it. \"Wind and sunshine are free,\" Alma said. \"The hard part is learning to **harness** them.\" Nadir calculated that solar panels on the school roof were a **viable** plan that would pay for themselves in nine years."
+      },
+      {
+        "title": "The Change of Mind",
+        "text": "That evening, Nadir realized his argument had melted away like the ice in the photographs. Facts had changed his mind, and now his job was to help change others."
+      }
+    ],
+    "wordCount": 279
+  },
+  "definitions": [
+    {
+      "word": "glacier",
+      "partOfSpeech": "noun",
+      "meaning1": "A huge, slow-moving river of ice that forms on land, usually in mountains or near the poles. Example: Over thousands of years, the glacier carved a deep valley through the rock.",
+      "meaning2": "",
+      "studentChallenge": "Hikers stared up at the ___, a wall of blue ice creeping down the mountain.",
+      "sentence": ""
+    },
+    {
+      "word": "fossil",
+      "partOfSpeech": "noun",
+      "meaning1": "The preserved remains or imprint of a plant or animal that lived long ago, found in rock. Example: The scientist brushed dust from a fossil of an ancient fish.",
+      "meaning2": "",
+      "studentChallenge": "The cliff held a ___ of a fern that was millions of years old.",
+      "sentence": ""
+    },
+    {
+      "word": "pollutant",
+      "partOfSpeech": "noun",
+      "meaning1": "A substance that makes air, water or soil dirty or harmful. Example: Scientists tested the river for any pollutant that could harm the fish.",
+      "meaning2": "",
+      "studentChallenge": "Smoke from the factory added one more harmful ___ to the city air.",
+      "sentence": ""
+    },
+    {
+      "word": "fluctuate",
+      "partOfSpeech": "verb",
+      "meaning1": "To rise and fall in an irregular way. Example: Prices at the market fluctuate from one week to the next.",
+      "meaning2": "",
+      "studentChallenge": "Temperatures in the desert can ___ wildly between noon and midnight.",
+      "sentence": ""
+    },
+    {
+      "word": "harness",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To control something and use its power for a purpose. Example: Engineers hope to harness the energy of ocean waves to light whole cities.",
+      "meaning2": "A set of straps used to hold or guide an animal or a person. Example: The climber checked her safety harness before stepping off the ledge.",
+      "studentChallenge": "Windmills ___ the power of moving air to make electricity.",
+      "sentence": ""
+    },
+    {
+      "word": "ozone",
+      "partOfSpeech": "noun",
+      "meaning1": "A form of oxygen high in the atmosphere that blocks much of the sun's harmful ultraviolet light. Example: The ozone layer shields living things from dangerous rays.",
+      "meaning2": "",
+      "studentChallenge": "A thin layer of ___ high above Earth protects us from harmful sunlight.",
+      "sentence": ""
+    },
+    {
+      "word": "finite",
+      "partOfSpeech": "adjective",
+      "meaning1": "Having a limit or an end; not endless. Example: Fresh water is a finite resource, so we must not waste it.",
+      "meaning2": "",
+      "studentChallenge": "Because oil is ___, someday the supply will run out.",
+      "sentence": ""
+    },
+    {
+      "word": "avert",
+      "partOfSpeech": "verb",
+      "meaning1": "To prevent something bad from happening. Example: A quick turn of the wheel helped the driver avert a crash.",
+      "meaning2": "To turn your eyes or thoughts away. Example: She averted her gaze from the bright light.",
+      "studentChallenge": "Careful planning could help the town ___ a water shortage.",
+      "sentence": ""
+    },
+    {
+      "word": "greenhouse",
+      "partOfSpeech": "noun",
+      "meaning1": "A building with glass walls and a glass roof used to grow plants in warm conditions. Example: Tomatoes ripen all winter inside the greenhouse behind the school.",
+      "meaning2": "",
+      "studentChallenge": "Gardeners grow tender seedlings in a glass ___ until the weather warms.",
+      "sentence": ""
+    },
+    {
+      "word": "viable",
+      "partOfSpeech": "adjective",
+      "meaning1": "Able to work successfully or to be done in practice. Example: Engineers decided that solar panels were a viable way to power the school.",
+      "meaning2": "Able to live and grow on its own. Example: The seeds were viable and sprouted within a week.",
+      "studentChallenge": "The team needed a ___ plan that was affordable and could really work.",
+      "sentence": ""
+    },
+    {
+      "word": "catastrophic",
+      "partOfSpeech": "adjective",
+      "meaning1": "Causing great damage, suffering or disaster. Example: A catastrophic flood swept away bridges, roads and hundreds of homes.",
+      "meaning2": "",
+      "studentChallenge": "The storm caused ___ damage across the entire coast.",
+      "sentence": ""
+    },
+    {
+      "word": "turbine",
+      "partOfSpeech": "noun",
+      "meaning1": "A machine with blades that spin when pushed by wind, water or steam, often used to make electricity. Example: Wind spun the huge blades of the turbine on top of the hill.",
+      "meaning2": "",
+      "studentChallenge": "The wind farm has a tall ___ that turns breezes into electricity.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Hikers stared up at the _______, a wall of blue ice creeping down the mountain.",
+      "sentence2": "Over thousands of years, a single _______ can carve a deep valley through solid rock.",
+      "options": [
+        "fossil",
+        "turbine",
+        "glacier",
+        "ozone"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "glacier"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The scientist brushed dust from a _______ of an ancient fish pressed into the stone.",
+      "sentence2": "Inside the cliff, hikers found a leaf-shaped _______ that was millions of years old.",
+      "options": [
+        "fossil",
+        "glacier",
+        "pollutant",
+        "greenhouse"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "fossil"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Scientists tested the river for any _______ that could harm the fish.",
+      "sentence2": "Smoke from the factory added one more harmful _______ to the city air.",
+      "options": [
+        "turbine",
+        "glacier",
+        "fossil",
+        "pollutant"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "pollutant"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "Temperatures in the desert can _______ wildly between noon and midnight.",
+      "sentence2": "The price of gasoline tends to _______ from one week to the next.",
+      "options": [
+        "harness",
+        "fluctuate",
+        "avert",
+        "greenhouse"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "fluctuate"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "Engineers hope to _______ the power of ocean waves to light whole cities.",
+      "sentence2": "Learning to _______ your energy can help you finish a long project.",
+      "options": [
+        "avert",
+        "fluctuate",
+        "fossil",
+        "harness"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "harness"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "High above Earth, a thin layer of _______ blocks much of the sun's harmful ultraviolet rays.",
+      "sentence2": "Banning certain chemicals helped the _______ layer slowly recover over several decades.",
+      "options": [
+        "greenhouse",
+        "ozone",
+        "glacier",
+        "pollutant"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "ozone"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "Oil and coal are _______ resources, so one day the supply will run out.",
+      "sentence2": "Our time on the school trip is _______, so we must plan each minute wisely.",
+      "options": [
+        "finite",
+        "viable",
+        "catastrophic",
+        "fluctuate"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "finite"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "A quick warning from the lookout helped the crew _______ a collision with the iceberg.",
+      "sentence2": "Planting more trees could help _______ the worst effects of the drought.",
+      "options": [
+        "harness",
+        "fluctuate",
+        "avert",
+        "turbine"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "avert"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Tomatoes ripen all winter inside the glass _______ behind the school.",
+      "sentence2": "Heat-trapping gases act like the panes of a _______, holding warmth close to Earth.",
+      "options": [
+        "turbine",
+        "greenhouse",
+        "glacier",
+        "fossil"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "greenhouse"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Engineers decided that solar panels were a _______ way to power the school.",
+      "sentence2": "Only seeds that are still _______ will sprout when planted in spring.",
+      "options": [
+        "finite",
+        "catastrophic",
+        "ozone",
+        "viable"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "viable"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "A _______ flood swept away bridges, roads and hundreds of homes.",
+      "sentence2": "Scientists warn that ignoring the problem could have _______ results for coastal cities.",
+      "options": [
+        "viable",
+        "finite",
+        "catastrophic",
+        "greenhouse"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "catastrophic"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "Wind spun the huge blades of the _______ on top of the hill.",
+      "sentence2": "Steam pushes against a _______ to make electricity inside the power plant.",
+      "options": [
+        "turbine",
+        "pollutant",
+        "fossil",
+        "ozone"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "turbine"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "glacier",
+      "fossil",
+      "pollutant",
+      "fluctuate",
+      "harness",
+      "ozone",
+      "finite",
+      "avert",
+      "greenhouse",
+      "viable",
+      "catastrophic",
+      "turbine"
+    ],
+    "passage": "Alma's report began with a hiking trip, where she saw a retreating _(1)_ that once filled an entire valley. Her guide pointed to a _(2)_ pressed into a nearby rock, the imprint of a sea creature that lived long before humans. \"The climate has always been able to _(3)_,\" he said, \"but never this fast.\"\n\nBack home, she studied how a _(4)_ keeps plants warm by trapping sunlight, and how Earth's atmosphere does something similar. She read that every _(5)_ released by a factory adds to the problem, while a layer of _(6)_ high above us protects living things from harmful rays. Coal and oil are _(7)_, she wrote, so we cannot burn them forever, and continuing could lead to _(8)_ storms and floods.\n\nHer conclusion was hopeful. People can _(9)_ the power of the wind by building a _(10)_ that turns breezes into electricity. Solar and wind plans are _(11)_ for most towns. If enough people act, we can still _(12)_ the worst outcomes.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "glacier",
+        "options": [
+          "turbine",
+          "ozone",
+          "pollutant",
+          "glacier"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "fossil",
+        "options": [
+          "fossil",
+          "glacier",
+          "greenhouse",
+          "ozone"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "fluctuate",
+        "options": [
+          "finite",
+          "turbine",
+          "fluctuate",
+          "greenhouse"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "greenhouse",
+        "options": [
+          "glacier",
+          "greenhouse",
+          "turbine",
+          "fossil"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "pollutant",
+        "options": [
+          "glacier",
+          "pollutant",
+          "viable",
+          "finite"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "ozone",
+        "options": [
+          "fossil",
+          "turbine",
+          "catastrophic",
+          "ozone"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "finite",
+        "options": [
+          "finite",
+          "glacier",
+          "turbine",
+          "ozone"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "catastrophic",
+        "options": [
+          "viable",
+          "finite",
+          "catastrophic",
+          "ozone"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "harness",
+        "options": [
+          "glacier",
+          "ozone",
+          "fossil",
+          "harness"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "turbine",
+        "options": [
+          "turbine",
+          "pollutant",
+          "viable",
+          "finite"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "viable",
+        "options": [
+          "glacier",
+          "viable",
+          "ozone",
+          "pollutant"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "avert",
+        "options": [
+          "turbine",
+          "ozone",
+          "avert",
+          "viable"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "catastrophic",
+        "scale": [
+          "Harmful",
+          "Severe",
+          "Catastrophic"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "glacier",
+        "scale": [
+          "Snowdrift",
+          "Glacier",
+          "Ice sheet"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "pollutant",
+        "scale": [
+          "Dust",
+          "Pollutant",
+          "Toxin"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "fluctuate",
+        "scale": [
+          "Vary",
+          "Fluctuate",
+          "Swing"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "pollutant",
+        "words": [
+          "Contaminant",
+          "Toxin",
+          "Purifier",
+          "Impurity"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Purifier"
+      },
+      {
+        "vocabWord": "fluctuate",
+        "words": [
+          "Vary",
+          "Waver",
+          "Steady",
+          "Swing"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Steady"
+      },
+      {
+        "vocabWord": "harness",
+        "words": [
+          "Use",
+          "Waste",
+          "Exploit",
+          "Employ"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Waste"
+      },
+      {
+        "vocabWord": "finite",
+        "words": [
+          "Limited",
+          "Restricted",
+          "Unlimited",
+          "Bounded"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Unlimited"
+      },
+      {
+        "vocabWord": "avert",
+        "words": [
+          "Prevent",
+          "Cause",
+          "Stop",
+          "Block"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Cause"
+      },
+      {
+        "vocabWord": "viable",
+        "words": [
+          "Workable",
+          "Possible",
+          "Practical",
+          "Hopeless"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Hopeless"
+      },
+      {
+        "vocabWord": "catastrophic",
+        "words": [
+          "Disastrous",
+          "Ruinous",
+          "Harmless",
+          "Devastating"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Harmless"
+      },
+      {
+        "vocabWord": "glacier",
+        "words": [
+          "Ice field",
+          "Ice sheet",
+          "Icecap",
+          "Lava flow"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Lava flow"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

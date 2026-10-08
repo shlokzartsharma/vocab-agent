@@ -1,0 +1,578 @@
+{
+  "grade": 8,
+  "setNumber": 20,
+  "words": [
+    "credibility",
+    "censorship",
+    "stereotype",
+    "slant",
+    "disclose",
+    "sensationalize",
+    "objectivity",
+    "distort",
+    "misleading",
+    "subjective",
+    "framing",
+    "omission"
+  ],
+  "sources": [
+    "Common Core Grade 8",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "media literacy",
+  "story": {
+    "genre": "media literacy",
+    "characters": [
+      "Cora",
+      "Dev",
+      "Yasmin"
+    ],
+    "parts": [
+      {
+        "title": "Two Headlines",
+        "text": "On Monday, Cora noticed two headlines about the same vote on a new skate park. One read \"Council Welcomes Park,\" the other \"Council Gambles Budget on Teen Hangout.\" Dev, editor of the school news site, saw a lesson: the second headline tried to **sensationalize** a routine decision, making it sound far more dramatic. Yasmin added that the story felt **subjective**, shaped by opinions instead of facts."
+      },
+      {
+        "title": "Looking Closer",
+        "text": "The friends made a checklist. First came **credibility**: who wrote the piece, and can its claims be checked? Next came the **framing**, the way word choices and angle shape how readers see a story. One article quoted only supporters, the other only neighbors worried about noise. Neither lied, yet each had an **omission**, a missing fact that changed the picture. Cora found a chart whose axis began at a high number, which would **distort** small differences into big ones. \"That is **misleading**,\" Dev said, \"even though every number is technically true.\""
+      },
+      {
+        "title": "Their Own Standard",
+        "text": "Dev wanted their article to show strict **objectivity**, reporting facts without personal feelings steering. Yasmin warned that every writer has some **slant**, a leaning or point of view, so the goal was awareness. Their adviser said reporters should **disclose** any connections, since Cora's brother belonged to the skate club. They also vowed to avoid any **stereotype**, such as the idea that all teenagers cause trouble. When a classmate asked whether the principal could block the story, the adviser explained **censorship**, the official banning of material, noting that student reporters' rights vary."
+      },
+      {
+        "title": "The Finished Story",
+        "text": "Their article gave both sides, listed every source, and ended with a note about Cora's brother. Readers wrote that it was less exciting but easier to trust. A good news story, Dev decided, is not a weapon or a show but a map, and readers deserve to see the whole territory."
+      }
+    ],
+    "wordCount": 299
+  },
+  "definitions": [
+    {
+      "word": "credibility",
+      "partOfSpeech": "noun",
+      "meaning1": "The quality of being believable and trustworthy. Example: The scientist's credibility grew after other labs confirmed her results.",
+      "meaning2": "",
+      "studentChallenge": "A source with no named author and no evidence has very little ___.",
+      "sentence": ""
+    },
+    {
+      "word": "censorship",
+      "partOfSpeech": "noun",
+      "meaning1": "The official banning or removal of speech, writing or art that someone in authority considers unacceptable. Example: The student newspaper protested the censorship of its editorial.",
+      "meaning2": "",
+      "studentChallenge": "Under strict ___, books and films had to be approved before anyone could see them.",
+      "sentence": ""
+    },
+    {
+      "word": "stereotype",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "An oversimplified and often unfair idea about a group of people. Example: The film challenged the stereotype that scientists are always lonely and strange.",
+      "meaning2": "To judge people according to such a fixed idea. Example: It is unfair to stereotype an entire group based on the behavior of one person.",
+      "studentChallenge": "It is unfair to rely on a ___ instead of getting to know each person.",
+      "sentence": ""
+    },
+    {
+      "word": "slant",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A particular point of view, often one-sided. Example: The editorial had a clear slant in favor of a longer recess.",
+      "meaning2": "To lean at an angle. Example: Late afternoon sunlight seemed to slant through the dusty window.",
+      "studentChallenge": "The magazine's political ___ was obvious from the first paragraph.",
+      "sentence": ""
+    },
+    {
+      "word": "disclose",
+      "partOfSpeech": "verb",
+      "meaning1": "To reveal or make known information that was secret. Example: The mayor agreed to disclose the names of everyone who had donated to her campaign.",
+      "meaning2": "",
+      "studentChallenge": "Honest reviewers ___ it when a company gives them free products.",
+      "sentence": ""
+    },
+    {
+      "word": "sensationalize",
+      "partOfSpeech": "verb",
+      "meaning1": "To present information in a shocking or exaggerated way in order to attract attention. Example: Some websites sensationalize ordinary storms to win more clicks.",
+      "meaning2": "",
+      "studentChallenge": "A fair reporter will not ___ a small accident to make it sound like a catastrophe.",
+      "sentence": ""
+    },
+    {
+      "word": "objectivity",
+      "partOfSpeech": "noun",
+      "meaning1": "The practice of judging or reporting on facts without letting personal feelings interfere. Example: A good referee must show objectivity, even when a friend is on the field.",
+      "meaning2": "",
+      "studentChallenge": "Reporters strive for ___ by keeping their personal feelings out of the facts.",
+      "sentence": ""
+    },
+    {
+      "word": "distort",
+      "partOfSpeech": "verb",
+      "meaning1": "To twist something out of its true shape or meaning. Example: Statistics can distort the truth when key facts are left out.",
+      "meaning2": "To change a sound or image so that it is unclear. Example: The old speaker would distort the music whenever the volume was too high.",
+      "studentChallenge": "A funhouse mirror can ___ your reflection until you look tall and thin.",
+      "sentence": ""
+    },
+    {
+      "word": "misleading",
+      "partOfSpeech": "adjective",
+      "meaning1": "Giving a wrong idea or impression, even without an outright lie. Example: The ad's tiny print made its low price misleading.",
+      "meaning2": "",
+      "studentChallenge": "A ___ map sent the hikers toward the wrong trail.",
+      "sentence": ""
+    },
+    {
+      "word": "subjective",
+      "partOfSpeech": "adjective",
+      "meaning1": "Based on personal feelings, tastes or opinions rather than on facts. Example: Whether a song is good is subjective, since everyone's taste is different.",
+      "meaning2": "",
+      "studentChallenge": "A review full of personal feelings is more ___ than a list of measured facts.",
+      "sentence": ""
+    },
+    {
+      "word": "framing",
+      "partOfSpeech": "noun",
+      "meaning1": "The way a story or issue is presented, including the angle, words and details chosen. Example: The framing of the headline made a small budget change sound like a disaster.",
+      "meaning2": "The act of building the skeleton of a structure, or putting a frame around something. Example: Framing the walls of the new shed took the crew two days.",
+      "studentChallenge": "The ___ of the report made the closing of the library sound like a victory.",
+      "sentence": ""
+    },
+    {
+      "word": "omission",
+      "partOfSpeech": "noun",
+      "meaning1": "Something that has been left out. Example: The omission of one key fact changed the whole meaning of the report.",
+      "meaning2": "An action that should have been done but was not. Example: Forgetting to lock the gate was a serious omission on his part.",
+      "studentChallenge": "Leaving the date off the invitation was a costly ___.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "The scientist's _______ grew after other labs confirmed her results.",
+      "sentence2": "A source with no named author and no evidence has very little _______.",
+      "options": [
+        "objectivity",
+        "credibility",
+        "framing",
+        "omission"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "credibility"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The student newspaper protested the _______ of its editorial about lunch prices.",
+      "sentence2": "Under strict _______, books and films had to be approved before anyone could see them.",
+      "options": [
+        "censorship",
+        "omission",
+        "framing",
+        "slant"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "censorship"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The film challenged the _______ that scientists are always lonely and strange.",
+      "sentence2": "It is unfair to _______ an entire group based on the behavior of one person.",
+      "options": [
+        "slant",
+        "distort",
+        "disclose",
+        "stereotype"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "stereotype"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The editorial had a clear _______ in favor of a longer recess.",
+      "sentence2": "Late afternoon light seemed to _______ through the dusty classroom window.",
+      "options": [
+        "framing",
+        "omission",
+        "slant",
+        "stereotype"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "slant"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The mayor agreed to _______ the names of everyone who had donated to her campaign.",
+      "sentence2": "Honest reviewers _______ it when a company gives them free products.",
+      "options": [
+        "distort",
+        "disclose",
+        "sensationalize",
+        "slant"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "disclose"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Some websites _______ ordinary storms to win more clicks.",
+      "sentence2": "A fair reporter will not _______ a small accident to make it sound like a catastrophe.",
+      "options": [
+        "sensationalize",
+        "disclose",
+        "stereotype",
+        "slant"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "sensationalize"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "A good referee must show _______, even when a friend is on the field.",
+      "sentence2": "Reporters strive for _______, keeping personal feelings out of the facts.",
+      "options": [
+        "credibility",
+        "censorship",
+        "framing",
+        "objectivity"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "objectivity"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "Statistics can _______ the truth when key facts are left out.",
+      "sentence2": "The old speaker would _______ the music whenever the volume was too high.",
+      "options": [
+        "disclose",
+        "sensationalize",
+        "distort",
+        "stereotype"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "distort"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The ad's tiny print made its low price _______ even though it never told an outright lie.",
+      "sentence2": "A _______ map sent the hikers toward the wrong trail.",
+      "options": [
+        "subjective",
+        "misleading",
+        "omission",
+        "slant"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "misleading"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Whether a song is good is _______, since everyone's taste is different.",
+      "sentence2": "A review full of personal feelings is more _______ than a list of measured facts.",
+      "options": [
+        "subjective",
+        "misleading",
+        "credibility",
+        "objectivity"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "subjective"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The _______ of the headline made a small budget change sound like a disaster.",
+      "sentence2": "_______ the walls of the new shed took the crew two days.",
+      "options": [
+        "slant",
+        "omission",
+        "censorship",
+        "framing"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "framing"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The _______ of one key fact changed the whole meaning of the report.",
+      "sentence2": "Forgetting to lock the gate was a serious _______ on his part.",
+      "options": [
+        "slant",
+        "censorship",
+        "omission",
+        "framing"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "omission"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "credibility",
+      "censorship",
+      "stereotype",
+      "slant",
+      "disclose",
+      "sensationalize",
+      "objectivity",
+      "distort",
+      "misleading",
+      "subjective",
+      "framing",
+      "omission"
+    ],
+    "passage": "Dev's uncle once ran a small radio station, and he liked to say that every story is built from choices. Before airing any report, his staff checked a source's _(1)_, asking whether it was trustworthy and could be verified. They tried to practice _(2)_, setting aside personal feelings, although a concert review will always be _(3)_ because it rests on opinion.\n\nOnce, a rival station chose to _(4)_ a brief power outage by calling it a \"citywide catastrophe.\" Another used a graph that would _(5)_ the numbers, making a tiny rise look enormous. A headline can be _(6)_ without containing a single false word, and a quiet _(7)_ can hide the most important fact. Even the _(8)_ of a story, meaning which details come first, changes how listeners feel.\n\nHis rules were simple. Reporters must _(9)_ any ties to advertisers. They should notice their own _(10)_ and avoid repeating any unfair _(11)_ about a group. And no one, he said, has the right to hide the truth through _(12)_.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "credibility",
+        "options": [
+          "framing",
+          "omission",
+          "credibility",
+          "stereotype"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "objectivity",
+        "options": [
+          "objectivity",
+          "censorship",
+          "omission",
+          "slant"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "subjective",
+        "options": [
+          "misleading",
+          "subjective",
+          "sensationalize",
+          "distort"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "sensationalize",
+        "options": [
+          "disclose",
+          "sensationalize",
+          "stereotype",
+          "censorship"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "distort",
+        "options": [
+          "disclose",
+          "stereotype",
+          "objectivity",
+          "distort"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "misleading",
+        "options": [
+          "subjective",
+          "censorship",
+          "misleading",
+          "credibility"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "omission",
+        "options": [
+          "slant",
+          "credibility",
+          "stereotype",
+          "omission"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "framing",
+        "options": [
+          "framing",
+          "credibility",
+          "censorship",
+          "objectivity"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "disclose",
+        "options": [
+          "distort",
+          "stereotype",
+          "disclose",
+          "sensationalize"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "slant",
+        "options": [
+          "stereotype",
+          "censorship",
+          "omission",
+          "slant"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "stereotype",
+        "options": [
+          "stereotype",
+          "credibility",
+          "subjective",
+          "censorship"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "censorship",
+        "options": [
+          "credibility",
+          "censorship",
+          "framing",
+          "objectivity"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "sensationalize",
+        "scale": [
+          "Emphasize",
+          "Dramatize",
+          "Sensationalize"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "distort",
+        "scale": [
+          "Bend",
+          "Distort",
+          "Falsify"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "misleading",
+        "scale": [
+          "Unclear",
+          "Misleading",
+          "Deceptive"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "censorship",
+        "scale": [
+          "Moderation",
+          "Censorship",
+          "Suppression"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "credibility",
+        "words": [
+          "Trustworthiness",
+          "Dishonesty",
+          "Reliability",
+          "Believability"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Dishonesty"
+      },
+      {
+        "vocabWord": "stereotype",
+        "words": [
+          "Individuality",
+          "Generalization",
+          "Cliche",
+          "Preconception"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Individuality"
+      },
+      {
+        "vocabWord": "subjective",
+        "words": [
+          "Personal",
+          "Biased",
+          "Opinionated",
+          "Factual"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Factual"
+      },
+      {
+        "vocabWord": "objectivity",
+        "words": [
+          "Fairness",
+          "Impartiality",
+          "Prejudice",
+          "Neutrality"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Prejudice"
+      },
+      {
+        "vocabWord": "omission",
+        "words": [
+          "Gap",
+          "Inclusion",
+          "Exclusion",
+          "Oversight"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Inclusion"
+      },
+      {
+        "vocabWord": "disclose",
+        "words": [
+          "Conceal",
+          "Reveal",
+          "Divulge",
+          "Expose"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Conceal"
+      },
+      {
+        "vocabWord": "slant",
+        "words": [
+          "Bias",
+          "Tilt",
+          "Leaning",
+          "Neutrality"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Neutrality"
+      },
+      {
+        "vocabWord": "misleading",
+        "words": [
+          "Deceptive",
+          "Deluding",
+          "Accurate",
+          "Fallacious"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Accurate"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

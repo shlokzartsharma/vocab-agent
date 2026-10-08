@@ -1,0 +1,578 @@
+{
+  "grade": 7,
+  "setNumber": 15,
+  "words": [
+    "inconspicuous",
+    "stalk",
+    "nocturnal",
+    "expanse",
+    "vantage",
+    "instinct",
+    "stillness",
+    "shutter",
+    "unobtrusive",
+    "savanna",
+    "patience",
+    "fleeting"
+  ],
+  "sources": [
+    "Common Core Grade 7",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "wildlife photography",
+  "story": {
+    "genre": "wildlife photography",
+    "characters": [
+      "Ingrid",
+      "Rafi",
+      "Thandi"
+    ],
+    "parts": [
+      {
+        "title": "Before Dawn",
+        "text": "Thandi's aunt, a wildlife photographer, drove Ingrid and Rafi onto the African **savanna** before sunrise. Golden grass rolled away in a vast **expanse**, broken only by a few flat-topped trees. They parked on a low hill, a perfect **vantage** point for watching the plain below. Her aunt draped the truck with a tan cloth so it looked **inconspicuous** against the dry grass."
+      },
+      {
+        "title": "The Waiting Game",
+        "text": "\"The best photographers are **unobtrusive**,\" her aunt whispered. \"Animals should forget we are here.\" Rafi, who hated waiting, fidgeted until she explained that **patience** was the most important tool in her camera bag. For two hours they sat in perfect **stillness** while zebras grazed and a pair of eagles drifted overhead. Ingrid's legs went numb, but she did not complain."
+      },
+      {
+        "title": "The Shot",
+        "text": "As dusk fell, **nocturnal** animals began to wake. Suddenly a serval, a long-legged spotted cat, began to **stalk** a field mouse through the tall grass, placing each paw with care. Ingrid's **instinct** told her to lift the camera before the cat moved. She rested her finger on the **shutter** and pressed so gently that it clicked only once. The moment was **fleeting**: a second later the mouse darted away and the cat sprang after it into the gloom."
+      },
+      {
+        "title": "Back at Camp",
+        "text": "Around the fire, the three friends scrolled through the photographs. The sharpest one was not the best. Their favorite showed the cat frozen mid-step, one paw lifted. Thandi realized the picture existed only because they had given up talking, snacking and checking the time. Rafi announced that he wanted to wait the whole night next time, and everybody laughed, because they knew he meant it."
+      }
+    ],
+    "wordCount": 265
+  },
+  "definitions": [
+    {
+      "word": "inconspicuous",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not easy to notice, because it blends in with its surroundings. Example: The gray moth was inconspicuous against the tree bark.",
+      "meaning2": "",
+      "studentChallenge": "Wearing green, the hiker was ___ among the leaves.",
+      "sentence": ""
+    },
+    {
+      "word": "stalk",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To follow or approach a person or animal quietly and carefully, usually in order to hunt it. Example: The lioness began to stalk the herd through the tall grass.",
+      "meaning2": "The main stem of a plant. Example: He snapped a stalk of celery in half.",
+      "studentChallenge": "The cat crouched low to ___ the bird across the lawn.",
+      "sentence": ""
+    },
+    {
+      "word": "nocturnal",
+      "partOfSpeech": "adjective",
+      "meaning1": "Active at night rather than during the day. Example: Owls are nocturnal birds that sleep through the day.",
+      "meaning2": "",
+      "studentChallenge": "Bats are ___ animals, so they hunt only after the sun goes down.",
+      "sentence": ""
+    },
+    {
+      "word": "expanse",
+      "partOfSpeech": "noun",
+      "meaning1": "A wide, open area of land, water, or sky. Example: A vast expanse of ice stretched in every direction.",
+      "meaning2": "",
+      "studentChallenge": "From the plane, we saw an endless ___ of blue ocean.",
+      "sentence": ""
+    },
+    {
+      "word": "vantage",
+      "partOfSpeech": "noun",
+      "meaning1": "A place or position that gives a good view. Example: The hill was a perfect vantage point for watching the parade.",
+      "meaning2": "A particular way of looking at a situation. Example: From a teacher's vantage, the test results looked encouraging.",
+      "studentChallenge": "From this high ___ point, we can see the whole valley.",
+      "sentence": ""
+    },
+    {
+      "word": "instinct",
+      "partOfSpeech": "noun",
+      "meaning1": "A natural feeling or way of behaving that you have without being taught. Example: A mother bird's instinct is to protect her eggs.",
+      "meaning2": "A strong inner sense about something. Example: Her instinct told her something was wrong.",
+      "studentChallenge": "Birds fly south each winter by ___, not because anyone taught them.",
+      "sentence": ""
+    },
+    {
+      "word": "stillness",
+      "partOfSpeech": "noun",
+      "meaning1": "The state of being quiet and not moving. Example: The stillness of the forest at dawn was peaceful.",
+      "meaning2": "",
+      "studentChallenge": "A sudden ___ fell over the room as the speaker raised her hand.",
+      "sentence": ""
+    },
+    {
+      "word": "shutter",
+      "partOfSpeech": "noun",
+      "meaning1": "The part of a camera that opens and closes to let light in. Example: The photographer pressed the shutter button halfway down.",
+      "meaning2": "A hinged cover for a window. Example: She closed the shutter to keep the afternoon sun out.",
+      "studentChallenge": "The camera's ___ clicked as the photographer took the picture.",
+      "sentence": ""
+    },
+    {
+      "word": "unobtrusive",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not drawing attention to yourself; not getting in the way. Example: The waiter was so unobtrusive that we hardly noticed him refill our glasses.",
+      "meaning2": "",
+      "studentChallenge": "The photographer stayed ___ so the shy birds would not be scared away.",
+      "sentence": ""
+    },
+    {
+      "word": "savanna",
+      "partOfSpeech": "noun",
+      "meaning1": "A flat, grassy plain with few trees, found in warm parts of the world. Example: Elephants roamed across the African savanna.",
+      "meaning2": "",
+      "studentChallenge": "Lions and zebras live on the grassy ___ of Africa.",
+      "sentence": ""
+    },
+    {
+      "word": "patience",
+      "partOfSpeech": "noun",
+      "meaning1": "The ability to wait calmly without getting upset. Example: Fishing takes patience, because the fish may not bite for hours.",
+      "meaning2": "Calm, steady effort when something is difficult. Example: Learning the cello requires patience.",
+      "studentChallenge": "It took great ___ to wait three hours for the bird to return.",
+      "sentence": ""
+    },
+    {
+      "word": "fleeting",
+      "partOfSpeech": "adjective",
+      "meaning1": "Lasting only a very short time. Example: She caught a fleeting glimpse of the fox before it vanished.",
+      "meaning2": "",
+      "studentChallenge": "The rainbow was ___, fading after only a minute.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Wearing green, the hiker was _______ among the leaves.",
+      "sentence2": "The gray moth was nearly _______ against the bark of the old tree.",
+      "options": [
+        "nocturnal",
+        "inconspicuous",
+        "fleeting",
+        "stillness"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "inconspicuous"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The cat crouched low to _______ the bird across the lawn.",
+      "sentence2": "He snapped a _______ of celery in half and dropped it into the soup.",
+      "options": [
+        "shutter",
+        "instinct",
+        "patience",
+        "stalk"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "stalk"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "Bats are _______ animals, so they hunt only after the sun goes down.",
+      "sentence2": "The scientist recorded the _______ sounds of crickets and frogs after midnight.",
+      "options": [
+        "nocturnal",
+        "fleeting",
+        "savanna",
+        "stillness"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "nocturnal"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "From the plane, we saw an endless _______ of blue ocean.",
+      "sentence2": "A vast _______ of ice stretched in every direction around the explorers.",
+      "options": [
+        "instinct",
+        "shutter",
+        "expanse",
+        "patience"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "expanse"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The hill was a perfect _______ point for watching the parade.",
+      "sentence2": "From a teacher's _______, the test results looked encouraging.",
+      "options": [
+        "vantage",
+        "shutter",
+        "stalk",
+        "patience"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "vantage"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "Birds fly south each winter by _______, not because anyone taught them.",
+      "sentence2": "Her _______ told her something was wrong, so she checked the locks twice.",
+      "options": [
+        "shutter",
+        "instinct",
+        "expanse",
+        "stillness"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "instinct"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "A sudden _______ fell over the room as the speaker raised her hand.",
+      "sentence2": "The _______ of the forest at dawn was broken only by a single bird.",
+      "options": [
+        "shutter",
+        "instinct",
+        "vantage",
+        "stillness"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "stillness"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The camera's _______ clicked the moment she pressed the button.",
+      "sentence2": "She closed the _______ to keep the afternoon sun out of her room.",
+      "options": [
+        "instinct",
+        "stillness",
+        "shutter",
+        "savanna"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "shutter"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "The waiter was so _______ that we hardly noticed him refill our glasses.",
+      "sentence2": "The photographer stayed _______ so the shy birds would not be frightened away.",
+      "options": [
+        "fleeting",
+        "unobtrusive",
+        "nocturnal",
+        "instinct"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "unobtrusive"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "Lions and zebras live on the grassy _______ of Africa.",
+      "sentence2": "Elephants roamed across the warm, dry _______ in search of water.",
+      "options": [
+        "savanna",
+        "patience",
+        "shutter",
+        "instinct"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "savanna"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "It took great _______ to wait three hours for the bird to return.",
+      "sentence2": "Learning the cello requires steady _______, because progress comes slowly.",
+      "options": [
+        "shutter",
+        "savanna",
+        "vantage",
+        "patience"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "patience"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The rainbow was _______, fading after only a minute.",
+      "sentence2": "She caught a _______ glimpse of the fox before it vanished into the trees.",
+      "options": [
+        "stillness",
+        "savanna",
+        "fleeting",
+        "shutter"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "fleeting"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "inconspicuous",
+      "stalk",
+      "nocturnal",
+      "expanse",
+      "vantage",
+      "instinct",
+      "stillness",
+      "shutter",
+      "unobtrusive",
+      "savanna",
+      "patience",
+      "fleeting"
+    ],
+    "passage": "Rafi wrote a blog post about his first photo safari. The trip began on the dry _(1)_, where herds moved slowly under a heavy sun. His guide found a rocky _(2)_ and parked in the shade of a tree, hoping the truck would look _(3)_ among the branches. \"Wildlife photography is mostly _(4)_,\" she told him. In the long _(5)_ that followed, he heard only the hum of insects.\n\nAt dusk, the _(6)_ animals woke. Rafi felt his _(7)_ telling him that something was about to happen. A jackal began to _(8)_ a hare across the wide _(9)_ of grass. He raised his camera and pressed the _(10)_ button. The chance was _(11)_, gone in the blink of an eye. His guide's last bit of advice was to stay quiet and _(12)_, because wild animals carry on as usual only if they barely notice you.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "savanna",
+        "options": [
+          "shutter",
+          "savanna",
+          "instinct",
+          "patience"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "vantage",
+        "options": [
+          "vantage",
+          "shutter",
+          "patience",
+          "instinct"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "inconspicuous",
+        "options": [
+          "nocturnal",
+          "fleeting",
+          "inconspicuous",
+          "savanna"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "patience",
+        "options": [
+          "shutter",
+          "vantage",
+          "savanna",
+          "patience"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "stillness",
+        "options": [
+          "stillness",
+          "shutter",
+          "vantage",
+          "savanna"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "nocturnal",
+        "options": [
+          "fleeting",
+          "savanna",
+          "nocturnal",
+          "shutter"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "instinct",
+        "options": [
+          "shutter",
+          "instinct",
+          "savanna",
+          "vantage"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "stalk",
+        "options": [
+          "shutter",
+          "patience",
+          "expanse",
+          "stalk"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "expanse",
+        "options": [
+          "expanse",
+          "shutter",
+          "instinct",
+          "patience"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "shutter",
+        "options": [
+          "patience",
+          "vantage",
+          "shutter",
+          "stalk"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "fleeting",
+        "options": [
+          "nocturnal",
+          "savanna",
+          "shutter",
+          "fleeting"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "unobtrusive",
+        "options": [
+          "fleeting",
+          "unobtrusive",
+          "nocturnal",
+          "patience"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "expanse",
+        "scale": [
+          "Patch",
+          "Stretch",
+          "Expanse"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "inconspicuous",
+        "scale": [
+          "Subtle",
+          "Inconspicuous",
+          "Invisible"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "instinct",
+        "scale": [
+          "Hunch",
+          "Instinct",
+          "Certainty"
+        ],
+        "vocabPosition": 1
+      },
+      {
+        "vocabWord": "patience",
+        "scale": [
+          "Calm",
+          "Patience",
+          "Endurance"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "inconspicuous",
+        "words": [
+          "Hidden",
+          "Subtle",
+          "Unnoticeable",
+          "Obvious"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Obvious"
+      },
+      {
+        "vocabWord": "stalk",
+        "words": [
+          "Hunt",
+          "Retreat",
+          "Track",
+          "Pursue"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Retreat"
+      },
+      {
+        "vocabWord": "nocturnal",
+        "words": [
+          "Nighttime",
+          "Nightly",
+          "Moonlit",
+          "Daytime"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Daytime"
+      },
+      {
+        "vocabWord": "expanse",
+        "words": [
+          "Stretch",
+          "Spread",
+          "Speck",
+          "Sweep"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Speck"
+      },
+      {
+        "vocabWord": "stillness",
+        "words": [
+          "Commotion",
+          "Calm",
+          "Quiet",
+          "Hush"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Commotion"
+      },
+      {
+        "vocabWord": "unobtrusive",
+        "words": [
+          "Discreet",
+          "Flashy",
+          "Modest",
+          "Low-key"
+        ],
+        "imposterIndex": 1,
+        "imposterWord": "Flashy"
+      },
+      {
+        "vocabWord": "fleeting",
+        "words": [
+          "Brief",
+          "Momentary",
+          "Lasting",
+          "Passing"
+        ],
+        "imposterIndex": 2,
+        "imposterWord": "Lasting"
+      },
+      {
+        "vocabWord": "patience",
+        "words": [
+          "Impatience",
+          "Tolerance",
+          "Calmness",
+          "Endurance"
+        ],
+        "imposterIndex": 0,
+        "imposterWord": "Impatience"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}

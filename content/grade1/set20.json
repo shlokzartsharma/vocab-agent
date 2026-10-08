@@ -1,0 +1,578 @@
+{
+  "grade": 1,
+  "setNumber": 20,
+  "words": [
+    "roam",
+    "lumber",
+    "majestic",
+    "astonish",
+    "stripe",
+    "mighty",
+    "roar",
+    "plod",
+    "wallow",
+    "bellow",
+    "fearless",
+    "lounge"
+  ],
+  "sources": [
+    "Common Core Grade 1",
+    "Tier 2 Academic",
+    "Custom (Existing)"
+  ],
+  "genre": "zoo visit",
+  "story": {
+    "genre": "zoo visit",
+    "characters": [
+      "Jomo",
+      "Nell",
+      "Arjun"
+    ],
+    "parts": [
+      {
+        "title": "Through the Gate",
+        "text": "Jomo, Nell, and Arjun went to the zoo with their class. The animals could **roam** in wide, open yards. First they saw a lion on a big rock. He looked **majestic** with his thick mane. Then he gave a loud **roar**."
+      },
+      {
+        "title": "Big and Strong",
+        "text": "An elephant began to **lumber** past the fence. Its legs were big and **mighty**. Its size would **astonish** anyone. Near the pond, a hippo chose to **wallow** in the cool mud."
+      },
+      {
+        "title": "More Friends",
+        "text": "Arjun counted each black **stripe** on a zebra. A turtle began to **plod** along the path. A big gorilla let out a deep **bellow**. Arjun was **fearless** and waved hello. At the end, a bear stretched out to **lounge** in the sun."
+      },
+      {
+        "title": "Home Again",
+        "text": "The zoo closed at five. The friends rode the bus home, tired and happy. They told their families about every animal."
+      }
+    ],
+    "wordCount": 135
+  },
+  "definitions": [
+    {
+      "word": "roam",
+      "partOfSpeech": "verb",
+      "meaning1": "To walk around freely with no plan. Example: Cows roam in the big green field.",
+      "meaning2": "",
+      "studentChallenge": "Sheep ___ over the hills all day.",
+      "sentence": ""
+    },
+    {
+      "word": "lumber",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To move slowly and heavily. Example: The bear will lumber through the woods.",
+      "meaning2": "Wood cut for building. Example: Dad bought lumber to build a fort.",
+      "studentChallenge": "The huge truck began to ___ down the road.",
+      "sentence": ""
+    },
+    {
+      "word": "majestic",
+      "partOfSpeech": "adjective",
+      "meaning1": "Grand and beautiful; very special to see. Example: The eagle looked majestic in the sky.",
+      "meaning2": "",
+      "studentChallenge": "The ___ mountain rose high above the town.",
+      "sentence": ""
+    },
+    {
+      "word": "astonish",
+      "partOfSpeech": "verb",
+      "meaning1": "To surprise someone very much. Example: The magic trick will astonish you.",
+      "meaning2": "",
+      "studentChallenge": "The tall tower will ___ you with its size.",
+      "sentence": ""
+    },
+    {
+      "word": "stripe",
+      "partOfSpeech": "noun",
+      "meaning1": "A long, thin line of color. Example: The flag has a red stripe.",
+      "meaning2": "",
+      "studentChallenge": "My shirt has one blue ___ across the front.",
+      "sentence": ""
+    },
+    {
+      "word": "mighty",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very strong and powerful. Example: The mighty ox pulled the cart.",
+      "meaning2": "",
+      "studentChallenge": "The ___ giant lifted the huge rock.",
+      "sentence": ""
+    },
+    {
+      "word": "roar",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To make a loud, deep sound. Example: The lion will roar at the sunrise.",
+      "meaning2": "A loud, deep sound. Example: We heard a roar from the crowd.",
+      "studentChallenge": "The big lion began to ___ loudly.",
+      "sentence": ""
+    },
+    {
+      "word": "plod",
+      "partOfSpeech": "verb",
+      "meaning1": "To walk slowly with heavy steps. Example: The tired hikers plod up the hill.",
+      "meaning2": "",
+      "studentChallenge": "The turtle will ___ along the path.",
+      "sentence": ""
+    },
+    {
+      "word": "wallow",
+      "partOfSpeech": "verb",
+      "meaning1": "To roll around in mud or water for fun. Example: Pigs wallow in the mud.",
+      "meaning2": "",
+      "studentChallenge": "Hippos like to ___ in the cool river.",
+      "sentence": ""
+    },
+    {
+      "word": "bellow",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To shout in a deep, loud voice. Example: The farmer will bellow across the field.",
+      "meaning2": "A deep, loud shout. Example: We heard a bellow from the barn.",
+      "studentChallenge": "The big bull began to ___ in the barn.",
+      "sentence": ""
+    },
+    {
+      "word": "fearless",
+      "partOfSpeech": "adjective",
+      "meaning1": "Not afraid of anything. Example: The fearless firefighter climbed the ladder.",
+      "meaning2": "",
+      "studentChallenge": "The ___ girl jumped off the high diving board.",
+      "sentence": ""
+    },
+    {
+      "word": "lounge",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To rest in a lazy, easy way. Example: I lounge on the couch on Sunday.",
+      "meaning2": "A room for relaxing. Example: We waited in the hotel lounge.",
+      "studentChallenge": "The cat likes to ___ in the sunny window.",
+      "sentence": ""
+    }
+  ],
+  "doubleTakeQuiz": [
+    {
+      "questionNumber": 1,
+      "sentence1": "Cows _______ across the wide green field.",
+      "sentence2": "Wild horses _______ over the hills all day.",
+      "options": [
+        "stripe",
+        "mighty",
+        "roam",
+        "fearless"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "roam"
+    },
+    {
+      "questionNumber": 2,
+      "sentence1": "The big truck began to _______ up the hill.",
+      "sentence2": "Dad bought _______ to build a fort.",
+      "options": [
+        "lumber",
+        "plod",
+        "roam",
+        "bellow"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "lumber"
+    },
+    {
+      "questionNumber": 3,
+      "sentence1": "The eagle looked _______ high in the sky.",
+      "sentence2": "The _______ mountain rose above the town.",
+      "options": [
+        "roam",
+        "astonish",
+        "stripe",
+        "majestic"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "majestic"
+    },
+    {
+      "questionNumber": 4,
+      "sentence1": "The magic trick will _______ you.",
+      "sentence2": "The tall tower will _______ visitors with its size.",
+      "options": [
+        "wallow",
+        "astonish",
+        "roar",
+        "lounge"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "astonish"
+    },
+    {
+      "questionNumber": 5,
+      "sentence1": "The flag has a red _______ across the middle.",
+      "sentence2": "Her shirt has one blue _______ on the front.",
+      "options": [
+        "roar",
+        "bellow",
+        "stripe",
+        "mighty"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "stripe"
+    },
+    {
+      "questionNumber": 6,
+      "sentence1": "The _______ ox pulled the heavy cart.",
+      "sentence2": "A _______ wind bent the tall trees.",
+      "options": [
+        "mighty",
+        "plod",
+        "wallow",
+        "stripe"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "mighty"
+    },
+    {
+      "questionNumber": 7,
+      "sentence1": "The lion began to _______ loudly.",
+      "sentence2": "We heard the _______ of the crowd.",
+      "options": [
+        "wallow",
+        "plod",
+        "stripe",
+        "roar"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "roar"
+    },
+    {
+      "questionNumber": 8,
+      "sentence1": "The tired turtle will _______ along the path.",
+      "sentence2": "We _______ up the long hill with heavy feet.",
+      "options": [
+        "majestic",
+        "plod",
+        "astonish",
+        "mighty"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "plod"
+    },
+    {
+      "questionNumber": 9,
+      "sentence1": "Pigs like to _______ in the cool mud.",
+      "sentence2": "The hippo will _______ in the river to stay cool.",
+      "options": [
+        "majestic",
+        "fearless",
+        "wallow",
+        "stripe"
+      ],
+      "correctIndex": 2,
+      "correctAnswer": "wallow"
+    },
+    {
+      "questionNumber": 10,
+      "sentence1": "The big bull began to _______ in the barn.",
+      "sentence2": "The coach had to _______ so the team could hear.",
+      "options": [
+        "bellow",
+        "fearless",
+        "majestic",
+        "stripe"
+      ],
+      "correctIndex": 0,
+      "correctAnswer": "bellow"
+    },
+    {
+      "questionNumber": 11,
+      "sentence1": "The _______ girl jumped off the high diving board.",
+      "sentence2": "The _______ firefighter climbed the tall ladder.",
+      "options": [
+        "stripe",
+        "roam",
+        "plod",
+        "fearless"
+      ],
+      "correctIndex": 3,
+      "correctAnswer": "fearless"
+    },
+    {
+      "questionNumber": 12,
+      "sentence1": "The cat likes to _______ in the sunny window.",
+      "sentence2": "We waited in the hotel _______ for our room.",
+      "options": [
+        "roam",
+        "lounge",
+        "wallow",
+        "stripe"
+      ],
+      "correctIndex": 1,
+      "correctAnswer": "lounge"
+    }
+  ],
+  "secretPassage": {
+    "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
+    "wordBank": [
+      "roam",
+      "lumber",
+      "majestic",
+      "astonish",
+      "stripe",
+      "mighty",
+      "roar",
+      "plod",
+      "wallow",
+      "bellow",
+      "fearless",
+      "lounge"
+    ],
+    "passage": "At the wildlife park, the animals are free to _(1)_ over wide fields. A _(2)_ giraffe stood by the trees. Mei pointed at a zebra and traced each black _(3)_ with her finger. Nearby stood a _(4)_ rhino, as strong as a truck.\n\nA slow tortoise began to _(5)_ across the path. A pair of lions chose to _(6)_ in the shade. One lion lifted its head and gave a loud _(7)_. The sound did not _(8)_ the keeper, who heard it every day.\n\nOver by the pond, a hippo went to _(9)_ in the mud. A young elephant started to _(10)_ toward the water. Its mother let out a deep _(11)_ to call it back. The little elephant was _(12)_, but it came right back.",
+    "blanks": [
+      {
+        "blankNumber": 1,
+        "correctAnswer": "roam",
+        "options": [
+          "roam",
+          "majestic",
+          "stripe",
+          "mighty"
+        ]
+      },
+      {
+        "blankNumber": 2,
+        "correctAnswer": "majestic",
+        "options": [
+          "roam",
+          "plod",
+          "wallow",
+          "majestic"
+        ]
+      },
+      {
+        "blankNumber": 3,
+        "correctAnswer": "stripe",
+        "options": [
+          "roam",
+          "stripe",
+          "plod",
+          "fearless"
+        ]
+      },
+      {
+        "blankNumber": 4,
+        "correctAnswer": "mighty",
+        "options": [
+          "roar",
+          "wallow",
+          "mighty",
+          "lounge"
+        ]
+      },
+      {
+        "blankNumber": 5,
+        "correctAnswer": "plod",
+        "options": [
+          "plod",
+          "majestic",
+          "stripe",
+          "fearless"
+        ]
+      },
+      {
+        "blankNumber": 6,
+        "correctAnswer": "lounge",
+        "options": [
+          "mighty",
+          "stripe",
+          "fearless",
+          "lounge"
+        ]
+      },
+      {
+        "blankNumber": 7,
+        "correctAnswer": "roar",
+        "options": [
+          "majestic",
+          "roar",
+          "mighty",
+          "fearless"
+        ]
+      },
+      {
+        "blankNumber": 8,
+        "correctAnswer": "astonish",
+        "options": [
+          "stripe",
+          "fearless",
+          "astonish",
+          "majestic"
+        ]
+      },
+      {
+        "blankNumber": 9,
+        "correctAnswer": "wallow",
+        "options": [
+          "wallow",
+          "stripe",
+          "majestic",
+          "mighty"
+        ]
+      },
+      {
+        "blankNumber": 10,
+        "correctAnswer": "lumber",
+        "options": [
+          "stripe",
+          "fearless",
+          "majestic",
+          "lumber"
+        ]
+      },
+      {
+        "blankNumber": 11,
+        "correctAnswer": "bellow",
+        "options": [
+          "mighty",
+          "bellow",
+          "majestic",
+          "plod"
+        ]
+      },
+      {
+        "blankNumber": 12,
+        "correctAnswer": "fearless",
+        "options": [
+          "roam",
+          "plod",
+          "fearless",
+          "bellow"
+        ]
+      }
+    ]
+  },
+  "wordScaleImposter": {
+    "wordScales": [
+      {
+        "vocabWord": "bellow",
+        "scale": [
+          "Whisper",
+          "Call",
+          "Bellow"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "mighty",
+        "scale": [
+          "Weak",
+          "Strong",
+          "Mighty"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "fearless",
+        "scale": [
+          "Nervous",
+          "Brave",
+          "Fearless"
+        ],
+        "vocabPosition": 2
+      },
+      {
+        "vocabWord": "plod",
+        "scale": [
+          "Creep",
+          "Plod",
+          "March"
+        ],
+        "vocabPosition": 1
+      }
+    ],
+    "imposterHunt": [
+      {
+        "vocabWord": "roam",
+        "words": [
+          "Wander",
+          "Drift",
+          "Stroll",
+          "Stay put"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Stay put"
+      },
+      {
+        "vocabWord": "majestic",
+        "words": [
+          "Grand",
+          "Noble",
+          "Splendid",
+          "Plain"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Plain"
+      },
+      {
+        "vocabWord": "astonish",
+        "words": [
+          "Amaze",
+          "Surprise",
+          "Stun",
+          "Bore"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Bore"
+      },
+      {
+        "vocabWord": "mighty",
+        "words": [
+          "Strong",
+          "Powerful",
+          "Sturdy",
+          "Weak"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Weak"
+      },
+      {
+        "vocabWord": "wallow",
+        "words": [
+          "Roll",
+          "Splash",
+          "Flop",
+          "Stay dry"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Stay dry"
+      },
+      {
+        "vocabWord": "lounge",
+        "words": [
+          "Rest",
+          "Relax",
+          "Laze",
+          "Rush"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Rush"
+      },
+      {
+        "vocabWord": "fearless",
+        "words": [
+          "Brave",
+          "Bold",
+          "Daring",
+          "Scared"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Scared"
+      },
+      {
+        "vocabWord": "lumber",
+        "words": [
+          "Trudge",
+          "Stomp",
+          "Clomp",
+          "Dart"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "Dart"
+      }
+    ],
+    "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
+  }
+}
