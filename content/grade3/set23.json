@@ -7,12 +7,12 @@
     "release",
     "error",
     "review",
-    "coast",
+    "prowl",
     "mention",
-    "passage",
+    "quaint",
     "marsh",
     "provisions",
-    "resource",
+    "notion",
     "glisten"
   ],
   "sources": [
@@ -41,12 +41,12 @@
       },
       {
         "title": "Into Danger",
-        "text": "Zara crept along the rocky **coast**, where the crashing waves masked the sound of her footsteps. She was careful not to **mention** her location on the radio \u2014 the enemy might be listening. A hidden **passage** ran beneath the old warehouse, and she squeezed through it without pausing to **halt**. The wet walls began to **glisten** in the dim beam of her torch.",
+        "text": "Zara began to **prowl** along the rocky cliffs, where the crashing waves masked the sound of her footsteps. She was careful not to **mention** her location on the radio \u2014 the enemy might be listening. A **quaint** little door, hidden behind old crates, led to a tunnel beneath the warehouse, and she squeezed through it without pausing to **halt**. The wet walls began to **glisten** in the dim beam of her torch.",
         "wordCount": 64
       },
       {
         "title": "The Vault",
-        "text": "Inside, she found the safe \u2014 half-buried in a muddy **marsh** of old papers and broken shelves. It held the stolen **provisions** maps that the spy network needed to **release** to the public. Arnav had told her that the library archives were the most valuable **resource** for tracing the originals. \"I've found them,\" she whispered into her earpiece to Saanvi.",
+        "text": "Inside, she found the safe \u2014 half-buried in a muddy **marsh** of old papers and broken shelves. It held the stolen **provisions** maps that the spy network needed to **release** to the public. Arnav had a **notion** that the library archives would help her trace the originals. \"I've found them,\" she whispered into her earpiece to Saanvi.",
         "wordCount": 63
       },
       {
@@ -55,7 +55,7 @@
         "wordCount": 63
       }
     ],
-    "wordCount": 240
+    "wordCount": 241
   },
   "definitions": [
     {
@@ -99,11 +99,11 @@
       "sentence": ""
     },
     {
-      "word": "coast",
-      "partOfSpeech": "noun, verb",
-      "meaning1": "The land next to the sea. Example: We drove along the coast to see the ocean.",
-      "meaning2": "To move without effort. Example: The bike coasted down the hill.",
-      "studentChallenge": "Beautiful beaches line the ___ of California.",
+      "word": "prowl",
+      "partOfSpeech": "verb",
+      "meaning1": "To move around quietly and secretly, as if hunting. Example: The lion began to prowl through the tall grass.",
+      "meaning2": "",
+      "studentChallenge": "The cat likes to ___ around the yard at night, looking for mice.",
       "sentence": ""
     },
     {
@@ -115,11 +115,11 @@
       "sentence": ""
     },
     {
-      "word": "passage",
-      "partOfSpeech": "noun",
-      "meaning1": "A section of a book or piece of writing. Example: Read the passage and answer the questions.",
-      "meaning2": "A narrow path or corridor. Example: The passage led to a secret room.",
-      "studentChallenge": "The ___ in the book described a beautiful garden.",
+      "word": "quaint",
+      "partOfSpeech": "adjective",
+      "meaning1": "Charming in an old-fashioned way. Example: We stayed in a quaint cottage with a thatched roof.",
+      "meaning2": "",
+      "studentChallenge": "Grandma's ___ cottage has a thatched roof and a tiny garden gate.",
       "sentence": ""
     },
     {
@@ -139,11 +139,11 @@
       "sentence": ""
     },
     {
-      "word": "resource",
+      "word": "notion",
       "partOfSpeech": "noun",
-      "meaning1": "Something useful that can be used when needed. Example: Water is an important natural resource.",
+      "meaning1": "An idea, belief, or understanding about something. Example: She had a notion that the surprise party was for her.",
       "meaning2": "",
-      "studentChallenge": "The library is a great ___ for research.",
+      "studentChallenge": "He had no ___ where the missing keys could be.",
       "sentence": ""
     },
     {
@@ -177,7 +177,7 @@
         "mention",
         "glisten",
         "halt",
-        "passage"
+        "quaint"
       ],
       "correctIndex": 2,
       "correctAnswer": "halt"
@@ -187,7 +187,7 @@
       "sentence1": "The wildlife centre decided to ___ the healed owl back into the forest, setting it free once more.",
       "sentence2": "The crowd cheered as the volunteers began to ___ the rescued sea turtles into the ocean.",
       "options": [
-        "coast",
+        "prowl",
         "aim",
         "release",
         "halt"
@@ -201,7 +201,7 @@
       "sentence2": "The spelling ___ in his report was easy to correct once his teacher pointed it out.",
       "options": [
         "glisten",
-        "passage",
+        "quaint",
         "mention",
         "error"
       ],
@@ -223,16 +223,16 @@
     },
     {
       "questionNumber": 6,
-      "sentence1": "We drove along the rocky ___ for hours, watching the waves crash against the cliffs below.",
-      "sentence2": "Beautiful sandy beaches line the ___ of California, stretching for hundreds of kilometres.",
+      "sentence1": "The tiger began to ___ through the tall grass, moving quietly in search of its next meal.",
+      "sentence2": "A cat will ___ around the garden at night, creeping silently as it hunts for mice.",
       "options": [
         "release",
-        "resource",
-        "coast",
+        "notion",
+        "prowl",
         "marsh"
       ],
       "correctIndex": 2,
-      "correctAnswer": "coast"
+      "correctAnswer": "prowl"
     },
     {
       "questionNumber": 7,
@@ -249,16 +249,16 @@
     },
     {
       "questionNumber": 8,
-      "sentence1": "Read the short ___ carefully, then answer the five questions at the bottom of the page.",
-      "sentence2": "The ___ in the book described a beautiful moonlit garden in vivid detail.",
+      "sentence1": "Tourists love the ___ village, where narrow cobblestone streets and tiny shops look just as they did long ago.",
+      "sentence2": "The ___ little teahouse, with its lace curtains and mismatched china, felt like a visit to the past.",
       "options": [
         "error",
-        "coast",
-        "resource",
-        "passage"
+        "prowl",
+        "notion",
+        "quaint"
       ],
       "correctIndex": 3,
-      "correctAnswer": "passage"
+      "correctAnswer": "quaint"
     },
     {
       "questionNumber": 9,
@@ -267,8 +267,8 @@
       "options": [
         "mention",
         "marsh",
-        "resource",
-        "passage"
+        "notion",
+        "quaint"
       ],
       "correctIndex": 1,
       "correctAnswer": "marsh"
@@ -279,25 +279,25 @@
       "sentence2": "Before setting sail, the crew loaded the ship with ___ including dried meat, biscuits, and fresh water.",
       "options": [
         "provisions",
-        "resource",
+        "notion",
         "aim",
-        "passage"
+        "quaint"
       ],
       "correctIndex": 0,
       "correctAnswer": "provisions"
     },
     {
       "questionNumber": 11,
-      "sentence1": "Clean water is the most valuable natural ___ on Earth \u2014 nothing can survive without it.",
-      "sentence2": "The library is an excellent ___ for research, with thousands of books and databases to explore.",
+      "sentence1": "She had a sudden ___ that she should take an umbrella, and soon the rain began.",
+      "sentence2": "Nobody believed his silly ___ that the moon is made of cheese.",
       "options": [
-        "coast",
-        "resource",
+        "prowl",
+        "notion",
         "glisten",
         "marsh"
       ],
       "correctIndex": 1,
-      "correctAnswer": "resource"
+      "correctAnswer": "notion"
     },
     {
       "questionNumber": 12,
@@ -307,7 +307,7 @@
         "halt",
         "glisten",
         "provisions",
-        "coast"
+        "prowl"
       ],
       "correctIndex": 1,
       "correctAnswer": "glisten"
@@ -321,15 +321,15 @@
       "release",
       "error",
       "review",
-      "coast",
+      "prowl",
       "mention",
-      "passage",
+      "quaint",
       "marsh",
       "provisions",
-      "resource",
+      "notion",
       "glisten"
     ],
-    "passage": "Agent Dara's _(1)_ was clear: find the stolen map before midnight, focusing directly on the old lighthouse as her target. She did not slow down or _(2)_ for a single moment \u2014 stopping now would cost her the mission. The park ranger had agreed to _(3)_ the trained falcon once the thief was caught, setting it free to fly back into the wild. Every _(4)_ the thief made left behind a clue \u2014 a small mistake that Dara carefully photographed. She stopped to _(5)_ her notes, reading them over once more to check for anything she had missed. The narrow cliff path hugged the _(6)_, running right alongside the crashing sea below. She radioed her partner to _(7)_ the extra guards \u2014 just a quick note, nothing more. A hidden _(8)_ beneath the floorboards led deep under the building, its narrow corridor barely wide enough to squeeze through. Near the entrance of the tunnel, muddy water pooled in a low, soggy _(9)_ thick with reeds and frogs. Dara had packed her _(10)_ carefully: water, a torch, rope, and energy bars \u2014 everything needed for the night ahead. Clean water was her most precious _(11)_, so she saved every drop. The wet stone walls began to _(12)_ in the torchlight, each droplet sparkling like a tiny silver jewel.",
+    "passage": "Agent Dara's _(1)_ was clear: find the stolen map before midnight, focusing directly on the old lighthouse as her target. She did not slow down or _(2)_ for a single moment \u2014 stopping now would cost her the mission. The park ranger had agreed to _(3)_ the trained falcon once the thief was caught, setting it free to fly back into the wild. Every _(4)_ the thief made left behind a clue \u2014 a small mistake that Dara carefully photographed. She stopped to _(5)_ her notes, reading them over once more to check for anything she had missed. Like a cat, Dara learned to _(6)_ along the narrow cliff path above the crashing sea, moving slowly and silently. She radioed her partner to _(7)_ the extra guards \u2014 just a quick note, nothing more. A _(8)_ wooden door with a tiny brass handle, charmingly old-fashioned, led deep under the building. Near the entrance of the tunnel, muddy water pooled in a low, soggy _(9)_ thick with reeds and frogs. Dara had packed her _(10)_ carefully: water, a torch, rope, and energy bars \u2014 everything needed for the night ahead. Dara had a _(11)_ that the thief would return to the lighthouse, so she waited quietly in the shadows. The wet stone walls began to _(12)_ in the torchlight, each droplet sparkling like a tiny silver jewel.",
     "blanks": [
       {
         "blankNumber": 1,
@@ -338,7 +338,7 @@
           "aim",
           "provisions",
           "mention",
-          "passage"
+          "quaint"
         ]
       },
       {
@@ -347,7 +347,7 @@
         "options": [
           "halt",
           "mention",
-          "coast",
+          "prowl",
           "review"
         ]
       },
@@ -368,7 +368,7 @@
           "error",
           "marsh",
           "provisions",
-          "passage"
+          "quaint"
         ]
       },
       {
@@ -378,14 +378,14 @@
           "review",
           "provisions",
           "halt",
-          "coast"
+          "prowl"
         ]
       },
       {
         "blankNumber": 6,
-        "correctAnswer": "coast",
+        "correctAnswer": "prowl",
         "options": [
-          "coast",
+          "prowl",
           "review",
           "marsh",
           "error"
@@ -396,19 +396,19 @@
         "correctAnswer": "mention",
         "options": [
           "mention",
-          "resource",
+          "notion",
           "review",
           "marsh"
         ]
       },
       {
         "blankNumber": 8,
-        "correctAnswer": "passage",
+        "correctAnswer": "quaint",
         "options": [
-          "passage",
+          "quaint",
           "error",
           "halt",
-          "coast"
+          "prowl"
         ]
       },
       {
@@ -417,8 +417,8 @@
         "options": [
           "marsh",
           "halt",
-          "passage",
-          "coast"
+          "quaint",
+          "prowl"
         ]
       },
       {
@@ -426,18 +426,18 @@
         "correctAnswer": "provisions",
         "options": [
           "provisions",
-          "passage",
-          "resource",
-          "coast"
+          "quaint",
+          "notion",
+          "prowl"
         ]
       },
       {
         "blankNumber": 11,
-        "correctAnswer": "resource",
+        "correctAnswer": "notion",
         "options": [
-          "resource",
+          "notion",
           "glisten",
-          "coast",
+          "prowl",
           "halt"
         ]
       },
@@ -447,7 +447,7 @@
         "options": [
           "glisten",
           "marsh",
-          "resource",
+          "notion",
           "review"
         ]
       }
@@ -505,15 +505,15 @@
         "imposterWord": "ignore"
       },
       {
-        "vocabWord": "coast",
+        "vocabWord": "prowl",
         "words": [
-          "shore",
-          "beach",
-          "inland",
-          "seaside"
+          "stalk",
+          "creep",
+          "sneak",
+          "stomp"
         ],
-        "imposterIndex": 2,
-        "imposterWord": "inland"
+        "imposterIndex": 3,
+        "imposterWord": "stomp"
       },
       {
         "vocabWord": "mention",
@@ -527,15 +527,15 @@
         "imposterWord": "ignore"
       },
       {
-        "vocabWord": "passage",
+        "vocabWord": "quaint",
         "words": [
-          "section",
-          "route",
-          "corridor",
-          "blockade"
+          "charming",
+          "old-fashioned",
+          "cozy",
+          "modern"
         ],
         "imposterIndex": 3,
-        "imposterWord": "blockade"
+        "imposterWord": "modern"
       },
       {
         "vocabWord": "marsh",
@@ -560,15 +560,15 @@
         "imposterWord": "shortage"
       },
       {
-        "vocabWord": "resource",
+        "vocabWord": "notion",
         "words": [
-          "supply",
-          "lack",
-          "material",
-          "tool"
+          "idea",
+          "thought",
+          "belief",
+          "certainty"
         ],
-        "imposterIndex": 1,
-        "imposterWord": "lack"
+        "imposterIndex": 3,
+        "imposterWord": "certainty"
       },
       {
         "vocabWord": "glisten",

@@ -5,13 +5,13 @@
     "passage",
     "restless",
     "shallow",
-    "shatter",
+    "topple",
     "talent",
     "atmosphere",
     "brilliant",
-    "convince",
+    "coax",
     "endure",
-    "glance",
+    "linger",
     "harsh",
     "plunge"
   ],
@@ -42,7 +42,7 @@
       },
       {
         "title": "The Discovery",
-        "text": "Maya could only steal a quick **glance** at each drawing before she spotted a locked chest. A sign warned that the glass lid would **shatter** if handled carelessly. She tried to **convince** herself to act bravely. She knew she had the **talent** for solving puzzles. The cold and the dark were **harsh** conditions, but she had trained herself to **endure** discomfort. She opened the chest — and smiled."
+        "text": "Maya did not **linger** over any drawing for long, because she soon spotted a locked chest. A sign warned that the tall stack of boxes on the chest would **topple** if handled carelessly. She tried to **coax** herself to act bravely. She knew she had the **talent** for solving puzzles. The cold and the dark were **harsh** conditions, but she had trained herself to **endure** discomfort. She opened the chest — and smiled."
       },
       {
         "title": "The Treasure",
@@ -77,11 +77,11 @@
       "sentence": ""
     },
     {
-      "word": "shatter",
+      "word": "topple",
       "partOfSpeech": "verb",
-      "meaning1": "To break suddenly into many small pieces. Example: One wrong move could shatter the delicate glass ornament.",
-      "meaning2": "To destroy completely. Example: The bad news shattered his hopes of winning.",
-      "studentChallenge": "The baseball hit the window and caused it to ___ into a hundred pieces.",
+      "meaning1": "To fall over or make something fall over because it is unsteady or top-heavy. Example: One strong gust of wind could topple the tall stack of boxes.",
+      "meaning2": "To make a leader or ruler lose power. Example: The rebels hoped to topple the cruel king.",
+      "studentChallenge": "The baby giggled as she bumped the tall tower of cups and watched it ___.",
       "sentence": ""
     },
     {
@@ -109,11 +109,11 @@
       "sentence": ""
     },
     {
-      "word": "convince",
+      "word": "coax",
       "partOfSpeech": "verb",
-      "meaning1": "To make someone believe or agree with something by giving good reasons. Example: She tried to convince her brother that the movie was worth watching.",
+      "meaning1": "To gently persuade someone or something to do what you want. Example: She used a soft voice to coax the shy puppy out from under the bed.",
       "meaning2": "",
-      "studentChallenge": "No matter how hard he argued, he could not ___ the judges to change their decision.",
+      "studentChallenge": "Grandpa had to ___ the nervous horse into the barn with sugar cubes and soft words.",
       "sentence": ""
     },
     {
@@ -125,11 +125,11 @@
       "sentence": ""
     },
     {
-      "word": "glance",
-      "partOfSpeech": "verb, noun",
-      "meaning1": "To look at something quickly. Example: She stole a quick glance at the clock.",
-      "meaning2": "A brief or hurried look. Example: One glance at his face told her something was wrong.",
-      "studentChallenge": "Before crossing the street, she took a quick ___ in both directions.",
+      "word": "linger",
+      "partOfSpeech": "verb",
+      "meaning1": "To stay somewhere or keep doing something longer than needed. Example: The children lingered at the park until the sun went down.",
+      "meaning2": "To last for a long time, as a smell or a feeling does. Example: The smell of cookies lingered in the kitchen.",
+      "studentChallenge": "After the school play ended, many families stayed to ___ in the hall and chat.",
       "sentence": ""
     },
     {
@@ -154,7 +154,7 @@
       "questionNumber": 1,
       "sentence1": "The hikers followed the narrow _______ through the dark cave until they reached the other side.",
       "sentence2": "She read the _______ from the book carefully before answering the questions on the test.",
-      "options": ["glance", "talent", "passage", "atmosphere"],
+      "options": ["linger", "talent", "passage", "atmosphere"],
       "correctIndex": 2,
       "correctAnswer": "passage"
     },
@@ -176,11 +176,11 @@
     },
     {
       "questionNumber": 4,
-      "sentence1": "One wrong move could _______ the delicate glass ornament sitting on the shelf.",
-      "sentence2": "The loud thunderclap was enough to _______ the silence of the peaceful night.",
-      "options": ["convince", "glance", "plunge", "shatter"],
+      "sentence1": "If you stack the blocks too high, the whole tower will _______ over.",
+      "sentence2": "One strong gust of wind could _______ the old tree and send it crashing to the ground.",
+      "options": ["coax", "linger", "plunge", "topple"],
       "correctIndex": 3,
-      "correctAnswer": "shatter"
+      "correctAnswer": "topple"
     },
     {
       "questionNumber": 5,
@@ -194,7 +194,7 @@
       "questionNumber": 6,
       "sentence1": "The smoky _______ in the old diner made her eyes water and her throat burn.",
       "sentence2": "The _______ at the surprise party was warm, cheerful, and full of laughter.",
-      "options": ["glance", "passage", "atmosphere", "talent"],
+      "options": ["linger", "passage", "atmosphere", "talent"],
       "correctIndex": 2,
       "correctAnswer": "atmosphere"
     },
@@ -208,27 +208,27 @@
     },
     {
       "questionNumber": 8,
-      "sentence1": "She tried to _______ her brother that the movie was actually worth watching twice.",
-      "sentence2": "No matter how hard he argued, he could not _______ the judges to change their final decision.",
-      "options": ["endure", "plunge", "shatter", "convince"],
+      "sentence1": "She tried to gently _______ the shy kitten out from under the sofa with a bowl of milk.",
+      "sentence2": "The coach had to _______ the nervous child onto the stage with kind words and a smile.",
+      "options": ["endure", "plunge", "topple", "coax"],
       "correctIndex": 3,
-      "correctAnswer": "convince"
+      "correctAnswer": "coax"
     },
     {
       "questionNumber": 9,
       "sentence1": "The villagers had to _______ a long, bitter winter with very little food or firewood.",
       "sentence2": "It is hard to _______ years of training, but true champions always push through.",
-      "options": ["endure", "glance", "shatter", "talent"],
+      "options": ["endure", "linger", "topple", "talent"],
       "correctIndex": 0,
       "correctAnswer": "endure"
     },
     {
       "questionNumber": 10,
-      "sentence1": "She stole a quick _______ at the clock without stopping her work on the painting.",
-      "sentence2": "One _______ at his face told her immediately that something was terribly wrong.",
-      "options": ["passage", "atmosphere", "plunge", "glance"],
+      "sentence1": "The smell of fresh bread seemed to _______ in the kitchen long after the loaf was gone.",
+      "sentence2": "After the movie ended, we let ourselves _______ in the lobby instead of rushing straight home.",
+      "options": ["passage", "atmosphere", "plunge", "linger"],
       "correctIndex": 3,
-      "correctAnswer": "glance"
+      "correctAnswer": "linger"
     },
     {
       "questionNumber": 11,
@@ -242,7 +242,7 @@
       "questionNumber": 12,
       "sentence1": "He decided to _______ into the cold lake water rather than wade in slowly from the shore.",
       "sentence2": "The stock market could _______ if investors suddenly lose all their confidence.",
-      "options": ["plunge", "convince", "endure", "passage"],
+      "options": ["plunge", "coax", "endure", "passage"],
       "correctIndex": 0,
       "correctAnswer": "plunge"
     }
@@ -253,17 +253,17 @@
       "passage",
       "restless",
       "shallow",
-      "shatter",
+      "topple",
       "talent",
       "atmosphere",
       "brilliant",
-      "convince",
+      "coax",
       "endure",
-      "glance",
+      "linger",
       "harsh",
       "plunge"
     ],
-    "passage": "Maya had always been a _(1)_ sleeper, waking up at every creak and shadow. One night, she spotted a faint glow at the end of the old hallway and decided to investigate. She moved quietly through a hidden _(2)_ behind the bookcase, stepping carefully to avoid making noise.\n\nThe tunnel grew narrow and the ceiling hung low, with only a _(3)_ layer of air between the stone and her head. She had to _(4)_ down a steep stone ramp to reach a chamber below. The room had a strange _(5)_ — cool, still, and humming with mystery.\n\nA lantern cast _(6)_ golden light across the walls, which were covered in ancient drawings. Maya could only steal a quick _(7)_ at each one before she spotted a locked chest. A sign warned that the glass lid would _(8)_ if handled carelessly.\n\nShe tried to _(9)_ herself to act bravely, reminding herself she had the _(10)_ for solving puzzles. The cold and the dark were _(11)_ conditions, but she had trained herself to _(12)_ discomfort. She opened the chest — and smiled.",
+    "passage": "Maya had always been a _(1)_ sleeper, waking up at every creak and shadow. One night, she spotted a faint glow at the end of the old hallway and decided to investigate. She moved quietly through a hidden _(2)_ behind the bookcase, stepping carefully to avoid making noise.\n\nThe tunnel grew narrow and the ceiling hung low, with only a _(3)_ layer of air between the stone and her head. She had to _(4)_ down a steep stone ramp to reach a chamber below. The room had a strange _(5)_ — cool, still, and humming with mystery.\n\nA lantern cast _(6)_ golden light across the walls, which were covered in ancient drawings. Maya did not _(7)_ over any one of them for long, because she soon spotted a locked chest. A sign warned that the tall stack of boxes on the chest would _(8)_ if handled carelessly.\n\nShe tried to _(9)_ herself to act bravely, reminding herself she had the _(10)_ for solving puzzles. The cold and the dark were _(11)_ conditions, but she had trained herself to _(12)_ discomfort. She opened the chest — and smiled.",
     "blanks": [
       {
         "blankNumber": 1,
@@ -273,7 +273,7 @@
       {
         "blankNumber": 2,
         "correctAnswer": "passage",
-        "options": ["glance", "talent", "atmosphere", "passage"]
+        "options": ["linger", "talent", "atmosphere", "passage"]
       },
       {
         "blankNumber": 3,
@@ -283,12 +283,12 @@
       {
         "blankNumber": 4,
         "correctAnswer": "plunge",
-        "options": ["shatter", "plunge", "endure", "convince"]
+        "options": ["linger", "plunge", "endure", "coax"]
       },
       {
         "blankNumber": 5,
         "correctAnswer": "atmosphere",
-        "options": ["talent", "glance", "atmosphere", "passage"]
+        "options": ["talent", "linger", "atmosphere", "passage"]
       },
       {
         "blankNumber": 6,
@@ -297,23 +297,23 @@
       },
       {
         "blankNumber": 7,
-        "correctAnswer": "glance",
-        "options": ["glance", "passage", "talent", "atmosphere"]
+        "correctAnswer": "linger",
+        "options": ["linger", "passage", "talent", "atmosphere"]
       },
       {
         "blankNumber": 8,
-        "correctAnswer": "shatter",
-        "options": ["endure", "convince", "shatter", "plunge"]
+        "correctAnswer": "topple",
+        "options": ["endure", "coax", "topple", "plunge"]
       },
       {
         "blankNumber": 9,
-        "correctAnswer": "convince",
-        "options": ["endure", "convince", "plunge", "shatter"]
+        "correctAnswer": "coax",
+        "options": ["endure", "coax", "plunge", "topple"]
       },
       {
         "blankNumber": 10,
         "correctAnswer": "talent",
-        "options": ["glance", "passage", "talent", "atmosphere"]
+        "options": ["linger", "passage", "talent", "atmosphere"]
       },
       {
         "blankNumber": 11,
@@ -323,15 +323,15 @@
       {
         "blankNumber": 12,
         "correctAnswer": "endure",
-        "options": ["convince", "plunge", "shatter", "endure"]
+        "options": ["coax", "plunge", "topple", "endure"]
       }
     ]
   },
   "wordScaleImposter": {
     "wordScales": [
       {
-        "vocabWord": "glance",
-        "scale": ["Peek", "Glance", "Stare"],
+        "vocabWord": "linger",
+        "scale": ["Pause", "Linger", "Remain"],
         "vocabPosition": 1
       },
       {
@@ -358,10 +358,10 @@
         "imposterWord": "Calm"
       },
       {
-        "vocabWord": "shatter",
-        "words": ["Smash", "Mend", "Crack", "Break"],
-        "imposterIndex": 1,
-        "imposterWord": "Mend"
+        "vocabWord": "topple",
+        "words": ["Fall", "Collapse", "Stand", "Tumble"],
+        "imposterIndex": 2,
+        "imposterWord": "Stand"
       },
       {
         "vocabWord": "talent",
@@ -388,8 +388,8 @@
         "imposterWord": "Collapse"
       },
       {
-        "vocabWord": "convince",
-        "words": ["Persuade", "Discourage", "Influence", "Sway"],
+        "vocabWord": "coax",
+        "words": ["Persuade", "Discourage", "Urge", "Charm"],
         "imposterIndex": 1,
         "imposterWord": "Discourage"
       },

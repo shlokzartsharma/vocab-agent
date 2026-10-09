@@ -11,7 +11,7 @@
     "wander",
     "capture",
     "coward",
-    "exclaim",
+    "stammer",
     "gloomy",
     "insist"
   ],
@@ -43,7 +43,7 @@
       },
       {
         "title": "The Way Back",
-        "text": "\"This place is a natural **resource** for scientists!\" Mila said. \"Look at all these species in one spot!\" Suddenly they heard a rustling noise. Aarav did not want to be a **coward**, but his heart was pounding. \"Don't panic!\" Mila began to **exclaim**. It was only a deer. They had to **struggle** through thick bushes to get back to the main trail. That night, Aarav told his parents how much he would **value** that adventure — it was the best hike of his life."
+        "text": "\"This place is a natural **resource** for scientists!\" Mila said. \"Look at all these species in one spot!\" Suddenly they heard a rustling noise. Aarav did not want to be a **coward**, but his heart was pounding. Mila tried to say, \"Don't panic!\" but she began to **stammer**. It was only a deer. They had to **struggle** through thick bushes to get back to the main trail. That night, Aarav told his parents how much he would **value** that adventure — it was the best hike of his life."
       },
       {
         "title": "The Promise",
@@ -126,11 +126,11 @@
       "sentence": ""
     },
     {
-      "word": "exclaim",
+      "word": "stammer",
       "partOfSpeech": "verb",
-      "meaning1": "To cry out suddenly with strong feeling. Example: \"I can't believe we won!\" she exclaimed as she jumped up and down.",
+      "meaning1": "To speak with stops or repeated sounds because you are nervous or scared. Example: Nervous before the class, he began to stammer through his speech.",
       "meaning2": "",
-      "studentChallenge": "\"Watch out!\" the crossing guard would ___ whenever a car drove too fast.",
+      "studentChallenge": "Standing in front of the whole school, Lucas was so nervous that he began to ___ while he read aloud.",
       "sentence": ""
     },
     {
@@ -179,7 +179,7 @@
       "questionNumber": 4,
       "sentence1": "The kitten had to _______ to climb out of the deep cardboard box.",
       "sentence2": "Learning a new language can be a real _______ at first, but it gets easier with practice.",
-      "options": ["exclaim", "struggle", "wander", "capture"],
+      "options": ["stammer", "struggle", "wander", "capture"],
       "correctIndex": 1,
       "correctAnswer": "struggle"
     },
@@ -203,7 +203,7 @@
       "questionNumber": 7,
       "sentence1": "The lost puppy began to _______ through the neighborhood looking for its owner.",
       "sentence2": "On rainy Sundays, I like to _______ through the bookstore with no plan at all.",
-      "options": ["vary", "exclaim", "wander", "capture"],
+      "options": ["vary", "stammer", "wander", "capture"],
       "correctIndex": 2,
       "correctAnswer": "wander"
     },
@@ -225,11 +225,11 @@
     },
     {
       "questionNumber": 10,
-      "sentence1": "\"I can't believe we won!\" she started to _______ as she jumped up and down.",
-      "sentence2": "\"Watch out!\" the crossing guard would _______ whenever a car drove too fast.",
-      "options": ["insist", "wander", "capture", "exclaim"],
+      "sentence1": "When the teacher called on him, Omar began to _______ and could not get the words out.",
+      "sentence2": "She was so nervous on stage that she started to _______ through her very first line.",
+      "options": ["insist", "wander", "capture", "stammer"],
       "correctIndex": 3,
-      "correctAnswer": "exclaim"
+      "correctAnswer": "stammer"
     },
     {
       "questionNumber": 11,
@@ -243,7 +243,7 @@
       "questionNumber": 12,
       "sentence1": "My mom would _______ that we wear helmets every time we rode our bikes.",
       "sentence2": "Even though the soup was cold, the waiter would _______ that it had just been heated up.",
-      "options": ["vary", "capture", "exclaim", "insist"],
+      "options": ["vary", "capture", "stammer", "insist"],
       "correctIndex": 3,
       "correctAnswer": "insist"
     }
@@ -260,11 +260,11 @@
       "wander",
       "capture",
       "coward",
-      "exclaim",
+      "stammer",
       "gloomy",
       "insist"
     ],
-    "passage": "Aarav and his _(1)_ best friend Mila had been hiking partners for three years — they never missed a Saturday trail. One cloudy morning, the sky turned dark and _(2)_, with thick gray clouds blocking every bit of sunlight.\n\n\"Let's go back,\" Mila said. But Aarav would _(3)_ that they keep going — he hated to quit. They began to _(4)_ off the main path, following a narrow trail they had never noticed before.\n\nThe trail led to a hidden pond. Aarav tried to _(5)_ a photo of a heron standing perfectly still in the water. The bird was so _(6)_ to sound that even the click of the camera made it fly away.\n\nMila noticed the plants around the pond _(7)_ in size — some were tiny, others taller than she was. \"This place is a natural _(8)_ for scientists!\" she said. \"Look at all these species in one spot!\"\n\nSuddenly they heard a rustling noise. Aarav did not want to be a _(9)_, but his heart was pounding. \"Don't panic!\" Mila began to _(10)_. It was only a deer.\n\nThey had to _(11)_ through thick bushes to get back to the main trail. That night, Aarav told his parents how much he would _(12)_ that adventure — it was the best hike of his life.",
+    "passage": "Aarav and his _(1)_ best friend Mila had been hiking partners for three years — they never missed a Saturday trail. One cloudy morning, the sky turned dark and _(2)_, with thick gray clouds blocking every bit of sunlight.\n\n\"Let's go back,\" Mila said. But Aarav would _(3)_ that they keep going — he hated to quit. They began to _(4)_ off the main path, following a narrow trail they had never noticed before.\n\nThe trail led to a hidden pond. Aarav tried to _(5)_ a photo of a heron standing perfectly still in the water. The bird was so _(6)_ to sound that even the click of the camera made it fly away.\n\nMila noticed the plants around the pond _(7)_ in size — some were tiny, others taller than she was. \"This place is a natural _(8)_ for scientists!\" she said. \"Look at all these species in one spot!\"\n\nSuddenly they heard a rustling noise. Aarav did not want to be a _(9)_, but his heart was pounding. Mila tried to say, \"Don't panic!\" but she began to _(10)_. It was only a deer.\n\nThey had to _(11)_ through thick bushes to get back to the main trail. That night, Aarav told his parents how much he would _(12)_ that adventure — it was the best hike of his life.",
     "blanks": [
       {
         "blankNumber": 1,
@@ -279,7 +279,7 @@
       {
         "blankNumber": 3,
         "correctAnswer": "insist",
-        "options": ["exclaim", "insist", "wander", "capture"]
+        "options": ["stammer", "insist", "wander", "capture"]
       },
       {
         "blankNumber": 4,
@@ -289,7 +289,7 @@
       {
         "blankNumber": 5,
         "correctAnswer": "capture",
-        "options": ["capture", "vary", "struggle", "exclaim"]
+        "options": ["capture", "vary", "struggle", "stammer"]
       },
       {
         "blankNumber": 6,
@@ -313,8 +313,8 @@
       },
       {
         "blankNumber": 10,
-        "correctAnswer": "exclaim",
-        "options": ["wander", "insist", "exclaim", "capture"]
+        "correctAnswer": "stammer",
+        "options": ["wander", "insist", "stammer", "capture"]
       },
       {
         "blankNumber": 11,
@@ -389,10 +389,10 @@
         "imposterWord": "Hero"
       },
       {
-        "vocabWord": "exclaim",
-        "words": ["Shout", "Whisper", "Cry", "Yell"],
+        "vocabWord": "stammer",
+        "words": ["Stutter", "Fluent", "Falter", "Stumble"],
         "imposterIndex": 1,
-        "imposterWord": "Whisper"
+        "imposterWord": "Fluent"
       },
       {
         "vocabWord": "gloomy",

@@ -198,7 +198,7 @@
       "questionNumber": 7,
       "sentence1": "Her _______ response kept both teams calm during the heated debate about the rules.",
       "sentence2": "The two countries reached a _______ solution that gave each side part of what it wanted.",
-      "options": ["sovereign", "diplomatic", "vital", "legislative"],
+      "options": ["sovereign", "diplomatic", "veto", "petition"],
       "correctIndex": 1,
       "correctAnswer": "diplomatic"
     },

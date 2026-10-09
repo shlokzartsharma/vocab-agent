@@ -7,10 +7,10 @@
     "ovation",
     "negative",
     "scope",
-    "wit",
+    "knack",
     "scramble",
     "wing",
-    "endure",
+    "thrash",
     "arrange",
     "legend",
     "excel"
@@ -37,11 +37,11 @@
       },
       {
         "title": "Nature's Warning",
-        "text": "Rohan, the marine biologist leading the trip, had a quick **wit** about her \u2014 she could read the sky in seconds. \"That is a **negative** pressure system,\" she said, pointing to the dark clouds building on the horizon. The full **scope** of the storm was becoming clear: heavy rain, rising surf, no time to waste. \"**Scramble** back to the van \u2014 now!\" she called out, and the whole group ran."
+        "text": "Rohan, the marine biologist leading the trip, had a **knack** for weather \u2014 she could read the sky in seconds. \"That is a **negative** pressure system,\" she said, pointing to the dark clouds building on the horizon. The full **scope** of the storm was becoming clear: heavy rain, rising surf, no time to waste. \"**Scramble** back to the van \u2014 now!\" she called out, and the whole group ran."
       },
       {
         "title": "The Rescue",
-        "text": "That is when Noah spotted it \u2014 a baby sea turtle struggling to **endure** the pull of the current, one flipper tangled in fishing rope near the rocks. The other students gave a quiet **ovation** \u2014 soft clapping so they would not frighten the creature \u2014 as Noah began to work. She worked to **arrange** the rope in a way that let her ease it off without pulling. According to **legend**, those who help a sea turtle will always find their way home safely. \"We can **excel** at this,\" she told Ethan, and together they freed the little turtle in under a minute."
+        "text": "That is when Noah spotted it \u2014 a baby sea turtle beginning to **thrash** against the pull of the current, one flipper tangled in fishing rope near the rocks. The other students gave a quiet **ovation** \u2014 soft clapping so they would not frighten the creature \u2014 as Noah began to work. She worked to **arrange** the rope in a way that let her ease it off without pulling. According to **legend**, those who help a sea turtle will always find their way home safely. \"We can **excel** at this,\" she told Ethan, and together they freed the little turtle in under a minute."
       },
       {
         "title": "New Purpose",
@@ -92,11 +92,11 @@
       "sentence": ""
     },
     {
-      "word": "wit",
+      "word": "knack",
       "partOfSpeech": "noun",
-      "meaning1": "The ability to say clever and funny things. Example: Her quick wit made everyone laugh.",
+      "meaning1": "A special skill or talent for doing something easily. Example: She has a knack for fixing broken toys.",
       "meaning2": "",
-      "studentChallenge": "His sharp ___ kept the audience entertained.",
+      "studentChallenge": "Even as a little kid, he had a ___ for solving puzzles faster than anyone.",
       "sentence": ""
     },
     {
@@ -116,11 +116,11 @@
       "sentence": ""
     },
     {
-      "word": "endure",
+      "word": "thrash",
       "partOfSpeech": "verb",
-      "meaning1": "To suffer through something difficult without giving up. Example: The runners endured the heat to finish the marathon.",
-      "meaning2": "",
-      "studentChallenge": "She had to ___ the long wait at the doctor's office.",
+      "meaning1": "To move about wildly and violently. Example: The fish began to thrash in the net.",
+      "meaning2": "To beat someone badly in a game or contest. Example: Our team hoped to thrash its rivals.",
+      "studentChallenge": "The swimmer began to ___ in the water, kicking and splashing in every direction.",
       "sentence": ""
     },
     {
@@ -216,16 +216,16 @@
     },
     {
       "questionNumber": 6,
-      "sentence1": "Her quick ___ \u2014 always ready with a clever joke \u2014 made everyone in the room burst into laughter.",
-      "sentence2": "His sharp ___ kept the whole audience entertained throughout his speech.",
+      "sentence1": "She has a ___ for fixing bikes and can find the problem just by listening.",
+      "sentence2": "My little brother has a ___ for remembering names after hearing them only once.",
       "options": [
-        "wit",
+        "knack",
         "wing",
         "scramble",
         "excel"
       ],
       "correctIndex": 0,
-      "correctAnswer": "wit"
+      "correctAnswer": "knack"
     },
     {
       "questionNumber": 7,
@@ -245,7 +245,7 @@
       "sentence1": "The eagle spread its enormous ___ and soared high above the canyon, riding the warm air currents.",
       "sentence2": "The butterfly rested on the flower with its colorful ___ spread wide open in the sunshine.",
       "options": [
-        "wit",
+        "knack",
         "team",
         "wing",
         "arrange"
@@ -255,16 +255,16 @@
     },
     {
       "questionNumber": 9,
-      "sentence1": "The runners had to ___ the scorching heat and burning muscles to finish the full marathon.",
-      "sentence2": "She had to ___ the long, frustrating wait at the doctor's office without complaint.",
+      "sentence1": "The trapped fish began to _______ wildly in the net, splashing water everywhere.",
+      "sentence2": "The toddler would _______ his arms and legs in the bathtub, soaking the whole floor.",
       "options": [
         "negative",
-        "endure",
+        "thrash",
         "ovation",
         "wing"
       ],
       "correctIndex": 1,
-      "correctAnswer": "endure"
+      "correctAnswer": "thrash"
     },
     {
       "questionNumber": 10,
@@ -274,7 +274,7 @@
         "negative",
         "arrange",
         "team",
-        "wit"
+        "knack"
       ],
       "correctIndex": 1,
       "correctAnswer": "arrange"
@@ -284,8 +284,8 @@
       "sentence1": "The ___ of King Arthur and his brave knights has been told around campfires for centuries.",
       "sentence2": "The old ___ says a fierce dragon once lived inside the dark caves of the mountain.",
       "options": [
-        "endure",
-        "wit",
+        "thrash",
+        "knack",
         "team",
         "legend"
       ],
@@ -314,15 +314,15 @@
       "ovation",
       "negative",
       "scope",
-      "wit",
+      "knack",
       "scramble",
       "wing",
-      "endure",
+      "thrash",
       "arrange",
       "legend",
       "excel"
     ],
-    "passage": "Coach Rivera had built a _(1)_ unlike any other \u2014 a group of players who trusted each other completely. The _(2)_ of their work was impressive: training, nutrition, strategy, and mental strength all had to come together perfectly. Nobody on the squad would allow a single _(3)_ thought to take hold \u2014 they replaced every doubt with determination. Each player worked hard to _(4)_ in their position, pushing past average to become truly outstanding. When warm-ups began, players would _(5)_ across the field to their spots, moving fast on hands and feet over every obstacle. They had learned to _(6)_ the burning pain of hard practice, suffering through it without giving up. Rivera used her sharp _(7)_ \u2014 a quick joke or a clever remark \u2014 to keep spirits high even on the hardest days. She would carefully _(8)_ the training drills in a specific order, planning every minute so nothing was wasted. The striker, a speedy forward, moved like a bird on the _(9)_ \u2014 always on the edge of the field, always ready to fly toward the goal. One player's story had become a _(10)_ \u2014 passed down from coach to coach for twenty years \u2014 about how she came back from an injury to win gold. Nobody wanted to _(11)_ themselves by pushing too hard too fast, so they followed the plan closely. After the championship win, the whole stadium rose and gave them a thunderous _(12)_, clapping and cheering until the building shook.",
+    "passage": "Coach Rivera had built a _(1)_ unlike any other \u2014 a group of players who trusted each other completely. The _(2)_ of their work was impressive: training, nutrition, strategy, and mental strength all had to come together perfectly. Nobody on the squad would allow a single _(3)_ thought to take hold \u2014 they replaced every doubt with determination. Each player worked hard to _(4)_ in their position, pushing past average to become truly outstanding. When warm-ups began, players would _(5)_ across the field to their spots, moving fast on hands and feet over every obstacle. When swim drills began, the players would _(6)_ through the water with all their strength, kicking and churning until the pool foamed. Rivera had a _(7)_ for finding the right words \u2014 she always knew how to keep spirits high even on the hardest days. She would carefully _(8)_ the training drills in a specific order, planning every minute so nothing was wasted. The striker, a speedy forward, moved like a bird on the _(9)_ \u2014 always on the edge of the field, always ready to fly toward the goal. One player's story had become a _(10)_ \u2014 passed down from coach to coach for twenty years \u2014 about how she came back from an injury to win gold. Nobody wanted to _(11)_ themselves by pushing too hard too fast, so they followed the plan closely. After the championship win, the whole stadium rose and gave them a thunderous _(12)_, clapping and cheering until the building shook.",
     "blanks": [
       {
         "blankNumber": 1,
@@ -331,7 +331,7 @@
           "team",
           "wing",
           "legend",
-          "wit"
+          "knack"
         ]
       },
       {
@@ -349,7 +349,7 @@
         "correctAnswer": "negative",
         "options": [
           "negative",
-          "wit",
+          "knack",
           "scramble",
           "legend"
         ]
@@ -376,19 +376,19 @@
       },
       {
         "blankNumber": 6,
-        "correctAnswer": "endure",
+        "correctAnswer": "thrash",
         "options": [
-          "endure",
-          "scramble",
-          "wing",
-          "wit"
+          "thrash",
+          "arrange",
+          "injure",
+          "excel"
         ]
       },
       {
         "blankNumber": 7,
-        "correctAnswer": "wit",
+        "correctAnswer": "knack",
         "options": [
-          "wit",
+          "knack",
           "legend",
           "wing",
           "team"
@@ -400,7 +400,7 @@
         "options": [
           "arrange",
           "ovation",
-          "wit",
+          "knack",
           "scope"
         ]
       },
@@ -419,7 +419,7 @@
         "correctAnswer": "legend",
         "options": [
           "legend",
-          "wit",
+          "knack",
           "arrange",
           "team"
         ]
@@ -498,15 +498,15 @@
         "imposterWord": "nothing"
       },
       {
-        "vocabWord": "wit",
+        "vocabWord": "knack",
         "words": [
-          "humor",
-          "dullness",
-          "cleverness",
-          "intelligence"
+          "talent",
+          "gift",
+          "clumsiness",
+          "skill"
         ],
-        "imposterIndex": 1,
-        "imposterWord": "dullness"
+        "imposterIndex": 2,
+        "imposterWord": "clumsiness"
       },
       {
         "vocabWord": "scramble",
@@ -531,15 +531,15 @@
         "imposterWord": "center"
       },
       {
-        "vocabWord": "endure",
+        "vocabWord": "thrash",
         "words": [
-          "survive",
-          "surrender",
-          "bear",
-          "withstand"
+          "flail",
+          "flop",
+          "lie still",
+          "squirm"
         ],
-        "imposterIndex": 1,
-        "imposterWord": "surrender"
+        "imposterIndex": 2,
+        "imposterWord": "lie still"
       },
       {
         "vocabWord": "arrange",

@@ -3,9 +3,9 @@
   "setNumber": 27,
   "words": [
     "organ",
-    "defiant",
+    "haughty",
     "opposite",
-    "wander",
+    "suspend",
     "absorb",
     "starve",
     "cure",
@@ -13,7 +13,7 @@
     "survive",
     "worthwhile",
     "transparent",
-    "struggle"
+    "stagger"
   ],
   "sources": [
     "Australian Curriculum",
@@ -34,17 +34,17 @@
     "parts": [
       {
         "title": "The Warning Signs",
-        "text": "Nikhil stared at the data on her screen every morning \u2014 the numbers were getting worse. Coastal villages were beginning to **starve** for resources as saltwater flooded their farmland. Scientists took the **opposite** view from the government: the crisis was not temporary but a **major** emergency. The situation had become so serious that no one could **wander** away from it any longer without consequence.",
+        "text": "Nikhil stared at the data on her screen every morning \u2014 the numbers were getting worse. Coastal villages were beginning to **starve** for resources as saltwater flooded their farmland and few crops could **survive** the salt. Scientists took the **opposite** view from the government: the crisis was not temporary but a **major** emergency. The situation had become so serious that no one could **suspend** the search for answers any longer without consequence.",
         "wordCount": 65
       },
       {
         "title": "The Crisis",
-        "text": "A massive storm hit the coastal town, flooding streets and destroying homes. The soil could no longer **absorb** the surging water \u2014 it was **transparent**ly clear that the old sea walls had failed. The community had to **struggle** through the wreckage to find survivors. Arnav tried to **cure** the fear spreading through the town by organizing emergency teams. Even the most **defiant** residents who had refused to evacuate now asked for help.",
+        "text": "A massive storm hit the coastal town, flooding streets and destroying homes. The soil could no longer **absorb** the surging water \u2014 it was perfectly clear that the old sea walls had failed. Exhausted neighbors had to **stagger** through the wreckage to find survivors. Arnav tried to **cure** the fear spreading through the town by organizing emergency teams. Even the most **haughty** residents, who had refused to evacuate and thought themselves above the warnings, now asked for help.",
         "wordCount": 73
       },
       {
         "title": "Taking Action",
-        "text": "Nikhil proposed a solution that would prove **worthwhile** \u2014 planting mangrove forests along the coast. She built a **transparent** display of evidence showing how the roots of mangroves act like a living **organ** for the coastline, filtering water and binding soil. Kiran, who had once been **defiant** about the project, now helped Nikhil present the plan to the town council.",
+        "text": "Nikhil proposed a solution that would prove **worthwhile** \u2014 planting mangrove forests along the coast. She built a **transparent** display of evidence showing how the roots of mangroves act like a living **organ** for the coastline, filtering water and binding soil. Kiran, who had once been against the project, now helped Nikhil present the plan to the town council.",
         "wordCount": 62
       },
       {
@@ -53,7 +53,7 @@
         "wordCount": 65
       }
     ],
-    "wordCount": 265
+    "wordCount": 272
   },
   "definitions": [
     {
@@ -65,11 +65,11 @@
       "sentence": ""
     },
     {
-      "word": "defiant",
+      "word": "haughty",
       "partOfSpeech": "adjective",
-      "meaning1": "Boldly refusing to obey. Example: The defiant child crossed her arms and said no.",
+      "meaning1": "Proud in an unfriendly way; acting as though you are better than other people. Example: The haughty cat ignored everyone who tried to pet her.",
       "meaning2": "",
-      "studentChallenge": "The ___ look on her face showed she would not give in.",
+      "studentChallenge": "The ___ prince refused to speak to anyone he thought was beneath him.",
       "sentence": ""
     },
     {
@@ -81,11 +81,11 @@
       "sentence": ""
     },
     {
-      "word": "wander",
+      "word": "suspend",
       "partOfSpeech": "verb",
-      "meaning1": "To walk around without a clear direction. Example: We wandered through the old town exploring the streets.",
+      "meaning1": "To stop something for a while, planning to start it again later. Example: The referee decided to suspend the game because of lightning.",
       "meaning2": "",
-      "studentChallenge": "Don't ___ too far from the campsite.",
+      "studentChallenge": "The airline had to ___ all flights until the thick fog cleared.",
       "sentence": ""
     },
     {
@@ -145,11 +145,11 @@
       "sentence": ""
     },
     {
-      "word": "struggle",
-      "partOfSpeech": "verb, noun",
-      "meaning1": "To try very hard to do something difficult. Example: She struggled to carry the heavy box.",
-      "meaning2": "A difficult fight or effort. Example: The struggle for freedom lasted many years.",
-      "studentChallenge": "Don't give up when you ___ with a hard problem.",
+      "word": "stagger",
+      "partOfSpeech": "verb",
+      "meaning1": "To walk or move unsteadily, as if you might fall. Example: The tired hiker began to stagger down the trail.",
+      "meaning2": "",
+      "studentChallenge": "After spinning in circles, the children began to ___ across the grass, laughing and dizzy.",
       "sentence": ""
     }
   ],
@@ -162,23 +162,23 @@
         "worthwhile",
         "organ",
         "absorb",
-        "struggle"
+        "stagger"
       ],
       "correctIndex": 1,
       "correctAnswer": "organ"
     },
     {
       "questionNumber": 2,
-      "sentence1": "The ___ child crossed her arms, stamped her foot, and flatly refused to follow the rule.",
-      "sentence2": "The ___ glare on her face made it clear she had no intention of giving in \u2014 not even a little.",
+      "sentence1": "The ___ queen lifted her chin and looked down on everyone, acting as if nobody was good enough to talk to her.",
+      "sentence2": "He walked past his classmates with a ___ sneer, acting as though he were better than all of them.",
       "options": [
         "cure",
-        "defiant",
+        "haughty",
         "worthwhile",
         "transparent"
       ],
       "correctIndex": 1,
-      "correctAnswer": "defiant"
+      "correctAnswer": "haughty"
     },
     {
       "questionNumber": 3,
@@ -188,23 +188,23 @@
         "major",
         "transparent",
         "opposite",
-        "wander"
+        "suspend"
       ],
       "correctIndex": 2,
       "correctAnswer": "opposite"
     },
     {
       "questionNumber": 4,
-      "sentence1": "We spent the afternoon wandering through the old town, drifting from street to street without a map.",
-      "sentence2": "Don't ___ too far from the campsite \u2014 it's easy to get lost in the forest after dark.",
+      "sentence1": "The school decided to ___ all outdoor games until the dangerous storm had passed.",
+      "sentence2": "The company will ___ work at the factory for a week while the broken machines are repaired.",
       "options": [
-        "wander",
+        "suspend",
         "survive",
-        "struggle",
+        "stagger",
         "cure"
       ],
       "correctIndex": 0,
-      "correctAnswer": "wander"
+      "correctAnswer": "suspend"
     },
     {
       "questionNumber": 5,
@@ -226,7 +226,7 @@
       "options": [
         "transparent",
         "survive",
-        "wander",
+        "suspend",
         "starve"
       ],
       "correctIndex": 3,
@@ -238,7 +238,7 @@
       "sentence2": "The doctor hoped that the new medicine would be a complete ___ for the patient's painful illness.",
       "options": [
         "cure",
-        "struggle",
+        "stagger",
         "absorb",
         "worthwhile"
       ],
@@ -252,8 +252,8 @@
       "options": [
         "absorb",
         "major",
-        "defiant",
-        "struggle"
+        "haughty",
+        "stagger"
       ],
       "correctIndex": 1,
       "correctAnswer": "major"
@@ -264,7 +264,7 @@
       "sentence2": "How do desert animals ___ for months in blazing heat with almost no water to drink?",
       "options": [
         "absorb",
-        "wander",
+        "suspend",
         "major",
         "survive"
       ],
@@ -278,7 +278,7 @@
       "options": [
         "starve",
         "major",
-        "defiant",
+        "haughty",
         "worthwhile"
       ],
       "correctIndex": 3,
@@ -290,7 +290,7 @@
       "sentence2": "She wrapped the gift in ___ plastic wrap so everyone could clearly see what was inside.",
       "options": [
         "survive",
-        "defiant",
+        "haughty",
         "transparent",
         "worthwhile"
       ],
@@ -299,25 +299,25 @@
     },
     {
       "questionNumber": 12,
-      "sentence1": "She had to ___ with both arms just to carry the heavy box up the stairs without dropping it.",
-      "sentence2": "Don't give up when you ___ with a hard problem \u2014 the effort is what makes you stronger.",
+      "sentence1": "After running the whole marathon, he began to ___ toward the finish line, barely able to stay on his feet.",
+      "sentence2": "The dizzy boy began to ___ across the room, swaying from side to side before he sat down.",
       "options": [
-        "defiant",
+        "haughty",
         "worthwhile",
-        "struggle",
+        "stagger",
         "survive"
       ],
       "correctIndex": 2,
-      "correctAnswer": "struggle"
+      "correctAnswer": "stagger"
     }
   ],
   "secretPassage": {
     "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
     "wordBank": [
       "organ",
-      "defiant",
+      "haughty",
       "opposite",
-      "wander",
+      "suspend",
       "absorb",
       "starve",
       "cure",
@@ -325,9 +325,9 @@
       "survive",
       "worthwhile",
       "transparent",
-      "struggle"
+      "stagger"
     ],
-    "passage": "The doctor pointed to a model of the body and explained that the heart is the hardest-working _(1)_ \u2014 it pumps blood every single second without stopping. The young patient crossed her arms, set her jaw, and gave the nurse a _(2)_ stare that clearly said she had no intention of swallowing the bitter medicine. Hot and cold are _(3)_ temperatures, each the complete reverse of the other \u2014 one extreme vs. the other. The hikers were free to _(4)_ wherever they liked through the botanical garden, drifting aimlessly from flower to flower without any set path. A thick sponge will _(5)_ a full cup of spilled juice, soaking it up until not a single drop remains on the table. Without enough food, the stranded hikers were beginning to _(6)_ \u2014 their stomachs aching with hunger and their bodies growing weak. Scientists worked for years to find a _(7)_ for the illness, searching for a medicine that would make patients fully healthy again. Losing electricity during the storm was a _(8)_ problem \u2014 it affected every house, school, and hospital in the entire town. The tiny seedling managed to _(9)_ the harsh winter, pushing through the frozen soil when spring finally arrived. Spending three hours helping younger students read was truly _(10)_ \u2014 seeing their faces light up made every minute feel valuable. The glass walls of the greenhouse were completely _(11)_, letting you look straight through them to see every plant growing inside. She had to _(12)_ to lift the heavy crate \u2014 straining with all her strength just to move it an inch.",
+    "passage": "The doctor pointed to a model of the body and explained that the heart is the hardest-working _(1)_ \u2014 it pumps blood every single second without stopping. The _(2)_ guest lifted her chin and looked down her nose at the servers, sure that she was far too important to wait in line. Hot and cold are _(3)_ temperatures, each the complete reverse of the other \u2014 one extreme vs. the other. The school had to _(4)_ all outdoor games until the dangerous storm passed, stopping them for a time. A thick sponge will _(5)_ a full cup of spilled juice, soaking it up until not a single drop remains on the table. Without enough food, the stranded hikers were beginning to _(6)_ \u2014 their stomachs aching with hunger and their bodies growing weak. Scientists worked for years to find a _(7)_ for the illness, searching for a medicine that would make patients fully healthy again. Losing electricity during the storm was a _(8)_ problem \u2014 it affected every house, school, and hospital in the entire town. The tiny seedling managed to _(9)_ the harsh winter, pushing through the frozen soil when spring finally arrived. Spending three hours helping younger students read was truly _(10)_ \u2014 seeing their faces light up made every minute feel valuable. The glass walls of the greenhouse were completely _(11)_, letting you look straight through them to see every plant growing inside. Worn out from the long hike, the tired climbers began to _(12)_ up the steep path, swaying with every step.",
     "blanks": [
       {
         "blankNumber": 1,
@@ -335,16 +335,16 @@
         "options": [
           "organ",
           "major",
-          "struggle",
+          "stagger",
           "cure"
         ]
       },
       {
         "blankNumber": 2,
-        "correctAnswer": "defiant",
+        "correctAnswer": "haughty",
         "options": [
-          "defiant",
-          "wander",
+          "haughty",
+          "suspend",
           "worthwhile",
           "organ"
         ]
@@ -361,12 +361,12 @@
       },
       {
         "blankNumber": 4,
-        "correctAnswer": "wander",
+        "correctAnswer": "suspend",
         "options": [
-          "wander",
+          "suspend",
           "survive",
           "starve",
-          "struggle"
+          "stagger"
         ]
       },
       {
@@ -374,7 +374,7 @@
         "correctAnswer": "absorb",
         "options": [
           "absorb",
-          "wander",
+          "suspend",
           "starve",
           "worthwhile"
         ]
@@ -386,7 +386,7 @@
           "starve",
           "absorb",
           "survive",
-          "wander"
+          "suspend"
         ]
       },
       {
@@ -395,8 +395,8 @@
         "options": [
           "cure",
           "opposite",
-          "struggle",
-          "wander"
+          "stagger",
+          "suspend"
         ]
       },
       {
@@ -404,7 +404,7 @@
         "correctAnswer": "major",
         "options": [
           "major",
-          "wander",
+          "suspend",
           "organ",
           "worthwhile"
         ]
@@ -414,7 +414,7 @@
         "correctAnswer": "survive",
         "options": [
           "survive",
-          "wander",
+          "suspend",
           "starve",
           "organ"
         ]
@@ -424,7 +424,7 @@
         "correctAnswer": "worthwhile",
         "options": [
           "worthwhile",
-          "defiant",
+          "haughty",
           "cure",
           "starve"
         ]
@@ -435,15 +435,15 @@
         "options": [
           "transparent",
           "major",
-          "defiant",
+          "haughty",
           "opposite"
         ]
       },
       {
         "blankNumber": 12,
-        "correctAnswer": "struggle",
+        "correctAnswer": "stagger",
         "options": [
-          "struggle",
+          "stagger",
           "organ",
           "survive",
           "absorb"
@@ -463,11 +463,11 @@
         "vocabPosition": 1
       },
       {
-        "vocabWord": "defiant",
+        "vocabWord": "haughty",
         "scale": [
-          "stubborn",
-          "defiant",
-          "rebellious"
+          "proud",
+          "haughty",
+          "arrogant"
         ],
         "vocabPosition": 1
       },
@@ -481,11 +481,11 @@
         "vocabPosition": 1
       },
       {
-        "vocabWord": "wander",
+        "vocabWord": "suspend",
         "scale": [
-          "roam",
-          "wander",
-          "meander"
+          "pause",
+          "suspend",
+          "cancel"
         ],
         "vocabPosition": 1
       }
@@ -569,15 +569,15 @@
         "imposterWord": "opaque"
       },
       {
-        "vocabWord": "struggle",
+        "vocabWord": "stagger",
         "words": [
-          "fight",
-          "ease",
-          "effort",
-          "battle"
+          "stumble",
+          "totter",
+          "wobble",
+          "stride"
         ],
-        "imposterIndex": 1,
-        "imposterWord": "ease"
+        "imposterIndex": 3,
+        "imposterWord": "stride"
       }
     ],
     "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."

@@ -6,10 +6,10 @@
     "harbour",
     "vessel",
     "revolve",
-    "custom",
+    "nuisance",
     "style",
     "shiver",
-    "active",
+    "feeble",
     "tough",
     "sufficient",
     "force",
@@ -34,11 +34,11 @@
     "parts": [
       {
         "title": "The Curious Mind",
-        "text": "Priya loved science more than anything. All her experiment ideas seemed to **revolve** around one central question: what makes crystals grow faster? It was the **custom** in her science class to present findings to the group each Friday, a tradition Mr. Ravi had kept for years. Priya had her own **style** of presenting \u2014 calm, clear, and full of surprises."
+        "text": "Priya loved science more than anything. All her experiment ideas seemed to **revolve** around one central question: what makes crystals grow faster? Every careful test would **produce** a few more clues. Her little brother, who kept poking at her jars, was a constant **nuisance**, but she kept her experiments on a high shelf. Priya had her own **style** of presenting each Friday \u2014 calm, clear, and full of surprises."
       },
       {
         "title": "The Unexpected Challenge",
-        "text": "During the science fair, the power cut out across the whole school. Priya felt a **shiver** run through her as the lights died and the hall went dark. She was **active** in her thinking, immediately checking what she could still do by candlelight. The judges worried that the storm outside would **force** them to cancel the fair entirely. But Priya was **tough** \u2014 she had worked too hard to give up now."
+        "text": "During the science fair, a **tremendous** crash of thunder shook the building and the power cut out across the whole school. Priya felt a **shiver** run through her as the lights died and the hall went dark. The only light left was a **feeble** glow from a single exit sign, but she was already thinking, checking what she could still do by candlelight. The judges worried that the storm outside would **force** them to cancel the fair entirely. But Priya was **tough** \u2014 she had worked too hard to give up now."
       },
       {
         "title": "The Breakthrough",
@@ -46,10 +46,10 @@
       },
       {
         "title": "The Award",
-        "text": "The judges were amazed. Priya not only won first place but also received a special award for creativity under pressure. A **tremendous** cheer filled the hall when her name was called. Mr. Ravi told the class, \"Science isn't just about fancy equipment. It's about curiosity, patience, and the courage to keep going when things get hard.\" Priya watched the crystals catch the light and smiled \u2014 and she knew that every experiment she would ever **produce** in her life began with this moment."
+        "text": "The judges were amazed. Priya not only won first place but also received a special award for creativity under pressure. A tremendous cheer filled the hall when her name was called. Mr. Ravi told the class, \"Science isn't just about fancy equipment. It's about curiosity, patience, and the courage to keep going when things get hard.\" Priya watched the crystals catch the light and smiled \u2014 and she knew that every experiment she would ever run in her life began with this moment."
       }
     ],
-    "wordCount": 271
+    "wordCount": 344
   },
   "definitions": [
     {
@@ -85,11 +85,11 @@
       "sentence": ""
     },
     {
-      "word": "custom",
+      "word": "nuisance",
       "partOfSpeech": "noun",
-      "meaning1": "A tradition or usual way of doing something. Example: It is a custom to shake hands when meeting someone.",
+      "meaning1": "A person or thing that is annoying or causes trouble. Example: The buzzing flies were a nuisance at the picnic.",
       "meaning2": "",
-      "studentChallenge": "In many countries, removing shoes indoors is a ___.",
+      "studentChallenge": "The barking dog next door is a real ___ at night.",
       "sentence": ""
     },
     {
@@ -109,11 +109,11 @@
       "sentence": ""
     },
     {
-      "word": "active",
+      "word": "feeble",
       "partOfSpeech": "adjective",
-      "meaning1": "Always doing things; full of energy. Example: Dogs need to be active and play every day.",
+      "meaning1": "Weak, without much strength or power. Example: The sick kitten gave a feeble meow.",
       "meaning2": "",
-      "studentChallenge": "Staying ___ helps you stay healthy.",
+      "studentChallenge": "The old man spoke in a ___ voice, so we leaned in to hear.",
       "sentence": ""
     },
     {
@@ -181,7 +181,7 @@
       "sentence1": "The huge ___ sailed across the Atlantic Ocean, carrying hundreds of passengers and tonnes of cargo.",
       "sentence2": "The old wooden ___ rocked gently back and forth on the slow, rolling ocean waves.",
       "options": [
-        "active",
+        "feeble",
         "tremendous",
         "vessel",
         "style"
@@ -204,16 +204,16 @@
     },
     {
       "questionNumber": 5,
-      "sentence1": "It is a ___ in this family to eat dinner together every Sunday \u2014 a tradition passed down for generations.",
-      "sentence2": "In many countries, removing your shoes before entering a home is a long-standing ___.",
+      "sentence1": "The mosquitoes buzzing around the picnic table were a real ___.",
+      "sentence2": "My little brother can be a ___ when he follows me everywhere and hides my pencils.",
       "options": [
         "revolve",
-        "custom",
+        "nuisance",
         "vessel",
         "shiver"
       ],
       "correctIndex": 1,
-      "correctAnswer": "custom"
+      "correctAnswer": "nuisance"
     },
     {
       "questionNumber": 6,
@@ -221,7 +221,7 @@
       "sentence2": "Each author has a unique writing ___ \u2014 the special way they choose words and build sentences.",
       "options": [
         "revolve",
-        "active",
+        "feeble",
         "style",
         "tough"
       ],
@@ -235,7 +235,7 @@
       "options": [
         "vessel",
         "force",
-        "custom",
+        "nuisance",
         "shiver"
       ],
       "correctIndex": 3,
@@ -243,23 +243,23 @@
     },
     {
       "questionNumber": 8,
-      "sentence1": "Dogs need to be ___ and run around each day \u2014 they get bored and unhappy if kept still for too long.",
-      "sentence2": "Staying ___ by walking, swimming, or playing sports every day helps keep your body strong and healthy.",
+      "sentence1": "The sick kitten could only give a ___ meow because it had no strength left.",
+      "sentence2": "The old man spoke in such a ___ voice that we had to lean in close to hear him.",
       "options": [
-        "active",
+        "feeble",
         "produce",
         "shiver",
         "force"
       ],
       "correctIndex": 0,
-      "correctAnswer": "active"
+      "correctAnswer": "feeble"
     },
     {
       "questionNumber": 9,
       "sentence1": "The ___ little plant survived the bitter winter frost and pushed up a new green shoot in spring.",
       "sentence2": "The hike up the steep, rocky mountain trail was ___, but the breathtaking view from the top was worth it.",
       "options": [
-        "active",
+        "feeble",
         "tough",
         "harbour",
         "force"
@@ -275,7 +275,7 @@
         "sufficient",
         "shiver",
         "tough",
-        "custom"
+        "nuisance"
       ],
       "correctIndex": 0,
       "correctAnswer": "sufficient"
@@ -286,7 +286,7 @@
       "sentence2": "Gravity is the invisible ___ that pulls everything downward and keeps us firmly on the ground.",
       "options": [
         "style",
-        "active",
+        "feeble",
         "sufficient",
         "force"
       ],
@@ -314,16 +314,16 @@
       "harbour",
       "vessel",
       "revolve",
-      "custom",
+      "nuisance",
       "style",
       "shiver",
-      "active",
+      "feeble",
       "tough",
       "sufficient",
       "force",
       "produce"
     ],
-    "passage": "Captain Mira stood at the wheel of her wooden _(1)_, guiding the ship carefully through choppy waters toward the sheltered _(2)_ ahead. The journey had been _(3)_ \u2014 an enormously long and difficult voyage across three different seas. It was the crew's _(4)_ to sing a sea shanty whenever a storm passed, a tradition stretching back a hundred years. The wind came with great _(5)_, its raw power shaking the masts and rattling every rope on board. Mira knew she had to stay _(6)_ and alert, always moving, always checking the sails and the compass. She could feel a _(7)_ creep through her the moment the icy spray hit her face \u2014 her whole body trembling with cold. The crossing had been _(8)_, demanding strength and stubbornness that most sailors would find nearly impossible. Yet her crew had _(9)_ food \u2014 enough biscuits, dried fruit, and salted fish to last two more weeks if needed. The planets _(10)_ around the sun, she thought, and sailors _(11)_ around the globe just the same \u2014 endlessly circling, always returning. Every captain had her own _(12)_ of leadership, but Mira's way was always the same: calm, steady, and kind.",
+    "passage": "Captain Mira stood at the wheel of her wooden _(1)_, guiding the ship carefully through choppy waters toward the sheltered _(2)_ ahead. The journey had been _(3)_ \u2014 an enormously long and difficult voyage across three different seas. The ship's cat was a constant _(4)_, tripping the sailors and chewing the ropes, though the whole crew loved it anyway. The wind came with great _(5)_, its raw power shaking the masts and rattling every rope on board. The lantern by the wheel gave only a _(6)_ glow \u2014 weak and dim \u2014 so Mira had to stay alert, checking the sails and the compass by memory. She could feel a _(7)_ creep through her the moment the icy spray hit her face \u2014 her whole body trembling with cold. The crossing had been _(8)_, demanding strength and stubbornness that most sailors would find nearly impossible. Yet her crew had _(9)_ food \u2014 enough biscuits, dried fruit, and salted fish to last two more weeks if needed. The planets _(10)_ around the sun, she thought, and sailors _(11)_ around the globe just the same \u2014 endlessly circling, always returning. Every captain had her own _(12)_ of leadership, but Mira's way was always the same: calm, steady, and kind.",
     "blanks": [
       {
         "blankNumber": 1,
@@ -342,7 +342,7 @@
           "harbour",
           "vessel",
           "produce",
-          "custom"
+          "nuisance"
         ]
       },
       {
@@ -351,15 +351,15 @@
         "options": [
           "tremendous",
           "sufficient",
-          "active",
-          "tough"
+          "feeble",
+          "style"
         ]
       },
       {
         "blankNumber": 4,
-        "correctAnswer": "custom",
+        "correctAnswer": "nuisance",
         "options": [
-          "custom",
+          "nuisance",
           "style",
           "shiver",
           "force"
@@ -370,16 +370,16 @@
         "correctAnswer": "force",
         "options": [
           "force",
-          "custom",
+          "nuisance",
           "produce",
           "revolve"
         ]
       },
       {
         "blankNumber": 6,
-        "correctAnswer": "active",
+        "correctAnswer": "feeble",
         "options": [
-          "active",
+          "feeble",
           "tough",
           "sufficient",
           "tremendous"
@@ -400,7 +400,7 @@
         "correctAnswer": "tough",
         "options": [
           "tough",
-          "active",
+          "feeble",
           "sufficient",
           "tremendous"
         ]
@@ -411,7 +411,7 @@
         "options": [
           "sufficient",
           "tough",
-          "active",
+          "feeble",
           "tremendous"
         ]
       },
@@ -440,7 +440,7 @@
         "correctAnswer": "style",
         "options": [
           "style",
-          "custom",
+          "nuisance",
           "force",
           "vessel"
         ]
@@ -488,15 +488,15 @@
     ],
     "imposterHunt": [
       {
-        "vocabWord": "custom",
+        "vocabWord": "nuisance",
         "words": [
-          "novelty",
-          "tradition",
-          "habit",
-          "practice"
+          "pest",
+          "bother",
+          "annoyance",
+          "delight"
         ],
-        "imposterIndex": 0,
-        "imposterWord": "novelty"
+        "imposterIndex": 3,
+        "imposterWord": "delight"
       },
       {
         "vocabWord": "style",
@@ -521,15 +521,15 @@
         "imposterWord": "stillness"
       },
       {
-        "vocabWord": "active",
+        "vocabWord": "feeble",
         "words": [
-          "inactive",
-          "energetic",
-          "lively",
-          "busy"
+          "weak",
+          "frail",
+          "faint",
+          "mighty"
         ],
-        "imposterIndex": 0,
-        "imposterWord": "inactive"
+        "imposterIndex": 3,
+        "imposterWord": "mighty"
       },
       {
         "vocabWord": "tough",

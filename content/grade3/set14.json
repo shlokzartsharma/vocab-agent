@@ -4,15 +4,15 @@
   "words": [
     "goal",
     "pounce",
-    "sensitive",
+    "keen",
     "refer",
     "support",
-    "fury",
+    "tempest",
     "relate",
-    "pierce",
+    "cower",
     "rate",
     "humiliation",
-    "unite",
+    "huddle",
     "structure"
   ],
   "sources": [
@@ -34,11 +34,11 @@
     "parts": [
       {
         "title": "The Curious Mind",
-        "text": "Mila's **goal** was simple: win the school science fair. She kept a detailed notebook and would **refer** to it every evening to track her progress. Her experiment measured the **rate** at which crystals grew in different temperatures \u2014 a topic she chose because she could **relate** to it from watching her grandmother grow salt crystals at home. Mr. Lakshmi said Mila was **sensitive** to detail in a way that made her experiments stand out."
+        "text": "Mila's **goal** was simple: win the school science fair. She kept a detailed notebook and would **refer** to it every evening to track her progress. Her experiment measured the **rate** at which crystals grew in different temperatures \u2014 a topic she chose because she could **relate** to it from watching her grandmother grow salt crystals at home. Mr. Lakshmi said Mila had a **keen** eye for detail in a way that made her experiments stand out."
       },
       {
         "title": "The Unexpected Challenge",
-        "text": "On the day of the fair, the power cut out. The **fury** of the storm outside had knocked a tree onto the electrical lines. Some students packed up in despair. But Mila had Leo's **support** \u2014 he ran to find candles while she set up her materials by hand. A power cut would not **pierce** her confidence. \"We can still do this,\" she said, and they began to **unite** their efforts, working as a team."
+        "text": "On the day of the fair, the power cut out. The **tempest** outside had knocked a tree onto the electrical lines. Some students packed up in despair. But Mila had Leo's **support** \u2014 he ran to find candles while she set up her materials by hand. A power cut would not make her **cower**. \"We can still do this,\" she said, and they began to **huddle** over the table, working as a team."
       },
       {
         "title": "The Breakthrough",
@@ -69,11 +69,11 @@
       "sentence": ""
     },
     {
-      "word": "sensitive",
+      "word": "keen",
       "partOfSpeech": "adjective",
-      "meaning1": "Easily affected by things; aware of others' feelings. Example: She is sensitive to loud noises.",
-      "meaning2": "",
-      "studentChallenge": "He is a ___ person who cares about others.",
+      "meaning1": "Sharp and quick to notice things. Example: The keen eyes of the hawk spotted a mouse far below.",
+      "meaning2": "Very eager or interested. Example: She is keen on learning to play the violin.",
+      "studentChallenge": "The detective's ___ eye caught a tiny clue that everyone else had missed.",
       "sentence": ""
     },
     {
@@ -93,11 +93,11 @@
       "sentence": ""
     },
     {
-      "word": "fury",
+      "word": "tempest",
       "partOfSpeech": "noun",
-      "meaning1": "Extreme anger; rage. Example: The fury of the storm frightened everyone.",
-      "meaning2": "",
-      "studentChallenge": "His ___ was clear from the look on his face.",
+      "meaning1": "A violent storm with strong, howling wind. Example: The tempest tore the sails off the ship.",
+      "meaning2": "A wild burst of strong feeling. Example: A tempest of cheers shook the stadium when the team scored.",
+      "studentChallenge": "The ___ ripped shingles off the roof and flooded the streets.",
       "sentence": ""
     },
     {
@@ -109,11 +109,11 @@
       "sentence": ""
     },
     {
-      "word": "pierce",
+      "word": "cower",
       "partOfSpeech": "verb",
-      "meaning1": "To make a hole through something. Example: The needle pierced the fabric.",
+      "meaning1": "To crouch or shrink back in fear. Example: The puppy began to cower under the bed during the thunderstorm.",
       "meaning2": "",
-      "studentChallenge": "The thorn ___ through her shoe.",
+      "studentChallenge": "The frightened child would ___ in the corner whenever the dog barked loudly.",
       "sentence": ""
     },
     {
@@ -133,11 +133,11 @@
       "sentence": ""
     },
     {
-      "word": "unite",
-      "partOfSpeech": "verb",
-      "meaning1": "To join together as one. Example: The community united to help after the flood.",
-      "meaning2": "",
-      "studentChallenge": "Let's ___ to solve this problem together.",
+      "word": "huddle",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To crowd close together, often for warmth or safety. Example: The penguins huddle together to stay warm.",
+      "meaning2": "A small group of people standing close together. Example: The team stood in a huddle before the game.",
+      "studentChallenge": "On a freezing day, the hikers had to ___ close to the campfire.",
       "sentence": ""
     },
     {
@@ -157,7 +157,7 @@
       "options": [
         "goal",
         "rate",
-        "fury",
+        "tempest",
         "pounce"
       ],
       "correctIndex": 0,
@@ -169,7 +169,7 @@
       "sentence2": "The kitten waited patiently for several minutes before deciding to ___ on the toy dangling from the string.",
       "options": [
         "rate",
-        "fury",
+        "tempest",
         "pounce",
         "humiliation"
       ],
@@ -178,16 +178,16 @@
     },
     {
       "questionNumber": 3,
-      "sentence1": "She is ___ to loud noises and covers her ears whenever a fire alarm goes off.",
-      "sentence2": "He is a ___ person who always notices when a friend is feeling sad or left out.",
+      "sentence1": "The hawk's ___ eyes spotted a tiny mouse from high in the sky.",
+      "sentence2": "She had a ___ sense of smell and could tell the cookies were burning from three rooms away.",
       "options": [
         "refer",
         "pounce",
-        "sensitive",
+        "keen",
         "rate"
       ],
       "correctIndex": 2,
-      "correctAnswer": "sensitive"
+      "correctAnswer": "keen"
     },
     {
       "questionNumber": 4,
@@ -196,8 +196,8 @@
       "options": [
         "refer",
         "relate",
-        "unite",
-        "fury"
+        "huddle",
+        "tempest"
       ],
       "correctIndex": 0,
       "correctAnswer": "refer"
@@ -209,24 +209,24 @@
       "options": [
         "structure",
         "support",
-        "pierce",
-        "fury"
+        "cower",
+        "tempest"
       ],
       "correctIndex": 1,
       "correctAnswer": "support"
     },
     {
       "questionNumber": 6,
-      "sentence1": "The ___ of the storm frightened everyone in the village, rattling windows and bending trees.",
-      "sentence2": "His ___ was plain to see from the look on his face and the clench of his fists.",
+      "sentence1": "A fierce ___ rattled the windows and bent the trees all through the night.",
+      "sentence2": "Sailors feared the sudden ___ at sea, with its towering waves and howling wind.",
       "options": [
         "rate",
-        "fury",
+        "tempest",
         "support",
         "refer"
       ],
       "correctIndex": 1,
-      "correctAnswer": "fury"
+      "correctAnswer": "tempest"
     },
     {
       "questionNumber": 7,
@@ -234,7 +234,7 @@
       "sentence2": "Can you ___ this science lesson to something you have noticed in your everyday world?",
       "options": [
         "relate",
-        "pierce",
+        "cower",
         "rate",
         "pounce"
       ],
@@ -243,23 +243,23 @@
     },
     {
       "questionNumber": 8,
-      "sentence1": "The sharp needle ___ the thick fabric with a clean, precise hole.",
-      "sentence2": "The thorn ___ through the sole of her shoe, surprising her with a sudden sharp pain.",
+      "sentence1": "The frightened puppy began to ___ under the bed when the thunder boomed.",
+      "sentence2": "A brave knight does not ___ in fear, even when the dragon roars.",
       "options": [
         "refer",
         "relate",
-        "fury",
-        "pierce"
+        "tempest",
+        "cower"
       ],
       "correctIndex": 3,
-      "correctAnswer": "pierce"
+      "correctAnswer": "cower"
     },
     {
       "questionNumber": 9,
       "sentence1": "The plants grew at a very fast ___ because they received hours of sunlight and plenty of water.",
       "sentence2": "At the ___ we are reading, we should finish the novel well before the end of the week.",
       "options": [
-        "unite",
+        "huddle",
         "support",
         "structure",
         "rate"
@@ -282,16 +282,16 @@
     },
     {
       "questionNumber": 11,
-      "sentence1": "The whole community decided to ___ and work together to help after the devastating flood.",
-      "sentence2": "Let's ___ our efforts and solve this problem together as a team.",
+      "sentence1": "The players had to ___ close together on the cold sideline to stay warm.",
+      "sentence2": "The penguins ___ in a tight circle to keep warm in the freezing wind.",
       "options": [
         "goal",
         "humiliation",
-        "unite",
+        "huddle",
         "structure"
       ],
       "correctIndex": 2,
-      "correctAnswer": "unite"
+      "correctAnswer": "huddle"
     },
     {
       "questionNumber": 12,
@@ -300,7 +300,7 @@
       "options": [
         "humiliation",
         "structure",
-        "pierce",
+        "cower",
         "support"
       ],
       "correctIndex": 1,
@@ -312,18 +312,18 @@
     "wordBank": [
       "goal",
       "pounce",
-      "sensitive",
+      "keen",
       "refer",
       "support",
-      "fury",
+      "tempest",
       "relate",
-      "pierce",
+      "cower",
       "rate",
       "humiliation",
-      "unite",
+      "huddle",
       "structure"
     ],
-    "passage": "Zara's _(1)_ \u2014 the single thing she was working toward \u2014 was to build the tallest tower in the school's engineering contest. She had to _(2)_ to the instruction booklet over and over, flipping back to it every few minutes to check each step. She wanted to _(3)_ her tower from every side, holding it steady with braces and beams so it would not wobble. The _(4)_ of the wind that afternoon was terrifying \u2014 a howling rage that shook the windows and bent the trees. Zara could _(5)_ to how stressful the contest felt, because she had felt that same pressure the year before. Building at this _(6)_ \u2014 moving this quickly, step after fast step \u2014 made her hands shake with excitement. She used a sharp pin to _(7)_ a small hole in the paper tube, then threaded a string through it to hold two pieces together. Zara was _(8)_ to criticism \u2014 even a small unkind comment could make her feel discouraged for hours. The _(9)_ of her tower was impressive \u2014 a tall, upright frame of triangles that made it both light and strong. She asked her partner to _(10)_ \u2014 to join forces with her \u2014 and work on the base together. Losing last year had been a moment of pure _(11)_ \u2014 a deep, burning shame in front of the whole school. This year, she was ready to _(12)_ on every opportunity, jumping at every chance to prove herself.",
+    "passage": "Zara's _(1)_ \u2014 the single thing she was working toward \u2014 was to build the tallest tower in the school's engineering contest. She had to _(2)_ to the instruction booklet over and over, flipping back to it every few minutes to check each step. She wanted to _(3)_ her tower from every side, holding it steady with braces and beams so it would not wobble. The _(4)_ that afternoon was terrifying \u2014 a violent storm of howling wind that shook the windows and bent the trees. Zara could _(5)_ to how stressful the contest felt, because she had felt that same pressure the year before. Building at this _(6)_ \u2014 moving this quickly, step after fast step \u2014 made her hands shake with excitement. When the tower swayed, a nervous partner began to _(7)_ in fear behind the table, covering his head \u2014 but Zara stood firm. Zara had a _(8)_ eye for detail \u2014 she noticed every tiny flaw in the tower that others missed. The _(9)_ of her tower was impressive \u2014 a tall, upright frame of triangles that made it both light and strong. She asked her partner to _(10)_ close beside her \u2014 to crowd together over the plans \u2014 and work on the base together. Losing last year had been a moment of pure _(11)_ \u2014 a deep, burning shame in front of the whole school. This year, she was ready to _(12)_ on every opportunity, jumping at every chance to prove herself.",
     "blanks": [
       {
         "blankNumber": 1,
@@ -331,7 +331,7 @@
         "options": [
           "goal",
           "rate",
-          "fury",
+          "tempest",
           "humiliation"
         ]
       },
@@ -341,8 +341,8 @@
         "options": [
           "refer",
           "relate",
-          "unite",
-          "pierce"
+          "huddle",
+          "cower"
         ]
       },
       {
@@ -350,16 +350,16 @@
         "correctAnswer": "support",
         "options": [
           "support",
-          "unite",
+          "huddle",
           "structure",
           "pounce"
         ]
       },
       {
         "blankNumber": 4,
-        "correctAnswer": "fury",
+        "correctAnswer": "tempest",
         "options": [
-          "fury",
+          "tempest",
           "rate",
           "humiliation",
           "goal"
@@ -371,7 +371,7 @@
         "options": [
           "relate",
           "refer",
-          "unite",
+          "huddle",
           "support"
         ]
       },
@@ -380,16 +380,16 @@
         "correctAnswer": "rate",
         "options": [
           "rate",
-          "fury",
+          "tempest",
           "goal",
           "structure"
         ]
       },
       {
         "blankNumber": 7,
-        "correctAnswer": "pierce",
+        "correctAnswer": "cower",
         "options": [
-          "pierce",
+          "cower",
           "pounce",
           "relate",
           "refer"
@@ -397,9 +397,9 @@
       },
       {
         "blankNumber": 8,
-        "correctAnswer": "sensitive",
+        "correctAnswer": "keen",
         "options": [
-          "sensitive",
+          "keen",
           "support",
           "structure",
           "rate"
@@ -417,9 +417,9 @@
       },
       {
         "blankNumber": 10,
-        "correctAnswer": "unite",
+        "correctAnswer": "huddle",
         "options": [
-          "unite",
+          "huddle",
           "support",
           "relate",
           "pounce"
@@ -430,7 +430,7 @@
         "correctAnswer": "humiliation",
         "options": [
           "humiliation",
-          "fury",
+          "tempest",
           "rate",
           "goal"
         ]
@@ -440,8 +440,8 @@
         "correctAnswer": "pounce",
         "options": [
           "pounce",
-          "pierce",
-          "unite",
+          "cower",
+          "huddle",
           "refer"
         ]
       }
@@ -468,13 +468,13 @@
         "vocabPosition": 1
       },
       {
-        "vocabWord": "sensitive",
+        "vocabWord": "keen",
         "scale": [
-          "aware",
-          "sensitive",
-          "tender"
+          "dull",
+          "sharp",
+          "keen"
         ],
-        "vocabPosition": 1
+        "vocabPosition": 2
       },
       {
         "vocabWord": "refer",
@@ -499,15 +499,15 @@
         "imposterWord": "oppose"
       },
       {
-        "vocabWord": "fury",
+        "vocabWord": "tempest",
         "words": [
-          "rage",
-          "anger",
-          "wrath",
-          "calmness"
+          "storm",
+          "calm",
+          "gale",
+          "hurricane"
         ],
-        "imposterIndex": 3,
-        "imposterWord": "calmness"
+        "imposterIndex": 1,
+        "imposterWord": "calm"
       },
       {
         "vocabWord": "relate",
@@ -521,15 +521,15 @@
         "imposterWord": "separate"
       },
       {
-        "vocabWord": "pierce",
+        "vocabWord": "cower",
         "words": [
-          "seal",
-          "puncture",
-          "stab",
-          "penetrate"
+          "flinch",
+          "shrink",
+          "stand tall",
+          "cringe"
         ],
-        "imposterIndex": 0,
-        "imposterWord": "seal"
+        "imposterIndex": 2,
+        "imposterWord": "stand tall"
       },
       {
         "vocabWord": "rate",
@@ -554,15 +554,15 @@
         "imposterWord": "honor"
       },
       {
-        "vocabWord": "unite",
+        "vocabWord": "huddle",
         "words": [
-          "separate",
-          "join",
-          "combine",
-          "merge"
+          "gather",
+          "scatter",
+          "cluster",
+          "crowd"
         ],
-        "imposterIndex": 0,
-        "imposterWord": "separate"
+        "imposterIndex": 1,
+        "imposterWord": "scatter"
       },
       {
         "vocabWord": "structure",

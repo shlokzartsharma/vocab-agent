@@ -12,7 +12,7 @@
     "fierce",
     "journey",
     "observe",
-    "superb",
+    "lofty",
     "treasure"
   ],
   "sources": [
@@ -41,7 +41,7 @@
       },
       {
         "title": "The Discovery",
-        "text": "At last, beneath a great tree, she found a chest of gold — a **treasure** so **precious** she could barely breathe looking at it. Inside was a letter urging all who found it to **unite** and share the wealth. Lena thought this was a **superb** plan. She used the **clasp** on her cloak to pin the letter to her chest, then turned home — her heart full."
+        "text": "At last, beneath a great tree, she found a chest of gold — a **treasure** so **precious** she could barely breathe looking at it. Inside was a letter urging all who found it to **unite** and share the wealth. Lena thought sharing it was a **lofty** goal, one that put others before herself. She used the **clasp** on her cloak to pin the letter to her chest, then turned home — her heart full."
       },
       {
         "title": "The Return",
@@ -132,11 +132,11 @@
       "sentence": ""
     },
     {
-      "word": "superb",
+      "word": "lofty",
       "partOfSpeech": "adjective",
-      "meaning1": "Excellent; of the highest quality. Example: The gymnast gave a superb performance, earning a perfect score.",
-      "meaning2": "",
-      "studentChallenge": "The meal was ___ — the flavors were balanced and everything was fresh.",
+      "meaning1": "Very high or tall. Example: The eagle built its nest on a lofty cliff, far above the valley floor.",
+      "meaning2": "Noble and important; showing high ideals. Example: Her lofty goal was to bring clean water to every village.",
+      "studentChallenge": "From the top of the ___ tower, the guards could see for miles in every direction.",
       "sentence": ""
     },
     {
@@ -169,7 +169,7 @@
       "questionNumber": 3,
       "sentence1": "She kept her grandmother's ring in a velvet box because it was too _______ to risk losing.",
       "sentence2": "Clean water is _______ to villagers in the desert, where every drop must be saved.",
-      "options": ["certain", "fierce", "precious", "superb"],
+      "options": ["certain", "fierce", "precious", "lofty"],
       "correctIndex": 2,
       "correctAnswer": "precious"
     },
@@ -201,7 +201,7 @@
       "questionNumber": 7,
       "sentence1": "The wolf let out a _______ growl that made every animal in the forest go completely silent.",
       "sentence2": "A _______ storm knocked down three oak trees and flooded the basement overnight.",
-      "options": ["superb", "fierce", "certain", "border"],
+      "options": ["lofty", "fierce", "certain", "border"],
       "correctIndex": 1,
       "correctAnswer": "fierce"
     },
@@ -217,17 +217,17 @@
       "questionNumber": 9,
       "sentence1": "She was _______ that she had left her backpack on the bus — she remembered it clearly.",
       "sentence2": "One thing is _______: if you practice every day, you will improve.",
-      "options": ["swift", "journey", "certain", "superb"],
+      "options": ["swift", "journey", "certain", "lofty"],
       "correctIndex": 2,
       "correctAnswer": "certain"
     },
     {
       "questionNumber": 10,
-      "sentence1": "The gymnast gave a _______ performance, earning a perfect score from every single judge.",
-      "sentence2": "The meal was _______ — the flavors were balanced, the bread was warm, and everything was fresh.",
-      "options": ["fierce", "precious", "border", "superb"],
+      "sentence1": "The eagle built its nest on a _______ cliff, far above the valley floor.",
+      "sentence2": "The old cathedral had a _______ ceiling that rose higher than three classrooms stacked together.",
+      "options": ["fierce", "precious", "border", "lofty"],
       "correctIndex": 3,
-      "correctAnswer": "superb"
+      "correctAnswer": "lofty"
     },
     {
       "questionNumber": 11,
@@ -259,15 +259,15 @@
       "fierce",
       "journey",
       "observe",
-      "superb",
+      "lofty",
       "treasure"
     ],
-    "passage": "Captain Lena was _(1)_ she had found something important beneath the old floorboards. Wrapped in cloth was a map with a red line forming the _(2)_ of a mysterious island. She knew she had to _(3)_ before the tide changed.\n\nThe _(4)_ across the sea lasted nine days. On the fourth night, waves turned _(5)_ and pounded the hull without mercy. But the wind soon became _(6)_, and the ship cut through the water quickly.\n\nWhen she arrived, Lena began to _(7)_ the shoreline with care, looking for any sign of what the map promised. At last, beneath a great tree, she found a chest of gold — a _(8)_ so _(9)_ she could barely breathe looking at it. Inside was a letter urging all who found it to _(10)_ and share the wealth. Lena thought this was a _(11)_ plan. She used the _(12)_ on her cloak to pin the letter to her chest, then turned home — her heart full.",
+    "passage": "Captain Lena was _(1)_ she had found something important beneath the old floorboards. Wrapped in cloth was a map with a red line forming the _(2)_ of a mysterious island. She knew she had to _(3)_ before the tide changed.\n\nThe _(4)_ across the sea lasted nine days. On the fourth night, waves turned _(5)_ and pounded the hull without mercy. But the wind soon became _(6)_, and the ship cut through the water quickly.\n\nWhen she arrived, Lena began to _(7)_ the shoreline with care, looking for any sign of what the map promised. At last, beneath a great tree, she found a chest of gold — a _(8)_ so _(9)_ she could barely breathe looking at it. Inside was a letter urging all who found it to _(10)_ and share the wealth. Lena thought sharing it was a _(11)_ goal, one that put others before herself. She used the _(12)_ on her cloak to pin the letter to her chest, then turned home — her heart full.",
     "blanks": [
       {
         "blankNumber": 1,
         "correctAnswer": "certain",
-        "options": ["fierce", "superb", "certain", "swift"]
+        "options": ["fierce", "lofty", "certain", "swift"]
       },
       {
         "blankNumber": 2,
@@ -287,7 +287,7 @@
       {
         "blankNumber": 5,
         "correctAnswer": "fierce",
-        "options": ["precious", "certain", "fierce", "superb"]
+        "options": ["precious", "certain", "fierce", "lofty"]
       },
       {
         "blankNumber": 6,
@@ -316,8 +316,8 @@
       },
       {
         "blankNumber": 11,
-        "correctAnswer": "superb",
-        "options": ["fierce", "precious", "superb", "certain"]
+        "correctAnswer": "lofty",
+        "options": ["fierce", "precious", "lofty", "certain"]
       },
       {
         "blankNumber": 12,
@@ -344,9 +344,9 @@
         "vocabPosition": 1
       },
       {
-        "vocabWord": "superb",
-        "scale": ["Good", "Superb", "Perfect"],
-        "vocabPosition": 1
+        "vocabWord": "lofty",
+        "scale": ["Plain", "Noble", "Lofty"],
+        "vocabPosition": 2
       }
     ],
     "imposterHunt": [

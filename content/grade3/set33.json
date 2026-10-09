@@ -6,11 +6,11 @@
     "wicked",
     "task",
     "peer",
-    "decay",
+    "wilt",
     "squeal",
     "quality",
-    "border",
-    "refuse",
+    "blunder",
+    "vex",
     "resources",
     "typical",
     "final"
@@ -34,22 +34,22 @@
     "parts": [
       {
         "title": "The Tryouts",
-        "text": "Nobody expected Sahil to sign up for the basketball tryouts. The **wicked** heat of summer training was brutal \u2014 5 AM every morning, rain or shine. But Sahil's first **task** was simply to make the team, and she attacked it with a ferocious will that surprised everyone watching."
+        "text": "Nobody expected Sahil to sign up for the basketball tryouts. The **wicked** heat of summer training was brutal \u2014 5 AM every morning, rain or shine, and even the grass on the practice field began to **wilt**. But Sahil's first **task** was simply to make the team, and she attacked it with a ferocious will that surprised everyone watching."
       },
       {
         "title": "The Doubters",
-        "text": "Her **peers** on the squad didn't welcome her at first. People said it wasn't **typical** for someone her age to compete at this level. She had to **refuse** to listen to the voices that told her to quit. Saanvi, the coach, used every **resource** she had to support Sahil \u2014 extra drills, film sessions, and encouragement. When a sprained ankle threatened the **border** of her season, Sahil rested one week and came back stronger."
+        "text": "Her teammates didn't welcome her at first. People said it wasn't **typical** for someone her age to compete at this level, and the remarks began to **vex** her, but she would not listen to the voices that told her to quit. Saanvi, the coach, used all the **resources** she had to support Sahil \u2014 extra drills, film sessions where they would **peer** closely at every move, and encouragement. When a careless **blunder** in practice left her with a sprained ankle, Sahil rested one week and came back stronger."
       },
       {
         "title": "The Turning Point",
-        "text": "During the semifinal, a rival player let out a **squeal** of shock when Sahil faked past her with speed nobody expected. Sahil could feel the **spine** of the crowd's energy running through her. The **quality** of her performance in those final minutes was unlike anything she had shown before. The ball left her hands and sailed through the net, and the gymnasium erupted."
+        "text": "During the semifinal, a rival player let out a **squeal** of shock when Sahil faked past her with speed nobody expected. Sahil could feel the **spine** of the crowd's energy running through her. The **quality** of her performance in those **final** minutes was unlike anything she had shown before. The ball left her hands and sailed through the net, and the gymnasium erupted."
       },
       {
         "title": "Victory",
-        "text": "They won the championship by a single point in the **final** seconds. Sahil was lifted onto her teammates' shoulders. The old wooden bleachers showed some **decay** around the edges, but nobody noticed \u2014 every eye was on Sahil. Saanvi told the reporters, \"She's the hardest-working athlete I've ever coached. Everyone doubted her, but she proved them all wrong.\" That night, Sahil looked at her medal and smiled. The underdog had become the champion."
+        "text": "They won the championship by a single point in the final seconds. Sahil was lifted onto her teammates' shoulders. The old wooden bleachers showed some wear around the edges, but nobody noticed \u2014 every eye was on Sahil. Saanvi told the reporters, \"She's the hardest-working athlete I've ever coached. Everyone doubted her, but she proved them all wrong.\" That night, Sahil looked at her medal and smiled. The underdog had become the champion."
       }
     ],
-    "wordCount": 260
+    "wordCount": 283
   },
   "definitions": [
     {
@@ -85,11 +85,11 @@
       "sentence": ""
     },
     {
-      "word": "decay",
-      "partOfSpeech": "verb, noun",
-      "meaning1": "To slowly break down or rot. Example: Fallen leaves decay on the forest floor.",
+      "word": "wilt",
+      "partOfSpeech": "verb",
+      "meaning1": "To droop and become weak because of heat or lack of water. Example: The flowers began to wilt in the hot sun.",
       "meaning2": "",
-      "studentChallenge": "Sugar can cause your teeth to ___.",
+      "studentChallenge": "Without water, the garden plants will begin to ___ by noon.",
       "sentence": ""
     },
     {
@@ -109,19 +109,19 @@
       "sentence": ""
     },
     {
-      "word": "border",
+      "word": "blunder",
       "partOfSpeech": "noun, verb",
-      "meaning1": "The edge or boundary of something. Example: The river forms the border between the two countries.",
+      "meaning1": "A careless or silly mistake. Example: Putting salt in the cake instead of sugar was a silly blunder.",
       "meaning2": "",
-      "studentChallenge": "Flowers grew along the ___ of the garden.",
+      "studentChallenge": "Leaving the gate open was a ___ that let the dog escape.",
       "sentence": ""
     },
     {
-      "word": "refuse",
+      "word": "vex",
       "partOfSpeech": "verb",
-      "meaning1": "To say no to something. Example: She refused to give up, even when things got hard.",
+      "meaning1": "To annoy or upset someone. Example: The loud buzzing of the fly began to vex her.",
       "meaning2": "",
-      "studentChallenge": "He ___ to eat his vegetables.",
+      "studentChallenge": "My little brother's constant questions ___ me when I am trying to read.",
       "sentence": ""
     },
     {
@@ -158,7 +158,7 @@
         "spine",
         "peer",
         "task",
-        "refuse"
+        "vex"
       ],
       "correctIndex": 0,
       "correctAnswer": "spine"
@@ -168,7 +168,7 @@
       "sentence1": "The ___ queen in the fairy tale tried to poison the princess with a magic apple.",
       "sentence2": "The ___ villain in the movie laughed as he locked the heroes inside the dungeon.",
       "options": [
-        "border",
+        "blunder",
         "quality",
         "wicked",
         "task"
@@ -184,7 +184,7 @@
         "resources",
         "task",
         "spine",
-        "decay"
+        "wilt"
       ],
       "correctIndex": 1,
       "correctAnswer": "task"
@@ -194,26 +194,26 @@
       "sentence1": "She ___ through the foggy window to see if the school bus had arrived yet.",
       "sentence2": "The detective had to ___ closely at the tiny footprints left in the mud.",
       "options": [
-        "decay",
+        "wilt",
         "peer",
         "typical",
-        "refuse"
+        "vex"
       ],
       "correctIndex": 1,
       "correctAnswer": "peer"
     },
     {
       "questionNumber": 5,
-      "sentence1": "Fallen leaves ___ on the forest floor, slowly breaking down into soil.",
-      "sentence2": "Sugar can cause your teeth to ___ if you don't brush them.",
+      "sentence1": "Flowers left in a hot car will ___ within a few hours.",
+      "sentence2": "Without any water, the garden plants began to ___ and droop.",
       "options": [
-        "decay",
+        "wilt",
         "squeal",
         "spine",
         "wicked"
       ],
       "correctIndex": 0,
-      "correctAnswer": "decay"
+      "correctAnswer": "wilt"
     },
     {
       "questionNumber": 6,
@@ -221,7 +221,7 @@
       "sentence2": "The piglet let out a loud ___ when it was picked up from the pen.",
       "options": [
         "final",
-        "decay",
+        "wilt",
         "resources",
         "squeal"
       ],
@@ -243,29 +243,29 @@
     },
     {
       "questionNumber": 8,
-      "sentence1": "The river forms the ___ between the two countries, running along the entire edge.",
-      "sentence2": "Flowers grew along the ___ of the garden, framing it like a colorful picture.",
+      "sentence1": "Putting salt in the cake instead of sugar was a silly ___ that everyone laughed about.",
+      "sentence2": "He made a careless ___ on the test by skipping the whole last page.",
       "options": [
         "squeal",
         "spine",
-        "border",
+        "blunder",
         "peer"
       ],
       "correctIndex": 2,
-      "correctAnswer": "border"
+      "correctAnswer": "blunder"
     },
     {
       "questionNumber": 9,
-      "sentence1": "She ___ to give up, even when things got hard and everyone else quit.",
-      "sentence2": "He ___ to eat his vegetables, pushing them to the side of his plate.",
+      "sentence1": "The buzzing mosquito began to ___ the campers, who just wanted to sleep.",
+      "sentence2": "It can ___ me when my little brother keeps hiding my shoes.",
       "options": [
         "typical",
-        "refuse",
+        "vex",
         "task",
         "quality"
       ],
       "correctIndex": 1,
-      "correctAnswer": "refuse"
+      "correctAnswer": "vex"
     },
     {
       "questionNumber": 10,
@@ -274,7 +274,7 @@
       "options": [
         "resources",
         "wicked",
-        "decay",
+        "wilt",
         "task"
       ],
       "correctIndex": 0,
@@ -299,7 +299,7 @@
       "sentence2": "The ___ question on the quiz was the hardest one of all.",
       "options": [
         "typical",
-        "refuse",
+        "vex",
         "final",
         "squeal"
       ],
@@ -314,16 +314,16 @@
       "wicked",
       "task",
       "peer",
-      "decay",
+      "wilt",
       "squeal",
       "quality",
-      "border",
-      "refuse",
+      "blunder",
+      "vex",
       "resources",
       "typical",
       "final"
     ],
-    "passage": "Arjun had one _(1)_ job \u2014 a single piece of work assigned to him \u2014 before the school science fair ended. He had to _(2)_ closely through his magnifying glass at a sample of fallen bark to see exactly how it had begun to rot and break down. He could see where _(3)_ had turned the once-hard wood soft and crumbling. This was no _(4)_ project \u2014 it was unlike anything his classmates had attempted before. The fair was held near the _(5)_ of the school garden, right at the flowered edge between the path and the grass. He had limited _(6)_ \u2014 only a few tools and materials \u2014 so he had to plan carefully. The bark sample had a tough _(7)_ running through its center, a stiff column that held it together even as it rotted. A _(8)_ little beetle \u2014 mean and sharp-jawed \u2014 scurried out of the bark and onto Arjun's hand. The _(9)_ of his work was excellent, so careful and thorough that his teacher stopped to admire it. A smaller boy let out a sudden _(10)_ of excitement when he saw Arjun's display. Arjun would _(11)_ to give up no matter how tired he felt. The _(12)_ step was to present his findings to the judges, and he did so with perfect confidence.",
+    "passage": "Arjun had one _(1)_ job \u2014 a single piece of work assigned to him \u2014 before the school science fair ended. He had to _(2)_ closely through his magnifying glass at a sample of fallen bark to see exactly how it had begun to rot and break down. A bunch of flowers beside the sample had begun to _(3)_ in the hot sun, their petals drooping and brown. This was no _(4)_ project \u2014 it was unlike anything his classmates had attempted before. His partner made a clumsy _(5)_ \u2014 a careless mistake \u2014 and knocked a jar of soil off the table. He had limited _(6)_ \u2014 only a few tools and materials \u2014 so he had to plan carefully. The bark sample had a tough _(7)_ running through its center, a stiff column that held it together even as it rotted. A _(8)_ little beetle \u2014 mean and sharp-jawed \u2014 scurried out of the bark and onto Arjun's hand. The _(9)_ of his work was excellent, so careful and thorough that his teacher stopped to admire it. A smaller boy let out a sudden _(10)_ of excitement when he saw Arjun's display. Loud chatter from the next table began to _(11)_ him, but he stayed focused no matter how tired he felt. The _(12)_ step was to present his findings to the judges, and he did so with perfect confidence.",
     "blanks": [
       {
         "blankNumber": 1,
@@ -331,7 +331,7 @@
         "options": [
           "task",
           "quality",
-          "border",
+          "blunder",
           "spine"
         ]
       },
@@ -340,16 +340,16 @@
         "correctAnswer": "peer",
         "options": [
           "peer",
-          "refuse",
+          "vex",
           "squeal",
-          "decay"
+          "wilt"
         ]
       },
       {
         "blankNumber": 3,
-        "correctAnswer": "decay",
+        "correctAnswer": "wilt",
         "options": [
-          "decay",
+          "wilt",
           "quality",
           "resources",
           "final"
@@ -362,14 +362,14 @@
           "typical",
           "wicked",
           "final",
-          "border"
+          "blunder"
         ]
       },
       {
         "blankNumber": 5,
-        "correctAnswer": "border",
+        "correctAnswer": "blunder",
         "options": [
-          "border",
+          "blunder",
           "final",
           "spine",
           "task"
@@ -381,7 +381,7 @@
         "options": [
           "resources",
           "quality",
-          "border",
+          "blunder",
           "task"
         ]
       },
@@ -390,7 +390,7 @@
         "correctAnswer": "spine",
         "options": [
           "spine",
-          "border",
+          "blunder",
           "task",
           "quality"
         ]
@@ -411,7 +411,7 @@
         "options": [
           "quality",
           "resources",
-          "border",
+          "blunder",
           "spine"
         ]
       },
@@ -420,19 +420,19 @@
         "correctAnswer": "squeal",
         "options": [
           "squeal",
-          "decay",
-          "refuse",
+          "wilt",
+          "vex",
           "peer"
         ]
       },
       {
         "blankNumber": 11,
-        "correctAnswer": "refuse",
+        "correctAnswer": "vex",
         "options": [
-          "refuse",
+          "vex",
           "squeal",
           "peer",
-          "decay"
+          "wilt"
         ]
       },
       {
@@ -488,15 +488,15 @@
     ],
     "imposterHunt": [
       {
-        "vocabWord": "decay",
+        "vocabWord": "wilt",
         "words": [
-          "grow",
-          "rot",
-          "decompose",
-          "crumble"
+          "droop",
+          "sag",
+          "flourish",
+          "fade"
         ],
-        "imposterIndex": 0,
-        "imposterWord": "grow"
+        "imposterIndex": 2,
+        "imposterWord": "flourish"
       },
       {
         "vocabWord": "squeal",
@@ -521,26 +521,26 @@
         "imposterWord": "quantity"
       },
       {
-        "vocabWord": "border",
+        "vocabWord": "blunder",
         "words": [
-          "center",
-          "edge",
-          "boundary",
-          "limit"
-        ],
-        "imposterIndex": 0,
-        "imposterWord": "center"
-      },
-      {
-        "vocabWord": "refuse",
-        "words": [
-          "decline",
-          "reject",
-          "deny",
-          "accept"
+          "mistake",
+          "error",
+          "slip",
+          "triumph"
         ],
         "imposterIndex": 3,
-        "imposterWord": "accept"
+        "imposterWord": "triumph"
+      },
+      {
+        "vocabWord": "vex",
+        "words": [
+          "annoy",
+          "bother",
+          "irritate",
+          "soothe"
+        ],
+        "imposterIndex": 3,
+        "imposterWord": "soothe"
       },
       {
         "vocabWord": "resources",

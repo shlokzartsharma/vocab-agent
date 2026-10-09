@@ -3,14 +3,14 @@
   "setNumber": 13,
   "words": [
     "giant",
-    "prompt",
+    "nimble",
     "risk",
     "frequent",
     "telescope",
     "lodge",
     "shipwreck",
     "pursue",
-    "approve",
+    "scowl",
     "threat",
     "assembly",
     "feast"
@@ -35,11 +35,11 @@
     "parts": [
       {
         "title": "The Village by the River",
-        "text": "Long ago, in a village nestled between green hills, lived a girl named Leo. She was **prompt** \u2014 always quick to help without delay. Every evening, her family shared a **feast** of rice and lentils. The elder Sanjay would **pursue** knowledge about nature, and Leo followed him everywhere. **Frequent** rains kept the river full."
+        "text": "Long ago, in a village nestled between green hills, lived a girl named Leo. She was **nimble** \u2014 light and quick on her feet, always first to help. Every evening, her family shared a **feast** of rice and lentils. The elder Sanjay would **pursue** knowledge about nature, and Leo followed him everywhere. **Frequent** rains kept the river full."
       },
       {
         "title": "The Gathering Storm",
-        "text": "One afternoon, dark clouds rolled in fast. Through his old **telescope**, Sanjay watched the sky turn iron-gray. \"This is a **threat**,\" he said, calling an **assembly** in the square. A **giant** gust struck first, toppling baskets and rattling shutters. Leo did not **approve** of her brother climbing the roof \u2014 she pulled him inside. There was real **risk** in the storm."
+        "text": "One afternoon, dark clouds rolled in fast. Through his old **telescope**, Sanjay watched the sky turn iron-gray. \"This is a **threat**,\" he said, calling an **assembly** in the square. A **giant** gust struck first, toppling baskets and rattling shutters. Leo could only **scowl** at her brother climbing the roof \u2014 then she pulled him inside. There was real **risk** in the storm."
       },
       {
         "title": "The Discovery",
@@ -50,7 +50,7 @@
         "text": "Leo nursed the bird for seven days, following a careful schedule and using herbs her grandmother taught her about. When the bird finally spread its wings and soared into the sky, the whole village cheered. The elder Sanjay smiled and said, \"The greatest strength is gentleness. Even the most delicate creature can survive the worst storm if someone cares enough to help.\" Leo never forgot that lesson. She grew up to become the village healer, and people traveled from far away to seek her superb care."
       }
     ],
-    "wordCount": 263
+    "wordCount": 268
   },
   "definitions": [
     {
@@ -62,11 +62,11 @@
       "sentence": ""
     },
     {
-      "word": "prompt",
-      "partOfSpeech": "adjective, verb",
-      "meaning1": "Done quickly without delay. Example: Thank you for your prompt reply.",
-      "meaning2": "To cause someone to do something. Example: The question prompted a lively discussion.",
-      "studentChallenge": "Please be ___ \u2014 arrive on time for class.",
+      "word": "nimble",
+      "partOfSpeech": "adjective",
+      "meaning1": "Quick and light in movement; able to move easily. Example: The nimble squirrel leaped from branch to branch.",
+      "meaning2": "Quick to think and understand. Example: She has a nimble mind and solves puzzles fast.",
+      "studentChallenge": "The ___ goat hopped from rock to rock without ever slipping.",
       "sentence": ""
     },
     {
@@ -118,11 +118,11 @@
       "sentence": ""
     },
     {
-      "word": "approve",
-      "partOfSpeech": "verb",
-      "meaning1": "To agree with or accept something. Example: The committee approved the new playground plan.",
-      "meaning2": "",
-      "studentChallenge": "Did your parents ___ of your choice?",
+      "word": "scowl",
+      "partOfSpeech": "verb, noun",
+      "meaning1": "To frown in an angry or unhappy way. Example: He began to scowl when he saw the mess on the floor.",
+      "meaning2": "An angry or unhappy look on someone's face. Example: A scowl crossed her face when the game was canceled.",
+      "studentChallenge": "When the bully grabbed her pencil, she crossed her arms and began to ___ at him.",
       "sentence": ""
     },
     {
@@ -157,7 +157,7 @@
       "sentence2": "A ___ tortoise at the zoo weighed over four hundred pounds and was more than a hundred years old.",
       "options": [
         "giant",
-        "approve",
+        "scowl",
         "shipwreck",
         "telescope"
       ],
@@ -166,16 +166,16 @@
     },
     {
       "questionNumber": 2,
-      "sentence1": "Thank you for your ___ reply \u2014 you responded so quickly that we could act right away.",
-      "sentence2": "Please be ___ and arrive on time so the class can start without waiting.",
+      "sentence1": "The ___ acrobat leaped from bar to bar as lightly as a cat.",
+      "sentence2": "Her ___ fingers danced across the piano keys, quick and light.",
       "options": [
         "telescope",
-        "prompt",
+        "nimble",
         "assembly",
         "pursue"
       ],
       "correctIndex": 1,
-      "correctAnswer": "prompt"
+      "correctAnswer": "nimble"
     },
     {
       "questionNumber": 3,
@@ -197,7 +197,7 @@
       "options": [
         "frequent",
         "shipwreck",
-        "approve",
+        "scowl",
         "pursue"
       ],
       "correctIndex": 0,
@@ -211,7 +211,7 @@
         "pursue",
         "risk",
         "telescope",
-        "approve"
+        "scowl"
       ],
       "correctIndex": 2,
       "correctAnswer": "telescope"
@@ -236,7 +236,7 @@
       "options": [
         "assembly",
         "lodge",
-        "prompt",
+        "nimble",
         "shipwreck"
       ],
       "correctIndex": 3,
@@ -247,8 +247,8 @@
       "sentence1": "She decided to ___ her dream of becoming a veterinarian by studying hard in science class.",
       "sentence2": "The detective continued to ___ every clue carefully until the mystery was finally solved.",
       "options": [
-        "approve",
-        "prompt",
+        "scowl",
+        "nimble",
         "pursue",
         "threat"
       ],
@@ -257,16 +257,16 @@
     },
     {
       "questionNumber": 9,
-      "sentence1": "The committee voted to ___ the new playground plan after weeks of discussion.",
-      "sentence2": "Did your parents ___ of your choice to join the drama club after school?",
+      "sentence1": "The teacher began to ___ when she saw the muddy footprints on her clean floor.",
+      "sentence2": "My little brother likes to ___ and cross his arms whenever he is told to go to bed.",
       "options": [
         "pursue",
         "giant",
         "risk",
-        "approve"
+        "scowl"
       ],
       "correctIndex": 3,
-      "correctAnswer": "approve"
+      "correctAnswer": "scowl"
     },
     {
       "questionNumber": 10,
@@ -276,7 +276,7 @@
         "shipwreck",
         "threat",
         "risk",
-        "prompt"
+        "nimble"
       ],
       "correctIndex": 1,
       "correctAnswer": "threat"
@@ -301,7 +301,7 @@
       "options": [
         "threat",
         "shipwreck",
-        "prompt",
+        "nimble",
         "feast"
       ],
       "correctIndex": 3,
@@ -312,19 +312,19 @@
     "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
     "wordBank": [
       "giant",
-      "prompt",
+      "nimble",
       "risk",
       "frequent",
       "telescope",
       "lodge",
       "shipwreck",
       "pursue",
-      "approve",
+      "scowl",
       "threat",
       "assembly",
       "feast"
     ],
-    "passage": "High in the mountains above the village stood a cozy _(1)_ \u2014 a small wooden cabin used by hikers and hunters who needed shelter for the night. Through a powerful _(2)_ set on the porch, a tool with lenses that made distant things look close, visitors could see all the way to the sunken _(3)_ in the harbor below \u2014 a broken old ship lying on its side in the shallow water. The harbor master called a community _(4)_, gathering every villager together in the square to discuss the danger. He warned that the storm season was a real _(5)_, that the heavy rains could wash out the mountain road and cut off the village. Rain was _(6)_ in these mountains \u2014 it arrived nearly every afternoon without fail. The council voted to _(7)_ a repair plan for the road without a single person disagreeing. To fund it, they planned a harvest _(8)_, a grand celebration meal with roasted vegetables, fresh bread, and honey, where every family would bring their best dish. Working at a _(9)_ pace \u2014 responding quickly and without delay \u2014 the villagers began repairs the very next morning. A _(10)_ oak tree had fallen across the path, so enormous that six people standing side by side could not see over it. Some said it was too much of a _(11)_ to move it by hand, that someone could get hurt trying. But the children dared each other to _(12)_ the challenge \u2014 to chase it down and not give up until the road was clear.",
+    "passage": "High in the mountains above the village stood a cozy _(1)_ \u2014 a small wooden cabin used by hikers and hunters who needed shelter for the night. Through a powerful _(2)_ set on the porch, a tool with lenses that made distant things look close, visitors could see all the way to the sunken _(3)_ in the harbor below \u2014 a broken old ship lying on its side in the shallow water. The harbor master called a community _(4)_, gathering every villager together in the square to discuss the danger. He warned that the storm season was a real _(5)_, that the heavy rains could wash out the mountain road and cut off the village. Rain was _(6)_ in these mountains \u2014 it arrived nearly every afternoon without fail. At the idea of a repair plan for the road, one grumpy villager began to _(7)_ and cross his arms, but the council voted for it anyway. To fund it, they planned a harvest _(8)_, a grand celebration meal with roasted vegetables, fresh bread, and honey, where every family would bring their best dish. Light and _(9)_ on their feet, the villagers began repairs the very next morning. A _(10)_ oak tree had fallen across the path, so enormous that six people standing side by side could not see over it. Some said it was too much of a _(11)_ to move it by hand, that someone could get hurt trying. But the children dared each other to _(12)_ the challenge \u2014 to chase it down and not give up until the road was clear.",
     "blanks": [
       {
         "blankNumber": 1,
@@ -381,18 +381,18 @@
         "correctAnswer": "frequent",
         "options": [
           "frequent",
-          "prompt",
+          "nimble",
           "giant",
-          "approve"
+          "scowl"
         ]
       },
       {
         "blankNumber": 7,
-        "correctAnswer": "approve",
+        "correctAnswer": "scowl",
         "options": [
-          "approve",
+          "scowl",
           "pursue",
-          "prompt",
+          "nimble",
           "risk"
         ]
       },
@@ -408,12 +408,12 @@
       },
       {
         "blankNumber": 9,
-        "correctAnswer": "prompt",
+        "correctAnswer": "nimble",
         "options": [
-          "prompt",
+          "nimble",
           "frequent",
           "giant",
-          "approve"
+          "scowl"
         ]
       },
       {
@@ -422,7 +422,7 @@
         "options": [
           "giant",
           "frequent",
-          "prompt",
+          "nimble",
           "risk"
         ]
       },
@@ -433,7 +433,7 @@
           "risk",
           "threat",
           "pursue",
-          "approve"
+          "scowl"
         ]
       },
       {
@@ -441,7 +441,7 @@
         "correctAnswer": "pursue",
         "options": [
           "pursue",
-          "approve",
+          "scowl",
           "risk",
           "frequent"
         ]
@@ -460,13 +460,13 @@
         "vocabPosition": 1
       },
       {
-        "vocabWord": "prompt",
+        "vocabWord": "nimble",
         "scale": [
-          "hesitant",
-          "prompt",
-          "fast"
+          "slow",
+          "quick",
+          "nimble"
         ],
-        "vocabPosition": 1
+        "vocabPosition": 2
       },
       {
         "vocabWord": "risk",
@@ -533,15 +533,15 @@
         "imposterWord": "flee"
       },
       {
-        "vocabWord": "approve",
+        "vocabWord": "scowl",
         "words": [
-          "reject",
-          "accept",
-          "agree",
-          "support"
+          "frown",
+          "smile",
+          "glare",
+          "pout"
         ],
-        "imposterIndex": 0,
-        "imposterWord": "reject"
+        "imposterIndex": 1,
+        "imposterWord": "smile"
       },
       {
         "vocabWord": "threat",

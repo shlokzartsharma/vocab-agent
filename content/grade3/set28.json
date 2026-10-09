@@ -2,8 +2,8 @@
   "grade": 3,
   "setNumber": 28,
   "words": [
-    "talent",
-    "climate",
+    "weary",
+    "vacant",
     "adapt",
     "plead",
     "fatal",
@@ -12,7 +12,7 @@
     "rotation",
     "inspect",
     "instant",
-    "bashful",
+    "petrified",
     "provide"
   ],
   "sources": [
@@ -34,17 +34,17 @@
     "parts": [
       {
         "title": "Something Strange",
-        "text": "Tara had a real **talent** for spotting things others missed. She stopped to **inspect** the library shelf and noticed something odd \u2014 a drawing tucked behind the books, its edges **moist** with damp air. The school's **climate** control had been broken all week, and the warm, humid hallways felt heavy and strange.",
+        "text": "Tara was never **weary** of hunting for things others missed. She stopped to **inspect** the library shelf and noticed something odd \u2014 a drawing tucked behind the books, its edges **moist** with damp air. The school had been **vacant** all week for the holiday, and the warm, humid hallways felt heavy and strange.",
         "wordCount": 53
       },
       {
         "title": "The Investigation",
-        "text": "That night, wind rattled the school windows, but Tara was too curious to worry. Was there something **fatal** to the mystery hidden in that drawing, or was it just a prank? She began to **adapt** her usual methods \u2014 this was no ordinary lost-and-found case. She had to **plead** with Kai to join her after dark, and then convince **bashful** Vivaan to come too, because three detectives were better than two.",
+        "text": "That night, wind rattled the school windows, but Tara was too curious to worry. Was there something **fatal** to the mystery hidden in that drawing, or was it just a prank? She began to **adapt** her usual methods \u2014 this was no ordinary lost-and-found case. She had to **plead** with Kai to join her after dark, and then convince **petrified** Vivaan to come too, because three detectives were better than two.",
         "wordCount": 72
       },
       {
         "title": "The Hidden Clue",
-        "text": "Behind the bookshelf, they found an old map. The paper was thin and **moist** to the touch. It showed a hidden passage in the school's **rotation** of underground tunnels \u2014 a layout that had changed every decade since the building was first constructed. In an **instant**, Tara understood: the drawing was a map key. \"This will **provide** the answer we need,\" she whispered. Vivaan gave a **peck** of excitement \u2014 a tiny, quick tap on Kai's shoulder.",
+        "text": "Behind the bookshelf, they found an old map. The paper was thin and damp to the touch. It showed a hidden passage in the school's **rotation** of underground tunnels \u2014 a layout that had changed every decade since the building was first constructed. In an **instant**, Tara understood: the drawing was a map key. \"This will **provide** the answer we need,\" she whispered. Vivaan gave a **peck** of excitement \u2014 a tiny, quick tap on Kai's shoulder.",
         "wordCount": 80
       },
       {
@@ -53,29 +53,29 @@
         "wordCount": 63
       }
     ],
-    "wordCount": 268
+    "wordCount": 264
   },
   "definitions": [
     {
-      "word": "talent",
-      "partOfSpeech": "noun",
-      "meaning1": "A natural ability to do something well. Example: She has a talent for drawing.",
+      "word": "weary",
+      "partOfSpeech": "adjective",
+      "meaning1": "Very tired, especially after working hard for a long time. Example: The weary farmer sat down after a long day in the fields.",
       "meaning2": "",
-      "studentChallenge": "Everyone has a special ___.",
+      "studentChallenge": "The ___ hikers dropped their packs and rested after climbing all day.",
       "sentence": ""
     },
     {
-      "word": "climate",
-      "partOfSpeech": "noun",
-      "meaning1": "The usual weather conditions in an area over a long time. Example: Tropical climates are warm and rainy.",
+      "word": "vacant",
+      "partOfSpeech": "adjective",
+      "meaning1": "Empty, with no one in it or using it. Example: The vacant house had no furniture and no people inside.",
       "meaning2": "",
-      "studentChallenge": "The ___ in the desert is hot and dry.",
+      "studentChallenge": "We found a ___ parking spot right in front of the store.",
       "sentence": ""
     },
     {
       "word": "adapt",
       "partOfSpeech": "verb",
-      "meaning1": "To change in order to fit a new situation. Example: Animals adapt to survive in different climates.",
+      "meaning1": "To change in order to fit a new situation. Example: Animals adapt to survive in different habitats.",
       "meaning2": "",
       "studentChallenge": "You need to ___ to a new school quickly.",
       "sentence": ""
@@ -137,11 +137,11 @@
       "sentence": ""
     },
     {
-      "word": "bashful",
+      "word": "petrified",
       "partOfSpeech": "adjective",
-      "meaning1": "Shy and easily embarrassed. Example: The bashful child hid behind her mother.",
+      "meaning1": "So scared that you cannot move or think. Example: The petrified boy stood frozen when thunder cracked right above him.",
       "meaning2": "",
-      "studentChallenge": "The ___ kitten hid under the bed when visitors came.",
+      "studentChallenge": "She was ___ when she came face to face with the huge spider.",
       "sentence": ""
     },
     {
@@ -156,33 +156,33 @@
   "doubleTakeQuiz": [
     {
       "questionNumber": 1,
-      "sentence1": "She has a natural ___ for drawing \u2014 her sketches look professional even though she has never had a lesson.",
-      "sentence2": "Everyone has at least one special ___ that they are uniquely gifted at if they take the time to find it.",
+      "sentence1": "After hiking all day, the children felt ___ and could hardly keep their eyes open.",
+      "sentence2": "The ___ traveler sat down on a bench at the end of the long journey, too tired to take another step.",
       "options": [
         "adapt",
-        "talent",
-        "bashful",
+        "weary",
+        "petrified",
         "fatal"
       ],
       "correctIndex": 1,
-      "correctAnswer": "talent"
+      "correctAnswer": "weary"
     },
     {
       "questionNumber": 2,
-      "sentence1": "Tropical ___ are warm and rainy all year round, which is why rainforests grow so thick and lush.",
-      "sentence2": "The ___ in the desert is so hot and dry that fewer than ten species of plant can survive there.",
+      "sentence1": "The house next door has been ___ since the family moved away last spring, with nobody living in it.",
+      "sentence2": "She found a ___ seat on the crowded bus and finally sat down.",
       "options": [
-        "climate",
+        "vacant",
         "instant",
-        "talent",
+        "weary",
         "rotation"
       ],
       "correctIndex": 0,
-      "correctAnswer": "climate"
+      "correctAnswer": "vacant"
     },
     {
       "questionNumber": 3,
-      "sentence1": "Animals must ___ to survive in harsh climates \u2014 changing their fur, diet, or sleep patterns as needed.",
+      "sentence1": "Animals must ___ to survive in harsh habitats \u2014 changing their fur, diet, or sleep patterns as needed.",
       "sentence2": "Moving to a new country can be difficult, but children tend to ___ quickly and make new friends.",
       "options": [
         "adapt",
@@ -213,8 +213,8 @@
       "options": [
         "peck",
         "fatal",
-        "talent",
-        "bashful"
+        "weary",
+        "petrified"
       ],
       "correctIndex": 1,
       "correctAnswer": "fatal"
@@ -227,7 +227,7 @@
         "fatal",
         "plead",
         "peck",
-        "climate"
+        "vacant"
       ],
       "correctIndex": 2,
       "correctAnswer": "peck"
@@ -239,7 +239,7 @@
       "options": [
         "peck",
         "fatal",
-        "bashful",
+        "petrified",
         "moist"
       ],
       "correctIndex": 3,
@@ -252,7 +252,7 @@
       "options": [
         "provide",
         "instant",
-        "talent",
+        "weary",
         "rotation"
       ],
       "correctIndex": 3,
@@ -286,16 +286,16 @@
     },
     {
       "questionNumber": 11,
-      "sentence1": "The ___ child pressed her face into her mother's sleeve, too shy to look at the visitors.",
-      "sentence2": "The ___ kitten retreated under the bed whenever a stranger entered, too timid to come out.",
+      "sentence1": "The ___ child stood frozen at the top of the tall slide, too scared to move.",
+      "sentence2": "The kitten was ___ when the huge dog barked, so frightened that it froze in place.",
       "options": [
-        "climate",
+        "vacant",
         "peck",
-        "bashful",
+        "petrified",
         "adapt"
       ],
       "correctIndex": 2,
-      "correctAnswer": "bashful"
+      "correctAnswer": "petrified"
     },
     {
       "questionNumber": 12,
@@ -314,8 +314,8 @@
   "secretPassage": {
     "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
     "wordBank": [
-      "talent",
-      "climate",
+      "weary",
+      "vacant",
       "adapt",
       "plead",
       "fatal",
@@ -324,27 +324,27 @@
       "rotation",
       "inspect",
       "instant",
-      "bashful",
+      "petrified",
       "provide"
     ],
-    "passage": "Tara had a natural _(1)_ for solving mysteries \u2014 a rare gift she had shown since the age of five. The rainy _(2)_ of the valley meant that moss grew on every stone and the air always smelled of damp earth. Wild animals must _(3)_ to survive \u2014 changing their habits, diet, and shelter whenever their environment shifts around them. The lost puppy seemed to _(4)_ with its eyes, gazing up at each passerby with such a desperate, begging look that it was impossible to walk on. A _(5)_ mistake in the ship's hull \u2014 a crack too small to see \u2014 had caused it to sink completely in the storm. The hen began to _(6)_ rapidly at the corn scattered across the farmyard floor, jabbing her beak down again and again. The garden soil must stay _(7)_ and slightly damp so the seeds can take root and start to grow. The Earth completes one full _(8)_ on its own axis every twenty-four hours, which is what gives us day and night. The safety officer stopped to carefully _(9)_ every piece of equipment, checking each item closely for cracks or damage. The audience's applause was _(10)_ \u2014 it erupted the very second the last note was played, without a moment's pause. The _(11)_ kitten pressed itself into the corner of the basket, too timid to come forward when the visitors arrived. The school promised to _(12)_ every student with a warm meal, books, and everything else needed to learn and grow.",
+    "passage": "After a whole night of searching, Tara was _(1)_ and could hardly keep her eyes open, but she was too curious to stop. The old classroom had stood _(2)_ for years, with no desks, no students, and nothing in it but dust. Wild animals must _(3)_ to survive \u2014 changing their habits, diet, and shelter whenever their environment shifts around them. The lost puppy seemed to _(4)_ with its eyes, gazing up at each passerby with such a desperate, begging look that it was impossible to walk on. A _(5)_ mistake in the ship's hull \u2014 a crack too small to see \u2014 had caused it to sink completely in the storm. The hen began to _(6)_ rapidly at the corn scattered across the farmyard floor, jabbing her beak down again and again. The garden soil must stay _(7)_ and slightly damp so the seeds can take root and start to grow. The Earth completes one full _(8)_ on its own axis every twenty-four hours, which is what gives us day and night. The safety officer stopped to carefully _(9)_ every piece of equipment, checking each item closely for cracks or damage. The audience's applause was _(10)_ \u2014 it erupted the very second the last note was played, without a moment's pause. The _(11)_ kitten froze in the corner of the basket, too scared to move a single paw when the visitors arrived. The school promised to _(12)_ every student with a warm meal, books, and everything else needed to learn and grow.",
     "blanks": [
       {
         "blankNumber": 1,
-        "correctAnswer": "talent",
+        "correctAnswer": "weary",
         "options": [
-          "talent",
-          "climate",
-          "bashful",
+          "weary",
+          "vacant",
+          "petrified",
           "peck"
         ]
       },
       {
         "blankNumber": 2,
-        "correctAnswer": "climate",
+        "correctAnswer": "vacant",
         "options": [
-          "climate",
-          "talent",
+          "vacant",
+          "weary",
           "fatal",
           "plead"
         ]
@@ -354,7 +354,7 @@
         "correctAnswer": "adapt",
         "options": [
           "adapt",
-          "bashful",
+          "petrified",
           "rotation",
           "provide"
         ]
@@ -375,7 +375,7 @@
         "options": [
           "fatal",
           "instant",
-          "climate",
+          "vacant",
           "moist"
         ]
       },
@@ -395,7 +395,7 @@
         "options": [
           "moist",
           "instant",
-          "talent",
+          "weary",
           "fatal"
         ]
       },
@@ -424,16 +424,16 @@
         "correctAnswer": "instant",
         "options": [
           "instant",
-          "bashful",
+          "petrified",
           "provide",
           "rotation"
         ]
       },
       {
         "blankNumber": 11,
-        "correctAnswer": "bashful",
+        "correctAnswer": "petrified",
         "options": [
-          "bashful",
+          "petrified",
           "fatal",
           "instant",
           "plead"
@@ -444,8 +444,8 @@
         "correctAnswer": "provide",
         "options": [
           "provide",
-          "talent",
-          "climate",
+          "weary",
+          "vacant",
           "rotation"
         ]
       }
@@ -454,20 +454,20 @@
   "wordScaleImposter": {
     "wordScales": [
       {
-        "vocabWord": "talent",
+        "vocabWord": "weary",
         "scale": [
-          "aptitude",
-          "talent",
-          "expertise"
+          "sleepy",
+          "weary",
+          "exhausted"
         ],
         "vocabPosition": 1
       },
       {
-        "vocabWord": "climate",
+        "vocabWord": "vacant",
         "scale": [
-          "weather",
-          "climate",
-          "conditions"
+          "unused",
+          "vacant",
+          "empty"
         ],
         "vocabPosition": 1
       },
@@ -558,15 +558,15 @@
         "imposterWord": "eternity"
       },
       {
-        "vocabWord": "bashful",
+        "vocabWord": "petrified",
         "words": [
-          "bold",
-          "shy",
-          "timid",
-          "modest"
+          "terrified",
+          "frightened",
+          "scared",
+          "fearless"
         ],
-        "imposterIndex": 0,
-        "imposterWord": "bold"
+        "imposterIndex": 3,
+        "imposterWord": "fearless"
       },
       {
         "vocabWord": "provide",

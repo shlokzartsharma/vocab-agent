@@ -11,9 +11,9 @@
     "perch",
     "minimum",
     "scene",
-    "atmosphere",
+    "squabble",
     "succeed",
-    "fierce"
+    "spiteful"
   ],
   "sources": [
     "Australian Curriculum",
@@ -38,18 +38,18 @@
       },
       {
         "title": "Ancient Times",
-        "text": "She landed in the middle of a **scene** she could barely believe \u2014 the ancient Indus Valley civilization, alive and busy around her. The **atmosphere** was warm and dusty, filled with the smell of grain and river mud. A **cobbler** sat cross-legged at the edge of a market, stitching a leather sandal with expert hands. Arjun tried to **perch** quietly on a low wall and observe without drawing attention, though the **minimum** noise she made turning a page in her notebook caused a child nearby to look up."
+        "text": "She landed in the middle of a **scene** she could barely believe \u2014 the ancient Indus Valley civilization, alive and busy around her. The air was warm and dusty, filled with the smell of grain and river mud, and a noisy **squabble** between two traders over a clay pot rose above the crowd. A **cobbler** sat cross-legged at the edge of a market, stitching a leather sandal with expert hands. Arjun tried to **perch** quietly on a low wall and observe without drawing attention, though the **minimum** noise she made turning a page in her notebook caused a child nearby to look up."
       },
       {
         "title": "Making Friends",
-        "text": "A girl about her own age approached, her eyes **fierce** with curiosity rather than fear. She spoke first and gestured for Arjun to follow, eager to **succeed** at making herself understood. She welcomed any **input** Arjun tried to give \u2014 pointing at things, drawing shapes in the dust. When a dog nearby began to **bristle** and growl at Arjun, the girl stepped between them calmly, and the dog backed down."
+        "text": "A girl about her own age approached, her eyes bright with curiosity rather than fear. A **spiteful** boy beside her muttered unkind things about the stranger, but the girl ignored him. She spoke first and gestured for Arjun to follow, eager to **succeed** at making herself understood. She welcomed any **input** Arjun tried to give \u2014 pointing at things, drawing shapes in the dust. When a dog nearby began to **bristle** and growl at Arjun, the girl stepped between them calmly, and the dog backed down."
       },
       {
         "title": "Coming Home",
         "text": "After three unforgettable days, the machine hummed back to life. Arjun hugged her new friend goodbye, knowing she could never explain where she was really from. Back in her attic, Arjun wrote everything down in her journal. History wasn't just something in books \u2014 it was real, alive, and full of people just like her. She closed the journal and looked at the time machine. Where would it take her next?"
       }
     ],
-    "wordCount": 278
+    "wordCount": 319
   },
   "definitions": [
     {
@@ -125,11 +125,11 @@
       "sentence": ""
     },
     {
-      "word": "atmosphere",
-      "partOfSpeech": "noun",
-      "meaning1": "The layer of gases surrounding the Earth. Example: The atmosphere protects us from harmful rays.",
-      "meaning2": "The feeling or mood of a place. Example: The restaurant had a friendly atmosphere.",
-      "studentChallenge": "The ___ in the room was tense before the announcement.",
+      "word": "squabble",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A noisy argument over something small. Example: The twins had a squabble over who got the last cookie.",
+      "meaning2": "",
+      "studentChallenge": "The brothers had a loud ___ about whose turn it was.",
       "sentence": ""
     },
     {
@@ -141,11 +141,11 @@
       "sentence": ""
     },
     {
-      "word": "fierce",
+      "word": "spiteful",
       "partOfSpeech": "adjective",
-      "meaning1": "Very strong or violent; intense. Example: The fierce winds knocked down trees.",
+      "meaning1": "Mean, and wanting to hurt or upset someone. Example: It was spiteful of him to tear up his sister's drawing.",
       "meaning2": "",
-      "studentChallenge": "The ___ lion protected its territory.",
+      "studentChallenge": "A ___ person says hurtful things just to make others feel bad.",
       "sentence": ""
     }
   ],
@@ -169,7 +169,7 @@
       "sentence2": "Scientists use powerful telescopes to study each ___ and count the stars spinning inside it.",
       "options": [
         "scene",
-        "atmosphere",
+        "squabble",
         "galaxy",
         "plateau"
       ],
@@ -183,7 +183,7 @@
       "options": [
         "react",
         "minimum",
-        "fierce",
+        "spiteful",
         "plateau"
       ],
       "correctIndex": 3,
@@ -209,7 +209,7 @@
       "options": [
         "input",
         "cobbler",
-        "atmosphere",
+        "squabble",
         "minimum"
       ],
       "correctIndex": 0,
@@ -220,7 +220,7 @@
       "sentence1": "The ___ carefully stitched the cracked sole back onto the boot, making it look as good as new.",
       "sentence2": "Grandma baked a warm peach ___ with a golden, crumbly topping that smelled wonderful.",
       "options": [
-        "atmosphere",
+        "squabble",
         "cobbler",
         "plateau",
         "perch"
@@ -233,7 +233,7 @@
       "sentence1": "A red-breasted robin chose to ___ right at the very tip of the garden fence post.",
       "sentence2": "The owl liked to ___ on the highest branch it could find and silently watch the meadow far below.",
       "options": [
-        "atmosphere",
+        "squabble",
         "minimum",
         "scene",
         "perch"
@@ -269,16 +269,16 @@
     },
     {
       "questionNumber": 10,
-      "sentence1": "The ___ surrounding the Earth is a thin blanket of gases that shields all living things from harmful radiation.",
-      "sentence2": "The cozy firelight and soft music gave the room a warm, welcoming ___ that made everyone feel at home.",
+      "sentence1": "The two brothers had a loud ___ over who got to ride in the front seat.",
+      "sentence2": "A silly ___ about whose turn it was broke out between the twins at the table.",
       "options": [
         "react",
-        "atmosphere",
+        "squabble",
         "succeed",
         "bristle"
       ],
       "correctIndex": 1,
-      "correctAnswer": "atmosphere"
+      "correctAnswer": "squabble"
     },
     {
       "questionNumber": 11,
@@ -286,7 +286,7 @@
       "sentence2": "He told his little brother that if he kept trying and never gave up, he would ___ at anything he chose.",
       "options": [
         "minimum",
-        "atmosphere",
+        "squabble",
         "succeed",
         "perch"
       ],
@@ -295,16 +295,16 @@
     },
     {
       "questionNumber": 12,
-      "sentence1": "The ___ storm tore branches off trees and sent roof tiles flying across the neighborhood.",
-      "sentence2": "The ___ guard dog growled loudly and bared its teeth whenever a stranger came near the gate.",
+      "sentence1": "The ___ girl spread an unkind rumor just to make her classmate cry.",
+      "sentence2": "It was a ___ thing to do, ripping up his sister's drawing because he was jealous.",
       "options": [
         "perch",
         "react",
         "bristle",
-        "fierce"
+        "spiteful"
       ],
       "correctIndex": 3,
-      "correctAnswer": "fierce"
+      "correctAnswer": "spiteful"
     }
   ],
   "secretPassage": {
@@ -319,17 +319,17 @@
       "perch",
       "minimum",
       "scene",
-      "atmosphere",
+      "squabble",
       "succeed",
-      "fierce"
+      "spiteful"
     ],
-    "passage": "The science fair filled the gymnasium with a buzzing, excited _(1)_ \u2014 the kind of mood where everyone felt something amazing was about to happen. Lena's project was about our _(2)_, the vast Milky Way, which contains billions of stars and planets. She had studied for weeks without taking a single day off, determined to _(3)_ and win first place. The _(4)_ competition among the top three finalists was intense, almost frightening, like a storm about to break. Lena's display showed the flat, table-like surface of a _(5)_ on Mars, where future explorers might one day land. She welcomed every judge's _(6)_ \u2014 their ideas and suggestions \u2014 and wrote every comment down carefully. From her tall stool, she could _(7)_ above the crowd and watch the judges move from table to table. The rules required a _(8)_ of three data points to prove any experiment was reliable, so Lena had collected twelve. In the dramatic final _(9)_, the principal read the winners aloud over the microphone. Lena felt every _(10)_ on her arms stand up, stiff with nervousness, the way a cat's fur rises before a thunderstorm. She barely knew how to _(11)_ when her name was called \u2014 she froze, then burst into a huge smile. Later, the school _(12)_, the kind old shoe-repair shop owner who always sat outside fixing boots, shook her hand and said she had made the whole street proud.",
+    "passage": "The science fair began with a noisy _(1)_ \u2014 a petty argument between two students over who would get the best table. Lena's project was about our _(2)_, the vast Milky Way, which contains billions of stars and planets. She had studied for weeks without taking a single day off, determined to _(3)_ and win first place. One _(4)_ rival among the top three finalists, mean and eager to upset her, whispered rude jokes about her poster. Lena's display showed the flat, table-like surface of a _(5)_ on Mars, where future explorers might one day land. She welcomed every judge's _(6)_ \u2014 their ideas and suggestions \u2014 and wrote every comment down carefully. From her tall stool, she could _(7)_ above the crowd and watch the judges move from table to table. The rules required a _(8)_ of three data points to prove any experiment was reliable, so Lena had collected twelve. In the dramatic final _(9)_, the principal read the winners aloud over the microphone. Lena felt every _(10)_ on her arms stand up, stiff with nervousness, the way a cat's fur rises before a thunderstorm. She barely knew how to _(11)_ when her name was called \u2014 she froze, then burst into a huge smile. Later, the school _(12)_, the kind old shoe-repair shop owner who always sat outside fixing boots, shook her hand and said she had made the whole street proud.",
     "blanks": [
       {
         "blankNumber": 1,
-        "correctAnswer": "atmosphere",
+        "correctAnswer": "squabble",
         "options": [
-          "atmosphere",
+          "squabble",
           "galaxy",
           "plateau",
           "scene"
@@ -340,7 +340,7 @@
         "correctAnswer": "galaxy",
         "options": [
           "galaxy",
-          "atmosphere",
+          "squabble",
           "plateau",
           "scene"
         ]
@@ -352,14 +352,14 @@
           "succeed",
           "react",
           "perch",
-          "fierce"
+          "spiteful"
         ]
       },
       {
         "blankNumber": 4,
-        "correctAnswer": "fierce",
+        "correctAnswer": "spiteful",
         "options": [
-          "fierce",
+          "spiteful",
           "succeed",
           "minimum",
           "react"
@@ -372,7 +372,7 @@
           "plateau",
           "galaxy",
           "scene",
-          "atmosphere"
+          "squabble"
         ]
       },
       {
@@ -410,7 +410,7 @@
         "correctAnswer": "scene",
         "options": [
           "scene",
-          "atmosphere",
+          "squabble",
           "galaxy",
           "plateau"
         ]
@@ -432,7 +432,7 @@
           "react",
           "succeed",
           "perch",
-          "fierce"
+          "spiteful"
         ]
       },
       {
@@ -543,15 +543,15 @@
         "imposterWord": "darkness"
       },
       {
-        "vocabWord": "atmosphere",
+        "vocabWord": "squabble",
         "words": [
-          "air",
-          "mood",
-          "feeling",
-          "vacuum"
+          "argument",
+          "spat",
+          "agreement",
+          "dispute"
         ],
-        "imposterIndex": 3,
-        "imposterWord": "vacuum"
+        "imposterIndex": 2,
+        "imposterWord": "agreement"
       },
       {
         "vocabWord": "succeed",
@@ -565,15 +565,15 @@
         "imposterWord": "fail"
       },
       {
-        "vocabWord": "fierce",
+        "vocabWord": "spiteful",
         "words": [
-          "gentle",
-          "wild",
-          "intense",
-          "ferocious"
+          "mean",
+          "cruel",
+          "kind",
+          "hateful"
         ],
-        "imposterIndex": 0,
-        "imposterWord": "gentle"
+        "imposterIndex": 2,
+        "imposterWord": "kind"
       }
     ],
     "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."

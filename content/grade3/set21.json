@@ -6,14 +6,14 @@
     "frost",
     "frontier",
     "marvel",
-    "reflex",
+    "robust",
     "preserve",
     "rustic",
     "series",
     "tinker",
-    "expose",
+    "conceal",
     "grip",
-    "revive"
+    "quiver"
   ],
   "sources": [
     "CBSE India",
@@ -37,18 +37,18 @@
       },
       {
         "title": "The Doubters",
-        "text": "A **series** of critics said Maya was too young and too unknown to belong in the competition. Coach Kai told her to **preserve** her energy for the field and ignore the noise. It was a **marvel** watching her train \u2014 she moved with speed and precision that seemed almost automatic, her body operating on pure **reflex**. She had discovered an **exotic** footwork technique from a training guide printed overseas, and it was unlike anything her opponents had seen."
+        "text": "A **series** of critics said Maya was too young and too unknown to belong in the competition. Coach Kai told her to **preserve** her energy for the field and ignore the noise. It was a **marvel** watching her train \u2014 she moved with speed and precision, and her **robust** body never seemed to tire. She had discovered an **exotic** footwork technique from a training guide printed overseas, and it was unlike anything her opponents had seen."
       },
       {
         "title": "The Turning Point",
-        "text": "During the semifinal, Maya decided to **expose** a weakness she had spotted in the opposing team's defense. All week she had found time to **tinker** with her approach angle, making tiny adjustments, and now it paid off \u2014 she sprinted through a gap, tightened her **grip** on the ball, and scored the goal that changed the game. The crowd cheered so loudly it seemed to **revive** every tired muscle in her body."
+        "text": "During the semifinal, Maya worked hard to **conceal** a sore ankle so that the opposing team could not use it against her. All week she had found time to **tinker** with her approach angle, making tiny adjustments, and now it paid off \u2014 she sprinted through a gap, tightened her **grip** on the ball, and scored the goal that changed the game. The crowd cheered so loudly the whole stadium seemed to **quiver**."
       },
       {
         "title": "Victory",
         "text": "They won the championship by a single point in the final seconds. Maya was lifted onto her teammates' shoulders. Kai told the reporters, \"She's the hardest-working athlete I've ever coached. Everyone doubted her, but she proved them all wrong.\" That night, Maya looked at her medal and smiled. The underdog had become the champion."
       }
     ],
-    "wordCount": 271
+    "wordCount": 272
   },
   "definitions": [
     {
@@ -84,11 +84,11 @@
       "sentence": ""
     },
     {
-      "word": "reflex",
-      "partOfSpeech": "noun",
-      "meaning1": "An automatic body movement that happens without you thinking about it. Example: Pulling your hand away from a hot stove is a reflex that protects you from being burned.",
+      "word": "robust",
+      "partOfSpeech": "adjective",
+      "meaning1": "Strong, healthy, and full of energy. Example: The robust young oak tree stood firm through the storm.",
       "meaning2": "",
-      "studentChallenge": "Blinking when something comes close to your eye is a natural ___ that helps keep you safe.",
+      "studentChallenge": "After a week of rest and good food, the sick puppy grew ___ and playful again.",
       "sentence": ""
     },
     {
@@ -124,11 +124,11 @@
       "sentence": ""
     },
     {
-      "word": "expose",
+      "word": "conceal",
       "partOfSpeech": "verb",
-      "meaning1": "To make something visible or known. Example: The investigation exposed the truth.",
+      "meaning1": "To hide something so that it cannot be seen or found. Example: The rabbit tried to conceal itself in the tall grass.",
       "meaning2": "",
-      "studentChallenge": "Don't ___ the film to direct sunlight.",
+      "studentChallenge": "The squirrel tried to ___ its acorns under a pile of leaves.",
       "sentence": ""
     },
     {
@@ -140,11 +140,11 @@
       "sentence": ""
     },
     {
-      "word": "revive",
-      "partOfSpeech": "verb",
-      "meaning1": "To bring back to life or make active again. Example: A glass of cold water revived her after the run.",
+      "word": "quiver",
+      "partOfSpeech": "verb/noun",
+      "meaning1": "To shake with small, quick movements, often from cold, fear, or excitement. Example: The cold puppy began to quiver under the blanket.",
       "meaning2": "",
-      "studentChallenge": "Rain helped ___ the dying plants.",
+      "studentChallenge": "My hands began to ___ with nerves just before I stepped onto the stage.",
       "sentence": ""
     }
   ],
@@ -155,7 +155,7 @@
       "sentence2": "The market sold ___ fruits from faraway countries that none of us had ever seen or tasted before.",
       "options": [
         "rustic",
-        "expose",
+        "conceal",
         "frontier",
         "exotic"
       ],
@@ -167,7 +167,7 @@
       "sentence1": "The ___ on the window made feathery, lace-like patterns in the cold morning light.",
       "sentence2": "The ___ covered the whole lawn like a sparkling white blanket on the freezing November morning.",
       "options": [
-        "expose",
+        "conceal",
         "frost",
         "frontier",
         "preserve"
@@ -194,7 +194,7 @@
       "sentence2": "The crowd began to ___ at the magician's tricks \u2014 gasping and pointing in disbelief.",
       "options": [
         "tinker",
-        "expose",
+        "conceal",
         "marvel",
         "frontier"
       ],
@@ -203,16 +203,16 @@
     },
     {
       "questionNumber": 5,
-      "sentence1": "Pulling your hand away from a burning-hot stove is a ___ \u2014 your body moves before your brain even thinks.",
-      "sentence2": "Blinking when something flies close to your eye is a natural ___ that protects you from harm.",
+      "sentence1": "The ___ oak tree stood firm through the storm, its thick trunk barely moving in the wind.",
+      "sentence2": "After weeks of healthy meals and plenty of exercise, the once-frail puppy grew ___ and full of energy.",
       "options": [
         "series",
-        "reflex",
+        "robust",
         "frost",
         "marvel"
       ],
       "correctIndex": 1,
-      "correctAnswer": "reflex"
+      "correctAnswer": "robust"
     },
     {
       "questionNumber": 6,
@@ -235,7 +235,7 @@
         "series",
         "rustic",
         "exotic",
-        "revive"
+        "quiver"
       ],
       "correctIndex": 1,
       "correctAnswer": "rustic"
@@ -245,7 +245,7 @@
       "sentence1": "The library had a whole ___ of mystery books \u2014 twelve in total \u2014 and she could not stop reading them.",
       "sentence2": "We watched a ___ of short videos in class, one after another, to learn about the water cycle.",
       "options": [
-        "expose",
+        "conceal",
         "preserve",
         "marvel",
         "series"
@@ -268,16 +268,16 @@
     },
     {
       "questionNumber": 10,
-      "sentence1": "The reporter worked for months to ___ the truth behind the strange disappearance of the old paintings.",
-      "sentence2": "Never ___ the film to direct sunlight \u2014 it will ruin all the photographs on the roll.",
+      "sentence1": "The magician tried to ___ the coin in his sleeve so nobody in the audience could see it.",
+      "sentence2": "The thief tried to ___ the stolen jewels under the floorboards, hoping no one would ever find them.",
       "options": [
         "marvel",
         "exotic",
-        "expose",
+        "conceal",
         "preserve"
       ],
       "correctIndex": 2,
-      "correctAnswer": "expose"
+      "correctAnswer": "conceal"
     },
     {
       "questionNumber": 11,
@@ -294,16 +294,16 @@
     },
     {
       "questionNumber": 12,
-      "sentence1": "A cold glass of water ___ her after the long, exhausting run in the summer heat.",
-      "sentence2": "The long-awaited rain finally came and began to ___ the wilting, dying plants in the garden.",
+      "sentence1": "The leaf began to ___ in the cold wind, shaking gently on its thin branch.",
+      "sentence2": "Her voice began to ___ with nerves as she stood up to read her speech to the whole school.",
       "options": [
-        "revive",
+        "quiver",
         "frontier",
         "exotic",
-        "reflex"
+        "robust"
       ],
       "correctIndex": 0,
-      "correctAnswer": "revive"
+      "correctAnswer": "quiver"
     }
   ],
   "secretPassage": {
@@ -313,16 +313,16 @@
       "frost",
       "frontier",
       "marvel",
-      "reflex",
+      "robust",
       "preserve",
       "rustic",
       "series",
       "tinker",
-      "expose",
+      "conceal",
       "grip",
-      "revive"
+      "quiver"
     ],
-    "passage": "Maya trained every morning in a small, _(1)_ gym \u2014 a simple, old-fashioned room with wooden floors and bare walls \u2014 that sat at the edge of a frozen field. In winter, _(2)_ covered the windows in delicate patterns, but Maya barely noticed; she was already stretching. Her coach had designed a _(3)_ of drills \u2014 one after another \u2014 that would test every part of her body and mind. Space exploration felt like the final _(4)_ of human ambition, but for Maya, the true unknown was what lay at the edge of her own limits. She wanted to _(5)_ everything she had achieved \u2014 to keep it safe and never let it slip away. She learned to _(6)_ in her own performance, adjusting her footwork by tiny amounts until each movement felt perfect. A sip of water was enough to _(7)_ her energy between the hardest drills. Her _(8)_ was lightning fast \u2014 she caught the ball before she even had time to think about catching it. She had discovered an _(9)_ training technique from a distant country, one that nobody else in her league had ever tried. Kai would watch and _(10)_ every time she attempted the difficult leap \u2014 filled with wonder and disbelief. She learned to _(11)_ the rope tightly and pull herself up without swinging, controlled and strong. \"Never _(12)_ your weaknesses to the competition,\" Kai told her. \"Keep them guessing until the very last second.\"",
+    "passage": "Maya trained every morning in a small, _(1)_ gym \u2014 a simple, old-fashioned room with wooden floors and bare walls \u2014 that sat at the edge of a frozen field. In winter, _(2)_ covered the windows in delicate patterns, but Maya barely noticed; she was already stretching. Her coach had designed a _(3)_ of drills \u2014 one after another \u2014 that would test every part of her body and mind. Space exploration felt like the final _(4)_ of human ambition, but for Maya, the true unknown was what lay at the edge of her own limits. She wanted to _(5)_ everything she had achieved \u2014 to keep it safe and never let it slip away. She learned to _(6)_ in her own performance, adjusting her footwork by tiny amounts until each movement felt perfect. Before each big leap, her hands would _(7)_ slightly with nervous excitement, and she steadied them with a deep breath. Her _(8)_ body could carry her through three hard practices in a row without tiring. She had discovered an _(9)_ training technique from a distant country, one that nobody else in her league had ever tried. Kai would watch and _(10)_ every time she attempted the difficult leap \u2014 filled with wonder and disbelief. She learned to _(11)_ the rope tightly and pull herself up without swinging, controlled and strong. \"Always _(12)_ your weaknesses from the competition,\" Kai told her. \"Keep them guessing until the very last second.\"",
     "blanks": [
       {
         "blankNumber": 1,
@@ -351,7 +351,7 @@
           "series",
           "marvel",
           "frontier",
-          "expose"
+          "conceal"
         ]
       },
       {
@@ -370,7 +370,7 @@
         "options": [
           "preserve",
           "frost",
-          "reflex",
+          "robust",
           "marvel"
         ]
       },
@@ -380,27 +380,27 @@
         "options": [
           "tinker",
           "preserve",
-          "reflex",
+          "robust",
           "marvel"
         ]
       },
       {
         "blankNumber": 7,
-        "correctAnswer": "revive",
+        "correctAnswer": "quiver",
         "options": [
-          "revive",
+          "quiver",
           "frontier",
-          "reflex",
+          "robust",
           "rustic"
         ]
       },
       {
         "blankNumber": 8,
-        "correctAnswer": "reflex",
+        "correctAnswer": "robust",
         "options": [
-          "reflex",
+          "robust",
           "grip",
-          "expose",
+          "conceal",
           "series"
         ]
       },
@@ -419,7 +419,7 @@
         "correctAnswer": "marvel",
         "options": [
           "marvel",
-          "expose",
+          "conceal",
           "grip",
           "tinker"
         ]
@@ -429,18 +429,18 @@
         "correctAnswer": "grip",
         "options": [
           "grip",
-          "revive",
+          "quiver",
           "tinker",
           "marvel"
         ]
       },
       {
         "blankNumber": 12,
-        "correctAnswer": "expose",
+        "correctAnswer": "conceal",
         "options": [
-          "expose",
+          "conceal",
           "frontier",
-          "reflex",
+          "robust",
           "rustic"
         ]
       }
@@ -487,15 +487,15 @@
     ],
     "imposterHunt": [
       {
-        "vocabWord": "reflex",
+        "vocabWord": "robust",
         "words": [
-          "reaction",
-          "response",
-          "instinct",
-          "thought"
+          "sturdy",
+          "strong",
+          "hardy",
+          "frail"
         ],
         "imposterIndex": 3,
-        "imposterWord": "thought"
+        "imposterWord": "frail"
       },
       {
         "vocabWord": "preserve",
@@ -542,15 +542,15 @@
         "imposterWord": "break"
       },
       {
-        "vocabWord": "expose",
+        "vocabWord": "conceal",
         "words": [
           "hide",
+          "cover",
           "reveal",
-          "uncover",
-          "show"
+          "mask"
         ],
-        "imposterIndex": 0,
-        "imposterWord": "hide"
+        "imposterIndex": 2,
+        "imposterWord": "reveal"
       },
       {
         "vocabWord": "grip",
@@ -564,15 +564,15 @@
         "imposterWord": "release"
       },
       {
-        "vocabWord": "revive",
+        "vocabWord": "quiver",
         "words": [
-          "awaken",
-          "restore",
-          "renew",
-          "kill"
+          "tremble",
+          "shake",
+          "steady",
+          "shiver"
         ],
-        "imposterIndex": 3,
-        "imposterWord": "kill"
+        "imposterIndex": 2,
+        "imposterWord": "steady"
       }
     ],
     "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."

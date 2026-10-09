@@ -5,14 +5,14 @@
     "except",
     "enable",
     "castaway",
-    "ancient",
-    "approach",
+    "monotonous",
+    "lunge",
     "locate",
     "progress",
-    "capture",
+    "gnaw",
     "pier",
-    "triumph",
-    "wisdom",
+    "wrath",
+    "meddle",
     "resident"
   ],
   "sources": [
@@ -36,11 +36,11 @@
     "parts": [
       {
         "title": "Something Strange",
-        "text": "It started on a Wednesday when Ravi went to **approach** the library shelf to return a book and noticed something odd. All the other students had gone home \u2014 everyone **except** Ravi. A light glowed inside the supposedly locked room. Someone had left a drawing behind \u2014 detailed, careful, and very **ancient**-looking, covered in tiny symbols she had never seen before."
+        "text": "It started on a Wednesday when Ravi went to return a book to the library shelf, nearly dropped it, and had to **lunge** to catch it before it hit the floor. Then she noticed something odd. All the other students had gone home \u2014 everyone **except** Ravi. A light glowed inside the supposedly locked room. Someone had left a drawing behind \u2014 detailed and careful, but strangely **monotonous**, the same tiny symbols repeating row after row, none of them ones she had ever seen before."
       },
       {
         "title": "The Investigation",
-        "text": "That night a storm rattled the school windows, but Ravi was too curious to sleep. She needed to **locate** where the drawing had come from and **capture** every detail in sketches before it disappeared. She showed it to Nisha, who used her **wisdom** about old school records to trace its origins. Together they made real **progress** through the clues. To solve it fully, they needed to **enable** Aisha to join them, unlocking her access to the storage room where old yearbooks were kept."
+        "text": "That night a storm vented its **wrath** on the school windows, but Ravi was too curious to sleep. She needed to **locate** where the drawing had come from and copy every detail in sketches before it disappeared, nervously starting to **gnaw** the end of her pencil. She showed it to Nisha, who warned that grown-ups might not like children to **meddle** in old school records, but who helped trace its origins anyway. Together they made real **progress** through the clues. To solve it fully, they needed to **enable** Aisha to join them, unlocking her access to the storage room where old yearbooks were kept."
       },
       {
         "title": "The Hidden Clue",
@@ -48,10 +48,10 @@
       },
       {
         "title": "The Secret Revealed",
-        "text": "What they found was the school's original time capsule from 1923, filled with letters, photographs, and a gold pocket watch. Solving the mystery was a true **triumph** for all three of them. The principal was thrilled and announced that every resident of the school community should come and see it. Their names were added to the school's Hall of Fame, and the time capsule went on permanent display in the library for everyone to admire."
+        "text": "What they found was the school's original time capsule from 1923, filled with letters, photographs, and a gold pocket watch. Solving the mystery made all three of them proud. The principal was thrilled and announced that every resident of the school community should come and see it. Their names were added to the school's Hall of Fame, and the time capsule went on permanent display in the library for everyone to admire."
       }
     ],
-    "wordCount": 276
+    "wordCount": 361
   },
   "definitions": [
     {
@@ -79,19 +79,19 @@
       "sentence": ""
     },
     {
-      "word": "ancient",
+      "word": "monotonous",
       "partOfSpeech": "adjective",
-      "meaning1": "Very, very old; from a time long ago. Example: The ancient ruins were thousands of years old.",
+      "meaning1": "Boring and tiring because it never changes. Example: The monotonous hum of the machine put him to sleep.",
       "meaning2": "",
-      "studentChallenge": "The museum had ___ artifacts from Egypt.",
+      "studentChallenge": "Copying the same word fifty times was a ___ chore.",
       "sentence": ""
     },
     {
-      "word": "approach",
+      "word": "lunge",
       "partOfSpeech": "verb, noun",
-      "meaning1": "To come near or closer to something. Example: We watched the train approach the station.",
-      "meaning2": "A way of dealing with something. Example: She tried a different approach to the problem.",
-      "studentChallenge": "As we ___ the castle, it looked bigger and bigger.",
+      "meaning1": "To make a sudden, forceful move forward. Example: The fencer lunged at his opponent.",
+      "meaning2": "",
+      "studentChallenge": "The goalkeeper had to ___ to the left to save the ball.",
       "sentence": ""
     },
     {
@@ -111,11 +111,11 @@
       "sentence": ""
     },
     {
-      "word": "capture",
-      "partOfSpeech": "verb, noun",
-      "meaning1": "To catch or take control of someone or something. Example: The police captured the thief.",
-      "meaning2": "To record or preserve. Example: The photographer captured a beautiful sunset.",
-      "studentChallenge": "The explorer tried to ___ the butterfly without harming it.",
+      "word": "gnaw",
+      "partOfSpeech": "verb",
+      "meaning1": "To bite or chew on something again and again. Example: The puppy likes to gnaw on a chew toy.",
+      "meaning2": "",
+      "studentChallenge": "Beavers ___ through tree trunks with their strong teeth.",
       "sentence": ""
     },
     {
@@ -127,19 +127,19 @@
       "sentence": ""
     },
     {
-      "word": "triumph",
-      "partOfSpeech": "noun, verb",
-      "meaning1": "A great victory or achievement. Example: Winning the championship was a triumph for the team.",
+      "word": "wrath",
+      "partOfSpeech": "noun",
+      "meaning1": "Very strong anger. Example: The king's wrath fell upon anyone who disobeyed him.",
       "meaning2": "",
-      "studentChallenge": "After months of practice, her concert was a ___.",
+      "studentChallenge": "The villagers hid at home to escape the giant's ___.",
       "sentence": ""
     },
     {
-      "word": "wisdom",
-      "partOfSpeech": "noun",
-      "meaning1": "The ability to make good decisions based on knowledge and experience. Example: Grandma shared her wisdom with the family.",
+      "word": "meddle",
+      "partOfSpeech": "verb",
+      "meaning1": "To get involved in something that is not your business. Example: Do not meddle in your friends' private matters.",
       "meaning2": "",
-      "studentChallenge": "The old teacher was known for her great ___.",
+      "studentChallenge": "It is not polite to ___ in other people's arguments.",
       "sentence": ""
     },
     {
@@ -157,7 +157,7 @@
       "sentence1": "Everyone finished the race ___ the runner who twisted his ankle at the very start and had to stop.",
       "sentence2": "All the ice cream flavors were sold out ___ vanilla, so that is what everyone had to order.",
       "options": [
-        "triumph",
+        "wrath",
         "enable",
         "except",
         "progress"
@@ -172,8 +172,8 @@
       "options": [
         "progress",
         "enable",
-        "ancient",
-        "capture"
+        "monotonous",
+        "gnaw"
       ],
       "correctIndex": 1,
       "correctAnswer": "enable"
@@ -183,9 +183,9 @@
       "sentence1": "The ___ survived on the deserted island alone for months, eating coconuts and catching fish with his hands.",
       "sentence2": "The lonely ___ built a shelter from palm leaves and kept a signal fire burning, hoping a ship would come.",
       "options": [
-        "wisdom",
+        "meddle",
         "castaway",
-        "capture",
+        "gnaw",
         "progress"
       ],
       "correctIndex": 1,
@@ -193,29 +193,29 @@
     },
     {
       "questionNumber": 4,
-      "sentence1": "The ___ ruins crumbled with age \u2014 the stones were thousands of years old and worn smooth by centuries of wind.",
-      "sentence2": "The museum displayed ___ artifacts from Egypt, some dating back more than three thousand years.",
+      "sentence1": "Doing the same chore over and over made the afternoon feel long and ___.",
+      "sentence2": "The speaker's ___ voice never rose or fell, and half of the class fell asleep.",
       "options": [
-        "triumph",
-        "ancient",
+        "wrath",
+        "monotonous",
         "castaway",
         "pier"
       ],
       "correctIndex": 1,
-      "correctAnswer": "ancient"
+      "correctAnswer": "monotonous"
     },
     {
       "questionNumber": 5,
-      "sentence1": "We watched the train slowly ___ the station, its headlight growing brighter as it came nearer.",
-      "sentence2": "As we began to ___ the old castle, its towers looked bigger and more impressive with every step.",
+      "sentence1": "The goalkeeper had to ___ to the left to stop the ball from entering the net.",
+      "sentence2": "The cat crouched in the grass and then began to ___ at the fluttering moth.",
       "options": [
-        "approach",
+        "lunge",
         "enable",
         "except",
         "resident"
       ],
       "correctIndex": 0,
-      "correctAnswer": "approach"
+      "correctAnswer": "lunge"
     },
     {
       "questionNumber": 6,
@@ -223,9 +223,9 @@
       "sentence2": "We need to ___ the nearest hospital before the patient's condition gets any worse.",
       "options": [
         "except",
-        "approach",
+        "lunge",
         "locate",
-        "ancient"
+        "monotonous"
       ],
       "correctIndex": 2,
       "correctAnswer": "locate"
@@ -237,7 +237,7 @@
       "options": [
         "except",
         "resident",
-        "capture",
+        "gnaw",
         "progress"
       ],
       "correctIndex": 3,
@@ -245,16 +245,16 @@
     },
     {
       "questionNumber": 8,
-      "sentence1": "The police ___ the thief after a long chase through the crowded market.",
-      "sentence2": "The photographer stayed still for an hour to ___ the perfect moment \u2014 a hawk landing on the branch.",
+      "sentence1": "The puppy likes to ___ on an old shoe, chewing it for hours.",
+      "sentence2": "Beavers ___ through tree trunks with their strong front teeth.",
       "options": [
-        "triumph",
-        "approach",
+        "wrath",
+        "lunge",
         "resident",
-        "capture"
+        "gnaw"
       ],
       "correctIndex": 3,
-      "correctAnswer": "capture"
+      "correctAnswer": "gnaw"
     },
     {
       "questionNumber": 9,
@@ -264,36 +264,36 @@
         "pier",
         "progress",
         "resident",
-        "wisdom"
+        "meddle"
       ],
       "correctIndex": 0,
       "correctAnswer": "pier"
     },
     {
       "questionNumber": 10,
-      "sentence1": "Winning the championship after three years of training was the greatest ___ the team had ever known.",
-      "sentence2": "After months of daily practice, her piano concert was a complete ___ \u2014 the audience gave a standing ovation.",
+      "sentence1": "The king's ___ was terrible when he learned that his orders had been ignored.",
+      "sentence2": "The villagers hid in their homes to escape the giant's ___ after he found his gold missing.",
       "options": [
-        "triumph",
+        "wrath",
         "enable",
         "pier",
-        "wisdom"
+        "meddle"
       ],
       "correctIndex": 0,
-      "correctAnswer": "triumph"
+      "correctAnswer": "wrath"
     },
     {
       "questionNumber": 11,
-      "sentence1": "Grandma shared her ___ with the family, offering advice built from decades of experience and careful thought.",
-      "sentence2": "The old teacher was known for her great ___ \u2014 she always knew exactly the right thing to say.",
+      "sentence1": "It is not polite to ___ in other people's arguments when nobody asked for your help.",
+      "sentence2": "My little cousin likes to ___ with my model airplane, even though I told him not to touch it.",
       "options": [
-        "triumph",
+        "wrath",
         "castaway",
-        "wisdom",
-        "approach"
+        "meddle",
+        "lunge"
       ],
       "correctIndex": 2,
-      "correctAnswer": "wisdom"
+      "correctAnswer": "meddle"
     },
     {
       "questionNumber": 12,
@@ -301,8 +301,8 @@
       "sentence2": "Each ___ on our street received a letter about the plans for a new community garden next spring.",
       "options": [
         "enable",
-        "approach",
-        "wisdom",
+        "lunge",
+        "meddle",
         "resident"
       ],
       "correctIndex": 3,
@@ -315,25 +315,25 @@
       "except",
       "enable",
       "castaway",
-      "ancient",
-      "approach",
+      "monotonous",
+      "lunge",
       "locate",
       "progress",
-      "capture",
+      "gnaw",
       "pier",
-      "triumph",
-      "wisdom",
+      "wrath",
+      "meddle",
       "resident"
     ],
-    "passage": "The old fisherman stood at the end of the long wooden _(1)_, watching the morning mist lift off the water. He was a lifelong _(2)_ of the harbour village \u2014 he had lived there for seventy years and knew every boat, every rock, and every face. His _(3)_ was famous throughout the region: people came from far away just to sit beside him and hear his advice, trusting his good judgment built from a lifetime of experience. He told the story of a _(4)_ sailor who had once been stranded alone on a deserted island for six months, with nothing _(5)_ a knife and a waterproof coat to help him survive. That survivor had learned to _(6)_ fresh water by finding plants that collected dew overnight. The sailor's story of courage and endurance was a true _(7)_ \u2014 a victory over impossible odds that the whole village still celebrated. The fisherman explained that a modern map could _(8)_ any spot in the ocean within metres, a remarkable _(9)_ from the old days when sailors used only stars and guesswork. He liked to _(10)_ any problem with patience, coming at it slowly and carefully, never rushing. He could _(11)_ photographs with his old camera \u2014 images so vivid and alive they seemed to move. The _(12)_ ruins of a fort at the cliff's edge still stood, its stones worn smooth by five hundred years of sea wind.",
+    "passage": "The old fisherman stood at the end of the long wooden _(1)_, watching the morning mist lift off the water. He was a lifelong _(2)_ of the harbour village \u2014 he had lived there for seventy years and knew every boat, every rock, and every face. He never liked to _(3)_ in other people's affairs, and that discretion made him well known throughout the region: people came from far away just to sit beside him and talk. He told the story of a _(4)_ sailor who had once been stranded alone on a deserted island for six months, with nothing _(5)_ a knife and a waterproof coat to help him survive. That survivor had learned to _(6)_ fresh water by finding plants that collected dew overnight. The sailor's story of courage and endurance told of the sea's terrible _(7)_ \u2014 a furious anger that had wrecked a dozen boats in a single night. The fisherman explained that a modern map could _(8)_ even a beginner to steer to any spot in the ocean within metres, a remarkable _(9)_ from the old days when sailors used only stars and guesswork. His old cat would _(10)_ at any silver fish that flopped on the planks, springing forward in a sudden rush. His old dog liked to _(11)_ a bone beside his chair for hours, chewing it down to nothing. The days at sea were long and _(12)_, with the same gray water, the same gray sky, and the same slow hours repeating themselves.",
     "blanks": [
       {
         "blankNumber": 1,
         "correctAnswer": "pier",
         "options": [
           "pier",
-          "triumph",
-          "wisdom",
+          "wrath",
+          "meddle",
           "resident"
         ]
       },
@@ -344,15 +344,15 @@
           "resident",
           "castaway",
           "pier",
-          "wisdom"
+          "meddle"
         ]
       },
       {
         "blankNumber": 3,
-        "correctAnswer": "wisdom",
+        "correctAnswer": "meddle",
         "options": [
-          "wisdom",
-          "triumph",
+          "meddle",
+          "wrath",
           "progress",
           "resident"
         ]
@@ -363,8 +363,8 @@
         "options": [
           "castaway",
           "resident",
-          "ancient",
-          "wisdom"
+          "monotonous",
+          "meddle"
         ]
       },
       {
@@ -373,7 +373,7 @@
         "options": [
           "except",
           "enable",
-          "capture",
+          "gnaw",
           "locate"
         ]
       },
@@ -382,17 +382,17 @@
         "correctAnswer": "locate",
         "options": [
           "locate",
-          "capture",
+          "gnaw",
           "enable",
-          "approach"
+          "lunge"
         ]
       },
       {
         "blankNumber": 7,
-        "correctAnswer": "triumph",
+        "correctAnswer": "wrath",
         "options": [
-          "triumph",
-          "wisdom",
+          "wrath",
+          "meddle",
           "progress",
           "pier"
         ]
@@ -402,9 +402,9 @@
         "correctAnswer": "enable",
         "options": [
           "enable",
-          "capture",
+          "gnaw",
           "locate",
-          "approach"
+          "lunge"
         ]
       },
       {
@@ -412,16 +412,16 @@
         "correctAnswer": "progress",
         "options": [
           "progress",
-          "triumph",
-          "wisdom",
-          "capture"
+          "wrath",
+          "meddle",
+          "gnaw"
         ]
       },
       {
         "blankNumber": 10,
-        "correctAnswer": "approach",
+        "correctAnswer": "lunge",
         "options": [
-          "approach",
+          "lunge",
           "locate",
           "enable",
           "progress"
@@ -429,19 +429,19 @@
       },
       {
         "blankNumber": 11,
-        "correctAnswer": "capture",
+        "correctAnswer": "gnaw",
         "options": [
-          "capture",
-          "approach",
+          "gnaw",
+          "lunge",
           "enable",
           "locate"
         ]
       },
       {
         "blankNumber": 12,
-        "correctAnswer": "ancient",
+        "correctAnswer": "monotonous",
         "options": [
-          "ancient",
+          "monotonous",
           "castaway",
           "except",
           "resident"
@@ -479,25 +479,25 @@
         "vocabPosition": 1
       },
       {
-        "vocabWord": "ancient",
+        "vocabWord": "monotonous",
         "scale": [
-          "old",
-          "ancient",
-          "prehistoric"
+          "plain",
+          "monotonous",
+          "tedious"
         ],
         "vocabPosition": 1
       }
     ],
     "imposterHunt": [
       {
-        "vocabWord": "approach",
+        "vocabWord": "lunge",
         "words": [
-          "retreat",
-          "near",
-          "advance",
-          "come close"
+          "leap",
+          "pounce",
+          "spring",
+          "retreat"
         ],
-        "imposterIndex": 0,
+        "imposterIndex": 3,
         "imposterWord": "retreat"
       },
       {
@@ -523,15 +523,15 @@
         "imposterWord": "setback"
       },
       {
-        "vocabWord": "capture",
+        "vocabWord": "gnaw",
         "words": [
-          "release",
-          "catch",
-          "seize",
-          "trap"
+          "chew",
+          "nibble",
+          "bite",
+          "spare"
         ],
-        "imposterIndex": 0,
-        "imposterWord": "release"
+        "imposterIndex": 3,
+        "imposterWord": "spare"
       },
       {
         "vocabWord": "pier",
@@ -545,26 +545,26 @@
         "imposterWord": "inland"
       },
       {
-        "vocabWord": "triumph",
+        "vocabWord": "wrath",
         "words": [
-          "victory",
-          "success",
-          "win",
-          "defeat"
+          "fury",
+          "rage",
+          "anger",
+          "calm"
         ],
         "imposterIndex": 3,
-        "imposterWord": "defeat"
+        "imposterWord": "calm"
       },
       {
-        "vocabWord": "wisdom",
+        "vocabWord": "meddle",
         "words": [
-          "foolishness",
-          "knowledge",
-          "understanding",
-          "insight"
+          "interfere",
+          "intrude",
+          "stay out",
+          "butt in"
         ],
-        "imposterIndex": 0,
-        "imposterWord": "foolishness"
+        "imposterIndex": 2,
+        "imposterWord": "stay out"
       },
       {
         "vocabWord": "resident",

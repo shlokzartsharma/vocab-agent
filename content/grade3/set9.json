@@ -6,13 +6,13 @@
     "accuse",
     "clever",
     "coast",
-    "delicate",
+    "flimsy",
     "explore",
-    "imitate",
-    "pierce",
-    "rare",
-    "symbol",
-    "triumph",
+    "resemble",
+    "recoil",
+    "radiant",
+    "peculiar",
+    "elated",
     "ancient"
   ],
   "sources": [
@@ -33,15 +33,15 @@
     "parts": [
       {
         "title": "The Temple",
-        "text": "Deep in the jungle stood an **ancient** temple, thousands of years old and covered in vines. Maya had always wanted to **explore** every hidden corner of the forest, and this was her greatest discovery yet. Carved into the stone doorway was a **symbol** — a golden sun with twelve rays."
+        "text": "Deep in the jungle stood an **ancient** temple, thousands of years old and covered in vines. Maya had always wanted to **explore** every hidden corner of the forest, and this was her greatest discovery yet. Carved into the stone doorway was a **peculiar** mark — a golden sun with twelve rays, unlike anything she had seen before."
       },
       {
         "title": "The Puzzle",
-        "text": "The walls inside were covered with **delicate** carvings, so fine and thin they could crumble at a touch. Maya tried to **imitate** the patterns by sketching them in her notebook. A sharp thorn from a vine managed to **pierce** through her glove and prick her finger. She found a **rare** gemstone hidden behind a loose brick — something almost never seen outside of a museum."
+        "text": "The walls inside were covered with carvings set in **flimsy** plaster, so thin it could crumble at a touch. Some of the carvings seemed to **resemble** animals, so Maya sketched them in her notebook. A sharp thorn from a vine pricked her finger, and she had to **recoil** and snatch her hand back. She found a **radiant** gemstone hidden behind a loose brick — it was so bright that it lit up her whole face."
       },
       {
         "title": "The Trial",
-        "text": "Aarav appeared and tried to **accuse** Maya of stealing the gemstone, saying she had taken it from his family's land. But Maya was **clever** enough to show him the temple map proving it belonged to no one. She hiked back along the **coast**, where the ocean waves crashed against the rocky shore. Priya, the village elder, praised Maya's **wisdom** in handling the argument peacefully. Finding the temple felt like a true **triumph** — a victory Maya would never forget."
+        "text": "Aarav appeared and tried to **accuse** Maya of stealing the gemstone, saying she had taken it from his family's land. But Maya was **clever** enough to show him the temple map proving it belonged to no one. She hiked back along the **coast**, where the ocean waves crashed against the rocky shore. Priya, the village elder, praised Maya's **wisdom** in handling the argument peacefully. Finding the temple left Maya **elated** — happier than she had ever been."
       },
       {
         "title": "The Gift",
@@ -84,11 +84,11 @@
       "sentence": ""
     },
     {
-      "word": "delicate",
+      "word": "flimsy",
       "partOfSpeech": "adjective",
-      "meaning1": "Easily broken or damaged; fragile. Example: The delicate glass ornament could shatter at the lightest touch.",
-      "meaning2": "Fine and detailed. Example: The lace had a delicate pattern of tiny flowers.",
-      "studentChallenge": "Be very careful — that vase is extremely ___.",
+      "meaning1": "Thin, weak, and easily broken or torn. Example: The flimsy umbrella turned inside out in the wind.",
+      "meaning2": "Not strong enough to be believable. Example: His flimsy excuse for being late fooled no one.",
+      "studentChallenge": "The cheap paper cup was so ___ that it collapsed when I filled it with juice.",
       "sentence": ""
     },
     {
@@ -100,43 +100,43 @@
       "sentence": ""
     },
     {
-      "word": "imitate",
+      "word": "resemble",
       "partOfSpeech": "verb",
-      "meaning1": "To copy the actions or sounds of someone or something. Example: The parrot learned to imitate the sound of a doorbell.",
+      "meaning1": "To look like or be similar to someone or something. Example: The cloud seemed to resemble a giant rabbit.",
       "meaning2": "",
-      "studentChallenge": "Young children often ___ their older siblings.",
+      "studentChallenge": "A baby fox may ___ a small dog, but it behaves very differently.",
       "sentence": ""
     },
     {
-      "word": "pierce",
+      "word": "recoil",
       "partOfSpeech": "verb",
-      "meaning1": "To make a hole through something with a sharp point. Example: The thorn was sharp enough to pierce through her thick gloves.",
-      "meaning2": "To break through suddenly. Example: A scream pierced the silence of the night.",
-      "studentChallenge": "The needle can ___ through several layers of fabric.",
+      "meaning1": "To pull back suddenly in fear, shock, or disgust. Example: She had to recoil when the snake hissed at her feet.",
+      "meaning2": "To spring back after being pushed or hit. Example: The spring will recoil after you press it down.",
+      "studentChallenge": "Most people ___ in disgust when they find a spider in their shoe.",
       "sentence": ""
     },
     {
-      "word": "rare",
+      "word": "radiant",
       "partOfSpeech": "adjective",
-      "meaning1": "Not found or seen very often; uncommon. Example: The blue diamond is one of the rarest gems in the world.",
-      "meaning2": "",
-      "studentChallenge": "Seeing a shooting star is a ___ and special event.",
+      "meaning1": "Shining brightly; glowing with light or happiness. Example: The radiant sun warmed the whole valley.",
+      "meaning2": "Showing great joy. Example: The bride gave a radiant smile as she walked down the aisle.",
+      "studentChallenge": "On her wedding day, the bride looked ___, with a smile that lit up the room.",
       "sentence": ""
     },
     {
-      "word": "symbol",
-      "partOfSpeech": "noun",
-      "meaning1": "A mark, sign, or object that represents something else. Example: The heart shape is a common symbol of love.",
-      "meaning2": "",
-      "studentChallenge": "The bald eagle is a ___ of freedom in the United States.",
+      "word": "peculiar",
+      "partOfSpeech": "adjective",
+      "meaning1": "Strange or unusual in a way that makes you curious. Example: The soup had a peculiar taste that nobody could name.",
+      "meaning2": "Belonging only to one person or place. Example: That way of talking is peculiar to my grandfather.",
+      "studentChallenge": "The cat made a ___ noise, like a squeaky toy mixed with a purr.",
       "sentence": ""
     },
     {
-      "word": "triumph",
-      "partOfSpeech": "noun, verb",
-      "meaning1": "A great victory or achievement. Example: Winning the championship was her greatest triumph.",
-      "meaning2": "To win or succeed. Example: The underdog team managed to triumph over the favorites.",
-      "studentChallenge": "After months of hard work, finishing the project was a real ___.",
+      "word": "elated",
+      "partOfSpeech": "adjective",
+      "meaning1": "Extremely happy and excited, often because of good news or success. Example: She felt elated when she won the race.",
+      "meaning2": "",
+      "studentChallenge": "When the team won the championship, the players were so ___ that they danced in the street.",
       "sentence": ""
     },
     {
@@ -153,7 +153,7 @@
       "questionNumber": 1,
       "sentence1": "Grandpa's _______ helped us make the right choice when everyone else was confused.",
       "sentence2": "There is an old saying: \"With age comes _______\" — the more you experience, the more you understand.",
-      "options": ["triumph", "symbol", "clever", "wisdom"],
+      "options": ["elated", "peculiar", "clever", "wisdom"],
       "correctIndex": 3,
       "correctAnswer": "wisdom"
     },
@@ -161,7 +161,7 @@
       "questionNumber": 2,
       "sentence1": "She _______ her brother of eating the last cookie, but it turned out the dog had taken it.",
       "sentence2": "It is not fair to _______ someone of cheating without any proof.",
-      "options": ["accuse", "explore", "imitate", "pierce"],
+      "options": ["accuse", "explore", "resemble", "recoil"],
       "correctIndex": 0,
       "correctAnswer": "accuse"
     },
@@ -169,7 +169,7 @@
       "questionNumber": 3,
       "sentence1": "The _______ fox found a way to escape the trap by digging under the fence.",
       "sentence2": "She came up with a _______ plan to surprise her mom on her birthday without anyone finding out.",
-      "options": ["ancient", "delicate", "clever", "rare"],
+      "options": ["ancient", "flimsy", "clever", "radiant"],
       "correctIndex": 2,
       "correctAnswer": "clever"
     },
@@ -177,71 +177,71 @@
       "questionNumber": 4,
       "sentence1": "They walked along the rocky _______ and watched the waves crash against the cliffs.",
       "sentence2": "She let go of the handlebars and let her bicycle _______ down the long hill without pedaling.",
-      "options": ["symbol", "coast", "triumph", "wisdom"],
+      "options": ["peculiar", "coast", "elated", "wisdom"],
       "correctIndex": 1,
       "correctAnswer": "coast"
     },
     {
       "questionNumber": 5,
-      "sentence1": "The butterfly's wings were so _______ that they could tear at the lightest touch.",
-      "sentence2": "The lace tablecloth had a _______ pattern of tiny flowers woven into it.",
-      "options": ["ancient", "clever", "rare", "delicate"],
+      "sentence1": "The paper bridge was so _______ that it tore apart when the toy car rolled across.",
+      "sentence2": "The kite's frame was _______, and one gust of wind snapped its thin sticks.",
+      "options": ["ancient", "clever", "radiant", "flimsy"],
       "correctIndex": 3,
-      "correctAnswer": "delicate"
+      "correctAnswer": "flimsy"
     },
     {
       "questionNumber": 6,
       "sentence1": "The astronauts were eager to _______ the surface of Mars for signs of water.",
       "sentence2": "Let's _______ different ways to solve this tricky math problem.",
-      "options": ["imitate", "accuse", "explore", "pierce"],
+      "options": ["resemble", "accuse", "explore", "recoil"],
       "correctIndex": 2,
       "correctAnswer": "explore"
     },
     {
       "questionNumber": 7,
-      "sentence1": "The parrot learned to _______ the sound of a ringing doorbell so perfectly it fooled everyone.",
-      "sentence2": "Young children often _______ their older siblings by copying the way they walk and talk.",
-      "options": ["explore", "imitate", "accuse", "pierce"],
+      "sentence1": "The twins look so much alike that people say they _______ each other.",
+      "sentence2": "In the sky, the big white cloud seemed to _______ a sleeping dragon.",
+      "options": ["explore", "resemble", "accuse", "recoil"],
       "correctIndex": 1,
-      "correctAnswer": "imitate"
+      "correctAnswer": "resemble"
     },
     {
       "questionNumber": 8,
-      "sentence1": "The thorn was sharp enough to _______ through her thick gardening gloves.",
-      "sentence2": "A scream _______ the silence of the dark, empty hallway.",
-      "options": ["imitate", "explore", "accuse", "pierce"],
+      "sentence1": "When the snake hissed, Mina had to _______ and step quickly backward.",
+      "sentence2": "Most people _______ in disgust when they find a spider in their shoe.",
+      "options": ["resemble", "explore", "accuse", "recoil"],
       "correctIndex": 3,
-      "correctAnswer": "pierce"
+      "correctAnswer": "recoil"
     },
     {
       "questionNumber": 9,
-      "sentence1": "The blue diamond is one of the _______ gems in the entire world — only five exist.",
-      "sentence2": "Seeing a shooting star is a _______ and special event that most people never forget.",
-      "options": ["delicate", "rare", "ancient", "clever"],
+      "sentence1": "The jewel was so _______ that it lit up the whole room with a warm glow.",
+      "sentence2": "The new mother looked _______ with joy as she held her baby for the first time.",
+      "options": ["flimsy", "radiant", "ancient", "clever"],
       "correctIndex": 1,
-      "correctAnswer": "rare"
+      "correctAnswer": "radiant"
     },
     {
       "questionNumber": 10,
-      "sentence1": "The heart shape is a common _______ of love used on cards around the world.",
-      "sentence2": "The bald eagle is a _______ of freedom in the United States.",
-      "options": ["symbol", "coast", "triumph", "wisdom"],
+      "sentence1": "The twins wore a _______ hat covered in feathers and bells, and everyone stared at it.",
+      "sentence2": "A _______ smell drifted down from the attic, unlike anything the family had smelled before.",
+      "options": ["peculiar", "coast", "elated", "wisdom"],
       "correctIndex": 0,
-      "correctAnswer": "symbol"
+      "correctAnswer": "peculiar"
     },
     {
       "questionNumber": 11,
-      "sentence1": "Winning the spelling bee was the greatest _______ of her entire school year.",
-      "sentence2": "The underdog team managed to _______ over the undefeated champions in the final game.",
-      "options": ["coast", "wisdom", "triumph", "symbol"],
+      "sentence1": "She was so _______ about winning the spelling bee that she jumped up and cheered.",
+      "sentence2": "The children were _______ to hear that school was closed for a snow day, and they cheered and hugged.",
+      "options": ["coast", "wisdom", "elated", "peculiar"],
       "correctIndex": 2,
-      "correctAnswer": "triumph"
+      "correctAnswer": "elated"
     },
     {
       "questionNumber": 12,
       "sentence1": "The _______ ruins were over three thousand years old and covered in thick green moss.",
       "sentence2": "The museum displayed _______ pottery and tools that people used thousands of years ago.",
-      "options": ["delicate", "rare", "clever", "ancient"],
+      "options": ["flimsy", "radiant", "clever", "ancient"],
       "correctIndex": 3,
       "correctAnswer": "ancient"
     }
@@ -253,76 +253,76 @@
       "accuse",
       "clever",
       "coast",
-      "delicate",
+      "flimsy",
       "explore",
-      "imitate",
-      "pierce",
-      "rare",
-      "symbol",
-      "triumph",
+      "resemble",
+      "recoil",
+      "radiant",
+      "peculiar",
+      "elated",
       "ancient"
     ],
-    "passage": "Deep in the jungle stood an _(1)_ temple, thousands of years old and covered in vines. Maya had always wanted to _(2)_ every hidden corner of the forest, and this was her greatest discovery yet. Carved into the stone doorway was a _(3)_ — a golden sun with twelve rays, representing the guardians of the land.\n\nThe walls inside were covered with _(4)_ carvings, so fine and thin they could crumble at a touch. Maya tried to _(5)_ the patterns by sketching them carefully in her notebook. A sharp thorn from a vine managed to _(6)_ through her glove and prick her finger. Behind a loose brick, she found a _(7)_ gemstone — something almost never seen outside of a museum.\n\nAarav appeared and tried to _(8)_ Maya of stealing the gemstone, saying she had taken it from his family's land. But Maya was _(9)_ enough to show him the temple map proving it belonged to no one. She hiked back along the _(10)_, where the ocean waves crashed against the rocky shore. The village elder praised Maya's _(11)_ in handling the argument peacefully. Finding the temple felt like a true _(12)_ — a victory Maya would never forget.",
+    "passage": "Deep in the jungle stood an _(1)_ temple, thousands of years old and covered in vines. Maya had always wanted to _(2)_ every hidden corner of the forest, and this was her greatest discovery yet. Carved into the stone doorway was a _(3)_ mark — a golden sun with twelve rays, unlike anything she had seen before.\n\nThe walls inside were covered with carvings set in _(4)_ plaster, so thin it could crumble at a touch. Some of the carvings seemed to _(5)_ animals, so Maya sketched them carefully in her notebook. A sharp thorn from a vine pricked her finger, and she had to _(6)_ and snatch her hand back. Behind a loose brick, she found a _(7)_ gemstone — so bright that it lit up her whole face.\n\nAarav appeared and tried to _(8)_ Maya of stealing the gemstone, saying she had taken it from his family's land. But Maya was _(9)_ enough to show him the temple map proving it belonged to no one. She hiked back along the _(10)_, where the ocean waves crashed against the rocky shore. The village elder praised Maya's _(11)_ in handling the argument peacefully. Finding the temple left Maya _(12)_ — happier than she had ever been.",
     "blanks": [
       {
         "blankNumber": 1,
         "correctAnswer": "ancient",
-        "options": ["delicate", "rare", "clever", "ancient"]
+        "options": ["flimsy", "radiant", "clever", "ancient"]
       },
       {
         "blankNumber": 2,
         "correctAnswer": "explore",
-        "options": ["imitate", "accuse", "explore", "pierce"]
+        "options": ["resemble", "accuse", "explore", "recoil"]
       },
       {
         "blankNumber": 3,
-        "correctAnswer": "symbol",
-        "options": ["coast", "symbol", "triumph", "wisdom"]
+        "correctAnswer": "peculiar",
+        "options": ["coast", "peculiar", "elated", "wisdom"]
       },
       {
         "blankNumber": 4,
-        "correctAnswer": "delicate",
-        "options": ["ancient", "clever", "rare", "delicate"]
+        "correctAnswer": "flimsy",
+        "options": ["ancient", "clever", "radiant", "flimsy"]
       },
       {
         "blankNumber": 5,
-        "correctAnswer": "imitate",
-        "options": ["explore", "imitate", "accuse", "pierce"]
+        "correctAnswer": "resemble",
+        "options": ["explore", "resemble", "accuse", "recoil"]
       },
       {
         "blankNumber": 6,
-        "correctAnswer": "pierce",
-        "options": ["imitate", "explore", "accuse", "pierce"]
+        "correctAnswer": "recoil",
+        "options": ["resemble", "explore", "accuse", "recoil"]
       },
       {
         "blankNumber": 7,
-        "correctAnswer": "rare",
-        "options": ["delicate", "ancient", "rare", "clever"]
+        "correctAnswer": "radiant",
+        "options": ["flimsy", "ancient", "radiant", "clever"]
       },
       {
         "blankNumber": 8,
         "correctAnswer": "accuse",
-        "options": ["explore", "pierce", "accuse", "imitate"]
+        "options": ["explore", "recoil", "accuse", "resemble"]
       },
       {
         "blankNumber": 9,
         "correctAnswer": "clever",
-        "options": ["rare", "ancient", "delicate", "clever"]
+        "options": ["radiant", "ancient", "flimsy", "clever"]
       },
       {
         "blankNumber": 10,
         "correctAnswer": "coast",
-        "options": ["wisdom", "triumph", "coast", "symbol"]
+        "options": ["wisdom", "elated", "coast", "peculiar"]
       },
       {
         "blankNumber": 11,
         "correctAnswer": "wisdom",
-        "options": ["triumph", "wisdom", "coast", "symbol"]
+        "options": ["elated", "wisdom", "coast", "peculiar"]
       },
       {
         "blankNumber": 12,
-        "correctAnswer": "triumph",
-        "options": ["symbol", "coast", "wisdom", "triumph"]
+        "correctAnswer": "elated",
+        "options": ["peculiar", "coast", "wisdom", "elated"]
       }
     ]
   },
@@ -334,18 +334,18 @@
         "vocabPosition": 1
       },
       {
-        "vocabWord": "triumph",
-        "scale": ["Effort", "Victory", "Triumph"],
+        "vocabWord": "elated",
+        "scale": ["Glad", "Joyful", "Elated"],
         "vocabPosition": 2
       },
       {
-        "vocabWord": "rare",
-        "scale": ["Uncommon", "Rare", "Unique"],
+        "vocabWord": "radiant",
+        "scale": ["Bright", "Radiant", "Blinding"],
         "vocabPosition": 1
       },
       {
-        "vocabWord": "pierce",
-        "scale": ["Poke", "Pierce", "Stab"],
+        "vocabWord": "recoil",
+        "scale": ["Flinch", "Recoil", "Flee"],
         "vocabPosition": 1
       }
     ],
@@ -369,8 +369,8 @@
         "imposterWord": "Foolish"
       },
       {
-        "vocabWord": "delicate",
-        "words": ["Fragile", "Sturdy", "Fine", "Dainty"],
+        "vocabWord": "flimsy",
+        "words": ["Weak", "Sturdy", "Thin", "Frail"],
         "imposterIndex": 1,
         "imposterWord": "Sturdy"
       },
@@ -387,16 +387,16 @@
         "imposterWord": "Modern"
       },
       {
-        "vocabWord": "rare",
-        "words": ["Uncommon", "Scarce", "Common", "Unusual"],
-        "imposterIndex": 2,
-        "imposterWord": "Common"
+        "vocabWord": "radiant",
+        "words": ["Shining", "Dull", "Glowing", "Gleaming"],
+        "imposterIndex": 1,
+        "imposterWord": "Dull"
       },
       {
-        "vocabWord": "triumph",
-        "words": ["Victory", "Defeat", "Win", "Success"],
+        "vocabWord": "elated",
+        "words": ["Thrilled", "Miserable", "Overjoyed", "Delighted"],
         "imposterIndex": 1,
-        "imposterWord": "Defeat"
+        "imposterWord": "Miserable"
       }
     ],
     "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."
