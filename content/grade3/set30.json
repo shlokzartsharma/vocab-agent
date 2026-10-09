@@ -2,18 +2,18 @@
   "grade": 3,
   "setNumber": 30,
   "words": [
-    "journey",
+    "impulse",
     "previous",
-    "loyal",
+    "stout",
     "prior",
     "fertilizer",
-    "perform",
+    "quench",
     "valid",
     "fairy",
     "whale",
     "technique",
     "coral",
-    "mild"
+    "overcast"
   ],
   "sources": [
     "Australian Curriculum",
@@ -34,30 +34,30 @@
     "parts": [
       {
         "title": "The Village by the River",
-        "text": "Long ago, in a village nestled between green hills, Dev set off on a **journey** that would take her across three rivers to visit a wise healer. She had **prior** experience walking long distances, having traveled with her grandmother since childhood. Luna, the village elder, gave her a **loyal** companion for the road \u2014 a steady old dog that never left her side."
+        "text": "Long ago, in a village nestled between green hills, Dev followed an **impulse** to set off on a trek that would take her across three rivers to visit a wise healer. She had **prior** experience walking long distances, having traveled with her grandmother since childhood. Luna, the village elder, gave her a **stout** companion for the road \u2014 a steady old dog that never left her side."
       },
       {
         "title": "The Gathering Storm",
-        "text": "By midday the weather turned **mild**, warm and calm, but by evening dark clouds rolled in fast. Luna had taught Dev a **technique** for reading the sky, and it was **valid** \u2014 the storm arrived exactly when the signs said it would. Dev watched a farmer spread **fertilizer** across his field before rushing home ahead of the rain. She thought of the **previous** storms she had sheltered through and stayed calm."
+        "text": "By midday the sky had turned **overcast**, a flat gray lid over the hills, and by evening dark clouds rolled in fast. Luna had taught Dev a **technique** for reading the sky, and it was **valid** \u2014 the storm arrived exactly when the signs said it would. Dev watched a farmer spread **fertilizer** across his field before rushing home ahead of the rain. She thought of the **previous** storms she had sheltered through and stayed calm."
       },
       {
         "title": "The Discovery",
-        "text": "When Dev reached the coast, she saw something that made her gasp \u2014 a **whale** breached the surface of the sea not fifty metres away, its huge body crashing back into the water. Beside it, tiny **coral** reefs glowed in shades of orange and pink. A fisherman nearby began to **perform** a short prayer of thanks, as was the custom of the region. \"A **fairy** tale come to life,\" Diya whispered, appearing at Dev's side."
+        "text": "When Dev reached the coast, she saw something that made her gasp \u2014 a **whale** breached the surface of the sea not fifty metres away, its huge body crashing back into the water. Beside it, tiny **coral** reefs glowed in shades of orange and pink. A fisherman nearby paused to **quench** his thirst from a clay jar, then bowed his head in thanks, as was the custom of the region. \"A **fairy** tale come to life,\" Diya whispered, appearing at Dev's side."
       },
       {
         "title": "The Lesson",
-        "text": "Dev and Diya stayed by the shore until the stars came out. Luna had told Dev that the greatest journeys were not measured in miles but in what you noticed along the way. The whale, the coral, the farmer, the storm \u2014 all of it had something to teach. Dev walked home that night feeling larger inside than when she had left, carrying a quiet understanding she could not quite put into words but would never forget."
+        "text": "Dev and Diya stayed by the shore until the stars came out. Luna had told Dev that the greatest adventures were not measured in miles but in what you noticed along the way. The whale, the coral, the farmer, the storm \u2014 all of it had something to teach. Dev walked home that night feeling larger inside than when she had left, carrying a quiet understanding she could not quite put into words but would never forget."
       }
     ],
-    "wordCount": 264
+    "wordCount": 302
   },
   "definitions": [
     {
-      "word": "journey",
-      "partOfSpeech": "noun, verb",
-      "meaning1": "A long trip from one place to another. Example: The journey from New York to California took five days.",
+      "word": "impulse",
+      "partOfSpeech": "noun",
+      "meaning1": "A sudden strong urge to do something without thinking. Example: She felt an impulse to jump into the cold pool.",
       "meaning2": "",
-      "studentChallenge": "The ___ through the mountains was beautiful.",
+      "studentChallenge": "On an ___, he bought the toy without thinking.",
       "sentence": ""
     },
     {
@@ -69,11 +69,11 @@
       "sentence": ""
     },
     {
-      "word": "loyal",
+      "word": "stout",
       "partOfSpeech": "adjective",
-      "meaning1": "Always faithful and supportive. Example: A loyal friend stays with you in tough times.",
+      "meaning1": "Strong and solidly built; sturdy. Example: The stout fence kept the cows safely in the field.",
       "meaning2": "",
-      "studentChallenge": "The ___ dog waited for its owner every day.",
+      "studentChallenge": "The ___ wooden door held firm against the strong wind.",
       "sentence": ""
     },
     {
@@ -93,11 +93,11 @@
       "sentence": ""
     },
     {
-      "word": "perform",
+      "word": "quench",
       "partOfSpeech": "verb",
-      "meaning1": "To carry out an action or task. Example: The surgeon performed the operation.",
-      "meaning2": "To entertain an audience. Example: The band performed at the school concert.",
-      "studentChallenge": "The actors ___ in front of a large audience.",
+      "meaning1": "To satisfy thirst by drinking. Example: A cold glass of water will quench your thirst after the race.",
+      "meaning2": "To put out a fire. Example: The rain helped quench the flames.",
+      "studentChallenge": "She stopped at the fountain to ___ her thirst.",
       "sentence": ""
     },
     {
@@ -141,27 +141,27 @@
       "sentence": ""
     },
     {
-      "word": "mild",
+      "word": "overcast",
       "partOfSpeech": "adjective",
-      "meaning1": "Not severe or strong; gentle. Example: We had a mild winter with little snow.",
+      "meaning1": "Covered with gray clouds. Example: The overcast sky made the afternoon dim and cool.",
       "meaning2": "",
-      "studentChallenge": "The ___ cheese had a soft flavor.",
+      "studentChallenge": "It was an ___ day, with clouds hiding the sun.",
       "sentence": ""
     }
   ],
   "doubleTakeQuiz": [
     {
       "questionNumber": 1,
-      "sentence1": "The ___ from New York to California took five days by car.",
-      "sentence2": "The long ___ through the mountains was beautiful but exhausting.",
+      "sentence1": "She followed a sudden ___ and bought the puppy without stopping to think.",
+      "sentence2": "A strong ___ made him leap into the cold lake before he could plan anything.",
       "options": [
-        "journey",
-        "loyal",
+        "impulse",
+        "stout",
         "prior",
         "technique"
       ],
       "correctIndex": 0,
-      "correctAnswer": "journey"
+      "correctAnswer": "impulse"
     },
     {
       "questionNumber": 2,
@@ -178,23 +178,23 @@
     },
     {
       "questionNumber": 3,
-      "sentence1": "A ___ friend stays with you even in the toughest times.",
-      "sentence2": "The ___ dog waited by the door for its owner every single day.",
+      "sentence1": "The ___ oak table was so heavy that four people struggled to lift it.",
+      "sentence2": "A ___ little boat with thick wooden sides can stand up to rough waves.",
       "options": [
         "fertilizer",
-        "journey",
-        "loyal",
+        "impulse",
+        "stout",
         "coral"
       ],
       "correctIndex": 2,
-      "correctAnswer": "loyal"
+      "correctAnswer": "stout"
     },
     {
       "questionNumber": 4,
       "sentence1": "You need ___ experience with basic maths before joining the advanced class.",
       "sentence2": "Please read the chapter ___ to the class discussion so you are prepared.",
       "options": [
-        "perform",
+        "quench",
         "whale",
         "prior",
         "technique"
@@ -210,32 +210,32 @@
         "fertilizer",
         "fairy",
         "technique",
-        "mild"
+        "overcast"
       ],
       "correctIndex": 0,
       "correctAnswer": "fertilizer"
     },
     {
       "questionNumber": 6,
-      "sentence1": "The surgeon carefully ___ the operation while nurses handed over the instruments.",
-      "sentence2": "The actors ___ in front of a large and cheering audience.",
+      "sentence1": "After the long hike, a cold drink helped ___ her thirst.",
+      "sentence2": "Firefighters used a hose to ___ the flames.",
       "options": [
-        "perform",
+        "quench",
         "prior",
-        "mild",
+        "overcast",
         "whale"
       ],
       "correctIndex": 0,
-      "correctAnswer": "perform"
+      "correctAnswer": "quench"
     },
     {
       "questionNumber": 7,
       "sentence1": "She had a ___ reason for being late \u2014 her school bus had a flat tire.",
       "sentence2": "The student made a ___ point during the class discussion that made everyone think.",
       "options": [
-        "perform",
+        "quench",
         "valid",
-        "loyal",
+        "stout",
         "fertilizer"
       ],
       "correctIndex": 1,
@@ -249,7 +249,7 @@
         "prior",
         "fairy",
         "previous",
-        "journey"
+        "impulse"
       ],
       "correctIndex": 1,
       "correctAnswer": "fairy"
@@ -259,10 +259,10 @@
       "sentence1": "The blue ___ is the largest animal on Earth, even bigger than the biggest dinosaurs.",
       "sentence2": "We saw a ___ breach the surface of the ocean and splash back down with a tremendous splash.",
       "options": [
-        "mild",
+        "overcast",
         "whale",
         "valid",
-        "journey"
+        "impulse"
       ],
       "correctIndex": 1,
       "correctAnswer": "whale"
@@ -273,7 +273,7 @@
       "sentence2": "She learned a special ___ for tying knots that made her friendship bracelets look amazing.",
       "options": [
         "prior",
-        "mild",
+        "overcast",
         "previous",
         "technique"
       ],
@@ -287,7 +287,7 @@
       "options": [
         "previous",
         "technique",
-        "journey",
+        "impulse",
         "coral"
       ],
       "correctIndex": 3,
@@ -295,41 +295,41 @@
     },
     {
       "questionNumber": 12,
-      "sentence1": "We had a ___ winter this year, with barely any snow and warm afternoons.",
-      "sentence2": "The ___ soap had a soft, gentle scent that did not irritate her skin.",
+      "sentence1": "The sky stayed ___ all day, with no sunshine breaking through the clouds.",
+      "sentence2": "On the ___ afternoon, a thick gray blanket of cloud hid the sun.",
       "options": [
         "fairy",
         "technique",
-        "mild",
-        "journey"
+        "overcast",
+        "impulse"
       ],
       "correctIndex": 2,
-      "correctAnswer": "mild"
+      "correctAnswer": "overcast"
     }
   ],
   "secretPassage": {
     "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
     "wordBank": [
-      "journey",
+      "impulse",
       "previous",
-      "loyal",
+      "stout",
       "prior",
       "fertilizer",
-      "perform",
+      "quench",
       "valid",
       "fairy",
       "whale",
       "technique",
       "coral",
-      "mild"
+      "overcast"
     ],
-    "passage": "Diya set off on a long _(1)_ \u2014 a trip that would take her across three countries \u2014 to visit an underwater research station. _(2)_ to leaving, she studied everything she could find about ocean life, reading books from her _(3)_ school that she had kept since third grade. The weather was _(4)_, warm and calm without a cloud in the sky, perfect for a boat ride. Her _(5)_ friend Luna came along, never leaving her side no matter how far they traveled. Diya wanted to _(6)_ an experiment testing how _(7)_ \u2014 a special nutrient powder that helps plants grow \u2014 affects sea grasses. She had a _(8)_ reason for the study, backed by real science and careful notes. A tiny _(9)_ \u2014 an imaginary creature from her childhood stories \u2014 seemed to dance in the sparkling waves. Far in the distance, a massive _(10)_ leaped into the air, its huge body crashing back into the sea. Bright orange _(11)_ covered the reef below, looking like an underwater garden. Using a special underwater photography _(12)_ \u2014 a skilled method she had practiced for weeks \u2014 Diya captured everything perfectly.",
+    "passage": "Diya followed a sudden _(1)_ \u2014 an urge she could not ignore \u2014 and set off across three countries to visit an underwater research station. _(2)_ to leaving, she studied everything she could find about ocean life, reading books from her _(3)_ school that she had kept since third grade. The sky was _(4)_, covered by a thick gray blanket of cloud, though the sea was calm enough for a boat ride. Her _(5)_ friend Luna, a broad and sturdy fisherman's daughter, came along, never leaving her side no matter how far they traveled. Diya brought a jug of spring water to _(6)_ her thirst while she ran an experiment testing how _(7)_ \u2014 a special nutrient powder that helps plants grow \u2014 affects sea grasses. She had a _(8)_ reason for the study, backed by real science and careful notes. A tiny _(9)_ \u2014 an imaginary creature from her childhood stories \u2014 seemed to dance in the sparkling waves. Far in the distance, a massive _(10)_ leaped into the air, its huge body crashing back into the sea. Bright orange _(11)_ covered the reef below, looking like an underwater garden. Using a special underwater photography _(12)_ \u2014 a skilled method she had practiced for weeks \u2014 Diya captured everything perfectly.",
     "blanks": [
       {
         "blankNumber": 1,
-        "correctAnswer": "journey",
+        "correctAnswer": "impulse",
         "options": [
-          "journey",
+          "impulse",
           "technique",
           "prior",
           "coral"
@@ -340,9 +340,9 @@
         "correctAnswer": "prior",
         "options": [
           "prior",
-          "previous",
-          "loyal",
-          "mild"
+          "fertilizer",
+          "stout",
+          "overcast"
         ]
       },
       {
@@ -350,38 +350,38 @@
         "correctAnswer": "previous",
         "options": [
           "previous",
-          "prior",
+          "coral",
           "valid",
-          "loyal"
+          "stout"
         ]
       },
       {
         "blankNumber": 4,
-        "correctAnswer": "mild",
+        "correctAnswer": "overcast",
         "options": [
-          "mild",
-          "loyal",
+          "overcast",
+          "stout",
           "valid",
           "fairy"
         ]
       },
       {
         "blankNumber": 5,
-        "correctAnswer": "loyal",
+        "correctAnswer": "stout",
         "options": [
-          "loyal",
-          "mild",
+          "stout",
+          "overcast",
           "valid",
           "prior"
         ]
       },
       {
         "blankNumber": 6,
-        "correctAnswer": "perform",
+        "correctAnswer": "quench",
         "options": [
-          "perform",
-          "journey",
-          "vanish",
+          "quench",
+          "impulse",
+          "whale",
           "coral"
         ]
       },
@@ -400,8 +400,8 @@
         "correctAnswer": "valid",
         "options": [
           "valid",
-          "mild",
-          "loyal",
+          "overcast",
+          "stout",
           "prior"
         ]
       },
@@ -422,7 +422,7 @@
           "whale",
           "fairy",
           "coral",
-          "journey"
+          "impulse"
         ]
       },
       {
@@ -432,7 +432,7 @@
           "coral",
           "whale",
           "fertilizer",
-          "perform"
+          "quench"
         ]
       },
       {
@@ -440,8 +440,8 @@
         "correctAnswer": "technique",
         "options": [
           "technique",
-          "journey",
-          "perform",
+          "impulse",
+          "quench",
           "fertilizer"
         ]
       }
@@ -450,11 +450,11 @@
   "wordScaleImposter": {
     "wordScales": [
       {
-        "vocabWord": "journey",
+        "vocabWord": "impulse",
         "scale": [
-          "walk",
-          "journey",
-          "expedition"
+          "whim",
+          "impulse",
+          "compulsion"
         ],
         "vocabPosition": 1
       },
@@ -468,11 +468,11 @@
         "vocabPosition": 1
       },
       {
-        "vocabWord": "loyal",
+        "vocabWord": "stout",
         "scale": [
-          "reliable",
-          "loyal",
-          "devoted"
+          "sturdy",
+          "stout",
+          "burly"
         ],
         "vocabPosition": 1
       },
@@ -499,15 +499,15 @@
         "imposterWord": "poison"
       },
       {
-        "vocabWord": "perform",
+        "vocabWord": "quench",
         "words": [
-          "act",
-          "do",
-          "abstain",
-          "execute"
+          "satisfy",
+          "extinguish",
+          "relieve",
+          "ignite"
         ],
-        "imposterIndex": 2,
-        "imposterWord": "abstain"
+        "imposterIndex": 3,
+        "imposterWord": "ignite"
       },
       {
         "vocabWord": "valid",
@@ -565,15 +565,15 @@
         "imposterWord": "sand"
       },
       {
-        "vocabWord": "mild",
+        "vocabWord": "overcast",
         "words": [
-          "harsh",
-          "gentle",
-          "soft",
-          "calm"
+          "cloudy",
+          "gloomy",
+          "gray",
+          "sunny"
         ],
-        "imposterIndex": 0,
-        "imposterWord": "harsh"
+        "imposterIndex": 3,
+        "imposterWord": "sunny"
       }
     ],
     "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."

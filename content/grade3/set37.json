@@ -5,9 +5,9 @@
     "purchase",
     "harvest",
     "temperature",
-    "honor",
+    "oblige",
     "cautious",
-    "insist",
+    "pry",
     "vast",
     "weapon",
     "grumble",
@@ -37,7 +37,7 @@
     "parts": [
       {
         "title": "The Autumn Fair",
-        "text": "Every autumn, Maya helped her family prepare for the **harvest** festival. She would **purchase** sacks of grain from the market at dawn, haggling in her **eloquent** way until the merchants smiled and agreed to her price. The fields were **vast**, stretching so far in every direction that the far edge disappeared into morning mist."
+        "text": "Every autumn, Maya helped her family prepare for the **harvest** festival. She would **purchase** sacks of grain from the market at dawn, haggling in her **eloquent** way until the merchants smiled and agreed to her price. The fields were **vast**, stretching so far in every direction that the far edge disappeared into morning mist, and her only **weapon** against the weeds was a small sharp sickle."
       },
       {
         "title": "The Gathering Storm",
@@ -45,14 +45,14 @@
       },
       {
         "title": "The Discovery",
-        "text": "After the storm, Maya and Luna walked through the **similar**-looking fields that all ran together at the edges of the village. Then Maya spotted something extraordinary: a figure sitting alone under a banyan tree, wrapped in a torn shawl. It was an old storyteller who had been traveling for weeks. Maya felt it was a great **honor** to sit beside him. She **insist**ed that he come inside and eat, and would not take no for an answer."
+        "text": "After the storm, Maya and Luna walked through the **similar**-looking fields that all ran together at the edges of the village. Then Maya spotted something extraordinary: a figure sitting alone under a banyan tree, wrapped in a torn shawl. It was an old storyteller who had been traveling for weeks. When he asked softly for a cup of water, Maya was glad to **oblige**. She did not **pry** into where he had come from, and simply invited him inside to eat."
       },
       {
         "title": "The Lesson",
-        "text": "Over a warm meal, the storyteller spoke of kingdoms, floods, and the **weapon** of words \u2014 how a well-chosen story could stop a war or heal a broken heart. Maya listened without moving, her whole body still. When he finally rose to leave at dawn, Leo said quietly, \"You treated a stranger with the same care you give family. That is the oldest wisdom there is.\" Maya never forgot those words, and she passed the story on every harvest season after."
+        "text": "Over a warm meal, the storyteller spoke of kingdoms, floods, and the weapon of words \u2014 how a well-chosen story could stop a war or heal a broken heart. Maya listened without moving, her whole body still. When he finally rose to leave at dawn, Leo said quietly, \"You treated a stranger with the same care you give family. That is the oldest wisdom there is.\" Maya never forgot those words, and she passed the story on every harvest season after."
       }
     ],
-    "wordCount": 267
+    "wordCount": 289
   },
   "definitions": [
     {
@@ -80,11 +80,11 @@
       "sentence": ""
     },
     {
-      "word": "honor",
-      "partOfSpeech": "noun, verb",
-      "meaning1": "Great respect and admiration. Example: It was an honor to meet the famous author.",
-      "meaning2": "To show respect. Example: We honor our veterans on Memorial Day.",
-      "studentChallenge": "The award was given in ___ of her achievements.",
+      "word": "oblige",
+      "partOfSpeech": "verb",
+      "meaning1": "To do a favor or what someone asks. Example: When she asked for a pencil, he was happy to oblige.",
+      "meaning2": "To make someone feel they must do something. Example: The law obliges drivers to wear seat belts.",
+      "studentChallenge": "When I asked for a seat, the kind man was glad to ___.",
       "sentence": ""
     },
     {
@@ -96,11 +96,11 @@
       "sentence": ""
     },
     {
-      "word": "insist",
+      "word": "pry",
       "partOfSpeech": "verb",
-      "meaning1": "To say firmly that something must happen. Example: She insisted on paying for dinner.",
-      "meaning2": "",
-      "studentChallenge": "He ___ that he did not break the vase.",
+      "meaning1": "To ask nosy questions about someone's private life. Example: It is rude to pry into other people's secrets.",
+      "meaning2": "To open something by force with a tool. Example: He used a screwdriver to pry open the lid of the paint can.",
+      "studentChallenge": "The nosy neighbor tried to ___ into our family business.",
       "sentence": ""
     },
     {
@@ -160,8 +160,8 @@
       "options": [
         "purchase",
         "grumble",
-        "insist",
-        "honor"
+        "pry",
+        "oblige"
       ],
       "correctIndex": 0,
       "correctAnswer": "purchase"
@@ -184,9 +184,9 @@
       "sentence1": "The ___ outside dropped so far below freezing that the pond turned into a solid sheet of ice overnight.",
       "sentence2": "The nurse placed a thermometer under the sick student's tongue to measure his ___.",
       "options": [
-        "insist",
+        "pry",
         "temperature",
-        "honor",
+        "oblige",
         "eloquent"
       ],
       "correctIndex": 1,
@@ -194,16 +194,16 @@
     },
     {
       "questionNumber": 4,
-      "sentence1": "It was a great ___ to shake hands with the famous author whose books she had read ten times.",
-      "sentence2": "The school held a ceremony to ___ the students who had shown great courage during the storm.",
+      "sentence1": "When the old man asked for a glass of water, the girl was glad to ___.",
+      "sentence2": "If you ask nicely, the baker will ___ and save you the last loaf.",
       "options": [
         "vast",
         "grumble",
         "purchase",
-        "honor"
+        "oblige"
       ],
       "correctIndex": 3,
-      "correctAnswer": "honor"
+      "correctAnswer": "oblige"
     },
     {
       "questionNumber": 5,
@@ -220,16 +220,16 @@
     },
     {
       "questionNumber": 6,
-      "sentence1": "She ___ on paying the full bill herself, firmly refusing to let anyone else contribute a single coin.",
-      "sentence2": "He ___ loudly and repeatedly that he had not broken the vase, even when nobody believed him at first.",
+      "sentence1": "It is rude to ___ into other people's private letters and diaries.",
+      "sentence2": "He used a flat tool to ___ the lid off the stubborn paint can.",
       "options": [
-        "insist",
+        "pry",
         "temperature",
-        "honor",
+        "oblige",
         "weapon"
       ],
       "correctIndex": 0,
-      "correctAnswer": "insist"
+      "correctAnswer": "pry"
     },
     {
       "questionNumber": 7,
@@ -288,7 +288,7 @@
       "sentence1": "The student council president gave an ___ speech \u2014 her words were so well-chosen that the whole room fell silent.",
       "sentence2": "Her ___ farewell moved the audience to tears, with every sentence carefully chosen and beautifully spoken.",
       "options": [
-        "honor",
+        "oblige",
         "cautious",
         "eloquent",
         "purchase"
@@ -303,7 +303,7 @@
       "options": [
         "cautious",
         "croak",
-        "honor",
+        "oblige",
         "grumble"
       ],
       "correctIndex": 1,
@@ -316,9 +316,9 @@
       "purchase",
       "harvest",
       "temperature",
-      "honor",
+      "oblige",
       "cautious",
-      "insist",
+      "pry",
       "vast",
       "weapon",
       "grumble",
@@ -326,7 +326,7 @@
       "eloquent",
       "croak"
     ],
-    "passage": "Every autumn, the village of Greenvale celebrated the _(1)_ festival, gathering ripe fruit and vegetables from the fields in a tradition that had lasted for generations. The villagers felt it was a great _(2)_ to take part, and every family considered it a privilege and a mark of deep respect to help. The fields were _(3)_ \u2014 stretching so far in every direction that you could not see the far edge even on the clearest day. Farmer Devi was always _(4)_, checking the sky and testing the soil before deciding which crop to pick next, never rushing or taking chances. She would _(5)_ that everyone wear gloves, firmly refusing to begin work until every helper was properly protected. The _(6)_ that week had dropped sharply, the thermometer showing temperatures far below normal for that time of year. Some younger helpers began to _(7)_, complaining quietly that the cold made the work too hard. But old Rajan, the most respected elder, gave an _(8)_ speech \u2014 every word chosen with care and beauty \u2014 that reminded everyone why the festival mattered. He said kindness was the greatest _(9)_, a far more powerful tool than any sword or shield. Two young sisters who worked side by side had _(10)_ baskets, nearly alike in shape and color, though one was slightly taller. They heard a bullfrog _(11)_ from somewhere deep in the reeds, its rough, low call echoing across the quiet field. With the money the village earned from selling its crop, it planned to _(12)_ new seeds for the following spring, buying enough to plant the largest field yet.",
+    "passage": "Every autumn, the village of Greenvale celebrated the _(1)_ festival, gathering ripe fruit and vegetables from the fields in a tradition that had lasted for generations. When the elders asked for volunteers, the villagers were glad to _(2)_, and every family came forward to help. The fields were _(3)_ \u2014 stretching so far in every direction that you could not see the far edge even on the clearest day. Farmer Devi was always _(4)_, checking the sky and testing the soil before deciding which crop to pick next, never rushing or taking chances. She would never _(5)_ into a helper's private worries, though she kindly checked that everyone wore gloves. The _(6)_ that week had dropped sharply, the thermometer showing temperatures far below normal for that time of year. Some younger helpers began to _(7)_, complaining quietly that the cold made the work too hard. But old Rajan, the most respected elder, gave an _(8)_ speech \u2014 every word chosen with care and beauty \u2014 that reminded everyone why the festival mattered. He said kindness was the greatest _(9)_, a far more powerful tool than any sword or shield. Two young sisters who worked side by side had _(10)_ baskets, nearly alike in shape and color, though one was slightly taller. They heard a bullfrog _(11)_ from somewhere deep in the reeds, its rough, low call echoing across the quiet field. With the money the village earned from selling its crop, it planned to _(12)_ new seeds for the following spring, buying enough to plant the largest field yet.",
     "blanks": [
       {
         "blankNumber": 1,
@@ -334,15 +334,15 @@
         "options": [
           "harvest",
           "purchase",
-          "honor",
+          "oblige",
           "temperature"
         ]
       },
       {
         "blankNumber": 2,
-        "correctAnswer": "honor",
+        "correctAnswer": "oblige",
         "options": [
-          "honor",
+          "oblige",
           "harvest",
           "weapon",
           "grumble"
@@ -370,9 +370,9 @@
       },
       {
         "blankNumber": 5,
-        "correctAnswer": "insist",
+        "correctAnswer": "pry",
         "options": [
-          "insist",
+          "pry",
           "croak",
           "grumble",
           "purchase"
@@ -384,7 +384,7 @@
         "options": [
           "temperature",
           "harvest",
-          "honor",
+          "oblige",
           "weapon"
         ]
       },
@@ -393,7 +393,7 @@
         "correctAnswer": "grumble",
         "options": [
           "grumble",
-          "insist",
+          "pry",
           "croak",
           "purchase"
         ]
@@ -433,7 +433,7 @@
         "correctAnswer": "croak",
         "options": [
           "croak",
-          "insist",
+          "pry",
           "grumble",
           "purchase"
         ]
@@ -444,7 +444,7 @@
         "options": [
           "purchase",
           "croak",
-          "insist",
+          "pry",
           "similar"
         ]
       }
@@ -480,11 +480,11 @@
         "vocabPosition": 1
       },
       {
-        "vocabWord": "honor",
+        "vocabWord": "oblige",
         "scale": [
-          "respect",
-          "honor",
-          "glory"
+          "require",
+          "oblige",
+          "compel"
         ],
         "vocabPosition": 1
       }
@@ -502,15 +502,15 @@
         "imposterWord": "reckless"
       },
       {
-        "vocabWord": "insist",
+        "vocabWord": "pry",
         "words": [
-          "yield",
-          "demand",
-          "persist",
-          "assert"
+          "snoop",
+          "spy",
+          "ignore",
+          "peek"
         ],
-        "imposterIndex": 0,
-        "imposterWord": "yield"
+        "imposterIndex": 2,
+        "imposterWord": "ignore"
       },
       {
         "vocabWord": "vast",

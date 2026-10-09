@@ -9,10 +9,10 @@
     "scatter",
     "boast",
     "parcel",
-    "bargain",
+    "abundant",
     "site",
     "transform",
-    "watchful",
+    "serene",
     "shift"
   ],
   "sources": [
@@ -36,12 +36,12 @@
     "parts": [
       {
         "title": "Stargazer",
-        "text": "Every night, Nia would **watchful**ly scan the sky through her homemade telescope, never letting her gaze drift for a moment. Her science **coach**, Fatima, had taught her that the best **feature** of stargazing was patience \u2014 the ability to wait and look carefully. Nia kept a detailed notebook at the **site** by her bedroom window, recording every observation she made.",
+        "text": "Every night, Nia would sit in **serene** silence and scan the sky through her homemade telescope, never letting her gaze drift for a moment. Her science **coach**, Fatima, had taught her that the best **feature** of stargazing was patience \u2014 the ability to wait and look carefully. Nia kept a detailed notebook at the **site** by her bedroom window, recording every observation she made.",
         "wordCount": 63
       },
       {
         "title": "Mission Control",
-        "text": "When news came that a massive solar flare had begun to **scatter** satellite signals across the atmosphere, Nia paid close attention. Scientists said the flare could **transform** Earth's communication systems overnight. The temperature data from the polar regions showed readings as **arctic** as anything ever recorded. Fatima sent Nia a **parcel** of research papers wrapped in brown paper \u2014 it was a true **bargain** of knowledge, worth far more than its small cost.",
+        "text": "When news came that a massive solar flare had begun to **scatter** satellite signals across the atmosphere, Nia paid close attention. Scientists said the flare could **transform** Earth's communication systems overnight. The temperature data from the polar regions showed readings as **arctic** as anything ever recorded. Fatima sent Nia a **parcel** of research papers wrapped in brown paper \u2014 an **abundant** collection of knowledge, more than she could read in a month.",
         "wordCount": 79
       },
       {
@@ -55,7 +55,7 @@
         "wordCount": 65
       }
     ],
-    "wordCount": 262
+    "wordCount": 253
   },
   "definitions": [
     {
@@ -115,11 +115,11 @@
       "sentence": ""
     },
     {
-      "word": "bargain",
-      "partOfSpeech": "noun, verb",
-      "meaning1": "Something bought for less than the usual price. Example: She got a great bargain at the sale.",
-      "meaning2": "An agreement between people. Example: They made a bargain to share the work.",
-      "studentChallenge": "The shoes were a real ___ at half price.",
+      "word": "abundant",
+      "partOfSpeech": "adjective",
+      "meaning1": "More than enough; existing in large amounts. Example: Fish are abundant in the lake, so fishing is easy.",
+      "meaning2": "",
+      "studentChallenge": "After the rainy spring, wildflowers were ___ across the hills.",
       "sentence": ""
     },
     {
@@ -139,11 +139,11 @@
       "sentence": ""
     },
     {
-      "word": "watchful",
+      "word": "serene",
       "partOfSpeech": "adjective",
-      "meaning1": "Carefully observing everything; alert. Example: The watchful mother kept an eye on her children.",
+      "meaning1": "Calm, peaceful, and quiet. Example: The serene lake was perfectly still in the early morning.",
       "meaning2": "",
-      "studentChallenge": "Stay ___ when walking through the woods.",
+      "studentChallenge": "After the storm passed, the sea became ___ and smooth again.",
       "sentence": ""
     },
     {
@@ -161,9 +161,9 @@
       "sentence1": "The tennis ___ trained her players every morning and showed them how to serve faster.",
       "sentence2": "Our swim ___ cheered from the pool deck and gave tips between each race.",
       "options": [
-        "bargain",
+        "abundant",
         "site",
-        "watchful",
+        "serene",
         "coach"
       ],
       "correctIndex": 3,
@@ -176,7 +176,7 @@
       "options": [
         "feature",
         "shift",
-        "bargain",
+        "abundant",
         "parcel"
       ],
       "correctIndex": 0,
@@ -188,7 +188,7 @@
       "sentence2": "The ___ blast of wind during the blizzard froze everything it touched within seconds.",
       "options": [
         "arctic",
-        "watchful",
+        "serene",
         "coach",
         "parcel"
       ],
@@ -241,7 +241,7 @@
       "options": [
         "transform",
         "parcel",
-        "bargain",
+        "abundant",
         "site"
       ],
       "correctIndex": 1,
@@ -249,16 +249,16 @@
     },
     {
       "questionNumber": 8,
-      "sentence1": "She found the jacket on sale for half price \u2014 what an amazing ___ it was!",
-      "sentence2": "The whole family agreed it was a great ___ when they bought the used bike for far below its value.",
+      "sentence1": "Fruit was ___ in the orchard that summer, with ripe apples hanging from every branch.",
+      "sentence2": "The farmers had an ___ harvest, with so much corn that the barns could not hold it all.",
       "options": [
         "shift",
         "site",
-        "bargain",
-        "watchful"
+        "abundant",
+        "serene"
       ],
       "correctIndex": 2,
-      "correctAnswer": "bargain"
+      "correctAnswer": "abundant"
     },
     {
       "questionNumber": 9,
@@ -267,7 +267,7 @@
       "options": [
         "shift",
         "arctic",
-        "watchful",
+        "serene",
         "site"
       ],
       "correctIndex": 3,
@@ -280,7 +280,7 @@
       "options": [
         "feature",
         "transform",
-        "bargain",
+        "abundant",
         "scatter"
       ],
       "correctIndex": 1,
@@ -288,16 +288,16 @@
     },
     {
       "questionNumber": 11,
-      "sentence1": "The ___ lifeguard scanned the water constantly, never letting her gaze rest for a moment.",
-      "sentence2": "Stay ___ on the hiking trail \u2014 wild animals can appear without warning.",
+      "sentence1": "The sailboat floated on the ___ lake, which was so calm and peaceful that it looked like glass.",
+      "sentence2": "After the noisy party ended, the house felt ___ and calm, and everyone fell asleep at once.",
       "options": [
         "scatter",
-        "watchful",
+        "serene",
         "arctic",
         "coach"
       ],
       "correctIndex": 1,
-      "correctAnswer": "watchful"
+      "correctAnswer": "serene"
     },
     {
       "questionNumber": 12,
@@ -323,13 +323,13 @@
       "scatter",
       "boast",
       "parcel",
-      "bargain",
+      "abundant",
       "site",
       "transform",
-      "watchful",
+      "serene",
       "shift"
     ],
-    "passage": "Every morning, the _(1)_ at the nature reserve arrived early to train young volunteers in wildlife skills. The standout _(2)_ of the reserve was a towering waterfall that crashed into a glittering pool below. The temperature near the mountain peaks was _(3)_ \u2014 so freezing cold that icicles hung from the rocks even in summer. To _(4)_ the slippery railing, visitors had to hold tight with both hands before taking a single step. A family of geese waddled past and began to _(5)_ across the path, spreading out in every direction like seeds thrown by the wind. Some tourists liked to _(6)_ about spotting rare eagles, bragging loudly to anyone nearby. A delivery drone dropped a neatly wrapped _(7)_ near the ranger station \u2014 it contained brand-new binoculars. Buying the used telescope for five dollars was a genuine _(8)_ \u2014 it was worth at least fifty. Researchers gathered at the _(9)_ where the ancient forest fire had occurred, studying what new plants were growing back. The slow drizzle would _(10)_ the dry meadow into a lush green carpet of wildflowers within days. A _(11)_ eagle perched high above, scanning the valley with sharp, alert eyes and missing nothing below. As the sun dipped lower, the light began to _(12)_ from golden yellow to deep orange along the hilltops.",
+    "passage": "Every morning, the _(1)_ at the nature reserve arrived early to train young volunteers in wildlife skills. The standout _(2)_ of the reserve was a towering waterfall that crashed into a glittering pool below. The temperature near the mountain peaks was _(3)_ \u2014 so freezing cold that icicles hung from the rocks even in summer. To _(4)_ the slippery railing, visitors had to hold tight with both hands before taking a single step. A family of geese waddled past and began to _(5)_ across the path, spreading out in every direction like seeds thrown by the wind. Some tourists liked to _(6)_ about spotting rare eagles, bragging loudly to anyone nearby. A delivery drone dropped a neatly wrapped _(7)_ near the ranger station \u2014 it contained brand-new binoculars. The reserve had an _(8)_ supply of wildflowers \u2014 so many that they covered every hillside. Researchers gathered at the _(9)_ where the ancient forest fire had occurred, studying what new plants were growing back. The slow drizzle would _(10)_ the dry meadow into a lush green carpet of wildflowers within days. The lake below lay perfectly _(11)_ \u2014 calm and peaceful, without a single ripple on its surface. As the sun dipped lower, the light began to _(12)_ from golden yellow to deep orange along the hilltops.",
     "blanks": [
       {
         "blankNumber": 1,
@@ -338,7 +338,7 @@
           "coach",
           "boast",
           "transform",
-          "bargain"
+          "abundant"
         ]
       },
       {
@@ -356,9 +356,9 @@
         "correctAnswer": "arctic",
         "options": [
           "arctic",
-          "watchful",
+          "serene",
           "scatter",
-          "bargain"
+          "abundant"
         ]
       },
       {
@@ -386,7 +386,7 @@
         "correctAnswer": "boast",
         "options": [
           "boast",
-          "bargain",
+          "abundant",
           "coach",
           "grasp"
         ]
@@ -396,16 +396,16 @@
         "correctAnswer": "parcel",
         "options": [
           "parcel",
-          "bargain",
+          "abundant",
           "site",
           "feature"
         ]
       },
       {
         "blankNumber": 8,
-        "correctAnswer": "bargain",
+        "correctAnswer": "abundant",
         "options": [
-          "bargain",
+          "abundant",
           "parcel",
           "shift",
           "boast"
@@ -433,11 +433,11 @@
       },
       {
         "blankNumber": 11,
-        "correctAnswer": "watchful",
+        "correctAnswer": "serene",
         "options": [
-          "watchful",
+          "serene",
           "arctic",
-          "bargain",
+          "abundant",
           "coach"
         ]
       },
@@ -527,15 +527,15 @@
         "imposterWord": "emptiness"
       },
       {
-        "vocabWord": "bargain",
+        "vocabWord": "abundant",
         "words": [
-          "ripoff",
-          "deal",
-          "agreement",
-          "discount"
+          "plenty",
+          "ample",
+          "scarce",
+          "bountiful"
         ],
-        "imposterIndex": 0,
-        "imposterWord": "ripoff"
+        "imposterIndex": 2,
+        "imposterWord": "scarce"
       },
       {
         "vocabWord": "site",
@@ -560,15 +560,15 @@
         "imposterWord": "preserve"
       },
       {
-        "vocabWord": "watchful",
+        "vocabWord": "serene",
         "words": [
-          "alert",
-          "vigilant",
-          "careless",
-          "observant"
+          "calm",
+          "peaceful",
+          "tranquil",
+          "stormy"
         ],
-        "imposterIndex": 2,
-        "imposterWord": "careless"
+        "imposterIndex": 3,
+        "imposterWord": "stormy"
       },
       {
         "vocabWord": "shift",

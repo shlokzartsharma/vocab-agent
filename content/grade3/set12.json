@@ -4,16 +4,16 @@
   "words": [
     "fury",
     "intent",
-    "pattern",
+    "mammoth",
     "vibrant",
     "wit",
     "approach",
     "approve",
-    "glory",
+    "clamor",
     "meek",
-    "tradition",
-    "prompt",
-    "revive"
+    "jubilant",
+    "poised",
+    "soothe"
   ],
   "sources": [
     "Common Core Grade 3",
@@ -33,19 +33,19 @@
     "parts": [
       {
         "title": "The Festival",
-        "text": "Every year, the small village held a **tradition** that filled the streets with music and dancing. This year, a great storm had swept through and left everyone feeling low. The mayor knew she had to act fast to **revive** the community's excitement before festival day arrived."
+        "text": "Every year, the small village held a **jubilant** festival, full of cheering and laughter, that filled the streets with music and dancing. This year, a great storm had swept through and left everyone feeling low. The mayor knew she had to act fast to **soothe** the villagers' worries and lift the community's spirits before festival day arrived."
       },
       {
         "title": "The Preparation",
-        "text": "She walked through the village with clear **intent**: she was going to make this the best festival yet. Her **approach** was simple — talk to every neighbor and ask them to help decorate. The decorations were **vibrant**, with bold colors bursting from every window and doorway. Children painted a cheerful **pattern** of suns and waves along the town wall."
+        "text": "She walked through the village with clear **intent**: she was going to make this the best festival yet. Her **approach** was simple — talk to every neighbor and ask them to help decorate. The decorations were **vibrant**, with bold colors bursting from every window and doorway. Children painted a **mammoth** mural of suns and waves along the town wall, taller than any grown-up."
       },
       {
         "title": "The Celebration",
-        "text": "When festival day came, the crowd cheered with great **glory** as the parade began. A young girl who had always been quiet and **meek** stood up and recited a poem with a clear, loud voice. She had used her **wit** to write something funny and touching. The mayor gave a **prompt** nod to start the fireworks right on time. The storm had arrived with **fury**, but the festival proved the village could not be broken. Everyone would **approve** of how the day turned out."
+        "text": "When festival day came, the cheerful **clamor** of the crowd filled the streets as the parade began. A young girl who had always been quiet and **meek** stood up and recited a poem with a clear, loud voice. She had used her **wit** to write something funny and touching. The mayor stood **poised** and calm, then gave a nod to start the fireworks right on time. The storm had arrived with **fury**, but the festival proved the village could not be broken. Everyone would **approve** of how the day turned out."
       },
       {
         "title": "The Memory",
-        "text": "That night, the whole village sat under the stars and shared stories. The mayor smiled and said the best festivals are not the ones with the most money — they are the ones where everyone comes together. The children promised to help decorate again next year, and the tradition grew even stronger."
+        "text": "That night, the whole village sat under the stars and shared stories. The mayor smiled and said the best festivals are not the ones with the most money — they are the ones where everyone comes together. The children promised to help decorate again next year, and the festival grew even stronger."
       }
     ],
     "wordCount": 238
@@ -68,11 +68,11 @@
       "sentence": ""
     },
     {
-      "word": "pattern",
-      "partOfSpeech": "noun",
-      "meaning1": "A repeated design or decoration. Example: The wallpaper has a beautiful flower pattern.",
-      "meaning2": "A regular way something happens. Example: The teacher noticed a pattern of kindness among the students.",
-      "studentChallenge": "The artist used a repeating ___ of stars and moons on the fabric.",
+      "word": "mammoth",
+      "partOfSpeech": "adjective, noun",
+      "meaning1": "Extremely large; huge. Example: A mammoth truck blocked the whole road.",
+      "meaning2": "A large, hairy animal like an elephant that lived long ago. Example: Mammoths walked the Earth thousands of years ago.",
+      "studentChallenge": "The ___ ship was so big that it blocked the whole harbor.",
       "sentence": ""
     },
     {
@@ -108,11 +108,11 @@
       "sentence": ""
     },
     {
-      "word": "glory",
-      "partOfSpeech": "noun",
-      "meaning1": "Great fame, honor, or praise. Example: The old painting still showed the glory of the ancient kingdom.",
-      "meaning2": "Beauty or magnificence. Example: The glory of the sunset took everyone's breath away.",
-      "studentChallenge": "The crowd cheered as the team celebrated their ___ after winning the championship.",
+      "word": "clamor",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A loud, confused noise, often made by many people at once. Example: The clamor of the crowd filled the stadium.",
+      "meaning2": "To demand something loudly. Example: Fans clamor for tickets to the big game.",
+      "studentChallenge": "A loud ___ rose from the cafeteria as hundreds of students talked at once.",
       "sentence": ""
     },
     {
@@ -124,60 +124,60 @@
       "sentence": ""
     },
     {
-      "word": "tradition",
-      "partOfSpeech": "noun",
-      "meaning1": "A custom or belief passed down from generation to generation. Example: Lighting candles on birthdays is a tradition many families share.",
+      "word": "jubilant",
+      "partOfSpeech": "adjective",
+      "meaning1": "Feeling or showing great joy, especially because of a success. Example: The jubilant fans cheered when their team won the game.",
       "meaning2": "",
-      "studentChallenge": "The old custom had become a beloved family ___ over the years.",
+      "studentChallenge": "The ___ crowd danced in the streets after hearing the wonderful news.",
       "sentence": ""
     },
     {
-      "word": "prompt",
-      "partOfSpeech": "adjective, verb",
-      "meaning1": "Done quickly and without delay; on time. Example: A prompt reply showed she had been paying attention.",
-      "meaning2": "To cause someone to do something. Example: The teacher's reminder prompted students to finish the assignment.",
-      "studentChallenge": "The bus driver is always ___ — he arrives at exactly 7:15 every morning.",
+      "word": "poised",
+      "partOfSpeech": "adjective",
+      "meaning1": "Balanced and ready; calm and confident. Example: The diver stood poised at the end of the board.",
+      "meaning2": "Calm and sure of yourself. Example: The poised speaker answered every question without a worry.",
+      "studentChallenge": "Standing ___ at the starting line, the runner waited for the sound of the whistle.",
       "sentence": ""
     },
     {
-      "word": "revive",
+      "word": "soothe",
       "partOfSpeech": "verb",
-      "meaning1": "To bring back to life, health, or strength. Example: The cool water helped revive the wilting plants after the hot day.",
-      "meaning2": "To bring back into use or popularity. Example: The coach gave a speech to revive the team's spirit.",
-      "studentChallenge": "A cold glass of water was enough to ___ her energy after the long run.",
+      "meaning1": "To calm someone or ease a worry or pain. Example: She sang softly to soothe the crying baby.",
+      "meaning2": "To make pain or an itch feel better. Example: Cool aloe gel can soothe a sunburn.",
+      "studentChallenge": "A warm bath helped ___ her tired, aching muscles.",
       "sentence": ""
     }
   ],
   "doubleTakeQuiz": [
     {
       "questionNumber": 1,
-      "sentence1": "The artist used a repeating _______ of stars and moons on the fabric she was designing.",
-      "sentence2": "The teacher noticed a _______ of kindness in the way the students helped one another every day.",
-      "options": ["tradition", "prompt", "pattern", "vibrant"],
+      "sentence1": "The _______ whale was longer than three school buses parked in a row.",
+      "sentence2": "A _______ wave towered over the beach, bigger than the lifeguard tower.",
+      "options": ["jubilant", "poised", "mammoth", "vibrant"],
       "correctIndex": 2,
-      "correctAnswer": "pattern"
+      "correctAnswer": "mammoth"
     },
     {
       "questionNumber": 2,
-      "sentence1": "The crowd cheered as the team celebrated their _______ after winning the championship.",
-      "sentence2": "The old painting still showed the _______ of the ancient kingdom in all its golden detail.",
-      "options": ["wit", "fury", "intent", "glory"],
+      "sentence1": "The _______ from the busy market, with sellers shouting and bells ringing, made it hard to hear anyone speak.",
+      "sentence2": "A loud _______ rose from the stands whenever the home team scored.",
+      "options": ["wit", "fury", "intent", "clamor"],
       "correctIndex": 3,
-      "correctAnswer": "glory"
+      "correctAnswer": "clamor"
     },
     {
       "questionNumber": 3,
-      "sentence1": "The teacher's _______ reminder helped students finish the assignment right on time.",
-      "sentence2": "A _______ reply to the question showed she had been paying close attention all along.",
-      "options": ["meek", "approach", "prompt", "approve"],
+      "sentence1": "The dancer stood _______ at the edge of the stage, balanced and ready to begin.",
+      "sentence2": "The cat stayed _______ on the fence, muscles tight and ready to leap.",
+      "options": ["meek", "approach", "poised", "approve"],
       "correctIndex": 2,
-      "correctAnswer": "prompt"
+      "correctAnswer": "poised"
     },
     {
       "questionNumber": 4,
       "sentence1": "The storm hit with great _______, knocking down trees across the entire neighborhood.",
       "sentence2": "In the story, the giant flew into a _______ when he found that his gold had been stolen.",
-      "options": ["glory", "fury", "tradition", "pattern"],
+      "options": ["clamor", "fury", "jubilant", "mammoth"],
       "correctIndex": 1,
       "correctAnswer": "fury"
     },
@@ -193,7 +193,7 @@
       "questionNumber": 6,
       "sentence1": "Her quick _______ humor made everyone laugh during the long, boring car ride.",
       "sentence2": "It takes real _______ to write jokes that are both clever and funny at the same time.",
-      "options": ["wit", "approach", "fury", "glory"],
+      "options": ["wit", "approach", "fury", "clamor"],
       "correctIndex": 0,
       "correctAnswer": "wit"
     },
@@ -201,7 +201,7 @@
       "questionNumber": 7,
       "sentence1": "The flowers in the garden were _______, with bright yellows and deep reds bursting everywhere.",
       "sentence2": "The mural painted on the school wall was _______ and full of energy and life.",
-      "options": ["meek", "intent", "prompt", "vibrant"],
+      "options": ["meek", "intent", "poised", "vibrant"],
       "correctIndex": 3,
       "correctAnswer": "vibrant"
     },
@@ -209,7 +209,7 @@
       "questionNumber": 8,
       "sentence1": "The team had to decide on the best _______ for solving the difficult math problem.",
       "sentence2": "She began to _______ the podium slowly, nervous about giving her very first speech.",
-      "options": ["approach", "glory", "tradition", "pattern"],
+      "options": ["approach", "clamor", "jubilant", "mammoth"],
       "correctIndex": 0,
       "correctAnswer": "approach"
     },
@@ -217,7 +217,7 @@
       "questionNumber": 9,
       "sentence1": "His _______ was to finish the entire book before the weekend started.",
       "sentence2": "She stared at the puzzle with a look of deep _______, determined to solve it no matter what.",
-      "options": ["meek", "intent", "prompt", "approve"],
+      "options": ["meek", "intent", "poised", "approve"],
       "correctIndex": 1,
       "correctAnswer": "intent"
     },
@@ -225,25 +225,25 @@
       "questionNumber": 10,
       "sentence1": "The parents did not _______ of staying up past midnight on school nights.",
       "sentence2": "The principal was happy to _______ the new lunch menu after tasting the food herself.",
-      "options": ["revive", "pattern", "tradition", "approve"],
+      "options": ["soothe", "mammoth", "jubilant", "approve"],
       "correctIndex": 3,
       "correctAnswer": "approve"
     },
     {
       "questionNumber": 11,
-      "sentence1": "The old custom had become a beloved family _______ passed down for generations.",
-      "sentence2": "Lighting candles on birthdays is a _______ that many families around the world share.",
-      "options": ["tradition", "fury", "wit", "intent"],
+      "sentence1": "The crowd was _______ as the winning team lifted the trophy, cheering and waving flags.",
+      "sentence2": "After hearing the wonderful news, the whole family felt _______ and celebrated all night.",
+      "options": ["jubilant", "fury", "wit", "intent"],
       "correctIndex": 0,
-      "correctAnswer": "tradition"
+      "correctAnswer": "jubilant"
     },
     {
       "questionNumber": 12,
-      "sentence1": "The cool water helped _______ the wilting plants after the long, hot summer day.",
-      "sentence2": "The coach gave a powerful speech to _______ the team's spirit before the championship game.",
-      "options": ["approve", "pattern", "revive", "glory"],
+      "sentence1": "The nurse spoke in a gentle voice to _______ the frightened child.",
+      "sentence2": "A warm cup of tea can _______ a sore throat and help you relax.",
+      "options": ["approve", "mammoth", "soothe", "clamor"],
       "correctIndex": 2,
-      "correctAnswer": "revive"
+      "correctAnswer": "soothe"
     }
   ],
   "secretPassage": {
@@ -251,78 +251,78 @@
     "wordBank": [
       "fury",
       "intent",
-      "pattern",
+      "mammoth",
       "vibrant",
       "wit",
       "approach",
       "approve",
-      "glory",
+      "clamor",
       "meek",
-      "tradition",
-      "prompt",
-      "revive"
+      "jubilant",
+      "poised",
+      "soothe"
     ],
-    "passage": "Every year, the small village held a _(1)_ that filled the streets with music and dancing. It had been celebrated for hundreds of years, and no one wanted to let it fade away. This year, though, a great storm had swept through and left everyone feeling low. The mayor knew she had to act fast to _(2)_ the community's excitement before festival day arrived.\n\nShe walked through the village with clear _(3)_: she was going to make this the best festival yet. Her _(4)_ was simple — talk to every neighbor and ask them to help decorate. The decorations were _(5)_, with bold colors bursting from every window and doorway. Children painted a cheerful _(6)_ of suns and waves along the town wall.\n\nWhen festival day came, the crowd cheered with great _(7)_ as the parade began. A young girl who had always been quiet and _(8)_ stood up and recited a poem with a clear, loud voice. She had used her _(9)_ to write something both funny and touching. The mayor gave a _(10)_ nod to start the fireworks right on time. The storm had arrived with _(11)_, but the festival proved the village could not be broken. Everyone would _(12)_ of how the day turned out.",
+    "passage": "Every year, the small village held a _(1)_ festival, full of cheering and laughter, that filled the streets with music and dancing. It had been celebrated for hundreds of years, and no one wanted to let it fade away. This year, though, a great storm had swept through and left everyone feeling low. The mayor knew she had to act fast to _(2)_ the villagers' worries and lift the community's spirits before festival day arrived.\n\nShe walked through the village with clear _(3)_: she was going to make this the best festival yet. Her _(4)_ was simple — talk to every neighbor and ask them to help decorate. The decorations were _(5)_, with bold colors bursting from every window and doorway. Children painted a _(6)_ mural of suns and waves along the town wall, taller than any grown-up.\n\nWhen festival day came, the cheerful _(7)_ of the crowd filled the streets as the parade began. A young girl who had always been quiet and _(8)_ stood up and recited a poem with a clear, loud voice. She had used her _(9)_ to write something both funny and touching. The mayor stood _(10)_ and calm, then gave a nod to start the fireworks right on time. The storm had arrived with _(11)_, but the festival proved the village could not be broken. Everyone would _(12)_ of how the day turned out.",
     "blanks": [
       {
         "blankNumber": 1,
-        "correctAnswer": "tradition",
-        "options": ["fury", "pattern", "tradition", "wit"]
+        "correctAnswer": "jubilant",
+        "options": ["fury", "meek", "jubilant", "wit"]
       },
       {
         "blankNumber": 2,
-        "correctAnswer": "revive",
-        "options": ["approach", "revive", "approve", "meek"]
+        "correctAnswer": "soothe",
+        "options": ["intent", "soothe", "approve", "meek"]
       },
       {
         "blankNumber": 3,
         "correctAnswer": "intent",
-        "options": ["glory", "vibrant", "intent", "prompt"]
+        "options": ["clamor", "vibrant", "intent", "poised"]
       },
       {
         "blankNumber": 4,
         "correctAnswer": "approach",
-        "options": ["approach", "fury", "tradition", "pattern"]
+        "options": ["approach", "fury", "jubilant", "mammoth"]
       },
       {
         "blankNumber": 5,
         "correctAnswer": "vibrant",
-        "options": ["meek", "vibrant", "prompt", "intent"]
+        "options": ["meek", "vibrant", "poised", "intent"]
       },
       {
         "blankNumber": 6,
-        "correctAnswer": "pattern",
-        "options": ["glory", "fury", "wit", "pattern"]
+        "correctAnswer": "mammoth",
+        "options": ["clamor", "fury", "wit", "mammoth"]
       },
       {
         "blankNumber": 7,
-        "correctAnswer": "glory",
-        "options": ["fury", "glory", "meek", "revive"]
+        "correctAnswer": "clamor",
+        "options": ["fury", "clamor", "meek", "soothe"]
       },
       {
         "blankNumber": 8,
         "correctAnswer": "meek",
-        "options": ["vibrant", "prompt", "meek", "approve"]
+        "options": ["vibrant", "poised", "meek", "approve"]
       },
       {
         "blankNumber": 9,
         "correctAnswer": "wit",
-        "options": ["wit", "fury", "intent", "tradition"]
+        "options": ["wit", "fury", "intent", "jubilant"]
       },
       {
         "blankNumber": 10,
-        "correctAnswer": "prompt",
-        "options": ["vibrant", "prompt", "glory", "pattern"]
+        "correctAnswer": "poised",
+        "options": ["vibrant", "poised", "clamor", "mammoth"]
       },
       {
         "blankNumber": 11,
         "correctAnswer": "fury",
-        "options": ["revive", "approve", "fury", "tradition"]
+        "options": ["soothe", "approve", "fury", "jubilant"]
       },
       {
         "blankNumber": 12,
         "correctAnswer": "approve",
-        "options": ["intent", "approach", "revive", "approve"]
+        "options": ["intent", "approach", "soothe", "approve"]
       }
     ]
   },
@@ -344,8 +344,8 @@
         "vocabPosition": 0
       },
       {
-        "vocabWord": "glory",
-        "scale": ["Praise", "Honor", "Glory"],
+        "vocabWord": "clamor",
+        "scale": ["Murmur", "Noise", "Clamor"],
         "vocabPosition": 2
       }
     ],
@@ -375,10 +375,10 @@
         "imposterWord": "Dullness"
       },
       {
-        "vocabWord": "revive",
-        "words": ["Restore", "Weaken", "Refresh", "Awaken"],
+        "vocabWord": "soothe",
+        "words": ["Calm", "Upset", "Ease", "Comfort"],
         "imposterIndex": 1,
-        "imposterWord": "Weaken"
+        "imposterWord": "Upset"
       },
       {
         "vocabWord": "approve",
@@ -387,16 +387,16 @@
         "imposterWord": "Reject"
       },
       {
-        "vocabWord": "prompt",
-        "words": ["On time", "Delayed", "Quick", "Ready"],
+        "vocabWord": "poised",
+        "words": ["Ready", "Flustered", "Steady", "Calm"],
         "imposterIndex": 1,
-        "imposterWord": "Delayed"
+        "imposterWord": "Flustered"
       },
       {
-        "vocabWord": "glory",
-        "words": ["Shame", "Honor", "Triumph", "Fame"],
-        "imposterIndex": 0,
-        "imposterWord": "Shame"
+        "vocabWord": "clamor",
+        "words": ["Racket", "Silence", "Uproar", "Din"],
+        "imposterIndex": 1,
+        "imposterWord": "Silence"
       }
     ],
     "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."

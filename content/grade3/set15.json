@@ -3,14 +3,14 @@
   "setNumber": 15,
   "words": [
     "anchor",
-    "clasp",
+    "hoist",
     "courage",
     "layer",
-    "brink",
+    "menace",
     "immigrant",
     "role",
     "steady",
-    "shallow",
+    "modest",
     "reward",
     "stumble",
     "confess"
@@ -32,15 +32,15 @@
     "parts": [
       {
         "title": "The Warning Signs",
-        "text": "Nisha was the **anchor** of her research team \u2014 the one person everyone depended on to stay calm when the news was bad. Every morning she would **clasp** her notebook tightly and read the latest climate data, her hands steady even as the numbers grew worse. It took real **courage** to stand up at the town meeting and tell people the truth: the coast was in danger, and they had very little time to act."
+        "text": "Nisha was the **anchor** of her research team \u2014 the one person everyone depended on to stay calm when the news was bad. Every morning she would **hoist** her heavy bag of notebooks onto her shoulder and read the latest climate data, her hands steady even as the numbers grew worse. It took real **courage** to stand up at the town meeting and tell people the truth: the coast was in danger, and they had very little time to act."
       },
       {
         "title": "The Crisis",
-        "text": "A massive storm stripped away the top **layer** of soil along the shoreline, and the flooding that followed pushed the town to the **brink** of disaster. Amara, who had come to the region years ago as a young **immigrant** and made it her home, knocked on every door urging her neighbors not to give up. Kiran's **role** as community leader had never felt heavier \u2014 she needed to keep everyone **steady** while the river rose around them."
+        "text": "A massive storm stripped away the top **layer** of soil along the shoreline, and the flooding that followed became a **menace** to the whole town. Amara, who had come to the region years ago as a young **immigrant** and made it her home, knocked on every door urging her neighbors not to give up. Kiran's **role** as community leader had never felt heavier \u2014 she needed to keep everyone **steady** while the river rose around them."
       },
       {
         "title": "Taking Action",
-        "text": "The damage from the floods was not **shallow** \u2014 it ran deep into the foundations of homes and lives. But Nisha believed there was a **reward** waiting for anyone willing to work for it: a safer, greener coast protected by mangrove trees. \"Anyone who bothers to look will **stumble** upon research proving mangroves can reduce flood damage by half,\" she told the council. \"I must **confess** I was skeptical at first, but the evidence is undeniable.\""
+        "text": "The damage from the floods was not **modest** \u2014 it ran deep into the foundations of homes and lives. But Nisha believed there was a **reward** waiting for anyone willing to work for it: a safer, greener coast protected by mangrove trees. \"Anyone who bothers to look will **stumble** upon research proving mangroves can reduce flood damage by half,\" she told the council. \"I must **confess** I was skeptical at first, but the evidence is undeniable.\""
       },
       {
         "title": "A Greener Future",
@@ -59,11 +59,11 @@
       "sentence": ""
     },
     {
-      "word": "clasp",
+      "word": "hoist",
       "partOfSpeech": "verb, noun",
-      "meaning1": "To hold tightly. Example: She clasped the necklace around her neck.",
-      "meaning2": "A device that holds things together. Example: The clasp on the bracelet broke.",
-      "studentChallenge": "He ___ the trophy tightly in his hands.",
+      "meaning1": "To lift something heavy up, often with a rope or a machine. Example: The workers used a crane to hoist the steel beam onto the roof.",
+      "meaning2": "A machine or rope used to lift heavy things. Example: The farmer used a hoist to lift the hay bales into the loft.",
+      "studentChallenge": "The scouts worked together to ___ the flag to the top of the pole.",
       "sentence": ""
     },
     {
@@ -83,11 +83,11 @@
       "sentence": ""
     },
     {
-      "word": "brink",
-      "partOfSpeech": "noun",
-      "meaning1": "The edge of something steep or dangerous. Example: They stood on the brink of the cliff.",
-      "meaning2": "Very close to a new situation. Example: The team was on the brink of victory.",
-      "studentChallenge": "The country was on the ___ of a great discovery.",
+      "word": "menace",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "A person or thing that is dangerous or likely to cause harm. Example: The icy road was a menace to every driver.",
+      "meaning2": "To threaten with harm. Example: The dark clouds seemed to menace the picnic.",
+      "studentChallenge": "A loose, barking dog can be a ___ to children walking home from school.",
       "sentence": ""
     },
     {
@@ -115,11 +115,11 @@
       "sentence": ""
     },
     {
-      "word": "shallow",
+      "word": "modest",
       "partOfSpeech": "adjective",
-      "meaning1": "Not deep. Example: The shallow pool was safe for young children.",
-      "meaning2": "",
-      "studentChallenge": "The ___ end of the pool is only two feet deep.",
+      "meaning1": "Small or moderate in size or amount. Example: They lived in a modest house with two small bedrooms.",
+      "meaning2": "Not bragging about yourself. Example: She was modest about her win and never bragged.",
+      "studentChallenge": "Because the family had little money, they could only afford a ___ meal of rice and beans.",
       "sentence": ""
     },
     {
@@ -153,7 +153,7 @@
       "sentence1": "The captain dropped the heavy metal ___ to keep the ship from drifting away from the shore.",
       "sentence2": "The news reporter became the evening ___, reading every story to millions of viewers at home.",
       "options": [
-        "shallow",
+        "modest",
         "anchor",
         "role",
         "immigrant"
@@ -163,25 +163,25 @@
     },
     {
       "questionNumber": 2,
-      "sentence1": "She ___ her little sister's hand tightly so she would not wander off in the busy crowd.",
-      "sentence2": "The broken ___ on her bracelet meant the jewelry fell right off her wrist.",
+      "sentence1": "The two sailors pulled on the rope to ___ the heavy sail up the tall mast.",
+      "sentence2": "The firefighters used a rope to ___ the heavy hose up to the roof.",
       "options": [
-        "clasp",
+        "hoist",
         "stumble",
         "steady",
         "role"
       ],
       "correctIndex": 0,
-      "correctAnswer": "clasp"
+      "correctAnswer": "hoist"
     },
     {
       "questionNumber": 3,
       "sentence1": "It takes real ___ to speak up for a friend who is being treated unfairly.",
       "sentence2": "The firefighter showed incredible ___, running into the burning building to save the trapped family.",
       "options": [
-        "clasp",
-        "brink",
-        "shallow",
+        "hoist",
+        "menace",
+        "modest",
         "courage"
       ],
       "correctIndex": 3,
@@ -202,16 +202,16 @@
     },
     {
       "questionNumber": 5,
-      "sentence1": "Standing on the ___ of the cliff, they could see the ocean crashing far below.",
-      "sentence2": "After months of hard training, the young swimmer was on the ___ of breaking the school record.",
+      "sentence1": "The shark circling near the beach was a ___ to every swimmer in the water.",
+      "sentence2": "A speeding car is a ___ to children playing in the street.",
       "options": [
         "role",
-        "brink",
+        "menace",
         "stumble",
         "layer"
       ],
       "correctIndex": 1,
-      "correctAnswer": "brink"
+      "correctAnswer": "menace"
     },
     {
       "questionNumber": 6,
@@ -219,9 +219,9 @@
       "sentence2": "The ___ worked hard every day to learn English, save money, and build a home in a new country.",
       "options": [
         "confess",
-        "clasp",
+        "hoist",
         "immigrant",
-        "shallow"
+        "modest"
       ],
       "correctIndex": 2,
       "correctAnswer": "immigrant"
@@ -232,9 +232,9 @@
       "sentence2": "Each scientist on the team had a specific ___ \u2014 one collected data while another wrote the report.",
       "options": [
         "role",
-        "brink",
+        "menace",
         "steady",
-        "clasp"
+        "hoist"
       ],
       "correctIndex": 0,
       "correctAnswer": "role"
@@ -254,26 +254,26 @@
     },
     {
       "questionNumber": 9,
-      "sentence1": "The ___ end of the creek, only ankle-deep, was the safe spot for the young children to wade.",
-      "sentence2": "The ___ pan held just enough water to rinse the brushes without making a mess.",
+      "sentence1": "She was too _______ to brag about her win and told her friends the whole team deserved the credit.",
+      "sentence2": "They lived in a _______ little house with just two rooms and a small garden.",
       "options": [
-        "shallow",
-        "brink",
+        "modest",
+        "menace",
         "steady",
-        "clasp"
+        "hoist"
       ],
       "correctIndex": 0,
-      "correctAnswer": "shallow"
+      "correctAnswer": "modest"
     },
     {
       "questionNumber": 10,
       "sentence1": "As a ___ for finishing all her chores, she was allowed to choose the movie for family night.",
       "sentence2": "The neighbor offered a generous ___ to anyone who could find her missing cat.",
       "options": [
-        "clasp",
+        "hoist",
         "layer",
         "reward",
-        "shallow"
+        "modest"
       ],
       "correctIndex": 2,
       "correctAnswer": "reward"
@@ -297,7 +297,7 @@
       "sentence2": "I must ___ that I forgot to return the library book \u2014 it has been sitting under my bed for two weeks.",
       "options": [
         "immigrant",
-        "shallow",
+        "modest",
         "confess",
         "role"
       ],
@@ -309,19 +309,19 @@
     "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
     "wordBank": [
       "anchor",
-      "clasp",
+      "hoist",
       "courage",
       "layer",
-      "brink",
+      "menace",
       "immigrant",
       "role",
       "steady",
-      "shallow",
+      "modest",
       "reward",
       "stumble",
       "confess"
     ],
-    "passage": "Mara's grandmother had come to this country as a young _(1)_, crossing the ocean with nothing but a small bag and a big dream. Her most treasured keepsake was a silver necklace with a tiny _(2)_ shaped like a heart \u2014 it had belonged to her own mother. Mara would often _(3)_ upon it in the drawer and hold it gently. It took real _(4)_ to leave everything behind and start over in a strange land. Grandmother had played a vital _(5)_ in building their community, teaching neighbors how to cook and plant gardens. She was the _(6)_ of the family \u2014 always calm, always there, never wavering. When times were hard, the family stood on the _(7)_ of giving up, but grandmother kept them going with her quiet strength. She would add a new _(8)_ of meaning to every old family story, making each one richer than before. Even in _(9)_ difficulties \u2014 small, everyday troubles \u2014 she stayed _(10)_, never letting her hands shake or her voice tremble. \"I must _(11)_,\" she once told Mara, \"that the greatest _(12)_ in life is not money or fame. It is the love of the people around you.\"",
+    "passage": "Mara's grandmother had come to this country as a young _(1)_, crossing the ocean with nothing but a small bag and a big dream. Her most treasured keepsake was a silver necklace that had belonged to her own mother, kept in a high drawer, so Mara had to _(2)_ herself up onto a stool to reach it. Mara would often _(3)_ upon it in the drawer and hold it gently. It took real _(4)_ to leave everything behind and start over in a strange land. Grandmother had played a vital _(5)_ in building their community, teaching neighbors how to cook and plant gardens. She was the _(6)_ of the family \u2014 always calm, always there, never wavering. When times were hard, hunger and cold became a constant _(7)_ to the family, but grandmother kept them going with her quiet strength. She would add a new _(8)_ of meaning to every old family story, making each one richer than before. Even in _(9)_ difficulties \u2014 small, everyday troubles \u2014 she stayed _(10)_, never letting her hands shake or her voice tremble. \"I must _(11)_,\" she once told Mara, \"that the greatest _(12)_ in life is not money or fame. It is the love of the people around you.\"",
     "blanks": [
       {
         "blankNumber": 1,
@@ -335,12 +335,12 @@
       },
       {
         "blankNumber": 2,
-        "correctAnswer": "clasp",
+        "correctAnswer": "hoist",
         "options": [
-          "clasp",
+          "hoist",
           "confess",
           "courage",
-          "shallow"
+          "modest"
         ]
       },
       {
@@ -350,7 +350,7 @@
           "stumble",
           "anchor",
           "role",
-          "brink"
+          "menace"
         ]
       },
       {
@@ -378,17 +378,17 @@
         "correctAnswer": "anchor",
         "options": [
           "anchor",
-          "clasp",
-          "brink",
+          "hoist",
+          "menace",
           "layer"
         ]
       },
       {
         "blankNumber": 7,
-        "correctAnswer": "brink",
+        "correctAnswer": "menace",
         "options": [
-          "brink",
-          "shallow",
+          "menace",
+          "modest",
           "confess",
           "layer"
         ]
@@ -400,15 +400,15 @@
           "layer",
           "anchor",
           "role",
-          "brink"
+          "menace"
         ]
       },
       {
         "blankNumber": 9,
-        "correctAnswer": "shallow",
+        "correctAnswer": "modest",
         "options": [
-          "shallow",
-          "clasp",
+          "modest",
+          "hoist",
           "steady",
           "confess"
         ]
@@ -419,7 +419,7 @@
         "options": [
           "steady",
           "role",
-          "brink",
+          "menace",
           "layer"
         ]
       },
@@ -440,7 +440,7 @@
           "reward",
           "anchor",
           "immigrant",
-          "clasp"
+          "hoist"
         ]
       }
     ]
@@ -457,11 +457,11 @@
         "vocabPosition": 1
       },
       {
-        "vocabWord": "clasp",
+        "vocabWord": "hoist",
         "scale": [
-          "touch",
-          "clasp",
-          "grip"
+          "lift",
+          "hoist",
+          "heave"
         ],
         "vocabPosition": 1
       },
@@ -486,15 +486,15 @@
     ],
     "imposterHunt": [
       {
-        "vocabWord": "brink",
+        "vocabWord": "menace",
         "words": [
-          "center",
-          "edge",
-          "verge",
-          "threshold"
+          "threat",
+          "danger",
+          "protection",
+          "peril"
         ],
-        "imposterIndex": 0,
-        "imposterWord": "center"
+        "imposterIndex": 2,
+        "imposterWord": "protection"
       },
       {
         "vocabWord": "immigrant",
@@ -530,15 +530,15 @@
         "imposterWord": "shaky"
       },
       {
-        "vocabWord": "shallow",
+        "vocabWord": "modest",
         "words": [
-          "surface",
-          "deep",
-          "slight",
-          "superficial"
+          "humble",
+          "boastful",
+          "plain",
+          "simple"
         ],
         "imposterIndex": 1,
-        "imposterWord": "deep"
+        "imposterWord": "boastful"
       },
       {
         "vocabWord": "reward",

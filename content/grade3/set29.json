@@ -6,7 +6,7 @@
     "trace",
     "surround",
     "crew",
-    "clever",
+    "drowsy",
     "attract",
     "cascade",
     "obvious",
@@ -33,11 +33,11 @@
     "parts": [
       {
         "title": "The Shore",
-        "text": "Aanya walked along the beach with her **crew** of two best friends, Kiran and Arnav, ready to explore the tide pools. She knelt down to **trace** the outline of a starfish in her notebook, carefully following every arm. Rocky cliffs **surround** the cove on all sides, giving the spot a feeling of calm and mystery."
+        "text": "Aanya walked along the beach with her **crew** of two best friends, Kiran and Arnav, ready to explore the tide pools after their school's science **tournament** had ended that morning. She knelt down to **trace** the outline of a starfish in her notebook, carefully following every arm. Rocky cliffs **surround** the cove on all sides, giving the spot a feeling of calm and mystery."
       },
       {
         "title": "Nature's Warning",
-        "text": "It was **obvious** to all three of them that the sky was changing \u2014 dark clouds gathered faster than they expected. Arnav, the most **clever** of the group, used a tide chart to track the **origin** of the incoming storm. A **cascade** of rainwater began pouring down the cliff face in thin silver streams. The tide was rising fast and would soon cut off the path, so they moved quickly toward the shore."
+        "text": "It was **obvious** to all three of them that the sky was changing \u2014 dark clouds gathered faster than they expected. Arnav, though **drowsy** after the early start, used a tide chart to track the **origin** of the incoming storm. A **cascade** of rainwater began pouring down the cliff face in thin silver streams. The tide was rising fast and would soon cut off the path, so they moved quickly toward the shore."
       },
       {
         "title": "The Rescue",
@@ -45,10 +45,10 @@
       },
       {
         "title": "New Purpose",
-        "text": "The baby turtle swam away into the waves, strong and free. Back on shore, the three friends were quiet for a moment, watching it disappear into the deep blue. Kiran invited Aanya to join her summer marine research program. Arnav said he wanted to enter a science **tournament** with their findings about the tide pools. From that day on, all three of them knew the ocean was not just a place to visit \u2014 it was a world worth protecting."
+        "text": "The baby turtle swam away into the waves, strong and free. Back on shore, the three friends were quiet for a moment, watching it disappear into the deep blue. Kiran invited Aanya to join her summer marine research program. Arnav said he wanted to enter the next science tournament with their findings about the tide pools. From that day on, all three of them knew the ocean was not just a place to visit \u2014 it was a world worth protecting."
       }
     ],
-    "wordCount": 252
+    "wordCount": 310
   },
   "definitions": [
     {
@@ -84,11 +84,11 @@
       "sentence": ""
     },
     {
-      "word": "clever",
+      "word": "drowsy",
       "partOfSpeech": "adjective",
-      "meaning1": "Quick to learn and understand; smart. Example: The clever fox outsmarted the hunters.",
+      "meaning1": "Sleepy and not fully awake. Example: The drowsy puppy yawned and curled up on the rug.",
       "meaning2": "",
-      "studentChallenge": "That was a ___ way to solve the puzzle.",
+      "studentChallenge": "After the long car ride, the ___ children nodded off in the back seat.",
       "sentence": ""
     },
     {
@@ -154,7 +154,7 @@
       "sentence1": "Our school chess club entered a ___ and competed against teams from five other schools.",
       "sentence2": "The soccer ___ lasted all weekend, and our team made it to the final round.",
       "options": [
-        "clever",
+        "drowsy",
         "tournament",
         "crew",
         "origin"
@@ -194,7 +194,7 @@
       "sentence2": "The film ___ set up cameras and lights before the actors arrived on set.",
       "options": [
         "contain",
-        "clever",
+        "drowsy",
         "weaver",
         "crew"
       ],
@@ -203,16 +203,16 @@
     },
     {
       "questionNumber": 5,
-      "sentence1": "The ___ fox outsmarted the hunters by hiding its tracks in the stream.",
-      "sentence2": "That was a ___ way to solve the puzzle \u2014 no one else had thought of it.",
+      "sentence1": "The warm room and the soft music made the baby feel ___, and soon her eyes closed.",
+      "sentence2": "After the big lunch, I felt so ___ that I could barely keep my eyes open.",
       "options": [
         "surface",
         "weaver",
-        "clever",
+        "drowsy",
         "trace"
       ],
       "correctIndex": 2,
-      "correctAnswer": "clever"
+      "correctAnswer": "drowsy"
     },
     {
       "questionNumber": 6,
@@ -313,7 +313,7 @@
       "trace",
       "surround",
       "crew",
-      "clever",
+      "drowsy",
       "attract",
       "cascade",
       "obvious",
@@ -322,7 +322,7 @@
       "weaver",
       "surface"
     ],
-    "passage": "Arnav and his sailing _(1)_ \u2014 a group of twelve friends who worked together on the boat \u2014 set off to explore a hidden cove. It was _(2)_ to everyone, plain and clear, that the weather was perfect. Arnav used a map to _(3)_ the route his grandfather had once traveled, following every twist and turn. Tall cliffs _(4)_ the cove on all sides, wrapping around it like walls. The _(5)_ of the calm water was so glassy it reflected the sky like a mirror. A _(6)_ of sparkling water tumbled down the cliff face, flowing from rock to rock into the sea below. The bright colors of the coral were sure to _(7)_ curious fish from the deeper water. They found a cave that seemed to _(8)_ hidden treasures, its walls packed with glittering stones. Inside, a local _(9)_ had left a woven tapestry hanging on the wall, each thread crossing beautifully under and over. The inscription described a great sailing _(10)_ \u2014 a competition held there long ago, with many boats racing for the championship. It also told the _(11)_ of the cove \u2014 where it began and how it got its name. Arnav was _(12)_, smart enough to photograph everything before the tide came in.",
+    "passage": "Arnav and his sailing _(1)_ \u2014 a group of twelve friends who worked together on the boat \u2014 set off to explore a hidden cove. It was _(2)_ to everyone, plain and clear, that the weather was perfect. Arnav used a map to _(3)_ the route his grandfather had once traveled, following every twist and turn. Tall cliffs _(4)_ the cove on all sides, wrapping around it like walls. The _(5)_ of the calm water was so glassy it reflected the sky like a mirror. A _(6)_ of sparkling water tumbled down the cliff face, flowing from rock to rock into the sea below. The bright colors of the coral were sure to _(7)_ curious fish from the deeper water. They found a cave that seemed to _(8)_ hidden treasures, its walls packed with glittering stones. Inside, a local _(9)_ had left a woven tapestry hanging on the wall, each thread crossing beautifully under and over. The inscription described a great sailing _(10)_ \u2014 a competition held there long ago, with many boats racing for the championship. It also told the _(11)_ of the cove \u2014 where it began and how it got its name. Arnav felt _(12)_ after the long day, his eyelids drooping, but he still photographed everything before the tide came in.",
     "blanks": [
       {
         "blankNumber": 1,
@@ -339,7 +339,7 @@
         "correctAnswer": "obvious",
         "options": [
           "obvious",
-          "clever",
+          "drowsy",
           "trace",
           "contain"
         ]
@@ -420,7 +420,7 @@
         "options": [
           "tournament",
           "obvious",
-          "clever",
+          "drowsy",
           "cascade"
         ]
       },
@@ -436,9 +436,9 @@
       },
       {
         "blankNumber": 12,
-        "correctAnswer": "clever",
+        "correctAnswer": "drowsy",
         "options": [
-          "clever",
+          "drowsy",
           "obvious",
           "attract",
           "contain"
@@ -487,15 +487,15 @@
     ],
     "imposterHunt": [
       {
-        "vocabWord": "clever",
+        "vocabWord": "drowsy",
         "words": [
-          "foolish",
-          "smart",
-          "witty",
-          "ingenious"
+          "sleepy",
+          "tired",
+          "dozy",
+          "alert"
         ],
-        "imposterIndex": 0,
-        "imposterWord": "foolish"
+        "imposterIndex": 3,
+        "imposterWord": "alert"
       },
       {
         "vocabWord": "attract",

@@ -6,14 +6,14 @@
     "island",
     "opinion",
     "rely",
-    "ruin",
+    "taunt",
     "scarf",
     "possess",
     "eager",
     "bitter",
     "flexible",
     "kimono",
-    "gloomy"
+    "shabby"
   ],
   "sources": [
     "Australian Curriculum",
@@ -40,18 +40,18 @@
       },
       {
         "title": "The Setback",
-        "text": "Two weeks before the competition, a fire threatened to **ruin** the training hall and the team had to **rely** on a borrowed gym across town. Diya was **eager** to keep practicing despite everything, wrapping a warm **scarf** around her neck each cold morning as she cycled to the new facility. Kabir, who **possess**ed a quiet belief in her that never wavered, told her the setback would only make her stronger."
+        "text": "Two weeks before the competition, a fire forced the team out of the training hall and they had to **rely** on a borrowed gym across town. Some rivals began to **taunt** the team about the move, yet Diya was **eager** to keep practicing despite everything, wrapping a warm **scarf** around her neck each cold morning as she cycled to the new facility. Kabir, who **possess**ed a quiet belief in her that never wavered, told her the setback would only make her stronger."
       },
       {
         "title": "Against the Odds",
-        "text": "The borrowed gym was **gloomy** and poorly lit, but Diya refused to let the mood affect her. She was **flexible** enough to adapt her routine to the smaller space. One morning, after a routine that had gone perfectly, she wore the traditional **kimono** she had brought from home as a reminder of why she competed \u2014 not for medals, but for something deeper. Only the **bitter** cold of the early mornings made training feel truly hard."
+        "text": "The borrowed gym was **shabby** and poorly lit, but Diya refused to let it affect her. She was **flexible** enough to adapt her routine to the smaller space. One morning, after a routine that had gone perfectly, she wore the traditional **kimono** she had brought from home as a reminder of why she competed \u2014 not for medals, but for something deeper. Only the **bitter** cold of the early mornings made training feel truly hard."
       },
       {
         "title": "The Record",
         "text": "On competition day, Diya performed flawlessly. She didn't just win \u2014 she broke the national record by two full points. The crowd erupted in cheers. Kabir wiped tears from his eyes. \"This is what happens when you refuse to quit,\" he said. Yuki, who had traveled from another city just to watch, said it was the most extraordinary thing she had ever seen. Diya's name was printed in the record books that very evening, and her story inspired thousands of young athletes across the country."
       }
     ],
-    "wordCount": 267
+    "wordCount": 302
   },
   "definitions": [
     {
@@ -87,11 +87,11 @@
       "sentence": ""
     },
     {
-      "word": "ruin",
-      "partOfSpeech": "verb, noun",
-      "meaning1": "To destroy or damage badly. Example: The flood ruined the crops.",
-      "meaning2": "The remains of a destroyed building. Example: The ancient ruins attracted many tourists.",
-      "studentChallenge": "Don't let one mistake ___ your whole day.",
+      "word": "taunt",
+      "partOfSpeech": "verb",
+      "meaning1": "To tease or insult someone in a mean way to upset them. Example: The older kids would taunt the new student about his accent.",
+      "meaning2": "",
+      "studentChallenge": "It is unkind to ___ a teammate who has just lost the race.",
       "sentence": ""
     },
     {
@@ -143,11 +143,11 @@
       "sentence": ""
     },
     {
-      "word": "gloomy",
+      "word": "shabby",
       "partOfSpeech": "adjective",
-      "meaning1": "Dark and sad. Example: The gloomy sky meant rain was coming.",
-      "meaning2": "Feeling sad or unhappy. Example: He felt gloomy on the rainy day.",
-      "studentChallenge": "The ___ basement needed more light.",
+      "meaning1": "Old, worn out, and in poor condition. Example: The shabby couch had torn cushions and faded fabric.",
+      "meaning2": "",
+      "studentChallenge": "The ___ old coat had holes in both sleeves.",
       "sentence": ""
     }
   ],
@@ -199,30 +199,30 @@
         "opinion",
         "rely",
         "eager",
-        "ruin"
+        "taunt"
       ],
       "correctIndex": 1,
       "correctAnswer": "rely"
     },
     {
       "questionNumber": 5,
-      "sentence1": "The flood ___ the crops, leaving the farmer with nothing to harvest.",
-      "sentence2": "Don't let one small mistake ___ your whole day.",
+      "sentence1": "Some older kids would ___ the new student about his accent, hoping to make him angry.",
+      "sentence2": "It is cruel to ___ a teammate who has just missed an easy goal.",
       "options": [
         "scarf",
         "rely",
         "possess",
-        "ruin"
+        "taunt"
       ],
       "correctIndex": 3,
-      "correctAnswer": "ruin"
+      "correctAnswer": "taunt"
     },
     {
       "questionNumber": 6,
       "sentence1": "She wrapped a soft wool ___ around her neck before heading out into the cold winter air.",
       "sentence2": "He picked out a bright red ___ to keep his neck warm during the snowstorm.",
       "options": [
-        "gloomy",
+        "shabby",
         "scarf",
         "island",
         "bitter"
@@ -251,7 +251,7 @@
         "eager",
         "rely",
         "reflect",
-        "ruin"
+        "taunt"
       ],
       "correctIndex": 0,
       "correctAnswer": "eager"
@@ -290,23 +290,23 @@
         "rely",
         "eager",
         "kimono",
-        "gloomy"
+        "shabby"
       ],
       "correctIndex": 2,
       "correctAnswer": "kimono"
     },
     {
       "questionNumber": 12,
-      "sentence1": "The ___ sky was dark and heavy with clouds, and rain was sure to follow.",
-      "sentence2": "The ___ basement needed more light \u2014 every corner was dim and shadowy.",
+      "sentence1": "The ___ old couch had torn cushions and faded, worn-out fabric.",
+      "sentence2": "He felt embarrassed by his ___ shoes, which were scuffed and falling apart.",
       "options": [
         "scarf",
-        "gloomy",
-        "ruin",
+        "shabby",
+        "taunt",
         "reflect"
       ],
       "correctIndex": 1,
-      "correctAnswer": "gloomy"
+      "correctAnswer": "shabby"
     }
   ],
   "secretPassage": {
@@ -316,16 +316,16 @@
       "island",
       "opinion",
       "rely",
-      "ruin",
+      "taunt",
       "scarf",
       "possess",
       "eager",
       "bitter",
       "flexible",
       "kimono",
-      "gloomy"
+      "shabby"
     ],
-    "passage": "Yuki traveled to a small _(1)_ \u2014 a piece of land completely surrounded by the sea \u2014 to attend a traditional Japanese ceremony. The sky was _(2)_, dark and heavy with rain clouds, but the ceremony would go ahead regardless. She wore a silk _(3)_ \u2014 the long, wide-sleeved robe traditionally worn in Japan \u2014 decorated with painted cranes. Around her neck she wrapped a warm _(4)_ \u2014 a soft cloth to shield her from the cool ocean breeze. She paused to _(5)_ on how lucky she was, thinking carefully about her journey. In her _(6)_, this was the most beautiful place she had ever visited. The ceremony required performers to be _(7)_, bending and moving gracefully without any stiffness. Yuki was _(8)_ and excited, barely able to wait for her turn on stage. The tea offered at the ceremony was _(9)_ \u2014 sharp and strong-tasting, not sweet at all. She had always known she _(10)_ a gift for performance, owning a natural talent passed down from her grandmother. The crowd would _(11)_ on her to lead the final dance, trusting her completely. One stumble could _(12)_ the ending of the ceremony, ruining months of careful practice.",
+    "passage": "Yuki traveled to a small _(1)_ \u2014 a piece of land completely surrounded by the sea \u2014 to attend a traditional Japanese ceremony. The tea house was _(2)_, with peeling paint and faded cushions, but the ceremony would go ahead regardless. She wore a silk _(3)_ \u2014 the long, wide-sleeved robe traditionally worn in Japan \u2014 decorated with painted cranes. Around her neck she wrapped a warm _(4)_ \u2014 a soft cloth to shield her from the cool ocean breeze. She paused to _(5)_ on how lucky she was, thinking carefully about her journey. In her _(6)_, this was the most beautiful place she had ever visited. The ceremony required performers to be _(7)_, bending and moving gracefully without any stiffness. Yuki was _(8)_ and excited, barely able to wait for her turn on stage. The tea offered at the ceremony was _(9)_ \u2014 sharp and strong-tasting, not sweet at all. She had always known she _(10)_ a gift for performance, owning a natural talent passed down from her grandmother. The crowd would _(11)_ on her to lead the final dance, trusting her completely. One rival dancer began to _(12)_ her from the wings, hoping to rattle her nerves before the final dance.",
     "blanks": [
       {
         "blankNumber": 1,
@@ -339,9 +339,9 @@
       },
       {
         "blankNumber": 2,
-        "correctAnswer": "gloomy",
+        "correctAnswer": "shabby",
         "options": [
-          "gloomy",
+          "shabby",
           "bitter",
           "eager",
           "flexible"
@@ -363,7 +363,7 @@
         "options": [
           "scarf",
           "kimono",
-          "ruin",
+          "taunt",
           "reflect"
         ]
       },
@@ -374,7 +374,7 @@
           "reflect",
           "rely",
           "possess",
-          "ruin"
+          "taunt"
         ]
       },
       {
@@ -393,7 +393,7 @@
         "options": [
           "flexible",
           "bitter",
-          "gloomy",
+          "shabby",
           "eager"
         ]
       },
@@ -404,7 +404,7 @@
           "eager",
           "flexible",
           "bitter",
-          "gloomy"
+          "shabby"
         ]
       },
       {
@@ -414,7 +414,7 @@
           "bitter",
           "eager",
           "flexible",
-          "gloomy"
+          "shabby"
         ]
       },
       {
@@ -424,7 +424,7 @@
           "possess",
           "rely",
           "reflect",
-          "ruin"
+          "taunt"
         ]
       },
       {
@@ -434,14 +434,14 @@
           "rely",
           "possess",
           "reflect",
-          "ruin"
+          "taunt"
         ]
       },
       {
         "blankNumber": 12,
-        "correctAnswer": "ruin",
+        "correctAnswer": "taunt",
         "options": [
-          "ruin",
+          "taunt",
           "rely",
           "possess",
           "reflect"
@@ -490,15 +490,15 @@
     ],
     "imposterHunt": [
       {
-        "vocabWord": "ruin",
+        "vocabWord": "taunt",
         "words": [
-          "destroy",
-          "build",
-          "wreck",
-          "damage"
+          "tease",
+          "mock",
+          "praise",
+          "jeer"
         ],
-        "imposterIndex": 1,
-        "imposterWord": "build"
+        "imposterIndex": 2,
+        "imposterWord": "praise"
       },
       {
         "vocabWord": "scarf",
@@ -567,15 +567,15 @@
         "imposterWord": "nothing"
       },
       {
-        "vocabWord": "gloomy",
+        "vocabWord": "shabby",
         "words": [
-          "cheerful",
-          "sad",
-          "dark",
-          "depressing"
+          "worn",
+          "tattered",
+          "run-down",
+          "brand-new"
         ],
-        "imposterIndex": 0,
-        "imposterWord": "cheerful"
+        "imposterIndex": 3,
+        "imposterWord": "brand-new"
       }
     ],
     "studentPick": "Pick 2 imposters and explain why they are opposites of the vocabulary word."

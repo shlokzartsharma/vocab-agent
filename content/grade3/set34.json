@@ -5,7 +5,7 @@
     "request",
     "drought",
     "hollow",
-    "imply",
+    "omit",
     "cycle",
     "ignorant",
     "recover",
@@ -41,14 +41,14 @@
       },
       {
         "title": "The Discovery",
-        "text": "While analyzing the data, Leo noticed something unusual about the **texture** of the wave pattern \u2014 it was rougher and more layered than anything described in her books. The data seemed to **imply** that a new type of solar wave was occurring, one that scientists had not yet named. She hoped the signal would not **vanish** before she could save it, so she **recover**ed a backup copy from her cloud drive just in case."
+        "text": "While analyzing the data, Leo noticed something unusual about the **texture** of the wave pattern \u2014 it was rougher and more layered than anything described in her books. Leo was careful not to **omit** a single reading from her notes, because the data showed that a new type of solar wave was occurring, one that scientists had not yet named. She hoped the signal would not **vanish** before she could save it, so she **recover**ed a backup copy from her cloud drive just in case."
       },
       {
         "title": "A Star Is Born",
         "text": "Leo submitted her findings to ISRO. Three weeks later, she received a letter \u2014 her discovery was real. A new solar wave pattern was named after her. She was invited to visit ISRO's Space Applications Centre in Ahmedabad. \"You have the mind of a true scientist,\" the director told her. Leo knew that this was just the beginning of her journey to the stars."
       }
     ],
-    "wordCount": 268
+    "wordCount": 305
   },
   "definitions": [
     {
@@ -76,11 +76,11 @@
       "sentence": ""
     },
     {
-      "word": "imply",
+      "word": "omit",
       "partOfSpeech": "verb",
-      "meaning1": "To suggest something without saying it directly. Example: Her smile implied that she was happy.",
+      "meaning1": "To leave something out, on purpose or by mistake. Example: She accidentally omitted the last name from the list.",
       "meaning2": "",
-      "studentChallenge": "His silence seemed to ___ that he agreed.",
+      "studentChallenge": "Please do not ___ any steps when you copy the recipe.",
       "sentence": ""
     },
     {
@@ -156,7 +156,7 @@
       "options": [
         "request",
         "hollow",
-        "imply",
+        "omit",
         "merchant"
       ],
       "correctIndex": 0,
@@ -190,16 +190,16 @@
     },
     {
       "questionNumber": 4,
-      "sentence1": "Her smile seemed to ___ that she already knew the answer.",
-      "sentence2": "His silence seemed to ___ that he agreed with the plan.",
+      "sentence1": "Please do not ___ any step when you copy the recipe into your notebook.",
+      "sentence2": "The editor decided to ___ the last paragraph because the story was too long.",
       "options": [
-        "imply",
+        "omit",
         "request",
         "drought",
         "recover"
       ],
       "correctIndex": 0,
-      "correctAnswer": "imply"
+      "correctAnswer": "omit"
     },
     {
       "questionNumber": 5,
@@ -247,7 +247,7 @@
       "options": [
         "merchant",
         "texture",
-        "imply",
+        "omit",
         "vanish"
       ],
       "correctIndex": 0,
@@ -312,7 +312,7 @@
       "request",
       "drought",
       "hollow",
-      "imply",
+      "omit",
       "cycle",
       "ignorant",
       "recover",
@@ -322,7 +322,7 @@
       "chatter",
       "vanish"
     ],
-    "passage": "Leo made a polite _(1)_ to her science teacher, asking for extra time in the lab after school. She wanted to study the _(2)_ \u2014 the repeating pattern of a certain star's brightness, which grew and faded over and over. She was no longer _(3)_ about stars \u2014 she had read every book she could find and knew the subject well. The old telescope she used had a _(4)_ tube, empty inside and light as a feather. Its metal surface had a rough _(5)_ \u2014 bumpy and uneven under her fingertips from years of use. After a long _(6)_ without clear skies, cloudy and dry for weeks, the stars finally appeared. A _(7)_ of light \u2014 a fast, powerful beam \u2014 shot across her lens from a passing satellite. She began to _(8)_ excitedly, talking quickly and barely stopping for breath as she described what she saw. The sight seemed to _(9)_ that something unusual was happening far out in space. She hoped the data would not _(10)_ before she could save it, disappearing from the screen without warning. A traveling _(11)_ of astronomy books had visited the school fair, and Leo had bought one that showed her how to _(12)_ data lost from a corrupted file.",
+    "passage": "Leo made a polite _(1)_ to her science teacher, asking for extra time in the lab after school. She wanted to study the _(2)_ \u2014 the repeating pattern of a certain star's brightness, which grew and faded over and over. She was no longer _(3)_ about stars \u2014 she had read every book she could find and knew the subject well. The old telescope she used had a _(4)_ tube, empty inside and light as a feather. Its metal surface had a rough _(5)_ \u2014 bumpy and uneven under her fingertips from years of use. After a long _(6)_ without clear skies, cloudy and dry for weeks, the stars finally appeared. A _(7)_ of light \u2014 a fast, powerful beam \u2014 shot across her lens from a passing satellite. She began to _(8)_ excitedly, talking quickly and barely stopping for breath as she described what she saw. Leo was careful not to _(9)_ any detail from her notes, not even a tiny one. She hoped the data would not _(10)_ before she could save it, disappearing from the screen without warning. A traveling _(11)_ of astronomy books had visited the school fair, and Leo had bought one that showed her how to _(12)_ data lost from a corrupted file.",
     "blanks": [
       {
         "blankNumber": 1,
@@ -401,14 +401,14 @@
           "chatter",
           "vanish",
           "recover",
-          "imply"
+          "omit"
         ]
       },
       {
         "blankNumber": 9,
-        "correctAnswer": "imply",
+        "correctAnswer": "omit",
         "options": [
-          "imply",
+          "omit",
           "chatter",
           "vanish",
           "recover"
@@ -420,7 +420,7 @@
         "options": [
           "vanish",
           "recover",
-          "imply",
+          "omit",
           "chatter"
         ]
       },
@@ -440,7 +440,7 @@
         "options": [
           "recover",
           "vanish",
-          "imply",
+          "omit",
           "request"
         ]
       }
@@ -476,11 +476,11 @@
         "vocabPosition": 1
       },
       {
-        "vocabWord": "imply",
+        "vocabWord": "omit",
         "scale": [
-          "whisper",
-          "imply",
-          "suggest"
+          "skip",
+          "omit",
+          "exclude"
         ],
         "vocabPosition": 1
       }

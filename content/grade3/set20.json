@@ -9,10 +9,10 @@
     "method",
     "replace",
     "catalog",
-    "disturb",
+    "dismal",
     "label",
     "monsoon",
-    "intent",
+    "hesitate",
     "coaxing"
   ],
   "sources": [
@@ -32,11 +32,11 @@
     "parts": [
       {
         "title": "The Warning Signs",
-        "text": "The **monsoon** arrived three weeks early that year, and Sanjay could tell from the first day that something was wrong. She kept a careful **catalog** of the rainfall measurements, logging each reading in a notebook she carried everywhere. Her **intent** was not to alarm anyone \u2014 she spoke to the village in a calm **tone**, making sure people understood the risk without panicking."
+        "text": "The **monsoon** arrived three weeks early that year, and Sanjay could tell from the first day that something was wrong. She kept a careful **catalog** of the rainfall measurements, logging each reading in a notebook she carried everywhere. She did not **hesitate** to warn anyone, but she spoke to the village in a calm **tone**, making sure people understood the risk without panicking."
       },
       {
         "title": "The Crisis",
-        "text": "When the floods came, they left behind enormous piles of mud and wreckage that blocked the streets and began to **disturb** the natural flow of the river. The squabbling on the town council threatened to **defeat** the recovery plan entirely. Priya used gentle **coaxing** to bring the two sides together, reminding them that there was no **label** that mattered now \u2014 not left or right, rich or poor \u2014 only neighbors helping neighbors."
+        "text": "When the floods came, they left behind enormous piles of mud and wreckage that blocked the streets and made the once-cheerful town look **dismal**. The squabbling on the town council threatened to **defeat** the recovery plan entirely. Priya used gentle **coaxing** to bring the two sides together, reminding them that there was no **label** that mattered now \u2014 not left or right, rich or poor \u2014 only neighbors helping neighbors."
       },
       {
         "title": "Taking Action",
@@ -47,7 +47,7 @@
         "text": "Three years later, the mangrove forest stretched along two miles of coastline. When the next big storm came, the town survived with minimal damage. Priya told the newspapers, \"Sanjay saved our town. She showed us that one person with a good idea can change everything.\" The town became a model for climate resilience, and Sanjay's story was taught in schools across the country."
       }
     ],
-    "wordCount": 268
+    "wordCount": 260
   },
   "definitions": [
     {
@@ -107,11 +107,11 @@
       "sentence": ""
     },
     {
-      "word": "disturb",
-      "partOfSpeech": "verb",
-      "meaning1": "To interrupt or bother someone. Example: Please don't disturb me while I'm studying.",
+      "word": "dismal",
+      "partOfSpeech": "adjective",
+      "meaning1": "Gloomy, sad, and without cheer. Example: The gray, rainy weather made the whole weekend feel dismal.",
       "meaning2": "",
-      "studentChallenge": "The loud noise will ___ the sleeping baby.",
+      "studentChallenge": "The abandoned house, with its broken windows and gray walls, looked ___.",
       "sentence": ""
     },
     {
@@ -131,11 +131,11 @@
       "sentence": ""
     },
     {
-      "word": "intent",
-      "partOfSpeech": "noun, adjective",
-      "meaning1": "A plan or purpose. Example: His intent was to help, not to cause trouble.",
-      "meaning2": "Giving full attention. Example: She was intent on finishing her book.",
-      "studentChallenge": "The student was ___ on getting a perfect score.",
+      "word": "hesitate",
+      "partOfSpeech": "verb",
+      "meaning1": "To pause before doing something because you are unsure or nervous. Example: He began to hesitate at the edge of the diving board, unsure whether to jump.",
+      "meaning2": "",
+      "studentChallenge": "Please do not ___ to ask your teacher a question if you are confused.",
       "sentence": ""
     },
     {
@@ -155,7 +155,7 @@
       "options": [
         "phase",
         "coaxing",
-        "intent",
+        "hesitate",
         "grant"
       ],
       "correctIndex": 0,
@@ -182,7 +182,7 @@
         "catalog",
         "tone",
         "replace",
-        "disturb"
+        "dismal"
       ],
       "correctIndex": 1,
       "correctAnswer": "tone"
@@ -193,7 +193,7 @@
       "sentence2": "The fairy godmother used her magic wand to ___ Cinderella's wish to go to the grand ball.",
       "options": [
         "tone",
-        "intent",
+        "hesitate",
         "defeat",
         "grant"
       ],
@@ -207,7 +207,7 @@
       "options": [
         "replace",
         "monsoon",
-        "disturb",
+        "dismal",
         "method"
       ],
       "correctIndex": 3,
@@ -241,16 +241,16 @@
     },
     {
       "questionNumber": 8,
-      "sentence1": "Please don't ___ me while I'm concentrating \u2014 I need quiet to finish this difficult problem.",
-      "sentence2": "The sudden loud noise will ___ the sleeping baby and wake her up from her nap.",
+      "sentence1": "The empty room with its bare gray walls and one flickering light looked ___ and sad.",
+      "sentence2": "The cold, rainy, gray weather made the whole afternoon feel ___ and depressing.",
       "options": [
         "coaxing",
         "catalog",
-        "disturb",
+        "dismal",
         "monsoon"
       ],
       "correctIndex": 2,
-      "correctAnswer": "disturb"
+      "correctAnswer": "dismal"
     },
     {
       "questionNumber": 9,
@@ -280,16 +280,16 @@
     },
     {
       "questionNumber": 11,
-      "sentence1": "His ___ was clearly to help, not to cause any trouble \u2014 he just wanted to fix the problem.",
-      "sentence2": "The student was ___ on getting a perfect score, focused completely and not letting anything distract her.",
+      "sentence1": "When the alarm rang, the firefighters did not ___ for even a moment before rushing toward the burning building.",
+      "sentence2": "If you are lost, do not ___ to ask a grown-up for directions \u2014 it is always better to ask.",
       "options": [
         "replace",
-        "intent",
-        "disturb",
+        "hesitate",
+        "dismal",
         "grant"
       ],
       "correctIndex": 1,
-      "correctAnswer": "intent"
+      "correctAnswer": "hesitate"
     },
     {
       "questionNumber": 12,
@@ -315,13 +315,13 @@
       "method",
       "replace",
       "catalog",
-      "disturb",
+      "dismal",
       "label",
       "monsoon",
-      "intent",
+      "hesitate",
       "coaxing"
     ],
-    "passage": "The coastal village was entering a new _(1)_ \u2014 a fresh chapter in its history that nobody had planned for. The heavy _(2)_ rains had come early that year, pounding the shoreline for weeks without stopping. Sanjay's _(3)_ was clear from the start: she was there to help, not to cause arguments or stir up trouble. Her _(4)_ was warm and steady as she spoke to worried neighbors \u2014 never panicking, always calm and kind. She pulled out a long _(5)_ of local plants, a carefully organized list showing which species were native to the shoreline. Her _(6)_ for protecting the coast was simple but brilliant: plant mangrove trees in three long rows. She worked with gentle _(7)_, quietly persuading even the most doubtful villagers to try something new. The community decided to _(8)_ the crumbling concrete seawall with a living wall of roots and branches. Sanjay knew she could not _(9)_ the natural rhythm of the tides, so she planned every planting session around them. Each sapling received a small _(10)_ \u2014 a little tag giving its species name and the date it was planted. Over time, the government agreed to _(11)_ the village extra funds to expand the mangrove planting to the northern shore as well. The town's greatest _(12)_ was not a sporting rival \u2014 it was the rising sea itself, and the mangroves were finally winning.",
+    "passage": "The coastal village was entering a new _(1)_ \u2014 a fresh chapter in its history that nobody had planned for. The heavy _(2)_ rains had come early that year, pounding the shoreline for weeks without stopping. Sanjay did not _(3)_ when trouble came; she stepped forward at once to help, never stopping to wonder whether it was her place. Her _(4)_ was warm and steady as she spoke to worried neighbors \u2014 never panicking, always calm and kind. She pulled out a long _(5)_ of local plants, a carefully organized list showing which species were native to the shoreline. Her _(6)_ for protecting the coast was simple but brilliant: plant mangrove trees in three long rows. She worked with gentle _(7)_, quietly persuading even the most doubtful villagers to try something new. The community decided to _(8)_ the crumbling concrete seawall with a living wall of roots and branches. The flood had left the shoreline looking _(9)_, with bare gray mud and broken trees, but Sanjay saw a chance to start again. Each sapling received a small _(10)_ \u2014 a little tag giving its species name and the date it was planted. Over time, the government agreed to _(11)_ the village extra funds to expand the mangrove planting to the northern shore as well. The town's greatest _(12)_ was not a sporting rival \u2014 it was the rising sea itself, and the mangroves were finally winning.",
     "blanks": [
       {
         "blankNumber": 1,
@@ -340,14 +340,14 @@
           "monsoon",
           "defeat",
           "coaxing",
-          "intent"
+          "hesitate"
         ]
       },
       {
         "blankNumber": 3,
-        "correctAnswer": "intent",
+        "correctAnswer": "hesitate",
         "options": [
-          "intent",
+          "hesitate",
           "phase",
           "catalog",
           "grant"
@@ -360,7 +360,7 @@
           "tone",
           "phase",
           "method",
-          "disturb"
+          "dismal"
         ]
       },
       {
@@ -380,7 +380,7 @@
           "method",
           "tone",
           "coaxing",
-          "disturb"
+          "dismal"
         ]
       },
       {
@@ -400,15 +400,15 @@
           "replace",
           "label",
           "phase",
-          "disturb"
+          "dismal"
         ]
       },
       {
         "blankNumber": 9,
-        "correctAnswer": "disturb",
+        "correctAnswer": "dismal",
         "options": [
-          "disturb",
-          "intent",
+          "dismal",
+          "hesitate",
           "method",
           "grant"
         ]
@@ -429,7 +429,7 @@
         "options": [
           "grant",
           "method",
-          "disturb",
+          "dismal",
           "catalog"
         ]
       },
@@ -438,7 +438,7 @@
         "correctAnswer": "defeat",
         "options": [
           "defeat",
-          "disturb",
+          "dismal",
           "tone",
           "catalog"
         ]
@@ -519,15 +519,15 @@
         "imposterWord": "disarray"
       },
       {
-        "vocabWord": "disturb",
+        "vocabWord": "dismal",
         "words": [
-          "calm",
-          "bother",
-          "interrupt",
-          "upset"
+          "bleak",
+          "sad",
+          "dreary",
+          "cheerful"
         ],
-        "imposterIndex": 0,
-        "imposterWord": "calm"
+        "imposterIndex": 3,
+        "imposterWord": "cheerful"
       },
       {
         "vocabWord": "label",
@@ -552,15 +552,15 @@
         "imposterWord": "drought"
       },
       {
-        "vocabWord": "intent",
+        "vocabWord": "hesitate",
         "words": [
-          "purpose",
-          "aim",
-          "goal",
-          "accident"
+          "pause",
+          "wait",
+          "delay",
+          "rush"
         ],
         "imposterIndex": 3,
-        "imposterWord": "accident"
+        "imposterWord": "rush"
       },
       {
         "vocabWord": "coaxing",

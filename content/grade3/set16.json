@@ -3,13 +3,13 @@
   "setNumber": 16,
   "words": [
     "diagram",
-    "vibrant",
+    "ominous",
     "description",
     "incredible",
     "logic",
     "persist",
     "positive",
-    "precious",
+    "immense",
     "numerous",
     "tangled",
     "cable",
@@ -33,11 +33,11 @@
     "parts": [
       {
         "title": "Something Strange",
-        "text": "It started when Isha spotted a **diagram** pinned inside the library's back door \u2014 a labeled drawing of hidden rooms beneath the school that no one had ever mentioned. The **description** scrawled beside it was detailed and strange, mentioning a locked door behind the oldest bookshelf. The ink was still **vibrant**, bright and unfaded, as if it had been drawn very recently."
+        "text": "It started when Isha spotted a **diagram** pinned inside the library's back door \u2014 a labeled drawing of hidden rooms beneath the school that no one had ever mentioned. The **description** scrawled beside it was detailed and strange, mentioning a locked door behind the oldest bookshelf. The ink was dark and **ominous**, yet unfaded, as if it had been drawn very recently."
       },
       {
         "title": "The Investigation",
-        "text": "An **incredible** storm rattled the school windows that night, but Isha was too curious to sleep. She used **logic** to rule out a prank: the diagram was too accurate, too precise. She decided to **persist** in her search no matter what. She needed to convince Aarav to help, and Lakshmi was **positive** he would agree \u2014 three detectives were better than two, especially when the mystery involved something this **precious**."
+        "text": "An **incredible** storm rattled the school windows that night, but Isha was too curious to sleep. She used **logic** to rule out a prank: the diagram was too accurate, too precise. She decided to **persist** in her search no matter what. She needed to convince Aarav to help, and Lakshmi was **positive** he would agree \u2014 three detectives were better than two, especially when the mystery was this **immense**."
       },
       {
         "title": "The Hidden Clue",
@@ -60,11 +60,11 @@
       "sentence": ""
     },
     {
-      "word": "vibrant",
+      "word": "ominous",
       "partOfSpeech": "adjective",
-      "meaning1": "Full of energy and life; bright and colorful. Example: The vibrant flowers brightened the garden.",
+      "meaning1": "Giving a feeling that something bad is about to happen. Example: The ominous black clouds warned of a coming storm.",
       "meaning2": "",
-      "studentChallenge": "The market was ___ with colors and sounds.",
+      "studentChallenge": "A ___ silence filled the cave, as though something dangerous was hiding inside.",
       "sentence": ""
     },
     {
@@ -108,11 +108,11 @@
       "sentence": ""
     },
     {
-      "word": "precious",
+      "word": "immense",
       "partOfSpeech": "adjective",
-      "meaning1": "Very valuable or dear to someone. Example: The necklace was made of precious stones.",
+      "meaning1": "Extremely large; huge. Example: The immense whale was longer than a school bus.",
       "meaning2": "",
-      "studentChallenge": "Time is the most ___ gift you can give someone.",
+      "studentChallenge": "The ___ mountain stretched higher than the clouds.",
       "sentence": ""
     },
     {
@@ -164,16 +164,16 @@
     },
     {
       "questionNumber": 2,
-      "sentence1": "The ___ flowers \u2014 blazing red, electric yellow, and deep purple \u2014 brightened the whole garden.",
-      "sentence2": "The market was ___ with color and noise, bursting with life from every direction.",
+      "sentence1": "Dark clouds gathered over the hills, giving the sky an _______ look that warned of trouble ahead.",
+      "sentence2": "The creaking door and flickering lights gave the house an _______ feeling, like a warning of bad things to come.",
       "options": [
         "incredible",
         "description",
         "diagram",
-        "vibrant"
+        "ominous"
       ],
       "correctIndex": 3,
-      "correctAnswer": "vibrant"
+      "correctAnswer": "ominous"
     },
     {
       "questionNumber": 3,
@@ -221,7 +221,7 @@
       "options": [
         "diagram",
         "description",
-        "precious",
+        "immense",
         "persist"
       ],
       "correctIndex": 3,
@@ -233,7 +233,7 @@
       "sentence2": "Keeping a ___ attitude helped the team stay hopeful and motivated even when they were losing.",
       "options": [
         "tangled",
-        "vibrant",
+        "ominous",
         "positive",
         "cable"
       ],
@@ -242,16 +242,16 @@
     },
     {
       "questionNumber": 8,
-      "sentence1": "The necklace was crafted from ___ stones \u2014 diamonds and rubies that were worth a small fortune.",
-      "sentence2": "Time is the most ___ gift you can give someone, because once it is gone, it cannot be returned.",
+      "sentence1": "The _______ elephant towered over the trees, bigger than any animal the children had ever seen.",
+      "sentence2": "The _______ canyon was so wide that the far side looked like a thin line in the distance.",
       "options": [
         "numerous",
         "solve",
-        "precious",
+        "immense",
         "persist"
       ],
       "correctIndex": 2,
-      "correctAnswer": "precious"
+      "correctAnswer": "immense"
     },
     {
       "questionNumber": 9,
@@ -261,7 +261,7 @@
         "tangled",
         "numerous",
         "cable",
-        "vibrant"
+        "ominous"
       ],
       "correctIndex": 1,
       "correctAnswer": "numerous"
@@ -271,7 +271,7 @@
       "sentence1": "Her long hair got ___ in the wind, knotted and twisted, and it took ten minutes to brush it out.",
       "sentence2": "The fishing line got ___ around the rocks, twisted into a hopeless knot at the bottom of the creek.",
       "options": [
-        "precious",
+        "immense",
         "numerous",
         "incredible",
         "tangled"
@@ -299,7 +299,7 @@
       "options": [
         "logic",
         "solve",
-        "precious",
+        "immense",
         "diagram"
       ],
       "correctIndex": 1,
@@ -310,36 +310,36 @@
     "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
     "wordBank": [
       "diagram",
-      "vibrant",
+      "ominous",
       "description",
       "incredible",
       "logic",
       "persist",
       "positive",
-      "precious",
+      "immense",
       "numerous",
       "tangled",
       "cable",
       "solve"
     ],
-    "passage": "Isha stared at the old _(1)_ pinned to the library wall \u2014 a drawing with labeled arrows showing every hidden room in the school building. The paper was _(2)_, covered in bright colors and bold ink that had not faded at all. Beside it, someone had written a _(3)_ of a secret door \u2014 a detailed account mentioning a loose brick and a rusted handle. The discovery was _(4)_, almost too amazing to believe. To find the door, Isha would need to use _(5)_, thinking carefully and ruling out the wrong paths one by one. She decided to _(6)_ in her search, refusing to quit even when the hallways led to dead ends. Aarav stayed _(7)_, encouraging her and insisting they would succeed. The old door, when they finally found it, was sealed shut with a _(8)_ lock \u2014 a thick iron wire twisted around the handle like a rope. The handle itself was wrapped in a _(9)_ knot, messy and nearly impossible to undo. Behind the door were _(10)_ shelves stacked with boxes, so many that they filled the entire room. Inside the first box lay a _(11)_ pocket watch that had belonged to the school's first principal \u2014 a treasure far too valuable to ignore. \"We are going to _(12)_ this mystery before the day is over,\" Isha whispered, her eyes shining.",
+    "passage": "Isha stared at the old _(1)_ pinned to the library wall \u2014 a drawing with labeled arrows showing every hidden room in the school building. The paper looked _(2)_, covered in dark, heavy ink that seemed to warn of trouble to come. Beside it, someone had written a _(3)_ of a secret door \u2014 a detailed account mentioning a loose brick and a rusted handle. The discovery was _(4)_, almost too amazing to believe. To find the door, Isha would need to use _(5)_, thinking carefully and ruling out the wrong paths one by one. She decided to _(6)_ in her search, refusing to quit even when the hallways led to dead ends. Aarav stayed _(7)_, encouraging her and insisting they would succeed. The old door, when they finally found it, was sealed shut with a _(8)_ lock \u2014 a thick iron wire twisted around the handle like a rope. The handle itself was wrapped in a _(9)_ knot, messy and nearly impossible to undo. Behind the door were _(10)_ shelves stacked with boxes, so many that they filled the entire room. Inside the first box lay _(11)_ heaps of letters and photographs, so huge that they spilled over the sides. \"We are going to _(12)_ this mystery before the day is over,\" Isha whispered, her eyes shining.",
     "blanks": [
       {
         "blankNumber": 1,
         "correctAnswer": "diagram",
         "options": [
           "diagram",
-          "vibrant",
+          "ominous",
           "numerous",
-          "precious"
+          "immense"
         ]
       },
       {
         "blankNumber": 2,
-        "correctAnswer": "vibrant",
+        "correctAnswer": "ominous",
         "options": [
-          "vibrant",
-          "precious",
+          "ominous",
+          "immense",
           "tangled",
           "numerous"
         ]
@@ -350,7 +350,7 @@
         "options": [
           "description",
           "numerous",
-          "vibrant",
+          "ominous",
           "cable"
         ]
       },
@@ -369,7 +369,7 @@
         "correctAnswer": "logic",
         "options": [
           "logic",
-          "vibrant",
+          "ominous",
           "description",
           "persist"
         ]
@@ -390,7 +390,7 @@
         "options": [
           "positive",
           "persist",
-          "precious",
+          "immense",
           "tangled"
         ]
       },
@@ -409,7 +409,7 @@
         "correctAnswer": "tangled",
         "options": [
           "tangled",
-          "vibrant",
+          "ominous",
           "numerous",
           "incredible"
         ]
@@ -421,17 +421,17 @@
           "numerous",
           "cable",
           "positive",
-          "vibrant"
+          "ominous"
         ]
       },
       {
         "blankNumber": 11,
-        "correctAnswer": "precious",
+        "correctAnswer": "immense",
         "options": [
-          "precious",
+          "immense",
           "positive",
-          "incredible",
-          "diagram"
+          "diagram",
+          "persist"
         ]
       },
       {
@@ -441,7 +441,7 @@
           "solve",
           "positive",
           "persist",
-          "precious"
+          "immense"
         ]
       }
     ]
@@ -458,11 +458,11 @@
         "vocabPosition": 1
       },
       {
-        "vocabWord": "vibrant",
+        "vocabWord": "ominous",
         "scale": [
-          "bright",
-          "vibrant",
-          "vivid"
+          "gloomy",
+          "ominous",
+          "threatening"
         ],
         "vocabPosition": 1
       },
@@ -520,15 +520,15 @@
         "imposterWord": "negative"
       },
       {
-        "vocabWord": "precious",
+        "vocabWord": "immense",
         "words": [
-          "worthless",
-          "valuable",
-          "special",
-          "dear"
+          "huge",
+          "tiny",
+          "vast",
+          "enormous"
         ],
-        "imposterIndex": 0,
-        "imposterWord": "worthless"
+        "imposterIndex": 1,
+        "imposterWord": "tiny"
       },
       {
         "vocabWord": "numerous",

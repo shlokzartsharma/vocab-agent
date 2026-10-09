@@ -2,11 +2,11 @@
   "grade": 3,
   "setNumber": 35,
   "words": [
-    "swift",
+    "scarce",
     "fund",
-    "solid",
+    "ample",
     "establish",
-    "remote",
+    "grimy",
     "attitude",
     "bold",
     "ripple",
@@ -35,11 +35,11 @@
     "parts": [
       {
         "title": "The Assignment",
-        "text": "Agent Luna received the message at exactly midnight. She had to be **swift** \u2014 there was no time to waste. Her handler Liam confirmed that the mission **fund** had been approved, meaning she had everything she needed. Her training was **solid**, and no one else in the agency could handle this kind of assignment."
+        "text": "Agent Luna received the message at exactly midnight. She had to hurry, because time was **scarce** and none of it could be wasted. Her handler Liam confirmed that the mission **fund** had been approved, meaning she had everything she needed. She had **ample** training, and no one else in the agency could handle this kind of assignment."
       },
       {
         "title": "Into Danger",
-        "text": "The warehouse was in a **remote** part of the city, far from any road with streetlights. Luna moved with a calm **attitude** \u2014 cool and focused, betraying nothing. She preferred to use a small electronic **device** to scan for motion sensors before moving into any new space. A single wrong step could send a **ripple** of alerts through the entire security system. She needed to be **bold** but not reckless."
+        "text": "The warehouse was in a **grimy** part of the city, with soot-streaked walls and broken streetlights. Luna moved with a calm **attitude** \u2014 cool and focused, betraying nothing. She preferred to use a small electronic **device** to scan for motion sensors before moving into any new space. A single wrong step could send a **ripple** of alerts through the entire security system. She needed to be **bold** but not reckless, even though her heartbeat was **rapid**."
       },
       {
         "title": "The Vault",
@@ -47,18 +47,18 @@
       },
       {
         "title": "Mission Complete",
-        "text": "Agent Luna escaped just as the sun rose. The documents revealed a network of stolen art worth millions. Liam met her at the safe house, and his usually **rapid** speech slowed to something almost gentle. \"Outstanding work,\" he said. \"You've just solved a case that's been open for fifteen years.\" Luna allowed herself a small smile. Another mission complete \u2014 but she knew the next one was already waiting."
+        "text": "Agent Luna escaped just as the sun rose. The documents revealed a network of stolen art worth millions. Liam met her at the safe house, and his usually rapid speech slowed to something almost gentle. \"Outstanding work,\" he said. \"You've just solved a case that's been open for fifteen years.\" Luna allowed herself a small smile. Another mission complete \u2014 but she knew the next one was already waiting."
       }
     ],
-    "wordCount": 258
+    "wordCount": 270
   },
   "definitions": [
     {
-      "word": "swift",
+      "word": "scarce",
       "partOfSpeech": "adjective",
-      "meaning1": "Moving very fast. Example: The swift cheetah caught its prey.",
+      "meaning1": "Hard to find; not enough of something. Example: Water is scarce in the desert.",
       "meaning2": "",
-      "studentChallenge": "The river had a ___ current after the rain.",
+      "studentChallenge": "Food was ___ during the long, cold winter.",
       "sentence": ""
     },
     {
@@ -70,11 +70,11 @@
       "sentence": ""
     },
     {
-      "word": "solid",
+      "word": "ample",
       "partOfSpeech": "adjective",
-      "meaning1": "Hard and firm; not liquid or gas. Example: Ice is the solid form of water.",
-      "meaning2": "Strong and reliable. Example: She built a solid friendship.",
-      "studentChallenge": "The bridge is made of ___ stone.",
+      "meaning1": "More than enough; plenty. Example: We had ample time to finish the project before the bell.",
+      "meaning2": "",
+      "studentChallenge": "There was ___ room in the car for all our bags.",
       "sentence": ""
     },
     {
@@ -86,11 +86,11 @@
       "sentence": ""
     },
     {
-      "word": "remote",
+      "word": "grimy",
       "partOfSpeech": "adjective",
-      "meaning1": "Far away from other places. Example: The village was in a remote area of the mountains.",
+      "meaning1": "Covered with dirt or dust. Example: His hands were grimy after he fixed the bicycle chain.",
       "meaning2": "",
-      "studentChallenge": "The ___ island had no roads or electricity.",
+      "studentChallenge": "The ___ windows of the old shed were hard to see through.",
       "sentence": ""
     },
     {
@@ -153,16 +153,16 @@
   "doubleTakeQuiz": [
     {
       "questionNumber": 1,
-      "sentence1": "The ___ cheetah sprinted across the plains and caught its prey in seconds.",
-      "sentence2": "The river had a ___ current after the heavy rain, moving faster than we could swim.",
+      "sentence1": "Fresh water is ___ in the desert, so travelers carry all they can.",
+      "sentence2": "Food was ___ during the long winter, so the animals searched for days.",
       "options": [
         "hump",
-        "swift",
+        "scarce",
         "prefer",
         "establish"
       ],
       "correctIndex": 1,
-      "correctAnswer": "swift"
+      "correctAnswer": "scarce"
     },
     {
       "questionNumber": 2,
@@ -172,23 +172,23 @@
         "fund",
         "rapid",
         "prefer",
-        "swift"
+        "scarce"
       ],
       "correctIndex": 0,
       "correctAnswer": "fund"
     },
     {
       "questionNumber": 3,
-      "sentence1": "Ice is the ___ form of water \u2014 hard and firm, not flowing at all.",
-      "sentence2": "The bridge is made of ___ stone that has held firm for two hundred years.",
+      "sentence1": "We packed ___ food for the trip, with plenty left over when we got home.",
+      "sentence2": "The big closet has ___ room for all of our coats and boots.",
       "options": [
-        "solid",
+        "ample",
         "device",
-        "remote",
+        "grimy",
         "rapid"
       ],
       "correctIndex": 0,
-      "correctAnswer": "solid"
+      "correctAnswer": "ample"
     },
     {
       "questionNumber": 4,
@@ -205,16 +205,16 @@
     },
     {
       "questionNumber": 5,
-      "sentence1": "The village was in a ___ area of the mountains, far from any town or road.",
-      "sentence2": "The ___ island had no roads or electricity \u2014 only jungle and birdsong.",
+      "sentence1": "After playing in the mud, his hands and face were ___ and needed a good scrub.",
+      "sentence2": "The ___ windows of the old shed were covered in dust and soot.",
       "options": [
         "rapid",
         "device",
-        "remote",
-        "solid"
+        "grimy",
+        "ample"
       ],
       "correctIndex": 2,
-      "correctAnswer": "remote"
+      "correctAnswer": "grimy"
     },
     {
       "questionNumber": 6,
@@ -222,7 +222,7 @@
       "sentence2": "Her cheerful ___ made everyone around her feel happy and welcome.",
       "options": [
         "rapid",
-        "remote",
+        "grimy",
         "attitude",
         "establish"
       ],
@@ -235,8 +235,8 @@
       "sentence2": "It was ___ of her to speak up in front of the entire assembly.",
       "options": [
         "bold",
-        "remote",
-        "solid",
+        "grimy",
+        "ample",
         "ripple"
       ],
       "correctIndex": 0,
@@ -287,7 +287,7 @@
       "sentence2": "The car bounced when we drove over the speed ___ in the school parking lot.",
       "options": [
         "device",
-        "swift",
+        "scarce",
         "hump",
         "attitude"
       ],
@@ -311,11 +311,11 @@
   "secretPassage": {
     "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
     "wordBank": [
-      "swift",
+      "scarce",
       "fund",
-      "solid",
+      "ample",
       "establish",
-      "remote",
+      "grimy",
       "attitude",
       "bold",
       "ripple",
@@ -324,14 +324,14 @@
       "hump",
       "rapid"
     ],
-    "passage": "Agent Luna tracked a stolen painting to a _(1)_ village \u2014 a tiny, faraway place with no roads and no phone signal. She crossed a _(2)_ in the path \u2014 a rounded rise in the ground \u2014 and crouched behind a wall. She used a small electronic _(3)_ \u2014 a gadget no bigger than her thumb \u2014 to scan for hidden cameras. Her movements were _(4)_, fast and quiet, leaving no trace behind. She needed to _(5)_ her cover story first, setting it up before anyone could question her. The village had used a community _(6)_ \u2014 money saved together by the residents \u2014 to build a gallery that housed local art. Luna's _(7)_ was calm and confident, showing nothing of the danger she felt inside. The evidence sat on a _(8)_ stone shelf, hard and firm, impossible to move without the right tools. A single wrong step could send a _(9)_ across the still water in the courtyard, alerting the guards. She would _(10)_ stealth over speed, choosing silence rather than rushing. She made a _(11)_ move \u2014 brave and daring \u2014 and opened the vault door without a sound. The _(12)_ pace of her heartbeat slowed as the painting came into view, exactly where the tip-off said it would be.",
+    "passage": "Agent Luna tracked a stolen painting to a _(1)_ old workshop \u2014 a dirty place with walls black with soot and grease. She crossed a _(2)_ in the path \u2014 a rounded rise in the ground \u2014 and crouched behind a wall. She used a small electronic _(3)_ \u2014 a gadget no bigger than her thumb \u2014 to scan for hidden cameras. Safe hiding spots were _(4)_ in the yard \u2014 there were hardly any \u2014 so she moved quietly and left no trace behind. She needed to _(5)_ her cover story first, setting it up before anyone could question her. The village had used a community _(6)_ \u2014 money saved together by the residents \u2014 to build a gallery that housed local art. Luna's _(7)_ was calm and confident, showing nothing of the danger she felt inside. The vault had _(8)_ room for every stolen frame \u2014 more than enough space, with shelves to spare. A single wrong step could send a _(9)_ across the still water in the courtyard, alerting the guards. She would _(10)_ stealth over speed, choosing silence rather than rushing. She made a _(11)_ move \u2014 brave and daring \u2014 and opened the vault door without a sound. The _(12)_ pace of her heartbeat slowed as the painting came into view, exactly where the tip-off said it would be.",
     "blanks": [
       {
         "blankNumber": 1,
-        "correctAnswer": "remote",
+        "correctAnswer": "grimy",
         "options": [
-          "remote",
-          "solid",
+          "grimy",
+          "ample",
           "bold",
           "rapid"
         ]
@@ -358,11 +358,11 @@
       },
       {
         "blankNumber": 4,
-        "correctAnswer": "swift",
+        "correctAnswer": "scarce",
         "options": [
-          "swift",
+          "scarce",
           "bold",
-          "solid",
+          "ample",
           "rapid"
         ]
       },
@@ -398,11 +398,11 @@
       },
       {
         "blankNumber": 8,
-        "correctAnswer": "solid",
+        "correctAnswer": "ample",
         "options": [
-          "solid",
-          "remote",
-          "swift",
+          "ample",
+          "grimy",
+          "scarce",
           "bold"
         ]
       },
@@ -431,9 +431,9 @@
         "correctAnswer": "bold",
         "options": [
           "bold",
-          "swift",
+          "scarce",
           "rapid",
-          "solid"
+          "ample"
         ]
       },
       {
@@ -441,9 +441,9 @@
         "correctAnswer": "rapid",
         "options": [
           "rapid",
-          "swift",
+          "scarce",
           "bold",
-          "remote"
+          "grimy"
         ]
       }
     ]
@@ -451,11 +451,11 @@
   "wordScaleImposter": {
     "wordScales": [
       {
-        "vocabWord": "swift",
+        "vocabWord": "scarce",
         "scale": [
-          "quick",
-          "swift",
-          "speedy"
+          "limited",
+          "scarce",
+          "rare"
         ],
         "vocabPosition": 1
       },
@@ -469,11 +469,11 @@
         "vocabPosition": 1
       },
       {
-        "vocabWord": "solid",
+        "vocabWord": "ample",
         "scale": [
-          "firm",
-          "solid",
-          "sturdy"
+          "enough",
+          "ample",
+          "generous"
         ],
         "vocabPosition": 1
       },
@@ -489,15 +489,15 @@
     ],
     "imposterHunt": [
       {
-        "vocabWord": "remote",
+        "vocabWord": "grimy",
         "words": [
-          "distant",
-          "near",
-          "far",
-          "isolated"
+          "dirty",
+          "filthy",
+          "spotless",
+          "muddy"
         ],
-        "imposterIndex": 1,
-        "imposterWord": "near"
+        "imposterIndex": 2,
+        "imposterWord": "spotless"
       },
       {
         "vocabWord": "attitude",

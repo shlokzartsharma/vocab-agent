@@ -11,7 +11,7 @@
     "rudder",
     "diminutive",
     "portion",
-    "ambition",
+    "quarrel",
     "publish",
     "ordinary"
   ],
@@ -36,7 +36,7 @@
     "parts": [
       {
         "title": "An Ordinary Beginning",
-        "text": "Nikhil grew up in an **ordinary** town where nothing remarkable seemed to happen. She was a quiet child with one enormous **ambition**: to write a book that children everywhere would read. She spent a **portion** of every evening writing in her notebook, building her story sentence by sentence."
+        "text": "Nikhil grew up in an **ordinary** town where nothing remarkable seemed to happen, apart from the occasional **quarrel** between neighbors over a fence. She was a quiet child with one enormous dream: to write a book that children everywhere would read. She spent a **portion** of every evening writing in her notebook, building her story sentence by sentence."
       },
       {
         "title": "Finding Her Voice",
@@ -44,14 +44,14 @@
       },
       {
         "title": "The Big Break",
-        "text": "Nikhil sent her manuscript to twelve publishers. The story came from a small **region** of her imagination she had never shown anyone before. Finally, one publisher agreed to **publish** it. The **media** arrived at her school the day the book launched \u2014 cameras, reporters, and microphones filling the front hall. Lakshmi, her teacher, stood beside her like a **rudder**, steady and guiding, as Nikhil answered question after question."
+        "text": "Nikhil sent her manuscript to twelve publishers. The story came from a small **region** of her imagination she had never shown anyone before. Finally, one publisher agreed to **publish** it. The **media** arrived at her school the day the book launched \u2014 cameras, reporters, and microphones filling the front hall. Lakshmi, her teacher, stood beside her like a **rudder**, steady and guiding, as Nikhil answered question after question. At the podium she was **diminutive** in size but enormous in presence, her voice clear and strong, and the audience was so moved that they demanded an **encore** \u2014 Nikhil read a second chapter aloud to a room that had gone completely still."
       },
       {
         "title": "A Greener Future",
-        "text": "The book sold quickly, and the audience at the launch was so moved that they demanded an **encore** \u2014 Nikhil read a second chapter aloud to a room that had gone completely still. She was **diminutive** in size but enormous in presence, standing at the podium with her voice clear and strong. Meera told the newspapers, \"Nikhil showed us that one person with a good idea and the courage to share it can change everything.\" The book went on to be read in schools across the country."
+        "text": "The book sold quickly and went on to be read in schools across the country. Meera told the newspapers, \"Nikhil showed us that one person with a good idea and the courage to share it can change everything.\""
       }
     ],
-    "wordCount": 265
+    "wordCount": 291
   },
   "definitions": [
     {
@@ -127,11 +127,11 @@
       "sentence": ""
     },
     {
-      "word": "ambition",
-      "partOfSpeech": "noun",
-      "meaning1": "A strong desire to achieve something. Example: Her ambition is to become an astronaut.",
+      "word": "quarrel",
+      "partOfSpeech": "noun, verb",
+      "meaning1": "An angry argument. Example: The neighbors had a loud quarrel over the fence.",
       "meaning2": "",
-      "studentChallenge": "With hard work and ___, you can achieve your goals.",
+      "studentChallenge": "A silly ___ over the last slice of pizza ended in laughter.",
       "sentence": ""
     },
     {
@@ -199,7 +199,7 @@
         "volunteer",
         "publish",
         "ridge",
-        "ambition"
+        "quarrel"
       ],
       "correctIndex": 0,
       "correctAnswer": "volunteer"
@@ -271,16 +271,16 @@
     },
     {
       "questionNumber": 10,
-      "sentence1": "Her ___ \u2014 her powerful, burning desire \u2014 was to become the first astronaut from her small hometown.",
-      "sentence2": "With hard work and ___, you can turn even the most distant dream into something real.",
+      "sentence1": "The two neighbors had a loud ___ over whose tree had dropped leaves in the yard.",
+      "sentence2": "A silly ___ over the last slice of pizza ended with both brothers laughing.",
       "options": [
-        "ambition",
+        "quarrel",
         "region",
         "ordinary",
         "ridge"
       ],
       "correctIndex": 0,
-      "correctAnswer": "ambition"
+      "correctAnswer": "quarrel"
     },
     {
       "questionNumber": 11,
@@ -321,17 +321,17 @@
       "rudder",
       "diminutive",
       "portion",
-      "ambition",
+      "quarrel",
       "publish",
       "ordinary"
     ],
-    "passage": "Twelve-year-old Priya had one great _(1)_ \u2014 a burning desire to write a book that would be read by children all over the world. She did not come from a famous family or a wealthy _(2)_ of the country; she grew up in a perfectly _(3)_ town where nothing unusual ever seemed to happen. Every day after school, she would _(4)_ at the community library, helping shelve books and read stories to younger children without being paid a single coin. She began writing her story in a _(5)_ notebook so small it fit inside her coat pocket. The plot had a strong _(6)_ \u2014 a clear connection \u2014 between a lonely girl and a magical forest that seemed to mirror the girl's own feelings. Scientists in the book studied the mountain _(7)_, the long narrow peak that ran above the valley, and discovered something astonishing hidden beneath it. One day, reporters from every _(8)_ \u2014 newspapers, television channels, and websites \u2014 came to interview Priya's teacher about the school's writing programme. Her teacher mentioned Priya's story, and suddenly the whole country was listening. A publisher offered to _(9)_ the book immediately, agreeing to print and share it with readers everywhere. At the book launch, the crowd cheered so loudly that Priya had to give an _(10)_ \u2014 reading an extra chapter aloud because the audience simply would not let her stop. She used the _(11)_ \u2014 the steering piece \u2014 of her imagination to guide each new chapter in an exciting direction. She set aside a _(12)_ of every day for writing, protecting that quiet hour like a treasure, and it was that daily habit that turned her dream into a reality.",
+    "passage": "Twelve-year-old Priya wanted to write a book that would be read by children all over the world, but at home her two brothers had a loud _(1)_ \u2014 an angry argument \u2014 over almost everything. She did not come from a famous family or a wealthy _(2)_ of the country; she grew up in a perfectly _(3)_ town where nothing unusual ever seemed to happen. Every day after school, she would _(4)_ at the community library, helping shelve books and read stories to younger children without being paid a single coin. She began writing her story in a _(5)_ notebook so small it fit inside her coat pocket. The plot had a strong _(6)_ \u2014 a clear connection \u2014 between a lonely girl and a magical forest that seemed to mirror the girl's own feelings. Scientists in the book studied the mountain _(7)_, the long narrow peak that ran above the valley, and discovered something astonishing hidden beneath it. One day, reporters from every _(8)_ \u2014 newspapers, television channels, and websites \u2014 came to interview Priya's teacher about the school's writing programme. Her teacher mentioned Priya's story, and suddenly the whole country was listening. A publisher offered to _(9)_ the book immediately, agreeing to print and share it with readers everywhere. At the book launch, the crowd cheered so loudly that Priya had to give an _(10)_ \u2014 reading an extra chapter aloud because the audience simply would not let her stop. She used the _(11)_ \u2014 the steering piece \u2014 of her imagination to guide each new chapter in an exciting direction. She set aside a _(12)_ of every day for writing, protecting that quiet hour like a treasure, and it was that daily habit that turned her dream into a reality.",
     "blanks": [
       {
         "blankNumber": 1,
-        "correctAnswer": "ambition",
+        "correctAnswer": "quarrel",
         "options": [
-          "ambition",
+          "quarrel",
           "encore",
           "portion",
           "link"
@@ -374,7 +374,7 @@
           "diminutive",
           "ordinary",
           "portion",
-          "ambition"
+          "quarrel"
         ]
       },
       {
@@ -403,7 +403,7 @@
         "options": [
           "media",
           "encore",
-          "ambition",
+          "quarrel",
           "volunteer"
         ]
       },
@@ -423,7 +423,7 @@
         "options": [
           "encore",
           "media",
-          "ambition",
+          "quarrel",
           "publish"
         ]
       },
@@ -444,7 +444,7 @@
           "portion",
           "diminutive",
           "ordinary",
-          "ambition"
+          "quarrel"
         ]
       }
     ]
@@ -545,15 +545,15 @@
         "imposterWord": "whole"
       },
       {
-        "vocabWord": "ambition",
+        "vocabWord": "quarrel",
         "words": [
-          "laziness",
-          "drive",
-          "goal",
-          "determination"
+          "argument",
+          "dispute",
+          "agreement",
+          "spat"
         ],
-        "imposterIndex": 0,
-        "imposterWord": "laziness"
+        "imposterIndex": 2,
+        "imposterWord": "agreement"
       },
       {
         "vocabWord": "publish",

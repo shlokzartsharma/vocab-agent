@@ -2,17 +2,17 @@
   "grade": 3,
   "setNumber": 25,
   "words": [
-    "treasure",
+    "plentiful",
     "noble",
     "canvas",
     "stranded",
     "unusual",
-    "explore",
+    "hasty",
     "barber",
     "expert",
     "gleam",
     "resist",
-    "tradition",
+    "frugal",
     "advice"
   ],
   "sources": [
@@ -34,17 +34,17 @@
     "parts": [
       {
         "title": "The Village by the River",
-        "text": "Long ago, in a village nestled between green hills, there lived a young girl named Aarav. She was known for her **noble** heart \u2014 always honest and quick to help others. It was a village **tradition** to paint prayers on stretched **canvas** before the harvest, and Aarav's paintings were the most beautiful of all, made to **gleam** in the morning light with threads of gold.",
+        "text": "Long ago, in a village nestled between green hills, there lived a young girl named Aarav. She was known for her **noble** heart \u2014 always honest and quick to help others. The villagers were **frugal**, so each year they painted prayers on stretched **canvas** before the harvest instead of buying costly statues, and Aarav's paintings were the most beautiful of all, made to **gleam** in the morning light with threads of gold.",
         "wordCount": 64
       },
       {
         "title": "The Gathering Storm",
-        "text": "One afternoon, dark clouds rolled in and a terrible storm struck the village. Chloe, the village elder, said it was **unusual** \u2014 she had never seen rain so fierce in spring. The **barber** who lived by the river was **stranded** when the bridge washed away, unable to reach his family. Aarav could not **resist** helping; she began to **explore** the hillside for a safe path to guide him home.",
+        "text": "One afternoon, dark clouds rolled in and a terrible storm struck the village. Chloe, the village elder, said it was **unusual** \u2014 she had never seen rain so fierce in spring. The **barber** who lived by the river was **stranded** when the bridge washed away, unable to reach his family. Aarav could not **resist** helping; she began a **hasty** search of the hillside for a safe path to guide him home.",
         "wordCount": 70
       },
       {
         "title": "The Discovery",
-        "text": "On the hillside, Aarav found something remarkable \u2014 a hollow tree full of old coins that **gleam**ed even in the grey storm light. She called Yuki, an **expert** healer from the next village, who had come to help after the flood. Chloe gave Aarav her best **advice**: share the **treasure** with those whose homes had been destroyed.",
+        "text": "On the hillside, Aarav found something remarkable \u2014 a hollow tree full of old coins that shone even in the grey storm light. She called Yuki, an **expert** healer from the next village, who had come to help after the flood. Chloe gave Aarav her best **advice**: share the **plentiful** coins with those whose homes had been destroyed.",
         "wordCount": 59
       },
       {
@@ -53,15 +53,15 @@
         "wordCount": 87
       }
     ],
-    "wordCount": 280
+    "wordCount": 287
   },
   "definitions": [
     {
-      "word": "treasure",
-      "partOfSpeech": "noun, verb",
-      "meaning1": "Very valuable things, like gold or jewels. Example: The pirates buried their treasure on the island.",
-      "meaning2": "To value something greatly. Example: She treasured the necklace from her grandmother.",
-      "studentChallenge": "The old map showed where the ___ was hidden.",
+      "word": "plentiful",
+      "partOfSpeech": "adjective",
+      "meaning1": "Existing in large amounts; more than enough. Example: Apples were plentiful in the orchard this autumn.",
+      "meaning2": "",
+      "studentChallenge": "Berries were ___ in the forest, so the bears had plenty to eat.",
       "sentence": ""
     },
     {
@@ -97,11 +97,11 @@
       "sentence": ""
     },
     {
-      "word": "explore",
-      "partOfSpeech": "verb",
-      "meaning1": "To travel through an unfamiliar area to learn about it. Example: The astronauts explored the surface of the Moon.",
+      "word": "hasty",
+      "partOfSpeech": "adjective",
+      "meaning1": "Done too quickly, without enough thought or care. Example: He made a hasty choice and picked the wrong door.",
       "meaning2": "",
-      "studentChallenge": "We love to ___ the forest behind our house.",
+      "studentChallenge": "She sent a ___ reply without reading the question carefully.",
       "sentence": ""
     },
     {
@@ -125,7 +125,7 @@
       "partOfSpeech": "verb, noun",
       "meaning1": "To shine with a soft light. Example: The moonlight gleamed on the lake.",
       "meaning2": "",
-      "studentChallenge": "The gold coins ___ in the treasure chest.",
+      "studentChallenge": "The gold coins ___ in the old wooden chest.",
       "sentence": ""
     },
     {
@@ -137,11 +137,11 @@
       "sentence": ""
     },
     {
-      "word": "tradition",
-      "partOfSpeech": "noun",
-      "meaning1": "A custom or belief passed down through generations. Example: Decorating the tree is a holiday tradition.",
+      "word": "frugal",
+      "partOfSpeech": "adjective",
+      "meaning1": "Careful about spending money and not wasting things. Example: The frugal shopper waited for the sales before buying new shoes.",
       "meaning2": "",
-      "studentChallenge": "Our family ___ is to eat dinner together every Sunday.",
+      "studentChallenge": "Because she was ___, she packed her lunch every day instead of buying it.",
       "sentence": ""
     },
     {
@@ -156,16 +156,16 @@
   "doubleTakeQuiz": [
     {
       "questionNumber": 1,
-      "sentence1": "The pirates buried their ___ \u2014 gold coins and rubies \u2014 deep beneath the island sand.",
-      "sentence2": "The tattered old map showed exactly where the ___ chest had been hidden centuries ago.",
+      "sentence1": "Fish were ___ in the river that spring, and every net came up full.",
+      "sentence2": "The garden gave us such a ___ supply of tomatoes that we shared them with all of our neighbors.",
       "options": [
         "noble",
         "stranded",
         "gleam",
-        "treasure"
+        "plentiful"
       ],
       "correctIndex": 3,
-      "correctAnswer": "treasure"
+      "correctAnswer": "plentiful"
     },
     {
       "questionNumber": 2,
@@ -175,7 +175,7 @@
         "noble",
         "expert",
         "unusual",
-        "tradition"
+        "frugal"
       ],
       "correctIndex": 0,
       "correctAnswer": "noble"
@@ -186,7 +186,7 @@
       "sentence2": "She dipped her brush in blue paint and swept broad strokes across the ___ to create a calm sea.",
       "options": [
         "unusual",
-        "tradition",
+        "frugal",
         "canvas",
         "stranded"
       ],
@@ -201,7 +201,7 @@
         "barber",
         "noble",
         "stranded",
-        "tradition"
+        "frugal"
       ],
       "correctIndex": 2,
       "correctAnswer": "stranded"
@@ -221,23 +221,23 @@
     },
     {
       "questionNumber": 6,
-      "sentence1": "The astronauts ___ the surface of the Moon, collecting rock samples and studying the landscape.",
-      "sentence2": "We love to ___ the forest behind our house, discovering new trails and spotting wildlife.",
+      "sentence1": "Packing in a ___ rush, he forgot both his coat and his lunch.",
+      "sentence2": "It is unwise to make a ___ choice before you have thought about the problem.",
       "options": [
         "resist",
-        "explore",
+        "hasty",
         "advice",
         "gleam"
       ],
       "correctIndex": 1,
-      "correctAnswer": "explore"
+      "correctAnswer": "hasty"
     },
     {
       "questionNumber": 7,
       "sentence1": "The ___ trimmed my hair neatly and even gave me a clean part on the side for picture day.",
       "sentence2": "Every month, Dad takes my brother to the ___ on the corner for a fresh, tidy haircut.",
       "options": [
-        "explore",
+        "hasty",
         "barber",
         "stranded",
         "expert"
@@ -261,7 +261,7 @@
     {
       "questionNumber": 9,
       "sentence1": "The moonlight made the still surface of the lake ___ with a beautiful, silvery glow.",
-      "sentence2": "The polished gold coins began to ___ in the treasure chest as the lantern light hit them.",
+      "sentence2": "The polished gold coins began to ___ in the old wooden chest as the lantern light hit them.",
       "options": [
         "stranded",
         "gleam",
@@ -277,8 +277,8 @@
       "sentence2": "She tried hard to ___ the temptation to peek at her birthday presents before the party.",
       "options": [
         "resist",
-        "treasure",
-        "explore",
+        "plentiful",
+        "hasty",
         "barber"
       ],
       "correctIndex": 0,
@@ -286,16 +286,16 @@
     },
     {
       "questionNumber": 11,
-      "sentence1": "Decorating the tree together every December is our favorite holiday ___, passed down by our grandparents.",
-      "sentence2": "Our family ___ is to eat a big Sunday dinner together \u2014 it has happened every week for thirty years.",
+      "sentence1": "My grandfather is very ___; he saves every coin and never buys things he does not need.",
+      "sentence2": "The ___ family reused old jars instead of buying new ones, so they saved a lot of money.",
       "options": [
-        "tradition",
+        "frugal",
         "resist",
         "canvas",
         "stranded"
       ],
       "correctIndex": 0,
-      "correctAnswer": "tradition"
+      "correctAnswer": "frugal"
     },
     {
       "questionNumber": 12,
@@ -303,9 +303,9 @@
       "sentence2": "What ___ would you give to a new student on their very first day at school?",
       "options": [
         "canvas",
-        "explore",
+        "hasty",
         "advice",
-        "tradition"
+        "frugal"
       ],
       "correctIndex": 2,
       "correctAnswer": "advice"
@@ -314,28 +314,28 @@
   "secretPassage": {
     "instructions": "Read the passage below. Fill in each blank with the correct vocabulary word from the word bank.",
     "wordBank": [
-      "treasure",
+      "plentiful",
       "noble",
       "canvas",
       "stranded",
       "unusual",
-      "explore",
+      "hasty",
       "barber",
       "expert",
       "gleam",
       "resist",
-      "tradition",
+      "frugal",
       "advice"
     ],
-    "passage": "The village elder kept her greatest _(1)_ \u2014 a golden locket passed down for generations \u2014 hidden in an old clay jar. She was known as a _(2)_ woman, admired for her honesty, courage, and deep respect for others. The artist arrived in the village and set up a blank _(3)_ on her easel to paint the hills at sunrise. A young traveler who had lost her horse was _(4)_ on the road, unable to move on and with no way to get help. One morning, something truly _(5)_ happened \u2014 a snow-white deer stepped out of the forest, a sight no one in the village had ever seen before. Aarav asked the elder for permission to _(6)_ the caves beyond the river, to search and map their hidden tunnels. The village _(7)_ \u2014 who trimmed hair and beards for every man in town \u2014 had heard all the latest gossip by noon. The pottery-maker was an _(8)_ in her craft, the most skilled and knowledgeable in the entire region. The gold ornaments in the display case began to _(9)_ as the sunlight streamed through the window, glowing with a soft, warm shine. It was almost impossible to _(10)_ the smell of fresh bread from the bakery \u2014 she had to go inside. Giving gifts on the harvest festival was a _(11)_, handed down from grandparents to grandchildren for hundreds of years. The wisest elder gave her best _(12)_: listen more than you speak, and always think before you act.",
+    "passage": "The village elder kept a _(1)_ supply of rice in an old clay jar, enough to feed every family twice over. She was known as a _(2)_ woman, admired for her honesty, courage, and deep respect for others. The artist arrived in the village and set up a blank _(3)_ on her easel to paint the hills at sunrise. A young traveler who had lost her horse was _(4)_ on the road, unable to move on and with no way to get help. One morning, something truly _(5)_ happened \u2014 a snow-white deer stepped out of the forest, a sight no one in the village had ever seen before. Aarav made a _(6)_ decision to cross the rope bridge, without stopping to think about the danger. The village _(7)_ \u2014 who trimmed hair and beards for every man in town \u2014 had heard all the latest gossip by noon. The pottery-maker was an _(8)_ in her craft, the most skilled and knowledgeable in the entire region. The gold ornaments in the display case began to _(9)_ as the sunlight streamed through the window, glowing with a soft, warm shine. It was almost impossible to _(10)_ the smell of fresh bread from the bakery \u2014 she had to go inside. The villagers were _(11)_, saving every coin and mending old tools instead of buying new ones. The wisest elder gave her best _(12)_: listen more than you speak, and always think before you act.",
     "blanks": [
       {
         "blankNumber": 1,
-        "correctAnswer": "treasure",
+        "correctAnswer": "plentiful",
         "options": [
-          "treasure",
+          "plentiful",
           "canvas",
-          "tradition",
+          "frugal",
           "gleam"
         ]
       },
@@ -354,9 +354,9 @@
         "correctAnswer": "canvas",
         "options": [
           "canvas",
-          "tradition",
+          "frugal",
           "gleam",
-          "treasure"
+          "plentiful"
         ]
       },
       {
@@ -376,17 +376,17 @@
           "unusual",
           "gleam",
           "stranded",
-          "tradition"
+          "frugal"
         ]
       },
       {
         "blankNumber": 6,
-        "correctAnswer": "explore",
+        "correctAnswer": "hasty",
         "options": [
-          "explore",
-          "tradition",
+          "hasty",
+          "frugal",
           "resist",
-          "treasure"
+          "plentiful"
         ]
       },
       {
@@ -395,7 +395,7 @@
         "options": [
           "barber",
           "expert",
-          "treasure",
+          "plentiful",
           "noble"
         ]
       },
@@ -415,7 +415,7 @@
         "options": [
           "gleam",
           "resist",
-          "treasure",
+          "plentiful",
           "canvas"
         ]
       },
@@ -424,17 +424,17 @@
         "correctAnswer": "resist",
         "options": [
           "resist",
-          "explore",
+          "hasty",
           "canvas",
           "unusual"
         ]
       },
       {
         "blankNumber": 11,
-        "correctAnswer": "tradition",
+        "correctAnswer": "frugal",
         "options": [
-          "tradition",
-          "explore",
+          "frugal",
+          "hasty",
           "barber",
           "advice"
         ]
@@ -444,9 +444,9 @@
         "correctAnswer": "advice",
         "options": [
           "advice",
-          "treasure",
+          "plentiful",
           "barber",
-          "tradition"
+          "frugal"
         ]
       }
     ]
@@ -454,11 +454,11 @@
   "wordScaleImposter": {
     "wordScales": [
       {
-        "vocabWord": "treasure",
+        "vocabWord": "plentiful",
         "scale": [
-          "valuable",
-          "treasure",
-          "precious"
+          "enough",
+          "plentiful",
+          "overflowing"
         ],
         "vocabPosition": 1
       },
@@ -503,15 +503,15 @@
         "imposterWord": "usual"
       },
       {
-        "vocabWord": "explore",
+        "vocabWord": "hasty",
         "words": [
-          "investigate",
-          "search",
-          "ignore",
-          "discover"
+          "rushed",
+          "quick",
+          "hurried",
+          "careful"
         ],
-        "imposterIndex": 2,
-        "imposterWord": "ignore"
+        "imposterIndex": 3,
+        "imposterWord": "careful"
       },
       {
         "vocabWord": "barber",
@@ -558,15 +558,15 @@
         "imposterWord": "surrender"
       },
       {
-        "vocabWord": "tradition",
+        "vocabWord": "frugal",
         "words": [
-          "custom",
-          "practice",
-          "heritage",
-          "innovation"
+          "thrifty",
+          "careful",
+          "economical",
+          "wasteful"
         ],
         "imposterIndex": 3,
-        "imposterWord": "innovation"
+        "imposterWord": "wasteful"
       },
       {
         "vocabWord": "advice",

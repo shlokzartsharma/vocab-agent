@@ -4,7 +4,7 @@
   "words": [
     "obscure",
     "govern",
-    "ability",
+    "bewilder",
     "pedlar",
     "permanent",
     "customs",
@@ -34,7 +34,7 @@
     "parts": [
       {
         "title": "The Curious Mind",
-        "text": "Aarav loved science more than anything. Her favorite **genre** of reading was popular science books \u2014 she owned a large **quantity** of them, stacked to the ceiling. Her teacher, Mr. Dev, said her **ability** to understand difficult concepts was remarkable \u2014 far beyond what most students her age could **grasp**. Even **obscure** experiments that other students found confusing became clear to Aarav within minutes.",
+        "text": "Aarav loved science more than anything. Her favorite **genre** of reading was popular science books \u2014 she owned a large **quantity** of them, stacked to the ceiling. Her teacher, Mr. Dev, said she easily understood difficult concepts that would **bewilder** most students her age. Even **obscure** experiments that other students found confusing became clear to Aarav within minutes.",
         "wordCount": 66
       },
       {
@@ -44,7 +44,7 @@
       },
       {
         "title": "The Breakthrough",
-        "text": "Using only candlelight, Aarav set up her crystal-growing experiment \u2014 the same **obscure** technique she had read about in a library book no one else had checked out. The results were **permanent**: once the crystals formed on the dish, they could not be dissolved. A visiting **pedlar** selling science kits happened to wander in and was so impressed he offered to stock her design. \"These crystals **chirp** with color in the light,\" Arnav whispered.",
+        "text": "Using only candlelight, Aarav set up her crystal-growing experiment \u2014 the same little-known technique she had read about in a library book no one else had checked out. The results were **permanent**: once the crystals formed on the dish, they could not be dissolved. A visiting **pedlar** selling science kits happened to wander in and was so impressed he offered to stock her design. \"These crystals **chirp** with color in the light,\" Arnav whispered.",
         "wordCount": 76
       },
       {
@@ -53,7 +53,7 @@
         "wordCount": 62
       }
     ],
-    "wordCount": 272
+    "wordCount": 259
   },
   "definitions": [
     {
@@ -73,11 +73,11 @@
       "sentence": ""
     },
     {
-      "word": "ability",
-      "partOfSpeech": "noun",
-      "meaning1": "The power or skill to do something. Example: She has the ability to solve difficult math problems.",
+      "word": "bewilder",
+      "partOfSpeech": "verb",
+      "meaning1": "To confuse someone so much that they cannot think clearly. Example: The twisting maze of tunnels began to bewilder the new visitors.",
       "meaning2": "",
-      "studentChallenge": "His ___ to play the piano amazed everyone.",
+      "studentChallenge": "The complicated instructions for the board game seemed to ___ everyone at the table.",
       "sentence": ""
     },
     {
@@ -162,7 +162,7 @@
         "genre",
         "permanent",
         "obscure",
-        "ability"
+        "bewilder"
       ],
       "correctIndex": 2,
       "correctAnswer": "obscure"
@@ -182,16 +182,16 @@
     },
     {
       "questionNumber": 3,
-      "sentence1": "She has a natural ___ to solve difficult math problems that most students find impossible.",
-      "sentence2": "His ___ to play the piano with perfect timing amazed everyone who heard him perform.",
+      "sentence1": "The confusing maze of hallways would ___ any new student, leaving her lost and puzzled.",
+      "sentence2": "The riddle was so tricky that it began to ___ even the smartest students, who scratched their heads in confusion.",
       "options": [
         "inform",
         "quantity",
-        "ability",
+        "bewilder",
         "chirp"
       ],
       "correctIndex": 2,
-      "correctAnswer": "ability"
+      "correctAnswer": "bewilder"
     },
     {
       "questionNumber": 4,
@@ -199,7 +199,7 @@
       "sentence2": "In the old story, a travelling ___ knocked on every cottage door in the village, selling pots and pans.",
       "options": [
         "inform",
-        "ability",
+        "bewilder",
         "pedlar",
         "chirp"
       ],
@@ -225,7 +225,7 @@
       "sentence2": "Different countries have their own holiday ___ \u2014 special ways of celebrating that make each culture unique.",
       "options": [
         "quantity",
-        "ability",
+        "bewilder",
         "genre",
         "customs"
       ],
@@ -263,7 +263,7 @@
       "sentence1": "The announcement that recess was canceled caused an ___ \u2014 shouts and protests filled the corridor.",
       "sentence2": "The crowd erupted into an ___ when the referee made a clearly unfair call at the end of the game.",
       "options": [
-        "ability",
+        "bewilder",
         "uproar",
         "genre",
         "customs"
@@ -276,7 +276,7 @@
       "sentence1": "The recipe calls for a tiny ___ of salt and a large ___ of flour \u2014 measure carefully.",
       "sentence2": "We ordered a large ___ of art supplies so that every student in the class would have plenty to work with.",
       "options": [
-        "ability",
+        "bewilder",
         "customs",
         "genre",
         "quantity"
@@ -290,7 +290,7 @@
       "sentence2": "Science fiction is a ___ of storytelling that features space travel, robots, and worlds of the future.",
       "options": [
         "genre",
-        "ability",
+        "bewilder",
         "customs",
         "permanent"
       ],
@@ -316,7 +316,7 @@
     "wordBank": [
       "obscure",
       "govern",
-      "ability",
+      "bewilder",
       "pedlar",
       "permanent",
       "customs",
@@ -327,7 +327,7 @@
       "genre",
       "chirp"
     ],
-    "passage": "The tiny island kingdom was so _(1)_ \u2014 so little-known and hidden away \u2014 that it did not appear on most maps. A council of five elders met each morning to _(2)_ the island, making all the laws and decisions that kept daily life running smoothly. The young girl had a remarkable _(3)_ for languages, picking up new words and phrases so easily that she seemed to learn a new tongue in days. A traveling _(4)_ arrived at the village square, pulling a cart piled high with ribbons, buttons, and handmade pots to sell. The carvings on the cliff were _(5)_ \u2014 etched so deeply into stone that not even the strongest storm could wash them away. The islanders had their own _(6)_ for greeting newcomers: they placed a garland of flowers around each visitor's neck and sang a welcome song. The council sent a messenger to _(7)_ the outer villages about the upcoming harvest festival so that everyone could prepare in time. Before the ceremony, each elder had to _(8)_ their sandals, placing them carefully outside the temple door before stepping inside. The announcement that fishing would be banned for a month caused an _(9)_ \u2014 shouts, protests, and arguments erupted from every corner of the market. The fishermen had brought in a record _(10)_ of fish \u2014 more than the village could eat in a month \u2014 and filled every basket to overflowing. Stories told around the evening fire belonged to a special _(11)_ of their own \u2014 part legend, part history, part dream. At dawn, the birds began to _(12)_ from the treetops, their quick bright calls filling the warm morning air.",
+    "passage": "The tiny island kingdom was so _(1)_ \u2014 so little-known and hidden away \u2014 that it did not appear on most maps. A council of five elders met each morning to _(2)_ the island, making all the laws and decisions that kept daily life running smoothly. The confusing grammar rules would _(3)_ most travelers, leaving them lost and puzzled, but the young girl picked up new words and phrases so easily that she seemed to learn a new tongue in days. A traveling _(4)_ arrived at the village square, pulling a cart piled high with ribbons, buttons, and handmade pots to sell. The carvings on the cliff were _(5)_ \u2014 etched so deeply into stone that not even the strongest storm could wash them away. The islanders had their own _(6)_ for greeting newcomers: they placed a garland of flowers around each visitor's neck and sang a welcome song. The council sent a messenger to _(7)_ the outer villages about the upcoming harvest festival so that everyone could prepare in time. Before the ceremony, each elder had to _(8)_ their sandals, placing them carefully outside the temple door before stepping inside. The announcement that fishing would be banned for a month caused an _(9)_ \u2014 shouts, protests, and arguments erupted from every corner of the market. The fishermen had brought in a record _(10)_ of fish \u2014 more than the village could eat in a month \u2014 and filled every basket to overflowing. Stories told around the evening fire belonged to a special _(11)_ of their own \u2014 part legend, part history, part dream. At dawn, the birds began to _(12)_ from the treetops, their quick bright calls filling the warm morning air.",
     "blanks": [
       {
         "blankNumber": 1,
@@ -351,9 +351,9 @@
       },
       {
         "blankNumber": 3,
-        "correctAnswer": "ability",
+        "correctAnswer": "bewilder",
         "options": [
-          "ability",
+          "bewilder",
           "obscure",
           "inform",
           "genre"
@@ -414,7 +414,7 @@
         "correctAnswer": "uproar",
         "options": [
           "uproar",
-          "ability",
+          "bewilder",
           "quantity",
           "chirp"
         ]
@@ -424,7 +424,7 @@
         "correctAnswer": "quantity",
         "options": [
           "quantity",
-          "ability",
+          "bewilder",
           "pedlar",
           "obscure"
         ]
@@ -472,11 +472,11 @@
         "vocabPosition": 1
       },
       {
-        "vocabWord": "ability",
+        "vocabWord": "bewilder",
         "scale": [
-          "knack",
-          "ability",
-          "talent"
+          "puzzle",
+          "bewilder",
+          "stun"
         ],
         "vocabPosition": 1
       },

@@ -10,7 +10,7 @@
     "solid",
     "imitate",
     "pierce",
-    "rare",
+    "wary",
     "symbol",
     "triumph",
     "prompt"
@@ -33,7 +33,7 @@
     "parts": [
       {
         "title": "The Quiet Trail",
-        "text": "Aanya chose a **route** through the forest that she had never walked before. The morning air was **mild** — cool and calm, with a soft breeze and no clouds. Halfway up the trail, she spotted something **rare**: a golden fox standing between the trees, an animal almost never seen in these woods."
+        "text": "Aanya chose a **route** through the forest that she had never walked before. The morning air was **mild** — cool and calm, with a soft breeze and no clouds. Halfway up the trail, she spotted a golden fox standing between the trees, **wary** and watchful, ready to bolt at the faintest sound."
       },
       {
         "title": "The Strange Discovery",
@@ -116,11 +116,11 @@
       "sentence": ""
     },
     {
-      "word": "rare",
+      "word": "wary",
       "partOfSpeech": "adjective",
-      "meaning1": "Not found or seen very often; uncommon. Example: A white tiger is a rare animal.",
-      "meaning2": "Lightly cooked (for meat). Example: My dad orders his steak rare — barely cooked and still red inside.",
-      "studentChallenge": "Seeing a bald eagle in our town is very ___.",
+      "meaning1": "Careful and watchful because something might be dangerous. Example: The wary rabbit froze when it heard a twig snap.",
+      "meaning2": "Slow to trust someone or something. Example: She was wary of strangers who offered free candy.",
+      "studentChallenge": "The stray cat was ___ around new people, so it hid under the porch.",
       "sentence": ""
     },
     {
@@ -153,7 +153,7 @@
       "questionNumber": 1,
       "sentence1": "The salsa at the restaurant was so _______ that even the little kids could eat it without needing water.",
       "sentence2": "The teacher gave a _______ warning instead of sending anyone to the principal's office.",
-      "options": ["solid", "mild", "rare", "prompt"],
+      "options": ["solid", "mild", "wary", "prompt"],
       "correctIndex": 1,
       "correctAnswer": "mild"
     },
@@ -193,7 +193,7 @@
       "questionNumber": 6,
       "sentence1": "The lake froze into a _______ sheet of ice thick enough to walk on.",
       "sentence2": "The detective had _______ proof that the suspect was lying.",
-      "options": ["rare", "mild", "solid", "prompt"],
+      "options": ["wary", "mild", "solid", "prompt"],
       "correctIndex": 2,
       "correctAnswer": "solid"
     },
@@ -215,11 +215,11 @@
     },
     {
       "questionNumber": 9,
-      "sentence1": "A white tiger is a _______ animal — most people will never see one in the wild.",
-      "sentence2": "My dad always orders his steak _______ — he likes it barely cooked, still red and juicy inside.",
-      "options": ["mild", "rare", "solid", "prompt"],
+      "sentence1": "The stray cat stayed _______ of every stranger, watching them closely before it came near.",
+      "sentence2": "After being tricked once, the fox grew _______ of the open field and checked carefully before stepping out.",
+      "options": ["mild", "wary", "solid", "prompt"],
       "correctIndex": 1,
-      "correctAnswer": "rare"
+      "correctAnswer": "wary"
     },
     {
       "questionNumber": 10,
@@ -241,7 +241,7 @@
       "questionNumber": 12,
       "sentence1": "The fire alarm was enough to _______ everyone to run outside immediately.",
       "sentence2": "Ms. Garcia is always _______ — she starts class at exactly 8:00, not a second late.",
-      "options": ["mild", "solid", "rare", "prompt"],
+      "options": ["mild", "solid", "wary", "prompt"],
       "correctIndex": 3,
       "correctAnswer": "prompt"
     }
@@ -257,12 +257,12 @@
       "solid",
       "imitate",
       "pierce",
-      "rare",
+      "wary",
       "symbol",
       "triumph",
       "prompt"
     ],
-    "passage": "One autumn morning, Mateo planned the _(1)_ he would take through the forest to reach the old stone tower. The weather was _(2)_ — cool and gentle, with a soft breeze and no clouds. Along the path, he spotted something _(3)_: a golden fox, an animal almost never seen in these woods.\n\nMateo had to _(4)_ and hold his breath so he would not scare it away. The fox let out a sharp bark that seemed to _(5)_ the quiet morning air like a blade. Mateo tried to _(6)_ the sound, but his attempt only made him laugh at himself.\n\nDeeper in the woods, he discovered the _(7)_ of an old watchtower — nothing but crumbling walls and fallen stones. One _(8)_ block still stood upright, heavy and strong. Carved into its face was a sun, the _(9)_ of the guardians who once protected the forest. A sign nearby read: Do not remove any stones. Mateo would always _(10)_ to break that rule — he believed in protecting the forest.\n\nWhen he reached the top of the hill, he felt a wave of _(11)_. He had made it. Moments later, a park ranger appeared, _(12)_ as always, arriving right on schedule to guide the hikers back down.",
+    "passage": "One autumn morning, Mateo planned the _(1)_ he would take through the forest to reach the old stone tower. The weather was _(2)_ — cool and gentle, with a soft breeze and no clouds. Along the path, he spotted a golden fox standing between the trees, _(3)_ and watchful, ready to dash away at the faintest sound.\n\nMateo had to _(4)_ and hold his breath so he would not scare it away. The fox let out a sharp bark that seemed to _(5)_ the quiet morning air like a blade. Mateo tried to _(6)_ the sound, but his attempt only made him laugh at himself.\n\nDeeper in the woods, he discovered the _(7)_ of an old watchtower — nothing but crumbling walls and fallen stones. One _(8)_ block still stood upright, heavy and strong. Carved into its face was a sun, the _(9)_ of the guardians who once protected the forest. A sign nearby read: Do not remove any stones. Mateo would always _(10)_ to break that rule — he believed in protecting the forest.\n\nWhen he reached the top of the hill, he felt a wave of _(11)_. He had made it. Moments later, a park ranger appeared, _(12)_ as always, arriving right on schedule to guide the hikers back down.",
     "blanks": [
       {
         "blankNumber": 1,
@@ -272,12 +272,12 @@
       {
         "blankNumber": 2,
         "correctAnswer": "mild",
-        "options": ["rare", "mild", "solid", "prompt"]
+        "options": ["wary", "mild", "solid", "prompt"]
       },
       {
         "blankNumber": 3,
-        "correctAnswer": "rare",
-        "options": ["solid", "prompt", "rare", "mild"]
+        "correctAnswer": "wary",
+        "options": ["solid", "prompt", "wary", "mild"]
       },
       {
         "blankNumber": 4,
@@ -302,7 +302,7 @@
       {
         "blankNumber": 8,
         "correctAnswer": "solid",
-        "options": ["rare", "prompt", "mild", "solid"]
+        "options": ["wary", "prompt", "mild", "solid"]
       },
       {
         "blankNumber": 9,
@@ -322,7 +322,7 @@
       {
         "blankNumber": 12,
         "correctAnswer": "prompt",
-        "options": ["mild", "rare", "solid", "prompt"]
+        "options": ["mild", "wary", "solid", "prompt"]
       }
     ]
   },
@@ -344,8 +344,8 @@
         "vocabPosition": 2
       },
       {
-        "vocabWord": "rare",
-        "scale": ["Unusual", "Uncommon", "Rare"],
+        "vocabWord": "wary",
+        "scale": ["Alert", "Cautious", "Wary"],
         "vocabPosition": 2
       }
     ],
@@ -375,10 +375,10 @@
         "imposterWord": "Liquid"
       },
       {
-        "vocabWord": "rare",
-        "words": ["Uncommon", "Common", "Scarce", "Unusual"],
+        "vocabWord": "wary",
+        "words": ["Cautious", "Careless", "Watchful", "Guarded"],
         "imposterIndex": 1,
-        "imposterWord": "Common"
+        "imposterWord": "Careless"
       },
       {
         "vocabWord": "triumph",

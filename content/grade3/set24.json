@@ -4,14 +4,14 @@
   "words": [
     "discover",
     "proper",
-    "route",
+    "scheme",
     "remain",
     "summary",
     "tower",
     "cylinder",
     "pilgrim",
     "narrow",
-    "compete",
+    "crafty",
     "common",
     "peep"
   ],
@@ -40,12 +40,12 @@
       },
       {
         "title": "Ancient Times",
-        "text": "She landed beside a stone **tower** that seemed to **remain** standing despite centuries of weathering. It was the ancient Indus Valley civilization! A clay **cylinder** seal lay on the ground nearby \u2014 **common** among merchants who used them to stamp their goods. Like a **pilgrim** arriving at a sacred place, Chloe felt a deep sense of wonder. She mapped the **route** back to the machine through the **narrow** streets of the city.",
+        "text": "She landed beside a stone **tower** that seemed to **remain** standing despite centuries of weathering. It was the ancient Indus Valley civilization! A clay **cylinder** seal lay on the ground nearby \u2014 **common** among merchants who used them to stamp their goods. Like a **pilgrim** arriving at a sacred place, Chloe felt a deep sense of wonder. She made a careful **scheme** for getting back to the machine through the **narrow** streets of the city.",
         "wordCount": 76
       },
       {
         "title": "Making Friends",
-        "text": "Amara, a girl about Chloe's age, approached her and began to **compete** in a game of hand signals to communicate. Luna, a younger child, tried to **peep** around Amara's shoulder, too shy to step forward. Chloe smiled and wrote a quick **summary** of who she was in the dirt \u2014 pictures and numbers that felt like a language both girls could understand.",
+        "text": "Amara, a **crafty** girl about Chloe's age, approached her and started a game of hand signals to communicate. Luna, a younger child, tried to peek around Amara's shoulder, too shy to step forward. Chloe smiled and wrote a quick **summary** of who she was in the dirt \u2014 pictures and numbers that felt like a language both girls could understand.",
         "wordCount": 64
       },
       {
@@ -54,7 +54,7 @@
         "wordCount": 71
       }
     ],
-    "wordCount": 263
+    "wordCount": 258
   },
   "definitions": [
     {
@@ -74,11 +74,11 @@
       "sentence": ""
     },
     {
-      "word": "route",
-      "partOfSpeech": "noun",
-      "meaning1": "A way or path from one place to another. Example: We took the fastest route to the airport.",
+      "word": "scheme",
+      "partOfSpeech": "noun/verb",
+      "meaning1": "A clever plan for doing or getting something. Example: The children made a scheme to surprise their dad with breakfast in bed.",
       "meaning2": "",
-      "studentChallenge": "What ___ should we take to avoid traffic?",
+      "studentChallenge": "Our ___ to raise money for the class trip was to wash cars every Saturday.",
       "sentence": ""
     },
     {
@@ -130,11 +130,11 @@
       "sentence": ""
     },
     {
-      "word": "compete",
-      "partOfSpeech": "verb",
-      "meaning1": "To try to win against others. Example: Six teams will compete in the tournament.",
+      "word": "crafty",
+      "partOfSpeech": "adjective",
+      "meaning1": "Clever at getting what you want, often in a sneaky way. Example: The crafty fox found a way to open the chicken coop.",
       "meaning2": "",
-      "studentChallenge": "The students ___ in the science fair every year.",
+      "studentChallenge": "The ___ cat figured out how to open the cupboard to get to the fish.",
       "sentence": ""
     },
     {
@@ -162,7 +162,7 @@
       "options": [
         "cylinder",
         "discover",
-        "compete",
+        "crafty",
         "remain"
       ],
       "correctIndex": 1,
@@ -183,16 +183,16 @@
     },
     {
       "questionNumber": 3,
-      "sentence1": "We took the fastest ___ to the airport, cutting through the back roads to save time.",
-      "sentence2": "What ___ should we take to avoid the traffic jam on the main road?",
+      "sentence1": "The students made a secret ___ to surprise their teacher with a party on her birthday.",
+      "sentence2": "Her ___ for earning enough money to buy the bike was to walk the neighbors' dogs every morning.",
       "options": [
         "common",
         "summary",
         "peep",
-        "route"
+        "scheme"
       ],
       "correctIndex": 3,
-      "correctAnswer": "route"
+      "correctAnswer": "scheme"
     },
     {
       "questionNumber": 4,
@@ -213,9 +213,9 @@
       "sentence2": "The ___ at the end of the chapter pulled together all the key facts in just a few sentences.",
       "options": [
         "summary",
-        "compete",
+        "crafty",
         "pilgrim",
-        "route"
+        "scheme"
       ],
       "correctIndex": 0,
       "correctAnswer": "summary"
@@ -228,7 +228,7 @@
         "common",
         "tower",
         "narrow",
-        "route"
+        "scheme"
       ],
       "correctIndex": 1,
       "correctAnswer": "tower"
@@ -252,7 +252,7 @@
       "sentence2": "Each ___ carried only a small bag on the long, sacred journey to the holy site.",
       "options": [
         "narrow",
-        "compete",
+        "crafty",
         "tower",
         "pilgrim"
       ],
@@ -264,7 +264,7 @@
       "sentence1": "The ___ alleyway between the two buildings was barely wide enough for one person to walk through.",
       "sentence2": "The ___ bridge was so thin that two cars could never cross at the same time.",
       "options": [
-        "route",
+        "scheme",
         "narrow",
         "common",
         "peep"
@@ -274,16 +274,16 @@
     },
     {
       "questionNumber": 10,
-      "sentence1": "Six teams will ___ in the tournament, each hoping to win the championship trophy.",
-      "sentence2": "The students ___ in the school science fair every year by building their best experiments.",
+      "sentence1": "The ___ fox tricked the farmer by pretending to be asleep, then slipped away with a chicken.",
+      "sentence2": "She was ___ enough to hide her notes inside a hollow book, so nobody could ever find them.",
       "options": [
-        "route",
+        "scheme",
         "remain",
-        "compete",
+        "crafty",
         "narrow"
       ],
       "correctIndex": 2,
-      "correctAnswer": "compete"
+      "correctAnswer": "crafty"
     },
     {
       "questionNumber": 11,
@@ -304,9 +304,9 @@
       "sentence2": "He pressed his eye to the keyhole and tried to ___ at the surprise waiting inside.",
       "options": [
         "peep",
-        "route",
+        "scheme",
         "summary",
-        "compete"
+        "crafty"
       ],
       "correctIndex": 0,
       "correctAnswer": "peep"
@@ -317,18 +317,18 @@
     "wordBank": [
       "discover",
       "proper",
-      "route",
+      "scheme",
       "remain",
       "summary",
       "tower",
       "cylinder",
       "pilgrim",
       "narrow",
-      "compete",
+      "crafty",
       "common",
       "peep"
     ],
-    "passage": "Chloe could not wait to _(1)_ what was hidden inside the ancient chest \u2014 she had never found anything like it before. The _(2)_ way to open an old lock was carefully, using the right tools, not forcing it. She mapped out a safe _(3)_ through the dark tunnels, planning her path step by step. The stone walls would _(4)_ standing for centuries, unchanged since they were first built. Chloe wrote a short _(5)_ of her findings \u2014 just the key points \u2014 so her partner could understand quickly. A stone _(6)_ rose at the center of the ruins, so tall it seemed to touch the clouds above. The ancient pot she found was shaped exactly like a _(7)_ \u2014 round and hollow, with two flat ends. Like a faithful _(8)_, she had traveled far on foot to reach this sacred and legendary place. The passageway became so _(9)_ that she had to turn sideways and squeeze through inch by inch. She would _(10)_ with other historians to publish her discovery first. Sparrows \u2014 the most _(11)_ birds in the city \u2014 watched her from a ledge above. She allowed herself just one tiny _(12)_ through the keyhole before stepping back and calling her team.",
+    "passage": "Chloe could not wait to _(1)_ what was hidden inside the ancient chest \u2014 she had never found anything like it before. The _(2)_ way to open an old lock was carefully, using the right tools, not forcing it. She worked out a careful _(3)_ for escaping through the dark tunnels, planning every step. The stone walls would _(4)_ standing for centuries, unchanged since they were first built. Chloe wrote a short _(5)_ of her findings \u2014 just the key points \u2014 so her partner could understand quickly. A stone _(6)_ rose at the center of the ruins, so tall it seemed to touch the clouds above. The ancient pot she found was shaped exactly like a _(7)_ \u2014 round and hollow, with two flat ends. Like a faithful _(8)_, she had traveled far on foot to reach this sacred and legendary place. The passageway became so _(9)_ that she had to turn sideways and squeeze through inch by inch. She was _(10)_ enough to hide her notes from the other historians so she could publish her discovery first. Sparrows \u2014 the most _(11)_ birds in the city \u2014 watched her from a ledge above. She allowed herself just one tiny _(12)_ through the keyhole before stepping back and calling her team.",
     "blanks": [
       {
         "blankNumber": 1,
@@ -352,9 +352,9 @@
       },
       {
         "blankNumber": 3,
-        "correctAnswer": "route",
+        "correctAnswer": "scheme",
         "options": [
-          "route",
+          "scheme",
           "tower",
           "summary",
           "remain"
@@ -366,7 +366,7 @@
         "options": [
           "remain",
           "peep",
-          "compete",
+          "crafty",
           "discover"
         ]
       },
@@ -375,7 +375,7 @@
         "correctAnswer": "summary",
         "options": [
           "summary",
-          "route",
+          "scheme",
           "tower",
           "common"
         ]
@@ -387,7 +387,7 @@
           "tower",
           "cylinder",
           "pilgrim",
-          "route"
+          "scheme"
         ]
       },
       {
@@ -397,7 +397,7 @@
           "cylinder",
           "common",
           "narrow",
-          "route"
+          "scheme"
         ]
       },
       {
@@ -405,7 +405,7 @@
         "correctAnswer": "pilgrim",
         "options": [
           "pilgrim",
-          "route",
+          "scheme",
           "cylinder",
           "tower"
         ]
@@ -422,9 +422,9 @@
       },
       {
         "blankNumber": 10,
-        "correctAnswer": "compete",
+        "correctAnswer": "crafty",
         "options": [
-          "compete",
+          "crafty",
           "proper",
           "discover",
           "remain"
@@ -445,7 +445,7 @@
         "correctAnswer": "peep",
         "options": [
           "peep",
-          "compete",
+          "crafty",
           "discover",
           "pilgrim"
         ]
@@ -473,11 +473,11 @@
         "vocabPosition": 1
       },
       {
-        "vocabWord": "route",
+        "vocabWord": "scheme",
         "scale": [
-          "path",
-          "route",
-          "course"
+          "idea",
+          "scheme",
+          "plot"
         ],
         "vocabPosition": 1
       },
@@ -548,15 +548,15 @@
         "imposterWord": "wide"
       },
       {
-        "vocabWord": "compete",
+        "vocabWord": "crafty",
         "words": [
-          "cooperate",
-          "contest",
-          "rival",
-          "challenge"
+          "sly",
+          "cunning",
+          "clever",
+          "naive"
         ],
-        "imposterIndex": 0,
-        "imposterWord": "cooperate"
+        "imposterIndex": 3,
+        "imposterWord": "naive"
       },
       {
         "vocabWord": "common",
